@@ -35,3 +35,4 @@ Grille de lecture marxiste assumée. Utilise le [[Graphique]] pour projeter les 
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — React avec [[Dr Zoe]] au calculateur de la passe maritale de [[Marc]] (masculiniste "Terre des hommes libres")
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — 1000e vidéo, procès du miniaturiste [[Magne]], débat sur propagande, fémonationalisme, IA et travail
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — React aux Grandes Gueules post-10 septembre, lecture du passage du Manifeste sur le socialisme petit-bourgeois, démonstration live du Graphique sur les appelants
+- [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Exposition du dispositif opérationnel On ne veut plus (kits, [[Binome paritaire|binômes paritaires]], caisse de lutte) et de sa logique politique : [[Catalyser vs capter]] le mouvement, être "comme un poisson dans l'eau" (Mao), adapter le mode de travail militant au moment politique.
