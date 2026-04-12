@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("Individus")
+    order:
+      - file.name
+      - date created
+      - date modified
+      - file.tags
+    sort:
+      - property: date created
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      note.date created: 288

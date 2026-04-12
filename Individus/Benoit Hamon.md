@@ -1,0 +1,25 @@
+---
+type: individu
+domaine: [politique-intérieure]
+thèmes: [élections]
+statut: ébauche
+aliases: [Hamon, Benoît Hamon]
+date created: Wednesday, April 1st 2026, 12:29:55 am
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/politique-intérieure #thème/élections
+# Benoît Hamon
+
+## Profil synthétique
+Candidat [[Parti Socialiste|PS]] à la présidentielle 2017, ancien ministre de l'Éducation.
+
+## Analyse PaduTeam
+Sur le [[Graphique]], Hamon occupe le même espace que [[Yannick Jadot]] en 2022 — pile au même endroit, dans l'espace des catégories diplômées et confortables. C'est le "remplaçant de Benoît Hamon" selon [[Chris]], illustrant la stabilité sociologique de l'électorat vert/PS de gauche : toujours les mêmes PCS, toujours le même espace.
+
+## Relations
+- [[Génération.s]] — fondateur, parti créé après la présidentielle 2017
+- [[Benjamin Lucas]] — "bras droit", figure associée à son parti
+
+## Vidéos où l'individu est analysé
+- [[Faut-il en finir avec le NFP]]
+- [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Son bras droit Benjamin Lucas y est "atomisé" par un artisan BTP sur BFM TV

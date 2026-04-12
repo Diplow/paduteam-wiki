@@ -1,0 +1,87 @@
+---
+type: concept
+domaine: [politique-intérieure]
+thèmes: [guerre-des-gauches, élections]
+statut: développé
+aliases: [noisette, noisettes, noisette politique, royaume des noisettes]
+date created: Thursday, April 2nd 2026, 12:11:11 am
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
+
+# Noisettes
+
+## Définition
+Les "noisettes" sont les forces politiques coincées entre [[France Insoumise]] et [[Parti Socialiste]], cherchant à en faire la synthèse plutôt que de choisir un camp. Le terme vient de l'image du Casse-Noisette : pris entre les deux pinces (LFI à gauche, PS à droite), ces forces se font literalement broyer.
+
+## Le royaume des noisettes (cadre narratif des Seigneurs)
+Dans la saga "Les Seigneurs des Noisettes", la PaduTeam organise le paysage en plusieurs "maisons" :
+
+- **Maison Picarde** (nord) — armoirie de la betterave, dominée par [[Francois Ruffin]] "roi des noisettes"
+- **Maison Renéga** (ouest) — peuplée des ex-FI : [[L'Après]], [[Clémentine Autain]], [[Raquel Garrido]], [[Alexis Corbière]]
+- **Maison Douceur** (est) — tisanes et potage poireaux, dominée par "la reine des noisettes" [[Marine Tondelier]] et [[Europe Ecologie Les Verts]]
+- **Maison Saucisson** (sud) — ancien fer de lance communiste, aujourd'hui [[Parti Communiste Francais]] / [[Fabien Roussel]]
+
+À l'est du royaume : le "royaume Solferino" ([[Parti Socialiste]]) — vieux royaume en déliquence qui cherche à se remettre en selle.
+
+## Mécanisme
+Une noisette est quelqu'un qui croit pouvoir se positionner entre les deux forces structurantes (LFI et PS) et en faire la synthèse. En réalité, ces forces représentent deux espaces de classe différents et irréconciliables sur le [[Graphique]]. Les noisettes ne peuvent que :
+1. Réussir la [[Primaire des noisettes]] — ce qui ne leur donne pas pour autant les moyens d'une candidature crédible
+2. Se faire broyer par les deux blocs au premier tour de la présidentielle
+
+Les noisettes concassées (encore un peu visibles) vs l'[[Huile de noisette]] (complètement anéanties) représentent deux degrés du même destin.
+
+## La [[Guerre des gauches]] vue des noisettes
+Les partisans des noisettes sont souvent des "unité-istes" — ils réclament l'union à tout prix, peu importe le programme. La PaduTeam y voit une confusion : l'union arithmétique ne suffit pas, il faut que le programme soit de rupture pour transformer réellement la société.
+
+## Crise post-municipales 2026
+
+Les municipales 2026 accélèrent la mort des noisettes. Padu dans [[MUNICIPALES CE QU'IL FAUT RETENIR]] : "Des noisettes, des noisettes de l'Union, ça va de je sais pas à Tondelier, à Fort, à Ruffin, à Hautin, d'autres clowns dont on parlera pas. Tout ça, ça n'existe pas et ça ne devrait pas exister."
+
+- [[Marine Tondelier]] convoque une réunion de crise : la primaire des noisettes est morte, les élections l'ont prouvé
+- [[Francois Ruffin]] cité dans la liste des déchus
+- La "maison Douceur" (EELV) perd ses villes — Bordeaux, Strasbourg, Poitiers
+
+La [[Primaire des noisettes]] ne tient plus : "tout dit le contraire d'aller à la primaire." Les forces qui avaient besoin de la primaire pour exister viennent d'être broyées électoralement.
+
+## La noisette gaulliste
+Villepin représente une variante particulière : la "noisette gaulliste". Elle se distingue par le discours "au-dessus des partis" hérité de la tradition gauliste de la [[5e République]]. Prise dans un quadruple casse-noisette (Retailleau, PS, RN, Mélenchon), elle finit en "huile de noisette" — "tu vas finir à décorer des salades pour bobo."
+
+## Les noisettes face au 10 septembre 2025
+
+PS (Faure) et EELV (Tondelier) appellent au 10 septembre — mais sans en profiter politiquement. La PaduTeam : "Si ça fonctionne, à qui ça va servir ? Quel débouché politique ? Ce sera Mélenchon." Et si ça ne fonctionne pas, ça sert Glucksmann. "Dans tous les cas ça ne servira pas à Olivier Faure ou à Tondelier."
+
+Les noisettes ont deux possibilités de survie — toutes deux dépendantes : rejoindre Glucksmann en second couteau, ou être satellisées par Mélenchon. "Il n'y a aucun espace où ils peuvent imprimer leur leadership."
+
+## Festival de noisettes : le Front Populaire 2027
+
+La conférence de presse du [[Front Populaire 2027]] du 2 juillet 2025 est qualifiée de "festival de noisettes" — l'image la plus dense du concept. En un seul événement, on trouve :
+- La noisette institutionnelle ([[Lucie Castets]] — "noisette caviare")
+- La noisette écolo ([[Marine Tondelier]])
+- La noisette picard ([[François Ruffin]])
+- La noisette traître ([[Clémentine Autain]])
+- La noisette molle ([[Olivier Faure]])
+
+Ce rassemblement incarne exactement la mécanique noisette : chaque composante croit pouvoir s'imposer comme synthèse des deux blocs (LFI / Glucksmann), alors qu'en réalité aucune ne représente un espace de classe cohérent.
+
+## Les déclinaisons de la noisette : bio, locale, fair trade
+
+Padu et Chris déclinent le terme selon la variante marketing de chaque noisette :
+- **Noisette industrielle** : la noisette classique (ex: [[Francois Ruffin]])
+- **Noisette bio** : [[Marine Tondelier]] — étiquette écolo, rhétorique verte, mais même mécanique d'écrasement
+- **Noisette locale** : revendique l'ancrage territorial
+- **Noisette fair trade** : se positionne comme alternative éthique à la politique traditionnelle
+
+Toutes ces déclinaisons partagent le même discours fondamental : "la menace fasciste est aux portes du pouvoir, faisons l'union." Aucune n'analyse pourquoi l'extrême droite grandit (les 40 ans de renoncements de la gauche).
+
+## Vidéos clés
+- [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
+- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Annonce officielle novembre 2025 : les noisettes se lancent sans Mélenchon ni Glucksmann. Réunions secrètes PS-Attal révèlent la vraie stratégie anti-LFI derrière la façade unitaire. Prédiction : le candidat noisette sera le "Jospin 2002" à 16%.
+- [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Crise post-municipales : Tondelier en réunion de crise, Ruffin et Fort dans la liste des noisettes en déroute. Primaire des noisettes officiellement morte.
+- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — La "noisette gaulliste" : Villepin lancé dans un quadruple casse-noisette, prédit à 3-4%
+- [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — PS et EELV coincés : s'ils soutiennent le 10 septembre et que ça marche, Mélenchon capitalise ; sinon, c'est Glucksmann qui profite. "Aucun espace où ils peuvent imprimer leur leadership."
+- [[Graphiked/Graphiked/videos/L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]] — Festival de noisettes : la conférence FP2027 du 2 juillet 2025. Toutes les variantes de noisettes en un seul événement, démonstration par l'absurde que l'union arithmétique ne fait pas de politique.
+- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analyse des noisettes (Ruffin, Tondelier, Fort) dans le contexte de la primaire ; Tondelier = "Nathalie Arto des gens en haut au milieu dans le graphique" ; les noisettes seront condamnées aux candidatures de témoignage ; analogie culinaire (mélanger couscous+raclette+cassoulet = immangeable)
+- [[RUFFIN LANCE SON PARTI DEBOUT]] — Lancement de [[Debout]], candidature noisette commune à 6,1% avec [[L'Après]] et Génération. "La tournée des bours et des tours Michel Sardou." Universités d'été communes = rassemblement des losers noisettes
+- [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" : déclinaison bio de la noisette classique. Même discours que toutes les noisettes sur la menace fasciste, sans analyser les renoncements de la gauche qui ont fabriqué le terreau de l'extrême droite.

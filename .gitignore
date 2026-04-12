@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# Claude Code
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store

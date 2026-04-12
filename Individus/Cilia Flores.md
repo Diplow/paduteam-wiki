@@ -1,0 +1,21 @@
+---
+type: individu
+domaine: [géopolitique]
+thèmes: [Venezuela]
+statut: ébauche
+aliases: [Silvia Flores, Silvia Florest]
+date created: Tuesday, March 31st 2026, 9:51:17 pm
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/géopolitique #thème/Venezuela
+# Cilia Flores
+
+## Profil synthétique
+Épouse de [[Nicolas Maduro]], kidnappée en même temps que lui le 3 janvier 2026. Détenue au centre de détention de Brooklyn, accusée de narcotrafic. Son avocat demande un examen médical, le juge dit qu'il "étudiera la possibilité". Le juge refuse qu'elle soit désignée comme "première dame" lors du procès.
+
+## Relations
+- [[Nicolas Maduro]] — époux
+- [[Alvin Hellerstein]] — juge du procès
+
+## Vidéos où Cilia Flores est analysée
+- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]

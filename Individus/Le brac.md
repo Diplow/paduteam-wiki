@@ -1,0 +1,21 @@
+---
+type: individu
+domaine: [société]
+thèmes: [médias-propagande]
+aliases: []
+statut: ébauche
+---
+#domaine/société #thème/médias-propagande
+
+# Le brac
+
+## Profil synthétique
+YouTubeur qui a eu accès à la conversation complète entre [[Kroc Blanc]] et [[Mila]] dans laquelle Kroc Blanc lui envoyait des messages à caractère sexuel harcelants. A confirmé publiquement l'authenticité de la conversation sur le stream de [[Zoclo]] ("c'est littéralement lui qui m'a envoyé la photo, j'ai eu accès à l'entièreté de la conversation").
+
+## Relations
+- [[Kroc Blanc]] — détient des preuves de son comportement harcelant envers Mila
+- [[Mila]] — lui a envoyé les screenshots de la conversation
+- [[Zoclo]] — a fait cette déclaration sur son stream
+
+## Vidéos où Le brac est mentionné
+- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]

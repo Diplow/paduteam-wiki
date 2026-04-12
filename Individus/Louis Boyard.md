@@ -1,0 +1,19 @@
+---
+type: individu
+nom: Louis Boyard
+rôle: Député LFI
+affiliations: [France Insoumise]
+domaine: [politique-intérieure]
+thèmes: [guerre-des-gauches]
+statut: ébauche
+apparitions: ["[[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]]"]
+---
+#domaine/politique-intérieure #thème/guerre-des-gauches
+
+# Louis Boyard
+
+Député [[France Insoumise]], élu jeune, connu pour ses interventions percutantes à l'Assemblée. Classé "antiflic" dans la cartographie [[Frontière]].
+
+## Regard de la PaduTeam
+
+Padu note que Boyard "a ce truc de faire rager l'extrême droite" et que ça "les fait marrer" — il assume ce rôle de cible des droitards et en joue. La PaduTeam ne le juge pas particulièrement antiflic dans le sens militant du terme, mais comprend pourquoi l'extrême droite le déteste.

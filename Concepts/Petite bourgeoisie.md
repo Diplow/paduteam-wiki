@@ -1,0 +1,53 @@
+---
+type: concept
+domaine: [théorie, économie]
+thèmes: [travail]
+statut: ébauche
+aliases: [petite bourgeoisie, petit-bourgeois, petits bourgeois, petits-bourgeois]
+date created: Wednesday, April 1st 2026, 5:56:20 pm
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/théorie #domaine/économie #thème/le-Graphique #thème/travail
+
+# Petite bourgeoisie
+
+## Définition
+Classe sociale définie par la PaduTeam comme l'ensemble des individus qui détiennent un capital propre qu'ils exploitent eux-mêmes. Le petit-bourgeois "est son propre bourgeois" : il possède ses moyens de production, fabrique de la plusvalue, peut revendre son entreprise. Cela le distingue radicalement du salarié, même à revenu égal.
+
+## Caractéristiques structurelles
+- **Détention de capital** : l'artisan possède son entreprise, peut la faire fructifier et la revendre
+- **Augmentation automatique** : si le chiffre d'affaires monte, le revenu monte automatiquement (contrairement au salarié qui reste tributaire de sa hiérarchie)
+- **Fabrication de plusvalue** : même un plombier seul fabrique de la plusvalue par son activité
+- **Auto-exploitation** : le petit-bourgeois travaille souvent plus que les salariés (45-60h/semaine), mais dans un rapport de production qui structure une mentalité bourgeoise
+
+## Structures mentales
+Malgré un travail réel et parfois un revenu modeste (certains artisans au SMIC), les rapports de production de la petite bourgeoisie produisent systématiquement :
+- Opposition à la hausse des impôts et cotisations
+- Opposition à la hausse du SMIC (ça diminue leur revenu)
+- Vision du travail comme mérite individuel
+- Vote à droite de manière structurelle
+
+Aucun artisan ne réclame des hausses d'impôts sur les sociétés. C'est une "impossibilité idéologique" produite par le rapport de production, peu importe le niveau de revenu.
+
+## Erreur courante : "ils travaillent, donc ils sont de notre côté"
+La PaduTeam critique fermement l'idée que les artisans seraient des alliés du prolétariat parce qu'ils travaillent dur. Travailler beaucoup ne change pas le rapport de production. L'artisan au SMIC a un rapport à l'impôt, au SMIC et à l'héritage totalement différent du salarié au SMIC. Essayez de faire passer le programme de Mélenchon à un artisan : le rapport de production l'empêche structurellement d'y adhérer.
+
+## Lien avec le [[Graphique]]
+Sur le [[Graphique]], les petits-bourgeois (artisans, commerçants, indépendants) se positionnent dans l'espace réactionnaire malgré des revenus parfois modestes. C'est la preuve que le [[Graphique]] classe par [[Rapports de production]] et non par niveau de revenu.
+
+## Goldmann sur la petite bourgeoisie
+[[Lucien Goldmann]] expliquant [[Karl Marx|Marx]] contre Proudhon : la petite bourgeoisie est incapable de comprendre que le bon et le mauvais côté du capitalisme sont "deux aspects d'une même fonctionnalité et d'une structuration globale". Elle est dans l'"affectif", oscille entre bourgeoisie et prolétariat, et finit par rejoindre la classe en position dominante.
+
+## Lien structurel avec le [[Lumpenproletariat]]
+La PaduTeam établit un lien structural entre lumpen et petite bourgeoisie : dans les deux cas, fragmentation individuelle, incapacité à construire un collectif, logique de "se vendre au plus offrant". La petite bourgeoisie est toutefois plus réactionnaire car elle a plus à perdre (patrimoine).
+
+## Sous-catégorie : [[Petite bourgeoisie stato-notabilière]]
+Médecins, notaires, avocats — petite bourgeoisie dont le privilège repose sur un diplôme d'état et un marché faussé par la puissance publique. Plus archaïque et plus arrogante que la petite bourgeoisie libérale classique.
+
+## [[Continuum de classe]]
+Il y a un continuum entre petite bourgeoisie et grande bourgeoisie (même rapport à la propriété et à la concurrence), mais une rupture de nature avec le prolétariat. C'est pour cela qu'on parle de "petite" bourgeoisie : elle fait partie du même continuum idéologique.
+
+## Vidéos
+- [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Démonstration systématique : artisan vs salarié à même revenu, impossibilités idéologiques, "vous êtes votre propre bourgeois"
+- [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — L'artisan de BFM TV comme cas d'école de la fausse conscience petite-bourgeoise ; développement du continuum, du capital techno-scolaire, de la petite bourgeoisie stato-notabilière
+- [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — Trois cas d'école en direct (artisan, VTC, expert-comptable) ; Marx sur le socialisme petit-bourgeois ; le chauffeur VTC racisé sans déboucher politique

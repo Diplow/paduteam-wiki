@@ -1,0 +1,53 @@
+---
+type: vidéo
+domaine: [théorie, société]
+thèmes: [marxisme, capitalisme, trajectoires-politiques]
+format: paye-ton-droitard
+enjeux: []
+intervenants: [Padu, Chris]
+statut: ébauche
+---
+#domaine/théorie #domaine/société #thème/marxisme #thème/capitalisme
+
+# FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)
+
+## Résumé
+Padu et Chris réagissent à un extrait d'un live de 5h38 de Géopolitique Profonde où Soral traite Padu de "petit merdeux inculte" après que Padu l'a qualifié de proudonien petit-bourgeois. Le react devient l'occasion d'un démontage systématique de l'économie politique de Soral (économie mixte gaulliste = programme des Républicains), de sa méconnaissance de Clouscard qu'il prétend maîtriser, et de ses procédés rhétoriques (logoré, arguments d'autorité sans fond).
+
+## Thèses et analyses clés
+
+1. **Soral est un maître de la [[Logorrhée]], pas du Logos** — Il empile des concepts qu'il ne maîtrise pas (classe contre classe, métamorphose des classes, dialectique égéliano-marxiste) pour produire un flux de parole séducteur. Sa boutique tourne parce que la fascination fonctionne sur un public pas très politisé, pas parce que le contenu tient.
+
+2. **L'économie politique de Soral = programme des Républicains** — Sa défense de l'économie mixte (régalien socialisé + petits patrons libres) est mot pour mot ce que dit Xavier Bertrand. Ce n'est pas du marxisme, ni même du gaullisme sérieux — c'est le programme macroniste ou LR réhabillé en "réel". Padu : "quand tu dis ça tu ne dis rien."
+
+3. **Soral est un [[Capitalisme boutiquier|boutiquier]]** — Toute sa vie, il a essayé d'échapper au monde de la production concrète (milieux parisiens, édition érotique, conseil en drague, boutique Égalité et Réconciliation). Quand il parle d'"économie réelle", il parle d'un monde auquel il a passé sa vie à se soustraire.
+
+4. **Soral n'a pas lu Clouscard** — Il cite *Les métamorphoses des classes* pour défendre la petite bourgeoisie. Clouscard y fait exactement l'inverse : il montre que le [[Salariat generalise|salariat généralisé]] représente 90% de la population et que c'est le nouveau sujet révolutionnaire. Le concept central du livre (le prolétariat généralisé) condamne structurellement la position de Soral.
+
+5. **Le gaullisme comme néolibéralisme** — Padu requalifie le gaullisme : pas un âge d'or à regretter, mais une forme de néolibéralisme né avec le [[Congrès Lippmann]] (1938). L'économie mixte gaulliste n'est pas en rupture avec le néolibéralisme — elle en est une variante technocratique qui a conduit mécaniquement à Giscard puis au démantèlement des années 80.
+
+6. **[[Idéalisme fixiste]] de Soral** — Soral idéalise la période gaulliste comme si le passage au néolibéralisme thatchérien était une décision prise par des individus (PCH en 68, CIA...), pas le produit de forces productives et de rapports de classe. C'est de l'idéalisme pré-hégélien, pré-marxiste : expliquer l'histoire par des volontés individuelles, pas par le développement des contradictions matérielles.
+
+7. **Dialectique égélienne ≠ dialectique marxiste** — Soral parle de "dialectique égaliano-marxiste" comme si c'était la même chose. C'est une erreur fondamentale que Marx lui-même rectifie dès 1843 (*Critique de la philosophie du droit de Hegel*) : la dialectique marxiste part de "la logique spéciale de l'objet spécial", pas de l'analyse logique du concept.
+
+8. **[[Classe contre classe]] mal utilisé** — Soral invoque la stratégie "classe contre classe" du Komintern pour parler de la complexification des classes. Padu : ce concept désigne la stratégie de Staline (1926-1935) — offensive dans les termes, défensive dans les faits (protéger la révolution russe sans irriter les bourgeoisies occidentales). Rien à voir avec la thèse de Clouscard sur le salariat généralisé.
+
+9. **Le [[Graphique]] défendu contre Soral** — Soral accuse Padu de rester dans le fixisme marxiste des années 1840-1870. Réponse de Chris et Padu : le Graphique fait exactement l'inverse — il repart des nomenclatures PCS INSEE pour montrer qu'il y a toujours des classes fondamentales en France, et que le salariat généralisé (90% de la population) est plus hégémonique que jamais. C'est Soral le fixiste, pas eux.
+
+## Résultats / projections
+Pas de chiffres ni sondages — vidéo entièrement théorique et polémique.
+
+## Individus mentionnés
+[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Francis Cousin]], [[Christopher Lasch]], [[Pierre-Joseph Proudhon]], [[Lucien Goldmann]], [[Georg Lukacs]], [[Serge Mallet]], [[Alain Bihr]], [[Charles de Gaulle]], [[Valery Giscard d'Estaing]], [[Xavier Bertrand]], [[Edouard Philippe]], [[Jean-Luc Mélenchon]], [[Jean-Marie Le Pen]], [[Marine Le Pen]], [[Georgi Dimitrov]], [[Nikolaï Boukharine]], [[Jacques Rueff]], [[Jean-Claude Michéa]]
+
+## Organisations mentionnées
+[[Positions Revue]], [[Egalite et Reconciliation]], [[Geopolitique Profonde]], [[Parti Communiste Francais]], [[France Insoumise]], [[Les Republicains]]
+
+## Concepts mobilisés
+[[Logorrhée]], [[Capitalisme boutiquier]], [[Salariat generalise]], [[Classe contre classe]], [[Congrès Lippmann]], [[Neoliberalisme]], [[Petite bourgeoisie]], [[Travailleur collectif]], [[Pensee idealiste vs materialiste]], [[Graphique]]
+
+## Enjeux avancés
+[[Graphique]] — Padu défend le Graphique contre l'accusation de fixisme de Soral : c'est exactement l'inverse, le Graphique repart des données empiriques contemporaines pour montrer que les classes fondamentales existent toujours.
+
+## Transcript
+[[FURAX, SORAL M'INSULTE  PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]]

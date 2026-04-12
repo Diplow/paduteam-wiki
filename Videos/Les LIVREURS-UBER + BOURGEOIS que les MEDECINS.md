@@ -1,0 +1,50 @@
+---
+type: vidéo
+domaine: [théorie, économie]
+thèmes: [travail]
+format: analyse
+enjeux: []
+statut: ébauche
+intervenants: [Padu, Chris]
+date created: Wednesday, April 1st 2026, 5:55:03 pm
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/théorie #domaine/économie #thème/le-Graphique #thème/travail
+
+# Les LIVREURS-UBER + BOURGEOIS que les MÉDECINS ? (@pasduhring X Chris)
+
+## Résumé
+Capsule spéciale issue d'un live où Padu et Chris répondent à des questions du chat sur les classes sociales. Le fil directeur : pourquoi la catégorie socio-professionnelle (rapport de production) prime sur le patrimoine possédé pour comprendre la vision du monde des gens. Exemples développés : artisans, livreurs Uber, médecins, auto-entrepreneurs, streamer. Chris et Padu martèlent la distinction fondamentale entre le [[Graphique]] (classement par [[Rapports de production]]) et l'approche de Bourdieu (classement par capitaux cumulés).
+
+## Thèses et analyses clés
+
+1. **[[Rapports de production]] > patrimoine** — Ce qui structure les mentalités et le vote, c'est la manière dont on gagne son argent, pas le montant possédé. Un ouvrier et un patron avec 200 000 € de patrimoine chacun n'ont pas les mêmes structures mentales. L'ouvrier ne réclamera jamais la suppression d'une semaine de congé payé ; le patron si.
+
+2. **Distinction Graphique vs Bourdieu** — Le [[Graphique]] classe par rapports de production (comment on accumule le capital). Bourdieu classe par volume de capitaux accumulés. Un salarié à 3 000 € et un artisan à 3 000 € sont dans la même case chez Bourdieu, mais dans des classes totalement différentes pour la PaduTeam. Chris tacle Bourdieu : son graphique est "beaucoup moins sérieux" car il n'y a "aucune data derrière".
+
+3. **[[Petite bourgeoisie]] des artisans** — Les artisans sont des petits-bourgeois même s'ils travaillent plus que certains ouvriers et gagnent parfois le SMIC. Leur rapport de production (propriétaire de leur capital, auto-exploitation, possibilité de revendre l'entreprise, augmentation automatique si le chiffre d'affaires monte) crée des structures mentales bourgeoises. Résultat : les artisans votent systématiquement pour moins d'impôts, quel que soit leur revenu.
+
+4. **[[Salariat archaique]] des livreurs Uber** — Les livreurs Uber ne détiennent aucun capital. Le vrai moyen de production est l'application, pas le vélo. Sans l'appli, le même vélo/téléphone/sac ne produit rien. C'est du "tâcheronnage" qui rappelle le début du salariat décrit par Marx, Steinbeck, Dickens, Balzac : on arrive avec son marteau, on réclame ses heures. Le néolibéralisme fait revenir à cette forme archaïque en détruisant le salariat organisé et syndicalisé. La directive européenne portée par [[Leila Chaibi]] (FI) a fait reconnaître ce statut de salarié.
+
+5. **Auto-entrepreneur : terme piège** — Recouvre deux réalités opposées : le vrai indépendant qui détient un capital (peut le faire fructifier, le revendre) et le salarié déguisé (livreur Uber) qui n'a rien à revendre. Le statut d'auto-entrepreneur masque cette différence de classe fondamentale.
+
+6. **Médecins : position de passage** — Un médecin libéral comme [[Dr Zoe]] ne détient pas de capital au sens capitaliste : pas d'entreprise à revendre, patientèle non cessible (contrairement au pharmacien). Le tarif est réglementé par la Sécu, ce qui "fonctionnarise" en quelque sorte. Mais les revenus élevés permettent d'acquérir du capital (locatif, investissements) et de basculer vers la bourgeoisie. Certains médecins réclament le secteur 3 pour devenir "plus bourgeois".
+
+7. **Fonctionnarisation comme horizon progressiste** — Position défendue par la PaduTeam pour la médecine : un salaire fixe (ex: 5 000 €) toute la vie libère l'esprit de l'obsession d'accumulation. Le fonctionnaire ne se demande pas comment gagner plus, il se concentre sur soigner. Le fonctionnariat produit aussi un rapport au travail différent de celui du salariat privé ou du capitalisme.
+
+8. **[[Alienation de la bourgeoisie]]** — La bourgeoisie est la classe la plus aliénée par le capitalisme selon Marx. Elle est incapable de comprendre l'exploitation qu'elle perpétue. Le prolétariat est potentiellement révolutionnaire car il *peut* s'extirper de la vision bourgeoise, ce que la bourgeoisie ne peut pas. L'accumulation du capital fonctionne "comme le casino" : locatif → un autre locatif → un troisième → infini.
+
+9. **Jeunes générations comme cible stratégique** — Les étudiants en médecine ou en ingénierie ne sont pas encore dans les rapports de production qu'ils occuperont. C'est le moment de les politiser. Un interne à 1 800 € est beaucoup plus réceptif aux idées progressistes que le même individu à 8 000 € avec trois locatifs. Le travail idéologique doit cibler cette fenêtre.
+
+10. **Erreur statistique individuelle** — Marx enseigne : partir de l'abstrait au concret, jamais de soi-même. Les individus qui ne correspondent pas à leur classe sont des "erreurs statistiques". En masse, les artisans votent pour moins d'impôts, les ouvriers pour des intérêts prolétaires. Les parcours individuels (biographie, famille) peuvent faire exception, mais ne changent rien à la dynamique de masse.
+
+11. **Retraités et droitisation** — En accumulant du capital au fil de la carrière, même les ouvriers retraités se droitisent. La retraite est une rente à défendre, ce qui crée un conservatisme structurel. Sur le [[Graphique]], les retraités glissent vers le bas-droite.
+
+## Individus mentionnés
+[[Padu]], [[Chris]], [[Dr Zoe]], [[Jean-Luc Melenchon]], [[Leila Chaibi]], [[Philippe Poutou]], [[Bad Mulch]], [[Lucien Goldmann]]
+
+## Organisations mentionnées
+[[PaduTeam]], [[La Breche]], [[Positions Revue]], [[France Insoumise]]
+
+## Concepts mobilisés
+[[Graphique]], [[Rapports de production]], [[Petite bourgeoisie]], [[Salariat archaique]], [[Alienation de la bourgeoisie]], [[Fetichisme de la marchandise]], [[Neoliberalisme]]

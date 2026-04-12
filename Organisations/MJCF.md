@@ -1,0 +1,38 @@
+---
+type: organisation
+domaine: [politique-intérieure]
+thèmes: []
+statut: ébauche
+aliases: [Mouvement des jeunes communistes de France]
+date created: Wednesday, April 1st 2026, 12:47:24 am
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/politique-intérieure
+# MJCF
+
+## Profil
+Mouvement des jeunes communistes de France — organisation de jeunesse du [[Parti Communiste Francais]]. Forme les cadres du PCF et porte ses positions auprès de la jeunesse.
+
+## Position prohibitionniste sur le cannabis
+Le MJCF a une position officielle contre la légalisation du cannabis, considérant que la légalisation ne fait pas baisser la consommation ni le trafic. Cette position a généré un bad buzz quand Lena R (secrétaire nationale de l'[[UEC]], également au MJCF) a répondu publiquement à Antoine Léoman en affirmant que les addictions aux stupéfiants ne seront "jamais une émancipation" et que les jeunes veulent des études et un emploi digne, pas être "contraints au deal".
+
+La PaduTeam critique cette position comme scientifiquement fausse (caricature des effets du cannabis, amalgame usage/addiction), moralement hygiéniste (reproduit le schéma dénoncé par [[Antonio Gramsci|Gramsci]] — vouloir des jeunes "qui se tiennent droit" pour la révolution), et stratégiquement absurde (les jeunes pro-pénalisation sont dans l'espace réactionnaire du [[Graphique]], pas dans la base naturelle du PCF). Quand les militants du MJCF se font soutenir par des militantes identitaires d'extrême droite et tapent sur les camarades de gauche, la PaduTeam y voit un signal d'alarme.
+
+## MJCF contre Roussel : la contradiction interne au PCF
+
+La PaduTeam voit les MJCF comme la partie la plus adéquate du PCF — ceux qui comprennent les transformations sociales (antiracisme, féminisme, islamophobie) contrairement à l'appareil Roussel. Chris : "S'il y a aujourd'hui une orga satellite qui est puissante et intéressante et adéquate à la situation concrète, c'est beaucoup plus les MJCF que le PCF aujourd'hui."
+
+Des sections MJCF (notamment la MJCF du Nord/59) ont publié des fils Twitter pour dénoncer les sorties de Roussel sur CNews. La jeunesse communiste déteste Roussel "en masse" — ce qui prive le PCF de son réservoir de militants futurs.
+
+Au dernier congrès, les MJCF voulaient que le PCF utilise le terme "islamophobie" dans ses textes officiels. La direction Roussel a imposé "racisme antimusulman" — symbole de la ligne droitière qui éloigne la jeunesse.
+
+## Factions internes : JC radicales vs JC nationale rousselliste
+
+La structure nationale des JC est "cadenassée" par le PCF et reste rousselliste — c'est la direction nationale qui parle au nom des JC, même quand les bases locales ne le sont pas. Les JC les plus radicales (JC Nord/59, JC Loire, JC Vienne entre autres) ont des lignes de rupture proches de celles de la PaduTeam — antiracisme, féminisme, soutien à LFI — mais n'arrivent pas à prendre le pouvoir au niveau national. Le vote représentant d'une JC peut être rousselliste même si la moitié de la section ne l'est pas.
+
+Padu distingue : "Vous allez avoir des JC assez radicales avec une ligne réellement communiste qui se rapproche de la mienne, et le national des JC qui est plutôt cadenassé par le PCF et qui est plutôt rousselliste."
+
+## Vidéos où le MJCF est analysé
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique de la position prohibitionniste du MJCF
+- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Présentés comme la frange adéquate du PCF, en rupture avec Roussel sur l'islamophobie.
+- [[LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Détail des factions internes : JC radicales (JC Nord, Loire, Vienne) vs direction nationale rousselliste. Les militantes JC roussellistes y sont critiquées pour leur ligne "être large" et leur refus de nommer le racisme.

@@ -1,0 +1,26 @@
+---
+type: concept
+domaine: [théorie]
+thèmes: []
+aliases: [robinsonade]
+statut: ébauche
+---
+#domaine/théorie
+
+# Robinsonade
+
+## Définition
+Terme utilisé par [[Karl Marx]] dans *Le Capital* pour critiquer les fictions de l'économie politique classique qui imaginent un individu isolé (type Robinson Crusoé) comme point de départ de l'analyse sociale. Pour la PaduTeam, c'est l'erreur fondamentale de toute pensée libérale et libertarienne : croire que l'individu est premier et la société une contrainte extérieure.
+
+## Mécanisme
+La robinsonade inverse le rapport réel : ce sont les sociétés qui sont premières, et l'individu n'émerge que dans certains états des forces productives. Pour qu'il y ait la possibilité de se penser comme individu libre, il faut une société capable de laisser de la place à l'action individuelle et au loisir. C'est pourquoi les aristocrates et les bourgeois ont été les premiers à penser l'émancipation individuelle — ils avaient du temps libre grâce à l'exploitation.
+
+Concrètement : [[Geoffroy de Lagasnerie]] qui dit "de quel droit ces autres me gouvernent" ne voit pas que tout son niveau de vie repose sur le travail de prolétaires exploités. Il voudrait qu'aucune contrainte ne lui soit imposée, mais la société c'est précisément la contrainte — la condition de vie de l'humanité.
+
+## Exemples
+- Lagasnerie voulant zéro contrainte sociale = robinsonade pure
+- La pensée libertarienne en général (l'individu comme atome isolé)
+- L'anthropologie libérale (l'individu est premier, la société est secondaire)
+
+## Vidéos où le concept est développé
+- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]

@@ -1,0 +1,20 @@
+---
+type: individu
+domaine: [politique-intérieure]
+thèmes: [élections]
+statut: ébauche
+quadrant_graphique: "Bas-droite / réactionnaire"
+date created: Wednesday, April 1st 2026, 1:16:40 am
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/politique-intérieure #thème/élections
+# François-Xavier Bellamy
+
+## Profil synthétique
+Tête de liste LR aux élections européennes 2024. Positionné dans le [[Graphique]] "en bas à droite" de [[Raphael Glucksmann|Glucksmann]], dans l'espace réactionnaire classique.
+
+## Position dans le [[Graphique]]
+Aux européennes 2024, son barycentre est dans l'espace de la droite classique — en bataille électorale avec [[Marion Marechal]] sur un électorat similaire. [[Leon Deffontaines]] est décrit comme un "franc-tireur" dans cet espace, essayant de vendre du progressisme à des classes tendanciellement réactionnaires.
+
+## Vidéos
+- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Positionné sur le Graphique des européennes 2024

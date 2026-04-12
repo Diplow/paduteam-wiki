@@ -1,0 +1,16 @@
+---
+type: individu
+domaine: [théorie, géopolitique]
+thèmes: [Venezuela]
+statut: ébauche
+date created: Tuesday, March 31st 2026, 9:52:05 pm
+date modified: Thursday, April 2nd 2026, 10:27:51 am
+---
+#domaine/théorie #domaine/géopolitique #thème/Venezuela
+# Thomas Posado
+
+## Profil synthétique
+Maître de conférence en civilisation latino-américaine à l'université de Rouen. Cité par le Huffington Post dans son article sur le procès Maduro. Confirme que le rôle du Venezuela dans le trafic de cocaïne est mineur et que l'acte d'accusation est "plus politique que juridique."
+
+## Vidéos où Posado est mentionné
+- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
