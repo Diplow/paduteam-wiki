@@ -21,7 +21,7 @@ La PaduTeam rappelle que tout le monde "complote" : le monde est le résultat de
 
 ## Exemples
 - **Espagne (Podemos)** : journalistes, magistrats et politiques en collusion pour attaquer Iglésias et faire monter des candidats plus centristes.
-- **Dîner Legrand-Cohen-Jouvet (septembre 2025)** : [[Thomas Legrand]] et [[Patrick Cohen]] ([[France Inter]]) dînent avec [[Pierre Jouvet]] (directeur général [[Parti Socialiste]]) pour planifier la montée en puissance de [[Raphaël Glucksmann]] contre Mélenchon en 2027.
+- **Dîner Legrand-Cohen-Jouvet (septembre 2025)** : [[Thomas Legrand]] et [[Patrick Cohen]] ([[France Inter]]) dînent avec [[Pierre Jouvet]] (directeur général [[Parti Socialiste]]) pour planifier la montée en puissance de [[Raphael Glucksmann]] contre Mélenchon en 2027.
 - **Zemmour** : Bolloré et des journalistes du Figaro/JDD ont eu des dîners pour faire monter Zemmour.
 
 ## Vidéos où le concept est développé

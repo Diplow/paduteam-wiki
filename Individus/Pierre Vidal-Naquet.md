@@ -16,4 +16,4 @@ Historien français (1930-2006), spécialiste du monde grec antique et figure ma
 "Le nom de Guy Mollet a la même signification que celui d'Adolf Hitler" — formule de Vidal-Naquet sur le rôle de [[Guy Mollet]] pendant la guerre d'Algérie, pour les gens de sa génération. Citée par Stathis pour illustrer jusqu'où peut mener l'alliance de la social-démocratie avec la bourgeoisie.
 
 ## Vidéos où Pierre Vidal-Naquet est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — cité pour sa formule sur Guy Mollet et la guerre d'Algérie
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — cité pour sa formule sur Guy Mollet et la guerre d'Algérie

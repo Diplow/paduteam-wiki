@@ -17,4 +17,4 @@ Secrétaire d'État des États-Unis sous [[Donald Trump]]. Fait partie des "capi
 - [[Nicolas Maduro]] — cible de la politique anti-Venezuela
 
 ## Vidéos où Rubio est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

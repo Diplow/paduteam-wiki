@@ -12,7 +12,7 @@ statut: ébauche
 # FRANCE INTER et LE POINT reprennent MON CONCEPT c'est CATA !!
 
 ## Résumé
-React de Padu et Chris face à la reprise du concept de [[Moisation|moïsation]] par plusieurs médias mainstream : une chronique de [[Clément Petro]] sur [[France Inter]], un article du [[Le Point]], une émission de [[Sud Radio]] avec [[Philippe Bilger]] et [[Françoise Degois]], et un article d'[[Alliance FR]]. La PaduTeam démontre que ces médias transforment une analyse matérialiste de la polarisation politique en "stratégie cachée" de LFI — symptôme d'un complotisme bourgeois incapable de comprendre les dynamiques structurelles.
+React de Padu et Chris face à la reprise du concept de [[Moisation|moïsation]] par plusieurs médias mainstream : une chronique de [[Clément Petro]] sur [[France Inter]], un article du [[Le Point]], une émission de [[Sud Radio]] avec [[Philippe Bilger]] et [[Francoise Degois]], et un article d'[[Alliance FR]]. La PaduTeam démontre que ces médias transforment une analyse matérialiste de la polarisation politique en "stratégie cachée" de LFI — symptôme d'un complotisme bourgeois incapable de comprendre les dynamiques structurelles.
 
 ## Thèses et analyses clés
 
@@ -22,7 +22,7 @@ React de Padu et Chris face à la reprise du concept de [[Moisation|moïsation]]
 
 3. **Qui a vraiment fait monter le RN ?** — France Inter, Le Point, la social-démocratie : ce sont eux qui ont validé toute la politique néolibérale (taux d'exploitation maximal, politique de pénurie) qui a ouvert les portes au RN. Ils s'arrogent ensuite le capital symbolique de l'antifascisme. La PaduTeam inverse le sens : "Vous avez fait monter Marine Le Pen et maintenant vous dites que ceux qui la combattent sont ses meilleurs alliés."
 
-4. **La droite orléaniste est morte** — [[Françoise Degois]] sur Sud Radio invoque la droite orléaniste (Giscard, Balladur, Bayrou) comme force durable. Pour la PaduTeam, cette droite a "explosé" — [[Francois Bayrou|Bayrou]] en est l'ultime survivant fantomatique. Idem pour la social-démocratie : [[Raphael Glucksmann|Glucksmann]] ne peut pas reconstruire le centre, il fera une "camala-harris" et sera battu par [[Bruno Retailleau|Retailleau]].
+4. **La droite orléaniste est morte** — [[Francoise Degois]] sur Sud Radio invoque la droite orléaniste (Giscard, Balladur, Bayrou) comme force durable. Pour la PaduTeam, cette droite a "explosé" — [[Francois Bayrou|Bayrou]] en est l'ultime survivant fantomatique. Idem pour la social-démocratie : [[Raphael Glucksmann|Glucksmann]] ne peut pas reconstruire le centre, il fera une "camala-harris" et sera battu par [[Bruno Retailleau|Retailleau]].
 
 5. **Mélenchon précède la moïsation** — Dès 2012, Mélenchon annonçait "ça se finira eux contre nous". La PaduTeam a simplement théorisé plus finement la période de confusion et les mécanismes matériels qui produisent ce résultat.
 
@@ -34,7 +34,7 @@ React de Padu et Chris face à la reprise du concept de [[Moisation|moïsation]]
 La genèse exacte reste floue même pour Padu et Chris. Le terme viendrait d'un membre du groupe baptisé "R1" lors d'une blague sur "Moïse et la mer rouge-brune". Chris pense avoir été le premier à l'intellectualiser par écrit — mais concède que le prophète de la moïsation, c'est Padu. La moïsation "s'est inventée elle-même" dans les discussions collectives. L'entretien de 2021 avec [[Stéphane Palombarini]] dans [[Positions Revue]] (*S'il ne reste qu'un barrage républicain, ce sera contre la gauche*) constitue la trace écrite la plus ancienne de la théorisation profonde.
 
 ## Individus mentionnés
-[[Padu]], [[Chris]], [[Sarah Legrain]], [[Clément Petro]], [[Philippe Bilger]], [[Cécile de Mibus]], [[Françoise Degois]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Marine Le Pen]], [[Raphael Glucksmann|Raphaël Glucksmann]], [[Bruno Retailleau]], [[Francois Hollande|François Hollande]], [[Francois Bayrou|François Bayrou]], [[Usul]], [[Chantal Mouffe]], [[Ernesto Laclau]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Stéphane Palombarini]], [[Thomas Piketty]], [[Louis Boyard]], [[Raphael Enthoven|Raphaël Enthoven]], [[Tatiana Ventôse]], [[Loïc Chenu]], [[Sacha Tabibian]], [[Gaspard Koenig]]
+[[Padu]], [[Chris]], [[Sarah Legrain]], [[Clément Petro]], [[Philippe Bilger]], [[Cécile de Mibus]], [[Francoise Degois]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Marine Le Pen]], [[Raphael Glucksmann|Raphaël Glucksmann]], [[Bruno Retailleau]], [[Francois Hollande|François Hollande]], [[Francois Bayrou|François Bayrou]], [[Usul]], [[Chantal Mouffe]], [[Ernesto Laclau]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Stéphane Palombarini]], [[Thomas Piketty]], [[Louis Boyard]], [[Raphael Enthoven|Raphaël Enthoven]], [[Tatiana Ventose]], [[Loic Chenu]], [[Sacha Tabibian]], [[Gaspard Koenig]]
 
 ## Organisations mentionnées
 [[France Inter]], [[Le Point]], [[Sud Radio]], [[Positions Revue]], [[Alliance FR]], [[France Insoumise]], [[Parti Socialiste]], [[Rassemblement National]], [[Les Republicains|LR]], [[Mediapart]]
@@ -45,7 +45,7 @@ La genèse exacte reste floue même pour Padu et Chris. Le terme viendrait d'un 
 ## Enjeux avancés
 [[Graphique]] — La moïsation, issue du Graphique, entre dans le vocabulaire mainstream ; le Graphique est présenté comme encore plus en avance sur son temps
 [[Union populaire]] — LFI est le seul projet transformateur capable de s'opposer à l'extrême droite ; Glucksmann fera une camala-harris, Retailleau passera
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Le centre social-démocrate est structurellement mort ; Glucksmann ne peut pas reconstruire un espace qui n'existe plus
+[[Plus jamais PS]] — Le centre social-démocrate est structurellement mort ; Glucksmann ne peut pas reconstruire un espace qui n'existe plus
 
 ## Transcript
 [[FRANCE INTER et LE POINT reprennent MON CONCEPT  c'est CATA !! (@pasduhring X Chris)]]

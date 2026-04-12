@@ -19,7 +19,7 @@ Réaction à deux extraits : Macron devant les "Jeunes avec Macron" annonçant s
 
 ## Thèses et analyses clés
 
-1. Macron veut revenir en 2032 — mais il ne peut réussir que si la [[5e République]] reste en place : c'est elle qui fabrique les "hommes providentiels"
+1. Macron veut revenir en 2032 — mais il ne peut réussir que si la [[5e Republique]] reste en place : c'est elle qui fabrique les "hommes providentiels"
 2. Stratégie de Macron pour 2027 : laisser s'effriter le centre (Édouard Philippe, Glucksmann), "doubler" un intermédiaire type [[François Bayrou]], puis revenir en 2032 si Mélenchon "foire son truc"
 3. Le [[Graphique]] montre Mélenchon au second tour 2027 dans tous les scénarios — 16-17% dans le pire cas, 22% si le centre éclate davantage
 4. Complotisme et anticomplotisme sont les "deux phases de la même pièce" dans le [[Dialectique complotisme anticomplotisme|clair-obscur gramscien]] : le complotiste sait tout mais ne peut rien, l'anticomplotiste peut tout mais ne veut rien changer
@@ -41,11 +41,11 @@ Réaction à deux extraits : Macron devant les "Jeunes avec Macron" annonçant s
 [[France Insoumise]], [[Parti Socialiste]], [[Rassemblement National]], [[En Marche]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation]], [[Populisme bourgeois]], [[Dialectique complotisme anticomplotisme]], [[Periode de confusion]], [[Eclatement du bloc central]], [[5e République]]
+[[Graphique]], [[Moisation]], [[Populisme bourgeois]], [[Dialectique complotisme anticomplotisme]], [[Periode de confusion]], [[Eclatement du bloc central]], [[5e Republique]]
 
 ## Enjeux avancés
 [[Union populaire]] — Mélenchon au second tour est affirmé comme inévitable dans tous les scénarios du Graphique ; militer activement pour qu'il y arrive avec 22% plutôt que 16%
 [[Graphique]] — Le Graphique démontré comme outil prédictif multi-scénarios pour 2027
 
 ## Transcript
-[[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
+[[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]

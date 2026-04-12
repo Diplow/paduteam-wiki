@@ -17,4 +17,4 @@ Revue en ligne marxiste française, en accès totalement libre. Publie des artic
 - [[Denis Gravouille]] — interviewé par Stathis dans la revue
 
 ## Vidéos où Contretemps est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — mentionné par Stathis comme espace de publication, recommandé aux spectateurs
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — mentionné par Stathis comme espace de publication, recommandé aux spectateurs

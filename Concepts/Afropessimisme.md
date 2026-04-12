@@ -13,7 +13,7 @@ statut: ébauche
 Courant théorique développé par [[Frank B. Wilderson III]] et [[Jared Sexton]] qui pose la condition noire comme une position de *mort sociale* irréductible — une exclusion structurelle de l'humanité que les dynamiques de classe ne suffisent pas à expliquer. La noirceur est vue comme une position sociale absolument hors-norme, d'une autre nature que la condition des autres groupes opprimés.
 
 ## Critique de la PaduTeam
-L'afropessimisme est une [[Pensée tragique]] et une dérive idéaliste :
+L'afropessimisme est une [[Pensee tragique]] et une dérive idéaliste :
 
 1. Il réintroduit une catégorie idéaliste (la race comme structure irréductible) au lieu de partir du sujet collectif et de sa position matérielle concrète.
 
@@ -27,7 +27,7 @@ La différence entre les [[Black Panthers]] (marxistes révolutionnaires) et Wil
 - Wilderson/Sexton : après les droits civiques, "réunion inégale" des Noirs dans la société américaine → pensée plus contemplative et moins révolutionnaire
 
 ## Concepts associés
-[[Pensée tragique]], [[Conscience et sujets collectifs]], [[Épistémologie marxiste]]
+[[Pensee tragique]], [[Conscience et sujets collectifs]], [[Epistemologie marxiste]]
 
 ## Vidéos où l'afropessimisme est analysé
 - [[Le MARXISME, un TRUC de BLANC]] — critique détaillée dans le cadre du débat avec Wiisam et Norman Ajari

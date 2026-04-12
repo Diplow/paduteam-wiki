@@ -11,7 +11,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Charles Maurras
 
 ## Profil synthétique
-Idéologue nationaliste intégral français, fondateur de l'[[Action Française]], antisémite et collaborateur. Responsable de la diffusion du vocabulaire "antifrance" désignant les Juifs, métèques, protestants et francs-maçons comme ennemis de la "vraie France".
+Idéologue nationaliste intégral français, fondateur de l'[[Action Francaise]], antisémite et collaborateur. Responsable de la diffusion du vocabulaire "antifrance" désignant les Juifs, métèques, protestants et francs-maçons comme ennemis de la "vraie France".
 
 ## Usage analytique PaduTeam
 Référence historique pour dénoncer le vocabulaire réactionnaire recyclé par les macronistes contemporains. Quand [[Aurore Bergé]] emploie "antifrance" pour qualifier LFI, Padu et [[Nicolas Offenstadt]] montrent que ce terme vient directement de Maurras — autrement dit, Bergé incarne le discours de l'extrême droite historique en se croyant républicaine.
@@ -24,5 +24,5 @@ Maurras était totalement anti-allemand dans son discours — et pourtant, quand
 [[Jordan Bardella]] reproduit la même structure : discours souverainiste + génuflexion devant Trump. Padu appelle ça le "racisme de la divine providence." "Toute l'œuvre de Maurras n'a aucun sens. Le pays légal, le pays réel — tout ça c'est des catastrophes intellectuelles. C'est presque du nietzschéisme français." Entre Maurras et Bardella, Maurras serait "quand même plus malin."
 
 ## Vidéos où Maurras est cité
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — référence pour comprendre l'[[Atlantisme]] structurel de l'extrême droite

@@ -21,4 +21,4 @@ Parti de [[Nicolas Dupont-Aignan]] (surnommé "du Pontignan" par la PaduTeam). A
 - [[Nicolas Dupont-Aignan]] — président
 
 ## Vidéos où Debout la France est mentionnée
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]]
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]

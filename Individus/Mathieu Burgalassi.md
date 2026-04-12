@@ -16,4 +16,4 @@ Journaliste/YouTubeur politique français. A publié une vidéo très complète 
 La PaduTeam salue sa vidéo post-Mediapart comme « un très bon support » mais pointe la limite de l'attitude journalistique : au moment où seule Christa parlait, attendre les preuves revenait à prendre le parti du dominant. La ZawaProd appréciait cette neutralité initiale car elle leur convenait. Après l'article Mediapart, Burgalassi est devenu la cible de la ZawaProd pour avoir pris position.
 
 ## Vidéos où Mathieu Burgalassi est mentionné
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

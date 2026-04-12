@@ -43,7 +43,7 @@ Poutine et Trump sont en concurrence sur le marché pétrolier — pas alliés. 
 - [[Xi Jinping]] — principal adversaire économique et bénéficiaire involontaire de la politique trumpiste
 
 ## Style politique et impuissance de l'explication psychologique
-[[Sandra Lucbert]] et [[Frederic Lordon]] ont analysé un mème de Trump (vidéo IA Top Gun avec excréments sur la population lors du No Kings Day) via la psychanalyse de [[Mélanie Klein]]. La PaduTeam réfute cette approche : le "style" psychologique de Trump (sa "position schizo-paranoïde") est politiquement irrelevant. Biden était "poli" et "respectueux" — ça ne l'a pas empêché de soutenir le génocide en Palestine. Ce qui compte, ce sont les débouchés structurels et la position de classe, pas la psychologie du dirigeant. Remplacer Trump par Rubio ne changerait rien à la situation géopolitique.
+[[Sandra Lucbert]] et [[Frederic Lordon]] ont analysé un mème de Trump (vidéo IA Top Gun avec excréments sur la population lors du No Kings Day) via la psychanalyse de [[Melanie Klein]]. La PaduTeam réfute cette approche : le "style" psychologique de Trump (sa "position schizo-paranoïde") est politiquement irrelevant. Biden était "poli" et "respectueux" — ça ne l'a pas empêché de soutenir le génocide en Palestine. Ce qui compte, ce sont les débouchés structurels et la position de classe, pas la psychologie du dirigeant. Remplacer Trump par Rubio ne changerait rien à la situation géopolitique.
 
 ## Droits de douane sur le champagne (janvier 2026)
 Trump impose des droits de douane à 200% sur le champagne et les produits alcoolisés de France et de l'UE. Pour la PaduTeam : le but n'est pas de "protéger la filière viticole" (dont Trump se fout) — c'est de faire revenir les capitaux aux États-Unis. [[Jordan Bardella]] ne comprend pas ça. La seule réponse rationnelle : "Un milliard de Chinois sont prêts à acheter du champagne."
@@ -56,8 +56,8 @@ Analyse marxiste de l'impasse : Trump ne peut pas réindustrialiser parce qu'il 
 Résultats concrets : PIB à -0,3% au T1 2026, déficit commercial record à 162 Md$, inflation en hausse. Données citées depuis l'article de [[Romaric Godin]] dans [[Mediapart]].
 
 ## Vidéos où Trump est analysé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Les droits de douane à 200% révèlent l'incapacité de Bardella et l'atlantisme structurel de l'extrême droite
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — Analyse économique marxiste de la guerre commerciale Trump-Chine et de l'impasse protectionniste

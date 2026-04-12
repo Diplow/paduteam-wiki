@@ -27,7 +27,7 @@ La destruction de la cellule familiale patriarcale (divorce, familles monoparent
 Padu : "C'est le macronisme de la baise." — la même logique de flexibilité capitaliste (fin du CDI, ubérisation) appliquée aux relations.
 
 ## Lien avec la critique de la liberté
-Le capitalisme masculiniste mobilise le concept de "liberté" pour se légitimer (liberté sexuelle, liberté de choisir sans engagement). Mais c'est la [[Liberté des dominants]] : la liberté de dominer sans contrainte institutionnelle.
+Le capitalisme masculiniste mobilise le concept de "liberté" pour se légitimer (liberté sexuelle, liberté de choisir sans engagement). Mais c'est la [[Liberte des dominants]] : la liberté de dominer sans contrainte institutionnelle.
 
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse de [[Marc]] comme cas d'école du capitalisme masculiniste

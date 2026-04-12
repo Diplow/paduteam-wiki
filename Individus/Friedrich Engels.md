@@ -19,4 +19,4 @@ Chris compare le rôle d'Engels auprès de Marx à celui de [[Zoé]] auprès de 
 - [[Karl Marx]] — ami et collaborateur de toute une vie
 
 ## Vidéos où Engels est mentionné
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Rôle d'éditeur et de catalyseur de Marx
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Rôle d'éditeur et de catalyseur de Marx

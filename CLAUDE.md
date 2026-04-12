@@ -36,6 +36,7 @@ Le vault est une base de connaissances vivante — l'interroger fait partie de s
 
 ## Conventions générales
 
+- **Noms de fichiers**: pas d'accents ni de caractères spéciaux (`Jean-Luc Melenchon.md`, pas `Jean-Luc Mélenchon.md`). Les noms accentués sont définis en `aliases` dans le frontmatter.
 - **Wikilinks**: `[[Nom Exact du Fichier]]` sans chemin, sans .md
 - **Aliases**: définis en frontmatter YAML, permettent les liens via `[[Nom réel|alias]]`
 - **Langue**: français, ton analytique (pas encyclopédique)

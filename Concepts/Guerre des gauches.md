@@ -40,6 +40,6 @@ Dans [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]], les données [[Clust
 ## Vidéos où le concept est développé
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]]
 - [[Faut-il en finir avec le NFP]]
-- [[Graphiked/Graphiked/videos/BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
+- [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Confirmation empirique : blocs se comportent comme prédit. LFI seul gagne, LFI+PS = confusion et défaite. "C'est la conclusion des municipales."
-- [[Graphiked/Graphiked/videos/FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]] — Confirmation de la prophétie en temps réel : Faure incarne le pôle "droite de gauche" (refroidissement, PM de Macron), Mélenchon incarne le pôle rupture (destitution, 10 septembre). La ligne de la guerre des gauches est désormais aussi celle de la barricade.
+- [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Confirmation de la prophétie en temps réel : Faure incarne le pôle "droite de gauche" (refroidissement, PM de Macron), Mélenchon incarne le pôle rupture (destitution, 10 septembre). La ligne de la guerre des gauches est désormais aussi celle de la barricade.

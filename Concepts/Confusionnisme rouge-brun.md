@@ -17,7 +17,7 @@ Le confusionnisme rouge-brun opère en plusieurs étapes :
 
 1. **Diagnostic correct** : le bipartisme PS/UMP (l'"UMPS") masque une convergence néolibérale réelle — les deux partis font la même politique économique.
 2. **Conclusion fausse** : puisque gauche et droite convergent sur l'économie, le vrai clivage serait ailleurs (culture, tradition, souveraineté). D'où la notion de "gauche du travail, droite des valeurs."
-3. **Alliance de fait** : critiquer ensemble Hollande et Sarkozy, rejoindre [[Étienne Chouard]] dans son "ni droite ni gauche, tous autour d'une table."
+3. **Alliance de fait** : critiquer ensemble Hollande et Sarkozy, rejoindre [[Etienne Chouard]] dans son "ni droite ni gauche, tous autour d'une table."
 4. **Glissement** : les "valeurs" en question sont toujours antiféministes, anti-LGBT, racistes ou antisémites déguisés en anticommunautarisme.
 
 Chris : "c'est toujours ça le fascisme — une révolution réactionnaire. Ça se donne l'apparence des révolutionnaires mais pour revenir en arrière, pas pour faire progresser la société."
@@ -35,8 +35,8 @@ Le moment où le clivage redevient lisible (pacte égalitaire vs arc réactionna
 
 ## Exemples dans le vault
 - [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — incarnation principale en France
-- [[Étienne Chouard]] — version "démocratique-idéaliste"
-- [[Dieudonné]] — version antisémite assumée
+- [[Etienne Chouard]] — version "démocratique-idéaliste"
+- [[Dieudonne]] — version antisémite assumée
 - La notion d'"UMPS" — élément de langage confusionniste repris même par des gens de gauche
 
 ## Vidéos où le concept est développé

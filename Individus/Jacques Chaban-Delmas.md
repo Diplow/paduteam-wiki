@@ -18,5 +18,5 @@ Chaban-Delmas est le "Chaban" de la "stratégie Chirac 74" : en 1974, [[Nicolas 
 La PaduTeam mobilise cet épisode comme modèle pour analyser le dilemme de [[Jordan Bardella]] : trahir [[Marine Le Pen]] pour s'allier à [[Bruno Retailleau]], comme Chirac a trahi Chaban pour rejoindre Giscard.
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Référence à la trahison de 1974 comme modèle pour Bardella
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]] — La stratégie Chirac 74 développée en détail
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Référence à la trahison de 1974 comme modèle pour Bardella
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — La stratégie Chirac 74 développée en détail

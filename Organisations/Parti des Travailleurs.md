@@ -30,7 +30,7 @@ Le POI (branche principale post-scission) travaille aujourd'hui avec la [[France
 
 ## Figures clés
 - [[Lionel Jospin]] — ex-lambertiste (Parti des Travailleurs), puis PS, social-libéralisme
-- [[Jean-Luc Mélenchon]] — ex-trotskiste (branche différente), puis PS
+- [[Jean-Luc Melenchon]] — ex-trotskiste (branche différente), puis PS
 
 ## Vidéos où l'organisation est analysée
 - [[FROM TROTSKISTE TO RACISTE]] — présentation historique du lambertisme, trajectoire de Luc

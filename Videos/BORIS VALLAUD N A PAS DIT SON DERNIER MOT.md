@@ -42,4 +42,4 @@ Analyse de la crise interne au [[Parti Socialiste]] après les municipales de ma
 [[Parti Socialiste]], [[France Insoumise]], [[Europe Ecologie Les Verts]], [[Parti Communiste Francais]], [[Rassemblement National]], [[NUPES]], [[NFP]], [[L'Opinion]], [[On ne veut plus]]
 
 ## Concepts mobilisés
-[[Guerre des gauches]], [[Gauche de rupture]], [[Neokeynesianisme]], [[Fascisation par echec de la gauche reformiste]], [[La politique n'est pas de l'arithmetique]], [[Reconstruction]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Graphique]], [[Neoliberalisme]], [[Bloc bourgeois]], 
+[[Guerre des gauches]], [[Gauche de rupture]], [[Neokeynesianisme]], [[Fascisation par echec de la gauche reformiste]], [[La politique n'est pas de l'arithmetique]], [[Reconstruction]], [[Plus jamais PS]], [[Graphique]], [[Neoliberalisme]], [[Bloc bourgeois]], 

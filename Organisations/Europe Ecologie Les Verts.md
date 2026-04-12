@@ -29,7 +29,7 @@ L'écologie n'est pas un positionnement politique autonome, c'est un thème qui 
 Les Verts ont fait leur prime avec 16% aux européennes grâce à Daniel Cohn-Bendit (Chris : "Dani le rouge... version néolibérale bien conservateur bien anticommuniste, bien tout ce qu'on veut"). Depuis, le parti existe comme artifact de la [[Periode de confusion]]. En 2025, ses bases se séparent déjà entre les deux pinces du Casse-Noisette : ligne Jadot (proche PS) vs ligne plus proche de LFI.
 
 ## Effondrement municipal 2026
-Les Verts perdent Bordeaux, Strasbourg ([[Jeanne Barseghian]] + LFI battue par [[Catherine Trautmann]] PS+Horizon), Poitiers ([[Léonore Moncond'huy]] + LFI battue par divers-centre). Gardent Lyon de justesse ([[Laurence Ruffin]]). Tondelier convoque une réunion de crise dès le lendemain du 2e tour.
+Les Verts perdent Bordeaux, Strasbourg ([[Jeanne Barseghian]] + LFI battue par [[Catherine Trautmann]] PS+Horizon), Poitiers ([[Leonore Moncond'huy]] + LFI battue par divers-centre). Gardent Lyon de justesse ([[Laurence Ruffin]]). Tondelier convoque une réunion de crise dès le lendemain du 2e tour.
 
 Analyse : leur électorat est un électorat bourgeois macroniste reconverti en vert en 2019. L'alliance avec LFI a "gauchi" les Verts — cet électorat bourgeois fuit vers le PS+Horizon. Ils sont Moïsés. La [[Primaire des noisettes]] est morte : "tout dit le contraire d'aller à la primaire."
 

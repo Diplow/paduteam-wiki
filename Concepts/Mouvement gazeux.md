@@ -53,9 +53,9 @@ Contre l'argument "la FI est un mouvement jeune, ça viendra", Chris répond : l
 - **Modèles à l'étranger** : centres sociaux de la gauche radicale catalane et italienne, qui créent des "noyaux locaux" permettant de mettre en réseau diverses initiatives militantes avec le niveau partisan.
 - **La CGT** : la CGT a besoin de muscler ses unions locales et départementales (interprofessionnel) pour syndiquer les secteurs précaires non couverts (logistique, intérimaires). Tension interne : ressources concentrées dans les grosses fédérations, mais expansion nécessaire dans les zones en friche. Exemple : deux fédérations CGT se disputent le champ de la logistique, paralysant l'extension syndicale.
 
-La difficulté : concilier ce travail de long terme avec les urgences électorales immédiates. C'est ça la politique selon [[Daniel Bensaïd]].
+La difficulté : concilier ce travail de long terme avec les urgences électorales immédiates. C'est ça la politique selon [[Daniel Bensaid]].
 
 ## Vidéos où le concept est développé
-- [[PADUSTREAM C'EST DÉJÀ FINI]] — première formulation explicite de la critique et de la réponse
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur PTB comme anti-modèle, financement public comme cause, et FI comme choix stratégique délibéré (pas une question d'âge).
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — Stathis Kouvelakis approfondit les pistes : maillage social local, expérience italienne/catalane, CGT, leçons de 1977-1981
+- [[PADUSTREAM C'EST DEJA FINI]] — première formulation explicite de la critique et de la réponse
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur PTB comme anti-modèle, financement public comme cause, et FI comme choix stratégique délibéré (pas une question d'âge).
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Stathis Kouvelakis approfondit les pistes : maillage social local, expérience italienne/catalane, CGT, leçons de 1977-1981

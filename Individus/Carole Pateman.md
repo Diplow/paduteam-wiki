@@ -20,4 +20,4 @@ Chris présente le [[Contrat sexuel]] comme l'inspiration directe du [[Contrat r
 - [[Sara Farris]] — dans la même lignée de pensée féministe repensant les structures sociales
 
 ## Vidéos où Pateman est mentionnée
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — *Le Contrat sexuel* recommandé comme lecture essentielle
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — *Le Contrat sexuel* recommandé comme lecture essentielle

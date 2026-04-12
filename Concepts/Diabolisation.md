@@ -10,7 +10,7 @@ statut: ébauche
 # Diabolisation
 
 ## Définition
-Stratégie médiatique et politique qui consiste à présenter un candidat ou un mouvement comme dangereux, extrémiste ou moralement infréquentable pour lui barrer la route vers le pouvoir. Dans l'analyse PaduTeam, la diabolisation de [[Jean-Luc Mélenchon]] est le mécanisme central de la prophétie du [[Graphique]] pour 2027 — et elle produit l'effet inverse de celui recherché.
+Stratégie médiatique et politique qui consiste à présenter un candidat ou un mouvement comme dangereux, extrémiste ou moralement infréquentable pour lui barrer la route vers le pouvoir. Dans l'analyse PaduTeam, la diabolisation de [[Jean-Luc Melenchon]] est le mécanisme central de la prophétie du [[Graphique]] pour 2027 — et elle produit l'effet inverse de celui recherché.
 
 ## Mécanisme
 La diabolisation fonctionne en deux temps selon la PaduTeam :
@@ -36,6 +36,6 @@ La diabolisation est intégrée dans la prophétie : les médias et le bloc bour
 - "Extrémiste", "dangereux pour la démocratie"
 
 ## Vidéos où le concept est développé
-- [[JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON]] — Analyse du mécanisme vote caché comme résultat de la diabolisation
+- [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du mécanisme vote caché comme résultat de la diabolisation
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Formulation initiale de la diabolisation comme carburant du vote caché
 - [[Hollande vs Melenchon 2e tour]] — La diabolisation dans le cadre du 2002 inversé

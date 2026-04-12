@@ -17,7 +17,7 @@ Padu et Chris réagissent à Raphaël Glucksmann qui s'oppose au mouvement "Bloq
 
 ## Thèses et analyses clés
 
-1. **Glucksmann fait le jeu de Macron** : En disant que Bayrou va partir le 8 donc il n'y a pas besoin de bloquer le 10, Glucksmann dit exactement ce que Macron voudrait. Le problème n'est pas Bayrou — c'est le système bourgeois macroniste. Voir [[Réchauffeurs et refroidisseurs]].
+1. **Glucksmann fait le jeu de Macron** : En disant que Bayrou va partir le 8 donc il n'y a pas besoin de bloquer le 10, Glucksmann dit exactement ce que Macron voudrait. Le problème n'est pas Bayrou — c'est le système bourgeois macroniste. Voir [[Rechauffeurs et refroidisseurs]].
 
 2. **Glucksmann = "autre Macron possible"** : Sa stratégie vise à aspirer le bloc central en déliquescence — capter les électeurs qui s'étaient "droitisés" vers Darmanin, Retailleau, Édouard Philippe. C'est un mouvement anachronique et condamné : "personne ne rêve de la startup nation en 2025".
 
@@ -38,16 +38,16 @@ Padu et Chris réagissent à Raphaël Glucksmann qui s'oppose au mouvement "Bloq
 10. **Prophétie du Graphique** : Bayrou a 0,5% de chances de s'en sortir selon le Graphique (vs 5% qu'il affirme). "Macron peut tomber en 2025 — faites tout pour."
 
 ## Individus mentionnés
-[[Raphaël Glucksmann]], [[Daniel Cohn-Bendit]], [[François Bayrou]], [[Olivier Faure]], [[Marine Tondelier]], [[Fabien Roussel]], [[Jean-Luc Mélenchon]], [[Bernard Cazeneuve]], [[Laurent Baumel]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Édouard Philippe]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Marcel Gauchet]], [[Antoine Oberdorff]], [[Lucy Castets]], [[Eric Zemmour]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Gerald Darmanin]]
+[[Raphael Glucksmann]], [[Daniel Cohn-Bendit]], [[François Bayrou]], [[Olivier Faure]], [[Marine Tondelier]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Bernard Cazeneuve]], [[Laurent Baumel]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Édouard Philippe]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Marcel Gauchet]], [[Antoine Oberdorff]], [[Lucy Castets]], [[Eric Zemmour]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Gerald Darmanin]]
 
 ## Organisations mentionnées
 [[Place Publique]], [[France Insoumise]], [[Parti Socialiste]], [[Parti Communiste Francais]], [[Europe Ecologie Les Verts]], [[NFP]], [[On ne veut plus]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Réchauffeurs et refroidisseurs]], [[Noisettes]], [[Populisme bourgeois]], [[Graphique]], [[Bloc bourgeois]], [[Éclatement du bloc central]], [[Guerre des gauches]], [[Moisation]], [[Hollandisme]]
+[[Rechauffeurs et refroidisseurs]], [[Noisettes]], [[Populisme bourgeois]], [[Graphique]], [[Bloc bourgeois]], [[Éclatement du bloc central]], [[Guerre des gauches]], [[Moisation]], [[Hollandisme]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — le PS (Faure, Baumel) cherche à refroidir en devenant PM de transition macroniste au moment précis où la rue chauffe
+[[Plus jamais PS]] — le PS (Faure, Baumel) cherche à refroidir en devenant PM de transition macroniste au moment précis où la rue chauffe
 [[Union populaire]] — Mélenchon est le seul à capitaliser sur le 10 septembre ; les noisettes n'ont aucun espace
 
 ## Transcript

@@ -21,4 +21,4 @@ La PaduTeam collabore avec l'OST sur des questions de santé et de militantisme.
 - [[Lou Girard]] — porte-parole
 
 ## Vidéos où l'OST est mentionnée
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

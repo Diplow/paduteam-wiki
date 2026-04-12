@@ -23,4 +23,4 @@ Historiquement, ce courant a été objectivement utile aux intérêts impériali
 - Le néolibéralisme progressiste (Gary Becker défendu par Lagasnerie)
 
 ## Vidéos où le concept est développé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

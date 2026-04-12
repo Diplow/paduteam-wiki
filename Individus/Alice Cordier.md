@@ -13,7 +13,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Alice Cordier
 
 ## Profil synthétique
-Alice Cordier est la fondatrice et porte-parole du [[Collectif Némésis]], organisation se revendiquant féministe mais relevant de l'extrême droite identitaire. Incarnation du [[Fémonationalisme]] : instrumentalisation du féminisme au service de la xénophobie.
+Alice Cordier est la fondatrice et porte-parole du [[Collectif Nemesis]], organisation se revendiquant féministe mais relevant de l'extrême droite identitaire. Incarnation du [[Femonationalisme]] : instrumentalisation du féminisme au service de la xénophobie.
 
 ## Position dans le [[Graphique]]
 Extrême droite identitaire. Utilise un discours féministe de façade pour légitimer un agenda raciste antimusulman.
@@ -24,8 +24,8 @@ Selon la PaduTeam : Cordier représente le "fémonationalisme" — tendance à r
 Magne est connu pour représenter Alice Cordier avec un front allongé dans les miniatures (running gag internet), revendiqué comme caricature politique et non comme attaque sexiste.
 
 ## Relations
-- Fondatrice du [[Collectif Némésis]]
-- Associée idéologiquement à [[Thaïs d'Escufon]]
+- Fondatrice du [[Collectif Nemesis]]
+- Associée idéologiquement à [[Thais d'Escufon]]
 
 ## Vidéos où Alice Cordier est analysée
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

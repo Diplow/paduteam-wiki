@@ -29,10 +29,10 @@ Stagne dans les grandes villes mais casse son plafond de verre à quelques endro
 Très forte implantation dans les communes de moins de 3000 habitants, stable depuis 2014. Le [[Pacte raciste]] fonctionne comme gestion de la pénurie : dans les territoires sans mixité sociale, la [[Triangulation de la peur]] fait projeter les problèmes urbains sur l'immigration. Les données [[Thomas Piketty|Piketty]] montrent que ces territoires n'étaient pas historiquement à gauche — les ouvriers de l'est de la France votaient déjà massivement à droite en 1974.
 
 ## Origines fascistes et réseaux historiques
-Le [[Front National]], rebaptisé RN en 2018, a été fondé en 1972 avec des anciens membres de l'OAS et des militants proches de réseaux SS. La "dédiabolisation" portée par [[Marine Le Pen]] est une opération de façade : des figures comme [[Frédéric Châtillon]] (qui allait chercher des autographes de [[Léon Degrelle]], ancien SS, dans les années 90) font toujours partie de l'orbite du parti. La mort de [[Jean-Marie Le Pen]] en janvier 2025 permet au RN de se distancer symboliquement de son fondateur sans changer de ligne.
+Le [[Front National]], rebaptisé RN en 2018, a été fondé en 1972 avec des anciens membres de l'OAS et des militants proches de réseaux SS. La "dédiabolisation" portée par [[Marine Le Pen]] est une opération de façade : des figures comme [[Frederic Chatillon]] (qui allait chercher des autographes de [[Leon Degrelle]], ancien SS, dans les années 90) font toujours partie de l'orbite du parti. La mort de [[Jean-Marie Le Pen]] en janvier 2025 permet au RN de se distancer symboliquement de son fondateur sans changer de ligne.
 
 ## Vidéos où l'organisation est analysée
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Stagnation dans les grandes villes, avancée dans le Sud. Clivage géographique = clivage de ligne. Analyse de [[Felicien Faury]] sur le vote RN dans le Sud (PACA).
 - [[BO

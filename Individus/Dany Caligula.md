@@ -35,4 +35,4 @@ C'est un patron détenteur de la majorité du capital de ZawaProd. Son retrait d
 - Instrumentalisation d'[[Elsa Deck Marceau]] et de [[Sandra Lucbert]] à son profit
 
 ## Vidéos où Dany Caligula est analysé
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

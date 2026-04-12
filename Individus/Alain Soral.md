@@ -19,7 +19,7 @@ Extrême droite. Opère à la jonction de l'anticapitalisme de façade (récupé
 ## Trajectoire personnelle
 Soral vient d'une famille petite-bourgeoise, a fréquenté les milieux parisiens (bars, émissions TV, Ardisson), a été édité dans des collections de littérature érotique (Éditions blanches), a donné des "conseils de drague" à des fans devant une caméra. Toute sa vie a été d'échapper au monde de la production concrète — ce qui rend ironique son usage du vocabulaire du "monde réel" et de l'"économie industrielle." Padu : "c'est amusant qu'un boutiquier venu du monde du frivole vienne dire 'moi je suis dans le réel'."
 
-## Stratégie : la [[Logorrhée]]
+## Stratégie : la [[Logorrhee]]
 Soral est le **maître de la logoré, pas du Logos**. Il accumule des références (Clouscard, classe contre classe, dialectique égaliano-marxiste, salariat généralisé) sans en comprendre le contenu — les formules servent à impressionner un public peu politisé et à se constituer une façade d'autorité intellectuelle. Sa boutique (Égalité et Réconciliation) tourne grâce à cette fascination.
 
 ## Économie politique : programme des Républicains
@@ -50,7 +50,7 @@ Selon la PaduTeam, Soral est la **porte d'entrée type vers le fascisme pour les
 Chris : "Comprendre l'Empire est clairement un livre dans la lignée des plus grands pamphlets antisémites de l'histoire de France — dans l'ordre de La France juive de Drumont. Un ramassis antisémite de A à Z qui vient se réactualiser en faisant croire que c'est pro-palestinien, alors qu'en réalité si les Palestiniens étaient Cosaques ou Ougandais ça serait la même chose — le problème pour Soral c'est le droit des Juifs, pas le droit des Palestiniens."
 
 ## Trajectoire de Padu via Soral
-Padu a été capté par Soral adolescent (2014 environ) après avoir été politisé par [[Étienne Chouard]] et [[Usul]]. L'élément déclencheur n'était pas idéologique mais masculiniste : Soral proposait un modèle de virilité (les "conseils de drague", les "700 conquêtes en 6 ans"). Padu : "si j'ai persévéré c'est parce que Soral était un modèle de masculinité pour moi, jeune homme en devenir."
+Padu a été capté par Soral adolescent (2014 environ) après avoir été politisé par [[Etienne Chouard]] et [[Usul]]. L'élément déclencheur n'était pas idéologique mais masculiniste : Soral proposait un modèle de virilité (les "conseils de drague", les "700 conquêtes en 6 ans"). Padu : "si j'ai persévéré c'est parce que Soral était un modèle de masculinité pour moi, jeune homme en devenir."
 
 La fascination pour Soral chez les jeunes hommes tenait aussi à la critique du PS/SOS Racisme — à l'époque, l'antiracisme médiatique était effectivement instrumentalisé par le PS, et Soral le dénonçait (avec des conclusions réactionnaires mais un diagnostic partiellement correct).
 

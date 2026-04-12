@@ -23,4 +23,4 @@ Distinction importante : le Réseau Salariat produit des propositions de transfo
 - [[Bernard Friot]] — fondateur, économiste marxiste
 
 ## Vidéos où le Réseau Salariat est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionné pour distinguer Friot (intellectuel sans appareil) des vrais enjeux de structuration du mouvement.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionné pour distinguer Friot (intellectuel sans appareil) des vrais enjeux de structuration du mouvement.

@@ -17,4 +17,4 @@ Référence positive citée par [[Chris]] dans le trio des grands théoriciens m
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — cité comme figure de la tradition matérialiste d'analyse du racisme
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*

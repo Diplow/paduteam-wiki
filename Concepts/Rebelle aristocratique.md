@@ -23,4 +23,4 @@ Le mécanisme repose sur un double héritage aristocratique : familial (naissanc
 - **Platon** : le gouvernement des philosophes-rois contre les masses, matrice originelle de cette pensée
 
 ## Vidéos où le concept est développé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

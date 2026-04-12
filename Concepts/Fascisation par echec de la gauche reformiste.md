@@ -32,4 +32,4 @@ La PaduTeam applique ce mécanisme directement à la stratégie noisette : se r�
 La PaduTeam considère que "la pire des résignations, c'est de se dire que pour faire masse et renverser l'extrême droite, il faut se recentrer et agglomérer par le centre. Quand vous faites ça, vous perdez tout — et à la fin vous perdez même votre honneur, et ça ne résiste même pas au fascisme."
 
 ## Vidéos
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Application directe : la stratégie noisette reproduit celle des "gens des années 30" qui voulaient "se réunir vers le centre pour combattre le fascisme"
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Application directe : la stratégie noisette reproduit celle des "gens des années 30" qui voulaient "se réunir vers le centre pour combattre le fascisme"

@@ -13,7 +13,7 @@ statut: ébauche
 Union Démocratique du Manifeste Algérien, organisation nationaliste modérée fondée par [[Ferhat Abbas]] en 1946. Représente la tendance "assimilationniste" du nationalisme algérien — elle cherche l'égalité des Algériens dans la France, pas l'indépendance.
 
 ## Position selon la PaduTeam
-Comme le [[Mouvement National Algérien]] de [[Messali Hadj]], l'UDMA est un mouvement d'une classe intermédiaire colonisée qui n'a pas les ressources matérielles pour la révolution. Sa tentative d'égalité dans le cadre colonial a échoué, ce qui a ouvert la voie au [[Front de Libération Nationale]].
+Comme le [[Mouvement National Algerien]] de [[Messali Hadj]], l'UDMA est un mouvement d'une classe intermédiaire colonisée qui n'a pas les ressources matérielles pour la révolution. Sa tentative d'égalité dans le cadre colonial a échoué, ce qui a ouvert la voie au [[Front de Liberation Nationale]].
 
 ## Figures clés
 - [[Ferhat Abbas]] — fondateur

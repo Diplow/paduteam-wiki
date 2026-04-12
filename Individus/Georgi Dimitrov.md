@@ -18,7 +18,7 @@ Dimitrov est cité comme la figure qui opère la rupture stratégique du Kominte
 Padu mobilise Dimitrov pour montrer que [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] se trompe doublement quand il cite "classe contre classe" dans le contexte de Clouscard : d'abord parce que ce concept désigne une stratégie défensive et non offensive, ensuite parce que la sortie de cette stratégie se fait précisément via Dimitrov et les fronts populaires — ce qui invalide l'usage soralien du concept.
 
 ## Relations
-- [[Nikolaï Boukharine]] — même période, Komintern
+- [[Nikolai Boukharine]] — même période, Komintern
 - [[Classe contre classe]] — stratégie qu'il critique et dépasse en 1935
 
 ## Vidéos où Dimitrov est cité

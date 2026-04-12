@@ -26,7 +26,7 @@ Philosophe et sociologue marxiste roumano-français (1913-1970). Théoricien du 
 
 ## Vidéos où Goldmann est cité
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Cité par Chris comme alternative dialectique à Clouscar
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]] — Cité pour "les structures ne descendent pas dans la rue"
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur le structuralisme génétique
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Cité pour "les structures ne descendent pas dans la rue"
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur le structuralisme génétique
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Long extrait de Goldmann expliquant Marx contre Proudhon sur la conscience de la petite bourgeoisie ; *Le Dieu caché* cité pour la noblesse comme continuum
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental

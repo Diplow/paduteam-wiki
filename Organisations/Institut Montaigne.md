@@ -21,4 +21,4 @@ Fabrique des politiques publiques libérales en les habillant de rigueur intelle
 - [[Maxime Sbaihi]] — auteur de *Les balançoires vides* sur la crise de la natalité
 
 ## Vidéos où l'Institut Montaigne est mentionné
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

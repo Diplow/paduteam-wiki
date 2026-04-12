@@ -17,10 +17,10 @@ Secrétaire général de la SFIO (1946-1969), plusieurs fois président du Conse
 
 **La citation de Pierre Vidal-Naquet** : l'historien [[Pierre Vidal-Naquet]] a déclaré que le nom de "Guy Mollet a la même signification que celui d'Adolf Hitler" pour les gens de sa génération — en référence à la guerre d'Algérie.
 
-**Parallèle actuel (2024)** : [[Stathis Kouvelakis]] compare la tentation du "bloc bourgeois 2.0" (coalition macronie + gauche hors LFI, portée notamment par [[François Ruffin]]) à la politique molletiste. Rentrer dans ce type de coalition serait pour PS, EELV et PCF "connaître exactement le même sort que la SFIO".
+**Parallèle actuel (2024)** : [[Stathis Kouvelakis]] compare la tentation du "bloc bourgeois 2.0" (coalition macronie + gauche hors LFI, portée notamment par [[Francois Ruffin]]) à la politique molletiste. Rentrer dans ce type de coalition serait pour PS, EELV et PCF "connaître exactement le même sort que la SFIO".
 
 ## Relations
 - [[Pierre Vidal-Naquet]] — historien qui le compare à Hitler pour le rôle dans la guerre d'Algérie
 
 ## Vidéos où Guy Mollet est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — anti-modèle historique, parallèle avec la tentation de coalition bourgeoise en 2024
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — anti-modèle historique, parallèle avec la tentation de coalition bourgeoise en 2024

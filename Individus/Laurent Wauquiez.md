@@ -38,6 +38,6 @@ Wauquiez incarne la stratégie des noisettes de droite : "face au péril Mélenc
 ## Vidéos
 - [[Hollande vs Melenchon 2e tour]]
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de sa défaite à la présidence de LR
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire, soutiendra Retailleau-Bardella
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Détruit en débat par le lieutenant de Mélenchon, "finito"
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Stratégie union des droites symétrique aux noisettes de gauche ; "Tondelier/Ruffin de droite" ; ira jusqu'à Reconquête
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire, soutiendra Retailleau-Bardella
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Détruit en débat par le lieutenant de Mélenchon, "finito"
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Stratégie union des droites symétrique aux noisettes de gauche ; "Tondelier/Ruffin de droite" ; ira jusqu'à Reconquête

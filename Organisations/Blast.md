@@ -16,11 +16,11 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Média "de gauche" mais réformiste. Pour la PaduTeam : capable de laisser dérouler des discours qui préparent des alliances de classe problématiques.
 
 ## Dynamique
-Média en ligne se revendiquant d'investigation et progressiste. La PaduTeam critique une interview de [[Salomé Saqué]] avec [[Laurent Mauduit]] comme exemple de journalisme de gauche molle qui légitimise les "patrons de gauche" sans contradiction.
+Média en ligne se revendiquant d'investigation et progressiste. La PaduTeam critique une interview de [[Salome Saque]] avec [[Laurent Mauduit]] comme exemple de journalisme de gauche molle qui légitimise les "patrons de gauche" sans contradiction.
 
 ## Figures clés
-- [[Salomé Saqué]] — journaliste associée
+- [[Salome Saque]] — journaliste associée
 
 ## Vidéos où Blast est analysé
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

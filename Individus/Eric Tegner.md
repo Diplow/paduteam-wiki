@@ -6,17 +6,17 @@ affiliations: [Frontière]
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande]
 statut: ébauche
-apparitions: ["[[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]]", "[[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]]"]
+apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]", "[[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]]"]
 ---
 #domaine/société #thème/médias-propagande
 
 # Eric Tegner
 
-Patron du média [[Frontière]] (anciennement Livre Noir), journaliste d'extrême droite. Connu pour ses interventions sur CNews autour des thèmes de l'immigration et de l'islamisme.
+Patron du média [[Frontiere]] (anciennement Livre Noir), journaliste d'extrême droite. Connu pour ses interventions sur CNews autour des thèmes de l'immigration et de l'islamisme.
 
 ## Rôle dans l'écosystème d'extrême droite
 
-Tegner anime [[Frontière]], média positionné sur la surveillance et la dénonciation de "l'extrême gauche". Il intervient régulièrement sur C News, notamment sur des sujets comme l'immigration et l'islamisme avec des politiques comme Laurent Wauquiez. Il a notamment produit une cartographie de "l'extrême gauche" française qui a fait réagir la PaduTeam — classant ensemble des profils radicalement incompatibles (cf. [[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]]).
+Tegner anime [[Frontiere]], média positionné sur la surveillance et la dénonciation de "l'extrême gauche". Il intervient régulièrement sur C News, notamment sur des sujets comme l'immigration et l'islamisme avec des politiques comme Laurent Wauquiez. Il a notamment produit une cartographie de "l'extrême gauche" française qui a fait réagir la PaduTeam — classant ensemble des profils radicalement incompatibles (cf. [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]).
 
 ## Accusations de VSS et harcèlement
 

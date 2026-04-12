@@ -18,7 +18,7 @@ Gauche ouvrière — représentait le bloc populaire urbain et industriel d'apr�
 ## Rôle dans la stratégie de 1981 (analyse PaduTeam)
 [[François Mitterrand]] est devenu président non par union avec le PCF mais en **battant le PCF** — en réduisant sa part de l'électorat de gauche et en s'imposant comme le leader incontestable du bloc de gauche. Marchais a perdu cette bataille et le PC n'a jamais récupéré.
 
-La PaduTeam utilise cette comparaison historique pour analyser 2027 : [[Raphaël Glucksmann]] est dans la **position de Marchais** (parti sans masse, obligé de s'effacer devant le leader) et [[Jean-Luc Mélenchon]] est dans la **position de Mitterrand** (celui qui impose sa candidature en dominant l'espace). Voir [[Strategie Mitterrand inversee]].
+La PaduTeam utilise cette comparaison historique pour analyser 2027 : [[Raphael Glucksmann]] est dans la **position de Marchais** (parti sans masse, obligé de s'effacer devant le leader) et [[Jean-Luc Melenchon]] est dans la **position de Mitterrand** (celui qui impose sa candidature en dominant l'espace). Voir [[Strategie Mitterrand inversee]].
 
 "On est totalement d'accord avec Glucksmann sur le mécanisme historique, sauf sur le fait qu'il faille que ce soit lui qui gagne."
 
@@ -26,5 +26,5 @@ La PaduTeam utilise cette comparaison historique pour analyser 2027 : [[Raphaël
 Marchais dit à [[Lucien Seve|Sève]] : **"Est-ce que tu as vu une seule bonne idée qui vient de la base militante ? Rien."** Pour Sève, c'est le "stalinisme ordinaire" : les congrès sont devenus des moments médiatiques et électoraux, pas de vrais espaces de démocratie interne. Cette déception mène Sève à quitter le PCF.
 
 ## Vidéos où Marchais est cité
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Comparaison avec Glucksmann dans l'analogie Mitterrand/Marchais 1981 inversée pour 2027
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — anecdote sur son mépris de la démocratie interne
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Comparaison avec Glucksmann dans l'analogie Mitterrand/Marchais 1981 inversée pour 2027
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — anecdote sur son mépris de la démocratie interne

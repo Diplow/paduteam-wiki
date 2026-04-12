@@ -20,4 +20,4 @@ Ex-ministre de l'économie sous Macron. Issu des [[Les Republicains]], figure du
 - [[Laurent Wauquiez]] — même famille politique LR que Bompard lui reproche d'avoir été au pouvoir avec
 
 ## Vidéos où Le Maire est mentionné
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Cité par Bompard pour montrer que les LR ont été au pouvoir sous Macron
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Cité par Bompard pour montrer que les LR ont été au pouvoir sous Macron

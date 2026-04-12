@@ -30,8 +30,8 @@ Sa victoire à 52,18% dans une ville "historiquement très à gauche" est "chaud
 La PaduTeam : derrière le titre trompeur sur 2027, ce sont surtout des maires qui préparent **leur réélection** aux municipales de 2026. "Faut pas vous voiler la face." La ligne Fort pour l'instant — mais Rossignol et la ligne droitière vont l'emporter, poussant le PS à aller seul avec Glucksmann.
 
 ## Vidéos où Rolland est analysée
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Citée comme candidature potentielle que Faure pourrait envoyer à la primaire noisette à sa place : "Johanna Roland. Petit pronostic sur Johanna Roland peut-être à la place d'Olivier Fort." Stratégie de proxy pour Faure qui est minoritaire dans son propre parti et veut tester sans y laisser sa peau directement.
-- [[Graphiked/Graphiked/videos/BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Mentionnée dans le contexte PS
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Citée comme candidature potentielle que Faure pourrait envoyer à la primaire noisette à sa place : "Johanna Roland. Petit pronostic sur Johanna Roland peut-être à la place d'Olivier Fort." Stratégie de proxy pour Faure qui est minoritaire dans son propre parti et veut tester sans y laisser sa peau directement.
+- [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Mentionnée dans le contexte PS
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Victoire à 52% analysée, fragilité sans adversaire de gauche réformiste
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Citée comme potentielle candidate à la primaire des noisettes, "un peu plus à gauche" que Delga
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Initiative primaire avec Piolle et Bessac ; PaduTeam : cet appel "maires 2027" cache surtout des manœuvres pour les municipales 2026
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Citée comme potentielle candidate à la primaire des noisettes, "un peu plus à gauche" que Delga
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Initiative primaire avec Piolle et Bessac ; PaduTeam : cet appel "maires 2027" cache surtout des manœuvres pour les municipales 2026

@@ -17,7 +17,7 @@ Capsule extraite d'un live Twitch de Padu et Chris, répondant à un débat avec
 
 ## Thèses et analyses clés
 
-1. **Le marxisme n'est ni matérialisme ni idéalisme** : c'est le dépassement dialectique des deux. [[Lénine]] défend cette position contre les dérivations. Référence : *Matérialisme et empirio-criticisme*.
+1. **Le marxisme n'est ni matérialisme ni idéalisme** : c'est le dépassement dialectique des deux. [[Lenine]] défend cette position contre les dérivations. Référence : *Matérialisme et empirio-criticisme*.
 
 2. **Critique de William Reich** : [[William Reich]] n'est "ni marxiste ni psychanalyste" (Catherine Clément). Sa théorie pulsionnelle est incapable d'expliquer pourquoi le fascisme surgit à un moment historique précis, et n'a rien produit d'efficient pour combattre le fascisme. Charlatan.
 
@@ -32,13 +32,13 @@ Capsule extraite d'un live Twitch de Padu et Chris, répondant à un débat avec
 7. **Le Graphique comme outil léniniste** : le Graphique n'est pas de la "sociologie électorale" mais un outil pour identifier les sujets collectifs, leur vision du monde, et le programme qui peut les mobiliser sans les faire fuir. Exemple concret : les médecins — proposer le salariat plutôt que l'installation forcée à Mulhouse.
 
 ## Individus mentionnés
-[[Wissam Xelka]], [[Norman Ajari]], [[Georg Lukacs]], [[Lénine]], [[William Reich]], [[Rosa Luxemburg]], [[Eduard Bernstein]], [[Karl Kautsky]], [[Clara Zetkin]], [[Silvia Federici]], [[Leopoldina Fortunati]], [[Roswitha Scholz]], [[Claudia Jones]], [[Angela Davis]], [[Bobby Seale]], [[Huey Newton]], [[Black Panthers]], [[Thomas Sankara]], [[Frantz Fanon]], [[Charles Mills]], [[Lucien Goldmann]], [[Aimé Césaire]], [[Léopold Sédar Senghor]], [[Messali Hadj]], [[Ferhat Abbas]], [[Frank B. Wilderson III]], [[Jared Sexton]], [[Bernard Lahire]], [[Alain Bihr]], [[Werner Heisenberg]], [[Ilya Prigogine]]
+[[Wissam Xelka]], [[Norman Ajari]], [[Georg Lukacs]], [[Lenine]], [[William Reich]], [[Rosa Luxemburg]], [[Eduard Bernstein]], [[Karl Kautsky]], [[Clara Zetkin]], [[Silvia Federici]], [[Leopoldina Fortunati]], [[Roswitha Scholz]], [[Claudia Jones]], [[Angela Davis]], [[Bobby Seale]], [[Huey Newton]], [[Black Panthers]], [[Thomas Sankara]], [[Frantz Fanon]], [[Charles Mills]], [[Lucien Goldmann]], [[Aimé Césaire]], [[Leopold Sedar Senghor]], [[Messali Hadj]], [[Ferhat Abbas]], [[Frank B. Wilderson III]], [[Jared Sexton]], [[Bernard Lahire]], [[Alain Bihr]], [[Werner Heisenberg]], [[Ilya Prigogine]]
 
 ## Organisations mentionnées
-[[Black Panthers]], [[Positions Revue]], [[Front de Libération Nationale]], [[Mouvement National Algérien]], [[Parti Communiste Américain]], [[L'Humanité]]
+[[Black Panthers]], [[Positions Revue]], [[Front de Liberation Nationale]], [[Mouvement National Algerien]], [[Parti Communiste Americain]], [[L'Humanite]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Épistémologie marxiste]], [[Afropessimisme]], [[Pensée tragique]], [[Intégration du prolétariat]], [[Passage de l'abstrait au concret]]
+[[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Epistemologie marxiste]], [[Afropessimisme]], [[Pensee tragique]], [[Integration du proletariat]], [[Passage de l'abstrait au concret]]
 
 ## Enjeux avancés
 [[Le Graphique comme outil]] — la vidéo défend explicitement le Graphique comme outil léniniste d'analyse des sujets collectifs, pas comme simple sociologie électorale

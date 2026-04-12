@@ -16,4 +16,4 @@ Footballeur français d'origine algérienne, l'un des joueurs de l'équipe de Fr
 Cité comme exemple de la centralité du sport dans les luttes politiques progressistes. Des joueurs comme Mekhloufi "ont renoncé à jouer en équipe de France et ont rejoint l'équipe du FLN — des joueurs très importants." Preuve que le sport est politique et que ses moments de politisation les plus importants ont servi des causes de libération — contre la prétendue "neutralité" défendue par [[Fabien Roussel]] via la Charte olympique.
 
 ## Vidéos où Mekhloufi est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste, contre la position de Roussel.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste, contre la position de Roussel.

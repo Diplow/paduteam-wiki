@@ -67,7 +67,7 @@ Analyse du premier sondage IFOP 2026 sur la présidentielle, un rapport de 56 pa
 [[IFOP]], [[Rassemblement National]], [[France Insoumise]], [[Parti Socialiste]], [[Europe Ecologie Les Verts]], [[Les Republicains]], [[Horizon]], [[NFP]], [[Front de Gauche]], [[CGT]], [[La Breche]], [[Positions Revue]], [[PaduTeam]], [[On ne veut plus]], [[Le Figaro]], [[Sud Radio]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation]], [[Biais sondagier de droitisation]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Pacte raciste]], [[Pacte egalitaire]], [[Primaire des noisettes]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Eclatement du bloc central]], [[Barycentre electoral]], [[Sujet collectif]], [[Gauche de rupture]]
+[[Graphique]], [[Moisation]], [[Biais sondagier de droitisation]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Pacte raciste]], [[Pacte egalitaire]], [[Primaire des noisettes]], [[Plus jamais PS]], [[Eclatement du bloc central]], [[Barycentre electoral]], [[Sujet collectif]], [[Gauche de rupture]]
 
 ## Transcript
 [[SONDAGE ANTI-MÉLENCHON  L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR]]

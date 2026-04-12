@@ -15,4 +15,4 @@ Journaliste et présentateur (Europe 1, BFM TV). Animateur de l'émission "On re
 Présentateur du plateau où [[Laurent Wauquiez]] expose sa stratégie d'union des droites. Incarne le journaliste mainstream qui "commente des matchs déjà terminés" sans capacité d'anticipation — contrairement à la PaduTeam qui fait de la "politique fiction" à partir de l'analyse des forces en présence.
 
 ## Vidéos où Sotto est cité
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Présente l'émission commentée
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Présente l'émission commentée

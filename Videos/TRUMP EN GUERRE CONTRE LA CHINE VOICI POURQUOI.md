@@ -17,7 +17,7 @@ Capsule de Padu et Chris analysant la guerre commerciale Trump-Chine : pourquoi 
 
 ## Thèses et analyses clés
 
-1. **La Chine n'est plus l'atelier du monde** — Elle est devenue un concurrent économique d'égal à égal aux USA, avec des salaires horaires dépassant le SMIC de certains pays européens (~8$/h) et un marché intérieur croissant. Voir [[Échange inégal]].
+1. **La Chine n'est plus l'atelier du monde** — Elle est devenue un concurrent économique d'égal à égal aux USA, avec des salaires horaires dépassant le SMIC de certains pays européens (~8$/h) et un marché intérieur croissant. Voir [[Echange inegal]].
 
 2. **La Chine s'émancipe de la dépendance US** — Trois indicateurs : (a) diversification commerciale (moins de dépendance aux exports vers les USA), (b) réduction des bons du trésor américains au profit de l'or, (c) montée des partenariats avec l'ASEAN et les BRICS.
 
@@ -29,7 +29,7 @@ Capsule de Padu et Chris analysant la guerre commerciale Trump-Chine : pourquoi 
 
 6. **Le problème de l'inertie industrielle** — Même si les USA voulaient relocaliser, la formation d'un nouveau prolétariat productif + construction d'usines + réindustrialisation prend 3-7 ans. Le cycle électoral (4 ans) ne suit pas. Les Républicains pourraient perdre les midterms avant de voir les bénéfices.
 
-7. **La baisse du dollar aggrave tout** — Dollar passé de ~0,96 à 0,92 face à l'euro depuis janvier 2026. Une monnaie faible est favorable à l'export, mais si tu ne produis rien à exporter, tu ne peux ni importer (trop cher) ni exporter (rien à vendre). Voir [[Rareté sociale vs rareté naturelle]] et [[Baisse tendancielle du taux de profit]].
+7. **La baisse du dollar aggrave tout** — Dollar passé de ~0,96 à 0,92 face à l'euro depuis janvier 2026. Une monnaie faible est favorable à l'export, mais si tu ne produis rien à exporter, tu ne peux ni importer (trop cher) ni exporter (rien à vendre). Voir [[Rarete sociale vs rarete naturelle]] et [[Baisse tendancielle du taux de profit]].
 
 8. **Le piège protectionniste** — Une fois que les prix s'habituent aux droits de douane (disons 1300$ au lieu de 1000$), les producteurs locaux qui émergent ne visent pas 1000$ mais 1290$. Le marché comme contrainte contre la réindustrialisation réelle.
 
@@ -53,13 +53,13 @@ Capsule de Padu et Chris analysant la guerre commerciale Trump-Chine : pourquoi 
 | Impact sur PIB | -4,8 points en un trimestre (article Godin) |
 
 ## Individus mentionnés
-[[Donald Trump]], [[Xi Jinping]], [[Jean-Luc Mélenchon]], [[Romaric Godin]], [[Jean Robin]]
+[[Donald Trump]], [[Xi Jinping]], [[Jean-Luc Melenchon]], [[Romaric Godin]], [[Jean Robin]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Mediapart]], [[Positions Revue]], ASEAN (Asie du Sud-Est), BRICS
 
 ## Concepts mobilisés
-[[Échange inégal]], [[Protectionnisme anachronique]], [[Baisse tendancielle du taux de profit]], [[Crise de l'hegemonie americaine]], [[Néolibéralisme]], [[Rareté sociale vs rareté naturelle]], [[Socialisme ou barbarie]]
+[[Echange inegal]], [[Protectionnisme anachronique]], [[Baisse tendancielle du taux de profit]], [[Crise de l'hegemonie americaine]], [[Néolibéralisme]], [[Rarete sociale vs rarete naturelle]], [[Socialisme ou barbarie]]
 
 ## Enjeux avancés
 [[Anti-imperialisme]] — la Chine est présentée comme un acteur résistant à l'hégémonie US en s'émancipant progressivement de la dépendance au dollar et aux marchés américains

@@ -15,10 +15,10 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Organisation antifa, gauche radicale, base populaire urbaine.
 
 ## Dynamique
-Organisation antifasciste lyonnaise. [[Raphaël Arnaud]], ex-porte-parole, a ensuite été élu député [[France Insoumise]] — sa filiation avec la Jeune Garde était connue de tous les électeurs. La Jeune Garde est pointée du doigt par [[Collectif Némésis|Némésis]] dans le cadre de la rixe ayant coûté la vie à [[Quentin de Rang]] — la PaduTeam déconstruit ces accusations comme faisant partie de l'agenda politique de Némésis.
+Organisation antifasciste lyonnaise. [[Raphael Arnaud]], ex-porte-parole, a ensuite été élu député [[France Insoumise]] — sa filiation avec la Jeune Garde était connue de tous les électeurs. La Jeune Garde est pointée du doigt par [[Collectif Nemesis|Némésis]] dans le cadre de la rixe ayant coûté la vie à [[Quentin de Rang]] — la PaduTeam déconstruit ces accusations comme faisant partie de l'agenda politique de Némésis.
 
 ## Figures clés
-- [[Raphaël Arnaud]] — ex-porte-parole, devenu député LFI
+- [[Raphael Arnaud]] — ex-porte-parole, devenu député LFI
 
 ## Vidéos où La Jeune Garde est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]

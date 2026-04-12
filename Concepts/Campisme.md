@@ -21,4 +21,4 @@ En période de conflit (impérialisme, guerre des gauches), il faut choisir. La 
 - Géopolitique: soutenir Cuba, le Mexique, l'Iran, la Colombie, le Venezuela — "ça résiste de partout"
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

@@ -30,5 +30,5 @@ Sa victoire est une victoire du **centre**, pas de la gauche. Padu : "C'est le c
 - [[Rachida Dati]] — adversaire droite battu
 
 ## Vidéos où Grégoire est cité
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Victoire SANS alliance LFI ; démonstration que la fusion n'aurait rien apporté et aurait peut-être nui ; LFI perd des conseillers à cause de la pression des "castors".

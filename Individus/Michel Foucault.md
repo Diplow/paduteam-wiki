@@ -24,4 +24,4 @@ Le relativisme foucaldien par rapport à la vérité (chaque époque, chaque soc
 - [[Domenico Losurdo]] — critique marxiste de la filiation Nietzsche-Foucault
 
 ## Vidéos où Foucault est analysé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

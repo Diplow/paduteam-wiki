@@ -31,4 +31,4 @@ Son [[Antiracisme politique vs antiracisme moral|antiracisme abstrait]] lui inte
 - [[Marion Marechal]] — adversaire sur le terrai
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Décrit comme un "franc-tireur" : son clivage réel est avec l'abstention, pas avec le RN. Essaie de vendre du progressisme à des classes réactionnaires
+- [[GRAPHOMARXISME x Positions Revue]] — Décrit comme un "franc-tireur" : son clivage réel est avec l'abstention, pas avec le RN. Essaie de vendre du progressisme à des classes réactionnaires

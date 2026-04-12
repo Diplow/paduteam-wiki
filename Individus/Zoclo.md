@@ -20,4 +20,4 @@ A fait un react sur l'affaire Kroc Blanc notant des incohérences dans sa défen
 - [[Padu]] — cité positivement comme relai crédible
 
 ## Vidéos où Zoclo est mentionné
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

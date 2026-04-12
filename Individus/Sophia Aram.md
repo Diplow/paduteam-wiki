@@ -22,4 +22,4 @@ Le jour de la mort de [[Jean-Marie Le Pen]], Sophia Aram poste pour suggérer qu
 Fait des photos avec Mila, militante islamophobe connue pour avoir écrit des posts célébrant des violences contre des Palestiniens. Pour la PaduTeam, ça dit tout sur son positionnement réel.
 
 ## Vidéos où elle est mentionnée
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Tentative de rapprochement LFI/Le Pen le jour de sa mort
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Tentative de rapprochement LFI/Le Pen le jour de sa mort

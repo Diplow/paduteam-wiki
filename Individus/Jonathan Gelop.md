@@ -25,4 +25,4 @@ Chris l'analyse comme "le centre de formation de foot" : sur 1000 gamins qui y v
 - Invité aux côtés de [[Laurent Alexandre]], [[Wilfried Granier]], [[Od Geno]], [[Francis Lelon]], [[Neigma Traviglini]] dans l'émission analysée
 
 ## Vidéos où Jonathan Gelop est analysé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

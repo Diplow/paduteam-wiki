@@ -25,4 +25,4 @@ Pour la PaduTeam, le CICE est le mécanisme hollandiste par excellence : transfe
 Padu (ironie) : "Comme moi j'ai voté François Hollande, j'espère qu'il va bien réinjecter ça dans l'économie réelle, ce qui va permettre de créer de l'emploi et d'aller vers le plein emploi."
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme exemple emblématique de la redistribution hollandiste vers le haut
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme exemple emblématique de la redistribution hollandiste vers le haut

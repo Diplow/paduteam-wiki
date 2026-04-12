@@ -49,4 +49,4 @@ Paradoxalement, le PCF a quelque chose que la [[France Insoumise]] n'a pas : une
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
 - [[Le GRAPHIQUE est-il vraiment SEXISTE]]
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse de Roussel sur le vote 2017, Brossat à Bram vs Roussel absent
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de la crise interne Roussel/Brossat, 40e congrès prévu été 2026, PCF présent à Bram dans une coalition absurde avec des gens à droite de Mélenchon
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de la crise interne Roussel/Brossat, 40e congrès prévu été 2026, PCF présent à Bram dans une coalition absurde avec des gens à droite de Mélenchon

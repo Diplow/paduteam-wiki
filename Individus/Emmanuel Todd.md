@@ -43,5 +43,5 @@ Todd est prisé par les cercles rouge-bruns / souverainistes. Ce n'est pas un ac
 - [[Le Figaro]] — lieu de l'interview analysée
 
 ## Vidéos où Todd est analysé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris le qualifie d'"esprit limité, médiocre" par opposition à la méthode du [[Passage de l'abstrait au concret]] de Marx
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris le qualifie d'"esprit limité, médiocre" par opposition à la méthode du [[Passage de l'abstrait au concret]] de Marx

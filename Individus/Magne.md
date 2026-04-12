@@ -35,4 +35,4 @@ Non discutée.
 - Collabore avec les monteurs de [[La Breche]]
 
 ## Vidéos où Magne est analysé
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

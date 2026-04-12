@@ -22,7 +22,7 @@ Extrême droite, idéologiquement en dehors du salariat généralisé.
 Selon la PaduTeam (notamment Zoé) : Vota illustre le mécanisme par lequel l'expérience concrète du patriarcat peut remettre en question des convictions idéologiques d'extrême droite. Sa trajectoire est analysée positivement — elle a vécu ce qu'elle prônait et en a tiré une leçon. La miniature "avant/après" (de la tradwife en robe à fleurs à la femme "ultra woke") est classée banger.
 
 ## Relations
-- Comparée idéologiquement à [[Thaïs d'Escufon]] (même sphère extrême droite tradicato, mais évolution inverse)
+- Comparée idéologiquement à [[Thais d'Escufon]] (même sphère extrême droite tradicato, mais évolution inverse)
 
 ## Vidéos où Virginie Vota est analysée
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

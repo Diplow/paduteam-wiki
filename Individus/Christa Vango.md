@@ -26,9 +26,9 @@ La PaduTeam analyse que Christa a subi un double invisibilisation en tant que fe
 
 ## Relations
 - Victime des violences de [[Dany Caligula]]
-- Contactée et soutenue par [[Zoé Dubus]] à partir du 25 février 2025
+- Contactée et soutenue par [[Zoe Dubus]] à partir du 25 février 2025
 - A autorisé la PaduTeam à porter sa parole
 
 ## Vidéos où Christa Vango est mentionnée
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

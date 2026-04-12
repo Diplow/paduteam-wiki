@@ -24,7 +24,7 @@ Pour la PaduTeam, la gauche molle a une morale libérale **et** une pratique lib
 La gauche molle se situe dans la partie haute-gauche du Graphique : bourgeoisie progressiste, classes supérieures diplômées. Elle recrute dans les mêmes espaces sociologiques que le macronisme.
 
 ## Exemples
-- [[Raphaël Glucksmann]] / [[Place Publique]] : prototype de la gauche molle atlantiste
+- [[Raphael Glucksmann]] / [[Place Publique]] : prototype de la gauche molle atlantiste
 - [[Parti Socialiste]] : gauche molle institutionnelle historique
 - Marine Tondelier / [[Europe Ecologie Les Verts]] : gauche molle écologiste
 
@@ -32,6 +32,6 @@ La gauche molle se situe dans la partie haute-gauche du Graphique : bourgeoisie 
 La gauche molle reste dans le **bloc de gauche** — parce qu'elle est obligée, face à la crise du néolibéralisme, d'aller "piocher dans la justice sociale" pour exister politiquement. Elle ne peut pas être "ni gauche ni droite" (l'espace macroniste est fermé). Elle sera donc contrainte d'appeler à voter pour la gauche de rupture au 2e tour contre l'extrême droite. C'est sa valeur stratégique pour la PaduTeam : pas un allié idéologique, mais un espace qui "maximise le bloc de gauche."
 
 ## Vidéos où le concept est développé
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]] — Analyse complète de Glucksmann comme modèle de gauche molle
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Analyse complète de Glucksmann comme modèle de gauche molle
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]]

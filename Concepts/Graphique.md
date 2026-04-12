@@ -39,7 +39,7 @@ Un projet est en cours pour rendre l'algorithme public et permettre d'ajouter de
 
 ## Mécanique du ranking
 
-Dans le transcript de [[LORDON MÉLENCHON peut GAGNER en 2027]], Chris donne une description technique précise du Graphique :
+Dans le transcript de [[LORDON MELENCHON peut GAGNER en 2027]], Chris donne une description technique précise du Graphique :
 
 > "En fait, c'est ce qu'on appelle en statistique, en mathématiques, une matrice ACM sur lequel on va essayer de distribuer une note, un ranking. Les unités vont de -10 à +10. Et en fait derrière, il y a un algorithme en fonction du taux de propriété, du niveau de diplôme sur l'axe y et cetera. Quand vous êtes cadre, sur l'axe y vous êtes rankqué plus haut que quand vous êtes exécutant. Quand vous avez beaucoup plus de capital de votre entreprise, même si c'est une petite entreprise, on considère en marxiste que ça détermine votre rapport au travail et donc vous êtes rankqué plus à droite que si vous êtes seulement salarié."
 
@@ -71,7 +71,7 @@ Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdie
 
 ## Évolution historique
 - **2002**: éparpillement total, abstention centrale et transclasse, pas de bloc central, espace vide en bas-gauche (futur espace Mélenchon)
-- **2022**: agrégation des blocs, [[Jean-Luc Mélenchon]] consolide la gauche populaire, Macron solidifie le [[Bloc bourgeois]], [[Marine Le Pen]] se déporte vers les classes populaires — diagonale de lutte des classes
+- **2022**: agrégation des blocs, [[Jean-Luc Melenchon]] consolide la gauche populaire, Macron solidifie le [[Bloc bourgeois]], [[Marine Le Pen]] se déporte vers les classes populaires — diagonale de lutte des classes
 - **2027**: retour à l'éparpillement (comme 2002), [[Éclatement du bloc central]], abstention se déplace à droite (retraités), classes populaires se remobilisent à gauche — fin de la boucle ouverte le 21 avril 2002
 
 ## Observations clés
@@ -84,7 +84,7 @@ Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdie
 
 ## Validation externe
 
-[[Frédéric Lordon]], dans une interview sur [[Blast]], arrive aux mêmes conclusions que le Graphique sur 2027 sans nommer l'outil. Padu et Chris y voient une confirmation que "l'esprit du temps est là" et que la convergence n'est pas accidentelle. Ils suspectent que Lordon les regarde et a intégré leur analyse.
+[[Frederic Lordon]], dans une interview sur [[Blast]], arrive aux mêmes conclusions que le Graphique sur 2027 sans nommer l'outil. Padu et Chris y voient une confirmation que "l'esprit du temps est là" et que la convergence n'est pas accidentelle. Ils suspectent que Lordon les regarde et a intégré leur analyse.
 
 La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les critiques qui lui sont adressées (sexisme, racisme, réductionnisme) sont mal posées : genre et race ne sont pas absents du Graphique, ils sont encodés dans les [[Dimensions tierces du Graphique]], lisibles à l'intérieur des ronds (PCS). Ajouter une 3D explicite le rendrait illisible.
 
@@ -103,15 +103,15 @@ La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les c
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|La CARTE DES QI version MARXISTE]] — Capsule pédagogique de référence : explication complète des deux axes (Marx = exploitation, Bourdieu = domination), distribution de toutes les PCS INSEE, explication de l'algorithme, puis analyse électorale comparative 2017/2022/européennes 2024 par barycentres en composition
 - [[Faure oblige de trahir]] — Rappel pédagogique complet (axes, barycentres, composition vs captation), application aux européennes 2024, annonce de développements futurs (dimensions tierces par âge/ville/région, données Piketty, ouverture publique du code, analyses historiques)
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Nouvelle application : le Graphique distingue clivage de classe (diagonale parallèle) et [[Clivage generationnel]] (diagonale perpendiculaire) sur le cannabis. Roussel est inadéquat sur la question, Mélenchon parfaitement adéquat aux actifs
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Exercice de prédiction pure : le Graphique projette Villepin à 6-7% max en analysant l'espace de classe élection par élection. Nouvelle version interactive présentée. Défense de la prédiction comme base de l'esprit scientifique
+- [[GRAPHOMARXISME x Positions Revue]] — Exercice de prédiction pure : le Graphique projette Villepin à 6-7% max en analysant l'espace de classe élection par élection. Nouvelle version interactive présentée. Défense de la prédiction comme base de l'esprit scientifique
 - [[Nicolas qui paye]] — Application du Graphique au vote des cadres seuls en 2017 et 2022, montrant la gauchisation (Mélenchon 15%→20%, Fillon/Pécresse 15%→5%) et l'effondrement de la droite dans cette catégorie
 - [[Hollande vs Melenchon 2e tour]] — Démonstration magistrale : analyse complète du Graphique 2002 (16 candidats positionnés), explication du concept d'espace sociologique partagé ("même espace = mêmes rapports matériels = mêmes problèmes"), puis projection sur 2027. Le Graphique construit visuellement la prophétie du 2002 inversé
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Capsule pédagogique fondamentale : Chris explique à Zoé les deux axes, la [[Diagonale de pouvoir]], les espaces révolutionnaire/réactionnaire, la [[Socialisation des moyens de production]] vs désocialisation néolibérale. Application à la profession médicale. Références bibliographiques complètes (Mallet, Wright, Bihr, Bidet, Amable/Palombarini)
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — [[Marc]], YouTubeur masculiniste, a créé son propre tableur d'analyse ("calculateur de la passe maritale"), involontairement parodique du Graphique — d'où le titre de la vidéo
-- [[LORDON MÉLENCHON peut GAGNER en 2027]] — Description technique détaillée du ranking ACM (-10 à +10) ; validation implicite par Lordon
+- [[LORDON MELENCHON peut GAGNER en 2027]] — Description technique détaillée du ranking ACM (-10 à +10) ; validation implicite par Lordon
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Distinction fondamentale entre Graphique et Bourdieu : [[Rapports de production]] vs capitaux cumulés. Application aux artisans, livreurs Uber, médecins, auto-entrepreneurs
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — "La prophétie du Graphique" confirmée par les sondages agrégés : effondrement du centre (18% → 14%), chute du RN (36% → 29%), montée de la gauche. La [[Moisation]] visible en temps réel
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Bergé qualifiée de "marionnette du graphique" : ses mouvements sont exactement ce que le Graphique prédit pour la consolidation du bloc de droite réactionnaire
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Le Graphique prédit la configuration Retailleau/Le Pen/Mélenchon au 1er tour
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Validation mainstream de la prophétie ; les journalistes convergent vers les conclusions du Graphique sans en saisir la portée ; graphiques 2017 et 2022 montrés pour documenter la sous-estimation systématique du bloc gauche
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Présentation pédagogique de l'outil en fin de vidéo : explication des CSP et comportement politique, exemple "propriétaire de 10 salariés vs travailleur agricole". Padu qualifie la capsule Graphique/Positions Revue de "peut-être la vidéo la plus importante du mois de janvier"
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Bergé qualifiée de "marionnette du graphique" : ses mouvements sont exactement ce que le Graphique prédit pour la consolidation du bloc de droite réactionnaire
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Le Graphique prédit la configuration Retailleau/Le Pen/Mélenchon au 1er tour
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Validation mainstream de la prophétie ; les journalistes convergent vers les conclusions du Graphique sans en saisir la portée ; graphiques 2017 et 2022 montrés pour documenter la sous-estimation systématique du bloc gauche
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Présentation pédagogique de l'outil en fin de vidéo : explication des CSP et comportement politique, exemple "propriétaire de 10 salariés vs travailleur agricole". Padu qualifie la capsule Graphique/Positions Revue de "peut-être la vidéo la plus importante du mois de janvier"

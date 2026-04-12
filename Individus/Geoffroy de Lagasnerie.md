@@ -43,12 +43,12 @@ Lagasnerie est critiqué pour sa conception de la société qui ne fait pas de p
 ## Relations
 - [[France Insoumise]] — soutien loyal
 - [[Sophia Chikirou]] — soutien affiché (candidature municipale à Paris)
-- [[Frédéric Lordon]] — même catégorie d'adversaire intellectuel allié politique
+- [[Frederic Lordon]] — même catégorie d'adversaire intellectuel allié politique
 - [[Michel Foucault]] — filiation intellectuelle revendiquée
 - [[Friedrich Nietzsche]] — filiation aristocratique intellectuelle
 - [[Emmanuel Todd]] — postures opposées (conservateur vs progressiste) mais même incapacité à penser les nouvelles structures familiales
 - [[Blast]] — plateforme de sa série sur la démocratie
 
 ## Vidéos où Lagasnerie est analysé
-- [[TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

@@ -17,7 +17,7 @@ Candidat [[Parti Socialiste|PS]] à la présidentielle 2017, ancien ministre de 
 Sur le [[Graphique]], Hamon occupe le même espace que [[Yannick Jadot]] en 2022 — pile au même endroit, dans l'espace des catégories diplômées et confortables. C'est le "remplaçant de Benoît Hamon" selon [[Chris]], illustrant la stabilité sociologique de l'électorat vert/PS de gauche : toujours les mêmes PCS, toujours le même espace.
 
 ## Relations
-- [[Génération.s]] — fondateur, parti créé après la présidentielle 2017
+- [[Generation.s]] — fondateur, parti créé après la présidentielle 2017
 - [[Benjamin Lucas]] — "bras droit", figure associée à son parti
 
 ## Vidéos où l'individu est analysé

@@ -13,11 +13,11 @@ statut: ébauche
 Leader de la Ligue (Lega) italienne, ancien vice-Premier ministre d'Italie. Figure de l'extrême droite italienne ayant précédé [[Giorgia Meloni]] dans l'occupation du paysage national-autoritaire.
 
 ## Stratégie et trajectoire
-Mentionné comme une étape dans la dynamique de l'[[Internationale fasciste]] européenne : il a culminé politiquement avant de décliner, laissant la place à Meloni. Son appartenance à l'axe national-autoritaire pro-Poutine le relie à [[Viktor Orbán]] et [[Marine Le Pen]].
+Mentionné comme une étape dans la dynamique de l'[[Internationale fasciste]] européenne : il a culminé politiquement avant de décliner, laissant la place à Meloni. Son appartenance à l'axe national-autoritaire pro-Poutine le relie à [[Viktor Orban]] et [[Marine Le Pen]].
 
 ## Relations
 - [[Giorgia Meloni]] — concurrence et succession dans l'espace de l'extrême droite italienne
-- [[Viktor Orbán]] — internationale nationale-autoritaire
+- [[Viktor Orban]] — internationale nationale-autoritaire
 
 ## Vidéos où Salvini est mentionné
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

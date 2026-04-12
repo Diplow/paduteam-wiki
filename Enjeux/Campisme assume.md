@@ -29,5 +29,5 @@ Les trotskistes (NPA, Lutte Ouvrière, Révolution Permanente) qui refusent le c
 Principe revendiqué dès les débuts de la chaîne, appliqué de manière constante. L'enlèvement de Maduro (2026) a durci le discours — la PaduTeam a explicitement dénoncé les ni-nistes comme complices objectifs de l'impérialisme.
 
 ## Vidéos clés
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]] — Critique frontale du ni-nisme face à l'enlèvement de Maduro, défense du campisme bolivarien
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Critique frontale du ni-nisme face à l'enlèvement de Maduro, défense du campisme bolivarien
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Le campisme appliqué à la cause palestinienne et à la solidarité internationale

@@ -16,4 +16,4 @@ Philosophe néerlandais du 17e siècle. Pour la PaduTeam, c'est le vrai iconocla
 Spinoza est utilisé comme étalon pour mesurer la médiocrité de [[Friedrich Nietzsche]]. Là où Spinoza a réellement risqué sa vie en critiquant la religion dominante, Nietzsche n'a attaqué qu'un cadavre (la chrétienté déjà mourante) pour masquer sa vraie cible : l'égalitarisme socialiste. Nietzsche est "un Spinoza faible, lâche et médiocre."
 
 ## Vidéos où Spinoza est analysé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

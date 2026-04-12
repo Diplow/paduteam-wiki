@@ -30,7 +30,7 @@ Ce cadre s'oppose à [[Norman Ajari]] et aux théoriciens qui posent une forme d
 
 Pour exploiter les saisonniers marocains dans des conditions proches de l'esclavage (11-12h/jour, 5€/heure sur les fiches de paye, logements insalubres, paiement en liquide retenu en fin de saison), l'exploitant doit les déshumaniser. "Pour eux, c'est du bétail." Le racisme remplit cette fonction économique : il permet de réaliser un taux de profit impossible avec une main d'œuvre disposant de sa pleine dignité.
 
-Le [[Racisme comme fonctionnalité du capitalisme|racisme n'est pas une idéologie arbitraire]] — il remplit une fonctionnalité matérielle dans le système.
+Le [[Racisme comme fonctionnalite du capitalisme|racisme n'est pas une idéologie arbitraire]] — il remplit une fonctionnalité matérielle dans le système.
 
 ### Critique de l'idéalisme dans l'analyse du racisme
 
@@ -38,7 +38,7 @@ Le [[Racisme comme fonctionnalité du capitalisme|racisme n'est pas une idéolog
 
 ### Internationalisme ouvrier contre nationalisme
 
-La nationalité est un "[[Nationalité comme privilège féodal|privilège féodal]]" qui sert à diviser les travailleurs. Les droits du travail doivent être universels, indépendants de la nationalité, de la langue, de la religion, de l'assimilation culturelle. Critique directe de [[François Ruffin]] et [[Fabien Roussel]] qui agitent le drapeau national et l'assimilation : c'est "se tirer une balle dans le pied" et reconstruire un "logiciel assimilationniste".
+La nationalité est un "[[Nationalite comme privilege feodal|privilège féodal]]" qui sert à diviser les travailleurs. Les droits du travail doivent être universels, indépendants de la nationalité, de la langue, de la religion, de l'assimilation culturelle. Critique directe de [[Francois Ruffin]] et [[Fabien Roussel]] qui agitent le drapeau national et l'assimilation : c'est "se tirer une balle dans le pied" et reconstruire un "logiciel assimilationniste".
 
 Padu développe la distinction : le patriotisme est un sentiment légitime (comme l'amour de sa mère) mais ne peut pas être un programme politique sans devenir violence envers autrui. Albert Camus en est l'exemple : "Entre la justice et ma mère, je choisis ma mère" en a fait "un crétin politique" incapable de comprendre le colonialisme.
 
@@ -60,9 +60,9 @@ Le marché du travail capitaliste exige structurellement que l'offre de travail 
 - [[W.E.B. Du Bois]] — théoricien afro-américain, référence positive
 - [[Norman Ajari]] — philosophe critiqué pour son idéalisme sur le racisme
 - [[Raoul Peck]] — cinéaste, auteur du film "Le jeune Marx" (mentionné)
-- [[François Ruffin]] — critiqué pour sa stratégie nationaliste
+- [[Francois Ruffin]] — critiqué pour sa stratégie nationaliste
 - [[Fabien Roussel]] — critiqué pour son nationalisme
-- [[Antoine Léoman]] — mentionné comme camarade de gauche sur la question assimilation/drapeau
+- [[Antoine Léaument]] — mentionné comme camarade de gauche sur la question assimilation/drapeau
 - [[Lucien Goldmann]] — cité sur la "fonctionnalité" et la signification des actions humaines
 
 ## Organisations mentionnées
@@ -73,8 +73,8 @@ Le marché du travail capitaliste exige structurellement que l'offre de travail 
 
 ## Concepts mobilisés
 
-- [[Racisme comme fonctionnalité du capitalisme]]
-- [[Nationalité comme privilège féodal]]
+- [[Racisme comme fonctionnalite du capitalisme]]
+- [[Nationalite comme privilege feodal]]
 - [[Internationalisme ouvrier]]
 - [[Graphique]] — "bas à droite" = exploitants agricoles petits-bourgeois
 - [[Rapports de production]]

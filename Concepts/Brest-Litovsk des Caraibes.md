@@ -23,4 +23,4 @@ Brest-Litovsk (1918): les soviétiques perdent des territoires face à l'Empire 
 L'industrie pétrolière vénézuélienne est structurellement tournée vers les USA: pièces de rechange, raffineries du sud-est américain adaptées au pétrole extra-lourd vénézuélien. Même sous Chavez, 60% des exportations allaient aux USA. La réorientation commerciale n'est pas une trahison mais une nécessité structurelle.
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

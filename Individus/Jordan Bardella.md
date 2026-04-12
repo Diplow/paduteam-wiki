@@ -69,7 +69,7 @@ Les municipales confirment la fracture géographique et idéologique au sein du 
 
 L'image de "gendre idéal" construite autour de Bardella ne lui sert pas — elle sert [[Marine Le Pen]] pour le maintenir dans sa roue. "C'est vraiment soit jeune, beau gosse et tais-toi." S'il veut avoir un avenir politique propre, il doit en sortir.
 
-**La prophétie barbe** : quand Bardella se laissera pousser la barbe et s'affichera en villégiature avec [[Rodolphe Saadé]] (ou figures similaires du grand patronat), c'est le signal qu'il s'affranchit des jupons de Le Pen. Il adoptera alors une ligne libérale assumée — bascule définitive vers le [[Mélonisme et Trumpisme|mélonisme]].
+**La prophétie barbe** : quand Bardella se laissera pousser la barbe et s'affichera en villégiature avec [[Rodolphe Saade]] (ou figures similaires du grand patronat), c'est le signal qu'il s'affranchit des jupons de Le Pen. Il adoptera alors une ligne libérale assumée — bascule définitive vers le [[Melonisme et Trumpisme|mélonisme]].
 
 ## Comparaison avec Louis Sarkozy
 Dans la vidéo Louis Sarkozy, la PaduTeam distingue les deux : Bardella "a au moins un parcours", se revendique des banlieues (même si son père est chef d'entreprise — "c'est bidon, mais il a ce côté-là"). Bardella a des chances de devenir président ; Louis Sarkozy aucune. Bardella est un arriviste "à la Napoléon petit" qui a au moins de la constance. Louis Sarkozy est une farce en dessous de ça.
@@ -87,17 +87,17 @@ Avec [[Marine Le Pen]] condamnée et inéligible immédiatement (mars 2026), Bar
 Chris : "Bardella, ça aucun intérêt pour lui trahir... il va juste partir avec quelques classiques du RN pour faire une union des droites avec Retailleau. Il sera accueilli les bras ouverts. Il sera accueilli comme un prince."
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]] — Analyse post-condamnation Le Pen : le dilemme Bardella amplifié, scénario trahison Chirac 74, pire config pour la gauche
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Saute sur l'opportunité du cordon sanitaire inversé offert par Bergé
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Analyse post-condamnation Le Pen : le dilemme Bardella amplifié, scénario trahison Chirac 74, pire config pour la gauche
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Saute sur l'opportunité du cordon sanitaire inversé offert par Bergé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Hollande vs Melenchon 2e tour]] — Comparé à Jospin 2002, sacrifié par l'interne, 3e éliminé
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Se déporte à droite par rapport à Le Pen sur le Graphique 2024. Son plus gros risque : se faire dépasser au 1er tour par un candidat de droite classique (triangulaire)
-- [[Graphiked/Graphiked/videos/LE PEN DÉCLARE la GUERRE à BARDELLA !!]] — Début de la guerre interne RN, dilemme trahir ou attendre 20 ans
+- [[GRAPHOMARXISME x Positions Revue]] — Se déporte à droite par rapport à Le Pen sur le Graphique 2024. Son plus gros risque : se faire dépasser au 1er tour par un candidat de droite classique (triangulaire)
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Début de la guerre interne RN, dilemme trahir ou attendre 20 ans
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Donné à 36% par l'IFOP, "repassé à droite" sur le Graphique (capte retraités + professions intermédiaires), incohérence sociologique dénoncée
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 36% au 1er tour et 74% au 2nd tour par [[Odoxa]], mais le sondage est démoli : adhérence de 89% cohérente côté Bardella, mais tout le biais porte sur la disparition d'électeurs Mélenchon. Qualifié de "baudruche" incapable de tenir la distance dans un débat face à Mélenchon
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Incapable de répondre face aux droits de douane de Trump ; atlantisme structurel ; programme de vassalisation ; comparaison avec Maurras et la "divine providence"
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction stratégique Le Pen (peuple français) vs Bardella (nation/performance économique) ; invention du "parasite du milieu" (le fonctionnaire) ; dérive vers la droite système
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — RN stagne dans les grandes villes et dans le Nord ; avance dans les petites et moyennes villes du Sud. Clivage géographique = clivage de ligne idéologique interne au RN.
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — Comparé à Louis Sarkozy : Bardella "a au moins un parcours" même si arriviste ; a des chances de devenir président, Louis Sarkozy aucune
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Dilemme électorat incompatible (populaire RN vs libéral-patronal) ; image de gendre idéal comme outil de Le Pen ; prophétie barbe ; distinction mélonisme (Bardella) vs trumpisme (Le Pen)
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Comparé à Louis Sarkozy : Bardella "a au moins un parcours" même si arriviste ; a des chances de devenir président, Louis Sarkozy aucune
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Dilemme électorat incompatible (populaire RN vs libéral-patronal) ; image de gendre idéal comme outil de Le Pen ; prophétie barbe ; distinction mélonisme (Bardella) vs trumpisme (Le Pen)

@@ -44,13 +44,13 @@ Conte de Noël politique en 4 actes + épilogue : bilan 2025 de chaque "maison" 
 [[Francois Ruffin]], [[Clémentine Autain]], [[Raquel Garrido]], [[Alexis Corbière]], [[Marine Tondelier]], [[Fabien Roussel]], [[Sandrine Rousseau]], [[Yannick Jadot]], [[Marie Toussaint]], [[Olivier Faure]], [[François Hollande]], [[Raphael Glucksmann]], [[Bad Mulch]], [[Daniel Simonet]], [[Gérard Filoche]], [[Cécile Cukierman]], [[Lucy Castets]], [[Jean-Luc Melenchon]]
 
 ## Organisations mentionnées
-[[France Insoumise]], [[Parti Socialiste]], [[L'Après]], [[Europe Ecologie Les Verts]], [[Parti Communiste Francais]], [[NFP]], [[La Breche]], [[MJCF]], [[On ne veut plus]]
+[[France Insoumise]], [[Parti Socialiste]], [[L'Apres]], [[Europe Ecologie Les Verts]], [[Parti Communiste Francais]], [[NFP]], [[La Breche]], [[MJCF]], [[On ne veut plus]]
 
 ## Concepts mobilisés
 [[Noisettes]], [[Graphique]], [[Moisation]], [[Primaire des noisettes]], [[Guerre des gauches]], [[Periode de confusion]], [[Gauche de rupture]], [[Huile de noisette]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Faure instrumentalise la primaire pour se légitimer, le PS reste structurellement l'ennemi de la gauche de rupture
+[[Plus jamais PS]] — Faure instrumentalise la primaire pour se légitimer, le PS reste structurellement l'ennemi de la gauche de rupture
 [[Union populaire]] — Seule LFI peut représenter la gauche de rupture ; toutes les tentatives alternatives échouent
 [[Graphique]] — Utilisé pour montrer que Roussel parle aux mêmes catégories que Zemmour ; que Tondelier hérite de la base orpheline PS/Jado
 

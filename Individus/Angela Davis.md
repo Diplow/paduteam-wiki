@@ -19,7 +19,7 @@ Angela Davis représente le courant marxiste du mouvement noir américain, issu 
 - [[Claudia Jones]] — prédécesseure au Parti Communiste américain
 - [[Black Panthers]] — mouvement noir marxiste contemporain
 - [[Frank B. Wilderson III]] — contraste, figure de l'afropessimisme
-- [[Parti Communiste Américain]] — organisation d'appartenance
+- [[Parti Communiste Americain]] — organisation d'appartenance
 
 ## Vidéos où Davis est mentionnée
 - [[Le MARXISME, un TRUC de BLANC]] — citée comme représentante du marxisme noir américain

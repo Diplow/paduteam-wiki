@@ -17,7 +17,7 @@ Projet de primaire de la gauche porté par [[Marine Tondelier]] ([[Europe Ecolog
 Sans [[France Insoumise]] et sans [[Parti Socialiste]] (pris par sa crise interne entre [[Olivier Faure]], [[Boris Vallaud]] et [[Nicolas Mayer-Rossignol]]), la primaire revient à "élire le président du groupe écologiste à l'Assemblée nationale". N'a pas la masse critique pour prétendre désigner le candidat de la gauche.
 
 ## Version Ruffin 2027
-Dans la version 2027 de la primaire noisette (prédite par le graphique), [[Francois Ruffin]] organise une primaire avec [[L'Après]], [[Génération.s]] et autres petits partis. Candidats attendus : [[Clémentine Autain]], Ruffin, [[Alexis Corbière]], [[Lucy Castets]]. Chris : "Oh la primaire des enfers." Ruffin la gagnera, mais ne fera que 6% à la présidentielle — pas d'espace entre le bloc Mélenchon et le bloc Glucksmann-PS.
+Dans la version 2027 de la primaire noisette (prédite par le graphique), [[Francois Ruffin]] organise une primaire avec [[L'Apres]], [[Generation.s]] et autres petits partis. Candidats attendus : [[Clémentine Autain]], Ruffin, [[Alexis Corbière]], [[Lucy Castets]]. Chris : "Oh la primaire des enfers." Ruffin la gagnera, mais ne fera que 6% à la présidentielle — pas d'espace entre le bloc Mélenchon et le bloc Glucksmann-PS.
 
 ## Analyse 2025 (Seigneurs des Noisettes)
 En 2025, [[Marine Tondelier]] est la principale promotrice de la primaire, poussant même à y inclure [[Raphael Glucksmann]] ("peu importe si c'est Glucksmann ou Mélenchon, je me range derrière"). La PaduTeam y voit une stratégie purement personnelle : Tondelier a besoin de la primaire pour exister au-delà des 2-3% d'EELV. Elle fait des "petits arrangements" avec [[Olivier Faure]] (abstention au budget sécu) pour que la primaire se tienne.
@@ -38,16 +38,16 @@ Les résultats des municipales confirment que la primaire des noisettes est mort
 
 ## Annonce officielle de novembre 2025
 
-La "gauche unitaire" se réunit le 15 novembre 2025 et annonce officiellement la primaire pour l'automne 2026. Candidats déclarés à ce stade : [[François Ruffin]] (roi des noisettes), [[Clémentine Autain]] (comtesse), [[Marine Tondelier]] (reine des noisettes). [[Olivier Faure]] en retrait — ni confirmé ni infirmé, intrigue encore ("il va peut-être envoyer un prête-nom, comme Johanna Roland").
+La "gauche unitaire" se réunit le 15 novembre 2025 et annonce officiellement la primaire pour l'automne 2026. Candidats déclarés à ce stade : [[Francois Ruffin]] (roi des noisettes), [[Clémentine Autain]] (comtesse), [[Marine Tondelier]] (reine des noisettes). [[Olivier Faure]] en retrait — ni confirmé ni infirmé, intrigue encore ("il va peut-être envoyer un prête-nom, comme Johanna Roland").
 
-[[Jean-Luc Mélenchon]] et [[Raphaël Glucksmann]] refusent de participer, "persuadés de pouvoir s'imposer comme vote utile."
+[[Jean-Luc Melenchon]] et [[Raphael Glucksmann]] refusent de participer, "persuadés de pouvoir s'imposer comme vote utile."
 
 La PaduTeam note la réunion secrète révélée par Le Figaro entre PS, Écologistes et représentants du bloc central ([[Gabriel Attal]]) — derrière la primaire unitaire, des tractations avec le gouvernement pour faire passer un budget. La primaire de l'union cache une stratégie anti-LFI.
 
 ## Vidéos
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la primaire comme nécessité existentielle de Tondelier, jeux d'arrangements avec Faure, prédiction d'échec
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Festival de la Noisette de Bram comme lancement officieux de la course, Rousseau bloquée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Mort officielle : Tondelier en réunion de crise, perd Bordeaux/Strasbourg/Poitiers. "Tout dit le contraire d'aller à la primaire."
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"

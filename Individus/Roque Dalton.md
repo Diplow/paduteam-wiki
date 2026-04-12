@@ -13,4 +13,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Poète et militant social salvadorien, le plus important du Salvador. Assassiné en 1975 d'une balle dans la tête par Joaquin Villalobos, dirigeant de l'ERP (Armée révolutionnaire du peuple), qui était en réalité un agent de la [[CIA]]. Dalton a été exécuté sous le prétexte d'être un agent infiltré de l'impérialisme — alors que c'est son accusateur qui était l'agent. Exemple historique de la [[Guerre psychologique imperialiste]] utilisée pour fracturer les mouvements révolutionnaires.
 
 ## Vidéos où Dalton est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

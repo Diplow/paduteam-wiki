@@ -26,7 +26,7 @@ Philosophe marxiste français (1928-2009), proche du PCF, adversaire déclaré d
 - **Le capitalisme de la séduction** — Moins apprécié par Padu, "livre de commande."
 
 ## Relation à Soral
-Clouscard a renié Soral — il l'a traité de "lepéniste mental" dans L'Humanité, affirmant que "ma pensée est aux antipodes de celle de Le Pen." C'est évident : Clouscard était communiste toute sa vie, contre de Gaulle, et pour une prise de pouvoir du salariat généralisé débouchant sur un socialisme démocratique et autogestionnaire. Soral cite des formules de Clouscard sans en lire (ni comprendre) l'œuvre — c'est la [[Logorrhée]] au service de l'argument d'autorité.
+Clouscard a renié Soral — il l'a traité de "lepéniste mental" dans L'Humanité, affirmant que "ma pensée est aux antipodes de celle de Le Pen." C'est évident : Clouscard était communiste toute sa vie, contre de Gaulle, et pour une prise de pouvoir du salariat généralisé débouchant sur un socialisme démocratique et autogestionnaire. Soral cite des formules de Clouscard sans en lire (ni comprendre) l'œuvre — c'est la [[Logorrhee]] au service de l'argument d'autorité.
 
 ## Ce que Soral dit de Clouscard (et ce que ça révèle)
 Dans un live de Géopolitique Profonde, Soral cite "la métamorphose de la lutte des classes" pour justifier une économie mixte gaulliste à la Xavier Bertrand. C'est une trahison totale : Clouscard n'a jamais défendu ni la petite bourgeoisie, ni le gaullisme, ni l'économie mixte. Chris et Padu : "il a lu le titre et pas le contenu." La "métamorphose" chez Clouscard c'est l'émergence du salariat généralisé comme nouveau prolétariat — pas une défense du petit commerce.
@@ -38,7 +38,7 @@ Dans un live de Géopolitique Profonde, Soral cite "la métamorphose de la lutte
 Clouscard appartient à une génération de penseurs des années 50-60 qui bénéficient d'une université encore non segmentée en départements. Il mêle psychiatrie, philosophie, sociologie, histoire — dans la même veine que Foucault. Cette interdisciplinarité produit une puissance synthétique qu'on ne retrouve plus après la segmentation universitaire.
 
 ## Relations
-- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — l'a renié publiquement ; Soral continue de se revendiquer de lui par [[Logorrhée]]
+- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — l'a renié publiquement ; Soral continue de se revendiquer de lui par [[Logorrhee]]
 - [[Chris]] — le cite comme référence principale
 - [[Padu]] — l'a beaucoup lu (sauf *Les chemins de la praxis*)
 - [[Lucien Goldmann]] — l'a influencé ; Clouscard l'a probablement connu via Goldman
@@ -49,4 +49,4 @@ Clouscard appartient à une génération de penseurs des années 50-60 qui bén�
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Analyse détaillée de la méconnaissance de Clouscard par Soral ; commentaire de ses œuvres ; Clouscard vs gaullisme ; concept de salariat généralisé
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique dialectique des dualismes frivole/sérieux ; lien avec l'hygiénisme prolétarien
 - [[FROM TROTSKISTE TO RACISTE]] — Récupération de Clouscard par Soral ; règle "se méfier de qui ne prend qu'une partie de l'œuvre"
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]] — Cité en comparaison
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Cité en comparaison

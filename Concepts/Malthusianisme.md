@@ -30,4 +30,4 @@ Idéologie qui considère que la croissance démographique est un problème en s
 La crise climatique est réelle — mais c'est une **crise politique** de la manière dont on s'organise face au changement climatique. Sous le capitalisme, les classes populaires et la périphérie impérialiste la vivront beaucoup plus brutalement. La réponse n'est pas de réduire la population mais de mener une lutte radicale anticapitaliste pour que chaque vie humaine puisse être préservée.
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

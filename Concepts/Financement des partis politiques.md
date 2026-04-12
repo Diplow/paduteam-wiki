@@ -30,5 +30,5 @@ La conséquence directe du financement public est le [[Syndrome Batman]] : les m
 Chris : "Aujourd'hui, regardez, les trois grands partis présidentiels sont des partis sans militants, sans action de terrain : celui de Macron, le RN et la FI." Tous financés par leurs scores. Le RTB ([[PTB]] belge) est l'exception — il a fait le choix inverse.
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur la désimplication militante induite par le financement public, et le syndrome Batman qui en résulte.
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur la désimplication militante induite par le financement public, et le syndrome Batman qui en résulte.

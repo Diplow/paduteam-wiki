@@ -97,7 +97,7 @@ Débat interne au PCF lors du dernier congrès : les MJCF voulaient que le parti
 
 [[Stathis Kouvelakis]] et [[Dr Zoe|Zoé]] résument la contradiction Roussel en 2024 : son programme économique est parfois plus à gauche que LFI, mais il passe son temps à "bégayer" dans les médias sur des sujets où il est censé être solide (régularisation des travailleurs sans papier), à être "complaisant vis-à-vis du consensus islamophobe", à se taire sur les violences policières. Résultat : il est "le communiste préféré des médias et des électeurs de droite" — ce qui est, pour la PaduTeam, le pire signal possible.
 
-La [[Stratégie de la respectabilité]] n'est pas payante : les résultats électoraux sous Roussel reculent dans les circonscriptions difficiles, y compris pour des candidats qui s'étaient distingués en évitant la ligne islamophobe de Roussel. Les ajustements discursifs ne récupèrent pas l'électorat RN — ces électeurs ne viendront pas voter PCF pour autant.
+La [[Strategie de la respectabilite]] n'est pas payante : les résultats électoraux sous Roussel reculent dans les circonscriptions difficiles, y compris pour des candidats qui s'étaient distingués en évitant la ligne islamophobe de Roussel. Les ajustements discursifs ne récupèrent pas l'électorat RN — ces électeurs ne viendront pas voter PCF pour autant.
 
 ## Graphique : confirmé "haut à droite" en micro-trottoir
 
@@ -105,15 +105,15 @@ Lors d'un micro-trottoir du 1er mai filmé par [[Cathedrale Osseuse]], ce dernie
 
 ## "Être large" comme catastrophe stratégique
 
-La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême droite, ne pas mettre en avant l'antiracisme) est décrite par Padu comme le mécanisme exact qui a provoqué la perte du vote populaire par le PCF dans les années 80 avec Mitterrand. C'est aussi ce qui a fait perdre Ruffin ses élections législatives (alliance avec le centre). La [[Division raciale du prolétariat]] ne se combat pas en "étant large" — elle se combat avec un projet antiraciste et égalitaire clair.
+La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême droite, ne pas mettre en avant l'antiracisme) est décrite par Padu comme le mécanisme exact qui a provoqué la perte du vote populaire par le PCF dans les années 80 avec Mitterrand. C'est aussi ce qui a fait perdre Ruffin ses élections législatives (alliance avec le centre). La [[Division raciale du proletariat]] ne se combat pas en "étant large" — elle se combat avec un projet antiraciste et égalitaire clair.
 
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de Zoé et Chris sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse sur le vote 2017, absent au Festival de la Noisette de Bram (Brossat venu à sa place)
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sur l'affiche de Bram mais absent ; paradoxe de sa position anti-LFI mais dans la coalition noisette ; 40e congrès PCF été 2026 comme moment de résolution.
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sur l'affiche de Bram mais absent ; paradoxe de sa position anti-LFI mais dans la coalition noisette ; 40e congrès PCF été 2026 comme moment de résolution.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — PCF s'en tire bien par profil bas tactique. Gain de Nîmes face au RN, perte de Vénissieux à 25 voix. Roussel renforcé pour son congrès et sa candidature 2027.
-- [[AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]] — Va sur BFM attaquer LFI sur l'affiche Hanouna, compare Mélenchon à Trump. Padu : "honteux, c'est les mecs qui te vendent". Prédit à 2% sans Front de Gauche.
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Va sur BFM attaquer LFI sur l'affiche Hanouna, compare Mélenchon à Trump. Padu : "honteux, c'est les mecs qui te vendent". Prédit à 2% sans Front de Gauche.
 - [[FROM TROTSKISTE TO RACISTE]] — Épinglé pour le mythe du gaullocommunisme.
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Valide le racisme antiblanc sur CNews, compare voile et salut nazi, veut inscrire la Charte olympique dans la loi. Analysé comme "communiste préféré des fachots".
-- [[LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Cathédrale Osseuse lui pose la question du Graphique en micro-trottoir ; Padu développe l'explication matérialiste de la [[Division raciale du prolétariat]] contre la ligne "être large".
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Valide le racisme antiblanc sur CNews, compare voile et salut nazi, veut inscrire la Charte olympique dans la loi. Analysé comme "communiste préféré des fachots".
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Cathédrale Osseuse lui pose la question du Graphique en micro-trottoir ; Padu développe l'explication matérialiste de la [[Division raciale du proletariat]] contre la ligne "être large".

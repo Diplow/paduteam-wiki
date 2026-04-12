@@ -59,4 +59,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 
 [[Union populaire]] — Le NFP/NUPES est démontré comme un piège qui éloigne la gauche de son espace populaire. La stratégie du 2012 inversé est proposée comme alternative.
 
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Le PS (via Glucksmann/Place Publique) est identifié comme la composante qui tire le barycentre du NFP vers la bourgeoisie. Même allié, il neutralise la gauche de rupture.
+[[Plus jamais PS]] — Le PS (via Glucksmann/Place Publique) est identifié comme la composante qui tire le barycentre du NFP vers la bourgeoisie. Même allié, il neutralise la gauche de rupture.

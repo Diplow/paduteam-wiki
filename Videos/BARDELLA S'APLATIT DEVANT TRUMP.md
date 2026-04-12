@@ -31,9 +31,9 @@ React à un extrait de [[Jordan Bardella]] face à [[Darius Rochebin]] sur LCI, 
 
 6. **[[Primat du politique sur l'economique]]** — Marx : la séparation de la sphère politique et économique est le fond du monde bourgeois. Cette séparation n'existe pas en Chine — c'est pour ça que la Chine n'est pas un pays bourgeois classique. Il faut que le politique redevienne premier.
 
-7. **[[Théorie moderne de la monnaie|MMT]] et question monétaire** — Le communisme du 21e siècle passe par la sortie du dollar comme monnaie d'échange internationale. La dette française = la somme des intérêts payés aux banques privées depuis les années 70 pour imprimer notre propre monnaie. Financer les besoins réels, pas contraints par les marchés.
+7. **[[Theorie moderne de la monnaie|MMT]] et question monétaire** — Le communisme du 21e siècle passe par la sortie du dollar comme monnaie d'échange internationale. La dette française = la somme des intérêts payés aux banques privées depuis les années 70 pour imprimer notre propre monnaie. Financer les besoins réels, pas contraints par les marchés.
 
-8. **[[Développement du sous-développement]]** — L'impérialisme maintient la classe ouvrière des pays du Sud dans un espace résiduel, précaire, incapable de s'organiser.
+8. **[[Developpement du sous-developpement]]** — L'impérialisme maintient la classe ouvrière des pays du Sud dans un espace résiduel, précaire, incapable de s'organiser.
 
 9. **Crise comme opportunité** — Les moments de tension sont des moments de bifurcation. En 2026, on a beaucoup plus de possibilités qu'en 1980 parce que le capitalisme est à bout de souffle. Ne pas doomer — se structurer.
 
@@ -52,7 +52,7 @@ React à un extrait de [[Jordan Bardella]] face à [[Darius Rochebin]] sur LCI, 
 [[Rassemblement National]], [[France Insoumise]], [[CNews]], [[Positions Revue]], [[La Breche]]
 
 ## Concepts mobilisés
-[[Atlantisme]], [[Vassalisation de la France]], [[Primat du politique sur l'economique]], [[Théorie moderne de la monnaie]], [[Développement du sous-développement]], [[Crise de l'hegemonie americaine]], [[Grande bifurcation]], [[Protectionnisme anachronique]]
+[[Atlantisme]], [[Vassalisation de la France]], [[Primat du politique sur l'economique]], [[Theorie moderne de la monnaie]], [[Developpement du sous-developpement]], [[Crise de l'hegemonie americaine]], [[Grande bifurcation]], [[Protectionnisme anachronique]]
 
 ## Enjeux avancés
 [[Anti-imperialisme]] — Bardella incarne l'atlantisme structurel de l'extrême droite ; la réponse marxiste (Chine, sortie du dollar) est posée en positif

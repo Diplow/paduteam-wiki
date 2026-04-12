@@ -17,4 +17,4 @@ Youtubeur d'extrême droite français, figure de la sphère masculiniste et réa
 
 ## Vidéos où Papacito est mentionné
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

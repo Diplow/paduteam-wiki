@@ -20,4 +20,4 @@ Psychanalyste français (1901-1981). Réinterprétation de [[Sigmund Freud|Freud
 - [[Lucien Seve]] — critique mais reconnaît la formule du langage comme avancée
 
 ## Vidéos où Lacan est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

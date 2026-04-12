@@ -28,4 +28,4 @@ La PaduTeam distingue :
 Ces deux rôles doivent coexister mais ne se substituent pas l'un à l'autre. Aucun des deux n'est « meilleur » — ils ont des fonctions sociales différentes.
 
 ## Vidéos où le concept est développé
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

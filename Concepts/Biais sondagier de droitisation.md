@@ -39,4 +39,4 @@ La sous-estimation de Mélenchon dans les sondages est précisément localisée 
 ## Vidéos où le concept est analysé
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Démontage complet du sondage IFOP 2026, comparaison avec résultats réels depuis 2002
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Décorticage du sondage [[Odoxa]] novembre 2025 : second tour 74-26 fabriqué par disparition d'électeurs et reports fictifs
-- [[JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON]] — Précision sur le segment sous-estimé : les cadres qui ne peuvent pas assumer leur vote ; annonce d'utilisation du Graphique pour "débunker les sondages"
+- [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Précision sur le segment sous-estimé : les cadres qui ne peuvent pas assumer leur vote ; annonce d'utilisation du Graphique pour "débunker les sondages"

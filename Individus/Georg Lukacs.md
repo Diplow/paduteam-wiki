@@ -19,7 +19,7 @@ Théoricien marxiste du côté de la rupture révolutionnaire.
 Padu distingue deux périodes : la période révolutionnaire (1923, *Histoire et conscience de classe*) où Lukacs s'intéresse uniquement à la praxis et l'épistémologie sans se perdre dans l'ontologie — et la période installée à Moscou sous le stalinisme, où il rédige des travaux d'ontologie (*Prolégomènes à l'ontologie de l'être social*) jugés moins intéressants. Sa meilleure phrase selon Padu : "Le pire monde communiste est toujours préférable au meilleur monde capitaliste." Restera fidèle à l'URSS malgré les attaques des staliniens sur son œuvre.
 
 ## Relations
-- [[Lénine]] — convergence sur la défense de l'épistémologie marxiste
+- [[Lenine]] — convergence sur la défense de l'épistémologie marxiste
 - [[Lucien Goldmann]] — successeur intellectuel, a développé le structuralisme génétique
 
 ## Vidéos où Georg Lukacs est analysé

@@ -10,7 +10,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Sophia Chikirou
 
 ## Profil synthétique
-Cadre [[France Insoumise]], candidate aux municipales de Paris 2026. Fait environ 7% au premier tour. Figure de la campagne [[Graphiked/Graphiked/enjeux/Plus jamais PS]]. Se maintient au second tour malgré la pression des "castors" pour qu'elle se désiste pour [[Emmanuel Gregoire]] (PS).
+Cadre [[France Insoumise]], candidate aux municipales de Paris 2026. Fait environ 7% au premier tour. Figure de la campagne [[Plus jamais PS]]. Se maintient au second tour malgré la pression des "castors" pour qu'elle se désiste pour [[Emmanuel Gregoire]] (PS).
 
 ## Municipales de Paris 2026 : la campagne "Plus jamais PS"
 

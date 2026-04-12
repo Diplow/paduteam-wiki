@@ -25,7 +25,7 @@ Padu et Chris analysent le débat sur la primaire à gauche en 2025. Ruffin est 
 
 3. **Le [[Graphique]] et la primaire** : Qui vote aux primaires ? "Les gens en haut et à droite dans le graphique" — militants et classes supérieures, pas les classes populaires et les quartiers. Manon Aubry fait 10% aux européennes contre Glucksmann à 15% **parce qu'ils ne sont pas dans le même espace du Graphique**.
 
-4. **Deux candidats cohérents** : Il n'y a que [[Jean-Luc Mélenchon]] et [[Raphaël Glucksmann]] qui ont une ligne politique réelle. Tous les autres (Ruffin, Tondelier, Faure, Fort) sont des [[Noisettes|noisettes]] condamnées à 3-5%.
+4. **Deux candidats cohérents** : Il n'y a que [[Jean-Luc Melenchon]] et [[Raphael Glucksmann]] qui ont une ligne politique réelle. Tous les autres (Ruffin, Tondelier, Faure, Fort) sont des [[Noisettes|noisettes]] condamnées à 3-5%.
 
 5. **Glucksmann antinoisette** : En disant "nous ne mettrons pas le principe dans la poche pour n'importe quel totem électoral", Glucksmann exprime la même analyse matérialiste que la PaduTeam : l'union arithmétique sans vision du monde commune ne produit que de la droitisation.
 
@@ -50,7 +50,7 @@ Padu et Chris analysent le débat sur la primaire à gauche en 2025. Ruffin est 
 | Fort (PS candidature propre) | Noisette — pire cas PS | Haut-droite |
 
 ## Individus mentionnés
-[[François Ruffin]], [[Raphaël Glucksmann]], [[Jean-Luc Mélenchon]], [[Marine Tondelier]], [[Johanna Rolland]], [[Nicolas Mayer-Rossignol]], [[Olivier Faure]], [[Karim Bouamrane]], [[Manon Aubry]], [[Lucie Castets]], [[François Hollande]], [[Édouard Philippe]], [[François Bayrou]], [[Bruno Retailleau]], [[Boris Vallaud]], [[Laurent Berger]], [[Éric Piolle]], [[Patrick Bessac]]
+[[Francois Ruffin]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[Johanna Rolland]], [[Nicolas Mayer-Rossignol]], [[Olivier Faure]], [[Karim Bouamrane]], [[Manon Aubry]], [[Lucie Castets]], [[François Hollande]], [[Édouard Philippe]], [[François Bayrou]], [[Bruno Retailleau]], [[Boris Vallaud]], [[Laurent Berger]], [[Eric Piolle]], [[Patrick Bessac]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Parti Socialiste]], [[Place Publique]], [[Europe Ecologie Les Verts]], [[NUPES]], [[NFP]], [[Rassemblement National]], [[CFDT]], [[CGT]], [[Lutte Ouvrière]], [[Front Populaire 2027]]
@@ -60,8 +60,8 @@ Padu et Chris analysent le débat sur la primaire à gauche en 2025. Ruffin est 
 
 ## Enjeux avancés
 [[Union populaire]] — Mélenchon est le seul candidat du peuple ; la primaire n'est qu'un mécanisme pour l'éviter
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — La ligne Fort et la ligne Rossignol montrent que le PS est structurellement droitier
+[[Plus jamais PS]] — La ligne Fort et la ligne Rossignol montrent que le PS est structurellement droitier
 [[Graphique]] — Utilisé 4 fois pour situer sociologiquement les forces politiques et prédire les scores
 
 ## Transcript
-[[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]]
+[[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]]

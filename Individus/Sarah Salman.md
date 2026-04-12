@@ -12,7 +12,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Sarah Salman
 
 ## Profil synthétique
-Collaboratrice de [[François Ruffin]]. Apparaît dans une miniature PaduTeam la représentant "envoyée en camp de travail maoïste" par Ruffin — caricature de la ligne politique de Ruffin perçue comme traîtrise sociale-démocrate envers les classes populaires.
+Collaboratrice de [[Francois Ruffin]]. Apparaît dans une miniature PaduTeam la représentant "envoyée en camp de travail maoïste" par Ruffin — caricature de la ligne politique de Ruffin perçue comme traîtrise sociale-démocrate envers les classes populaires.
 
 ## Vidéos où Sarah Salman est mentionnée
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

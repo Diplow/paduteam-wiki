@@ -30,4 +30,4 @@ Bardella navigue entre "trumpisme et mélonisme" sans cohérence. Son programme 
 ## Vidéos où Milei est analysé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Miléisme de Bardella démontré comme vassalisation économique
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)

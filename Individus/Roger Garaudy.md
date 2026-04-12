@@ -24,4 +24,4 @@ Garaudy réintroduit l'individu dans le marxisme post-stalinien, mais en caviard
 - [[Parti Communiste Francais|PCF]] — philosophe officiel puis exclu
 
 ## Vidéos où Garaudy est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

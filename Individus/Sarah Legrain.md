@@ -20,4 +20,4 @@ Transcript automatique : "Sarah Lin", "Sarah Leograph", "Sarah le grain". Identi
 
 ## Vidéos où elle est mentionnée
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — son passage sur Médiapart où elle aurait utilisé le terme moïsation
-- [[Graphiked/Graphiked/videos/FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]] — Citée (sous le nom "Sarah Lin" dans le transcript) parmi les députés FI avec bastions solides au 1er tour
+- [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Citée (sous le nom "Sarah Lin" dans le transcript) parmi les députés FI avec bastions solides au 1er tour

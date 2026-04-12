@@ -20,5 +20,5 @@ LCI est l'illustration du pistonage bourgeois : [[Martin Bouygues]] (parrain de 
 Aussi utilisée pour des débats politiques (Bardella vs Darius Rochebin, Face à Face Garrido/Louis Sarkozy) que la PaduTeam qualifie régulièrement de "fond du fond."
 
 ## Vidéos où LCI est mentionnée
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]]
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Bardella face à Rochebin sur LCI

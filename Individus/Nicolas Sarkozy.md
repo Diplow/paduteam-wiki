@@ -38,7 +38,7 @@ La coalition Sarkozy 2007 réunit trois blocs incompatibles : retraités, classe
 Buisson avait réussi à donner une image "rurale et identitaire" à Sarkozy (pur produit de Neuilly) — Sarkozy lui, ne l'incarnait pas naturellement. Après la mort de Buisson (décédé en Vendée, territoire de Retailleau), cette connexion est perdue.
 
 ## Vidéos où l'individu est analysé
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme référence de la "fillonisation" : Sarkozy en 2017 a été humilié par Juppé puis Fillon en revenant dans la course primaire. Hollande subira le même sort face à Vallaud.
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme référence de la "fillonisation" : Sarkozy en 2017 a été humilié par Juppé puis Fillon en revenant dans la course primaire. Hollande subira le même sort face à Vallaud.
 - [[Faut-il en finir avec le NFP]]
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — Analysé comme "tragédie" face à la "farce" de son fils ; le sarcosysme comme réponse à la crise du néolibéralisme
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Sarkozy comme parrain de la droite, inaugurateur de la Moisation via Buisson, faiseur de roi indispensable pour l'union des droites
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Analysé comme "tragédie" face à la "farce" de son fils ; le sarcosysme comme réponse à la crise du néolibéralisme
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Sarkozy comme parrain de la droite, inaugurateur de la Moisation via Buisson, faiseur de roi indispensable pour l'union des droites

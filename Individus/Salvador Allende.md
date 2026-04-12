@@ -23,4 +23,4 @@ Pour la PaduTeam, son renversement par la CIA prouve que l'impérialisme améric
 - [[Thomas Sankara]], [[Patrice Lumumba]] — figures du même récit anti-impérialiste
 
 ## Vidéos où Allende est mentionné
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]

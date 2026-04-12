@@ -58,4 +58,4 @@ En février 2025, l'association Union Algérienne et Suissraïsme portent plaint
 - [[Javier Milei]], Donald Trump, Elon Musk — références politiques
 
 ## Vidéos où il est analysé
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]]
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]

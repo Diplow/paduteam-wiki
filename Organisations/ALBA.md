@@ -14,4 +14,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Alliance bolivarienne pour les peuples de notre Amérique. Bloc de pays latino-américains créé sous l'impulsion de [[Hugo Chavez]] pour contrer l'influence américaine. Était plus forte sous Chavez. Plusieurs pays membres ont été "décapités" par des opérations de la [[CIA]], affaiblissant le bloc et isolant le Venezuela.
 
 ## Vidéos où l'ALBA est mentionnée
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

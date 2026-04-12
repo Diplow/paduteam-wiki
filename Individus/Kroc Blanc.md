@@ -23,11 +23,11 @@ Long passif conflictuel avec Padu depuis 2021 : Kroc Blanc l'insultait publiquem
 
 ## Relations
 - [[FD News]] — sa chaîne YouTube
-- [[Psychodélique]] — figure de la même sphère droitière, qui a minimisé les accusations
+- [[Psychodelique]] — figure de la même sphère droitière, qui a minimisé les accusations
 - [[Papacito]] — a dénoncé Kroc Blanc pour pédophilie
 - [[Mila]] — a envoyé des messages harcelants ; conversation confirmée par [[Le brac]]
 - [[Zoclo]] — ancien proche, devenu critique
 
 ## Vidéos où Kroc Blanc est analysé
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

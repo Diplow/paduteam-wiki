@@ -18,4 +18,4 @@ Figure des [[Les Republicains|Républicains]]. Soutient l'engagement politique d
 Citée ironiquement comme l'une des "personnalités" qui soutiennent Louis Sarkozy : "La fine équipe" (avec [[David Lisnard]] et [[Bruno Retailleau]]). Son soutien illustre que c'est le bloc bourgeois classique de LR qui mise sur lui.
 
 ## Vidéos où elle est mentionnée
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]]
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]

@@ -40,4 +40,4 @@ Deux hypothèses non exclusives :
 | Législatives NFP 2024 | ~28-30% | oui |
 
 ## Vidéos où le concept est développé
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — formulation centrale par Chris et analysé avec Stathis Kouvelakis
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation centrale par Chris et analysé avec Stathis Kouvelakis

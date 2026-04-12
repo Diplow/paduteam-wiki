@@ -56,7 +56,7 @@ Scénarios 2027 post-municipales : "Vous pouvez avoir un deuxième tour Philippe
 
 ## Validation par Frédéric Lordon
 
-Dans [[LORDON MÉLENCHON peut GAGNER en 2027]], Padu et Chris réagissent à une interview de [[Frédéric Lordon]] sur [[Blast]] où il déclare — sans nommer le Graphique — que "ça ne se présente pas si mal" pour la FI en 2027 "strictement sur les données électorales". Il identifie les mêmes mécanismes : éclatement du paysage institutionnel, la FI comme "seule incarnation d'une différence", la diabolisation médiatique comme facteur amplifiant. Pour la PaduTeam, c'est une confirmation que leur analyse n'est pas idiosyncratique — "l'esprit du temps converge".
+Dans [[LORDON MELENCHON peut GAGNER en 2027]], Padu et Chris réagissent à une interview de [[Frederic Lordon]] sur [[Blast]] où il déclare — sans nommer le Graphique — que "ça ne se présente pas si mal" pour la FI en 2027 "strictement sur les données électorales". Il identifie les mêmes mécanismes : éclatement du paysage institutionnel, la FI comme "seule incarnation d'une différence", la diabolisation médiatique comme facteur amplifiant. Pour la PaduTeam, c'est une confirmation que leur analyse n'est pas idiosyncratique — "l'esprit du temps converge".
 
 ## Vidéos où le concept est analysé
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027

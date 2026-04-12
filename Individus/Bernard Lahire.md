@@ -17,8 +17,8 @@ Cité dans la discussion sur [[Lucien Seve|Sève]] comme exemple d'un sociologue
 
 ## Relations
 - [[Lucien Seve]] — s'inscrit dans une démarche convergente
-- [[Psychologie matérialiste marxiste]] — référence dans ce cadre
+- [[Psychologie materialiste marxiste]] — référence dans ce cadre
 
 ## Vidéos où Lahire est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]

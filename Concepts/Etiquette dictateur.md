@@ -20,4 +20,4 @@ Ceux qui participent à dire que c'est un dictateur — même en ajoutant "mais 
 [[Nicolas Maduro]] est dans une cellule de 3m², émacié, sans avocat, sans accès aux preuves — mais personne ne réagit parce qu'il a été étiqueté "dictateur." Les organisations qui devraient manifester pour sa libération sont absentes.
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

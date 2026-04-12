@@ -26,4 +26,4 @@ La PaduTeam ironise sur le ruissellement : "Témoignez en commentaire si ça a r
 - [[Bernard Cazeneuve]] — présent à la même convention
 
 ## Vidéos où Philippe Aghion est analysé
-- [[Graphiked/Graphiked/videos/HOLLANDE prépare t-il SON RETOUR]] — Cité comme emblème du hollandisme économique : présent à la convention réformiste, conseiller de Macron et théoricien du ruissellement. Sa présence = signature de classe du pôle social-libéral.
+- [[HOLLANDE prepare t-il SON RETOUR]] — Cité comme emblème du hollandisme économique : présent à la convention réformiste, conseiller de Macron et théoricien du ruissellement. Sa présence = signature de classe du pôle social-libéral.

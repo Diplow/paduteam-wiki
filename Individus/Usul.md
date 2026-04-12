@@ -27,7 +27,7 @@ Chris note aussi qu'Usul, face à l'affirmation fausse de [[Lumir Lapray]] sur l
 - A formé politiquement une partie de la gauche internet (mais pas les membres de la PaduTeam)
 
 ## Rôle dans la trajectoire de Padu (2014)
-En 2014, Usul sort un épisode de sa série "Mes chers contemporains" sur [[Étienne Chouard]], dans lequel il le défend contre les accusations de fascosphère. Puis, après discussion nocturne avec des antifas, il se rétracte et ajoute un avertissement dans la vidéo sur les liens de Chouard avec la fachosphère.
+En 2014, Usul sort un épisode de sa série "Mes chers contemporains" sur [[Etienne Chouard]], dans lequel il le défend contre les accusations de fascosphère. Puis, après discussion nocturne avec des antifas, il se rétracte et ajoute un avertissement dans la vidéo sur les liens de Chouard avec la fachosphère.
 
 Padu adolescent interprète ce "faopa d'Usul" comme la preuve que "la gauche censure le débat." Chris : "c'est la goutte d'eau qui lui a fait se dire que la solution ne se trouvait pas à gauche mais dans le ni droite ni gauche." Cet épisode est cité comme l'un des déclencheurs du basculement de Padu vers les milieux "dissident" soraliens.
 

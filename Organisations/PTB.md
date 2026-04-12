@@ -24,4 +24,4 @@ Comparaison avec le PTB des années 70 : le PTB actuel n'est pas le vieux PTB ma
 - [[Raoul Hedebouw]] — président depuis 2021
 
 ## Vidéos où le PTB est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme contre-modèle à la FI "mouvement gazeux" : un parti implanté qui survivrait au départ de son leader.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme contre-modèle à la FI "mouvement gazeux" : un parti implanté qui survivrait au départ de son leader.

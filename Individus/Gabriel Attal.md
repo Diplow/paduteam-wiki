@@ -32,4 +32,4 @@ Chris identifie Attal comme "le post-macronisme de gauche" (vs [[Edouard Philipp
 
 ## Vidéos
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 11% par [[Odoxa]] (contre 26% pour Macron en 2022). Ses électeurs sont identifiés comme les plus anti-Mélenchon du panel : seulement 1% se reporteraient sur Mélenchon au 2nd tour (vs 43% des électeurs Ensemble qui avaient voté LFI face au RN aux législatives 2024). Incarnation du vote "dépolitisé mais votant" qui biaise les sondages
-- [[VIKTOROVITCH MÉLENCHON NE SERA PAS AU 2ÈME TOUR]] — Identifié comme "post-macronisme de gauche" sans espace électoral entre Philippe et le PS
+- [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Identifié comme "post-macronisme de gauche" sans espace électoral entre Philippe et le PS

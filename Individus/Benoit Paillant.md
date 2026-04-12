@@ -11,7 +11,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Benoît Paillant
 
 ## Profil synthétique
-Candidat [[Parti Socialiste]] à Marseille lors des élections municipales 2026. Gagne face à [[Martine Vassal]] (droite) et avec le désistement de [[Sébastien De Logu]] (FI) au second tour.
+Candidat [[Parti Socialiste]] à Marseille lors des élections municipales 2026. Gagne face à [[Martine Vassal]] (droite) et avec le désistement de [[Sebastien De Logu]] (FI) au second tour.
 
 ## Stratégie et trajectoire
 Selon la PaduTeam, Paillant n'a pas gagné en mobilisant les classes populaires insoumises — il a capté des voix de centre-gauche et de la droite modérée (Vassal). Les électeurs FI populaires ne se sont pas déplacés pour lui. Son élection illustre le retour du PS par le centre, pas par la gauche de rupture.

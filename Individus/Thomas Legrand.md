@@ -13,7 +13,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Thomas Legrand
 
 ## Profil synthétique
-Journaliste de [[France Inter]], figure de la "gauche bourgeoise" médiatique. Surpris en train de dîner avec [[Patrick Cohen]] et [[Pierre Jouvet]] (PS) pour planifier la candidature de [[Raphaël Glucksmann]] en 2027. Pour la PaduTeam, ce n'est pas un complot mais la [[Collusion médiático-politique|collusion]] naturelle d'une classe sociale qui partage les mêmes intérêts.
+Journaliste de [[France Inter]], figure de la "gauche bourgeoise" médiatique. Surpris en train de dîner avec [[Patrick Cohen]] et [[Pierre Jouvet]] (PS) pour planifier la candidature de [[Raphael Glucksmann]] en 2027. Pour la PaduTeam, ce n'est pas un complot mais la [[Collusion médiático-politique|collusion]] naturelle d'une classe sociale qui partage les mêmes intérêts.
 
 ## Position dans le [[Graphique]]
 Haut à droite — journaliste du service public, appartenant au [[Bloc bourgeois]] qui se croit progressiste mais a validé toutes les réformes néolibérales. Archétype du "barragiste" : combat l'extrême droite en façade tout en la préparant structurellement.
@@ -28,7 +28,7 @@ Sa peur de la [[Moisation]] est matérielle : si Mélenchon ou Le Pen arrivent a
 ## Relations
 - [[Patrick Cohen]] — comparse, même position de classe, même dîner
 - [[Pierre Jouvet]] — contact PS avec qui il planifie la stratégie Glucksmann
-- [[Raphaël Glucksmann]] — candidat qu'il cherche à faire monter
+- [[Raphael Glucksmann]] — candidat qu'il cherche à faire monter
 
 ## Vidéos où Thomas Legrand est analysé
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — au cœur de la vidéo, fuite du dîner avec Cohen et Jouvet

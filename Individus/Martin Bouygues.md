@@ -21,4 +21,4 @@ Le fait que Louis Sarkozy devienne "expert des États-Unis" sur LCI — chaîne 
 Illustre la [[Bourgeoisie de collusion]] : la grande bourgeoisie fait circuler les privilèges dans son réseau (parrain = carnet d'adresses + emploi direct).
 
 ## Vidéos où il est mentionné
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]]
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]

@@ -47,9 +47,9 @@ Chris et Padu présentent une variante de leur prophétie 2027 : au lieu du duel
 [[France Insoumise]], [[Parti Socialiste]], [[Rassemblement National]], [[Les Republicains]], [[Horizon]], [[Reconquete]], [[On ne veut plus]], [[La Breche]], [[Backseat]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation]], [[Eclatement du bloc central]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Vote cache]], [[Strategie du 2012 inverse]], [[Pacte raciste]], [[Barycentre electoral]], [[Primaire des noisettes]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]]
+[[Graphique]], [[Moisation]], [[Eclatement du bloc central]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Vote cache]], [[Strategie du 2012 inverse]], [[Pacte raciste]], [[Barycentre electoral]], [[Primaire des noisettes]], [[Plus jamais PS]]
 
 ## Enjeux avancés
 [[Union populaire]] — Mélenchon reste le seul véhicule viable de la gauche de rupture, avec 21% au 1er tour même dans le scénario Hollande
 [[Graphique]] — Démonstration magistrale : le Graphique de 2002 est décortiqué en détail (16 candidats positionnés), puis projeté sur 2027 pour construire la prophétie du 2002 inversé
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Hollande au 2e tour incarne le retour du bloc bourgeois PS contre la gauche populaire — le duel final entre trahison social-démocrate et rupture égalitaire, 30 ans après le congrès de Brest
+[[Plus jamais PS]] — Hollande au 2e tour incarne le retour du bloc bourgeois PS contre la gauche populaire — le duel final entre trahison social-démocrate et rupture égalitaire, 30 ans après le congrès de Brest

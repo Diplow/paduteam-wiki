@@ -14,4 +14,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Opposant vénézuélien autoproclamé président en 2019 avec le soutien des USA. [[Hugo Carvajal]] l'a soutenu en trahissant [[Nicolas Maduro]]. Représente la tentative de déstabilisation américaine du régime bolivarien avant l'enlèvement de Maduro.
 
 ## Vidéos où Guaido est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

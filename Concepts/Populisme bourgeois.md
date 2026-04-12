@@ -50,7 +50,7 @@ Les municipales 2026 montrent que cet électorat retourne vers le PS+Horizon, c'
 Il s'oppose même aux élections : il préfère des "accords de palais à Versailles sous les ors monarchiques" plutôt que de laisser le peuple s'exprimer. "On voit vraiment la radicalisation antidémocratique antipopulaire de la bourgeoisie — mais c'est classique dans les mouvements tels qu'on les vit aujourd'hui."
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
-- [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — La [[Theorie du fer à cheval|théorie du fer à cheval]] est analysée comme outil du populisme bourgeois pour se préserver comme "troisième voie" ; les médias comparent LFI et RN pour maintenir la légitimité du macronisme
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
+- [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — La [[Theorie du fer a cheval|théorie du fer à cheval]] est analysée comme outil du populisme bourgeois pour se préserver comme "troisième voie" ; les médias comparent LFI et RN pour maintenir la légitimité du macronisme
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Électorat EELV/Jadot 2019 identifié comme populisme bourgeois déçu de Macron, qui retourne vers PS+Horizon aux municipales.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Cohn-Bendit analysé comme incarnation du populisme bourgeois : antipopulisme, discours "tous responsables", préférence pour les accords de palais sur les élections ou la rue.

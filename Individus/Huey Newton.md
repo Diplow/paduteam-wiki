@@ -19,7 +19,7 @@ Newton et Seale fondent le Black Panther Party à partir du mouvement communiste
 - [[Bobby Seale]] — cofondateur du Black Panther Party
 - [[Frantz Fanon]] — inspiration théorique (décolonisation intérieure)
 - [[Black Panthers]] — organisation fondée
-- [[Lénine]], [[Mao]] — références théoriques du parti
+- [[Lenine]], [[Mao]] — références théoriques du parti
 
 ## Vidéos où Newton est mentionné
 - [[Le MARXISME, un TRUC de BLANC]] — cité comme exemple de marxisme noir révolutionnaire

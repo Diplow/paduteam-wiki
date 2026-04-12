@@ -18,7 +18,7 @@ La FI lui a proposé des candidatures adverses à Montreuil pour les municipales
 ## Relations
 - [[Parti Communiste Francais]] — parti
 - [[Johanna Rolland]] — co-signataire
-- [[Éric Piolle]] — co-signataire
+- [[Eric Piolle]] — co-signataire
 
 ## Vidéos où Bessac est mentionné
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Signataire de l'appel primaire ; la FI lui présente des candidatures adverses pour les municipales 2026 — la primaire = manœuvre de protection électorale
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Signataire de l'appel primaire ; la FI lui présente des candidatures adverses pour les municipales 2026 — la primaire = manœuvre de protection électorale

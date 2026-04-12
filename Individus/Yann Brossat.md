@@ -28,4 +28,4 @@ Moment clé attendu : le 40e congrès du PCF doit trancher la question de la par
 
 ## Vidéos où Brossat est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Venu à Bram à la place de Roussel, successeur probable, ligne unioniste, candidature à la mairie de Paris
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse plus approfondie : sa présence à Bram vs absence de Roussel est "très significatif", défend parfois LFI contre les accusations d'antisémitisme (stratégie intelligente pour un candidat à la mairie de Paris), ligne plus cohérente électoralement que Roussel
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse plus approfondie : sa présence à Bram vs absence de Roussel est "très significatif", défend parfois LFI contre les accusations d'antisémitisme (stratégie intelligente pour un candidat à la mairie de Paris), ligne plus cohérente électoralement que Roussel

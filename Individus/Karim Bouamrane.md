@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Maire PS de Saint-Ouen, aile droite du [[Parti Socialiste]]. Partisan de [[Nicolas Mayer-Rossignol]] au congrès PS. Incarne la stratégie d'affrontement frontal avec LFI — refuse toute alliance et cherche à "défoncer" les insoumis sur leurs propres terrains. Candidat potentiel du PS à la présidentielle 2027, jouant la carte "Obama français".
 
 ## L'affaire Coquerel (2025-2026)
-Lors d'un meeting de soutien à [[Nicolas Mayer-Rossignol]], Bouamrane est enregistré déclarant : "J'ai dit à Éric Coquerel : si tu viens nous emmerder, on va te défoncer." Déclencheur : [[Éric Coquerel]] avait proposé que [[Rima Hassan]] se présente à Saint-Ouen aux municipales 2026. Bouamrane y voit une menace directe sur sa mairie — Rima Hassan a une "aura" dans les quartiers populaires et est soutenue par Mélenchon.
+Lors d'un meeting de soutien à [[Nicolas Mayer-Rossignol]], Bouamrane est enregistré déclarant : "J'ai dit à Éric Coquerel : si tu viens nous emmerder, on va te défoncer." Déclencheur : [[Eric Coquerel]] avait proposé que [[Rima Hassan]] se présente à Saint-Ouen aux municipales 2026. Bouamrane y voit une menace directe sur sa mairie — Rima Hassan a une "aura" dans les quartiers populaires et est soutenue par Mélenchon.
 
 La sortie est ensuite publiée par Hugo Coutourier (journaliste Twitter). Bouamrane publie un communiqué s'excusant, accusant ses critiques de "vocabulaire teinté de colonialisme" — stratégie de [[Concernisme]] selon la PaduTeam. Chris : "Personne ne lui met dans la gueule parce qu'il est racisé — le mec dit qu'il va te défoncer, c'est ça le problème."
 
@@ -35,13 +35,13 @@ Chris le surnomme "l'Obama du pauvre". La PaduTeam ne croit pas à sa candidatur
 
 ## Relations
 - [[Nicolas Mayer-Rossignol]] — allié, le soutient au congrès PS
-- [[Éric Coquerel]] — adversaire direct (les a menacés)
+- [[Eric Coquerel]] — adversaire direct (les a menacés)
 - [[Rima Hassan]] — menace indirecte : sa candidature potentielle à Saint-Ouen
 - [[Carole Delga]] — mentionnée dans sa tribune interne
 - [[Parti Socialiste]] — appareil
 
 ## Vidéos où Bouamrane est analysé
-- [[KARIM BOUAMRANE (PS) ON VA DÉFONCER ÉRIC COQUEREL ET LA FI]] — vidéo principale : l'affaire Coquerel, l'hypocrisie PS, la stratégie "Obama", la primaire PS
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — vidéo principale : l'affaire Coquerel, l'hypocrisie PS, la stratégie "Obama", la primaire PS
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Présent au Festival de la Noisette de Bram aux côtés de Carole Delga, Hollande, Glucksmann
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — Cité comme potentiel candidat PS 2027, "l'Obama du pauvre"
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présent à Bram aux côtés de Delga, Hollande, Glucksmann. Cité comme candidat potentiel à la primaire, jouant la carte "Obama" de renouveau face aux noisettes plus connues.
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — Cité comme potentiel candidat PS 2027, "l'Obama du pauvre"
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présent à Bram aux côtés de Delga, Hollande, Glucksmann. Cité comme candidat potentiel à la primaire, jouant la carte "Obama" de renouveau face aux noisettes plus connues.

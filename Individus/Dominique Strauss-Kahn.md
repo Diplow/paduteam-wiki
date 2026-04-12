@@ -24,4 +24,4 @@ Chris l'utilise comme argument massue contre ceux qui additionnent naïvement le
 - [[François Hollande]] — l'a remplacé comme candidat après l'affaire
 
 ## Vidéos où DSK est mentionné
-- [[KARIM BOUAMRANE (PS) ON VA DÉFONCER ÉRIC COQUEREL ET LA FI]] — cité pour démontrer la continuité bourgeoise de l'électorat PS : Hollande 2012 → Macron 2017, même sociologie
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — cité pour démontrer la continuité bourgeoise de l'électorat PS : Hollande 2012 → Macron 2017, même sociologie

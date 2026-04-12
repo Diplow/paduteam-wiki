@@ -29,4 +29,4 @@ La PaduTeam distingue l'usage légitime et l'instrumentalisation :
 **Dévoiement** : utiliser ces mécanismes pour justifier l'impunité d'un patron puissant en position d'asymétrie totale, qui nie les faits ou les minimise, et dont les « médiations » visent à faire taire les victimes. C'est précisément ce que la ZawaProd a fait avec l'affaire [[Dany Caligula]].
 
 ## Vidéos où le concept est développé
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

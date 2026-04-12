@@ -61,14 +61,14 @@ Marine Le Pen incarne le **trumpisme** — national-protectionniste, antisystèm
 L'**origine de l'électorat populaire RN** : cet électorat ne vient pas du PCF, contrairement à ce que prétendent certains commentateurs. Il vient de la droite. C'est l'électorat qui a voté Sarkozy en 2007 (son "plus jamais Chirac"), qui a cru une dernière fois en lui, et qui vote RN définitivement depuis. Symétrie exacte avec l'électorat populaire de gauche trahi par Hollande, qui vote désormais LFI.
 
 ## La dédiabolisation : opération de communication, pas rupture réelle
-Marine Le Pen a imposé une stratégie de "dédiabolisation" : distancer le RN du passé de son père, ne plus tenir de discours frontalement racistes, rebaptiser le parti. Mais pour la PaduTeam, c'est une opération de façade : des figures comme [[Frédéric Châtillon]] (proche des réseaux néo-fascistes, est allé signer des autographes à [[Léon Degrelle]] dans les années 90) font toujours partie du "good". Elle "essaie de ne pas trop communiquer là-dessus" mais ne les met pas au ban. La continuité est réelle.
+Marine Le Pen a imposé une stratégie de "dédiabolisation" : distancer le RN du passé de son père, ne plus tenir de discours frontalement racistes, rebaptiser le parti. Mais pour la PaduTeam, c'est une opération de façade : des figures comme [[Frederic Chatillon]] (proche des réseaux néo-fascistes, est allé signer des autographes à [[Leon Degrelle]] dans les années 90) font toujours partie du "good". Elle "essaie de ne pas trop communiquer là-dessus" mais ne les met pas au ban. La continuité est réelle.
 
 ## Vidéos où Le Pen est analysée
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]] — Condamnation et inéligibilité immédiate ; analyse des conséquences pour 2027 ; paradoxe stratégique pour Bardella
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Condamnation et inéligibilité immédiate ; analyse des conséquences pour 2027 ; paradoxe stratégique pour Bardella
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Analysée comme incarnation de la [[Troisieme voix]] : elle capte les classes en crise, pas la droite classique. Totalement opposée à Fillon malgré la proximité apparente
-- [[Graphiked/Graphiked/videos/LE PEN DÉCLARE la GUERRE à BARDELLA !!]] — Tacle Bardella publiquement, affirme sa candidature 2027, début de la scission RN
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Confirmation du graphique : sera candidate malgré la condamnation, accède au 2e tour, perd face à Mélenchon. "Grosse révélation du graphique" que les gens "ne seront pas prêts" à entendre
+- [[GRAPHOMARXISME x Positions Revue]] — Analysée comme incarnation de la [[Troisieme voix]] : elle capte les classes en crise, pas la droite classique. Totalement opposée à Fillon malgré la proximité apparente
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Tacle Bardella publiquement, affirme sa candidature 2027, début de la scission RN
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Confirmation du graphique : sera candidate malgré la condamnation, accède au 2e tour, perd face à Mélenchon. "Grosse révélation du graphique" que les gens "ne seront pas prêts" à entendre
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction de sa stratégie avec Bardella (peuple français vs nation économique) ; abandon du souverainisme réel sur l'UE ; démenti de la thèse "pro-Poutine"
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Distinction trumpisme (Le Pen) vs mélonisme (Bardella) ; origine de l'électorat populaire RN (ex-sarkozyste, pas ex-PCF) ; projection à ~20% au 1er tour en 2027
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Distinction trumpisme (Le Pen) vs mélonisme (Bardella) ; origine de l'électorat populaire RN (ex-sarkozyste, pas ex-PCF) ; projection à ~20% au 1er tour en 2027

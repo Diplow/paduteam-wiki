@@ -13,7 +13,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Laurent Mauduit
 
 ## Profil synthétique
-Journaliste, cofondateur de Mediapart. Dans une interview avec [[Salomé Saqué]] sur Blast, il présente Laurence Parisot comme une figure résistante à l'extrême droite, légitimant l'idée de "patrons de gauche". La PaduTeam critique cet entretien comme un exemple d'alliance de classe avec le patronat sous couvert d'antifascisme.
+Journaliste, cofondateur de Mediapart. Dans une interview avec [[Salome Saque]] sur Blast, il présente Laurence Parisot comme une figure résistante à l'extrême droite, légitimant l'idée de "patrons de gauche". La PaduTeam critique cet entretien comme un exemple d'alliance de classe avec le patronat sous couvert d'antifascisme.
 
 ## Position dans le [[Graphique]]
 Gauche réformiste, bourgeoisie progressiste.
@@ -23,7 +23,7 @@ Selon la PaduTeam : Mauduit incarne le discours "l'extrême droite, c'est vraime
 
 ## Relations
 - Cofondateur de Mediapart
-- Interview avec [[Salomé Saqué]] sur [[Blast]]
+- Interview avec [[Salome Saque]] sur [[Blast]]
 
 ## Vidéos où Laurent Mauduit est analysé
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

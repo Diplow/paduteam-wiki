@@ -18,7 +18,7 @@ Les "noisettes" sont les forces politiques coincées entre [[France Insoumise]] 
 Dans la saga "Les Seigneurs des Noisettes", la PaduTeam organise le paysage en plusieurs "maisons" :
 
 - **Maison Picarde** (nord) — armoirie de la betterave, dominée par [[Francois Ruffin]] "roi des noisettes"
-- **Maison Renéga** (ouest) — peuplée des ex-FI : [[L'Après]], [[Clémentine Autain]], [[Raquel Garrido]], [[Alexis Corbière]]
+- **Maison Renéga** (ouest) — peuplée des ex-FI : [[L'Apres]], [[Clémentine Autain]], [[Raquel Garrido]], [[Alexis Corbière]]
 - **Maison Douceur** (est) — tisanes et potage poireaux, dominée par "la reine des noisettes" [[Marine Tondelier]] et [[Europe Ecologie Les Verts]]
 - **Maison Saucisson** (sud) — ancien fer de lance communiste, aujourd'hui [[Parti Communiste Francais]] / [[Fabien Roussel]]
 
@@ -45,7 +45,7 @@ Les municipales 2026 accélèrent la mort des noisettes. Padu dans [[MUNICIPALES
 La [[Primaire des noisettes]] ne tient plus : "tout dit le contraire d'aller à la primaire." Les forces qui avaient besoin de la primaire pour exister viennent d'être broyées électoralement.
 
 ## La noisette gaulliste
-Villepin représente une variante particulière : la "noisette gaulliste". Elle se distingue par le discours "au-dessus des partis" hérité de la tradition gauliste de la [[5e République]]. Prise dans un quadruple casse-noisette (Retailleau, PS, RN, Mélenchon), elle finit en "huile de noisette" — "tu vas finir à décorer des salades pour bobo."
+Villepin représente une variante particulière : la "noisette gaulliste". Elle se distingue par le discours "au-dessus des partis" hérité de la tradition gauliste de la [[5e Republique]]. Prise dans un quadruple casse-noisette (Retailleau, PS, RN, Mélenchon), elle finit en "huile de noisette" — "tu vas finir à décorer des salades pour bobo."
 
 ## Les noisettes face au 10 septembre 2025
 
@@ -58,7 +58,7 @@ Les noisettes ont deux possibilités de survie — toutes deux dépendantes : re
 La conférence de presse du [[Front Populaire 2027]] du 2 juillet 2025 est qualifiée de "festival de noisettes" — l'image la plus dense du concept. En un seul événement, on trouve :
 - La noisette institutionnelle ([[Lucie Castets]] — "noisette caviare")
 - La noisette écolo ([[Marine Tondelier]])
-- La noisette picard ([[François Ruffin]])
+- La noisette picard ([[Francois Ruffin]])
 - La noisette traître ([[Clémentine Autain]])
 - La noisette molle ([[Olivier Faure]])
 
@@ -76,12 +76,12 @@ Toutes ces déclinaisons partagent le même discours fondamental : "la menace fa
 
 ## Vidéos clés
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Annonce officielle novembre 2025 : les noisettes se lancent sans Mélenchon ni Glucksmann. Réunions secrètes PS-Attal révèlent la vraie stratégie anti-LFI derrière la façade unitaire. Prédiction : le candidat noisette sera le "Jospin 2002" à 16%.
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle novembre 2025 : les noisettes se lancent sans Mélenchon ni Glucksmann. Réunions secrètes PS-Attal révèlent la vraie stratégie anti-LFI derrière la façade unitaire. Prédiction : le candidat noisette sera le "Jospin 2002" à 16%.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Crise post-municipales : Tondelier en réunion de crise, Ruffin et Fort dans la liste des noisettes en déroute. Primaire des noisettes officiellement morte.
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — La "noisette gaulliste" : Villepin lancé dans un quadruple casse-noisette, prédit à 3-4%
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — La "noisette gaulliste" : Villepin lancé dans un quadruple casse-noisette, prédit à 3-4%
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — PS et EELV coincés : s'ils soutiennent le 10 septembre et que ça marche, Mélenchon capitalise ; sinon, c'est Glucksmann qui profite. "Aucun espace où ils peuvent imprimer leur leadership."
-- [[Graphiked/Graphiked/videos/L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]] — Festival de noisettes : la conférence FP2027 du 2 juillet 2025. Toutes les variantes de noisettes en un seul événement, démonstration par l'absurde que l'union arithmétique ne fait pas de politique.
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analyse des noisettes (Ruffin, Tondelier, Fort) dans le contexte de la primaire ; Tondelier = "Nathalie Arto des gens en haut au milieu dans le graphique" ; les noisettes seront condamnées aux candidatures de témoignage ; analogie culinaire (mélanger couscous+raclette+cassoulet = immangeable)
-- [[RUFFIN LANCE SON PARTI DEBOUT]] — Lancement de [[Debout]], candidature noisette commune à 6,1% avec [[L'Après]] et Génération. "La tournée des bours et des tours Michel Sardou." Universités d'été communes = rassemblement des losers noisettes
+- [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Festival de noisettes : la conférence FP2027 du 2 juillet 2025. Toutes les variantes de noisettes en un seul événement, démonstration par l'absurde que l'union arithmétique ne fait pas de politique.
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analyse des noisettes (Ruffin, Tondelier, Fort) dans le contexte de la primaire ; Tondelier = "Nathalie Arto des gens en haut au milieu dans le graphique" ; les noisettes seront condamnées aux candidatures de témoignage ; analogie culinaire (mélanger couscous+raclette+cassoulet = immangeable)
+- [[RUFFIN LANCE SON PARTI DEBOUT]] — Lancement de [[Debout]], candidature noisette commune à 6,1% avec [[L'Apres]] et Génération. "La tournée des bours et des tours Michel Sardou." Universités d'été communes = rassemblement des losers noisettes
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" : déclinaison bio de la noisette classique. Même discours que toutes les noisettes sur la menace fasciste, sans analyser les renoncements de la gauche qui ont fabriqué le terreau de l'extrême droite.

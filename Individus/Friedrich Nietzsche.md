@@ -25,4 +25,4 @@ Les idéalistes qui lisent Nietzsche "en se disant qu'il critique les chrétiens
 - [[Geoffroy de Lagasnerie]] — héritier contemporain de la filiation aristocratique nietzschéenne
 
 ## Vidéos où Nietzsche est analysé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

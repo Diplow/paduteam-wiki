@@ -25,7 +25,7 @@ France Inter pense que son discours crée des électeurs. L'analyse PaduTeam inv
 ## Figures clés
 - [[Thomas Legrand]] — journaliste politique, surpris en train de comploter pour Glucksmann
 - [[Patrick Cohen]] — journaliste, même posture
-- [[Salomé Saqué]] — journaliste, citée comme autre exemple de "fausse neutralité"
+- [[Salome Saque]] — journaliste, citée comme autre exemple de "fausse neutralité"
 - [[Clément Petro]] — journaliste politique, auteur de la chronique sur la moïsation
 - [[Sophia Chikirou]] — mentionnée parmi les figures proches de France Inter (présence passée)
 

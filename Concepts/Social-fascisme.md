@@ -23,4 +23,4 @@ Référence historique mobilisée : le SPD des années 20, qui combattait le KPD
 Padu utilise explicitement le terme pour qualifier [[Marine Tondelier]] et [[Lucy Castets]] tweetant comme [[Aurore Bergé]] sur l'antisémitisme de Mélenchon : "Vous faites ce que faisait le SPD dans les années 20. Vous vous comportez comme tel."
 
 ## Vidéos où le concept est développé
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Première utilisation explicite du terme dans le vault
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Première utilisation explicite du terme dans le vault

@@ -24,4 +24,4 @@ Non discutée.
 - Ex-allié de [[Stathis Kouvelakis]] (qui a milité dans l'orbite de SYRIZA avant de la quitter)
 
 ## Vidéos où Alexis Tsipras est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — contre-exemple de la stratégie d'illusion vis-à-vis de l'UE, opposé à LFI
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — contre-exemple de la stratégie d'illusion vis-à-vis de l'UE, opposé à LFI

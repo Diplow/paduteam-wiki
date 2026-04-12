@@ -23,4 +23,4 @@ La trajectoire de RED Jeunes est citée par la PaduTeam comme un exemple du dile
 - [[Yassine Bennetou]] — secrétaire général
 
 ## Vidéos où RED Jeunes est analysée
-- [[LORDON MÉLENCHON peut GAGNER en 2027]] — Cité dans le débat sur le positionnement des jeunes communistes face à la FI
+- [[LORDON MELENCHON peut GAGNER en 2027]] — Cité dans le débat sur le positionnement des jeunes communistes face à la FI

@@ -17,4 +17,4 @@ Ancien chef des armées du Venezuela, considéré comme le numéro 3 du régime.
 - [[Delcy Rodriguez]] — l'a remercié
 
 ## Vidéos où Padrino Lopez est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

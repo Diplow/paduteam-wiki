@@ -34,8 +34,8 @@ Capsule détente où Padu et Chris commentent en direct un reportage Paris Match
 [[Hollandisme]], [[CICE]], [[Graphique]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — le bilan Hollande comme preuve empirique ultime de la trahison : chaque mesure de son quinquennat a servi le capital contre les classes populaires
+[[Plus jamais PS]] — le bilan Hollande comme preuve empirique ultime de la trahison : chaque mesure de son quinquennat a servi le capital contre les classes populaires
 [[Graphique]] — utilisé pour prédire l'échec du comeback Hollande en 2027 (fillonisation par Vallaud)
 
 ## Transcript
-[[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]]
+[[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]]

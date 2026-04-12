@@ -23,7 +23,7 @@ La PaduTeam mobilise ce concept pour expliquer la [[Proletarisation des cadres]]
 - Féminisation des professions cadres avec maintien des écarts salariaux
 
 ## Application à la crise américaine
-La BTTP explique l'impasse trumpiste : les USA n'arrivent plus à tirer de profit de leur capacité intérieure (désindustrialisée), ni de l'exploitation de la Chine et de l'Asie du Sud-Est (l'[[Échange inégal]] touche à sa fin). Le néolibéralisme — dérégulation + mondialisation — n'est plus capable de fournir de la plus-value aux capitaux américains. C'est la crise de fond. Trump essaie de la résoudre par le protectionnisme, mais sans reconstruire l'appareil industriel, ce n'est que de l'inflation.
+La BTTP explique l'impasse trumpiste : les USA n'arrivent plus à tirer de profit de leur capacité intérieure (désindustrialisée), ni de l'exploitation de la Chine et de l'Asie du Sud-Est (l'[[Echange inegal]] touche à sa fin). Le néolibéralisme — dérégulation + mondialisation — n'est plus capable de fournir de la plus-value aux capitaux américains. C'est la crise de fond. Trump essaie de la résoudre par le protectionnisme, mais sans reconstruire l'appareil industriel, ce n'est que de l'inflation.
 
 ## Vidéos
 - [[Nicolas qui paye]] — Explication de la compression salariale des cadres comme manifestation de la baisse tendancielle

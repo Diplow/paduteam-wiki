@@ -25,4 +25,4 @@ Chris est sceptique sur l'application de cette stratégie pour LFI aux municipal
 4. **Logique différente de 1977** : à l'époque, 4 ans séparaient les municipales de la présidentielle — marge impossible à reproduire
 
 ## Vidéos où le concept est développé
-- [[KARIM BOUAMRANE (PS) ON VA DÉFONCER ÉRIC COQUEREL ET LA FI]] — Chris analyse la stratégie municipaliste de LFI (alliance avec les Verts) comme une mauvaise tactique pour la présidentielle 2027
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Chris analyse la stratégie municipaliste de LFI (alliance avec les Verts) comme une mauvaise tactique pour la présidentielle 2027

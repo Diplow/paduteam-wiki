@@ -23,4 +23,4 @@ Sa position de "rescapée" lui sert de capital symbolique pour critiquer l'écol
 - Invitée aux côtés de [[Laurent Alexandre]], [[Wilfried Granier]], [[Od Geno]], [[Francis Lelon]], [[Jonathan Gelop]] dans l'émission analysée
 
 ## Vidéos où Neigma Traviglini est analysée
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

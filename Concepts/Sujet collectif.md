@@ -28,7 +28,7 @@ Les sujets collectifs sont des réalités objectives et sociales qui se forment 
 La psychanalyse part de l'individu comme unité de base et réduit les comportements politiques à la psychologie individuelle. La PaduTeam s'y oppose : l'individu se construit dans et par le collectif (langage, coopération, organisation). Voir [[Conscience et sujets collectifs]].
 
 ## Multiplicité des sujets collectifs
-Un individu n'est jamais recouvert par *un seul* sujet collectif — il est à l'intersection d'une multiplicité : classe, genre, race, nation, génération, métier, militantisme... Chaque sujet collectif distribue à l'individu des cartes de possibilités (voir [[Jeu de cartes des possibilités]]). L'individu peut activer ou non ces cartes en fonction des autres sujets collectifs dans lesquels il est inséré.
+Un individu n'est jamais recouvert par *un seul* sujet collectif — il est à l'intersection d'une multiplicité : classe, genre, race, nation, génération, métier, militantisme... Chaque sujet collectif distribue à l'individu des cartes de possibilités (voir [[Jeu de cartes des possibilites]]). L'individu peut activer ou non ces cartes en fonction des autres sujets collectifs dans lesquels il est inséré.
 
 C'est pourquoi tous les hommes ne "jouent" pas la carte de la violence patriarcale : leur jeu de cartes global (incluant d'autres sujets collectifs plus fonctionnels) la rend inactive ou inefficiente.
 
@@ -39,5 +39,5 @@ Les structures mentales de classe s'adoptent *immédiatement* par la participati
 
 ## Vidéos où le concept est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Les professions intermédiaires placées chez Bardella par l'IFOP, identifiées comme réservoir de vote pour la gauche
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]] — Définition philosophique complète, opposition psychanalyse vs marxisme
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Définition philosophique complète, opposition psychanalyse vs marxisme
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — Développement sur la multiplicité des sujets collectifs, le jeu de cartes, l'immanence des structures mentales

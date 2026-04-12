@@ -41,12 +41,12 @@ La conscience n'est pas un reflet passif du passé — c'est une **activité de 
 
 Conséquence : les structures mentales adoptées lors d'un changement de position de classe ne doivent rien à l'"accumulation biographique" — elles répondent immédiatement aux nouvelles projections nécessaires pour survivre dans la nouvelle position. C'est l'immanence.
 
-[[Lev Vygotski]] montre expérimentalement que la conscience individuelle est une intériorisation du langage et de la conscience collective. On ne naît pas avec une conscience qui "découvre le monde" — on incorpore un acquis social de l'humanité. Voir aussi [[Psychologie matérialiste marxiste]].
+[[Lev Vygotski]] montre expérimentalement que la conscience individuelle est une intériorisation du langage et de la conscience collective. On ne naît pas avec une conscience qui "découvre le monde" — on incorpore un acquis social de l'humanité. Voir aussi [[Psychologie materialiste marxiste]].
 
 ## Non-conscient vs inconscient
 Le marxisme mobilise le **non-conscient** (structures non thématisées, fonctionnelles) — pas l'"inconscient" psychanalytique qui suppose le refoulement et donc une conscience préalablement lucide. Voir [[Non-conscient vs inconscient]].
 
 ## Vidéos où le concept est développé
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — développement sur l'immanence, la conscience projective, le non-conscient
 - [[Le MARXISME, un TRUC de BLANC]] — mobilisé pour défendre le [[Graphique]] comme outil d'identification des sujets collectifs et de leur [[Conscience possible]]

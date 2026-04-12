@@ -30,5 +30,5 @@ Le budget PS analysé par la PaduTeam (septembre 2025) illustre le mécanisme :
 L'hollandisme est structurellement déterminé : les électeurs du PS (quadrant haut-droit, classes intermédiaires) n'ont pas les mêmes intérêts que les classes populaires. Un PS au gouvernement sera toujours contraint de ménager son espace de classe, ce qui le pousse vers l'hollandisme — pas par mauvaise volonté individuelle, mais par déterminisme sociologique.
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
+- [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
 - [[Faure oblige de trahir]] — Démonstration graphique du déterminisme de classe qui produit l'hollandisme

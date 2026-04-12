@@ -25,4 +25,4 @@ S'est renommé Renaissance en 2022. En crise depuis, son bloc s'effrite progress
 - [[Nicolas Hulot]] — recrutement "société civile" qui démissionne rapidement
 
 ## Vidéos où l'organisation est analysée
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse de l'électorat En Marche 2017 comme populisme bourgeois
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse de l'électorat En Marche 2017 comme populisme bourgeois

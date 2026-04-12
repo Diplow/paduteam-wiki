@@ -33,4 +33,4 @@ Bernard Arnault travaille probablement plus d'heures que beaucoup de salariés. 
 
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Développement du concept : accumulation comme casino, médecins comme position de passage, Bernard Arnault, ciblage des jeunes générations
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]] — Illustration par les startuppers de l'éducation : Laurent Alexandre et ses pairs pensent être brillants mais ont le niveau d'analyse des "tweetos ern au bistro" ; le capital culturel a quasiment disparu chez la grande bourgeoisie capitaliste contemporaine
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Illustration par les startuppers de l'éducation : Laurent Alexandre et ses pairs pensent être brillants mais ont le niveau d'analyse des "tweetos ern au bistro" ; le capital culturel a quasiment disparu chez la grande bourgeoisie capitaliste contemporaine

@@ -6,13 +6,13 @@ affiliations: [France Insoumise]
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 statut: ébauche
-apparitions: ["[[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]]"]
+apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]"]
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 
 # Louis Boyard
 
-Député [[France Insoumise]], élu jeune, connu pour ses interventions percutantes à l'Assemblée. Classé "antiflic" dans la cartographie [[Frontière]].
+Député [[France Insoumise]], élu jeune, connu pour ses interventions percutantes à l'Assemblée. Classé "antiflic" dans la cartographie [[Frontiere]].
 
 ## Regard de la PaduTeam
 

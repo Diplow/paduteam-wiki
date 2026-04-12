@@ -35,8 +35,8 @@ La PaduTeam insiste sur la nécessité de définir "démocratie" quand ce terme 
 La capsule Trump-Chine (mars 2026) enrichit l'enjeu anti-impérialiste d'une dimension économique structurelle : la résistance chinoise aux droits de douane de Trump est présentée comme la réponse d'un pays qui s'émancipe progressivement de l'hégémonie du dollar. La Chine réplique symétriquement, force un accord équilibré (34/34), et maintient une position géopolitique favorable. Elle s'impose comme alternative commerciale pour les pays d'Asie du Sud-Est et les BRICS. La résistance anti-impérialiste passe aussi par l'économie : sortir du bon du trésor américain au profit de l'or, diversifier les partenaires commerciaux, développer un marché intérieur indépendant.
 
 ## Vidéos clés
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — L'anti-impérialisme à travers le prisme de la lutte palestinienne et de la crise de l'hégémonie américaine
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente, destruction des classes populaires au profit d'une élite pro-occidentale, "démocratie" = marché
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente, destruction des classes populaires au profit d'une élite pro-occidentale, "démocratie" = marché
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US ; la réponse anti-impérialiste concrète : commercer avec la Chine, sortir du dollar, construire un ordre mondial alternatif
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US : émancipation du dollar, diversification, riposte symétrique

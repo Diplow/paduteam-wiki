@@ -17,4 +17,4 @@ Premier ministre du Congo-Kinshasa indépendant, assassiné en 1961 avec le sout
 - [[Thomas Sankara]], [[Salvador Allende]] — figures du même récit anti-impérialiste
 
 ## Vidéos où Lumumba est mentionné
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]

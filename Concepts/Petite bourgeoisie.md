@@ -41,7 +41,7 @@ Sur le [[Graphique]], les petits-bourgeois (artisans, commerçants, indépendant
 ## Lien structurel avec le [[Lumpenproletariat]]
 La PaduTeam établit un lien structural entre lumpen et petite bourgeoisie : dans les deux cas, fragmentation individuelle, incapacité à construire un collectif, logique de "se vendre au plus offrant". La petite bourgeoisie est toutefois plus réactionnaire car elle a plus à perdre (patrimoine).
 
-## Sous-catégorie : [[Petite bourgeoisie stato-notabilière]]
+## Sous-catégorie : [[Petite bourgeoisie stato-notabiliere]]
 Médecins, notaires, avocats — petite bourgeoisie dont le privilège repose sur un diplôme d'état et un marché faussé par la puissance publique. Plus archaïque et plus arrogante que la petite bourgeoisie libérale classique.
 
 ## [[Continuum de classe]]

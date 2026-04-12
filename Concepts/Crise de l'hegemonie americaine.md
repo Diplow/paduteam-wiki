@@ -37,6 +37,6 @@ La Chine a répondu aux 145% de droits de douane de Trump avec une contre-ripost
 
 ## Vidéos où le concept est développé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]

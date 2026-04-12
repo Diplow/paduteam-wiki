@@ -24,14 +24,14 @@ Les personnes qui ont subi le racisme, la déchéance de nationalité, les viole
 
 **Paris 2026** : [[Emmanuel Gregoire]] aurait peut-être fait moins de voix si [[Sophia Chikirou]] lui avait fusionné — les centristes auraient fui vers [[Rachida Dati]]. Grégoire gagne largement sans la fusion. Non seulement on ne peut pas additionner les voix, mais l'addition peut produire une soustraction.
 
-**Marseille 2026** : [[Sébastien De Logu]] se désiste pour [[Benoît Payan]] (PS). Les voix LFI ne reportent pas mécaniquement sur PS — "je suis pas sûr qu'il y a plus de 50% de gens qui ont voté De Logu qui sont allés voter Benoît Paillant."
+**Marseille 2026** : [[Sebastien De Logu]] se désiste pour [[Benoît Payan]] (PS). Les voix LFI ne reportent pas mécaniquement sur PS — "je suis pas sûr qu'il y a plus de 50% de gens qui ont voté De Logu qui sont allés voter Benoît Paillant."
 
 **Primaire noisette (novembre 2025)** : Les promoteurs de la primaire croient que 72% des électeurs NFP voulant une union = base suffisante. La PaduTeam ironise : "72% des gens qui ont voté pour une union de la gauche veulent une union de la gauche." Et 72% des gens qui ont voté Macron voudraient que Macron se représente.
 
 Plus fondamentalement, une candidature unique à gauche perd une partie des électeurs LFI si c'est Glucksmann et une partie des électeurs Glucksmann si c'est Mélenchon. Et le premier tour ne se joue plus sur des thèmes de gauche. Si par contre il y a deux candidats à gauche, le débat du premier tour porte sur la retraite à 60 ou 62 ans, les nationalisations, la Palestine — créant une dynamique de second tour.
 
 ## Vidéos où le concept est développé
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Développement théorique complet : candidature unique = perte d'une frange + débat du 1er tour sur la droite ; deux candidats à gauche = débat de gauche au 1er tour + meilleur report au 2e tour
-- [[Graphiked/Graphiked/videos/BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Développement théorique complet : candidature unique = perte d'une frange + débat du 1er tour sur la droite ; deux candidats à gauche = débat de gauche au 1er tour + meilleur report au 2e tour
+- [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toulouse (5 000 voix manquantes), Tulle (perd avec LFI), Paris (Grégoire gagne sans LFI), Nantes (Roland gagne à peine avec LFI), Marseille (De Logu se désiste). Cas d'école multiples du même principe.
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — [[Marine Tondelier]] présente l'union comme une somme de pourcentages. Padu : "si vous allez chercher certains électeurs sur certains projets politiques, vous allez en perdre d'autres qui n'ont pas les mêmes intérêts de classe, la même vision du monde." Deux candidats à gauche au 1er tour = débat sur la retraite à 60 ans, Palestine, nationalisations, créant une dynamique de second tour que l'union arithmétique ne produit pas.

@@ -18,4 +18,4 @@ Dans le reportage Paris Match, Julie Gayet est mise en scène en mode "trad wife
 Sa présence dans le reportage est analysée comme un outil de normalisation de Hollande : faire passer un ex-président que "le pays déteste" pour "un homme simple" via la mise en scène d'un couple ordinaire.
 
 ## Vidéos où elle est mentionnée
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire en direct du reportage Paris Match
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire en direct du reportage Paris Match

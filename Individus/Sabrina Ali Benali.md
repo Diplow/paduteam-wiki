@@ -19,4 +19,4 @@ Dans le contexte du "dossier" Dray sur l'enfance de Mélenchon, Sabrina Ali Bena
 - Invitée de la chaîne PaduTeam
 
 ## Vidéos où elle est mentionnée
-- [[JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON]] — Commentaire satirique sur le dossier Dray, cité positivement par Padu
+- [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Commentaire satirique sur le dossier Dray, cité positivement par Padu

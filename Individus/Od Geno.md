@@ -23,4 +23,4 @@ Mentionnée brièvement. Son profil illustre la tendance que dénonce la PaduTea
 - Invitée aux côtés de [[Laurent Alexandre]], [[Wilfried Granier]], [[Francis Lelon]], [[Neigma Traviglini]], [[Jonathan Gelop]] dans l'émission analysée
 
 ## Vidéos où Od Geno est analysée
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

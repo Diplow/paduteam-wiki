@@ -27,4 +27,4 @@ Le monde à l'envers est l'effet global du fétichisme de la marchandise : la f�
 - Laurent Alexandre recommande de "ne plus faire d'études" car ça ne rapporte pas d'argent — il mesure la valeur de l'éducation uniquement par la valeur d'échange qu'elle produit.
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]] — Chris invoque explicitement "le monde à l'envers de Marx" pour décrire les startuppers de l'éducation
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Chris invoque explicitement "le monde à l'envers de Marx" pour décrire les startuppers de l'éducation

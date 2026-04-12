@@ -24,4 +24,4 @@ Son argument central : puisque le Juif a désormais un État qui se défend, l'e
 Qualifie les membres des organisations armées palestiniennes de "violeurs de femmes et d'enfants", en niant le contexte colonial et de résistance. Padu : "L'enjeu du 7 octobre c'est de le replacer dans un contexte colonial — tu peux pas réduire ça à ça."
 
 ## Vidéos où Goldnadel est analysé
-- [[AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]] — Défend le RN contre l'extrême-gauche sur la question antisémite, instrumentalise l'affaire de l'affiche LFI
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Défend le RN contre l'extrême-gauche sur la question antisémite, instrumentalise l'affaire de l'affiche LFI

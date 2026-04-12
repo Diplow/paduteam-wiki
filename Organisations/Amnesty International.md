@@ -17,4 +17,4 @@ ONG internationale de défense des droits humains. A qualifié le régime israé
 Bergé a demandé le démantèlement d'Amnesty International "parce qu'[ils] avaient osé parler d'apartheid israélien". La PaduTeam y voit la logique de criminalisation de toute organisation dénonçant les crimes de guerre israéliens, au même titre que la demande de dissolution de LFI.
 
 ## Vidéos où Amnesty est citée
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]

@@ -23,4 +23,4 @@ Référence bibliographique citée par [[Chris]]. Son ouvrage *Entre bourgeoisie
 
 ## Vidéos
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Cité par Chris parmi les références bibliographiques du Graphique
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — *La Logique méconnue du Capital* recommandé comme meilleure intro au Capital
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — *La Logique méconnue du Capital* recommandé comme meilleure intro au Capital

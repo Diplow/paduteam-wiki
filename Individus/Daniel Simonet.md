@@ -12,14 +12,14 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Daniel Simonet
 
 ## Profil synthétique
-Co-fondateur de [[L'Après]], ancienne figure de la [[France Insoumise]]. Appartient à la "2e génération" de la gauche de rupture avec [[Raquel Garrido]] et [[Alexis Corbière]] — ceux qui sont passés par le PS avec [[Jean-Luc Melenchon]] avant de fonder le Parti de Gauche puis de rejoindre la FI.
+Co-fondateur de [[L'Apres]], ancienne figure de la [[France Insoumise]]. Appartient à la "2e génération" de la gauche de rupture avec [[Raquel Garrido]] et [[Alexis Corbière]] — ceux qui sont passés par le PS avec [[Jean-Luc Melenchon]] avant de fonder le Parti de Gauche puis de rejoindre la FI.
 
 ## Trajectoire
 Compagnon de route de Mélenchon dès le PS, puis au Parti de Gauche, puis à la FI. En 2024, fait partie de ceux qui décident de quitter la FI et de constituer L'Après. La PaduTeam explique ce départ comme mélange de clivages de ligne, de place et générationnels : Simonet et sa génération ont toujours voulu prendre la place de Mélenchon et n'ont jamais obtenu les postes qu'ils estimaient mériter.
 
 ## Relations
 - [[France Insoumise]] — ancienne appartenance
-- [[L'Après]] — co-fondateur
+- [[L'Apres]] — co-fondateur
 - [[Raquel Garrido]], [[Alexis Corbière]] — même génération politique
 - [[Jean-Luc Melenchon]] — ancien camarade au PS puis PG
 

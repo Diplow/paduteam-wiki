@@ -44,7 +44,7 @@ Sur Radio J (dimanche 15 janvier), Macron affirme que la FI "est bien une format
 Macron joue sa carte habituelle : rester "clé de voûte" entre les deux extrêmes — une position qui n'a plus de sens en période de crise. Il "attend que ça" — que la tension entre extrême droite et extrême gauche lui donne un prétexte pour l'article 16, le plein pouvoir, l'état d'urgence. La PaduTeam compare à Waldeck Rousseau et son "gouvernement de défense républicaine" (fin XIXe) qui avait utilisé les attentats anarchistes pour interdire les mouvements ouvriers.
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
+- [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — A dû modifier ses parcours diplomatiques face aux manifestants réclamant la libération d'Abdallah
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Affirme que la FI est "d'extrême gauche", instrumentalise la mort de Quentin de Rang pour asseoir cette classification

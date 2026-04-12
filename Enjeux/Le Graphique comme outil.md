@@ -9,7 +9,7 @@ statut: ébauche
 # Le Graphique comme outil
 
 ## Position PaduTeam
-Le [[Graphique]] (Saint Graphique, matrice ACM) n'est pas de la "sociologie électorale" ou de la "branlette intellectuelle" comme certains le critiquent — c'est un outil d'analyse des sujets collectifs directement dérivé de l'[[Épistémologie marxiste]] et de la stratégie léniniste. Son but est de comprendre *qui peut aller où* politiquement et *comment l'y amener*.
+Le [[Graphique]] (Saint Graphique, matrice ACM) n'est pas de la "sociologie électorale" ou de la "branlette intellectuelle" comme certains le critiquent — c'est un outil d'analyse des sujets collectifs directement dérivé de l'[[Epistemologie marxiste]] et de la stratégie léniniste. Son but est de comprendre *qui peut aller où* politiquement et *comment l'y amener*.
 
 ## Arguments récurrents
 
@@ -27,7 +27,7 @@ Le [[Graphique]] (Saint Graphique, matrice ACM) n'est pas de la "sociologie éle
 - Les gauchistes qui pensent que théoriser est réservé à une élite
 
 ## Concepts associés
-[[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Intégration du prolétariat]], [[Épistémologie marxiste]]
+[[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Integration du proletariat]], [[Epistemologie marxiste]]
 
 ## Vidéos clés
 - [[Le MARXISME, un TRUC de BLANC]] — défense explicite du Graphique comme outil léniniste contre la critique d'Ajari

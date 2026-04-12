@@ -17,8 +17,8 @@ A soutenu [[Marine Le Pen]] après sa condamnation (mars 2026). Il est placé pa
 
 ## Relations
 - [[Marine Le Pen]] — soutien international
-- [[Viktor Orbán]] — internationale national-autoritaire commune
+- [[Viktor Orban]] — internationale national-autoritaire commune
 - [[Vladimir Poutine]] — positionnement pro-Poutine dans le conflit UE/Russie
 
 ## Vidéos où Wilders est analysé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

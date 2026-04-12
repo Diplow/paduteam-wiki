@@ -31,5 +31,5 @@ Une variante différente apparaît avec [[Laurent Wauquiez]] : il déclare voulo
 [[Bruno Retailleau]], lui, maintient vraiment le cordon — refusant tout débat avec la FI. Mélenchon note que ce cordon lui est au fond *favorable* : la diabolisation de LFI comme "grand méchant loup" la place dans la position de Le Pen 2002, renforçant son identité oppositionnelle. La PaduTeam analyse : Mélenchon "a besoin d'être diabolisé pour passer au second tour" — le cordon sanitaire confirme qu'il est "l'autre pôle".
 
 ## Vidéos où le concept est développé
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Première formulation explicite par Bergé sur BFM TV
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Wauquiez se contredit en faisant un demi-cordon sanitaire ; Mélenchon montre que le cordon lui est favorable
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Première formulation explicite par Bergé sur BFM TV
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Wauquiez se contredit en faisant un demi-cordon sanitaire ; Mélenchon montre que le cordon lui est favorable

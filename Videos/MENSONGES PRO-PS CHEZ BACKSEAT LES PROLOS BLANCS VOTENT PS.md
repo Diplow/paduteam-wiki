@@ -16,7 +16,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # MENSONGES PRO-PS CHEZ BACKSEAT : "LES PROLOS BLANCS VOTENT PS" !!
 
 ## Résumé
-[[Padu]], [[Chris]] et [[Dr Zoe|Zoé]] analysent un extrait de [[Backseat]] où [[Lumir Lapray]] affirme que les classes populaires blanches rurales votent [[Parti Socialiste|PS]]. La PaduTeam démonte méthodiquement cette affirmation avec des données électorales du ministère de l'Intérieur et de l'[[IFOP|INSEE]], montrant que le PS fait 2 % en ruralité (son score national exact) tandis que [[Jean-Luc Melenchon|Mélenchon]] y fait 19 %. La vidéo s'inscrit dans la [[Guerre des gauches]] et la campagne [[Graphiked/Graphiked/enjeux/Plus jamais PS]].
+[[Padu]], [[Chris]] et [[Dr Zoe|Zoé]] analysent un extrait de [[Backseat]] où [[Lumir Lapray]] affirme que les classes populaires blanches rurales votent [[Parti Socialiste|PS]]. La PaduTeam démonte méthodiquement cette affirmation avec des données électorales du ministère de l'Intérieur et de l'[[IFOP|INSEE]], montrant que le PS fait 2 % en ruralité (son score national exact) tandis que [[Jean-Luc Melenchon|Mélenchon]] y fait 19 %. La vidéo s'inscrit dans la [[Guerre des gauches]] et la campagne [[Plus jamais PS]].
 
 ## Thèses et analyses clés
 
@@ -64,4 +64,4 @@ La PaduTeam retrace le parcours de [[Lumir Lapray]] : originaire de l'Ain (rural
 [[Backseat]], [[Parti Socialiste]], [[France Insoumise]], [[Rassemblement National]], [[NUPES]], [[NFP]], [[Place Publique]], [[Europe Ecologie Les Verts]], [[Victoire Populaire]], [[On ne veut plus]], [[Positions Revue]], [[Primaire Populaire]], [[Alternativa]]
 
 ## Concepts mobilisés
-[[Guerre des gauches]], [[Graphique]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Bloc bourgeois]], [[Pacte egalitaire]], [[Pacte raciste]], [[Vote utile]], [[Moisation]], [[Proletarisation des cadres]], [[Gauche de rupture]], [[Neoliberalisme]], [[Pensee idealiste vs materialiste]], [[Strategie de bloc social]], [[Sujet collectif]]
+[[Guerre des gauches]], [[Graphique]], [[Plus jamais PS]], [[Bloc bourgeois]], [[Pacte egalitaire]], [[Pacte raciste]], [[Vote utile]], [[Moisation]], [[Proletarisation des cadres]], [[Gauche de rupture]], [[Neoliberalisme]], [[Pensee idealiste vs materialiste]], [[Strategie de bloc social]], [[Sujet collectif]]

@@ -23,4 +23,4 @@ Analyse PaduTeam : le MoDem est "le père" dont [[Emmanuel Macron]] est "le fils
 - [[François Bayrou]] — fondateur, secrétaire général, candidat présidentiel récurrent (2002, 2007, 2012)
 
 ## Vidéos où l'organisation est analysée
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Historique MoDem/Bayrou et son rôle dans l'émergence du macronisme
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Historique MoDem/Bayrou et son rôle dans l'émergence du macronisme

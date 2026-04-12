@@ -16,7 +16,7 @@ Révolutionnaire marxiste polonaise (1871-1919). Théoricienne de l'accumulation
 Côté prolétariat révolutionnaire, bloc de rupture.
 
 ## Stratégie et trajectoire
-La PaduTeam la cite comme exemple d'enrichissement interne du marxisme par une femme — son apport sur l'accumulation du capital et la critique du parlementarisme approfondit la grille marxiste sans introduire d'épistémologie rivale. Prend position dans le débat Bernstein/Kautsky/Lénine sur l'[[Intégration du prolétariat]].
+La PaduTeam la cite comme exemple d'enrichissement interne du marxisme par une femme — son apport sur l'accumulation du capital et la critique du parlementarisme approfondit la grille marxiste sans introduire d'épistémologie rivale. Prend position dans le débat Bernstein/Kautsky/Lénine sur l'[[Integration du proletariat]].
 
 ## Relations
 - [[Eduard Bernstein]] — adversaire théorique (réformisme vs révolution)

@@ -16,4 +16,4 @@ Intellectuel critique qui a documenté comment la CIA a récupéré et promu des
 Rockhill est cité comme référence sur le rôle de la CIA dans la promotion du marxisme occidental anti-soviétique. Il montre que la CIA n'a pas nécessairement payé directement ces intellectuels — elle finançait des colloques, invitait certains penseurs plutôt que d'autres. Il était dans l'intérêt des États-Unis que le marxisme occidental soit un marxisme critique de l'URSS. Les penseurs inoffensifs (comme [[Lucien Goldmann]] analysant Pascal) étaient préférés à ceux appelant à prendre les armes contre l'impérialisme.
 
 ## Vidéos où Rockhill est analysé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

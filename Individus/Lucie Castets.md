@@ -31,5 +31,5 @@ Quelques jours après la conférence de presse du 2 juillet 2025, elle déclare 
 - [[NFP]] — pressentie PM post-législatives 2024
 
 ## Vidéos où Castets est analysée
-- [[Graphiked/Graphiked/videos/L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]] — Analyse complète : "noisette caviare", existe par son vide, signe mauvaise foi sur le programme ("une base de départ")
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — "La marquise" de la primaire noisette. Elle affirme que l'annonce de la date va "créer un effet d'entraînement, une dynamique" — jugé par le journaliste du Monde avec un "veux croire, madame Castets" révélateur du scepticisme général. Padu : "C'est bizarre hein — 72% des gens qui ont voté pour une union de la gauche veulent une union de la gauche."
+- [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Analyse complète : "noisette caviare", existe par son vide, signe mauvaise foi sur le programme ("une base de départ")
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La marquise" de la primaire noisette. Elle affirme que l'annonce de la date va "créer un effet d'entraînement, une dynamique" — jugé par le journaliste du Monde avec un "veux croire, madame Castets" révélateur du scepticisme général. Padu : "C'est bizarre hein — 72% des gens qui ont voté pour une union de la gauche veulent une union de la gauche."

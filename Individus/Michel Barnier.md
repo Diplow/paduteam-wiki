@@ -20,5 +20,5 @@ Sa nomination illustre pour la PaduTeam la mécanique de la 5e République post-
 - [[Francois Bayrou]] — son successeur
 
 ## Vidéos où Barnier est mentionné
-- [[Graphiked/Graphiked/videos/L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]] — Cité brièvement comme étape de la dégradation institutionnelle post-législatives 2024
+- [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Cité brièvement comme étape de la dégradation institutionnelle post-législatives 2024
 - [[MICHEL BARNIER 1er MINISTRE  le COMPROMIS MACRON-LEPEN !!]]

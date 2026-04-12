@@ -32,4 +32,4 @@ Là où [[Emmanuel Todd]] affirme que les systèmes familiaux ont une permanence
 - La chute de natalité en France depuis 2016 n'est pas causée par #MeToo ou le mariage pour tous (comme le prétend Todd) mais par la dégradation des conditions matérielles
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

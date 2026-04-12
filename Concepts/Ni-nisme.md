@@ -26,4 +26,4 @@ En introduisant de la "surcomplexité en période de guerre" — agents doubles,
 Le [[Campisme]] est la position opposée au ni-nisme: choisir un camp, même imparfait, en période de conflit. La PaduTeam défend le campisme comme seule position anti-impérialiste viable.
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

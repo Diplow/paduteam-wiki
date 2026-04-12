@@ -23,5 +23,5 @@ Fondateur de la psychanalyse (1856-1939). Pour la PaduTeam, Freud incarne à la 
 - [[Jacques Lacan]] — lecteur/continuateur
 
 ## Vidéos où Freud est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]

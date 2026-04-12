@@ -27,7 +27,7 @@ Haut-droite. Incarne le populisme bourgeois anticommuniste : il se présente com
 **Citation de Marcel Gauchet** : Utilise la thèse de [[Marcel Gauchet]] sur l'"absence d'idée de la totalité" dans le mouvement social. Pour la PaduTeam : critique absurde — aucun mouvement social n'a besoin d'un programme global pour être légitime.
 
 ## Relations
-- [[Raphaël Glucksmann]] — même ligne de refroidissement du mouvement social (septembre 2025)
+- [[Raphael Glucksmann]] — même ligne de refroidissement du mouvement social (septembre 2025)
 - [[Bernard-Henri Lévy]] — même galaxie de "boussoles qui indiquent le sud"
 - [[Marcel Gauchet]] — référence intellectuelle citée
 

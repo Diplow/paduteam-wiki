@@ -28,5 +28,5 @@ Chris le qualifie de "pas vraiment un marxiste" mais considère qu'il "se rappro
 - S'oppose à [[Cedric Robinson]] et à la théorie radicale noire antimarxiste
 
 ## Vidéos où Mills est cité
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris recommande *Le Contrat racial* et le qualifie de "livre de philosophie politique sur la race le plus important"
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris recommande *Le Contrat racial* et le qualifie de "livre de philosophie politique sur la race le plus important"

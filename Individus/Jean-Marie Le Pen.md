@@ -25,7 +25,7 @@ Fondateur du [[Front National]] (devenu [[Rassemblement National]]) en 1972. Mor
 ## Sa ligne politique : pas des dérapages, une stratégie
 Padu et Zoé insistent sur ce point : ce n'était pas un homme qui "dérapait". C'était sa ligne politique permanente :
 - Pointer des groupes dominés (immigrés, homosexuels, juifs) pour faire porter à des minorités les problèmes de la France
-- Éviter soigneusement toute interrogation sur l'ordre social ou les rapports de production ([[Hiérarchisation des êtres humains]])
+- Éviter soigneusement toute interrogation sur l'ordre social ou les rapports de production ([[Hierarchisation des etres humains]])
 - Les "dérapages" des années 80-90 (propos sur le SIDA, "les chambres à gaz sont un détail") étaient une stratégie de différenciation — l'extrême droite était marginale, il cherchait à attirer la lumière
 
 ## Condamnations judiciaires
@@ -39,8 +39,8 @@ Le Pen a reconnu avoir pratiqué la torture pendant la guerre d'Algérie, puis s
 
 ## Héritage politique : la continuité FN→RN
 Sa mort sert le RN selon Padu : le parti peut désormais se désolidariser du "vieux" tout en gardant sa ligne. Mais la continuité est réelle :
-- Les cadres qui allaient chercher des autographes de [[Léon Degrelle]] (ancien SS belge) dans les années 90 font toujours partie du réseau RN
-- [[Frédéric Châtillon]], figure néo-fasciste, reste dans l'orbite proche
+- Les cadres qui allaient chercher des autographes de [[Leon Degrelle]] (ancien SS belge) dans les années 90 font toujours partie du réseau RN
+- [[Frederic Chatillon]], figure néo-fasciste, reste dans l'orbite proche
 - [[Marine Le Pen]] fait profil bas mais ne les met pas au ban
 
 ## Position dans le [[Graphique]]
@@ -51,5 +51,5 @@ Le [[Graphique]] montre que le vote FN 2002 était un vote caché des classes po
 - **Comparaisons injustes avec Mélenchon** : [[Sophia Aram]] et [[Plantu]] ont tenté, le jour de sa mort, de tracer un parallèle entre Le Pen et Mélenchon. Padu : "Les négationistes de France votaient Jean-Marie Le Pen, pas Mélenchon."
 
 ## Vidéos où l'individu est mentionné
-- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Cité comme preuve historique de l'échec des sondages (8% annoncés → 17% réels en 2002)

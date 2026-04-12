@@ -25,4 +25,4 @@ Le nouveau-né est radicalement dépendant du social — il ne peut pas survivre
 - [[Lucien Seve]] — héritier philosophique, Sève lui donne une assise philosophique puissante
 
 ## Vidéos où Wallon est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

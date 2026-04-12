@@ -17,4 +17,4 @@ Référence positive citée par [[Chris]] pour démontrer que c'est le mode de p
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — cité comme référence fondamentale sur l'origine matérielle du racisme
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*

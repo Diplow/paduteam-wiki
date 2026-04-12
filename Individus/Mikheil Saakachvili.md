@@ -12,13 +12,13 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Mikheil Saakachvili
 
 ## Profil synthétique
-Ancien président de Géorgie (2004-2013), figure de l'atlantisme pro-occidental. Lié à [[Raphaël Glucksmann]] — père de Glucksmann (André Glucksmann) était proche de lui. La PaduTeam le qualifie de "dictateur géorgien" qui "a tué des gens, réprimé des manifestants, viré des fonctionnaires par centaines de milliers."
+Ancien président de Géorgie (2004-2013), figure de l'atlantisme pro-occidental. Lié à [[Raphael Glucksmann]] — père de Glucksmann (André Glucksmann) était proche de lui. La PaduTeam le qualifie de "dictateur géorgien" qui "a tué des gens, réprimé des manifestants, viré des fonctionnaires par centaines de milliers."
 
 ## Rôle dans l'analyse PaduTeam
-Cité pour dénoncer l'hypocrisie de Glucksmann : ce dernier dénonce la "violence" de [[Raphaël Arnaud]] et de la [[France Insoumise]], mais son camp politique a soutenu un dirigeant géorgien qui a exercé une vraie violence d'État. "Le mec qui a été conseillé d'un dictateur géorgien qui a tué des gens… c'est pas violent ça." C'est la logique Monsieur Verdoux : la violence étatique est invisible, la résistance populaire est criminalisée.
+Cité pour dénoncer l'hypocrisie de Glucksmann : ce dernier dénonce la "violence" de [[Raphael Arnaud]] et de la [[France Insoumise]], mais son camp politique a soutenu un dirigeant géorgien qui a exercé une vraie violence d'État. "Le mec qui a été conseillé d'un dictateur géorgien qui a tué des gens… c'est pas violent ça." C'est la logique Monsieur Verdoux : la violence étatique est invisible, la résistance populaire est criminalisée.
 
 ## Relations
-- [[Raphaël Glucksmann]] — lié à son cercle politique
+- [[Raphael Glucksmann]] — lié à son cercle politique
 
 ## Bilan détaillé selon la PaduTeam
 Dans la vidéo "humiliation", Padu chiffre précisément le bilan Saakachvili en Géorgie (4,2 millions d'habitants) :
@@ -32,4 +32,4 @@ L'OTAN utilisait Saakachvili pour créer une "base pro-occidentale" dans les pay
 
 ## Vidéos où Saakachvili est mentionné
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]] — Analyse détaillée de son bilan économique et du rôle de Glucksmann
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Analyse détaillée de son bilan économique et du rôle de Glucksmann

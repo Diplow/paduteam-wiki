@@ -19,4 +19,4 @@ Reconnu comme "camarade" par Padu. Sa méthode (aller dans le réel, interviewer
 Micro-trottoirs pendant les mouvements sociaux. Son contenu est utilisé par Padu comme matériau brut à analyser. Il pose des questions directes aux militants — y compris des questions graphikeuses ("comment ça se fait que Roussell soit en haut à droite dans le graphique ?").
 
 ## Vidéos où Cathédrale Osseuse apparaît
-- [[LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Padu commente son micro-trottoir du 1er mai avec des militantes JC roussellistes et des militants de L'Après
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Padu commente son micro-trottoir du 1er mai avec des militantes JC roussellistes et des militants de L'Après

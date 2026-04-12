@@ -22,17 +22,17 @@ Cofondateur de la chaîne YouTube [[PaduTeam]] et de l'association [[La Breche]]
 Grille de lecture marxiste assumée. Utilise le [[Graphique]] pour projeter les résultats électoraux et analyser les dynamiques sociologiques du vote. Ton militant: "Bougez-vous, c'est possible. Le moment est là."
 
 ## Vidéos
-- [[PADUSTREAM C'EST DÉJÀ FINI]] — Annonce du passage de "Pas Du Stream" à "PaduTeam", création de [[La Breche]], projet de fédération
+- [[PADUSTREAM C'EST DEJA FINI]] — Annonce du passage de "Pas Du Stream" à "PaduTeam", création de [[La Breche]], projet de fédération
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Le GRAPHIQUE est-il vraiment SEXISTE]]
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]]
-- [[Graphiked/Graphiked/videos/BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
+- [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[Debunk Graphique Bad Mulch]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Mobilisation de [[Antonio Gramsci|Gramsci]] et critique de [[Michel Clouscar|Clouscar]] sur l'hygiénisme prolétarien
 - [[Nicolas qui paye]] — Déconstruction de la figure droitarde de "Nicolas qui paye", critique du [[Fetichisme de la marchandise]] et défense du [[Salariat generalise]]
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Capsule Q&A sur les classes sociales : rapports de production vs patrimoine, artisans, livreurs Uber, médecins, aliénation bourgeoise
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — React avec [[Dr Zoe]] au calculateur de la passe maritale de [[Marc]] (masculiniste "Terre des hommes libres")
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]] — 1000e vidéo, procès du miniaturiste [[Magne]], débat sur propagande, fémonationalisme, IA et travail
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]] — 1000e vidéo, procès du miniaturiste [[Magne]], débat sur propagande, fémonationalisme, IA et travail
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — React aux Grandes Gueules post-10 septembre, lecture du passage du Manifeste sur le socialisme petit-bourgeois, démonstration live du Graphique sur les appelants

@@ -24,4 +24,4 @@ La PaduTeam distingue deux degrés de défaite pour les petits candidats :
 - [[Nicolas Dupont-Aignan]] (2027) — "Il finira dans l'huile"
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]]
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]

@@ -22,4 +22,4 @@ Représente l'aile centre du macronisme reconverti. Joue un rôle de médiateur 
 - [[Parti Socialiste]] — partenaire dans les réunions secrètes
 
 ## Vidéos où Fesneau est analysé
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — Cité ("Marfeno" dans le transcript) comme représentant du MoDem dans les tractations budgétaires secrètes PS-Écolos-bloc central révélées par Le Figaro
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Cité ("Marfeno" dans le transcript) comme représentant du MoDem dans les tractations budgétaires secrètes PS-Écolos-bloc central révélées par Le Figaro

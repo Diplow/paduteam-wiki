@@ -24,4 +24,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 - [[Emmanuel Todd]] — analyse similaire sur la natalité mais conclusions différentes
 
 ## Vidéos où Sbaihi est analysé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

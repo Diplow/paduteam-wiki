@@ -38,4 +38,4 @@ Les "compétences" ne sont pas neutres : ce sont des **compétences exploitables
 - Chris note l'ironie : Keynes et Schumpeter (et même Marx) sont au programme de terminale — les startuppers ne le savent pas
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]] — Thème central ; Padu et Chris formulent la distinction explicitement
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Thème central ; Padu et Chris formulent la distinction explicitement

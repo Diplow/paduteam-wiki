@@ -22,4 +22,4 @@ Se présentera à la primaire LR mais se fera écraser par [[Bruno Retailleau]].
 
 ## Vidéos
 - [[Hollande vs Melenchon 2e tour]]
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire LR, rejoindra Philippe
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire LR, rejoindra Philippe

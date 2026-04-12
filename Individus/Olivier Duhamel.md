@@ -18,4 +18,4 @@ Mentionné par Zoé comme exemple de la prise de conscience que la parole publiq
 *(À ne pas confondre avec [[Alain Duhamel]], le journaliste politique.)*
 
 ## Vidéos où Olivier Duhamel est mentionné
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]
