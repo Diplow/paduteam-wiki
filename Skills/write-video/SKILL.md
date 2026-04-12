@@ -56,7 +56,7 @@ skill_version: write-video-YYYY-MM-DD
 ---
 #domaine/valeur1 #thème/thème1 #thème/thème2 #enjeu/enjeu1 #enjeu/enjeu2
 
-[![TITRE DE LA VIDÉO](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID)
+![TITRE DE LA VIDÉO](https://www.youtube.com/watch?v=YOUTUBE_ID)
 
 # TITRE DE LA VIDÉO
 
@@ -93,7 +93,7 @@ tableau markdown.
 
 #### Principes de rédaction
 
-- **Lien YouTube embarqué** : placer le thumbnail cliquable juste après les hashtags, avant le `# Titre`. Le `youtube_id` vient du frontmatter ou de l'Inventaire PaduTeam. Si l'ID n'est pas disponible, omettre le thumbnail (ne pas inventer d'ID).
+- **Embed YouTube** : placer l'embed Obsidian juste après les hashtags, avant le `# Titre`, sous la forme `![titre](https://www.youtube.com/watch?v=ID)`. Obsidian reconnaît cette syntaxe image pointant vers une URL YouTube et affiche un lecteur embarqué. Ne **pas** utiliser de thumbnail cliquable via `img.youtube.com` — cette forme donne une image statique sans lecteur. Le `youtube_id` vient du frontmatter ou de l'Inventaire PaduTeam. Si l'ID n'est pas disponible, omettre l'embed (ne pas inventer d'ID).
 - **Le résumé** doit tenir en 2-4 phrases. Un lecteur qui ne lit que le résumé doit comprendre la thèse centrale.
 - **Les thèses** sont numérotées et chacune contient au moins un [[wikilink]] vers un concept ou un enjeu. C'est ce qui fait de la fiche vidéo un nœud du graphe, pas un résumé isolé.
 - **Notes de bas de page timestampées** : sourcer les points clés (citations marquantes, formulations de thèse, moments de débat) avec des footnotes qui pointent vers le timestamp YouTube exact. Format : `[^N]: [MM:SS](https://www.youtube.com/watch?v=ID&t=SECONDS) — "citation ou résumé"`. Convertir le timestamp en secondes pour le paramètre `&t=`. Ne footnote que ce qui est réellement dans le transcript — ne pas inventer de citations.

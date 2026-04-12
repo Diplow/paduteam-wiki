@@ -9,7 +9,7 @@ skill_version: write-video-2026-04-12
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/organisation-militante #thème/strategie-gramscienne #enjeu/union-populaire
 
-[![10 SEPTEMBRE COMMENT ne PAS REPRODUIRE les ERREURS des GILETS JAUNES](https://img.youtube.com/vi/2VOtXz9RSUw/0.jpg)](https://www.youtube.com/watch?v=2VOtXz9RSUw)
+![10 SEPTEMBRE COMMENT ne PAS REPRODUIRE les ERREURS des GILETS JAUNES](https://www.youtube.com/watch?v=2VOtXz9RSUw)
 
 # 10 SEPTEMBRE COMMENT NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES
 
