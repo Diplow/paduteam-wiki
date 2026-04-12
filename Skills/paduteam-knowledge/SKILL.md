@@ -21,6 +21,45 @@ Cette skill prend un transcript de vidéo PaduTeam (fichier .md dans le dossier 
 
 L'objectif est de construire un graphe de connaissances navigable dans Obsidian, reflétant fidèlement les analyses et la vision du monde de la PaduTeam.
 
+## Workflow git
+
+Le vault est versionné sur GitHub (`Diplow/paduteam-wiki`). Chaque ingestion se fait sur une branche dédiée, puis est mergée dans `develop` via PR.
+
+### Stratégie de branches
+
+```
+main              ← production (déclenche la publication du wiki)
+ └── develop      ← intégration (état courant du vault)
+      └── ingest/slug-video  ← branche d'ingestion (1 par vidéo)
+```
+
+- **`main`** : reflète l'état publié du wiki. On ne push jamais directement sur main.
+- **`develop`** : branche d'intégration. Toutes les ingestions sont mergées ici via PR. C'est la branche de travail par défaut.
+- **`ingest/<slug>`** : branche éphémère créée pour chaque ingestion. Le slug est dérivé du titre de la vidéo (minuscules, tirets, sans accents, tronqué à ~50 chars). Ex: `ingest/municipales-ce-quil-faut-retenir`.
+
+### En début d'ingestion
+
+1. S'assurer d'être sur `develop` à jour : `git checkout develop && git pull origin develop`
+2. Créer la branche d'ingestion : `git checkout -b ingest/<slug>`
+
+### En fin d'ingestion
+
+1. Stage tous les fichiers modifiés/créés : `git add <fichiers spécifiques>`
+2. Commit avec message structuré :
+   ```
+   ingest: TITRE ABRÉGÉ DE LA VIDÉO
+
+   Fiches créées: X (liste)
+   Fiches enrichies: Y (liste)
+   Corrections ortho: Z (liste si applicable)
+   ```
+3. Push la branche : `git push -u origin ingest/<slug>`
+4. Créer une PR vers `develop` avec le résumé de l'ingestion (fiches créées, enrichies, corrections)
+
+### Publication (develop → main)
+
+Le merge de `develop` dans `main` est fait manuellement par l'utilisateur quand il veut publier une nouvelle version du wiki. La publication se fait ensuite via Obsidian Publish (sync manuelle depuis l'app).
+
 ## Chemins du vault
 
 ```
@@ -36,9 +75,9 @@ Graphiked/
 └── Enjeux/                              ← 1 fiche par combat stratégique récurrent
 ```
 
-**Chemin exact sur le disque (Windows) :** `C:\Users\uboil\Documents\Obsidian\Perso\4. Jeux\Notes\Graphiked`
+**Chemin exact sur le disque (Windows) :** `C:\Users\uboil\Documents\Obsidian\Graphiked`
 
-**Accès au vault en début de session :** Utiliser immédiatement `request_cowork_directory` avec le chemin exact ci-dessus — ne jamais demander à l'utilisateur où se trouve le vault, ne jamais ouvrir un sélecteur de dossier. Le vault sera alors monté à `/sessions/.../mnt/Graphiked`.
+**Repo GitHub :** `git@github.com:Diplow/paduteam-wiki.git` (HTTPS : `https://github.com/Diplow/paduteam-wiki.git`)
 
 ## Qui est la PaduTeam
 
@@ -176,6 +215,25 @@ Si l'utilisateur ne fournit ni URL YouTube, ni titre de vidéo, ni nom de fichie
 4. Utiliser cette vidéo : extraire le titre et le nom du transcript pour passer à l'étape 1
 
 Si toutes les vidéos avec transcript ont déjà une fiche, le signaler à l'utilisateur et proposer d'extraire un nouveau transcript pour la vidéo la plus récente sans transcript.
+
+### Étape 0b — Créer la branche d'ingestion
+
+Une fois la vidéo identifiée (titre connu) :
+
+1. Générer le slug : prendre le titre, le passer en minuscules, retirer les accents, remplacer les espaces et caractères spéciaux par des tirets, tronquer à ~50 chars. Ex: "MUNICIPALES CE QU'IL FAUT RETENIR" → `municipales-ce-quil-faut-retenir`
+2. Se placer sur develop à jour :
+   ```bash
+   git checkout develop && git pull origin develop
+   ```
+3. Créer la branche :
+   ```bash
+   git checkout -b ingest/<slug>
+   ```
+
+Si `develop` n'existe pas encore, la créer depuis `main` :
+```bash
+git checkout main && git pull origin main && git checkout -b develop && git push -u origin develop
+```
 
 ### Étape 1 — Localiser et lire le transcript
 
@@ -456,7 +514,50 @@ Format d'une ligne :
 
 **Important :** toujours vérifier que la colonne Fiche n'est pas déjà remplie avant d'écrire dedans.
 
-### Étape 11 — Résumé à l'utilisateur
+### Étape 11 — Commit, push et PR
+
+1. **Lister les fichiers modifiés** : `git status`
+2. **Stage les fichiers pertinents** (pas de `git add -A` aveugle — ajouter par nom) :
+   ```bash
+   git add Videos/<fiche>.md Individus/<nom>.md ...
+   ```
+3. **Commit** avec message structuré :
+   ```
+   ingest: TITRE ABRÉGÉ DE LA VIDÉO
+
+   Fiches créées: <nombre> (<liste>)
+   Fiches enrichies: <nombre> (<liste>)
+   Corrections ortho: <liste si applicable>
+
+   Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+   ```
+4. **Push** : `git push -u origin ingest/<slug>`
+5. **Créer la PR** vers `develop` :
+   ```bash
+   gh pr create --base develop --title "ingest: TITRE ABRÉGÉ" --body "$(cat <<'EOF'
+   ## Résumé d'ingestion
+
+   **Vidéo :** TITRE COMPLET
+   **Transcript :** [[nom du transcript]]
+
+   ### Fiches créées
+   - liste des nouvelles fiches par catégorie
+
+   ### Fiches enrichies
+   - liste des fiches mises à jour
+
+   ### Corrections orthographiques
+   - nom erroné → nom corrigé (si applicable)
+
+   ### Liens orphelins restants
+   - aucun (ou liste)
+
+   🤖 Generated with [Claude Code](https://claude.com/claude-code)
+   EOF
+   )"
+   ```
+
+### Étape 12 — Résumé à l'utilisateur
 
 Présenter un résumé de ce qui a été fait:
 - Nombre de fiches créées vs enrichies
@@ -465,6 +566,7 @@ Présenter un résumé de ce qui a été fait:
 - Liens orphelins restants (normalement 0)
 - Enjeux identifiés ou enrichis
 - Corrections orthographiques effectuées (nom erroné → nom corrigé)
+- **Lien vers la PR** pour review
 
 ---
 
