@@ -4,6 +4,8 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, anti-impérialisme]
 aliases: [Mélonisme, Trumpisme, mélonisme, trumpisme, Mélonisme et Trumpisme]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/anti-impérialisme
 

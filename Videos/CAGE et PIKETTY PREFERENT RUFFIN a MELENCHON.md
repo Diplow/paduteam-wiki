@@ -9,7 +9,7 @@ date:
 intervenants: [Padu, Chris]
 aliases: [CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON]
 date created: Wednesday, April 1st 2026, 7:51:47 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/ruralité #thème/racisme-antiracisme #enjeu/union-populaire
 

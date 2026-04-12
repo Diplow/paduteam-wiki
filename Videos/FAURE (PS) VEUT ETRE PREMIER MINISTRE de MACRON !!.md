@@ -8,6 +8,8 @@ date: 2025-09
 intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]
+date created: Sunday, April 12th 2026, 5:25:28 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/PS #enjeu/plus-jamais-PS #enjeu/union-populaire
 

@@ -8,6 +8,8 @@ date: 2026-03-31
 intervenants: [Padu, Benoît Lepinat, Floé]
 statut: ébauche
 aliases: [LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]
+date created: Thursday, April 2nd 2026, 3:19:15 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/société #thème/psychiatrie-psychologie #thème/théorie
 

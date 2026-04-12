@@ -6,7 +6,7 @@ quadrant_graphique: "Bas-gauche (gauche de rupture)"
 aliases: [De Logu, Sebastien De Logu, Sébastien De Logu]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 12:02:39 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

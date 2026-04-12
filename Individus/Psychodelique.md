@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [médias-propagande]
 statut: ébauche
 aliases: [Psychodélique]
+date created: Thursday, April 2nd 2026, 10:48:03 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande
 

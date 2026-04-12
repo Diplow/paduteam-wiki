@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 10:44:09 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/médias-propagande
 

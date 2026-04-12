@@ -3,7 +3,7 @@ tags:
   - meta
   - enjeux
 date created: Wednesday, April 1st 2026, 12:00:00 am
-date modified: Thursday, April 2nd 2026, 10:27:49 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 
 # Transcripts traitant du Graphique en profondeur

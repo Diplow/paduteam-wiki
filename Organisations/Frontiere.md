@@ -9,6 +9,8 @@ thèmes: [médias-propagande]
 statut: ébauche
 apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]"]
 aliases: [Frontière]
+date created: Thursday, April 2nd 2026, 3:19:14 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande
 

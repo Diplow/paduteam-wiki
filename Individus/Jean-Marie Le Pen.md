@@ -5,7 +5,7 @@ thèmes: [élections, histoire, fascisme, extrême-droite]
 statut: développé
 aliases: [JMLP]
 date created: Wednesday, April 1st 2026, 5:48:47 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/élections #thème/histoire #thème/fascisme
 

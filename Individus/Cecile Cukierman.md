@@ -5,7 +5,7 @@ thèmes: [guerre-des-gauches]
 statut: ébauche
 aliases: [Cécile Cukierman]
 date created: Wednesday, April 1st 2026, 6:58:15 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 

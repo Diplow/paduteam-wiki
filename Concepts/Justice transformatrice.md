@@ -4,6 +4,8 @@ domaine: [société, théorie]
 thèmes: [féminisme, répression-justice]
 aliases: [justice réhabilitatrice, justice restauratrice]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:38:09 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/féminisme #thème/répression-justice
 

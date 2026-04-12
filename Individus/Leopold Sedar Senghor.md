@@ -4,6 +4,8 @@ domaine: [théorie, société]
 thèmes: [racisme-antiracisme, anti-impérialisme]
 aliases: [Senghor, Léopold Senghor, Saint-or, Léopold Sédar Senghor]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:56:39 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/société #thème/racisme-antiracisme #thème/anti-impérialisme
 

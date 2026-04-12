@@ -8,7 +8,7 @@ date: 2026-03-01
 intervenants: [Padu, Chris]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 10:38:06 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

@@ -4,6 +4,8 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, économie]
 aliases: [cage de fer, contraintes européennes, traités européens, Cage de fer néolibérale]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme
 

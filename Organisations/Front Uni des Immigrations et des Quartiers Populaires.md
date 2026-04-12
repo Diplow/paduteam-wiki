@@ -5,7 +5,7 @@ thèmes: [racisme-antiracisme]
 statut: ébauche
 aliases: [FUIQP, FUP, Front Uni travailleurs immigrés et des quartiers populaires]
 date created: Tuesday, March 31st 2026, 10:58:47 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #thème/racisme-antiracisme
 # Front Uni des Immigrations et des Quartiers Populaires

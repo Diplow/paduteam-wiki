@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [féminisme, répression-justice]
 aliases: [Elsa de Marceau]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:37:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/féminisme #thème/répression-justice
 

@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, États-Unis]
 aliases: [Jing Ping, Xi]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 10:38:33 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/géopolitique #domaine/économie #thème/anti-impérialisme #thème/États-Unis
 

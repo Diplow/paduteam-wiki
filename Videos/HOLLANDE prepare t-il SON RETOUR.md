@@ -8,6 +8,8 @@ date: 2024-12
 intervenants: [Padu, Chris, Zoé]
 statut: ébauche
 aliases: [HOLLANDE prépare t-il SON RETOUR]
+date created: Sunday, April 12th 2026, 5:28:16 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
 

@@ -6,7 +6,7 @@ quadrant_graphique: "Gauche réformiste médiatique"
 aliases: [Blast France]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 9:45:43 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande
 

@@ -5,7 +5,7 @@ thèmes: ['élections']
 statut: ébauche
 aliases: [clivage de valeur, clivage matériel, politique de valeurs, politique matérielle, Clivage matériel vs clivage de valeurs]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Clivage matériel vs clivage de valeurs

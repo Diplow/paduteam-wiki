@@ -7,7 +7,7 @@ enjeux: [plus-jamais-PS, union-populaire]
 intervenants: [Padu, Chris]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 4:01:37 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire
 

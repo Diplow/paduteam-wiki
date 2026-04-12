@@ -9,7 +9,7 @@ intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [HOLLANDE vs MÉLENCHON au 2ÈME TOUR la PROPHÉTIE INTERDITE]
 date created: Wednesday, April 1st 2026, 2:03:49 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/guerre-des-gauches #enjeu/union-populaire #enjeu/plus-jamais-PS
 # HOLLANDE vs MÉLENCHON au 2ÈME TOUR : la PROPHÉTIE INTERDITE !!

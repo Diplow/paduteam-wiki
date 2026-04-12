@@ -4,6 +4,8 @@ domaine: [géopolitique, théorie]
 thèmes: [racisme-antiracisme, anti-impérialisme]
 aliases: [PC américain, CPUSA, Communist Party USA, Parti Communiste Américain]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:58:02 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/géopolitique #thème/racisme-antiracisme #thème/anti-impérialisme
 

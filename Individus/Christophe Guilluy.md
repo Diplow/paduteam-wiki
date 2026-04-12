@@ -4,6 +4,8 @@ domaine: [société, politique-intérieure]
 thèmes: [ruralité, racisme-antiracisme]
 statut: ébauche
 aliases: [Guilluy]
+date created: Thursday, April 2nd 2026, 8:18:36 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/ruralité #thème/racisme-antiracisme
 

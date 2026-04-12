@@ -8,7 +8,7 @@ date: 2026-01-30
 intervenants: [Padu, Chris, Zoé, Magne]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 9:43:42 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [1000 CAPSULE - PROCÈS DU MINIATURISTE]
 ---
 #domaine/société #thème/médias-propagande #thème/travail #thème/féminisme

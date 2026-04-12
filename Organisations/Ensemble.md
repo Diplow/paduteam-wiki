@@ -5,7 +5,7 @@ thèmes: [élections]
 statut: ébauche
 aliases: [Ensemble!, Ensemble pour la République, coalition macroniste]
 date created: Wednesday, April 1st 2026, 12:29:05 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Ensemble

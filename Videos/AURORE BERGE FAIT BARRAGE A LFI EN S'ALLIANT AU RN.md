@@ -8,7 +8,7 @@ date: 2025-02-27
 intervenants: [Padu, Chris, Zoé]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 7:44:28 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS

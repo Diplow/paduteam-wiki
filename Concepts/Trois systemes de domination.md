@@ -5,7 +5,7 @@ thèmes: [féminisme, racisme-antiracisme]
 aliases: [3 systèmes de domination, triple domination, capitalisme-sexisme-colonialisme]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 6:31:53 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/racisme-antiracisme
 

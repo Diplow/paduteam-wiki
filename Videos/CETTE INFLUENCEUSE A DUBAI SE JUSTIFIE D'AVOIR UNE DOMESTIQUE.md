@@ -8,6 +8,8 @@ date: 2025-12
 intervenants: [Padu, Chris, Zoé]
 statut: ébauche
 aliases: [CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]
+date created: Sunday, April 12th 2026, 5:25:27 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/théorie #thème/travail #thème/féminisme #enjeu/anti-impérialisme
 

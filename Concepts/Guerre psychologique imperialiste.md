@@ -5,7 +5,7 @@ thèmes: ['anti-impérialisme', 'médias-propagande']
 statut: ébauche
 aliases: [Guerre psychologique impérialiste, PsyOps impérialistes]
 date created: Tuesday, March 31st 2026, 9:53:04 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/géopolitique #domaine/société #thème/anti-impérialisme #thème/médias-propagande
 # Guerre psychologique impérialiste

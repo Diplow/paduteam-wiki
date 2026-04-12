@@ -6,6 +6,8 @@ domaine: [société, politique-intérieure]
 thèmes: [racisme-antiracisme, répression-justice]
 statut: ébauche
 apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]"]
+date created: Thursday, April 2nd 2026, 3:19:12 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/racisme-antiracisme #thème/répression-justice
 

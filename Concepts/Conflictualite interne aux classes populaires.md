@@ -5,7 +5,7 @@ thèmes: ['le-Graphique']
 statut: ébauche
 aliases: [surconflictualité, conflictualité fondamentale, Conflictualité interne aux classes populaires]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/le-Graphique
 # Conflictualité interne aux classes populaires

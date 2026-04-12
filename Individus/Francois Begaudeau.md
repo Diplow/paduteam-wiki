@@ -6,7 +6,7 @@ quadrant_graphique: "Gauche intellectuelle, en dehors du salariat généralisé"
 aliases: [Bégaudeau, Begodo, François Bégaudeau]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:35 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/médias-propagande
 

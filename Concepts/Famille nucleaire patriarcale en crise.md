@@ -5,7 +5,7 @@ thèmes: [féminisme]
 aliases: [famille nucléaire en crise, famille fordiste, famille patriarcale, famille nucléaire capitaliste]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 1:08:38 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme
 

@@ -8,7 +8,7 @@ statut: développé
 date: 2026-03-31
 intervenants: [Padu, Chris]
 date created: Tuesday, March 31st 2026, 11:22:07 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]
 ---
 #domaine/géopolitique #thème/Venezuela #thème/anti-impérialisme #enjeu/anti-impérialisme #enjeu/campisme-assumé

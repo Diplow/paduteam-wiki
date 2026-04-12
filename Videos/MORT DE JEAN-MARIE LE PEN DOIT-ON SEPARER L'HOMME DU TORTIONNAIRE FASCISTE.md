@@ -8,6 +8,8 @@ date: 2025-01-07
 intervenants: [Padu, Zoé]
 statut: ébauche
 aliases: [MORT DE JEAN-MARIE LE PEN DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]
+date created: Sunday, April 12th 2026, 5:27:36 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/élections #thème/racisme-antiracisme #thème/le-Graphique #enjeu/union-populaire
 

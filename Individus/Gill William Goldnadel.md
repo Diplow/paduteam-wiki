@@ -5,7 +5,7 @@ thèmes: [médias-propagande, Palestine]
 statut: ébauche
 aliases: [Goldnadel]
 date created: Wednesday, April 1st 2026, 10:46:08 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande #thème/Palestine
 

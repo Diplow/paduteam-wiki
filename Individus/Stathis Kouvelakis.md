@@ -5,7 +5,7 @@ thèmes: [guerre-des-gauches, élections]
 aliases: [Stathis, Kouvelakis]
 statut: développé
 date created: Thursday, April 2nd 2026, 12:23:36 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 

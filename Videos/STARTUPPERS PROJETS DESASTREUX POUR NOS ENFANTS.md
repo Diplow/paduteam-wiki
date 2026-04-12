@@ -8,7 +8,7 @@ date: 2024-12-27
 intervenants: [Padu, Chris]
 statut: développé
 date created: Thursday, April 2nd 2026, 1:07:24 am
-date modified: Thursday, April 2nd 2026, 10:27:37 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]
 ---
 #domaine/société #domaine/théorie #domaine/politique-intérieure #thème/travail #thème/médias-propagande #thème/élections #enjeu/union-populaire

@@ -5,6 +5,8 @@ thèmes: [élections, guerre-des-gauches]
 quadrant_graphique: "Centre (macroniste, bloc central)"
 aliases: [Fesneau]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:17:50 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections
 

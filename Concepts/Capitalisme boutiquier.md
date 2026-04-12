@@ -4,6 +4,8 @@ domaine: [théorie, économie]
 thèmes: [marxisme, capitalisme, travail]
 aliases: [boutiquier, capitalisme concurrentiel libéral, boutique soralienne]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:25:56 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/économie #thème/marxisme #thème/capitalisme
 

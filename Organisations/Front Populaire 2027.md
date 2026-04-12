@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [FP2027, Front Pop 2027]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:25:20 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

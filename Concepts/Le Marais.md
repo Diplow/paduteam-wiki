@@ -5,7 +5,7 @@ thèmes: [élections, guerre-des-gauches]
 aliases: [marais électoral, le Marais politique]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 12:58:49 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

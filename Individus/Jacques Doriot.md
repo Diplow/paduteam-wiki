@@ -5,6 +5,8 @@ thèmes: [trajectoires-politiques]
 quadrant_graphique: "extrême droite fasciste"
 aliases: [Doriot]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:22:57 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #thème/trajectoires-politiques
 

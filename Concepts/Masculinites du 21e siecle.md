@@ -4,6 +4,8 @@ domaine: [société, théorie]
 thèmes: [féminisme, masculinisme]
 aliases: [masculinités progressistes, nouvelles masculinités, Masculinités du 21e siècle]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:19:53 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme
 

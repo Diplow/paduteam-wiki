@@ -5,7 +5,7 @@ thèmes: [élections]
 statut: ébauche
 aliases: [Prophétie du 2002 inversé, 2002 inversé, 2002 à l'envers]
 date created: Thursday, April 2nd 2026, 1:07:38 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/le-Graphique
 # Prophétie du 2002 inversé
@@ -61,5 +61,5 @@ Dans [[LORDON MELENCHON peut GAGNER en 2027]], Padu et Chris réagissent à une 
 ## Vidéos où le concept est analysé
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Le sondage IFOP 2026 confirme la dispersion de 2012 (avant moïsation), Hollande apparaît à 8% dès son premier sondage sans avoir annoncé sa candidature
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin de Rang confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin Deranque confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toutes les forces de la prophétie confirmées par les résultats. "On va avoir raison de A à Z." Scénarios 2027 développés avec les 4 possibilités de second tour.

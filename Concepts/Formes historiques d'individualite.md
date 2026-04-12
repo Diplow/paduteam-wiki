@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [psychiatrie-psychologie, théorie, féminisme]
 aliases: [formes historiques d'individualité, forme historique d'individualité, Formes historiques d'individualité]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/psychiatrie-psychologie #thème/théorie #thème/féminisme
 

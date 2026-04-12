@@ -5,7 +5,7 @@ thèmes: [écologie, guerre-des-gauches]
 aliases: [écologie punitive, écologie libérale]
 statut: développé
 date created: Wednesday, April 1st 2026, 7:28:34 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/écologie #thème/guerre-des-gauches
 

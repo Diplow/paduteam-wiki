@@ -4,6 +4,8 @@ domaine: [politique-intérieure, théorie]
 thèmes: [élections, médias-propagande, guerre-des-gauches]
 aliases: [diabolisation médiatique, diabolisation de Mélenchon]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 9:59:30 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/médias-propagande #thème/guerre-des-gauches
 

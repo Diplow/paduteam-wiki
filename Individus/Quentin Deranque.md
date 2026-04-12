@@ -2,13 +2,14 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [répression-justice, médias-propagande]
+aliases: [Quentin de Rang, Quentin Déranque]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 11:24:11 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/répression-justice
 
-# Quentin de Rang
+# Quentin Deranque
 
 ## Profil synthétique
 Jeune militant identitaire (23 ans) du [[Collectif Nemesis]], mort à la suite d'une rixe à Lyon lors d'une conférence de [[Rima Hassan]]. Son décès est instrumentalisé politiquement par le bloc bourgeois pour diaboliser la [[France Insoumise]].

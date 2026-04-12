@@ -7,6 +7,8 @@ enjeux: []
 intervenants: [Chris, Padu]
 statut: ébauche
 aliases: [10 LIVRES POUR LA RENTRÉE SOCIALE]
+date created: Thursday, April 2nd 2026, 3:19:15 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #thème/racisme-antiracisme #thème/féminisme #thème/anti-impérialisme #thème/travail
 

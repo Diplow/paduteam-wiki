@@ -5,7 +5,7 @@ thèmes: [le-Graphique]
 statut: ébauche
 aliases: [pensée idéaliste, idéalisme vs matérialisme, pensée d'ingénieur, ingénierie politique]
 date created: Wednesday, April 1st 2026, 12:23:06 am
-date modified: Wednesday, April 1st 2026, 5:15:07 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/le-Graphique
 # Pensée idéaliste vs matérialiste

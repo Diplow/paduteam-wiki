@@ -7,6 +7,8 @@ enjeux: [union-populaire, le-Graphique]
 date: 2025
 intervenants: [Padu, Chris]
 statut: développé
+date created: Friday, April 3rd 2026, 8:37:04 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/écologie #thème/élections #enjeu/union-populaire #enjeu/le-Graphique
 

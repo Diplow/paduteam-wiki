@@ -4,6 +4,8 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [histoire, fascisme]
 statut: ébauche
 aliases: [Léon Degrelle]
+date created: Friday, April 3rd 2026, 8:37:53 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/histoire #thème/fascisme
 

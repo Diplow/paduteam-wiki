@@ -5,7 +5,7 @@ thèmes: [guerre-des-gauches]
 statut: ébauche
 aliases: [Raquel Garrido]
 date created: Thursday, April 2nd 2026, 1:16:57 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 
@@ -27,7 +27,7 @@ Avec [[Alexis Corbière]] et [[Daniel Simonet]], elle a fondé [[L'Apres]]. La P
 En 2025, elle alimente des journalistes de Libération pour écrire contre la FI ("la meute"). La PaduTeam rappelle l'ironie : en 2017, dans la revue Regard, c'est elle qui accusait Autain "d'aller chercher de la gamelle dans les médias pour taper sur Jean-Luc Mélenchon." Aujourd'hui, elle fait exactement la même chose. "Bienvenue au club, Raquel."
 
 ## Garrido comme Brutus (janv. 2023)
-Lors de l'affaire Quentin de Rang, Garrido intervient sur les plateaux pour insinuer que Mélenchon est le "problème" de la FI et qu'il devrait "se mettre en retrait pour sauver le mouvement." La PaduTeam : "Ça me rend fou. Ça fait plus de 10 ans qu'elle dit ça." Puis : "Elle était comme ça au PG." Et : "Honte à toi Raquel, vraiment honte à toi."
+Lors de l'affaire Quentin Deranque, Garrido intervient sur les plateaux pour insinuer que Mélenchon est le "problème" de la FI et qu'il devrait "se mettre en retrait pour sauver le mouvement." La PaduTeam : "Ça me rend fou. Ça fait plus de 10 ans qu'elle dit ça." Puis : "Elle était comme ça au PG." Et : "Honte à toi Raquel, vraiment honte à toi."
 
 Comparée à Brutus et César, à [[Blaise Compaoré]] avec [[Thomas Sankara]] — "quelqu'un que Mélenchon appelait Alexis et Raquel sa famille quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants."
 
@@ -39,5 +39,5 @@ Chroniqueuse dans *Face à Face* sur [[LCI]] face à [[Louis Sarkozy]] à partir
 ## Vidéos où Garrido est mentionnée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Fondatrice de L'Après, fuite vers Libération, retournement paradoxal vs sa critique d'Autain en 2017
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Brutus de Mélenchon, instrumentalise l'affaire Quentin de Rang pour attaquer la FI
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Brutus de Mélenchon, instrumentalise l'affaire Quentin Deranque pour attaquer la FI
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Face à Louis Sarkozy sur LCI dans *Face à Face*

@@ -5,7 +5,7 @@ thèmes: []
 statut: ébauche
 aliases: [Piketty, Piketti, Piquetti]
 date created: Tuesday, March 31st 2026, 11:15:22 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie
 # Thomas Piketty

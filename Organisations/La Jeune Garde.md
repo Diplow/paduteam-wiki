@@ -5,7 +5,7 @@ thèmes: [répression-justice]
 aliases: [La Jeune Garde, Jeune Garde]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 11:24:48 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/répression-justice
 
@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Organisation antifa, gauche radicale, base populaire urbaine.
 
 ## Dynamique
-Organisation antifasciste lyonnaise. [[Raphael Arnaud]], ex-porte-parole, a ensuite été élu député [[France Insoumise]] — sa filiation avec la Jeune Garde était connue de tous les électeurs. La Jeune Garde est pointée du doigt par [[Collectif Nemesis|Némésis]] dans le cadre de la rixe ayant coûté la vie à [[Quentin de Rang]] — la PaduTeam déconstruit ces accusations comme faisant partie de l'agenda politique de Némésis.
+Organisation antifasciste lyonnaise. [[Raphael Arnaud]], ex-porte-parole, a ensuite été élu député [[France Insoumise]] — sa filiation avec la Jeune Garde était connue de tous les électeurs. La Jeune Garde est pointée du doigt par [[Collectif Nemesis|Némésis]] dans le cadre de la rixe ayant coûté la vie à [[Quentin Deranque]] — la PaduTeam déconstruit ces accusations comme faisant partie de l'agenda politique de Némésis.
 
 ## Figures clés
 - [[Raphael Arnaud]] — ex-porte-parole, devenu député LFI

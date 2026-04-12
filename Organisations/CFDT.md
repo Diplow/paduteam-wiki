@@ -5,6 +5,8 @@ thèmes: [travail, guerre-des-gauches]
 quadrant_graphique: "Haut-gauche réformiste"
 aliases: [Confédération Française Démocratique du Travail]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:25:20 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/travail #thème/guerre-des-gauches
 

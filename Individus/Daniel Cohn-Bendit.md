@@ -5,6 +5,8 @@ thèmes: [guerre-des-gauches, médias-propagande]
 quadrant_graphique: "Haut-droite (anticommuniste historique, pro-Macron)"
 aliases: [Cohn-Bendit, Dany Cohn-Bendit, Dany le Rouge]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:12 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande
 

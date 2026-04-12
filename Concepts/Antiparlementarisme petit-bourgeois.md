@@ -4,6 +4,8 @@ domaine: [théorie, politique-intérieure]
 thèmes: [le-Graphique]
 aliases: [antiparlementarisme bourgeois, antiparlementarisme]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:31:36 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique
 

@@ -4,6 +4,8 @@ domaine: [théorie, politique-intérieure]
 thèmes: [théorie-marxiste, guerre-des-gauches]
 aliases: [Bernstein]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:55:23 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/théorie-marxiste
 

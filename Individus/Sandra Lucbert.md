@@ -5,7 +5,7 @@ thèmes: [féminisme, médias-propagande]
 aliases: [Lucbert]
 statut: développé
 date created: Thursday, April 2nd 2026, 12:37:18 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/médias-propagande
 

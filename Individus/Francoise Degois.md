@@ -4,6 +4,8 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches]
 statut: ébauche
 aliases: [Francoise Degois, Françoise Degouis, Françoise Degois]
+date created: Thursday, April 2nd 2026, 3:19:13 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/guerre-des-gauches
 

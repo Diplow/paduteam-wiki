@@ -8,7 +8,7 @@ intervenants: [Chris, Padu]
 statut: ébauche
 aliases: [Carte des QI marxiste, Capsule Graphique Positions Revue]
 date created: Wednesday, April 1st 2026, 5:37:20 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/élections #enjeu/union-populaire
 

@@ -4,6 +4,8 @@ domaine: [théorie, géopolitique]
 thèmes: [racisme-antiracisme, anti-impérialisme]
 aliases: [Newton, Wton]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:56:08 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/géopolitique #thème/racisme-antiracisme #thème/anti-impérialisme
 

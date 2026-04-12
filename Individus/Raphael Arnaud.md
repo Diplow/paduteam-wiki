@@ -5,7 +5,7 @@ thèmes: [guerre-des-gauches, répression-justice]
 aliases: [Raphaël Arnaud]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 12:24:12 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/répression-justice
 
@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Député [[France Insoumise]], ex-porte-parole de [[La Jeune Garde]] (organisation antifa lyonnaise). Élu député en connaissance de cause — sa filiation avec la Jeune Garde était publique pendant la campagne. Cible du [[Collectif Nemesis]] depuis des années.
 
 ## Rôle dans l'analyse PaduTeam
-Arnaud est pointé du doigt par [[Raphael Glucksmann]] à la suite de la mort de [[Quentin de Rang]] lors d'une rixe à Lyon. Glucksmann dit être "choqué" qu'un tel homme soit député de la République — la PaduTeam démonte l'argument : les électeurs savaient exactement pour qui ils votaient, son passé à la Jeune Garde était connu, c'est un élu totalement légitime. La campagne contre lui fait partie de l'agenda de Némésis depuis 5 ans.
+Arnaud est pointé du doigt par [[Raphael Glucksmann]] à la suite de la mort de [[Quentin Deranque]] lors d'une rixe à Lyon. Glucksmann dit être "choqué" qu'un tel homme soit député de la République — la PaduTeam démonte l'argument : les électeurs savaient exactement pour qui ils votaient, son passé à la Jeune Garde était connu, c'est un élu totalement légitime. La campagne contre lui fait partie de l'agenda de Némésis depuis 5 ans.
 
 ## Relations
 - [[La Jeune Garde]] — ex-porte-parole

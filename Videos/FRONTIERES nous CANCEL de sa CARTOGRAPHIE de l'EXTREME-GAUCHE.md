@@ -10,6 +10,8 @@ intervenants: [Padu, Zoé]
 statut: ébauche
 transcript: "[[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE ! (@Dr_Zoé_YT x @pasduhring)]]"
 aliases: [FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]
+date created: Thursday, April 2nd 2026, 3:19:15 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/médias-propagande #thème/racisme-antiracisme #thème/féminisme #thème/guerre-des-gauches
 

@@ -5,7 +5,7 @@ thèmes: [le-Graphique]
 statut: ébauche
 aliases: [diagonale de pouvoir, diagonale du graphique, diagonale méritocratique]
 date created: Wednesday, April 1st 2026, 5:04:35 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/le-Graphique
 # Diagonale de pouvoir

@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 statut: développé
 date created: Thursday, April 2nd 2026, 1:07:41 am
-date modified: Thursday, April 2nd 2026, 10:27:50 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 # Union populaire

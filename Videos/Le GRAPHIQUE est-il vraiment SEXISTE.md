@@ -7,7 +7,7 @@ enjeux: []
 statut: développé
 intervenants: [Padu, Chris]
 date created: Tuesday, March 31st 2026, 10:11:07 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/société #thème/le-Graphique #thème/féminisme #thème/racisme-antiracisme
 # Le GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)

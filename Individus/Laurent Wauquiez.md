@@ -6,7 +6,7 @@ statut: ébauche
 aliases: [Laurent Wauquiez, Wauquiez]
 quadrant_graphique: "Droite conservatrice"
 date created: Thursday, April 2nd 2026, 12:30:24 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Laurent Wauquiez
