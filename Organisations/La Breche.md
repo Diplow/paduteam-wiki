@@ -32,9 +32,13 @@ Les trois fondateurs gardent leurs emplois salariés (principe militant : un mil
 - Épisode 2 : formation du NFP, avec [[Olivier Matée]]
 - Épisode 4 : législatives 2024 (entre-deux-tours), avec [[Stathis Kouvelakis]]
 
+## Doctrine stratégique (lecture gramscienne)
+Dans la capsule de genèse d'[[On ne veut plus]], Chris expose que La Brèche est pensée dans le cadre gramscien comme l'outil du passage de la [[Guerre de position]] à la [[Guerre de mouvement]]. Les années 2019-2025 ont été une phase d'accumulation ([[Positions Revue]], [[PaduTeam]], [[Graphique]], formations, identités politiques reconnaissables) ; à l'automne 2025, la crise politique s'ouvrant, La Brèche passe à l'offensive via On ne veut plus. Le travail médiatique est assumé comme [[Journalisme integral]] (formule gramscienne) : il a pour fin l'organisation, pas l'information.
+
 ## Vidéos clés
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
+- [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation la plus explicite du cadre stratégique gramscien dans lequel La Brèche se pense
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

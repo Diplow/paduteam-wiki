@@ -9,13 +9,14 @@ date modified: Sunday, April 12th 2026, 5:46:48 pm
 # Chris
 
 ## Profil synthétique
-Co-animateur régulier de la [[PaduTeam]]. Fondateur de la revue [[Positions Revue]], membre de l'association [[La Breche]]. Créateur du [[Graphique]] et concepteur de sa méthode d'analyse. Développeur de la prédiction électorale par [[Google Trends prediction electorale|Google Trends]].
+Co-animateur régulier de la [[PaduTeam]]. Fondateur de la revue [[Positions Revue]], membre de l'association [[La Breche]]. Créateur du [[Graphique]] et concepteur de sa méthode d'analyse. Développeur de la prédiction électorale par [[Google Trends prediction electorale|Google Trends]]. Principal théoricien gramscien du dispositif PaduTeam : formule la lecture [[Guerre de position]] / [[Guerre de mouvement]] qui structure la stratégie de La Brèche.
 
 ## Rôle
 - Théoricien marxiste du Graphique — apporte la rigueur ACM et la lecture des PCS INSEE
 - Développeur de la méthode de prédiction électorale par Google Trends
 - Analyste des [[Dimensions tierces du Graphique]] (genre et race dans les PCS)
 - Défenseur du graphique contre les critiques de sexisme/racisme
+- Gramscien assumé — revendique la filiation gramscienne de [[Positions Revue]] (nom en hommage à la guerre de position), distingue le "grasmcisme marxiste" des récupérations non-marxistes du concept d'[[Hegemonie culturelle]]
 
 ## Méthode de prédiction (Google Trends)
 Pendant les campagnes, croise les tendances de recherche Google avec les positions dans le Graphique pour prédire quelles classes vont se mobiliser. A prédit Mélenchon à ~22% (résultat 21,95%) et Zemmour à 7-8% (annoncé à 18% dans les sondages) pour la présidentielle 2022.
@@ -37,3 +38,4 @@ Pendant les campagnes, croise les tendances de recherche Google avec les positio
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — 1000e vidéo PaduTeam : procès des miniatures avec [[Magne]], débat sur l'IA et le travail, organisation collective de [[La Breche]]
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — Co-animateur avec Zoé pour analyser le passé droitard de Padu. Apporte l'analyse historique du référendum 2005 (son premier vote), de la montée de Soral, du confusionnisme. Formule la critique de la "logorrhée soralienne" : Soral est le "maître de la logoré, pas du Logos" — sa force n'était pas d'expliquer mais de démolir. Aussi : analyse de l'impossibilité du compromis politique entre deux projets contradictoires.
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — Co-analyse des appelants des Grandes Gueules, propose les dates du 18 et 21 septembre pour amplifier le mouvement. Stratégie des deux jambes (radicalité + masse).
+- [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Exposition théorique la plus complète de sa lecture gramscienne : diagnostic de l'échec des [[Gilets Jaunes]] par manque de [[Guerre de position]] préalable, généalogie de [[Positions Revue]] comme outil de position né fin 2019, bascule actuelle vers la [[Guerre de mouvement]] via [[On ne veut plus]]. Précision anti-idéaliste sur l'[[Hegemonie culturelle]] : "pas un concept idéaliste, c'est solidifier des idées dans l'air".
