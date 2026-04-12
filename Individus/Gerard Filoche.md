@@ -12,7 +12,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Gérard Filoche
 
 ## Profil synthétique
-Ancienne figure du [[Parti Socialiste]] (courant GDS — Gauche Démocratique et Sociale), militant PS de très longue date, rejoint [[L'Après]] en 2025. La PaduTeam le décrit comme "le dernier des moyant de croire que le parti socialiste pouvait être de gauche" — il avait son propre microparti interne au PS (GDS) pour peser sur les lignes. Convictions à gauche réelles, mais vision stratégique radicalement différente de celle de la PaduTeam.
+Ancienne figure du [[Parti Socialiste]] (courant GDS — Gauche Démocratique et Sociale), militant PS de très longue date, rejoint [[L'Apres]] en 2025. La PaduTeam le décrit comme "le dernier des moyant de croire que le parti socialiste pouvait être de gauche" — il avait son propre microparti interne au PS (GDS) pour peser sur les lignes. Convictions à gauche réelles, mais vision stratégique radicalement différente de celle de la PaduTeam.
 
 ## Trajectoire
 Décennies de militantisme au PS comme représentant de l'aile gauche interne, tentant de peser sur l'orientation du parti de l'intérieur. Exclu du PS pour des faits d'antisémitisme (repartage de contenus problématiques). La PaduTeam note l'ironie : "se faire exclure pour ça du PS par rapport à d'autres qui sont encore [au PS] pour des trucs 1000 fois plus graves, on sent que c'était un coup politique quoi." Rejoint ensuite L'Après.
@@ -22,7 +22,7 @@ Pour la PaduTeam, Filoche incarne une stratégie réformiste interne typique de 
 
 ## Relations
 - [[Parti Socialiste]] — ancienne appartenance (exclu)
-- [[L'Après]] — nouveau véhicule politique
+- [[L'Apres]] — nouveau véhicule politique
 - [[Bad Mulch]] — l'a invité à une réunion de L'Après, incident du bol de riz avec [[Raquel Garrido]]
 
 ## Vidéos où Filoche est mentionné

@@ -13,4 +13,4 @@ statut: ébauche
 Maison d'édition marxiste française. Publie notamment la trilogie *Penser avec Marx aujourd'hui* de [[Lucien Seve|Lucien Sève]]. Liée à la tradition communiste française.
 
 ## Vidéos où La Dispute est mentionnée
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

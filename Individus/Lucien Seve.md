@@ -10,7 +10,7 @@ statut: développé
 # Lucien Sève
 
 ## Profil synthétique
-Philosophe marxiste français (1926-2020), spécialisé en philosophie de la psychologie et théorie de la personnalité. Directeur longtemps des [[Éditions Sociales]], l'édition du PCF, et membre du PCF pendant des décennies avant d'en partir. Lecteur de [[Georges Politzer]] avant Marx — c'est par Politzer et Lénine qu'il arrive au Capital (qu'il lit pendant son service militaire en Algérie). Traduit et fait connaître [[Lev Vygotski]] en France. Adversaire de toujours de [[Louis Althusser]] sur la question de l'individu dans le marxisme.
+Philosophe marxiste français (1926-2020), spécialisé en philosophie de la psychologie et théorie de la personnalité. Directeur longtemps des [[Editions Sociales]], l'édition du PCF, et membre du PCF pendant des décennies avant d'en partir. Lecteur de [[Georges Politzer]] avant Marx — c'est par Politzer et Lénine qu'il arrive au Capital (qu'il lit pendant son service militaire en Algérie). Traduit et fait connaître [[Lev Vygotski]] en France. Adversaire de toujours de [[Louis Althusser]] sur la question de l'individu dans le marxisme.
 
 ## Œuvres principales
 - *Marxisme et théorie de la personnalité* (1969) — son œuvre maîtresse
@@ -18,22 +18,22 @@ Philosophe marxiste français (1926-2020), spécialisé en philosophie de la psy
 - *Les dons n'existent pas* (1964)
 - *Penser avec Marx aujourd'hui* (trilogie, Éditions La Dispute)
 - *L'homme* (2008)
-- Anthologie de 1500 pages publiée par les [[Éditions Sociales]] (2026), coordonnée par [[Floé]], [[Benoît Lepinat]], [[Théo Favre-Rochex]]
+- Anthologie de 1500 pages publiée par les [[Editions Sociales]] (2026), coordonnée par [[Floe]], [[Benoît Lepinat]], [[Theo Favre-Rochex]]
 
 ## Position dans le débat marxiste des années 60-70
 Sève cherche une "voie de crête" entre deux erreurs symétriques :
 - **[[Roger Garaudy]]** : humanisme abstrait, introduit l'homme mais en caviardant Marx — humanisme prémarxiste sous prétexte de sortir du stalinisme
 - **[[Louis Althusser]]** : antihumanisme théorique, évacue l'individu de l'histoire — incapable de penser la transformation révolutionnaire
 
-Sa réponse : une lecture rigoureuse de Marx montre que l'individu, la personnalité, l'aliénation sont centraux même dans le Capital et les Grundrisse. Il n'y a pas de "coupure" qui ferait de Marx un anti-humaniste. Voir [[Coupure épistémologique]].
+Sa réponse : une lecture rigoureuse de Marx montre que l'individu, la personnalité, l'aliénation sont centraux même dans le Capital et les Grundrisse. Il n'y a pas de "coupure" qui ferait de Marx un anti-humaniste. Voir [[Coupure epistemologique]].
 
 ## Concepts clés
 
 ### Formes historiques d'individualité
-Pas de nature humaine fixe. L'individualité se forme dans des formes historiques et sociales déterminées. Ce concept permet de penser le genre, la race, la classe sans réductionnisme biologique. Voir [[Formes historiques d'individualité]].
+Pas de nature humaine fixe. L'individualité se forme dans des formes historiques et sociales déterminées. Ce concept permet de penser le genre, la race, la classe sans réductionnisme biologique. Voir [[Formes historiques d'individualite]].
 
 ### 6e thèse sur Feuerbach
-Texte pivot de toute l'œuvre de Sève : "L'essence humaine n'est pas une abstraction inhérente à l'individu pris à part — dans sa réalité, c'est l'ensemble des rapports sociaux." Ouvre la possibilité d'une anthropologie marxiste. "La base de la personnalité n'est pas une personnalité de base." Voir [[6e thèse sur Feuerbach]].
+Texte pivot de toute l'œuvre de Sève : "L'essence humaine n'est pas une abstraction inhérente à l'individu pris à part — dans sa réalité, c'est l'ensemble des rapports sociaux." Ouvre la possibilité d'une anthropologie marxiste. "La base de la personnalité n'est pas une personnalité de base." Voir [[6e these sur Feuerbach]].
 
 ### Excentration sociale de l'essence humaine
 L'humanité est hors de chaque individu particulier. Devenir humain c'est s'approprier ce patrimoine culturel collectif — une appropriation conditionnée par les rapports sociaux. Exemple des enfants sauvages : sans milieu social, pas d'hominisation possible.
@@ -67,5 +67,5 @@ Pour Sève, le militantisme est la seule forme d'activité qui permet à l'indiv
 
 ## Vidéos où Sève est analysé
 - [[Videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — cité pour le "fétichisme de la personnalité"
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]] — référence implicite via la critique de Lordon/Lucbert
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — live entier consacré à Sève
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — référence implicite via la critique de Lordon/Lucbert
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — live entier consacré à Sève

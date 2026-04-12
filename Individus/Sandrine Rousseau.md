@@ -30,7 +30,7 @@ Rousseau a été empêchée de se présenter à la [[Primaire des noisettes]]. L
 
 ## Féminisme mal orienté et défense de Marion Maréchal (2024)
 
-[[Dr Zoe|Zoé]] démonte la ligne féministe de Rousseau dans la Brèche : Rousseau a **défendu Marion Maréchal** qui avait eu de la bière sur les cheveux, qualifiant ça d'attaque misogyne. Puis quand on lui a demandé ce qu'elle pensait de [[Rima Hassan]] à côté de [[Jean-Luc Mélenchon]], elle a dit "c'est de la provocation."
+[[Dr Zoe|Zoé]] démonte la ligne féministe de Rousseau dans la Brèche : Rousseau a **défendu Marion Maréchal** qui avait eu de la bière sur les cheveux, qualifiant ça d'attaque misogyne. Puis quand on lui a demandé ce qu'elle pensait de [[Rima Hassan]] à côté de [[Jean-Luc Melenchon]], elle a dit "c'est de la provocation."
 
 Zoé : "Toute attaque contre une femme n'est pas misogyne en soi. Elle est misogyne si c'est parce qu'elle est une femme qu'elle est attaquée. Marion Maréchal n'a pas été attaquée parce qu'elle était une femme, elle a été attaquée parce que c'est une dirigeante politique d'extrême droite. La bière dans les cheveux c'est de la conflictualité politique dans la tradition française."
 

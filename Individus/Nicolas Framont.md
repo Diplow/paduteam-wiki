@@ -17,4 +17,4 @@ Interviewé par [[Padu]] dans un format original : ils marchent ensemble dans la
 - Interviewé par [[Padu]]
 
 ## Vidéos où Nicolas Framont est mentionné
-- [[PADUSTREAM C'EST DÉJÀ FINI]] — mentionné comme exemple d'interview réussie en format marchant
+- [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme exemple d'interview réussie en format marchant

@@ -12,7 +12,7 @@ statut: ébauche
 # ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT !!
 
 ## Résumé
-Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, artisan du BTP, atomise Benjamin Lucas ([[Génération.s]], bras droit de [[Benoît Hamon]]) en le traitant de "parti de la jalousie". Le débat est prétexte à une longue analyse marxiste de la fausse conscience de la petite bourgeoisie, du continuum bourgeois/petite-bourgeoisie, et de la notion de capital techno-scolaire comme dépassement critique de Bourdieu.
+Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, artisan du BTP, atomise Benjamin Lucas ([[Generation.s]], bras droit de [[Benoît Hamon]]) en le traitant de "parti de la jalousie". Le débat est prétexte à une longue analyse marxiste de la fausse conscience de la petite bourgeoisie, du continuum bourgeois/petite-bourgeoisie, et de la notion de capital techno-scolaire comme dépassement critique de Bourdieu.
 
 ## Thèses et analyses clés
 
@@ -24,11 +24,11 @@ Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, ar
 
 4. **Le lumpenproletariat** — Classe non intégrée aux rapports de production (hors du collectif salarial), oscillant entre progressisme et réaction selon "le plus offrant". Lien structurel avec la petite bourgeoisie : même fragmentation individuelle, même incapacité à construire un collectif. → [[Lumpenproletariat]]
 
-5. **L'idéologie du réel** — Stratégie discursive centrale de la petite bourgeoisie et de l'extrême droite : présenter ses préjugés de classe comme "le réel" contre l'idéologie gauchiste qui l'occulterait. Exemples : "tout le monde sait que c'est la faute des Arabes", "c'est juste la réalité". → [[Idéologie du réel]]
+5. **L'idéologie du réel** — Stratégie discursive centrale de la petite bourgeoisie et de l'extrême droite : présenter ses préjugés de classe comme "le réel" contre l'idéologie gauchiste qui l'occulterait. Exemples : "tout le monde sait que c'est la faute des Arabes", "c'est juste la réalité". → [[Ideologie du reel]]
 
 6. **L'antiparlementarisme petit-bourgeois** — La petite bourgeoisie et certains intellectuels produisent un antiparlementarisme ("ils s'engueulent pour rien") qui donne des gages aux fascistes en masquant que les conflits parlementaires reflètent des rapports de force de classe réels. → [[Antiparlementarisme petit-bourgeois]]
 
-7. **La petite bourgeoisie stato-notabilière** — Médecins, notaires, avocats : pas tout à fait petite bourgeoisie libérale, car leur privilège repose sur un diplôme garanti par l'État et un marché faussé par la puissance publique. Plus archaïque et plus arrogante que la petite bourgeoisie libérale. → [[Petite bourgeoisie stato-notabilière]]
+7. **La petite bourgeoisie stato-notabilière** — Médecins, notaires, avocats : pas tout à fait petite bourgeoisie libérale, car leur privilège repose sur un diplôme garanti par l'État et un marché faussé par la puissance publique. Plus archaïque et plus arrogante que la petite bourgeoisie libérale. → [[Petite bourgeoisie stato-notabiliere]]
 
 8. **Position de Samuel Ferrara dans le [[Graphique]]** — L'artisan est identifié comme "en bas à droite" du Graphique : capital économique relatif (propriétaire d'un entrepôt, d'employés), faible capital scolaire. Inverse de [[Clément Viktorovitch]] (fort capital scolaire/culturel, position économique modeste).
 
@@ -37,13 +37,13 @@ Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, ar
 10. **La conscience de classe comme projection dans le futur** — La conscience n'est pas seulement une position présente dans les rapports de production, c'est aussi une projection sur ses intérêts futurs. Ce qui explique l'artisan à 1000 € qui se sent solidaire du millionnaire : il s'imagine un jour y arriver.
 
 ## Individus mentionnés
-[[Samuel Ferrara]], [[Benjamin Lucas]], [[Benoît Hamon]], [[Clément Viktorovitch]], [[Bad Mulch]], [[Bernard Arnault]], [[Lucien Goldmann]], [[Karl Marx]], [[François Ruffin]], [[Loïc Chenu]]
+[[Samuel Ferrara]], [[Benjamin Lucas]], [[Benoît Hamon]], [[Clément Viktorovitch]], [[Bad Mulch]], [[Bernard Arnault]], [[Lucien Goldmann]], [[Karl Marx]], [[Francois Ruffin]], [[Loic Chenu]]
 
 ## Organisations mentionnées
-[[Génération.s]], [[BFM TV]], [[France Insoumise]], [[Rassemblement National]], [[Les Républicains]], [[Frontière]], [[La Breche]]
+[[Generation.s]], [[BFM TV]], [[France Insoumise]], [[Rassemblement National]], [[Les Républicains]], [[Frontiere]], [[La Breche]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Petite bourgeoisie]], [[Continuum de classe]], [[Capital techno-scolaire]], [[Lumpenproletariat]], [[Idéologie du réel]], [[Antiparlementarisme petit-bourgeois]], [[Petite bourgeoisie stato-notabilière]], [[Moisation]], [[Fausse conscience de classe]]
+[[Graphique]], [[Petite bourgeoisie]], [[Continuum de classe]], [[Capital techno-scolaire]], [[Lumpenproletariat]], [[Ideologie du reel]], [[Antiparlementarisme petit-bourgeois]], [[Petite bourgeoisie stato-notabiliere]], [[Moisation]], [[Fausse conscience de classe]]
 
 ## Enjeux avancés
 [[Graphique]] — Démonstration en direct de la validité analytique du Graphique : l'artisan de BFM TV illustre exactement la position bas-droite et les structures mentales associées

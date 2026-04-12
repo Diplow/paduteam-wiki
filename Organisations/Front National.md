@@ -17,7 +17,7 @@ Bas-droite — classes populaires déclassées. En 2002, électorat de [[Jean-Ma
 Fondé en 1972 par [[Jean-Marie Le Pen]] avec des anciens membres de l'Organisation de l'Armée Secrète ([[OAS]]) et des militants proches de réseaux SS. Dès sa fondation, ce n'est pas juste un parti "anti-immigration" : c'est une réunion de réactionnaires allant des néolibéraux ultra (Le Pen se voulait le "Ronald Reagan français") aux nationalistes racistes en passant par d'anciens militants de la collaboration.
 
 ## Ligne politique
-Discours centré sur l'immigration et l'insécurité mais doublé d'une [[Hiérarchisation des êtres humains]] : pointer des groupes dominés (immigrés, homosexuels, minorités) comme responsables des problèmes de la France — sans jamais interroger les rapports de production ni la bourgeoisie.
+Discours centré sur l'immigration et l'insécurité mais doublé d'une [[Hierarchisation des etres humains]] : pointer des groupes dominés (immigrés, homosexuels, minorités) comme responsables des problèmes de la France — sans jamais interroger les rapports de production ni la bourgeoisie.
 
 ## Dynastisme
 Le FN est la seule force politique française organisée comme une dynasty familiale : Le Pen père fonde, Le Pen fille hérite. Ce modèle dynastique concentre le pouvoir et empêche toute rotation militante organique.
@@ -28,7 +28,7 @@ En 2018, Marine Le Pen rebaptise le parti [[Rassemblement National]] dans le cad
 ## Figures clés
 - [[Jean-Marie Le Pen]] — fondateur, candidat présidentiel à 5 reprises, qualifié au second tour 2002
 - [[Marine Le Pen]] — héritière, dédiabolisation, rebaptise en RN
-- [[Frédéric Châtillon]] — figure des réseaux néo-fascistes proches du FN
+- [[Frederic Chatillon]] — figure des réseaux néo-fascistes proches du FN
 
 ## Vidéos où l'organisation est analysée
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Fondation avec anciens SS et OAS ; continuité idéologique vers le RN
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Fondation avec anciens SS et OAS ; continuité idéologique vers le RN

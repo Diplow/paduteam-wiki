@@ -13,8 +13,8 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 ## Définition dans le cadre PaduTeam
 Cadre économique dominant, positionné en haut-droite dans le [[Graphique]]. C'est le système que [[Jean-Luc Melenchon]] et la [[France Insoumise]] cherchent à rompre.
 
-## Origine historique : le [[Congrès Lippmann]]
-Padu redéfinit le néolibéralisme dans une perspective historique longue : il naît avec le **[[Congrès Lippmann]]** (Paris, 1938), comme réponse à l'échec du libéralisme classique après la crise de 1929. Contrairement au libéralisme (laisser-faire), le néolibéralisme utilise **la puissance étatique pour fabriquer, normer et construire du marché**. Ce n'est pas l'absence d'État — c'est un État orienté vers la performance du marché.
+## Origine historique : le [[Congres Lippmann]]
+Padu redéfinit le néolibéralisme dans une perspective historique longue : il naît avec le **[[Congres Lippmann]]** (Paris, 1938), comme réponse à l'échec du libéralisme classique après la crise de 1929. Contrairement au libéralisme (laisser-faire), le néolibéralisme utilise **la puissance étatique pour fabriquer, normer et construire du marché**. Ce n'est pas l'absence d'État — c'est un État orienté vers la performance du marché.
 
 Cette définition permet de requalifier le gaullisme comme forme de néolibéralisme (néolibéralisme technocratique/dirigiste) plutôt que comme alternative à lui. Le gaullisme n'est pas en rupture avec le néolibéralisme — il en est une phase. De même, l'ordo-libéralisme allemand et le welfare state américain font partie du même moment historique.
 
@@ -30,7 +30,7 @@ Chris définit le néolibéralisme comme un processus de désocialisation : il i
 Le néolibéralisme détruit le salariat organisé, syndicalisé, collectivisé — fruit de conquêtes ouvrières — pour revenir au "tâcheronnage" d'avant les conquêtes sociales. Les livreurs Uber en sont l'exemple emblématique : ils arrivent avec leur équipement, demandent combien d'heures ils peuvent faire, et n'ont aucun droit. Le statut d'auto-entrepreneur sert de véhicule juridique à cette régression, masquant un rapport de subordination réel sous une apparence d'indépendance.
 
 ## La phase de clôture du néolibéralisme
-Le néolibéralisme fonctionne par extraction de plus-value des pays périphériques via l'[[Échange inégal]]. La Chine jouait le rôle de réservoir de valeur bon marché pour les capitaux occidentaux. Mais la montée en gamme de la Chine (salaires, marché intérieur, concurrence technologique) met fin à cette dynamique. "On a un premier pays qui comprend que le néolibéralisme ne fonctionne pas" — Trump essaie de sortir du néolibéralisme par le protectionnisme libéral à l'ancienne, sans les outils de planification nécessaires. La phase du néolibéralisme est en train de se clore.
+Le néolibéralisme fonctionne par extraction de plus-value des pays périphériques via l'[[Echange inegal]]. La Chine jouait le rôle de réservoir de valeur bon marché pour les capitaux occidentaux. Mais la montée en gamme de la Chine (salaires, marché intérieur, concurrence technologique) met fin à cette dynamique. "On a un premier pays qui comprend que le néolibéralisme ne fonctionne pas" — Trump essaie de sortir du néolibéralisme par le protectionnisme libéral à l'ancienne, sans les outils de planification nécessaires. La phase du néolibéralisme est en train de se clore.
 
 ## Opposition
 La stratégie de Mélenchon consiste à "marteler des positions en rupture avec le néolibéralisme" ([[Strategie Le Pen 2002]] inversée). Programme anti-néolibéral: 32h, SMIC à 2000€, nationalisation crédits immobiliers, 6e semaine congés pa

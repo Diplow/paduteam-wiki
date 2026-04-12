@@ -17,4 +17,4 @@ Tête de liste Renaissance aux élections européennes 2024. Positionnée dans l
 Aux européennes 2024, Hayer se retrouve "vraiment super à droite", prenant la position de Fillon 2017. Elle est à l'inverse de l'abstention — ce qui explique pourquoi les élections partielles à forte abstention sont "mortes d'avance" pour le NFP : si seuls 30% votent, les abstentionnistes restants sont ceux qui n'auraient jamais voté macroniste, et un candidat macroniste l'emporte mécaniquement.
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Positionnée sur le Graphique des européennes 2024, comparée à Fillon 2017
+- [[GRAPHOMARXISME x Positions Revue]] — Positionnée sur le Graphique des européennes 2024, comparée à Fillon 2017

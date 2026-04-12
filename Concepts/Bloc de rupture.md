@@ -10,7 +10,7 @@ statut: ébauche
 # Bloc de rupture
 
 ## Définition
-Catégorie analytique utilisée par Chris ([[Positions Revue]]) pour désigner les forces politiques de gauche qui portent un projet de rupture avec l'ordre néolibéral et ne se sont pas compromises dans la gestion sociale-libérale. Composé principalement de la [[France Insoumise]] et historiquement du [[Parti Communiste Français]] (depuis la création du Front de Gauche). Opposition au [[Bloc démocrate]].
+Catégorie analytique utilisée par Chris ([[Positions Revue]]) pour désigner les forces politiques de gauche qui portent un projet de rupture avec l'ordre néolibéral et ne se sont pas compromises dans la gestion sociale-libérale. Composé principalement de la [[France Insoumise]] et historiquement du [[Parti Communiste Français]] (depuis la création du Front de Gauche). Opposition au [[Bloc democrate]].
 
 ## Mécanisme
 Le bloc de rupture est en progression constante au sein de la gauche :
@@ -29,4 +29,4 @@ Cette progression s'explique par la dynamique ascendante de LFI comme "pôle rad
 Chris intègre le PCF dans le bloc de rupture depuis 2012 pour les données historiques, car le PCF avait un programme de rupture similaire à LFI et ils ont construit ensemble le Front de Gauche. Mais le PCF sous [[Fabien Roussel]] incarne un "paradoxe" : programme de rupture + comportement politique de "bloc démocrate". La "stratégie Roussel" vise à prendre le lead sur le bloc de rupture avec les attitudes et le langage du bloc démocrate — ce qui échoue.
 
 ## Vidéos où le concept est développé
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — formulation et données complètes par Chris, analysé avec Stathis
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation et données complètes par Chris, analysé avec Stathis

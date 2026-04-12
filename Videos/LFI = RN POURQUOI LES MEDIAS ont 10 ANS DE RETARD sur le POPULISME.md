@@ -19,7 +19,7 @@ Padu et Chris réagissent à un extrait de Public Sénat où le politologue [[Ma
 
 ## Thèses et analyses clés
 
-1. **La [[Theorie du fer à cheval|théorie du fer à cheval]] est une arnaque médiatique** — [[Raphael Enthoven]] et les médias recourent à "LFI = RN" non par analyse mais pour maintenir le macronisme comme seule alternative acceptable. C'est le [[Populisme bourgeois|populisme bourgeois]] qui se protège en diabolisant ses deux adversaires.
+1. **La [[Theorie du fer a cheval|théorie du fer à cheval]] est une arnaque médiatique** — [[Raphael Enthoven]] et les médias recourent à "LFI = RN" non par analyse mais pour maintenir le macronisme comme seule alternative acceptable. C'est le [[Populisme bourgeois|populisme bourgeois]] qui se protège en diabolisant ses deux adversaires.
 
 2. **[[Jean-Luc Melenchon]] n'est plus populiste mais [[Peuplisme|peupliste]]** — En 2017, Mélenchon utilisait le "signifiant vide" de [[Chantal Mouffe]] (le peuple comme agrégat rhétorique). Depuis, il a abandonné cette approche pour construire un sujet collectif matériel : la "Nouvelle France" (racisés, féminisés, jeunes précaires d'ascendants étrangers). Ce glissement est analytiquement pertinent mais reste insuffisant pour la PaduTeam — trop vague, pas assez marxiste.
 
@@ -31,7 +31,7 @@ Padu et Chris réagissent à un extrait de Public Sénat où le politologue [[Ma
 
 6. **Post-Macron : la vraie question est de classe** — Macron est mort politiquement. La question n'est plus "populisme ou non" mais quelle classe portera la reconstruction. C'est un sujet de classe, pas de rhétorique.
 
-7. **Le [[Producerisme|producerisme]] et les "parasites"** — LFI s'abstient de désigner des "parasites" par bas (migrants, fonctionnaires, allocataires) — à juste titre selon la PaduTeam, car ça mènerait au [[Socialisme des imbéciles|socialisme des imbéciles]] ([[Auguste Bebel]]). Le RN et Macron, eux, tapent systématiquement sur les "parasites d'en bas" (fonctionnaires, assistés, immigrés). [[Jordan Bardella]] a même inventé le "parasite du milieu" : le fonctionnaire.
+7. **Le [[Producerisme|producerisme]] et les "parasites"** — LFI s'abstient de désigner des "parasites" par bas (migrants, fonctionnaires, allocataires) — à juste titre selon la PaduTeam, car ça mènerait au [[Socialisme des imbeciles|socialisme des imbéciles]] ([[Auguste Bebel]]). Le RN et Macron, eux, tapent systématiquement sur les "parasites d'en bas" (fonctionnaires, assistés, immigrés). [[Jordan Bardella]] a même inventé le "parasite du milieu" : le fonctionnaire.
 
 8. **Les classes révolutionnaires intermédiaires** — Les révolutions se font par ceux qui ont à la fois intérêt au changement ET des leviers pour l'opérer. Les classes trop précaires ont l'intérêt mais pas les leviers ; les classes dominantes ont les leviers mais pas l'intérêt. Les classes révolutionnaires sont les intermédiaires : professions intermédiaires, jeunes, racisés, féminisés — exactement les classes qui votent Mélenchon.
 
@@ -42,7 +42,7 @@ Padu et Chris réagissent à un extrait de Public Sénat où le politologue [[Ma
 [[France Insoumise]], [[Rassemblement National]], [[Podemos]], [[Parti Socialiste]], [[En Marche]], [[Front de Gauche]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Theorie du fer à cheval]], [[Peuplisme]], [[Producerisme]], [[Socialisme des imbéciles]], [[Populisme bourgeois]], [[Moisation]], [[Periode de confusion]], [[Rapports de production]], [[Sujet collectif]], [[Graphique]], [[Salariat generalise]]
+[[Theorie du fer a cheval]], [[Peuplisme]], [[Producerisme]], [[Socialisme des imbeciles]], [[Populisme bourgeois]], [[Moisation]], [[Periode de confusion]], [[Rapports de production]], [[Sujet collectif]], [[Graphique]], [[Salariat generalise]]
 
 ## Enjeux avancés
 [[Graphique]] — les classes révolutionnaires intermédiaires sont exactement ce que le Graphique identifie comme le sujet politique central

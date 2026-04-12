@@ -27,4 +27,4 @@ Georgi Dimitrov (1882-1949), dirigeant communiste bulgare, secrétaire général
 - Komintern — secrétaire général
 
 ## Vidéos où Dimitrov est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — référence théorique centrale de Stathis pour analyser le NFP 2024
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — référence théorique centrale de Stathis pour analyser le NFP 2024

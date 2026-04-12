@@ -28,4 +28,4 @@ Les trotskistes et certains à gauche l'accusent de trahir la révolution. La Pa
 - [[Hezbollah]] — lien rompu sous Rodriguez selon la PaduTeam
 
 ## Vidéos où Delcy Rodriguez est analysée
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

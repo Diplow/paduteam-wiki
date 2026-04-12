@@ -10,7 +10,7 @@ statut: ébauche
 # Carlos Ghosn
 
 ## Profil synthétique
-PDG emblématique de Renault-Nissan, arrêté au Japon pour malversations financières et fameux pour s'être évadé de prison en se cachant dans une valise. Cité par la PaduTeam non pour lui-même mais pour illustrer la complaisance journalistique de [[Léa Salamé]] : elle l'avait interviewé avec déférence, demandant aux "enfants de France" ce qu'ils pensaient de "l'homme à la valise" — ce qui illustre son alignement avec les intérêts de la grande bourgeoisie.
+PDG emblématique de Renault-Nissan, arrêté au Japon pour malversations financières et fameux pour s'être évadé de prison en se cachant dans une valise. Cité par la PaduTeam non pour lui-même mais pour illustrer la complaisance journalistique de [[Lea Salame]] : elle l'avait interviewé avec déférence, demandant aux "enfants de France" ce qu'ils pensaient de "l'homme à la valise" — ce qui illustre son alignement avec les intérêts de la grande bourgeoisie.
 
 ## Vidéos où Carlos Ghosn est mentionné
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]

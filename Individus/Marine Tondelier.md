@@ -68,19 +68,19 @@ Dans une capsule sur la primaire, Padu prédit que Tondelier fera 3-4% en 2027 :
 ## Tondelier catastrophique sur France Inter (2025)
 
 Interview sur France Inter où elle promeut l'union de la gauche. Padu et Chris :
-- Elle appelle à "placer les égos en dessous de l'intérêt général" — [[Psychologisation des désaccords politiques]] : gomme les vraies lignes (Gaza, ZFE, crédits de guerre, Glucksmann = quasi-macroniste)
+- Elle appelle à "placer les égos en dessous de l'intérêt général" — [[Psychologisation des desaccords politiques]] : gomme les vraies lignes (Gaza, ZFE, crédits de guerre, Glucksmann = quasi-macroniste)
 - Elle inclut Macron dans les antifascistes ("choisissez votre camp, c'est l'antifascisme") → version Tondelier du barrage républicain, tapis rouge pour le fascisme
 - Elle est décrite comme "noisette locale et fair trade" — variante bio du [[Noisettes|casse-noisette]]
-- Plus dépolitisante que [[Raphaël Glucksmann]] lui-même : Glucksmann assume sa ligne, elle dissout tout dans le sentiment
+- Plus dépolitisante que [[Raphael Glucksmann]] lui-même : Glucksmann assume sa ligne, elle dissout tout dans le sentiment
 - Prévision de Chris : finira seule à 3-4%, ni LFI ni PS ne veulent d'elle
 
 ## Vidéos où Tondelier est analysée
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. Padu : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. Padu : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Douceur" : hégémonie noisette, positionnement médiatique, dépendance à la primaire, fin de l'espace écolo autonome
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Affaire Karen (Zoé refuse la misogynie), catastrophique à l'Humanité sur le capitalisme, Festival de la Noisette de Bram
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Réunion de crise post-second tour : perd Bordeaux, Strasbourg, Poitiers. Électorat EELV identifié comme électorat bourgeois macroniste qui retourne vers PS+Horizon. "Mettez la clé sous la porte."
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présente à Bram, joue la "déléguée de classe" qui appelle Glucksmann et Mélenchon par leurs prénoms, tente de faire croire que le conflit est personnel et non structurel. Parie sur la primaire comme mécanisme consensuel pour s'imposer. Réaction de Mélenchon sur son blog : elle et le PCF "tenaient la chandelle" et ont été "sifflés à juste titre."
-- [[Graphiked/Graphiked/videos/L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]] — Conférence FP2027 : vote anti-symboles communistes, "abus de langage" sur la primaire, sociotype de son électorat de bus. "On n'est peut-être pas d'accord."
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Prédit à 3-4% comme "Nathalie Arto des gens en haut au milieu dans le graphique" ; annonce elle-même une candidature de témoignage si la primaire ne se fait pas.
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présente à Bram, joue la "déléguée de classe" qui appelle Glucksmann et Mélenchon par leurs prénoms, tente de faire croire que le conflit est personnel et non structurel. Parie sur la primaire comme mécanisme consensuel pour s'imposer. Réaction de Mélenchon sur son blog : elle et le PCF "tenaient la chandelle" et ont été "sifflés à juste titre."
+- [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Conférence FP2027 : vote anti-symboles communistes, "abus de langage" sur la primaire, sociotype de son électorat de bus. "On n'est peut-être pas d'accord."
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Prédit à 3-4% comme "Nathalie Arto des gens en haut au milieu dans le graphique" ; annonce elle-même une candidature de témoignage si la primaire ne se fait pas.
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" ; psychologisation des désaccords (ego vs lignes) ; défend le barrage républicain avec Macron ; plus dépolitisante que Glucksmann ; prévision 3-4% seule.

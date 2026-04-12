@@ -23,10 +23,10 @@ La biographie individuelle est "un itinéraire parmi les possibilités d'actuali
 La psychanalyse prétend expliquer la biographie par les traumatismes infantiles, l'inconscient, les pulsions biologiques — elle part de l'intérieur. La science de la biographie marxiste part de l'extérieur : les formes sociales qui s'imposent à chaque biographie et que chaque individu s'approprie de façon singulière.
 
 ## Relations conceptuelles
-- [[Théorie de la personnalité]] — dimension individuelle du même projet
-- [[Formes historiques d'individualité]] — ce que la biographie intériorise
-- [[6e thèse sur Feuerbach]] — base philosophique
+- [[Theorie de la personnalite]] — dimension individuelle du même projet
+- [[Formes historiques d'individualite]] — ce que la biographie intériorise
+- [[6e these sur Feuerbach]] — base philosophique
 - [[Juxtastructure]] — articulation sociale/psychique
 
 ## Vidéos où le concept est développé
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

@@ -16,12 +16,12 @@ Distinction fondamentale de la PaduTeam pour situer les figures et courants par 
 - **Faux camarade** : se dit du marxisme mais va dans la direction opposée (ex : certains confusionnistes).
 
 ## Mécanisme
-La distinction sert à calibrer le rapport : on discute du "trajet" avec un adversaire intellectuel, on combat la "direction" avec un ennemi politique. [[Frédéric Lordon]] et [[Geoffroy de Lagasnerie]] sont des adversaires intellectuels — on partage les mêmes luttes mais les acchoppements théoriques peuvent avoir des conséquences pratiques (organisation, programme). Quelqu'un comme Sébastien Chenu, même s'il se dit du peuple, est un ennemi politique.
+La distinction sert à calibrer le rapport : on discute du "trajet" avec un adversaire intellectuel, on combat la "direction" avec un ennemi politique. [[Frederic Lordon]] et [[Geoffroy de Lagasnerie]] sont des adversaires intellectuels — on partage les mêmes luttes mais les acchoppements théoriques peuvent avoir des conséquences pratiques (organisation, programme). Quelqu'un comme Sébastien Chenu, même s'il se dit du peuple, est un ennemi politique.
 
 ## Exemples
 - [[Geoffroy de Lagasnerie]] = adversaire intellectuel, allié politique (loyal à LFI)
-- [[Frédéric Lordon]] = adversaire intellectuel, allié politique
+- [[Frederic Lordon]] = adversaire intellectuel, allié politique
 - Fascistes = ennemis politiques (direction opposée)
 
 ## Vidéos où le concept est développé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

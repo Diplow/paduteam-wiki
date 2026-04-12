@@ -17,7 +17,7 @@ Ferhat Abbas incarne la même tendance que [[Messali Hadj]] : des mouvements "be
 
 ## Relations
 - [[Messali Hadj]] — contemporain, tendance nationaliste intégrationniste
-- [[Front de Libération Nationale]] — successeur révolutionnaire
+- [[Front de Liberation Nationale]] — successeur révolutionnaire
 - [[UDMA]] — organisation fondée
 
 ## Vidéos où Abbas est mentionné

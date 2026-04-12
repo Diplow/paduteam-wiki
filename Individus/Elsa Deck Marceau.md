@@ -19,4 +19,4 @@ La ZawaProd a instrumentalisé son travail pour réclamer des « médiations » 
 - Collectif Fracas
 
 ## Vidéos où Elsa Deck Marceau est mentionnée
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

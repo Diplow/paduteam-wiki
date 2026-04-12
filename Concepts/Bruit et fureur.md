@@ -23,4 +23,4 @@ Padu rejette la comparaison Mélenchon=Trump : "Quand on est dans un parti commu
 Padu : "Si tu voulais suivre ton programme, il faudrait avoir une forme similaire à celle de Mélenchon. C'est pour ça que tu fais 2%." Les classes populaires qui subissent l'exploitation n'ont pas peur d'un discours radical sur l'exploitation — elles ont peur quand tu essaies de faire plaisir à BFM TV.
 
 ## Vidéos où le concept est développé
-- [[AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]] — Roussel accuse Mélenchon de faire du Trump ; Padu défend la légitimité de la radicalité communicationnelle pour un parti communiste
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Roussel accuse Mélenchon de faire du Trump ; Padu défend la légitimité de la radicalité communicationnelle pour un parti communiste

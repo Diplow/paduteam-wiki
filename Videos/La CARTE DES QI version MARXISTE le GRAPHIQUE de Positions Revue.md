@@ -130,5 +130,5 @@ Les débats qui intéressent chaque zone du Graphique varient selon la position 
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Autre capsule pédagogique de référence
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Développe la stratégie 2027
 - [[Faut-il en finir avec le NFP]] — Analyse du NFP sur le Graphique
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Version interactive du Graphique
+- [[GRAPHOMARXISME x Positions Revue]] — Version interactive du Graphique
 - [[Hollande vs Melenchon 2e tour]] — Graphique 2002 et projection 2027

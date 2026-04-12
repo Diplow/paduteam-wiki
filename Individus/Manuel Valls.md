@@ -20,4 +20,4 @@ Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée
 
 ## Vidéos où Valls est mentionné
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple de la gauche traîtresse qui a nourri le confusionnisme de Padu ado
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes

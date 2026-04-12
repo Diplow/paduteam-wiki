@@ -46,4 +46,4 @@ Chris et Padu réagissent à une vidéo du streamer [[Bad Mulch]] qui tente de c
 ## Enjeux avancés
 [[Graphique]] — Vidéo de défense et pédagogie du Graphique face à un contradicteur qui ne comprend pas l'outil. Explication technique la plus détaillée jamais faite sur les axes et l'algorithme.
 [[Union populaire]] — Démonstration que Mélenchon est le seul barrage antifasciste réel, et que le NFP affaiblit ce positionnement en tirant le barycentre vers le haut-droite.
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Le PS est structurellement amené à trahir : ses classes sociales (haut-droite du Graphique) ont des intérêts divergents des classes populaires. Ce ne sont pas des individus traîtres mais des rapports sociaux qui produisent la trahison.
+[[Plus jamais PS]] — Le PS est structurellement amené à trahir : ses classes sociales (haut-droite du Graphique) ont des intérêts divergents des classes populaires. Ce ne sont pas des individus traîtres mais des rapports sociaux qui produisent la trahison.

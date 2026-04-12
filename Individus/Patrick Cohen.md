@@ -13,7 +13,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Patrick Cohen
 
 ## Profil synthétique
-Journaliste de [[France Inter]]. Surpris avec [[Thomas Legrand]] et [[Pierre Jouvet]] (PS directeur général) dans un dîner où ils planifient de faire monter [[Raphaël Glucksmann]] pour l'élection présidentielle 2027, en l'opposant à la fois à Mélenchon et au RN. Pour la PaduTeam, illustration parfaite de la [[Collusion médiático-politique]] de la bourgeoisie médiatique et politique de gauche.
+Journaliste de [[France Inter]]. Surpris avec [[Thomas Legrand]] et [[Pierre Jouvet]] (PS directeur général) dans un dîner où ils planifient de faire monter [[Raphael Glucksmann]] pour l'élection présidentielle 2027, en l'opposant à la fois à Mélenchon et au RN. Pour la PaduTeam, illustration parfaite de la [[Collusion médiático-politique]] de la bourgeoisie médiatique et politique de gauche.
 
 ## Position dans le [[Graphique]]
 Haut à droite — appartient au [[Bloc bourgeois]] "qui se croit encore progressiste mais a validé toutes les pires réformes néolibérales de tous les temps." France Inter comme service public a porté dès les années 80 l'émission "Vive la crise" d'Yves Montand pour défendre la libéralisation économique.
@@ -30,8 +30,8 @@ Lien avec [[Printemps Républicain]] évoqué : certains proches du cercle Cohen
 ## Relations
 - [[Thomas Legrand]] — comparse au dîner
 - [[Pierre Jouvet]] — interlocuteur PS
-- [[Raphaël Glucksmann]] — candidat à faire monter
-- [[Salomé Saqué]] — autre journaliste France Inter citée comme exemple du même type
+- [[Raphael Glucksmann]] — candidat à faire monter
+- [[Salome Saque]] — autre journaliste France Inter citée comme exemple du même type
 
 ## Vidéos où Patrick Cohen est analysé
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — cœur de la vidéo, fuite du dîner

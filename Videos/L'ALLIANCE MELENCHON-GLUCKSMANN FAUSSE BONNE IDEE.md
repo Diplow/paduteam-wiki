@@ -64,4 +64,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 
 [[Union populaire]] — Démonstration par les données Cluster 17 que la FI seule (même sous-estimée à 11%) plus une gauche social-libérale séparée produit un total supérieur et une dynamique plus forte qu'une alliance unique qui dilue l'identité de rupture.
 
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Glucksmann est décrit comme "un genre de Macron 2017" : un candidat du en-même-temps dont les forces sociales (bourgeoises, macronistes reconverties) garantissent que le marché primera sur la redistribution. L'alliance avec lui est un piège identitaire.
+[[Plus jamais PS]] — Glucksmann est décrit comme "un genre de Macron 2017" : un candidat du en-même-temps dont les forces sociales (bourgeoises, macronistes reconverties) garantissent que le marché primera sur la redistribution. L'alliance avec lui est un piège identitaire.

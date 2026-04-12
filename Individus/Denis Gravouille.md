@@ -20,4 +20,4 @@ Dans son entretien avec Stathis, défend la nécessité pour la CGT de muscler s
 - [[Stathis Kouvelakis]] — l'a interviewé pour [[Contretemps]]
 
 ## Vidéos où Denis Gravouille est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — cité par Stathis sur le débat interne à la CGT sur le redéploiement syndical
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — cité par Stathis sur le débat interne à la CGT sur le redéploiement syndical

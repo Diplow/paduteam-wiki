@@ -22,4 +22,4 @@ Chris oppose cette méthode à celle d'[[Emmanuel Todd]], qualifié d'"esprit li
 [[Alain Bihr]] dans *La Logique méconnue du Capital* explicite cette méthode et en fait une clé de lecture pour rendre le *Capital* accessible. C'est pourquoi Chris le recommande comme "la meilleure intro" au Capital.
 
 ## Vidéos où le concept est développé
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris explique la méthode en recommandant Bihr et le Capital
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris explique la méthode en recommandant Bihr et le Capital

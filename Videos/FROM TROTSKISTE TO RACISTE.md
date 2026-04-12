@@ -22,7 +22,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 1. **Luc comme figure type de la [[Moisation|période confuse pré-moïsation]]** : entré en politique en 2002 par le lambertisme (PT/OCI de Gleinstein-Chivardi), son tournant vers l'extrême droite est déclenché non par un désaccord programmatique révolutionnaire, mais par la présence d'une candidate NPA voilée (Ilan Moussaï, ~2010) et une femme trans dans son groupe.
 2. **L'islamophobie comme moteur du basculement** : Luc ne quitte pas le trotskisme parce que le programme est trop réformiste — il le quitte parce qu'on lui demande de défendre les droits des femmes musulmanes et des personnes trans. C'est l'islamophobie et la transphobie, pas le débat sur la révolution, qui le font plonger.
 3. **Les deux matrices de l'[[Islamophobie]]** : Chris distingue (1) la droite réactionnaire historique (antisémitisme chrétien catholique : Barrès, Maurras, Drumont) qui se reporte sur les musulmans, et (2) la bourgeoisie progressiste anticléricale (Jules Ferry, laïcards, gauche faussement progressive : Printemps Républicain) qui utilise la laïcité comme outil culturaliste. Les deux convergent pour taper sur les musulmans.
-4. **[[Laïcité culturaliste]]** : la laïcité de 1905 (l'État ne reconnaît pas les cultes mais garantit la liberté de culte) est dévoyée en culturalisme nationaliste — elle devient un "mode de vie occidental" qui infériorise des populations plutôt qu'un principe d'égalité. Zoé rappelle qu'en 1905 la laïcité ne s'appliquait pas aux indigènes colonisés — la laïcité a été refusée à ceux qu'on voulait contrôler par la religion.
+4. **[[Laicite culturaliste]]** : la laïcité de 1905 (l'État ne reconnaît pas les cultes mais garantit la liberté de culte) est dévoyée en culturalisme nationaliste — elle devient un "mode de vie occidental" qui infériorise des populations plutôt qu'un principe d'égalité. Zoé rappelle qu'en 1905 la laïcité ne s'appliquait pas aux indigènes colonisés — la laïcité a été refusée à ceux qu'on voulait contrôler par la religion.
 5. **[[Soralisme]] comme passage obligé** : Luc lit [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] via [[Michel Clouscard]], puis utilise ça pour légitimer son basculement. Chris analyse Soral comme une figure qui capte les ouvriers confus en leur proposant une explication du monde qui préserve leur racisme et leur sexisme — "3/4 des gens qui lisent Soral veulent savoir comment pécho".
 6. **[[Gaullocommunisme]] critique** : en marge, Chris et Zoé épinglent le mythe du "Gaullocommunisme" (alliance supposée entre gaullisme et PCF), qu'ils qualifient de mystification anticomm. Padu cite : "tout tenant du Gaullocommunisme est un chien" (variation de la formule sartrienne). Fabien Roussel est visé implicitement.
 7. **La laïcité comme Red Flag** : Zoé : "quand j'entends laïcité, j'ai 9 chances sur 10 que c'est un Red Flag d'extrême droite." Signe que le mot est désormais capturé par l'islamophobie.
@@ -32,13 +32,13 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Pas de chiffres ou sondages dans cette vidéo.
 
 ## Individus mentionnés
-[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Fabien Roussel]], [[Jean-Luc Mélenchon]], [[Lionel Jospin]], [[Bruno Retailleau]], [[Tatiana Ventôse]], [[Ludivine Bantigny]], [[Charles Maurras]]
+[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Lionel Jospin]], [[Bruno Retailleau]], [[Tatiana Ventose]], [[Ludivine Bantigny]], [[Charles Maurras]]
 
 ## Organisations mentionnées
 [[Valeurs Actuelles]], [[Parti des Travailleurs]], [[Nouveau Parti Anticapitaliste|NPA]], [[Lutte Ouvriere|Lutte Ouvrière]], [[CGT]], [[France Insoumise]], [[Parti Communiste Francais|PCF]], [[Printemps Républicain]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laïcité culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Bourgeoisie progressiste]]
+[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laicite culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Bourgeoisie progressiste]]
 
 ## Enjeux avancés
 [[Union populaire]] — solidarité affirmée avec les camarades musulmans face à l'islamophobie, tâche prioritaire de tout militant de gauche conséquent

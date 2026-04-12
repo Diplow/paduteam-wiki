@@ -20,4 +20,4 @@ Dissident communiste est-allemand (1935-1997). Auteur de *L'Alternative* (1977),
 - [[Parti Communiste Francais|PCF]] — parallèle avec les critiques de Sève du PCF
 
 ## Vidéos où Bahro est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

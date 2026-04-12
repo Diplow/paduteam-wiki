@@ -34,4 +34,4 @@ La PaduTeam (Chris, Zoé) applique ce cadre au débat sur l'IA :
 - Coloristes Disney dans les années 40 (travail répétitif, manuel, pénible → remplaçable sans problème)
 
 ## Vidéos où le concept est développé
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

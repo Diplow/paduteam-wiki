@@ -21,9 +21,9 @@ Concept inventé par [[Lucien Seve|Lucien Sève]] dans *Marxisme et théorie de 
 - Mais dans cette relation, les structures sociales ont toujours le dessus : elles conditionnent les formes que prend le psychisme
 
 ## Pourquoi il n'y a pas de "psychologie marxiste"
-La juxtastructure explique pourquoi Sève dit qu'il ne peut pas y avoir une "psychologie marxiste" (comme il y a des TCC ou de la systémie) : le psychique est "engrainé" dans le social sans se réduire à lui. Il faut que les psychologues deviennent marxistes — pas qu'on construise une psychologie avec une étiquette "marxiste". Voir [[Psychologie matérialiste marxiste]].
+La juxtastructure explique pourquoi Sève dit qu'il ne peut pas y avoir une "psychologie marxiste" (comme il y a des TCC ou de la systémie) : le psychique est "engrainé" dans le social sans se réduire à lui. Il faut que les psychologues deviennent marxistes — pas qu'on construise une psychologie avec une étiquette "marxiste". Voir [[Psychologie materialiste marxiste]].
 
 La formule de [[Georges Politzer]] que Sève met en exergue : "La psychologie ne détient nullement le secret des faits humains. Tout simplement parce que ce secret n'est pas psychologique."
 
 ## Vidéos où la juxtastructure est développée
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

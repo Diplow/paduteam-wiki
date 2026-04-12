@@ -27,14 +27,14 @@ Face à Trump et à la guerre commerciale :
 - Macron approche cette logique à la marge (aller chercher la Chine) — mais sans aller au bout (expropriation, nationalisation)
 
 ## Implications pour la France
-Financer les besoins réels par la production monétaire (voir [[Théorie moderne de la monnaie]]), pas contraints par les marchés financiers. Le communisme du 21e siècle = réaffirmer que le politique décide de l'économique, pas l'inverse.
+Financer les besoins réels par la production monétaire (voir [[Theorie moderne de la monnaie]]), pas contraints par les marchés financiers. Le communisme du 21e siècle = réaffirmer que le politique décide de l'économique, pas l'inverse.
 
 ## Exemples
 - La Chine : excédent de capitaux et de production → doit exporter des capitaux, trouver des débouchés → logique planifiée, pas de maximisation privée de court terme
 - La dette française : la somme des intérêts payés aux banques privées depuis les années 70 pour imprimer notre propre monnaie → aberration du primat de l'économique sur le politique
 
 ## Concepts associés
-[[Théorie moderne de la monnaie]], [[Grande bifurcation]], [[Vassalisation de la France]], [[Atlantisme]]
+[[Theorie moderne de la monnaie]], [[Grande bifurcation]], [[Vassalisation de la France]], [[Atlantisme]]
 
 ## Vidéos où le concept est développé
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Chris développe le principe en opposition au programme économique de Bardella

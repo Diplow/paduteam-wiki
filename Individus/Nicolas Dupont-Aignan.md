@@ -19,4 +19,4 @@ N'obtiendra pas les 500 signatures. [[Dominique de Villepin]] lui prend les sign
 
 ## Vidéos où l'individu est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]]
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — N'aura pas les 500 signatures en 2027, éliminé avant la course
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — N'aura pas les 500 signatures en 2027, éliminé avant la course

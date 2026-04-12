@@ -49,7 +49,7 @@ La vidéo contient un long rappel du fonctionnement du [[Graphique]] :
 [[Graphique]], [[Clivage materiel vs clivage de valeurs]], [[Pacte egalitaire]], [[Pacte raciste]], [[Guerre des gauches]], [[Moisation]], [[Bloc bourgeois]], [[Heterogeneite du salariat]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Faure trahit non par choix individuel mais par détermination de classe : son espace électoral l'oblige structurellement à rompre avec la ligne Mélenchon. La trahison était inévitable dès lors que le NFP n'a pas été refondé en parti unique.
+[[Plus jamais PS]] — Faure trahit non par choix individuel mais par détermination de classe : son espace électoral l'oblige structurellement à rompre avec la ligne Mélenchon. La trahison était inévitable dès lors que le NFP n'a pas été refondé en parti unique.
 
 [[Graphique]] — Vidéo pédagogique majeure : rappel complet du fonctionnement des axes, de la lecture en composition/barycentre, démonstration appliquée aux européennes 2024. Annonce de développements futurs (dimensions tierces, données Piketty, open source).
 

@@ -23,4 +23,4 @@ Le RN paierait Odoul pour "taper sur Retailleau 24h/24" dès qu'il fait quelque 
 - [[Bruno Retailleau]] — adversaire ciblé
 
 ## Vidéos où Odoul est mentionné
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Cité comme attaquant Retailleau en permanence pour le compte du RN
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Cité comme attaquant Retailleau en permanence pour le compte du RN

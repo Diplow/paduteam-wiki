@@ -22,8 +22,8 @@ Gauche antisystème — en bas à gauche du graphique, ancrée dans les classes 
 - 2nd tour: **58.2%** vs 41.8% [[Rassemblement National]]
 
 ## Figures
-- [[Jean-Luc Mélenchon]] — candidat 2027
-- Soutenu entre les deux tours par [[Boris Vallaud]], [[François Ruffin]], [[Anasse Kazib]]
+- [[Jean-Luc Melenchon]] — candidat 2027
+- Soutenu entre les deux tours par [[Boris Vallaud]], [[Francois Ruffin]], [[Anasse Kazib]]
 
 ## Municipales 2026 : gagne seule, perd en alliance
 

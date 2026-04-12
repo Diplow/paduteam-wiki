@@ -14,7 +14,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Mouvement des jeunes communistes de France — organisation de jeunesse du [[Parti Communiste Francais]]. Forme les cadres du PCF et porte ses positions auprès de la jeunesse.
 
 ## Position prohibitionniste sur le cannabis
-Le MJCF a une position officielle contre la légalisation du cannabis, considérant que la légalisation ne fait pas baisser la consommation ni le trafic. Cette position a généré un bad buzz quand Lena R (secrétaire nationale de l'[[UEC]], également au MJCF) a répondu publiquement à Antoine Léoman en affirmant que les addictions aux stupéfiants ne seront "jamais une émancipation" et que les jeunes veulent des études et un emploi digne, pas être "contraints au deal".
+Le MJCF a une position officielle contre la légalisation du cannabis, considérant que la légalisation ne fait pas baisser la consommation ni le trafic. Cette position a généré un bad buzz quand Lena R (secrétaire nationale de l'[[UEC]], également au MJCF) a répondu publiquement à Antoine Léaument en affirmant que les addictions aux stupéfiants ne seront "jamais une émancipation" et que les jeunes veulent des études et un emploi digne, pas être "contraints au deal".
 
 La PaduTeam critique cette position comme scientifiquement fausse (caricature des effets du cannabis, amalgame usage/addiction), moralement hygiéniste (reproduit le schéma dénoncé par [[Antonio Gramsci|Gramsci]] — vouloir des jeunes "qui se tiennent droit" pour la révolution), et stratégiquement absurde (les jeunes pro-pénalisation sont dans l'espace réactionnaire du [[Graphique]], pas dans la base naturelle du PCF). Quand les militants du MJCF se font soutenir par des militantes identitaires d'extrême droite et tapent sur les camarades de gauche, la PaduTeam y voit un signal d'alarme.
 
@@ -34,5 +34,5 @@ Padu distingue : "Vous allez avoir des JC assez radicales avec une ligne réelle
 
 ## Vidéos où le MJCF est analysé
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique de la position prohibitionniste du MJCF
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Présentés comme la frange adéquate du PCF, en rupture avec Roussel sur l'islamophobie.
-- [[LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Détail des factions internes : JC radicales (JC Nord, Loire, Vienne) vs direction nationale rousselliste. Les militantes JC roussellistes y sont critiquées pour leur ligne "être large" et leur refus de nommer le racisme.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Présentés comme la frange adéquate du PCF, en rupture avec Roussel sur l'islamophobie.
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Détail des factions internes : JC radicales (JC Nord, Loire, Vienne) vs direction nationale rousselliste. Les militantes JC roussellistes y sont critiquées pour leur ligne "être large" et leur refus de nommer le racisme.

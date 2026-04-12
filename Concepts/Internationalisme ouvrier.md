@@ -20,7 +20,7 @@ Quelqu'un qui arrive à la nage entre Lampedusa et la France devrait avoir le dr
 
 ## Contre le nationalisme de gauche
 
-[[François Ruffin]], [[Fabien Roussel]] et les tenants d'une gauche national-populaire sont critiqués pour avoir adopté le "logiciel assimilationniste" : conditionner les droits ou la solidarité à des critères d'assimilation culturelle ou à l'appartenance nationale. Ce faisant, ils mettent dans le même panier l'ouvrière agricole française et le grand exploitant agricole (le "gros agriculteur en bas à droite du [[Graphique|Graphique]]") — au lieu de construire la solidarité de classe transnationale.
+[[Francois Ruffin]], [[Fabien Roussel]] et les tenants d'une gauche national-populaire sont critiqués pour avoir adopté le "logiciel assimilationniste" : conditionner les droits ou la solidarité à des critères d'assimilation culturelle ou à l'appartenance nationale. Ce faisant, ils mettent dans le même panier l'ouvrière agricole française et le grand exploitant agricole (le "gros agriculteur en bas à droite du [[Graphique|Graphique]]") — au lieu de construire la solidarité de classe transnationale.
 
 "Tous les gens qui vous disent qu'il y a trop d'immigrés, qu'il faut faire gaffe aux frontières — tous ces gens-là sont des traîtres à la classe." ([[Chris]])
 

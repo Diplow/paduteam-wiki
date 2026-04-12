@@ -23,5 +23,5 @@ Padu fait une imitation affectueuse de "Chantal Mouf et Erneston Laclo" pour mon
 En 2017, Mélenchon a expérimenté le cadre de Mouffe : le peuple comme "signifiant vide", stratégie ni gauche ni droite. La PaduTeam prend note que Mélenchon "a fait la critique de Mouffe dans ses derniers travaux" — il a cherché à donner une matérialité au peuple, d'abord via les réseaux, puis via la conception peuple-nation. Le cadre Mouffe est qualifié de purement discursif et stratégique, "de la pure stratégie politique" — ce qui a ses limites : ça ne mobilise pas de sujet collectif historique. Le [[Peuplisme]] de Mélenchon est un dépassement de Mouffe.
 
 ## Vidéos où elle est mentionnée
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — citée comme théoricienne du populisme de gauche face aux deux autres populismes de 2017
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — citée comme théoricienne du populisme de gauche face aux deux autres populismes de 2017
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — critique de son concept de "signifiant vide" ; Mélenchon l'a dépassée en cherchant un sujet collectif matériel

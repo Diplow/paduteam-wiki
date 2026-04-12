@@ -12,7 +12,7 @@ statut: ébauche
 # KROC BLANC (@fdenews) : 100 000€ D'AMENDE + 7 ANS DE PRISON POUR DIFFUSION D'IMAGE PED0P0RNO
 
 ## Résumé
-Capsule solo de Padu analysant les risques juridiques auxquels s'exposerait [[Kroc Blanc]] (chaîne [[FD News]]) suite à ses propres aveux d'avoir accédé à des sites pédopornographiques "pour piéger des pédophiles." Le Fouallier a révélé l'information en consultant une juge aux affaires familiales : quelle que soit l'intention, télécharger ou diffuser de telles images est passible de 5 à 7 ans de prison et 75 000 à 100 000 € d'amende. Padu en conclut que Kroc Blanc n'a aucun intérêt à porter plainte, comme il l'a pourtant annoncé contre 50 personnes. En parallèle, [[Psychodélique]] est épinglé pour avoir déclaré ne pas savoir si avoir des relations sexuelles avec un mineur de moins de 15 ans constitue de la pédophilie.
+Capsule solo de Padu analysant les risques juridiques auxquels s'exposerait [[Kroc Blanc]] (chaîne [[FD News]]) suite à ses propres aveux d'avoir accédé à des sites pédopornographiques "pour piéger des pédophiles." Le Fouallier a révélé l'information en consultant une juge aux affaires familiales : quelle que soit l'intention, télécharger ou diffuser de telles images est passible de 5 à 7 ans de prison et 75 000 à 100 000 € d'amende. Padu en conclut que Kroc Blanc n'a aucun intérêt à porter plainte, comme il l'a pourtant annoncé contre 50 personnes. En parallèle, [[Psychodelique]] est épinglé pour avoir déclaré ne pas savoir si avoir des relations sexuelles avec un mineur de moins de 15 ans constitue de la pédophilie.
 
 ## Thèses et analyses clés
 
@@ -29,7 +29,7 @@ Capsule solo de Padu analysant les risques juridiques auxquels s'exposerait [[Kr
 6. **Kroc Blanc n'a aucun intérêt à porter plainte** — S'il porte plainte, ses aveux d'accès à des sites pédo seront soumis au juge. Padu pense qu'il n'y a pas réellement de plainte, malgré l'annonce contre 50 personnes.
 
 ## Individus mentionnés
-[[Kroc Blanc]], [[Psychodélique]], [[Papacito]], [[Le Fouallier]]
+[[Kroc Blanc]], [[Psychodelique]], [[Papacito]], [[Le Fouallier]]
 
 ## Organisations mentionnées
 [[FD News]]

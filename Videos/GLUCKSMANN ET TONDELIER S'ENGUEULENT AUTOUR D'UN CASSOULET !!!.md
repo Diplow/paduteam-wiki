@@ -13,11 +13,11 @@ statut: ébauche
 # GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!
 
 ## Résumé
-Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformiste organisé par [[Carole Delga]] (Occitanie). Décorticage des postures de [[Raphaël Glucksmann]], [[Marine Tondelier]] et [[Yann Brossat]] (PCF). Point approfondi sur la crise interne PCF (Roussel vs Brossat) et l'erreur d'analyse de Roussel sur le vote 2017. Lecture de la réaction de Mélenchon sur son blog. Confirmation que [[Boris Vallaud]] joue la carte de l'arbitre en vue de 2027.
+Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformiste organisé par [[Carole Delga]] (Occitanie). Décorticage des postures de [[Raphael Glucksmann]], [[Marine Tondelier]] et [[Yann Brossat]] (PCF). Point approfondi sur la crise interne PCF (Roussel vs Brossat) et l'erreur d'analyse de Roussel sur le vote 2017. Lecture de la réaction de Mélenchon sur son blog. Confirmation que [[Boris Vallaud]] joue la carte de l'arbitre en vue de 2027.
 
 ## Thèses et analyses clés
 
-1. **Glucksmann cite Mitterrand contre le PC** — Glucksmann rappelle que Mitterrand n'a pas été élu grâce à une union avec le PC, mais en battant le PC. Il lit donc sa propre stratégie dans l'histoire. Padu et Chris reconnaissent qu'il a raison sur le mécanisme — mais soulignent qu'il sera dans la position de Marchais, pas dans celle de Mitterrand. [[Jean-Luc Mélenchon]] est le Mitterrand de 2027. Voir [[Stratégie Mitterrand inversée]].
+1. **Glucksmann cite Mitterrand contre le PC** — Glucksmann rappelle que Mitterrand n'a pas été élu grâce à une union avec le PC, mais en battant le PC. Il lit donc sa propre stratégie dans l'histoire. Padu et Chris reconnaissent qu'il a raison sur le mécanisme — mais soulignent qu'il sera dans la position de Marchais, pas dans celle de Mitterrand. [[Jean-Luc Melenchon]] est le Mitterrand de 2027. Voir [[Stratégie Mitterrand inversée]].
 
 2. **Tondelier = déléguée de classe** — Tondelier appelle Glucksmann et Mélenchon par leurs prénoms ("Raphaël", "Jean-Luc") comme une prof qui réprimande deux élèves. Pour la PaduTeam c'est insupportable et révélateur : elle traite un conflit politique structurel de ligne comme un conflit de personnalités à réconcilier. Voir [[Condescendance de classe]].
 
@@ -31,7 +31,7 @@ Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformis
 
 7. **Le [[Graphique]] prédit qui vote aux primaires** — Les classes populaires (bas-gauche sur le graphique) ne votent pas aux primaires. Seuls les militants (hauts du graphique, professions intellectuelles, cadres pro-valeurs) participent. Donc le score de primaire ne reflète pas les masses : une primaire donne la victoire au représentant des classes supérieures de gauche, pas à celui qui peut conquérir les abstentionnistes et les classes populaires.
 
-8. **Glucksmann = CIA** — Ses mots-clés ("combat pour la démocratie", "démocrates de combat", "menace sur la République") sont la rhétorique atlantiste typique. Padu : "c'est vraiment le truc de la CIA." Sa femme [[Léa Salamé]] au 20h de France 2 est son pire handicap — "trop gros" comme conflit d'intérêt médiatique.
+8. **Glucksmann = CIA** — Ses mots-clés ("combat pour la démocratie", "démocrates de combat", "menace sur la République") sont la rhétorique atlantiste typique. Padu : "c'est vraiment le truc de la CIA." Sa femme [[Lea Salame]] au 20h de France 2 est son pire handicap — "trop gros" comme conflit d'intérêt médiatique.
 
 9. **Mélenchon réagit : "insipide, creuse et ennuyeuse"** — Sur son blog, Mélenchon décrit la réunion de Bram comme un "ramassi de vieux sectares cassoulés." Il souligne l'absurdité de la présence de Tondelier et du PCF aux côtés de Delga qui voulait interdire les manifs pro-palestiniennes et défend l'A69. Conclusion : Glucksmann a réussi à imposer sa ligne — il y aura toujours une candidature Place Publique face à LFI. Le PS sortira à terme pour son propre compte.
 
@@ -47,17 +47,17 @@ Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformis
 | Ruffin | Remporte sa propre primaire | ~6% au 1er tour seulement |
 
 ## Individus mentionnés
-[[Raphaël Glucksmann]], [[Marine Tondelier]], [[Carole Delga]], [[Fabien Roussel]], [[Yann Brossat]], [[Boris Vallaud]], [[François Hollande]], [[Karim Bouamrane]], [[Olivier Faure]], [[Léa Salamé]], [[François Ruffin]], [[Clémentine Autain]], [[Nicolas Mayer-Rossignol]], [[Johanna Rolland]], [[Jean-Luc Mélenchon]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Patrick Cohen]], [[Jérémy Bacchi]], [[Guillaume Lacroix]], [[Johann Chapoutot]], [[Djordje Kuzmanovic]], [[Christiane Taubira]]
+[[Raphael Glucksmann]], [[Marine Tondelier]], [[Carole Delga]], [[Fabien Roussel]], [[Yann Brossat]], [[Boris Vallaud]], [[François Hollande]], [[Karim Bouamrane]], [[Olivier Faure]], [[Lea Salame]], [[Francois Ruffin]], [[Clémentine Autain]], [[Nicolas Mayer-Rossignol]], [[Johanna Rolland]], [[Jean-Luc Melenchon]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Patrick Cohen]], [[Jeremy Bacchi]], [[Guillaume Lacroix]], [[Johann Chapoutot]], [[Djordje Kuzmanovic]], [[Christiane Taubira]]
 
 ## Organisations mentionnées
 [[Europe Ecologie Les Verts]], [[Parti Socialiste]], [[Parti Communiste Francais]], [[France Insoumise]], [[Place Publique]], [[NFP]], [[Parti Radical de Gauche]], [[Union pour la Reconstruction Communiste]], [[Primaire Populaire]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Noisettes]], [[Primaire des noisettes]], [[Stratégie Mitterrand inversée]], [[Condescendance de classe]], [[Gauche gueule de bois]], [[La politique n'est pas de l'arithmétique]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Guerre des gauches]]
+[[Graphique]], [[Noisettes]], [[Primaire des noisettes]], [[Stratégie Mitterrand inversée]], [[Condescendance de classe]], [[Gauche gueule de bois]], [[La politique n'est pas de l'arithmétique]], [[Plus jamais PS]], [[Guerre des gauches]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — La réunion de Bram illustre exactement pourquoi l'union avec le PS est une nasse : des gens qui ont toujours trahi (Delga a failli élire 10 députés RN en refusant les alliances NFP) veulent piloter la gauche
+[[Plus jamais PS]] — La réunion de Bram illustre exactement pourquoi l'union avec le PS est une nasse : des gens qui ont toujours trahi (Delga a failli élire 10 députés RN en refusant les alliances NFP) veulent piloter la gauche
 [[Union populaire]] — Boris Vallaud joue la stratégie de l'arbitre, confirmant la prophétie du Graphique ; le peuple ne veut pas de ces primaires de bureaucrates
 
 ## Transcript
-[[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]]
+[[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]]

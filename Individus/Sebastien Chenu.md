@@ -26,4 +26,4 @@ Si Marine Le Pen est empêchée de se présenter à la présidentielle 2027 (con
 
 ## Vidéos
 
-- [[Graphiked/Graphiked/videos/LE PEN DÉCLARE la GUERRE à BARDELLA !!]] — Cité comme profil de "Medvedev" possible pour Le Pen
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Cité comme profil de "Medvedev" possible pour Le Pen

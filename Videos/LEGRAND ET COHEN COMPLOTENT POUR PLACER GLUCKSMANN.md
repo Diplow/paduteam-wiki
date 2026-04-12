@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN
 
 ## Résumé
-Une fuite révèle un dîner entre les journalistes [[Thomas Legrand]] et [[Patrick Cohen]] (France Inter) avec [[Pierre Jouvet]] (secrétaire général du PS) et d'autres politiques, en train de planifier comment placer [[Raphaël Glucksmann]] à la présidentielle 2027 au détriment de Mélenchon. Padu et Chris analysent cette collusion médiático-politique comme parfaitement prévisible et s'en servent pour approfondir la lecture par le [[Graphique]].
+Une fuite révèle un dîner entre les journalistes [[Thomas Legrand]] et [[Patrick Cohen]] (France Inter) avec [[Pierre Jouvet]] (secrétaire général du PS) et d'autres politiques, en train de planifier comment placer [[Raphael Glucksmann]] à la présidentielle 2027 au détriment de Mélenchon. Padu et Chris analysent cette collusion médiático-politique comme parfaitement prévisible et s'en servent pour approfondir la lecture par le [[Graphique]].
 
 ## Thèses et analyses clés
 
@@ -46,7 +46,7 @@ Une fuite révèle un dîner entre les journalistes [[Thomas Legrand]] et [[Patr
 | Retailleau | Intérêt à jouer le "billard à trois bandes" Chirac 81 |
 
 ## Individus mentionnés
-[[Thomas Legrand]], [[Patrick Cohen]], [[Pierre Jouvet]], [[Raphaël Glucksmann]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[Jordan Bardella]], [[Boris Vallaud]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Edouard Philippe]], [[Xavier Bertrand]], [[François Ruffin]], [[Pascal Canfin]], [[Olivier Faure]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Manuel Bompard]], [[Salomé Saqué]]
+[[Thomas Legrand]], [[Patrick Cohen]], [[Pierre Jouvet]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[Jordan Bardella]], [[Boris Vallaud]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Edouard Philippe]], [[Xavier Bertrand]], [[Francois Ruffin]], [[Pascal Canfin]], [[Olivier Faure]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Manuel Bompard]], [[Salome Saque]]
 
 ## Organisations mentionnées
 [[France Inter]], [[Parti Socialiste]], [[France Insoumise]], [[Rassemblement National]], [[On ne veut plus]], [[La Jeune Garde]], [[CGT]], [[Place Publique]]
@@ -57,7 +57,7 @@ Une fuite révèle un dîner entre les journalistes [[Thomas Legrand]] et [[Patr
 ## Enjeux avancés
 [[Graphique]] — la vidéo démontre la valeur prédictive du Graphique face à l'idéalisme des journalistes bourgeois
 [[Union populaire]] — Glucksmann est l'alternative fabriquée pour empêcher Mélenchon
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — le PS et ses journalistes complices sont montrés comme structurellement hostiles à la gauche de rupture
+[[Plus jamais PS]] — le PS et ses journalistes complices sont montrés comme structurellement hostiles à la gauche de rupture
 
 ## Transcript
 [[LEGRAND et COHEN COMPLOTENT pour placer GLUCKSMANN !!]]

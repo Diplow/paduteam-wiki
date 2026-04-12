@@ -19,4 +19,4 @@ Aux côtés de [[CLR James]] et [[W.E.B. Du Bois]], il constitue le socle de la 
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — cité sur l'origine matérielle du racisme moderne
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — cité parmi les marxistes noirs que [[Cedric Robinson]] critique dans *Black Marxism*

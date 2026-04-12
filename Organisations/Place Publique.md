@@ -20,5 +20,5 @@ Glucksmann et Place Publique s'opposent au [[NFP]] tout en y ayant participé, i
 
 ## Vidéos où l'organisation est analysée
 - [[Faut-il en finir avec le NFP]]
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]] — Place Publique analysée comme prototype de la [[Gauche molle]] : programme limité au "devoir de vigilance des multinationales", sans rupture avec le capitalisme. Glucksmann incapable de défendre ce programme face à un militant de 22 ans.
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Place Publique analysée comme prototype de la [[Gauche molle]] : programme limité au "devoir de vigilance des multinationales", sans rupture avec le capitalisme. Glucksmann incapable de défendre ce programme face à un militant de 22 ans.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Place Publique seule de toute la gauche à ne pas appeler au 10 septembre. Stratégie : aspirer le bloc central macroniste en déliquescence, pas capter l'électorat de gauche.

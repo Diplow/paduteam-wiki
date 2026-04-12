@@ -43,4 +43,4 @@ Ce n'est pas une critique contre le féminisme — c'est une critique pour un f�
 - [[Matérialisme démographique]] — la natalité dépend des conditions matérielles, pas de la culture
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

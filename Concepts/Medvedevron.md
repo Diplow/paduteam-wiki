@@ -36,5 +36,5 @@ Macron élimine systématiquement ses successeurs potentiels (Attal, Borne, Barn
 Conséquence pour 2027 : l'affaiblissement délibéré du camp macroniste avance mécaniquement la prophétie du [[Graphique]] — l'élection de [[Jean-Luc Melenchon|Mélenchon]].
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première formulation du concept Medvedevron appliqué à Bayrou
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Stratégie Macron de tuer ses héritiers développée en détail
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première formulation du concept Medvedevron appliqué à Bayrou
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Stratégie Macron de tuer ses héritiers développée en détail

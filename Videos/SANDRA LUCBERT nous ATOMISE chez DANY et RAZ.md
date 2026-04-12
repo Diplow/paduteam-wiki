@@ -26,7 +26,7 @@ Padu et Chris réagissent à une interview de [[Sandra Lucbert]] sur le [[Zawash
 
 4. **Conscience immanente** — Les structures mentales de classe s'adoptent *immédiatement*, en fonction de la position de classe actuelle, non par accumulation biographique/psychanalytique. Demain si un ouvrier hérite et devient bourgeois, il pense comme bourgeois dès le "jour 2". [[Conscience et sujets collectifs]].
 
-5. **[[Jeu de cartes des possibilités]]** — Nouveau concept pédagogique : les individus disposent d'un jeu de cartes distribué par les sujets collectifs auxquels ils appartiennent (classe, genre, race, nation...). Ces cartes sont des possibilités qu'ils peuvent activer ou non selon leurs autres sujets collectifs. Ça explique pourquoi tous les hommes ne "jouent" pas la carte de la violence patriarcale.
+5. **[[Jeu de cartes des possibilites]]** — Nouveau concept pédagogique : les individus disposent d'un jeu de cartes distribué par les sujets collectifs auxquels ils appartiennent (classe, genre, race, nation...). Ces cartes sont des possibilités qu'ils peuvent activer ou non selon leurs autres sujets collectifs. Ça explique pourquoi tous les hommes ne "jouent" pas la carte de la violence patriarcale.
 
 6. **[[Non-conscient vs inconscient]]** — Le marxisme mobilise le "non-conscient", pas l'"inconscient" psychanalytique. L'inconscient suppose le refoulement, qui suppose une conscience préalablement lucide — ce qui est absurde chez le nourrisson. La catégorie psychanalytique est donc irréfutable et improuvable.
 
@@ -45,7 +45,7 @@ Padu et Chris réagissent à une interview de [[Sandra Lucbert]] sur le [[Zawash
 [[Zawashow]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Sujet collectif]], [[Conscience et sujets collectifs]], [[Jeu de cartes des possibilités]], [[Non-conscient vs inconscient]], [[Psychologie matérialiste marxiste]], [[Fetichisme de la marchandise]], [[Masculinisme]]
+[[Sujet collectif]], [[Conscience et sujets collectifs]], [[Jeu de cartes des possibilites]], [[Non-conscient vs inconscient]], [[Psychologie materialiste marxiste]], [[Fetichisme de la marchandise]], [[Masculinisme]]
 
 ## Transcript
 [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhring x Chris)]]

@@ -13,7 +13,7 @@ statut: ébauche
 Théoricien afro-américain, figure de l'afropessimisme avec [[Frank B. Wilderson III]]. Mentionné par la PaduTeam comme représentant d'une pensée idéaliste qui sépare la race de la classe.
 
 ## Position selon la PaduTeam
-Même critique que Wilderson : l'afropessimisme de Sexton réintroduit une épistémologie idéaliste en posant la noirceur comme position structurelle irréductible au matérialisme historique. La PaduTeam reconnaît que cet afropessimisme est une [[Pensée tragique]] — descriptif, incapable d'être prescriptif, donc incapable de transformer le monde.
+Même critique que Wilderson : l'afropessimisme de Sexton réintroduit une épistémologie idéaliste en posant la noirceur comme position structurelle irréductible au matérialisme historique. La PaduTeam reconnaît que cet afropessimisme est une [[Pensee tragique]] — descriptif, incapable d'être prescriptif, donc incapable de transformer le monde.
 
 ## Relations
 - [[Frank B. Wilderson III]] — associé

@@ -16,7 +16,7 @@ Padu et Chris réagissent à un extrait d'un live de 5h38 de Géopolitique Profo
 
 ## Thèses et analyses clés
 
-1. **Soral est un maître de la [[Logorrhée]], pas du Logos** — Il empile des concepts qu'il ne maîtrise pas (classe contre classe, métamorphose des classes, dialectique égéliano-marxiste) pour produire un flux de parole séducteur. Sa boutique tourne parce que la fascination fonctionne sur un public pas très politisé, pas parce que le contenu tient.
+1. **Soral est un maître de la [[Logorrhee]], pas du Logos** — Il empile des concepts qu'il ne maîtrise pas (classe contre classe, métamorphose des classes, dialectique égéliano-marxiste) pour produire un flux de parole séducteur. Sa boutique tourne parce que la fascination fonctionne sur un public pas très politisé, pas parce que le contenu tient.
 
 2. **L'économie politique de Soral = programme des Républicains** — Sa défense de l'économie mixte (régalien socialisé + petits patrons libres) est mot pour mot ce que dit Xavier Bertrand. Ce n'est pas du marxisme, ni même du gaullisme sérieux — c'est le programme macroniste ou LR réhabillé en "réel". Padu : "quand tu dis ça tu ne dis rien."
 
@@ -24,7 +24,7 @@ Padu et Chris réagissent à un extrait d'un live de 5h38 de Géopolitique Profo
 
 4. **Soral n'a pas lu Clouscard** — Il cite *Les métamorphoses des classes* pour défendre la petite bourgeoisie. Clouscard y fait exactement l'inverse : il montre que le [[Salariat generalise|salariat généralisé]] représente 90% de la population et que c'est le nouveau sujet révolutionnaire. Le concept central du livre (le prolétariat généralisé) condamne structurellement la position de Soral.
 
-5. **Le gaullisme comme néolibéralisme** — Padu requalifie le gaullisme : pas un âge d'or à regretter, mais une forme de néolibéralisme né avec le [[Congrès Lippmann]] (1938). L'économie mixte gaulliste n'est pas en rupture avec le néolibéralisme — elle en est une variante technocratique qui a conduit mécaniquement à Giscard puis au démantèlement des années 80.
+5. **Le gaullisme comme néolibéralisme** — Padu requalifie le gaullisme : pas un âge d'or à regretter, mais une forme de néolibéralisme né avec le [[Congres Lippmann]] (1938). L'économie mixte gaulliste n'est pas en rupture avec le néolibéralisme — elle en est une variante technocratique qui a conduit mécaniquement à Giscard puis au démantèlement des années 80.
 
 6. **[[Idéalisme fixiste]] de Soral** — Soral idéalise la période gaulliste comme si le passage au néolibéralisme thatchérien était une décision prise par des individus (PCH en 68, CIA...), pas le produit de forces productives et de rapports de classe. C'est de l'idéalisme pré-hégélien, pré-marxiste : expliquer l'histoire par des volontés individuelles, pas par le développement des contradictions matérielles.
 
@@ -38,13 +38,13 @@ Padu et Chris réagissent à un extrait d'un live de 5h38 de Géopolitique Profo
 Pas de chiffres ni sondages — vidéo entièrement théorique et polémique.
 
 ## Individus mentionnés
-[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Francis Cousin]], [[Christopher Lasch]], [[Pierre-Joseph Proudhon]], [[Lucien Goldmann]], [[Georg Lukacs]], [[Serge Mallet]], [[Alain Bihr]], [[Charles de Gaulle]], [[Valery Giscard d'Estaing]], [[Xavier Bertrand]], [[Edouard Philippe]], [[Jean-Luc Mélenchon]], [[Jean-Marie Le Pen]], [[Marine Le Pen]], [[Georgi Dimitrov]], [[Nikolaï Boukharine]], [[Jacques Rueff]], [[Jean-Claude Michéa]]
+[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Francis Cousin]], [[Christopher Lasch]], [[Pierre-Joseph Proudhon]], [[Lucien Goldmann]], [[Georg Lukacs]], [[Serge Mallet]], [[Alain Bihr]], [[Charles de Gaulle]], [[Valery Giscard d'Estaing]], [[Xavier Bertrand]], [[Edouard Philippe]], [[Jean-Luc Melenchon]], [[Jean-Marie Le Pen]], [[Marine Le Pen]], [[Georgi Dimitrov]], [[Nikolai Boukharine]], [[Jacques Rueff]], [[Jean-Claude Michea]]
 
 ## Organisations mentionnées
 [[Positions Revue]], [[Egalite et Reconciliation]], [[Geopolitique Profonde]], [[Parti Communiste Francais]], [[France Insoumise]], [[Les Republicains]]
 
 ## Concepts mobilisés
-[[Logorrhée]], [[Capitalisme boutiquier]], [[Salariat generalise]], [[Classe contre classe]], [[Congrès Lippmann]], [[Neoliberalisme]], [[Petite bourgeoisie]], [[Travailleur collectif]], [[Pensee idealiste vs materialiste]], [[Graphique]]
+[[Logorrhee]], [[Capitalisme boutiquier]], [[Salariat generalise]], [[Classe contre classe]], [[Congres Lippmann]], [[Neoliberalisme]], [[Petite bourgeoisie]], [[Travailleur collectif]], [[Pensee idealiste vs materialiste]], [[Graphique]]
 
 ## Enjeux avancés
 [[Graphique]] — Padu défend le Graphique contre l'accusation de fixisme de Soral : c'est exactement l'inverse, le Graphique repart des données empiriques contemporaines pour montrer que les classes fondamentales existent toujours.

@@ -22,5 +22,5 @@ Pour la PaduTeam, c'est le cœur du plan de refroidissement : Glucksmann + Holla
 Ministre de l'Intérieur de [[Francois Hollande]] (2014-2016). Pour la PaduTeam, Cazeneuve a permis à la police de "tirer sur les gens en toute impunité" en développant et légitimant les nouvelles techniques de maintien de l'ordre (nassage, blocage des manifestants pour "leur savater la gueule"). Ces méthodes ont été héritées et amplifiées par [[Emmanuel Macron]].
 
 ## Vidéos où Cazeneuve est mentionné
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité dans le bilan Hollande pour son rôle dans la répression des manifestations et la permissivité accordée à la police
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité dans le bilan Hollande pour son rôle dans la répression des manifestations et la permissivité accordée à la police
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Cité comme PM de transition envisagé par l'aile droite PS (Baumel) pour remplacer Bayrou et désamorcer le mouvement du 10 septembre.

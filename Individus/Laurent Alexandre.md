@@ -30,4 +30,4 @@ Sur Mélenchon 2027 : sort la thèse complotiste que "les mosquées donnent les 
 - Connaît [[Positions Revue]] (Chris) — l'a suivi sur Twitter en 2019-2020
 
 ## Vidéos où Laurent Alexandre est analysé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

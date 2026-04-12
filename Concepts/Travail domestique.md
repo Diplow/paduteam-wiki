@@ -21,7 +21,7 @@ Le travail domestique est socialement considéré comme "pas un vrai travail" ("
 Zoé : les femmes bourgeoises délèguent le travail domestique aux femmes prolétaires. Cette délégation est une forme de reproduction des rapports de classe : les femmes riches accèdent au marché du travail "libérées" du domestique, au prix de l'exploitation ou de la subalternisation de femmes plus pauvres.
 
 ### Internationalisation impérialiste
-[[Sara Farris]] montre dans *Au nom des femmes* que cette division de classe s'est mondialisée : les femmes du centre impérialiste délèguent le travail domestique aux femmes de la périphérie (notamment d'Afrique, d'Asie du Sud). C'est le [[Fémonationalisme]] comme économie politique du care à l'échelle mondiale.
+[[Sara Farris]] montre dans *Au nom des femmes* que cette division de classe s'est mondialisée : les femmes du centre impérialiste délèguent le travail domestique aux femmes de la périphérie (notamment d'Afrique, d'Asie du Sud). C'est le [[Femonationalisme]] comme économie politique du care à l'échelle mondiale.
 
 ### La "nourrice" comme archive historique
 Le terme "nourrice" vient du fait que des femmes prolétaires allaitaient les enfants des bourgeoises — parfois au détriment de leurs propres nourrissons, qui mouraient de malnutrition. Les chambres de bonne parisiennes (petits appartements sous les toits) sont l'héritage physique de cette domesticité bourgeoise : loger les domestiques suffisamment loin pour ne pas les voir, suffisamment près pour les avoir corvéables à merci.
@@ -36,4 +36,4 @@ La PaduTeam refuse la solution individuelle (chaque bourgeois doit "faire un eff
 - Les bébés secoués : conséquence de la solitude post-partum, faute de collectivisation du soin
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale, avec Chris et Zoé
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale, avec Chris et Zoé

@@ -27,4 +27,4 @@ L'esprit du capitalisme produit le "monde à l'envers" de Marx : l'activité hum
 - Laurent Alexandre : le prototype de l'esprit du capitalisme appliqué à l'éducation — l'éducation n'est qu'un investissement dans le "capital humain" exploitable.
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]] — Boltanski invoqué explicitement ; illustration par les startuppers de l'éducation
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Boltanski invoqué explicitement ; illustration par les startuppers de l'éducation

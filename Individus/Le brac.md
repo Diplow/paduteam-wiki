@@ -18,4 +18,4 @@ YouTubeur qui a eu accès à la conversation complète entre [[Kroc Blanc]] et [
 - [[Zoclo]] — a fait cette déclaration sur son stream
 
 ## Vidéos où Le brac est mentionné
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

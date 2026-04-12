@@ -22,4 +22,4 @@ La technique de la lettre publique de Quatennens est analysée comme le même m�
 - Membre de [[France Insoumise]]
 
 ## Vidéos où Adrien Quatennens est analysé
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

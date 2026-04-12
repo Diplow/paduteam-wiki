@@ -20,5 +20,5 @@ Classé d'extrême droite sans hésitation par la PaduTeam (notant que Wikipedia
 VA+ (la chaîne YouTube/streaming) est analysée comme représentant la "tendance ridiculiste du fascisme" — des bourgeois qui se piquent de défendre les ouvriers sans jamais avoir mis les pieds dans le monde du travail. Chris : "le combat ouvrier, si tu leur demandes 3 moments, ils saignent du nez."
 
 ## Vidéos où Valeurs Actuelles est mentionné
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]]
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
 - [[FROM TROTSKISTE TO RACISTE]] — VA+ comme lieu de témoignage de Luc, "tendance ridiculiste du fascisme"

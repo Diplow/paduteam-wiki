@@ -40,5 +40,5 @@ Padu dit "j'aime pas trop Badiou" — il lui reconnaît la formule mais ne parta
 - [[Graphique]] — le pétainisme transcendantal s'active différemment selon le quadrant social : en haut à droite bourgeois, la crise produit un Sarkozy ; plus large, elle produit un de Gaulle ou un Macron
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — formule initiale sur la 5e République et Macron
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — application à Louis Sarkozy, "pétainisme de basse intensité" ; explication du concept kantien
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — formule initiale sur la 5e République et Macron
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — application à Louis Sarkozy, "pétainisme de basse intensité" ; explication du concept kantien

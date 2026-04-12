@@ -28,20 +28,20 @@ Défend la ligne de rupture comme seule voie crédible pour la gauche. Soutien c
 
 **Sur la CGT** : identifie la tension entre les grosses fédérations (bastions syndicaux) et les unions locales/départementales. C'est l'interprofessionnel qui peut étendre la syndicalisation. Mentionne un entretien avec [[Denis Gravouille]] (bureau confédéral CGT, ex-Fédération des spectacles) sur ce sujet.
 
-**Sur le décrochage gauche/classes populaires** : depuis 1980, la gauche est perçue comme "corps étranger" dans les catégories qui ont été son berceau historique. Ce décrochage ne se corrige ni par des ajustements discursifs, ni par la respectabilité médiatique. [[Fabien Roussel]] et [[François Ruffin]] ne récupèrent pas l'électorat RN en étant moins clivants — ils perdent les mêmes pourcentages que les autres.
+**Sur le décrochage gauche/classes populaires** : depuis 1980, la gauche est perçue comme "corps étranger" dans les catégories qui ont été son berceau historique. Ce décrochage ne se corrige ni par des ajustements discursifs, ni par la respectabilité médiatique. [[Fabien Roussel]] et [[Francois Ruffin]] ne récupèrent pas l'électorat RN en étant moins clivants — ils perdent les mêmes pourcentages que les autres.
 
 **Sur le rapport Terra Nova** : critique la ligne du mainstream de la science politique selon laquelle les classes populaires sont "résiduelles" et que tout se joue dans les classes moyennes diplômées, mondialisées, européistes. Le succès du RN démontre l'inverse : on peut construire un bloc majoritaire ancré dans les classes populaires.
 
-**Références théoriques mobilisées** : Marx et Engels (programme du Parti ouvrier français), [[Lénine]] (la politique révolutionnaire consiste à relier toutes les formes d'oppression), [[Antonio Gramsci]] (hégémonie, bataille culturelle), [[Dimitrov]] (front unique ouvrier vs Front populaire), [[Daniel Bensaïd]] (articulation des temporalités politiques).
+**Références théoriques mobilisées** : Marx et Engels (programme du Parti ouvrier français), [[Lenine]] (la politique révolutionnaire consiste à relier toutes les formes d'oppression), [[Antonio Gramsci]] (hégémonie, bataille culturelle), [[Dimitrov]] (front unique ouvrier vs Front populaire), [[Daniel Bensaid]] (articulation des temporalités politiques).
 
 ## Relations
 - Invité de [[La Breche]]
 - Collaborateur de [[Contretemps]]
-- Camarade de [[Daniel Bensaïd]] (décédé, qualifié de "camarade ami qui me manque beaucoup")
+- Camarade de [[Daniel Bensaid]] (décédé, qualifié de "camarade ami qui me manque beaucoup")
 - Connaît [[Yanis Varoufakis]] (candidature commune sur listes gauche radicale 2023)
 - Connaît "Paul Elec" (camarade mentionné dans la discussion)
 - Milite à Paris-20e dans la France Insoumise
 
 ## Vidéos où Stathis Kouvelakis est mentionné
-- [[PADUSTREAM C'EST DÉJÀ FINI]] — mentionné comme invité notable de La Brèche 2024
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — invité principal, analyse de la stratégie de la gauche entre les deux tours des législatives 2024
+- [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme invité notable de La Brèche 2024
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — invité principal, analyse de la stratégie de la gauche entre les deux tours des législatives 2024

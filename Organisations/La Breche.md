@@ -34,8 +34,8 @@ Les trois fondateurs gardent leurs emplois salariés (principe militant : un mil
 - Épisode 4 : législatives 2024 (entre-deux-tours), avec [[Stathis Kouvelakis]]
 
 ## Vidéos clés
-- [[PADUSTREAM C'EST DÉJÀ FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
+- [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

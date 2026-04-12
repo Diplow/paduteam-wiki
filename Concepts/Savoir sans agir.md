@@ -35,4 +35,4 @@ Dans les trois cas : un "appareil de puissance" substitue à la puissance réell
 "Apprendre en marchant" — matérialisme dialectique : on ne sait pas tout mais on fait. Les trotskistes qui ont appelé à fraterniser avec la Wehrmacht "avaient raison" selon leur liturgie — mais c'est le PCF et la CGT qui ont abattu le nazisme et construit la Sécurité sociale.
 
 ## Vidéos où le concept est développé
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]

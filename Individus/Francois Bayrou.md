@@ -38,4 +38,4 @@ L'original MoDem vs sa copie macroniste : la différence entre Bayrou et Macron,
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Référence historique au Graphique 2012
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Perd Pau face au PS+gauche. Illustration du centre qui s'effondre vers le PS.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Sa chute imminente (vote de confiance le 8) utilisée par Glucksmann pour justifier l'inutilité du 10 septembre. Analyse PaduTeam : Bayrou n'est qu'un fusible, le problème c'est le système. Pronostic du Graphique : 0,5% de chances.
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Bayrou comme Medvedevron de Macron : analyse de la stratégie de successeur fantoche, historique MoDem/UDF, sa relation de "père" (fondateur du centre) à Macron (accomplisseur)
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Bayrou comme Medvedevron de Macron : analyse de la stratégie de successeur fantoche, historique MoDem/UDF, sa relation de "père" (fondateur du centre) à Macron (accomplisseur)

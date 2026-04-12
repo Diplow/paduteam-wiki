@@ -25,4 +25,4 @@ Cette combinaison a permis à Sarkozy de siphonner une partie de l'électorat d'
 - [[Patrick Buisson]] — aile complémentaire dans la stratégie 2007
 
 ## Vidéos où Guaino est analysé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

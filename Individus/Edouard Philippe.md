@@ -41,6 +41,6 @@ Chris identifie Philippe comme "le post-macronisme de droite" (vs [[Gabriel Atta
 ## Vidéos
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de l'impossibilité d'alliance avec Retailleau
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Incarne la droite orléaniste historique à 16%, en haut à droite du Graphique (espace Action française/Sarkozy 2012), bien plus crédible qu'Attal (10-11%) comme candidat centriste
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Fera ~10-15%, récupère les débris macronistes + LR modérés. Métaphore Charlemagne : Macron mort, ses "fils dégénérés" héritent de petits royaumes, Philippe est l'un d'eux. Récupérera [[Xavier Bertrand]] après sa défaite à la primaire LR
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Fera ~10-15%, récupère les débris macronistes + LR modérés. Métaphore Charlemagne : Macron mort, ses "fils dégénérés" héritent de petits royaumes, Philippe est l'un d'eux. Récupérera [[Xavier Bertrand]] après sa défaite à la primaire LR
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Cité comme bénéficiaire de la bonne santé de la droite aux municipales. Mais la PaduTeam rappelle qu'il sera probablement pas au second tour de la présidentielle.
-- [[VIKTOROVITCH MÉLENCHON NE SERA PAS AU 2ÈME TOUR]] — Identifié comme "post-macronisme de droite" vs Attal "post-macronisme de gauche" ; seul des deux avec un espace électoral réel ; la conclusion implicite de Viktorovitch est de voter pour lui
+- [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Identifié comme "post-macronisme de droite" vs Attal "post-macronisme de gauche" ; seul des deux avec un espace électoral réel ; la conclusion implicite de Viktorovitch est de voter pour lui

@@ -13,7 +13,7 @@ statut: développé
 # MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!
 
 ## Résumé
-Padu et Chris décryptent une intervention de [[Marine Tondelier]] sur France Inter où elle promeut l'union de la gauche. Elle y est disséquée comme la "noisette locale et fair trade" — coincée entre [[France Insoumise]] et [[Parti Socialiste]], incapable de tenir un discours de rupture. La vidéo développe longuement le concept d'[[Ecologie punitive]] (ZFE, organisation logistique capitaliste, ruralité) et déconstruit sa [[Psychologisation des désaccords politiques]] comme stratégie de dépolitisation.
+Padu et Chris décryptent une intervention de [[Marine Tondelier]] sur France Inter où elle promeut l'union de la gauche. Elle y est disséquée comme la "noisette locale et fair trade" — coincée entre [[France Insoumise]] et [[Parti Socialiste]], incapable de tenir un discours de rupture. La vidéo développe longuement le concept d'[[Ecologie punitive]] (ZFE, organisation logistique capitaliste, ruralité) et déconstruit sa [[Psychologisation des desaccords politiques]] comme stratégie de dépolitisation.
 
 ## Thèses et analyses clés
 
@@ -23,7 +23,7 @@ Padu et Chris décryptent une intervention de [[Marine Tondelier]] sur France In
 
 3. **Logistique capitaliste du territoire** : Chris développe comment la voiture n'est pas un "choix individuel" mais une nécessité produite par le capitalisme (grandes surfaces centralisées depuis les années 50-60, désertification néolibérale depuis les années 80). "La voiture c'est pas simplement le moyen de se déplacer, c'est la taille utile." Les Gilets Jaunes sont partis exactement de là — et une partie de la gauche a eu tort de les rejeter.
 
-4. **[[Psychologisation des désaccords politiques]]** : Tondelier réduit les oppositions entre Mélenchon et Glucksmann à des histoires d'ego — "placez vos égos en dessous de l'intérêt général." Padu : insupportable, ça gomme que derrière les personnes il y a des lignes (Gaza, ZFE, crédits de guerre). Tondelier est plus dépolitisante que [[Raphaël Glucksmann|Glucksmann]] lui-même.
+4. **[[Psychologisation des desaccords politiques]]** : Tondelier réduit les oppositions entre Mélenchon et Glucksmann à des histoires d'ego — "placez vos égos en dessous de l'intérêt général." Padu : insupportable, ça gomme que derrière les personnes il y a des lignes (Gaza, ZFE, crédits de guerre). Tondelier est plus dépolitisante que [[Raphael Glucksmann|Glucksmann]] lui-même.
 
 5. **[[La politique n'est pas de l'arithmetique|La politique ≠ arithmétique]]** : L'union ne s'obtient pas en additionnant les pourcentages. Une candidature commune perd une frange — ceux qui ne peuvent pas voter Glucksmann ne peuvent pas, ceux qui ne peuvent pas voter Mélenchon ne peuvent pas. Deux candidats permettent un débat de premier tour sur des thèmes de gauche.
 
@@ -40,13 +40,13 @@ Padu et Chris décryptent une intervention de [[Marine Tondelier]] sur France In
 | Sort d'EELV | Seul(e), campagne de témoignage pour maintenir l'appareil |
 
 ## Individus mentionnés
-[[Marine Tondelier]], [[Raphaël Glucksmann]], [[Jean-Luc Mélenchon]], [[Francois Hollande]], [[Lionel Jospin]], [[Anasse Kazib]], [[Olivier Faure]], [[Nicolas Mayer-Rossignol]], [[Alexis Corbière]], [[Raquel Garrido]], [[Clémentine Autain]]
+[[Marine Tondelier]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon]], [[Francois Hollande]], [[Lionel Jospin]], [[Anasse Kazib]], [[Olivier Faure]], [[Nicolas Mayer-Rossignol]], [[Alexis Corbière]], [[Raquel Garrido]], [[Clémentine Autain]]
 
 ## Organisations mentionnées
 [[Europe Ecologie Les Verts]], [[France Insoumise]], [[Parti Socialiste]], [[France Inter]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Noisettes]], [[Ecologie punitive]], [[Graphique]], [[La politique n'est pas de l'arithmetique]], [[Psychologisation des désaccords politiques]]
+[[Noisettes]], [[Ecologie punitive]], [[Graphique]], [[La politique n'est pas de l'arithmetique]], [[Psychologisation des desaccords politiques]]
 
 ## Enjeux avancés
 [[Union populaire]] — contre la logique d'union arithmétique de Tondelier, démontre que deux candidats à gauche valent mieux qu'une candidature commune

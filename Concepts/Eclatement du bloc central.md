@@ -31,4 +31,4 @@ Chris pose les termes : [[Gabriel Attal]] est le "post-macronisme de gauche", [[
 - [[Hollande vs Melenchon 2e tour]] — Démonstration par le Graphique du parallèle 2002/2027 : l'explosion à droite comme miroir de l'explosion à gauche en 2002
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Retailleau incarne le bloc bourgeois déporté à droite, la fin du macronisme redistribue les cartes
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Les sondages Cluster 17 montrent Ensemble passant de 18% à 12-14% selon les hypothèses, avec des électeurs du bloc central migrant vers la gauche social-libérale et vers LR
-- [[VIKTOROVITCH MÉLENCHON NE SERA PAS AU 2ÈME TOUR]] — Explicitation du "post-macronisme double" : Attal (gauche) vs Philippe (droite), chacun avec son appareil, aucune raison de s'unir. Plus [[David Lisnard]] sur une ligne copéiste qui fragmente encore davantage
+- [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Explicitation du "post-macronisme double" : Attal (gauche) vs Philippe (droite), chacun avec son appareil, aucune raison de s'unir. Plus [[David Lisnard]] sur une ligne copéiste qui fragmente encore davantage

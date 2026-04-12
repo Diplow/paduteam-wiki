@@ -28,4 +28,4 @@ Chris avance une hypothèse institutionnelle : le financement public des partis 
 - Stabiliser et pérenniser les militants (les 20-30 militants actifs changent à chaque campagne)
 
 ## Vidéos où le concept est développé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Formulation et développement du concept par Chris dans la digression sur la reconstruction militante.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Formulation et développement du concept par Chris dans la digression sur la reconstruction militante.

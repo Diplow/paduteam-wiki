@@ -44,10 +44,10 @@ Compilation de plusieurs segments : analyse du concept de "Karen" appliqué à T
 [[Europe Ecologie Les Verts]], [[Parti Socialiste]], [[Parti Communiste Francais]], [[France Insoumise]], [[Place Publique]], [[NFP]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Noisettes]], [[Primaire des noisettes]], [[Condescendance de classe]], [[Écologie punitive]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Moisation]], [[Pacte raciste]]
+[[Graphique]], [[Noisettes]], [[Primaire des noisettes]], [[Condescendance de classe]], [[Écologie punitive]], [[Plus jamais PS]], [[Moisation]], [[Pacte raciste]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — campagne présentée explicitement avec kit de collage et appel au recrutement
+[[Plus jamais PS]] — campagne présentée explicitement avec kit de collage et appel au recrutement
 [[Graphique]] — annoncé comme outil d'explication de la vidéo Tondelier, vidéo dédiée à suivre
 [[Union populaire]] — Boris Vallaud comme arbitre discret de la gauche, "élu de la prophétie" toujours d'actualité
 

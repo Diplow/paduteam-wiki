@@ -38,4 +38,4 @@ L'image est toujours reçue dans un contexte. Ce que le producteur voulait dire 
 - Compte des noisettes (enluminures médiévales)
 
 ## Vidéos où le concept est développé
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]

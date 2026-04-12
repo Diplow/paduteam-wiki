@@ -44,7 +44,7 @@ Padu et Chris passent en revue la liste des candidats déclarés à la présiden
 [[Jean-Luc Melenchon]], [[Fabien Roussel]], [[Raphael Glucksmann]], [[Gabriel Attal]], [[Dominique de Villepin]], [[Eric Zemmour]], [[Sandrine Rousseau]], [[Francois Hollande]], [[Jordan Bardella]], [[Bruno Retailleau]], [[Aurore Berge]], [[Alexis Corbiere]], [[Lucy Castets]], [[Raquel Garrido]]
 
 ## Organisations mentionnées
-[[Union Populaire Republicaine]], [[Debout la France]], [[Les Republicains]], [[Horizon]], [[L'Après]], [[France Insoumise]], [[Rassemblement National]]
+[[Union Populaire Republicaine]], [[Debout la France]], [[Les Republicains]], [[Horizon]], [[L'Apres]], [[France Insoumise]], [[Rassemblement National]]
 
 ## Concepts mobilisés
 - [[Graphique]] — outil central de toutes les prédictions de la capsule
@@ -59,4 +59,4 @@ Padu et Chris passent en revue la liste des candidats déclarés à la présiden
 - [[Union populaire]] — Mélenchon confirmé comme seul débouché viable, accède au 2e tour et gagne
 
 ## Transcript
-[[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]]
+[[THE MOST RIDICULOUS CANDIDATES FOR 2027]]

@@ -30,5 +30,5 @@ Padu dans [[MUNICIPALES CE QU'IL FAUT RETENIR]] : "C'est horrible le NFP tel qu'
 - [[Faut-il en finir avec le NFP]] — Démonstration complète par le Graphique que le NFP éloigne la gauche des classes populaires
 - [[Faure oblige de trahir]] — La trahison de Faure comme preuve de l'instabilité structurelle du NFP, et sa rupture comme condition de la victoire de la gauche
 - [[Debunk Graphique Bad Mulch]]
-- [[Graphiked/Graphiked/videos/BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
+- [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Municipales = preuve empirique que le NFP fait perdre les deux camps. "C'est horrible le NFP tel qu'il est."

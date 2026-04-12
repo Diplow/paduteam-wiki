@@ -19,4 +19,4 @@ Sous Staline, Pavlov est instrumentalisé dans le sens d'une psychologie behavio
 Les mécanismes de conditionnement découverts par Pavlov sont réels — mais intégrables dans une théorie dialectique plus riche. Ce n'est pas parce qu'il y a des réflexes conditionnés que tout est réductible à des réflexes conditionnés.
 
 ## Vidéos où Pavlov est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

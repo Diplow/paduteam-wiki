@@ -22,4 +22,4 @@ La [[France Insoumise]] publie une affiche le représentant avec des codes visue
 - [[BFM TV]] / [[CNews]] — milieu médiatique Boloré
 
 ## Vidéos où Hanouna est analysé
-- [[AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]] — Objet de l'affiche antisémite involontaire de LFI, affaire exploitée par Roussel et les médias Boloré
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Objet de l'affiche antisémite involontaire de LFI, affaire exploitée par Roussel et les médias Boloré

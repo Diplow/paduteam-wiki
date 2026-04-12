@@ -17,4 +17,4 @@ Tête de liste LR aux élections européennes 2024. Positionné dans le [[Graphi
 Aux européennes 2024, son barycentre est dans l'espace de la droite classique — en bataille électorale avec [[Marion Marechal]] sur un électorat similaire. [[Leon Deffontaines]] est décrit comme un "franc-tireur" dans cet espace, essayant de vendre du progressisme à des classes tendanciellement réactionnaires.
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Positionné sur le Graphique des européennes 2024
+- [[GRAPHOMARXISME x Positions Revue]] — Positionné sur le Graphique des européennes 2024

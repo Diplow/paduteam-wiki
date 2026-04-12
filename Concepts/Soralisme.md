@@ -21,11 +21,11 @@ Idéologie et mécanisme de recrutement incarné par [[0. Developpement personne
 4. Il valide la virilité de ses lecteurs comme une vertu, contrairement à la gauche intersectionnelle qui la remet en question.
 
 ## Lien avec la période confuse pré-moïsation
-Le soralisme prolifère dans la période 2002-2017 ([[Moisation]]), quand les blocs politiques ne sont pas encore consolidés et que les hommes des classes populaires cherchent un sens à leur déclassement. C'est le chemin alternatif : ceux qui auraient dû aller vers [[Jean-Luc Mélenchon]] vont vers Soral.
+Le soralisme prolifère dans la période 2002-2017 ([[Moisation]]), quand les blocs politiques ne sont pas encore consolidés et que les hommes des classes populaires cherchent un sens à leur déclassement. C'est le chemin alternatif : ceux qui auraient dû aller vers [[Jean-Luc Melenchon]] vont vers Soral.
 
 [[Chris]] (dans [[FROM TROTSKISTE TO RACISTE]]) : "l'un va pas sans l'autre, l'un se nourrit avec l'autre et vice versa" — le soralisme et la période confuse se co-construisent. C'est pour ça que "depuis 40 ans on n'a pas changé de gouvernement."
 
-## Dimension intellectuelle : la [[Logorrhée]]
+## Dimension intellectuelle : la [[Logorrhee]]
 La vidéo FURAX ajoute une dimension à l'analyse du soralisme : au-delà du mécanisme de recrutement par la séduction/virilité, Soral opère aussi comme **faux intellectuel marxiste**. Il cite des auteurs qu'il n'a pas lus (notamment [[Michel Clouscard]]) pour donner une apparence de profondeur théorique. C'est la logoré : l'accumulation de références sans maîtrise du contenu. L'économie politique de Soral (économie mixte gaulliste = programme des Républicains) révèle que sous le vernis marxiste il n'y a que du conservatisme petit-bourgeois.
 
 ## Le [[Capitalisme boutiquier]] de Soral

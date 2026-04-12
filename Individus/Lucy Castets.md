@@ -26,4 +26,4 @@ Tweete comme [[Aurore Bergé]] pour accuser Mélenchon d'antisémitisme. Padu : 
 - [[Marine Tondelier]] — tweete comme elle et comme Bergé
 
 ## Vidéos où Castets est analysée
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]

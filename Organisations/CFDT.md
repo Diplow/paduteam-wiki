@@ -16,10 +16,10 @@ Haut-gauche réformiste — syndicat de cadres et d'employés du secteur tertiai
 ## Dynamique
 Pour la PaduTeam, la CFDT incarne le syndicalisme réformiste qui dilue la combativité ouvrière. Le "syndicalisme réuni" (fusion CFDT + CGT) est l'équivalent syndical de l'union des gauches politiques : "Dans les stratégies d'alliance, c'est toujours les plus droitiers qui gagnent." La fusion absorberait la radicalité CGT dans la modération CFDT.
 
-[[Laurent Berger]] (ancien secrétaire général) a été proposé comme Premier ministre par [[Raphaël Glucksmann]] — geste révélateur de leur vision commune du "dialogue serein dans la société."
+[[Laurent Berger]] (ancien secrétaire général) a été proposé comme Premier ministre par [[Raphael Glucksmann]] — geste révélateur de leur vision commune du "dialogue serein dans la société."
 
 ## Figures clés
 - [[Laurent Berger]] — ancien secrétaire général
 
 ## Vidéos où la CFDT est mentionnée
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analogie syndicale : syndicats réunis (CFDT + CGT) = même logique désastreuse que l'union politique ; Glucksmann proposait Berger comme PM
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analogie syndicale : syndicats réunis (CFDT + CGT) = même logique désastreuse que l'union politique ; Glucksmann proposait Berger comme PM

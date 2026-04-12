@@ -17,8 +17,8 @@ Mentionnée dans la dynamique de l'internationale nationale-autoritaire qui tent
 
 ## Relations
 - [[Matteo Salvini]] — prédécesseur/concurrent dans l'espace de l'extrême droite italienne
-- [[Viktor Orbán]] — même espace international national-autoritaire
+- [[Viktor Orban]] — même espace international national-autoritaire
 - [[Marine Le Pen]] — similitudes de trajectoire
 
 ## Vidéos où Meloni est mentionnée
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

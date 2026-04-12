@@ -35,5 +35,5 @@ Face à l'affiche LFI représentant [[Cyril Hanouna]] avec des codes visuels ant
 Contraste avec [[Fabien Roussel]] qui exploite l'affaire sur BFM en comparant Mélenchon à Trump sans jamais apporter cette nuance.
 
 ## Vidéos où Bompard est analysé
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
-- [[AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel

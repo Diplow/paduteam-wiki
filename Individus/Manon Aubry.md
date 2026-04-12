@@ -15,11 +15,11 @@ Co-présidente du groupe La Gauche au Parlement européen, tête de liste LFI au
 ## Stratégie et trajectoire
 Campagne européenne 2024 : bonne campagne, mobilisation notable notamment sur la Palestine et dans les quartiers populaires. [[Stathis Kouvelakis]] juge le résultat "meilleur qu'attendu" en partie grâce à cet effet mobilisateur.
 
-Représente une sensibilité interne à LFI plus europhile, en décalage avec la ligne de désobéissance/rupture vis-à-vis des traités européens défendue par [[Jean-Luc Mélenchon]] et la majorité du mouvement.
+Représente une sensibilité interne à LFI plus europhile, en décalage avec la ligne de désobéissance/rupture vis-à-vis des traités européens défendue par [[Jean-Luc Melenchon]] et la majorité du mouvement.
 
 ## Relations
 - Tête de liste LFI aux européennes 2024
 - Membre de [[France Insoumise]]
 
 ## Vidéos où Manon Aubry est mentionnée
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — mentionnée par Stathis comme représentante d'une ligne moins de rupture vis-à-vis de l'UE au sein de LFI
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — mentionnée par Stathis comme représentante d'une ligne moins de rupture vis-à-vis de l'UE au sein de LFI

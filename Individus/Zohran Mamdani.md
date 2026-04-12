@@ -20,7 +20,7 @@ La PaduTeam cite Mamdani pour souligner la stratégie d'appropriation du PS fran
 
 ## Relations
 - DSA (Democratic Socialists of America)
-- Comparé implicitement à [[Jean-Luc Mélenchon]] comme équivalent américain potentiel
+- Comparé implicitement à [[Jean-Luc Melenchon]] comme équivalent américain potentiel
 
 ## Vidéos où Mamdani est analysé
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Cité pour illustrer la [[Moisation]] américaine partielle et la stratégie d'appropriation du PS
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Cité pour illustrer la [[Moisation]] américaine partielle et la stratégie d'appropriation du PS

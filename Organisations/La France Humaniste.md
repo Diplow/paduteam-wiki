@@ -23,4 +23,4 @@ Mouvement politique fondé par [[Dominique de Villepin]] en 2026, en vue de la p
 **Espace politique : 3-4%** — Selon le [[Graphique]], La France Humaniste se positionne dans un espace déjà saturé (haut-droite, "questions de civilisation") avec des concurrents bien établis. Pronostic PaduTeam : "tu vas finir à décorer des salades pour bobo."
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]

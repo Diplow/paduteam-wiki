@@ -18,5 +18,5 @@ Magazine people-politique emblématique. Pour la PaduTeam, Paris Match produit u
 Le reportage sur [[Francois Hollande]] à Tulle en est l'exemple type : filmer un ex-président "comme si on n'était pas là" dans une maison avec vue sur les pauvres, un petit déjeuner de palace et un chien au nom grec. "C'est ce qu'il ne faut pas faire pour Paris Match" — mais Hollande le fait quand même.
 
 ## Vidéos où Paris Match est analysé
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — reportage sur Hollande à Tulle commenté en direct par Padu et Chris
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — reportage sur Hollande à Tulle commenté en direct par Padu et Chris
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — [[Alain Duhamel]] dans Paris Match qualifie Hollande de "politique le plus doué de France"

@@ -10,7 +10,7 @@ statut: ébauche
 # Georges Politzer
 
 ## Profil synthétique
-Philosophe marxiste français d'origine hongroise (1903-1942), assassiné par les nazis en 1942. Considéré par [[Lucien Seve|Lucien Sève]] comme le plus grand penseur de la psychologie marxiste française du début du 20e siècle. [[Lénine]] et Politzer sont les premières lectures de Sève avant Marx. Fondateur du projet de "psychologie concrète" — une psychologie matérialiste qui s'oppose à l'abstraction des psychologies spiritualistes de l'époque.
+Philosophe marxiste français d'origine hongroise (1903-1942), assassiné par les nazis en 1942. Considéré par [[Lucien Seve|Lucien Sève]] comme le plus grand penseur de la psychologie marxiste française du début du 20e siècle. [[Lenine]] et Politzer sont les premières lectures de Sève avant Marx. Fondateur du projet de "psychologie concrète" — une psychologie matérialiste qui s'oppose à l'abstraction des psychologies spiritualistes de l'époque.
 
 ## Œuvres principales
 - *Critique des fondements de la psychologie* (1928) — texte fondateur, introduit la psychanalyse en France tout en la critiquant
@@ -33,4 +33,4 @@ Sève dit : "Politzer aurait pu vivre jusqu'aux années 70-80 s'il n'avait pas �
 - [[Lev Vygotski]] — parallèle soviétique
 
 ## Vidéos où Politzer est analysé
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

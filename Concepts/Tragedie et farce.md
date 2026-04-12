@@ -34,4 +34,4 @@ La différence n'est pas simplement qu'une solution a "mal marché" puis est rej
 La PaduTeam utilise ce concept en lien avec l'[[Analyse concrete de la situation concrete|analyse concrète de la situation concrète]] : les solutions du passé ne se réactivent pas mécaniquement. Il faut définir précisément dans quel problème on est coincé avant d'aller chercher une solution historique analogue. Et comprendre *pourquoi* elle n'a pas fonctionné à l'époque.
 
 ## Vidéos où le concept est développé
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — Application principale ; Nicolas Sarkozy comme tragédie, son fils comme farce ; développement du concept tragédie/comédie au sens théâtral (Racine vs Molière)
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Application principale ; Nicolas Sarkozy comme tragédie, son fils comme farce ; développement du concept tragédie/comédie au sens théâtral (Racine vs Molière)

@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Homme politique français, ancien Commissaire européen. A pris publiquement position pour voter FI contre le RN — exemple de [[Moisation]].
 
 ## Rôle dans l'analyse PaduTeam
-Avec [[Michel-Édouard Leclerc]], il illustre la moïsation : des figures du centre/droite qui sont forcées de prendre position pour Mélenchon parce que la polarisation ne laisse plus d'espace centriste. La situation pousse tout le monde à trancher.
+Avec [[Michel-Edouard Leclerc]], il illustre la moïsation : des figures du centre/droite qui sont forcées de prendre position pour Mélenchon parce que la polarisation ne laisse plus d'espace centriste. La situation pousse tout le monde à trancher.
 
 ## Vidéos où Breton est mentionné
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]

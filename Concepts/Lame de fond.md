@@ -20,11 +20,11 @@ La lame de fond explique pourquoi les sondages sous-estiment structurellement M�
 La lame de fond se construit par la [[Moisation]] : à mesure que la situation force tout le monde à trancher, de plus en plus de gens de divers horizons rejoignent silencieusement le bloc FI.
 
 ## Stratégie associée
-La FI doit s'appuyer sur la lame de fond et ne pas se "rabouir" (réduire son ambition) face aux provocations. La stratégie est d'être "la force tranquille" — garder la tête froide, ne pas tomber dans les pièges de l'extrême droite ([[Collectif Némésis|Némésis]]), laisser la lame de fond gonfler.
+La FI doit s'appuyer sur la lame de fond et ne pas se "rabouir" (réduire son ambition) face aux provocations. La stratégie est d'être "la force tranquille" — garder la tête froide, ne pas tomber dans les pièges de l'extrême droite ([[Collectif Nemesis|Némésis]]), laisser la lame de fond gonfler.
 
 ## Exemples
 - [[Jean-Luc Melenchon]] fait 14,5% dans les sondages mais 17-18% en réalité (selon la prophétie du 2002 inversé)
-- [[Michel-Édouard Leclerc]] et [[Thierry Breton]] qui prennent position pour Mélenchon — surfacent d'un courant plus profond
+- [[Michel-Edouard Leclerc]] et [[Thierry Breton]] qui prennent position pour Mélenchon — surfacent d'un courant plus profond
 
 ## Vidéos où le concept est développé
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]

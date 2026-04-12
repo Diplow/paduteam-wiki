@@ -22,4 +22,4 @@ Cité par Padu comme exemple du nouveau type de candidature LFI : des militants 
 - [[Raquel Garrido]] — opposée dans la même circonscription (dissidente LFI)
 
 ## Vidéos où Aly Diouara est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — cité par Padu comme exemple de profil militant ancré dans les luttes territoriales du 93
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — cité par Padu comme exemple de profil militant ancré dans les luttes territoriales du 93

@@ -14,4 +14,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Camarade de la PaduTeam / La Brèche. Propose la stratégie du "cordon sanitaire autour d'[[Aurore Bergé]]" plutôt qu'autour de LFI.
 
 ## Vidéos où Vanier est cité
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]

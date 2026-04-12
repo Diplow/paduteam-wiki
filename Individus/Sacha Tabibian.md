@@ -13,7 +13,7 @@ aliases: [Tabibian]
 Figure du courant rouge-brun ou souverainiste de gauche. Résiste encore à la [[Moisation]] mais de manière de plus en plus marginale.
 
 ## Analyse PaduTeam
-Cité comme l'un des derniers survivants de la [[Periode de confusion|période de confusion]] rouge-brune. Contrairement à [[Loïc Chenu]] qui "n'existe plus", Tabibian "résiste malgré tout" mais se retrouve réduit à des apparitions sur des plateaux TV-Liberté ou équivalents. Padu : "entre deux bouteilles." Figure en voie de disparition avec la [[Moisation]] qui force chacun à choisir son camp.
+Cité comme l'un des derniers survivants de la [[Periode de confusion|période de confusion]] rouge-brune. Contrairement à [[Loic Chenu]] qui "n'existe plus", Tabibian "résiste malgré tout" mais se retrouve réduit à des apparitions sur des plateaux TV-Liberté ou équivalents. Padu : "entre deux bouteilles." Figure en voie de disparition avec la [[Moisation]] qui force chacun à choisir son camp.
 
 ## Note
 Prénom "Sacha" non confirmé par le transcript. Nom transcrit "Tabibian".

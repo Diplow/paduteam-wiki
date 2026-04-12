@@ -30,4 +30,4 @@ Continuateur de [[Hugo Chavez]]. A entretenu des relations avec les [[FARC]], le
 - [[Hugo Carvajal]] — ancien chef des renseignements, l'a trahi pour soutenir [[Juan Guaido]]
 
 ## Vidéos où Maduro est analysé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

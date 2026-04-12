@@ -13,4 +13,4 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Maître de conférence en civilisation latino-américaine à l'université de Rouen. Cité par le Huffington Post dans son article sur le procès Maduro. Confirme que le rôle du Venezuela dans le trafic de cocaïne est mineur et que l'acte d'accusation est "plus politique que juridique."
 
 ## Vidéos où Posado est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

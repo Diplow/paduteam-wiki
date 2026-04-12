@@ -10,7 +10,7 @@ statut: ébauche
 # Hugo Mazouz
 
 ## Profil synthétique
-Militant de gauche de 22 ans, non encarté à [[France Insoumise]] (il a essayé de prendre sa carte mais LFI ne délivre pas de cartes d'adhérent). Confronte [[Raphaël Glucksmann]] en direct sur le plateau de [[LCI]] lors d'une longue interview, posant des questions précises sur la Géorgie, le capitalisme et l'identité de gauche. La PaduTeam le salue comme "camarade" et dit qu'il "a géré de fou" — il a "gagné ses galons."
+Militant de gauche de 22 ans, non encarté à [[France Insoumise]] (il a essayé de prendre sa carte mais LFI ne délivre pas de cartes d'adhérent). Confronte [[Raphael Glucksmann]] en direct sur le plateau de [[LCI]] lors d'une longue interview, posant des questions précises sur la Géorgie, le capitalisme et l'identité de gauche. La PaduTeam le salue comme "camarade" et dit qu'il "a géré de fou" — il a "gagné ses galons."
 
 ## Stratégie et trajectoire
 Symbole pour la PaduTeam de la capacité de simples militants non professionnels à mettre en difficulté des candidats médiatiques supposément préparés. Le fait que Glucksmann, "candidat de la CIA" coaché avec des éléments de langage, ne tienne pas face à lui en direct confirme le diagnostic du Graphique sur l'inconsistance de Glucksmann.
@@ -20,7 +20,7 @@ Sur le plateau, il avance une définition en trois critères : conscience des in
 
 ## Relations
 - [[France Insoumise]] — proche de l'écosystème sans carte officielle
-- [[Raphaël Glucksmann]] — l'a mis en difficulté sur LCI
+- [[Raphael Glucksmann]] — l'a mis en difficulté sur LCI
 
 ## Vidéos où Hugo est mentionné
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]

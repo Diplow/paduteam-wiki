@@ -56,4 +56,4 @@ Avant les municipales, Faure tente de positionner le PS comme gouvernement de re
 
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
-- [[Graphiked/Graphiked/videos/FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
+- [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot

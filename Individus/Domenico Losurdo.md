@@ -19,4 +19,4 @@ Losurdo est une référence intellectuelle de premier plan pour la PaduTeam. Son
 - [[Friedrich Nietzsche]] — sujet de son œuvre majeure, analysé comme expression d'une aristocratie allemande apeurée par la montée ouvrière
 
 ## Vidéos où Losurdo est analysé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

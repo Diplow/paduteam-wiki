@@ -56,4 +56,4 @@ React à la révélation que [[Jordan Bardella]] a officiellement rencontré [[N
 [[Union populaire]] — Macron détruit ses héritiers, avançant mécaniquement la prophétie Mélenchon 2027. La reconstitution du bloc droite par Retailleau+Bardella redessine les blocs du second tour.
 
 ## Transcript
-[[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]]
+[[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]]

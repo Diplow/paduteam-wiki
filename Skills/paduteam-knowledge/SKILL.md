@@ -470,7 +470,7 @@ Comment cette position a évolué au fil des vidéos (si applicable).
 
 ### Étape 8 — Vérification des liens orphelins
 
-Après avoir créé toutes les fiches, vérifier que chaque `[[wikilink]]` utilisé dans les fiches pointe vers un fichier existant. Obsidian gère les wikilinks par nom de fichier (sans chemin), donc `[[Jean-Luc Mélenchon]]` pointera vers `Individus/Jean-Luc Mélenchon.md` automatiquement.
+Après avoir créé toutes les fiches, vérifier que chaque `[[wikilink]]` utilisé dans les fiches pointe vers un fichier existant. Obsidian gère les wikilinks par nom de fichier (sans chemin), donc `[[Jean-Luc Melenchon]]` pointera vers `Individus/Jean-Luc Mélenchon.md` automatiquement.
 
 Lister les wikilinks utilisés et vérifier qu'aucun n'est orphelin. Si des liens orphelins restent, créer les fiches manquantes (même minimales).
 
@@ -572,7 +572,7 @@ Présenter un résumé de ce qui a été fait:
 
 ## Règles de wikilinks
 
-- Utiliser `[[Nom Complet]]` pour les individus (ex: `[[Jean-Luc Mélenchon]]`)
+- Utiliser `[[Nom Complet]]` pour les individus (ex: `[[Jean-Luc Melenchon]]`)
 - Utiliser `[[Nom Organisation]]` pour les orgas (ex: `[[France Insoumise]]`)
 - Utiliser `[[Nom du concept]]` pour les concepts (ex: `[[Saint Graphique]]`)
 - Utiliser `[[Nom de l'enjeu]]` pour les enjeux (ex: `[[Plus jamais PS]]`)

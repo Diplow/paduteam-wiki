@@ -26,4 +26,4 @@ Accords de paix avec l'État colombien, mais une partie des FARC fait sécession
 - [[Gustavo Petro]] — gouvernement progressiste actuel en Colombie
 
 ## Vidéos où les FARC sont mentionnées
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

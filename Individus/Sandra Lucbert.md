@@ -16,7 +16,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 
 ## Analyse PaduTeam
 ### Sur "Pulsion" (avec Lordon)
-Dans *Pulsion* et lors d'une conférence à la librairie Mola, Lucbert analyse un mème de Trump (vidéo IA Top Gun avec excrément sur la population) via la "position schizo-paranoïde du nourrisson" de [[Mélanie Klein]]. La PaduTeam lui oppose trois critiques majeures :
+Dans *Pulsion* et lors d'une conférence à la librairie Mola, Lucbert analyse un mème de Trump (vidéo IA Top Gun avec excrément sur la population) via la "position schizo-paranoïde du nourrisson" de [[Melanie Klein]]. La PaduTeam lui oppose trois critiques majeures :
 
 1. **Biais de sélection de l'événement** : elle a sélectionné un mème avec du caca parce que la psychanalyse en parle. La biographie psychique du nourrisson peut expliquer n'importe quoi à partir de n'importe quel événement.
 2. **Mélange des disciplines sans théorie totalisante** : elle juxtapose macroéconomie, politique et psychanalyse de façon arbitraire — quand la psychanalyse est mobilisée "en dernière instance", les autres disciplines ne servent qu'à y amener.
@@ -41,10 +41,10 @@ Non discutée explicitement, mais la PaduTeam la situe clairement dans la bourge
 
 ## Relations
 - [[Frederic Lordon]] — co-auteur de *Pulsion*, partenaire intellectuel
-- [[Mélanie Klein]] — référence psychanalytique mobilisée
+- [[Melanie Klein]] — référence psychanalytique mobilisée
 - [[Louis Althusser]] — filiation intellectuelle involontaire selon la PaduTeam
 - [[Zawashow]] — lieu de l'interview déclenchant cette vidéo
 
 ## Vidéos où Sandra Lucbert est analysée
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]

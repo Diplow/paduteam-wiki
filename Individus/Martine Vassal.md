@@ -21,7 +21,7 @@ Sa présence au 2e tour comme candidate de droite a contribué à mobiliser des 
 ## Relations
 - [[Les Republicains]] — appartenance
 - [[Benoît Payan]] — adversaire victorieux
-- [[Sébastien De Logu]] — candidat LFI qui aurait pu diviser l'électorat de gauche
+- [[Sebastien De Logu]] — candidat LFI qui aurait pu diviser l'électorat de gauche
 
 ## Vidéos où Vassal est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Sa présence comme condition de la mobilisation anti-droite

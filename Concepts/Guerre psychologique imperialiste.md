@@ -27,4 +27,4 @@ Stratégie de la [[CIA]] et des services impérialistes visant à fracturer les 
 Les accusations de trahison contre [[Delcy Rodriguez]], les narratifs "elle a viré untel donc elle trahit" — quand on prend des informations dans un sens, on peut prendre des informations inverses. On ne saura rien tant qu'il n'y aura pas de déclassification de documents CIA.
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

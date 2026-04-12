@@ -22,4 +22,4 @@ S'est appuyé sur une relation privilégiée avec les FARC contre l'État d'extr
 - [[FARC]] — alliés révolutionnaires en Colombie
 
 ## Vidéos où Chavez est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

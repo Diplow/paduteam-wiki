@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # GLUCKSMANN, MACRON GARRIDO QUI VEUT TUER LA FI
 
 ## Résumé
-Suite à la mort de [[Quentin de Rang]], militant [[Collectif Némésis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphaël Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]].
+Suite à la mort de [[Quentin de Rang]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]].
 
 ## Thèses et analyses clés
 
@@ -25,9 +25,9 @@ Suite à la mort de [[Quentin de Rang]], militant [[Collectif Némésis|Némési
 
 3. **Diabolisation + radicalité** : La FI doit répondre à la diabolisation non pas en se modérant mais en radicalisant son programme. Si tu es diabolisé mais que tu as le même programme que des candidats non diabolisés, les gens ne voient aucune raison de voter pour toi. Il faut que la diabolisation soit justifiée par un vrai programme de rupture (nationalisations, redistribution radicale).
 
-4. **Force tranquille et [[Lame de fond]]** : La FI doit rester "la force tranquille" — ne pas tomber dans les provocations physiques de l'extrême droite ([[Collectif Némésis|Némésis]]), garder la tête froide, s'appuyer sur la lame de fond silencieuse de gens qui portent la FI.
+4. **Force tranquille et [[Lame de fond]]** : La FI doit rester "la force tranquille" — ne pas tomber dans les provocations physiques de l'extrême droite ([[Collectif Nemesis|Némésis]]), garder la tête froide, s'appuyer sur la lame de fond silencieuse de gens qui portent la FI.
 
-5. **[[Moisation]] en action** : [[Michel-Édouard Leclerc]] et [[Thierry Breton]] commencent à défendre Mélenchon publiquement — la moïsation pousse tout le monde à trancher. Il n'y a plus de solution centriste possible.
+5. **[[Moisation]] en action** : [[Michel-Edouard Leclerc]] et [[Thierry Breton]] commencent à défendre Mélenchon publiquement — la moïsation pousse tout le monde à trancher. Il n'y a plus de solution centriste possible.
 
 6. **Bourgeoisie et irrationalisme** : La bourgeoisie en crise plonge dans le suprémacisme et l'antihumanisme — alliance Trump-Netanyahou comme manifestation. Ceux qui croyaient que la bourgeoisie préserverait un "vernis progressiste" se trompent : elle l'a abandonné.
 
@@ -36,10 +36,10 @@ Suite à la mort de [[Quentin de Rang]], militant [[Collectif Némésis|Némési
 8. **[[Raquel Garrido]] = Brutus** : Garrido essaie de tuer la FI "de l'intérieur" en présentant Mélenchon comme le problème de la FI. C'est Brutus et César — quelqu'un que Mélenchon appelait "sa famille". Honte à elle.
 
 ## Individus mentionnés
-[[Emmanuel Macron]], [[Raphaël Glucksmann]], [[Raquel Garrido]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Raphaël Arnaud]], [[Quentin de Rang]], [[Yaël Braun-Pivet]], [[Laurent Nuñez]], [[Aurore Laluc]], [[Michel-Édouard Leclerc]], [[Thierry Breton]], [[Nathalie Arthaud]], [[Marco Rubio]], [[Alexis Corbière]], [[Thomas Sankara]], [[Blaise Compaoré]], [[Sara Farris]], [[Jean-Claude Michéa]], [[Mikheil Saakachvili]], [[Donald Trump]], [[Benjamin Netanyahu]]
+[[Emmanuel Macron]], [[Raphael Glucksmann]], [[Raquel Garrido]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Raphael Arnaud]], [[Quentin de Rang]], [[Yael Braun-Pivet]], [[Laurent Nunez]], [[Aurore Laluc]], [[Michel-Edouard Leclerc]], [[Thierry Breton]], [[Nathalie Arthaud]], [[Marco Rubio]], [[Alexis Corbière]], [[Thomas Sankara]], [[Blaise Compaoré]], [[Sara Farris]], [[Jean-Claude Michea]], [[Mikheil Saakachvili]], [[Donald Trump]], [[Benjamin Netanyahu]]
 
 ## Organisations mentionnées
-[[France Insoumise]], [[Collectif Némésis]], [[La Jeune Garde]], [[Place Publique]], [[Rassemblement National]], [[Action Française]], [[Ligue de Défense Juive]], [[Positions Revue]]
+[[France Insoumise]], [[Collectif Nemesis]], [[La Jeune Garde]], [[Place Publique]], [[Rassemblement National]], [[Action Francaise]], [[Ligue de Defense Juive]], [[Positions Revue]]
 
 ## Concepts mobilisés
 [[Prophetie du 2002 inverse]], [[Moisation]], [[Bloc bourgeois]], [[Lame de fond]], [[Vote cache]], [[Pacte raciste]], [[Graphique]]

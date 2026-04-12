@@ -16,7 +16,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Présidente de la région Occitanie, figure du [[Parti Socialiste]] sur la ligne "droite" (centre-gauche libéral). Organisatrice du Festival de la Noisette de Bram (Aude) en 2026 — rassemblement de la gauche réformiste non-LFI.
 
 ## Position dans le [[Graphique]]
-"La noisette du Sud" selon Chris. Sur la ligne de droite du PS — plus à droite que [[Boris Vallaud]], plus proche de [[François Hollande]] et [[Raphaël Glucksmann]]. Pour la PaduTeam elle se voit en "Boris Vallaud du sud" mais n'en a pas l'envergure.
+"La noisette du Sud" selon Chris. Sur la ligne de droite du PS — plus à droite que [[Boris Vallaud]], plus proche de [[François Hollande]] et [[Raphael Glucksmann]]. Pour la PaduTeam elle se voit en "Boris Vallaud du sud" mais n'en a pas l'envergure.
 
 ## Stratégie 2027
 Construit son récit à la primaire des noisettes en se faisant photographier à côté de tout le monde : Hollande, Glucksmann, Olivier Fort, Boris Vallaud. "À la fin elle dira 'Ah tu vois on était ensemble'" — stratégie de positionnement post-hoc. Candidate probable à la [[Primaire des noisettes]].
@@ -31,4 +31,4 @@ Analyse PaduTeam : Carole Delga a augmenté de 10 députés le score RN en 2022 
 
 ## Vidéos où Delga est analysée
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Organisatrice du Festival de la Noisette de Bram, analyse de sa stratégie 2027
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de sa stratégie photo-op (se faire photographier avec tout le monde pour construire un récit post-hoc de candidate), historique de son aile-droite du PS, responsabilité dans l'élection de 10 députés RN
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de sa stratégie photo-op (se faire photographier avec tout le monde pour construire un récit post-hoc de candidate), historique de son aile-droite du PS, responsabilité dans l'élection de 10 députés RN

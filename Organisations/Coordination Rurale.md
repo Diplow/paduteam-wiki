@@ -15,7 +15,7 @@ Syndicat agricole français, deuxième force syndicale du secteur, considéré c
 
 La Coordination Rurale incarne la petite bourgeoisie agricole exploiteuse. Elle a connu une percée électorale aux chambres d'agriculture (arrivée en tête dans 14 départements). Ses militants ont mené des actions coup de poing lors des mobilisations agricoles de 2024 (incendie de mairies, etc.) sans répression médiatique, là où les Gilets Jaunes faisaient l'objet d'un traitement de "terroristes".
 
-Le syndicat illustre la contradiction apparente — mais en réalité cohérente — de l'extrême droite : stigmatiser les immigrés marocains et algériens en politique tout en les exploitant dans des conditions d'esclavage dans leurs exploitations. Ce n'est pas une hypocrisie mais la logique même du [[Racisme comme fonctionnalité du capitalisme|racisme fonctionnel]] : la déshumanisation permet l'exploitation extrême.
+Le syndicat illustre la contradiction apparente — mais en réalité cohérente — de l'extrême droite : stigmatiser les immigrés marocains et algériens en politique tout en les exploitant dans des conditions d'esclavage dans leurs exploitations. Ce n'est pas une hypocrisie mais la logique même du [[Racisme comme fonctionnalite du capitalisme|racisme fonctionnel]] : la déshumanisation permet l'exploitation extrême.
 
 ## Faits documentés
 

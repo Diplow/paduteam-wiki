@@ -20,4 +20,4 @@ Chris met en garde : malgré son titre, *Black Marxism* "n'est pas un livre de m
 - [[Charles Mills]] — dans le même champ de la pensée noire mais avec une approche différente
 
 ## Vidéos où Robinson est mentionné
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Mise en garde sur *Black Marxism*
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Mise en garde sur *Black Marxism*

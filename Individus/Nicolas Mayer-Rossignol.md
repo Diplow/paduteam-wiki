@@ -33,6 +33,6 @@ Dans le contexte de la primaire à gauche, deux lignes PS s'affrontent :
 La PaduTeam : la ligne Rossignol a "plus d'intérêt" pour le PS que la ligne Fort, mais les deux conduisent à droite.
 
 ## Vidéos où NMR est analysé
-- [[KARIM BOUAMRANE (PS) ON VA DÉFONCER ÉRIC COQUEREL ET LA FI]] — Bouamrane le soutient ; congrès PS prévu le 15 juin ; NMR à ~40% face à Faure (~40%) et Vallaud (~15-20%)
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Bouamrane le soutient ; congrès PS prévu le 15 juin ; NMR à ~40% face à Faure (~40%) et Vallaud (~15-20%)
 - [[RETAILLEAU MET FIN au WAUQUISME]] — mentionné dans le contexte du congrès PS
-- [[Graphiked/Graphiked/videos/GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Sa ligne Rossignol (aligner le PS sur Glucksmann) analysée vs ligne Fort (candidature PS propre) ; PaduTeam : la ligne Rossignol est plus viable mais les deux droitisent le PS
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Sa ligne Rossignol (aligner le PS sur Glucksmann) analysée vs ligne Fort (candidature PS propre) ; PaduTeam : la ligne Rossignol est plus viable mais les deux droitisent le PS

@@ -30,4 +30,4 @@ Yassouk est avec ses enfants ; sa nanie ne peut pas voir les siens (restés en O
 Non discutée explicitement, mais Yassouk incarne la bourgeoisie non-exploiteuse : elle n'accumule pas de capital via sa nanie (pas de plusvalue), elle dépense son accumulation pour se libérer du travail domestique. Elle est dans la partie haute du Graphique (haute domination, accumulatrice de capital).
 
 ## Vidéos où Yassouk est analysée
-- [[Graphiked/Graphiked/videos/CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale de son cas
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale de son cas

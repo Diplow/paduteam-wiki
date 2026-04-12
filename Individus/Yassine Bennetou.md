@@ -22,4 +22,4 @@ Son parcours est cité comme exemple du "pire risque" pour les jeunes communiste
 - [[France Insoumise]] — finit sur leurs listes
 
 ## Vidéos où Bennetou est mentionné
-- [[LORDON MÉLENCHON peut GAGNER en 2027]] — Cité comme exemple de la trajectoire d'absorption des jeunes communistes dans la FI
+- [[LORDON MELENCHON peut GAGNER en 2027]] — Cité comme exemple de la trajectoire d'absorption des jeunes communistes dans la FI

@@ -21,4 +21,4 @@ Son travail est mobilisé pour montrer que ce qui paraît "naturel" et "permanen
 - [[Positions Revue]] — entretien publié sur la chaîne
 
 ## Vidéos où Montmacon Michel est mentionnée
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

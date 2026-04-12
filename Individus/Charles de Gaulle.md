@@ -10,7 +10,7 @@ aliases: [de Gaulle, de Goll, De Gaulle]
 # Charles de Gaulle
 
 ## Profil synthétique
-Fondateur de la [[5e République]] (1958), figure tutélaire du gaullisme. Pour la PaduTeam, de Gaulle est indissociable d'une légitimité historique exceptionnelle — la Résistance, la décolonisation — qui rend le gaullisme non-reproductible. Revenu au pouvoir sur un coup d'état lors de la guerre d'Algérie.
+Fondateur de la [[5e Republique]] (1958), figure tutélaire du gaullisme. Pour la PaduTeam, de Gaulle est indissociable d'une légitimité historique exceptionnelle — la Résistance, la décolonisation — qui rend le gaullisme non-reproductible. Revenu au pouvoir sur un coup d'état lors de la guerre d'Algérie.
 
 ## Dans l'analyse PaduTeam
 
@@ -25,12 +25,12 @@ Fondateur de la [[5e République]] (1958), figure tutélaire du gaullisme. Pour 
 - Mitterrand avait attaqué la 5e République dans *Le Coup d'État permanent*, puis l'avait acceptée : "Ce costume n'a pas été taillé pour moi mais il me va très bien."
 
 ## Le gaullisme comme néolibéralisme (Padu)
-Dans [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], Padu développe une thèse cruciale contre [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] qui idéalise le gaullisme : le gaullisme n'est pas une alternative au néolibéralisme, c'en est une **forme**. L'économie dirigiste gaulliste (planification quinquennale, ENA, grands projets, nationalisation des secteurs stratégiques) est du néolibéralisme technocratique au sens du [[Congrès Lippmann]] — l'État fabrique et oriente le marché plutôt que de s'y soustraire.
+Dans [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], Padu développe une thèse cruciale contre [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] qui idéalise le gaullisme : le gaullisme n'est pas une alternative au néolibéralisme, c'en est une **forme**. L'économie dirigiste gaulliste (planification quinquennale, ENA, grands projets, nationalisation des secteurs stratégiques) est du néolibéralisme technocratique au sens du [[Congres Lippmann]] — l'État fabrique et oriente le marché plutôt que de s'y soustraire.
 
 Preuves : des économistes libéraux comme [[Jacques Rueff]] étaient au cœur du dispositif gaulliste (réforme Pinay-Rueff). De Gaulle crée l'ENA pour confier l'appareil productif à la technocratie "stato-capitaliste" (hauts fonctionnaires + hauts cadres ingénieurs). C'est précisément ce mouvement — confier la production à la technocratie plutôt qu'à la lutte ouvrière — qui prépare le terrain du néolibéralisme ultérieur.
 
 Padu : "l'après-de Gaulle et 68 est un PCH contre de Gaulle, parce que les forces en présence économique étaient antigaulliennes. Ce n'est pas faux et archi-faux — ce que de Gaulle a fait ne pouvait déboucher que sur ce qu'a fait Giscard dans les années 70."
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Le gaullisme comme forme de néolibéralisme ; critique du gaullisme idéalisé de Soral

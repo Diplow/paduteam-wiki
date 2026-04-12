@@ -28,4 +28,4 @@ Depuis 2001, les USA et les pays impérialistes interviennent, bombardent, tuent
 Trump accuse Maduro de narcoterrorisme mais dit avoir "de très bonnes relations" avec [[Delcy Rodriguez]], qui était ministre de la défense du même gouvernement. Juridiquement indéfendable de dire que le ministre de l'intérieur savait mais pas la collègue de la défense.
 
 ## Vidéos où le concept est développé
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

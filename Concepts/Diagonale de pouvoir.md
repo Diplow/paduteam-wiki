@@ -28,5 +28,5 @@ En 2017, [[Emmanuel Macron|Macron]] et [[Marine Le Pen]] étaient parfaitement s
 
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]] — Explication détaillée de la diagonale et des classes au-dessus/en dessous
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Démonstration visuelle du rapport à la diagonale élection par élection (2017, 2022, 2024) et de sa signification politique
+- [[GRAPHOMARXISME x Positions Revue]] — Démonstration visuelle du rapport à la diagonale élection par élection (2017, 2022, 2024) et de sa signification politique
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Explication pédagogique la plus détaillée de la diagonale : pourquoi elle stabilise la société, pourquoi les classes qui en sortent deviennent révolutionnaires (haut-gauche) ou réactionnaires (bas-droite), et comment la [[Socialisation des moyens de production]] ramène les classes éparpillées vers la diagonale

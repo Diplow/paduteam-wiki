@@ -21,4 +21,4 @@ Plateforme de mise en relation entre professeurs particuliers et élèves — le
 - [[Wilfried Granier]] — fondateur, conserve 100% du capital
 
 ## Vidéos où SuperProf est analysée
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

@@ -16,7 +16,7 @@ Jacques Rueff est cité par Padu pour illustrer la thèse que le gaullisme n'est
 
 ## Relations
 - [[Charles de Gaulle]] — son employeur politique
-- [[Congrès Lippmann]] — même courant de pensée (néolibéralisme européen)
+- [[Congres Lippmann]] — même courant de pensée (néolibéralisme européen)
 
 ## Vidéos où Rueff est cité
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Pour montrer que le gaullisme était déjà néolibéral

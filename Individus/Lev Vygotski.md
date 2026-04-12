@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 Psychologue soviétique (1896-1934). Théoricien du développement cognitif de l'enfant dans un cadre marxiste. Référence positive de Padu pour une psychologie concrète, matérialiste et au service de problèmes réels.
 
 ## Mobilisation par la PaduTeam
-Cité par Padu comme contre-exemple à la psychanalyse de [[Mélanie Klein]]. Là où Klein se pose des questions abstraites sur la psyché du nourrisson bourgeois, Vygotski se posait des problèmes concrets : "150 000 gamins orphelins après la guerre civile en Russie, comment les amener à lire, à écrire et à devenir des travailleurs ?"
+Cité par Padu comme contre-exemple à la psychanalyse de [[Melanie Klein]]. Là où Klein se pose des questions abstraites sur la psyché du nourrisson bourgeois, Vygotski se posait des problèmes concrets : "150 000 gamins orphelins après la guerre civile en Russie, comment les amener à lire, à écrire et à devenir des travailleurs ?"
 
 Vygotski incarne le type de psychologie que la PaduTeam valorise : résolution de problèmes concrets des classes populaires, enracinement dans la pratique matérielle, opposition à l'individualisme méthodologique freudien.
 
@@ -29,11 +29,11 @@ Vygotski dit : "La conscience est une société intérieure." Les dernières pag
 Lucien Sève et Françoise Sève (sa femme) accompagnent la publication et la traduction de Vygotski en France à partir des années 70.
 
 ## Relations
-- [[Mélanie Klein]] — approche opposée
+- [[Melanie Klein]] — approche opposée
 - [[Lucien Seve]] — héritier philosophique, traducteur en France
 - [[Henri Wallon]] — convergences sur le développement social de l'enfant
 - [[Georges Politzer]] — parallèle français de la psychologie marxiste
 
 ## Vidéos où Vygotski est mentionné
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

@@ -23,4 +23,4 @@ Le boys club fonctionne par :
 La [[Zawashow|ZawaProd]] est analysée par la PaduTeam comme un boys club : des insultes transphobes, intersexophobes et grossophobes étaient échangées sur un Discord privé, des membres défendaient publiquement [[Dany Caligula]] en sachant les faits qui lui étaient reprochés, et les employés avaient des intérêts économiques à protéger leur patron-employeur.
 
 ## Vidéos où le concept est développé
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

@@ -28,5 +28,5 @@ Zoé mobilise Mills pour répondre à l'affirmation qu'Israël est "une démocra
 Mills s'est directement inspiré du [[Contrat sexuel]] de [[Carole Pateman]], qui théorise l'impensé du genre dans le contrat social. Mills en a fait le pendant racial.
 
 ## Vidéos où le concept est développé
-- [[AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Zoé l'explique en réponse à Bergé défendant "les valeurs d'Israël"
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris recommande *Le Contrat racial* comme "le livre de philosophie politique sur la race le plus important et le plus matérialiste"
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Zoé l'explique en réponse à Bergé défendant "les valeurs d'Israël"
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris recommande *Le Contrat racial* comme "le livre de philosophie politique sur la race le plus important et le plus matérialiste"

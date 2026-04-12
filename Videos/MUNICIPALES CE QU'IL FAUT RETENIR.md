@@ -15,7 +15,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # MUNICIPALES CE QU'IL FAUT RETENIR !
 
 ## Résumé
-Bilan des élections municipales 2026 (deuxième tour). Padu et Chris analysent les résultats ville par ville et concluent que la [[Prophetie du 2002 inverse|prophétie]] se confirme en tous points : le PS revient par le centre, LFI s'installe quand il est seul, le RN stagne, les Verts s'effondrent, le centre macroniste se dissout dans le PS. La campagne [[Graphiked/Graphiked/enjeux/Plus jamais PS]] est déclarée "la campagne la plus réussie des municipales".
+Bilan des élections municipales 2026 (deuxième tour). Padu et Chris analysent les résultats ville par ville et concluent que la [[Prophetie du 2002 inverse|prophétie]] se confirme en tous points : le PS revient par le centre, LFI s'installe quand il est seul, le RN stagne, les Verts s'effondrent, le centre macroniste se dissout dans le PS. La campagne [[Plus jamais PS]] est déclarée "la campagne la plus réussie des municipales".
 
 Note : Lionel Jospin décède en direct pendant l'enregistrement — annoncé en "breaking news" par Padu.
 
@@ -58,16 +58,16 @@ Note : Lionel Jospin décède en direct pendant l'enregistrement — annoncé en
 | La Réunion | LFI gagne Saint-Paul, Le Tampon, Courneuve | Belle implantation dans les DROM |
 
 ## Individus mentionnés
-[[Marine Tondelier]], [[Francois Hollande]], [[Raphael Glucksmann]], [[Edouard Philippe]], [[Jordan Bardella]], [[Catherine Trautmann]], [[Jeanne Barseghian]], [[Léonore Moncond'huy]], [[Johanna Rolland]], [[Sophia Chikirou]], [[Emmanuel Gregoire]], [[Rachida Dati]], [[Benoît Payan]], [[Martine Vassal]], [[Sébastien De Logu]], [[Francois Piquemal]], [[Francois Brillancon]], [[Idir Boumertit]], [[Karim Bouamrane]], [[Olivier Faure]], [[Francois Bayrou]], [[David Rachline]], [[Louis Aliot]], [[Florian Philippot]], [[Felicien Faury]], [[Nathalie Oziol]], [[Laurence Ruffin]], [[Francois Ruffin]], [[Jean-François Copé]], [[Marine Le Pen]], [[Jean-Marie Le Pen]], [[Marion Marechal]], [[Boris Vallaud]], [[Gabriel Attal]], [[William Aucant]], [[Yannick Jadot]]
+[[Marine Tondelier]], [[Francois Hollande]], [[Raphael Glucksmann]], [[Edouard Philippe]], [[Jordan Bardella]], [[Catherine Trautmann]], [[Jeanne Barseghian]], [[Leonore Moncond'huy]], [[Johanna Rolland]], [[Sophia Chikirou]], [[Emmanuel Gregoire]], [[Rachida Dati]], [[Benoît Payan]], [[Martine Vassal]], [[Sebastien De Logu]], [[Francois Piquemal]], [[Francois Brillancon]], [[Idir Boumertit]], [[Karim Bouamrane]], [[Olivier Faure]], [[Francois Bayrou]], [[David Rachline]], [[Louis Aliot]], [[Florian Philippot]], [[Felicien Faury]], [[Nathalie Oziol]], [[Laurence Ruffin]], [[Francois Ruffin]], [[Jean-Francois Cope]], [[Marine Le Pen]], [[Jean-Marie Le Pen]], [[Marion Marechal]], [[Boris Vallaud]], [[Gabriel Attal]], [[William Aucant]], [[Yannick Jadot]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Parti Socialiste]], [[Europe Ecologie Les Verts]], [[Parti Communiste Francais]], [[Rassemblement National]], [[Horizon]], [[En Marche|Renaissance]], [[Les Republicains]], [[NFP]], [[NUPES]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Noisettes]], [[Prophetie du 2002 inverse]], [[Primaire des noisettes]], [[La politique n'est pas de l'arithmetique]], [[Vote utile]], [[Populisme bourgeois]], [[Guerre des gauches]], [[Gauche de rupture]], [[Bloc bourgeois]]
+[[Graphique]], [[Moisation]], [[Plus jamais PS]], [[Noisettes]], [[Prophetie du 2002 inverse]], [[Primaire des noisettes]], [[La politique n'est pas de l'arithmetique]], [[Vote utile]], [[Populisme bourgeois]], [[Guerre des gauches]], [[Gauche de rupture]], [[Bloc bourgeois]]
 
 ## Enjeux avancés
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — Les municipales sont la preuve empirique parfaite : les alliances PS-LFI font perdre la gauche de rupture ET ne font pas gagner le PS. La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des municipales".
+[[Plus jamais PS]] — Les municipales sont la preuve empirique parfaite : les alliances PS-LFI font perdre la gauche de rupture ET ne font pas gagner le PS. La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des municipales".
 [[Union populaire]] — LFI ne gagne que seul. Sa stratégie d'implantation territoriale est validée par les résultats.
 [[Graphique]] — La prophétie se réalise point par point. Les blocs sociaux se comportent exactement comme prévu.
 

@@ -11,7 +11,7 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Raphaël Enthoven
 
 ## Profil synthétique
-Philosophe et éditorialiste français, figure médiatique du libéralisme culturel. Récurrent dans les médias pour défendre la vision "les extrêmes se rejoignent" ([[Theorie du fer à cheval|théorie du fer à cheval]]). Pour la PaduTeam, emblème du commentateur bourgeois qui diabolise LFI et RN en les mettant dans le même sac pour défendre l'hégémonie macroniste.
+Philosophe et éditorialiste français, figure médiatique du libéralisme culturel. Récurrent dans les médias pour défendre la vision "les extrêmes se rejoignent" ([[Theorie du fer a cheval|théorie du fer à cheval]]). Pour la PaduTeam, emblème du commentateur bourgeois qui diabolise LFI et RN en les mettant dans le même sac pour défendre l'hégémonie macroniste.
 
 ## Analyse PaduTeam
 Enthoven incarne le [[Populisme bourgeois|populisme bourgeois]] intellectuel : en répétant "30 000 fois" que LFI = RN (les extrêmes se rejoignent), il remplit une fonction idéologique précise — maintenir la légitimité du macronisme comme "seule alternative raisonnable". La comparaison ne tient pas analytiquement mais elle n'est pas faite pour tenir analytiquement ; elle est faite pour disqualifier les deux opposants au bloc bourgeois.

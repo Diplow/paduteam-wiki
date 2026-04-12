@@ -37,4 +37,4 @@ Dans la digression sur Roussel, Chris introduit une variation : le "giscardocomm
 
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — démontage historique et formule "tout tenant du gaullocommunisme est un chien"
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Introduction du "giscardocommunisme" comme dégradation supplémentaire ; citation de Georges Gastaud sur la déstalinisation.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Introduction du "giscardocommunisme" comme dégradation supplémentaire ; citation de Georges Gastaud sur la déstalinisation.

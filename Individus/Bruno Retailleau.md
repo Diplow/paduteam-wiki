@@ -55,7 +55,7 @@ Scénario si Wauquiez gagne quand même le congrès : s'effondre dans les sondag
 Présent à la soirée des Jeunes Républicains en décembre 2024 pour soutenir l'engagement politique de [[Louis Sarkozy]]. Cité ironiquement par la PaduTeam comme faisant partie de la "fine équipe" qui l'adoube — avec [[David Lisnard]] et [[Florence Portelli]].
 
 ## Loi sur le hijab sportif et sorties scolaires
-Mentionné dans [[FROM TROTSKISTE TO RACISTE]] : Retailleau porte une loi interdisant aux femmes musulmanes de couvrir leurs cheveux pendant des compétitions sportives. Dans [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]], Padu cite qu'il veut aussi "interdire aux femmes voilées les sorties scolaires" — empêcher une maman voilée d'accompagner son enfant à la piscine ou en sortie scolaire. Zoé le classe dans la "deuxième matrice de l'islamophobie" (laïcité culturaliste) : imposer une tenue, c'est adopter la même posture que l'État iranien qui impose le voile — c'est l'État qui décide comment les femmes doivent s'habiller.
+Mentionné dans [[FROM TROTSKISTE TO RACISTE]] : Retailleau porte une loi interdisant aux femmes musulmanes de couvrir leurs cheveux pendant des compétitions sportives. Dans [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]], Padu cite qu'il veut aussi "interdire aux femmes voilées les sorties scolaires" — empêcher une maman voilée d'accompagner son enfant à la piscine ou en sortie scolaire. Zoé le classe dans la "deuxième matrice de l'islamophobie" (laïcité culturaliste) : imposer une tenue, c'est adopter la même posture que l'État iranien qui impose le voile — c'est l'État qui décide comment les femmes doivent s'habiller.
 
 ## Scénario post-condamnation Le Pen (mars 2026)
 
@@ -70,13 +70,13 @@ Scénario long terme : si Retailleau arrive au pouvoir avec une ligne libérale-
 Sarkozy reçoit officiellement Bardella — interprété comme une tentative de Retailleau de neutraliser l'influence de Sarkozy en intégrant Bardella dans l'orbite républicaine. Analyse PaduTeam : Retailleau est "emm***é" par cet acte — Sarkozy lui rappelle sa dépendance. Pour constituer le bloc de droite à 30%, Retailleau a besoin de l'adoubement de Sarkozy ET de l'appareil Bardella.
 
 ## Vidéos où Retailleau est analysé
-- [[MORT DE JEAN-MARIE LE PEN - SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de son ascension à LR, parallèle Sarkozy 2005
-- [[Graphiked/Graphiked/videos/THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Dominera la primaire LR, [[Xavier Bertrand]] rejoindra [[Edouard Philippe]] après sa défaite face à Retailleau
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Confirmé comme meilleure configuration pour la prophétie : siphonne Le Pen, laisse passer Mélenchon
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Dominera la primaire LR, [[Xavier Bertrand]] rejoindra [[Edouard Philippe]] après sa défaite face à Retailleau
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Confirmé comme meilleure configuration pour la prophétie : siphonne Le Pen, laisse passer Mélenchon
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — stratégie Chirac 81 approfondie : intérêt à voter Mélenchon pour tuer Le Pen et rester seule droite d'opposition
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — soutient l'engagement politique de Louis Sarkozy
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — soutient l'engagement politique de Louis Sarkozy
 - [[FROM TROTSKISTE TO RACISTE]] — loi interdisant le hijab dans les compétitions sportives, analysée comme islamophobie d'État
-- [[MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]] — Retailleau = "le Glucksmann de droite" : stratégie solitaire de siphonnage au lieu de l'union des droites ; c'est la stratégie "plus maline" selon la PaduTeam
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Le dîner Bardella/Sarkozy comme acte de positionnement dans la reconstitution du bloc Sarkozy 2007 ; Retailleau a besoin de l'adoubement de Sarkozy pour réussir
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Retailleau = "le Glucksmann de droite" : stratégie solitaire de siphonnage au lieu de l'union des droites ; c'est la stratégie "plus maline" selon la PaduTeam
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Le dîner Bardella/Sarkozy comme acte de positionnement dans la reconstitution du bloc Sarkozy 2007 ; Retailleau a besoin de l'adoubement de Sarkozy pour réussir

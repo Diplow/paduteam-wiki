@@ -16,4 +16,4 @@ Militante contre les violences policières, candidate présentée par [[France I
 - [[France Insoumise]] — candidate aux législatives 2024
 
 ## Vidéos où Amal Bentounsi est mentionnée
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — citée par Padu comme exemple de candidat LFI issu des luttes militantes concrètes
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — citée par Padu comme exemple de candidat LFI issu des luttes militantes concrètes

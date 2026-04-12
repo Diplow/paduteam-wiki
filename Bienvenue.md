@@ -49,7 +49,7 @@ Les fiches sont organisées en 5 types dans le dossier `Knowledge/` :
 | Dossier | Contenu | Exemple |
 |---|---|---|
 | `videos/` | Une fiche par vidéo ingérée — résumé, thèses défendues, liens vers les concepts | [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] |
-| `individus/` | Profils de personnalités politiques — position sur le Graphique, trajectoire | [[Jean-Luc Mélenchon]] |
+| `individus/` | Profils de personnalités politiques — position sur le Graphique, trajectoire | [[Jean-Luc Melenchon]] |
 | `organisations/` | Partis, associations, médias — dynamique, figures clés, analyse PaduTeam | [[France Insoumise]] |
 | `concepts/` | Outils analytiques de la PaduTeam — Le Graphique, la Moïsation, la Fascisation... | [[Graphique]] |
 | `enjeux/` | Combats stratégiques récurrents — positions militantes défendues vidéo après vidéo | [[Plus jamais PS]] |

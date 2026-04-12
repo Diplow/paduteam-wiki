@@ -21,4 +21,4 @@ Psychologue et épistémologue suisse (1896-1980). Fondateur de la psychologie g
 - [[Lev Vygotski]] — autre grand adversaire/interlocuteur en psychologie du développement
 
 ## Vidéos où Piaget est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

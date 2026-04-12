@@ -17,4 +17,4 @@ Chaîne YouTube d'extrême droite, connue pour ses contenus masculinistes et ré
 
 ## Vidéos où FD News est analysée
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

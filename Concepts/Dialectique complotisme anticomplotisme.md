@@ -49,5 +49,5 @@ Les Epstein Files mobilisent massivement parce qu'ils correspondent exactement �
 Voir aussi [[Savoir sans agir]] pour la dimension intellcutelle de cette impuissance.
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]] — Parallèle psychanalyse/complotisme, Epstein Files, liturgie trotskiste
+- [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Parallèle psychanalyse/complotisme, Epstein Files, liturgie trotskiste

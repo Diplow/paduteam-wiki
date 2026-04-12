@@ -19,4 +19,4 @@ Figure associée à un "campisme pro-occidental aveugle" dans les conflits post-
 - [[Bernard-Henri Lévy]] — même galaxie intellectuelle
 
 ## Vidéos où Alain Finkielkraut est mentionné
-- [[GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]

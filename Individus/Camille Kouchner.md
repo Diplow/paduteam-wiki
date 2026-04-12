@@ -20,4 +20,4 @@ Zoé cite le livre de Camille Kouchner comme exemple de l'impact concret de la p
 - A dénoncé [[Olivier Duhamel]], son beau-père
 
 ## Vidéos où Camille Kouchner est mentionnée
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

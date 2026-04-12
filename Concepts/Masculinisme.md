@@ -28,4 +28,4 @@ Selon la PaduTeam, le monde contemporain post-années 60 n'est pas post-patriarc
 Un homme a "la carte pour faire de la merde" — c'est-à-dire les structures sociales qui lui permettent, s'il le choisit, d'exercer domination et violence avec peu de conséquences. Ne pas jouer cette carte est donc son travail actif, pas un mérite passif. Les hommes qui "ne maltraitent pas leur femme" n'ont pas de mérite à ça — c'est le minimum normal.
 
 ## Vidéos où le concept est développé
-- [[Graphiked/Graphiked/videos/TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]]
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]

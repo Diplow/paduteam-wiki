@@ -20,4 +20,4 @@ Chris mentionne sa démission imminente du secrétariat général de l'Élysée 
 - Appareil macroniste en cours de désintégration en 2026
 
 ## Vidéos où Kohler est analysé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

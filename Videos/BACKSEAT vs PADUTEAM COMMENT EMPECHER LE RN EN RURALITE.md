@@ -42,11 +42,11 @@ Padu et Chris analysent un extrait de [[Lumir Lapray]] sur le plateau de [[Backs
 [[Rassemblement National]], [[France Insoumise]], [[Backseat]], [[Victoire Populaire]], [[Fakir]], [[Parti Socialiste]], [[La Breche]], [[Positions Revue]]
 
 ## Concepts mobilisés
-[[Pacte raciste]], [[Pacte egalitaire]], [[Choc d'abondance]], [[Conflictualite interne aux classes populaires]], [[Triangulation de la peur]], [[Faches pas fachos]], [[Graphique]], [[Moisation]], [[Graphiked/Graphiked/enjeux/Plus jamais PS]], [[Neoliberalisme]]
+[[Pacte raciste]], [[Pacte egalitaire]], [[Choc d'abondance]], [[Conflictualite interne aux classes populaires]], [[Triangulation de la peur]], [[Faches pas fachos]], [[Graphique]], [[Moisation]], [[Plus jamais PS]], [[Neoliberalisme]]
 
 ## Enjeux avancés
 [[Union populaire]] — Contre le ruffinisme et Victoire Populaire : seul LFI avec un projet de rupture réel peut battre le RN en ruralité. La concorde interdit de proposer mieux.
-[[Graphiked/Graphiked/enjeux/Plus jamais PS]] — "On a mené une campagne plus jamais PS qui va très très loin de l'idée de la Concorde et l'unité nationale." Le PS est cité comme artisan de la pénurie des 40 dernières années.
+[[Plus jamais PS]] — "On a mené une campagne plus jamais PS qui va très très loin de l'idée de la Concorde et l'unité nationale." Le PS est cité comme artisan de la pénurie des 40 dernières années.
 [[Graphique]] — Explicitement mobilisé pour expliquer la surconflictualité : RN et LFI au même endroit = même problème, solutions irréconciliables. La conflictualité est interne aux classes populaires.
 
 ## Transcript

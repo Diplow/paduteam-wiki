@@ -22,8 +22,8 @@ Padu (pédopsychiatre) le cite pour montrer que même au sein de la psychanalyse
 Pour Padu, c'est un pas dans la bonne direction — reconnaître que "la psyché du nourrisson est toujours en relation" s'approche de la perspective marxiste sur la construction sociale de l'individu.
 
 ## Relations
-- [[Mélanie Klein]] — s'éloigne de son individualisme
+- [[Melanie Klein]] — s'éloigne de son individualisme
 - [[Lev Vygotski]] — convergence partielle sur le rôle du collectif dans le développement
 
 ## Vidéos où Golse est mentionné
-- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]]
+- [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]

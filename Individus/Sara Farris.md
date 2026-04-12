@@ -12,10 +12,10 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Sara Farris
 
 ## Profil synthétique
-Sociologue, auteure de *Au nom des femmes* (*In the Name of Women's Rights: The Rise of Femonationalism*). Théorise le concept de [[Fémonationalisme]] — la réappropriation des droits des femmes par les nationalistes pour légitimer un discours raciste/xénophobe.
+Sociologue, auteure de *Au nom des femmes* (*In the Name of Women's Rights: The Rise of Femonationalism*). Théorise le concept de [[Femonationalisme]] — la réappropriation des droits des femmes par les nationalistes pour légitimer un discours raciste/xénophobe.
 
 ## Stratégie et trajectoire
-Son travail est utilisé par la PaduTeam (notamment Zoé) pour analyser des figures comme [[Alice Cordier]] et le [[Collectif Némésis]].
+Son travail est utilisé par la PaduTeam (notamment Zoé) pour analyser des figures comme [[Alice Cordier]] et le [[Collectif Nemesis]].
 
 ## Apport spécifique selon Chris
 Chris insiste sur la dimension **économie politique** de Farris, qui la distingue des critiques purement idéologiques du fémonationalisme. Elle montre comment l'impérialisme et l'immigration permettent de reconfigurer le travail domestique : les femmes "natives" des pays occidentaux s'intègrent au travail salarié, tandis que des femmes "subalternes du sud global" sont importées pour le travail domestique. Ce n'est plus le schéma décrit par les marxistes italiennes des années 70 ([[Silvia Federici]], Fortunati) où les femmes du foyer faisaient le travail domestique — c'est une nouvelle économie politique impérialiste du care.
@@ -27,6 +27,6 @@ Chris la considère comme "la dernière génération des féministes marxistes" 
 - [[Silvia Federici]] — marxiste italienne dont Farris actualise les analyses sur le travail domestique
 
 ## Vidéos où Sara Farris est mentionnée
-- [[1000 CAPSULE - PROCÈS DU MINIATURISTE]]
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris recommande *Au nom des femmes* et détaille l'apport en économie politique
-- [[Graphiked/Graphiked/videos/CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — Chris et Zoé mobilisent Farris pour analyser la nanie ougandaise de Yasuk ; Chris dénonce les "tartufes sur internet qui parlent de Sara Farris sans l'avoir lue" et qui réduisent son œuvre à un problème de droits LGBT, alors qu'elle fait d'abord de l'économie politique
+- [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris recommande *Au nom des femmes* et détaille l'apport en économie politique
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — Chris et Zoé mobilisent Farris pour analyser la nanie ougandaise de Yasuk ; Chris dénonce les "tartufes sur internet qui parlent de Sara Farris sans l'avoir lue" et qui réduisent son œuvre à un problème de droits LGBT, alors qu'elle fait d'abord de l'économie politique

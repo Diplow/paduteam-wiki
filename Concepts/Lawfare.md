@@ -20,7 +20,7 @@ Le lawfare ne requiert pas forcément que la condamnation soit injuste sur le fo
 3. **Condamnation préventive empêchant une candidature** — cas [[Lula]] au Brésil 2018 (opération Lava Jato)
 
 ## Analyse PaduTeam
-Chris et Padu ne défendent pas les actes condamnés (ils reconnaissent que Le Pen et le RN ont bien commis les faits reprochés). Ce qu'ils soulignent : la justice n'est pas neutre. Elle applique différemment ses règles selon les partis, les classes, les personnalités. Une jurisprudence qui autorise l'exécution immédiate de l'inéligibilité sans recours peut demain être retournée contre [[Jean-Luc Mélenchon]] ou contre toute autre opposition radicale.
+Chris et Padu ne défendent pas les actes condamnés (ils reconnaissent que Le Pen et le RN ont bien commis les faits reprochés). Ce qu'ils soulignent : la justice n'est pas neutre. Elle applique différemment ses règles selon les partis, les classes, les personnalités. Une jurisprudence qui autorise l'exécution immédiate de l'inéligibilité sans recours peut demain être retournée contre [[Jean-Luc Melenchon]] ou contre toute autre opposition radicale.
 
 Chris : "On critique nous-même tout le temps la justice sur la façon dont elle s'applique sur les populations les plus marginalisées, les plus dominées. C'est aussi une justice. Bah si elle a pas cette neutralité, elle a aussi pas la neutralité de traiter tous les opposants au régime bourgeois de la même manière."
 
@@ -28,4 +28,4 @@ Chris : "On critique nous-même tout le temps la justice sur la façon dont elle
 Le lawfare n'est pas un complot centralisé : c'est une dynamique structurelle dans laquelle les intérêts du bloc dominant convergent avec les instruments de l'État. La justice punit le RN pour ses faits réels — mais ne poursuivrait pas les partis traditionnels (PS, LR, Ensemble) de la même manière pour des pratiques similaires (ex : emplois fictifs, assistants parlementaires utilisés pour le parti dans tous les partis).
 
 ## Vidéos où le concept est développé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

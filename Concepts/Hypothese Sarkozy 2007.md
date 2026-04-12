@@ -33,10 +33,10 @@ La condamnation de [[Marine Le Pen]] est précisément le scénario qui active e
 
 Si Bardella choisit la trahison (stratégie Chirac 74), le scenario Sarkozy 2007 se réalise : un bloc uni de la droite traditionnelle + extrême droite normalisée, porté par Retailleau, qui capte à la fois le vote populaire de droite des zones rurales, les retraités, et les "gros racistes". Ce bloc peut atteindre 30-35% au premier tour.
 
-Conséquence pour la gauche : le bloc Retailleau laisse de l'espace à une "gauche molle à la [[Raphael Glucksmann]]" plutôt qu'à [[Jean-Luc Mélenchon]], reconfigurant le paysage vers un bipartisme américain (droite dure vs centre-gauche atlantiste) plutôt que vers le clivage "eux/nous" recherché par la PaduTeam.
+Conséquence pour la gauche : le bloc Retailleau laisse de l'espace à une "gauche molle à la [[Raphael Glucksmann]]" plutôt qu'à [[Jean-Luc Melenchon]], reconfigurant le paysage vers un bipartisme américain (droite dure vs centre-gauche atlantiste) plutôt que vers le clivage "eux/nous" recherché par la PaduTeam.
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Analyse fondatrice du rôle de Sarkozy comme initiateur de la stratégie (Buisson 2007) et comme parrain actif de sa réplication par Retailleau/Bardella en 2025 ; dîner officiel Bardella/Sarkozy comme première étape de la reconstitution du bloc
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]] — Version aggravée post-condamnation Le Pen ; Bardella devant le choix trahison/loyauté ; scénario Retailleau-Philippe au 2e tour
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Analyse fondatrice du rôle de Sarkozy comme initiateur de la stratégie (Buisson 2007) et comme parrain actif de sa réplication par Retailleau/Bardella en 2025 ; dîner officiel Bardella/Sarkozy comme première étape de la reconstitution du bloc
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Version aggravée post-condamnation Le Pen ; Bardella devant le choix trahison/loyauté ; scénario Retailleau-Philippe au 2e tour
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Identification du risque que le RN perde des plumes en jouant la droite respectable
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Retailleau comme incarnation de l'hypothèse Sarkozy : donne des gages à l'extrême droite depuis l'intérieur du pouvoir, paraît "nouveau" et crédible vs Wauquiez trop marqué establishment
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Retailleau comme incarnation de l'hypothèse Sarkozy : donne des gages à l'extrême droite depuis l'intérieur du pouvoir, paraît "nouveau" et crédible vs Wauquiez trop marqué establishment

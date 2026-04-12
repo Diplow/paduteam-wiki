@@ -16,4 +16,4 @@ Héritière L'Oréal, longtemps présentée comme la femme la plus riche de Fran
 Citée comme bénéficiaire du [[CICE]] sous [[Francois Hollande]] : l'État français verse des centaines de millions d'euros à des entreprises comme L'Oréal au nom de la compétitivité, prélevant ces sommes sur les cotisations sociales qui financent la santé publique.
 
 ## Vidéos où elle est mentionnée
-- [[Graphiked/Graphiked/videos/HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — citée comme bénéficiaire du CICE hollandien, en parallèle avec [[Bernard Arnault]]
+- [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — citée comme bénéficiaire du CICE hollandien, en parallèle avec [[Bernard Arnault]]

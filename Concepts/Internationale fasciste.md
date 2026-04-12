@@ -16,7 +16,7 @@ Réseau informel de partis et de dirigeants national-autoritaires européens (et
 Les partis qui forment cette internationale ne sont pas idéologiquement identiques (différences sur l'économie, la relation à l'UE, etc.) mais partagent : nationalisme ethnique ou identitaire, hostilité aux institutions libérales européennes, sympathie pro-Poutine dans le conflit Ukraine/Russie, opposition à la "technocratie de Bruxelles". La PaduTeam situe leur émergence dans les années 2020 comme analogue aux années 1920 : une opposition fasciste qui monte pendant la crise d'hégémonie bourgeoise, avant que les bourgeoisies dominantes ne finissent par la choisir ou s'y opposer frontalement.
 
 ## Membres identifiés
-- [[Viktor Orbán]] — Hongrie, figure centrale
+- [[Viktor Orban]] — Hongrie, figure centrale
 - [[Marine Le Pen]] — France, condamnée mars 2026
 - [[Geert Wilders]] — Pays-Bas
 - [[Matteo Salvini]] puis [[Giorgia Meloni]] — Italie (étapes successives)
@@ -30,7 +30,7 @@ L'internationale fasciste entre en conflit avec le "bloc européiste/démocrate"
 La gauche est "coincée" : si elle se range derrière le bloc européiste contre l'internationale fasciste, elle valide un programme antidémocratique et soutient des gens qui ont mis en place des politiques néolibérales destructrices. Si elle reste dans son espace, elle risque d'être isolée dans un champ monopolisé par ce conflit entre bourgeoisies. La solution PaduTeam : maintenir le clivage "eux/nous" (pacte populaire vs pacte raciste) et refuser les "appels à l'union républicaine" qui dissolvent la gauche de rupture.
 
 ## Lien avec le [[Lawfare]]
-Le bloc européiste utilise l'appareil judiciaire et institutionnel pour contrer l'internationale fasciste : condamnation de [[Marine Le Pen]], annulation du premier tour en Roumanie ([[Călin Georgescu]]). Problème : cette jurisprudence peut demain s'appliquer à des opposants de gauche ([[Jean-Luc Mélenchon]]).
+Le bloc européiste utilise l'appareil judiciaire et institutionnel pour contrer l'internationale fasciste : condamnation de [[Marine Le Pen]], annulation du premier tour en Roumanie ([[Călin Georgescu]]). Problème : cette jurisprudence peut demain s'appliquer à des opposants de gauche ([[Jean-Luc Melenchon]]).
 
 ## Vidéos où le concept est développé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

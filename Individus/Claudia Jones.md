@@ -15,4 +15,4 @@ Militante communiste afro-trinidadienne et américaine (1915-1964). Figure du ma
 Citée par Chris comme faisant partie de la tradition du marxisme noir que [[Cedric Robinson]] critique dans *Black Marxism*. Pour la PaduTeam, cette tradition matérialiste d'analyse de la race est la bonne approche, contrairement à la théorie radicale noire antimarxiste.
 
 ## Vidéos où Jones est mentionnée
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — citée parmi les marxistes noirs
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — citée parmi les marxistes noirs

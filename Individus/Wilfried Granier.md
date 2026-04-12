@@ -28,4 +28,4 @@ Chris analyse ce comportement comme l'illustration parfaite de l'[[Esprit du cap
 - Invité aux côtés de [[Laurent Alexandre]], [[Francis Lelon]], [[Od Geno]], [[Neigma Traviglini]], [[Jonathan Gelop]] dans l'émission analysée
 
 ## Vidéos où Wilfried Granier est analysé
-- [[STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]]
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]

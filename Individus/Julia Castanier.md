@@ -16,4 +16,4 @@ Figure de l'entourage de [[Fabien Roussel]] au [[Parti Communiste Francais|PCF]]
 Padu : "Tu te souviens la meuf là Julia Castanier sur le féminisme — mais elle est si pied sous terre au niveau féministe. J'ai jamais vu ça." Symptôme de l'inadéquation de l'appareil Roussel : les intellectuels sérieux du PCF sont relégués dans des magazines militants lus par 1000 personnes, tandis que des profils insuffisamment formés occupent les positions de communication. Le résultat : une ligne féministe "nulle à chier" qui achève d'éloigner la jeunesse militante du PCF.
 
 ## Vidéos où Castanier est analysée
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Citée comme exemple de l'inadéquation de l'entourage Roussel.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Citée comme exemple de l'inadéquation de l'entourage Roussel.

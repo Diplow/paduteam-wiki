@@ -16,4 +16,4 @@ Boxeur américain, champion du monde des poids lourds, figure emblématique de l
 Cité comme preuve que le sport a toujours été un espace de lutte politique progressiste. L'histoire de la guerre froide et "l'importance des athlètes soviétiques et des pays de l'Est" sont des exemples supplémentaires. Le sport comme vecteur de luttes politiques est une réalité historique constante — contre la prétendue "neutralité" défendue par [[Fabien Roussel]] via la Charte olympique.
 
 ## Vidéos où Ali est mentionné
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste.

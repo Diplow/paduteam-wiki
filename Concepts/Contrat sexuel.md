@@ -19,4 +19,4 @@ Comme le [[Contrat racial]] est le soubassement racial non-dit du contrat social
 [[Charles Mills]] s'est directement inspiré de Pateman pour écrire *Le Contrat racial*. Chris note avec ironie que "les hommes piquent toujours leurs idées aux femmes" — Mills a transposé la structure du contrat sexuel (impensé du genre) à la question raciale (impensé de la race).
 
 ## Vidéos où le concept est développé
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — Chris présente le livre comme une lecture essentielle qui a inspiré Mills
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris présente le livre comme une lecture essentielle qui a inspiré Mills

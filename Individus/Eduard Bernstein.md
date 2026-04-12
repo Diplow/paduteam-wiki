@@ -16,12 +16,12 @@ Théoricien socialiste allemand (1850-1932), père du révisionnisme social-dém
 Gauche molle réformiste, pas de rupture.
 
 ## Stratégie et trajectoire
-Figure centrale du débat sur l'[[Intégration du prolétariat]]. Bernstein affirme que le capitalisme peut se réformer et que le prolétariat s'intègre tendantiellement — ce qui rend la révolution inutile. Débat classique Bernstein/Luxembourg/Lénine : Lénine répond que cette intégration est réelle mais qu'elle nécessite précisément une avant-garde pour maintenir la conscience révolutionnaire malgré la tendance à l'intégration.
+Figure centrale du débat sur l'[[Integration du proletariat]]. Bernstein affirme que le capitalisme peut se réformer et que le prolétariat s'intègre tendantiellement — ce qui rend la révolution inutile. Débat classique Bernstein/Luxembourg/Lénine : Lénine répond que cette intégration est réelle mais qu'elle nécessite précisément une avant-garde pour maintenir la conscience révolutionnaire malgré la tendance à l'intégration.
 
 ## Relations
 - [[Rosa Luxemburg]] — adversaire théorique principal
 - [[Karl Kautsky]] — débat sur l'orthodoxie
-- [[Lénine]] — adversaire sur la question de l'avant-garde
+- [[Lenine]] — adversaire sur la question de l'avant-garde
 
 ## Vidéos où Eduard Bernstein est analysé
 - [[Le MARXISME, un TRUC de BLANC]]

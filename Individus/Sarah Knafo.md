@@ -22,4 +22,4 @@ Avant sa relation avec [[Eric Zemmour]], Sarah Knafo était liée à [[Louis Sar
 
 ## Vidéos
 - [[Hollande vs Melenchon 2e tour]]
-- [[LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]] — Relation passée mentionnée
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Relation passée mentionnée

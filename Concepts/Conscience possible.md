@@ -18,7 +18,7 @@ La position d'un sujet collectif dans les rapports de production (ce qu'il produ
 Entre ces deux pôles, il y a des degrés : des fractions du prolétariat qui peuvent comprendre telle réforme mais pas telle rupture, soutenir tel programme mais pas tel autre.
 
 ## Application au [[Graphique]]
-C'est le concept central derrière le [[Graphique]] comme outil stratégique : chaque fraction du prolétariat (cadres, professions intermédiaires, employés, ouvriers) a une conscience possible différente, déterminée par son niveau d'[[Intégration du prolétariat]].
+C'est le concept central derrière le [[Graphique]] comme outil stratégique : chaque fraction du prolétariat (cadres, professions intermédiaires, employés, ouvriers) a une conscience possible différente, déterminée par son niveau d'[[Integration du proletariat]].
 
 La stratégie gagnante consiste à proposer le programme le plus radical possible qui reste *dans* le champ de conscience possible de chaque groupe — ni trop prudent (on laisse de la transformation sur la table), ni trop radical (on les fait fuir).
 

@@ -45,7 +45,7 @@ Chris ajoute : à l'intérieur même du pacte raciste, il n'y a pas de solidarit
 
 ## Vidéos clés
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Confrontation avec [[Lumir Lapray]] ([[Backseat]]) qui sépare racisme et problèmes matériels. La PaduTeam démontre que les deux sont indissociables et que le débunkage du RN ne suffit pas.
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — Approfondissement par Stathis : néolibéralisme racial, anti-étatisme populaire, démantèlement du logement social comme stratégie RN
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Approfondissement par Stathis : néolibéralisme racial, anti-étatisme populaire, démantèlement du logement social comme stratégie RN
 
 ## Pacte raciste populaire vs pacte raciste bourgeois
 Le [[Graphique]] révèle deux expressions de classe distinctes du racisme : le [[Rassemblement National]] (pacte raciste populaire, en bas à gauche — classes peu diplômées en situation de pénurie) et [[Reconquete|Reconquête]] (pacte raciste bourgeois, en haut à droite — catégories aisées, suprémacisme culturel "gratuit"). Les deux se détestent : l'électeur Reconquête trouve le RN "trop social", l'électeur RN ne connaît même pas Zemmour. Ce sont deux logiques fondamentalement différentes : le racisme fonctionnel (gérer la pénurie) vs le fascisme culturel (suprémacisme par conviction)

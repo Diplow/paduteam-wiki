@@ -25,4 +25,4 @@ Pour la PaduTeam, le concernisme est une double traîtrise : il instrumentalise 
 - **Affaire Rima Hassan/Tondelier** : Tondelier qualifie la présence de Rima Hassan de "provocation" — concernisme inversé selon la PaduTeam : une femme blanche bourgeoise qui considère qu'une femme arabe avec un keffieh est ipso facto une provocation.
 
 ## Vidéos où le concept est développé
-- [[KARIM BOUAMRANE (PS) ON VA DÉFONCER ÉRIC COQUEREL ET LA FI]] — Bouamrane utilise le concernisme défensif après ses menaces contre Coquerel ; analyse de la stratégie électorale "Obama" comme concernisme offensif
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Bouamrane utilise le concernisme défensif après ses menaces contre Coquerel ; analyse de la stratégie électorale "Obama" comme concernisme offensif

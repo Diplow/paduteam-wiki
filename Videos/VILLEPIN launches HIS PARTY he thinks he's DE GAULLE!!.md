@@ -19,7 +19,7 @@ statut: ébauche
 
 1. **La prédiction du Graphique validée** — La PaduTeam avait prédit le nom "L'Idée de la France" (référence directe à l'incipit des *Mémoires* de de Gaulle : "Toute ma vie, j'ai eu une certaine idée de la France"). Villepin a choisi "La France Humaniste" — Chris considère que son nom était meilleur, plus fidèle à l'idéologie gaulliste. La prédiction de positionnement (gaulliste, au-dessus des partis) est entièrement confirmée.
 
-2. **Le topos gaulliste = rhétorique de la 5e République** — Villepin reprend le discours gauliste classique : "je ne suis pas dans une démarche personnelle", "je suis au-dessus des partis", "les partis ont leur rôle mais pas le président". Pour la PaduTeam, c'est la mécanique structurelle de la [[5e République]] : une constitution fabriquée pour produire des hommes providentiels. Villepin n'est pas un accident idéologique, il est le produit logique de la 5e République.
+2. **Le topos gaulliste = rhétorique de la 5e République** — Villepin reprend le discours gauliste classique : "je ne suis pas dans une démarche personnelle", "je suis au-dessus des partis", "les partis ont leur rôle mais pas le président". Pour la PaduTeam, c'est la mécanique structurelle de la [[5e Republique]] : une constitution fabriquée pour produire des hommes providentiels. Villepin n'est pas un accident idéologique, il est le produit logique de la 5e République.
 
 3. **Impossible d'être gaulliste sans être de Gaulle** — Le vrai gaullisme suppose une légitimité charismatique exceptionnelle (la guerre, la décolonisation). Villepin "c'est le gars qui a pas passé le CPE" — il n'a pas la stature de l'homme qui revient d'un exil historique. Par comparaison, le guévarisme requiert d'être Guevara, le gaullisme requiert d'être de Gaulle.
 
@@ -58,5 +58,5 @@ statut: ébauche
 ## Concepts mobilisés
 - [[Noisettes]] — Villepin comme noisette classique
 - [[Moisation]] — la moïsation empêche toute tentative "au-dessus de la mêlée" massive
-- [[5e République]] — machine à produire des gaullistes
+- [[5e Republique]] — machine à produire des gaullistes
 - [[Graphique]] — outil de prédiction utilisé pour situer Villepin

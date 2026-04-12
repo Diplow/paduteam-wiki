@@ -23,4 +23,4 @@ Concrètement : [[Geoffroy de Lagasnerie]] qui dit "de quel droit ces autres me 
 - L'anthropologie libérale (l'individu est premier, la société est secondaire)
 
 ## Vidéos où le concept est développé
-- [[LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]]
+- [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]

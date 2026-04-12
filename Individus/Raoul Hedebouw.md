@@ -19,4 +19,4 @@ Le PTB est présenté par la PaduTeam comme le contre-exemple de la [[France Ins
 Là où la FI est un parti à forte personnalité de leader (Mélenchon), le PTB a construit une structure partisane qui survivrait au départ de son visage. C'est le modèle de "condensation" que la PaduTeam appelle de ses vœux pour la gauche française.
 
 ## Vidéos où Hedebouw est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme exemple de ce qu'une structuration militante sérieuse permet d'accomplir.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme exemple de ce qu'une structuration militante sérieuse permet d'accomplir.

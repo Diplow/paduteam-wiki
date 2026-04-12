@@ -22,5 +22,5 @@ Montrent la stratégie post-URSS de "chirurgie sociale et politique": [[Balcanis
 Rôle dans la déstabilisation du Venezuela, l'accusation de narcoterrorisme, et l'enlèvement de [[Nicolas Maduro]]. Utilisation de l'IA militaire dans l'opération.
 
 ## Vidéos où la CIA est mentionnée
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]

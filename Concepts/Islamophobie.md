@@ -48,8 +48,8 @@ Au dernier congrès du [[Parti Communiste Francais|PCF]], les militants de la [[
 
 ## Roussel : "religion et politique hors du sport"
 
-Dans sa sortie CNews, [[Fabien Roussel]] défend l'inscription des principes de la Charte olympique dans la loi pour exclure "religion et politique" du sport. Il compare implicitement le port du voile de [[Myriam Soumaré]] au salut nazi dans les tribunes. Pour la PaduTeam, c'est l'incarnation de la matrice 2 (bourgeoisie progressiste laïcarde) dans sa version la plus vide — Roussel "répète les éléments de langage de CNews" sur le voile sans même savoir que la Charte olympique autorise précisément le port du hijab.
+Dans sa sortie CNews, [[Fabien Roussel]] défend l'inscription des principes de la Charte olympique dans la loi pour exclure "religion et politique" du sport. Il compare implicitement le port du voile de [[Myriam Soumare]] au salut nazi dans les tribunes. Pour la PaduTeam, c'est l'incarnation de la matrice 2 (bourgeoisie progressiste laïcarde) dans sa version la plus vide — Roussel "répète les éléments de langage de CNews" sur le voile sans même savoir que la Charte olympique autorise précisément le port du hijab.
 
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.

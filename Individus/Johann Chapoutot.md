@@ -17,4 +17,4 @@ Historien français spécialiste du nazisme, professeur à la Sorbonne. Auteur d
 La PaduTeam cite Chapoutot sur la montée du fascisme : "ils n'ont pas pris le pouvoir, le centre le leur a donné." Cette analyse — que le fascisme triomphe dans la décrépitude du centre qui ne peut plus gouverner — correspond exactement au cadre analytique PaduTeam sur la [[Fascisation par echec de la gauche reformiste|fascisation]]. Le centre ne peut plus, les masses ne veulent plus — d'où la bifurcation socialisme ou barbarie. Voir [[Socialisme ou barbarie]].
 
 ## Vidéos où Chapoutot est cité
-- [[Graphiked/Graphiked/videos/GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Cité pour la thèse "le centre leur a donné le pouvoir" pour expliquer pourquoi l'antifascisme de cassoulet ne suffit pas
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Cité pour la thèse "le centre leur a donné le pouvoir" pour expliquer pourquoi l'antifascisme de cassoulet ne suffit pas

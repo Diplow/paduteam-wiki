@@ -20,4 +20,4 @@ Mentionné factuellement parmi les condamnés dans l'affaire qui vise le systèm
 - [[Marine Le Pen]] — condamné dans la même affaire
 
 ## Vidéos où Gollnisch est mentionné
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

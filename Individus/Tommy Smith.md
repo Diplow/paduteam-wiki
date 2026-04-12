@@ -16,4 +16,4 @@ Athlète américain, champion olympique du 200m aux JO de Mexico en 1968. Avec [
 Cité comme preuve que le sport a toujours été politique, et que les causes progressistes les plus importantes ont utilisé le sport comme tribune. L'action de Smith et Carlos démontre que la prétendue "neutralité" du sport défendue par [[Fabien Roussel]] et la [[Charte olympique]] est une imposture bourgeoise. Roussel voulant interdire "religion et politique dans le sport" condamnerait de tels gestes.
 
 ## Vidéos où Smith est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste, contre la position de Roussel.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité dans la défense du sport comme espace politique progressiste, contre la position de Roussel.

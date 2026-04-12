@@ -24,6 +24,6 @@ L'espace électoral est un jeu à somme nulle : si un nouveau candidat (comme [[
 
 ## Vidéos où le concept est analysé
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|La CARTE DES QI version MARXISTE]] — Explication détaillée de la méthode des données en composition (base 100 de l'électorat d'un candidat) et démonstration sur 2017, 2022, européennes 2024. Exemple parlant : [[Philippe Poutou]] à 1% mais composé de 100% d'ouvriers = positionné tout en bas à gauche
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Utilisation du barycentre pour positionner tous les candidats de 2017, 2022 et européennes 2024, et pour prédire l'espace de Villepin
+- [[GRAPHOMARXISME x Positions Revue]] — Utilisation du barycentre pour positionner tous les candidats de 2017, 2022 et européennes 2024, et pour prédire l'espace de Villepin
 - [[Faut-il en finir avec le NFP]]
 - [[Faure oblige de trahir]]

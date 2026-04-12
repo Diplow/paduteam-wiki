@@ -13,4 +13,4 @@ aliases: [Jiménez, Benoît Jiménez]
 Maire de Garges-les-Gonesse. Premier élu à rejoindre publiquement "[[La France Humaniste]]" de [[Dominique de Villepin]], cité lors du lancement comme preuve d'un ancrage "de terrain". La PaduTeam voit dans cette mise en avant un discours marketing creux — "parti centré autour d'une figure médiatique, pas du tout un truc qui part du terrain."
 
 ## Vidéos
-- [[Graphiked/Graphiked/videos/VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]

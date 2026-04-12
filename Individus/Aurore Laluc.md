@@ -12,13 +12,13 @@ date modified: Thursday, April 2nd 2026, 10:27:51 am
 # Aurore Laluc
 
 ## Profil synthétique
-Numéro 2 de [[Place Publique]] (mouvement de [[Raphaël Glucksmann]]). A pris position pour voter FI contre le RN — ce qui selon la PaduTeam ne serait pas une position officielle de Place Publique.
+Numéro 2 de [[Place Publique]] (mouvement de [[Raphael Glucksmann]]). A pris position pour voter FI contre le RN — ce qui selon la PaduTeam ne serait pas une position officielle de Place Publique.
 
 ## Rôle dans l'analyse PaduTeam
 Son appel à voter FI contre le RN illustre la [[Moisation]] : même à l'intérieur des partis de la gauche noisette, des personnalités sont forcées de trancher. La PaduTeam doute que ce positionnement soit avalisé par Glucksmann lui-même — "Je suis pas sûr que ça a été vu en bureau avec Place Publique." Glucksmann sera "obligé" de le faire mais ne le fera probablement pas spontanément.
 
 ## Relations
-- [[Raphaël Glucksmann]] — numéro 2 de son mouvement
+- [[Raphael Glucksmann]] — numéro 2 de son mouvement
 - [[Place Publique]] — organisation
 
 ## Vidéos où Laluc est mentionnée

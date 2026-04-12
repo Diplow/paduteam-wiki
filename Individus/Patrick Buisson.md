@@ -25,5 +25,5 @@ C'est l'une des deux jambes de l'[[Hypothese Sarkozy 2007]] que la PaduTeam voit
 Buisson est mort en Vendée (territoire de Retailleau, qu'il connaissait). Avant sa mort, aurait appelé à voter Zemmour — figure "sans racine rurale historique" mais qui "l'incarne". La PaduTeam note ironiquement que Buisson, après avoir réussi à donner une image rurale/identitaire au Parisien Sarkozy, a fini par soutenir un candidat encore moins "terroir" que lui.
 
 ## Vidéos où Buisson est analysé
-- [[Graphiked/Graphiked/videos/BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Rôle central dans la Moisation 2007 : siphonnage de l'électorat FN via les thèmes identitaires ; a réussi à donner une image rurale à Sarkozy (pur produit de Neuilly) ; connexion avec le territoire de Retailleau avant sa mort
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Rôle central dans la Moisation 2007 : siphonnage de l'électorat FN via les thèmes identitaires ; a réussi à donner une image rurale à Sarkozy (pur produit de Neuilly) ; connexion avec le territoire de Retailleau avant sa mort
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

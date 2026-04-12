@@ -37,8 +37,8 @@ Lucbert critique la PaduTeam en les assimilant à Altusser (structuralistes rigi
 - [[Lucien Goldmann]] — adversaire (Goldman défend le structuralisme génétique, Altusser le structuralisme fixiste)
 
 ## La coupure épistémologique et Sève
-Thèse centrale d'Althusser : à partir de 1845 (Idéologie Allemande, Thèses sur Feuerbach), Marx rompt avec son humanisme de jeunesse — une science qui extrairait le sujet humain de l'analyse. Sève réfute cette thèse toute sa vie : l'aliénation, la personnalité, l'individu restent centraux dans le Capital et les Grundrisse. "Il y a bien une coupure, mais ce n'est pas une coupure qui signifie la mort de l'homme." La correspondance entre Althusser et Sève révèle qu'Althusser n'avait pas lu les Grundrisse — ce qui rend sa thèse d'autant plus fragile. Voir [[Coupure épistémologique]].
+Thèse centrale d'Althusser : à partir de 1845 (Idéologie Allemande, Thèses sur Feuerbach), Marx rompt avec son humanisme de jeunesse — une science qui extrairait le sujet humain de l'analyse. Sève réfute cette thèse toute sa vie : l'aliénation, la personnalité, l'individu restent centraux dans le Capital et les Grundrisse. "Il y a bien une coupure, mais ce n'est pas une coupure qui signifie la mort de l'homme." La correspondance entre Althusser et Sève révèle qu'Althusser n'avait pas lu les Grundrisse — ce qui rend sa thèse d'autant plus fragile. Voir [[Coupure epistemologique]].
 
 ## Vidéos où Althusser est mentionné
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

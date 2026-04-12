@@ -18,7 +18,7 @@ Chris recommande Frank pour comprendre le trumpisme et ses parallèles français
 Chris fait le lien avec le [[Graphique]] : le Parti Démocrate occupe l'"espace Jadot" — classes supérieures, au milieu du graphique, préoccupations de valeurs plutôt que de rapports matériels. En France, la même dynamique pousse vers le RN, mais "on a la chance d'avoir Jean-Luc" qui maintient une gauche "en bas à gauche" du graphique.
 
 ## Relations
-- [[Jean-Luc Mélenchon]] — comparaison implicite : fait en France ce que le Parti Démocrate a échoué à faire aux États-Unis
+- [[Jean-Luc Melenchon]] — comparaison implicite : fait en France ce que le Parti Démocrate a échoué à faire aux États-Unis
 
 ## Vidéos où Frank est mentionné
-- [[10 LIVRES POUR LA RENTRÉE SOCIALE]] — *Pourquoi les pauvres votent à droite* recommandé
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — *Pourquoi les pauvres votent à droite* recommandé

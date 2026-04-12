@@ -22,4 +22,4 @@ Le Pen capte ces classes en crise en leur proposant une réponse à la question 
 La troisième voix est l'espace du fascisme : quand les classes en crise ne trouvent pas de débouché dans le clivage classique, elles sont captées par un discours qui combine question sociale (pouvoir d'achat) et réaction (préférence nationale, souverainisme). Le fascisme prend le pouvoir dans des "moments parlementaires et de tractations", rarement par la présidentialisation.
 
 ## Vidéos où le concept est analysé
-- [[Graphiked/Graphiked/videos/GRAPHOMARXISME x Positions Revue]] — Explication de la troisième voix comme espace de Le Pen, distinct de la droite classique (Fillon). Le Graphique montre cette opposition invisible sur une échelle gauche-droite traditionnelle
+- [[GRAPHOMARXISME x Positions Revue]] — Explication de la troisième voix comme espace de Le Pen, distinct de la droite classique (Fillon). Le Graphique montre cette opposition invisible sur une échelle gauche-droite traditionnelle

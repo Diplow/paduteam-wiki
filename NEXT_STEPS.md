@@ -13,7 +13,7 @@
 
 Bugs connus :
 - Doublon `Jean-Luc Melenchon.md` / `Jean-Luc Mélenchon.md`
-- ~20 fichiers avec des wikilinks cassés `[[Graphiked/Graphiked/...]]`
+- ~20 fichiers avec des wikilinks cassés ``
 - Pas de versionnement (aucun repo git)
 
 ---
@@ -31,7 +31,7 @@ Bugs connus :
 ### 1.2 Corriger les bugs existants
 
 - Fusionner les deux fiches Mélenchon en une seule (`Jean-Luc Mélenchon.md`), consolider le contenu, mettre à jour tous les wikilinks pointant vers l'ancienne
-- Corriger tous les wikilinks `[[Graphiked/Graphiked/...]]` → `[[Nom simple]]`
+- Corriger tous les wikilinks `` → `[[Nom simple]]`
 - Scanner les autres doublons potentiels (accents, tirets, casse)
 - Commit dédié : "fix: corriger doublons et wikilinks cassés"
 

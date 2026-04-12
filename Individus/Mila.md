@@ -20,4 +20,4 @@ Padu considère que Mila n'est "pas vraiment de droite" malgré son islamophobie
 - [[Le brac]] — a eu accès à la conversation complète et l'a confirmée authentique
 
 ## Vidéos où Mila est mentionnée
-- [[KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]]
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]

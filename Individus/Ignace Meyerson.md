@@ -24,4 +24,4 @@ Sève critique les héritiers de Meyerson pour leur notion de "structures psychi
 - [[Lucien Goldmann]] — structuralisme génétique, convergences méthodologiques
 
 ## Vidéos où Meyerson est mentionné
-- [[LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

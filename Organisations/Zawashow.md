@@ -20,12 +20,12 @@ Non discutée explicitement. Se revendique de gauche progressiste.
 ## Dynamique
 
 ### Affaire Dany Caligula (2025)
-L'affaire centrale : [[Dany Caligula]], patron de la ZawaProd, est accusé de viols, agressions sexuelles, violences conjugales et insultes transphobes/grossophobes (article Mediapart, 7 mai 2025, ~20 personnes auditionnées). La ZawaProd a développé pendant deux mois un discours de [[Gaslighting du récit]] pour couvrir Dany :
+L'affaire centrale : [[Dany Caligula]], patron de la ZawaProd, est accusé de viols, agressions sexuelles, violences conjugales et insultes transphobes/grossophobes (article Mediapart, 7 mai 2025, ~20 personnes auditionnées). La ZawaProd a développé pendant deux mois un discours de [[Gaslighting du recit]] pour couvrir Dany :
 - MP aux petits streamers pour influencer leur discours
 - Lives de relativisation des violences (relation toxique horizontale, mec cassé)
 - Instrumentalisation de la [[Justice transformatrice]] pour réclamer des médiations
 - Attaques contre la PaduTeam, traitant Zoé de « plante verte »
-- Récupération des discours féministes pour les retourner contre les victimes ([[Féminisme CFDT]])
+- Récupération des discours féministes pour les retourner contre les victimes ([[Feminisme CFDT]])
 
 La PaduTeam qualifie la ZawaProd de [[Boys Club]] : insultes transphobes en Discord privé, défense collective du patron par les employés qui défendent aussi leur gagne-pain.
 
@@ -42,4 +42,4 @@ La PaduTeam précise que son opposition n'était pas concurrentielle mais milita
 
 ## Vidéos où Zawashow est mentionné
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]
-- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]]
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]

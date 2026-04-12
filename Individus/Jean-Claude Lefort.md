@@ -19,4 +19,4 @@ Représente ce que le PCF pouvait être sur la question palestinienne. Son dépa
 - [[Parti Communiste Français]] — figure historique, démissionnaire
 
 ## Vidéos où Jean-Claude Lefort est mentionné
-- [[LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]] — cité par Stathis comme symbole du divorce PCF/Palestine
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — cité par Stathis comme symbole du divorce PCF/Palestine

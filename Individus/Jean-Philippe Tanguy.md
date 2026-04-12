@@ -23,4 +23,4 @@ Proche de l'espace Le Pen — populaire, oppositionnel, bas du graphique. S'oppo
 - [[Jordan Bardella]] — tension interne sur la ligne idéologique
 
 ## Vidéos où Tanguy est analysé
-- [[LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]]
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

@@ -16,4 +16,4 @@ Athlète américain aux JO de Mexico 1968. Avec [[Tommy Smith]], il a levé le p
 Même analyse que [[Tommy Smith]] : preuve que le sport a toujours été un espace de lutte politique progressiste. La Charte olympique invoquée par [[Fabien Roussel]] pour interdire religion et politique dans le sport aurait condamné ce geste fondateur de la résistance noire américaine.
 
 ## Vidéos où Carlos est analysé
-- [[DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionné avec Tommy Smith dans la défense du sport comme espace politique.
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionné avec Tommy Smith dans la défense du sport comme espace politique.

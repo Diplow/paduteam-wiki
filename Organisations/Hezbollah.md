@@ -20,4 +20,4 @@ Selon la PaduTeam, le lien entre le Venezuela et le Hezbollah a été en partie 
 La PaduTeam avertit: reprendre l'accusation de "terrorisme" contre le Hezbollah ou le Hamas, c'est faire le jeu de ceux qui utiliseront ces mêmes accusations pour condamner Maduro et la gauche radicale.
 
 ## Vidéos où le Hezbollah est mentionné
-- [[MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]]
+- [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

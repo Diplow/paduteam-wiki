@@ -23,4 +23,4 @@ Contrairement à [[Bruno Retailleau]], Darmanin "visait à être ministre" et ne
 - [[Les Republicains]] — ancrage LR avant ralliement à Macron
 
 ## Vidéos où Darmanin est mentionné
-- [[BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]] — Cité comme exemple de ce que Retailleau surpasse
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Cité comme exemple de ce que Retailleau surpasse
