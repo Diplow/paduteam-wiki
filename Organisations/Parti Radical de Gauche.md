@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [PRG]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:27:42 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

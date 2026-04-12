@@ -2,7 +2,6 @@
 type: individu
 domaine: [société, géopolitique]
 thèmes: [médias-propagande, Palestine]
-statut: ébauche
 aliases: [Goldnadel]
 date created: Wednesday, April 1st 2026, 10:46:08 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

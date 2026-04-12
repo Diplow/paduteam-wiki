@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
-statut: ébauche
 aliases: [Sarah Lin, Sarah Leograph]
 date created: Sunday, April 12th 2026, 5:25:18 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

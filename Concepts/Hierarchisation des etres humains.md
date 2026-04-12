@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [fascisme, histoire, extrême-droite]
 aliases: [déshumanisation, déshumanisation raciale, Hiérarchisation des êtres humains]
-statut: ébauche
 date created: Friday, April 3rd 2026, 8:38:17 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

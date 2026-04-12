@@ -2,9 +2,7 @@
 type: individu
 domaine: [société]
 thèmes: [travail]
-quadrant_graphique: "En haut à droite — cofondateur de Sarenza, entrepreneur sériel"
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:07:45 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

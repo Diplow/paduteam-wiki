@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [psychiatrie-psychologie, théorie]
 aliases: [juxtastructure, juxastructure, justructure]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:11 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

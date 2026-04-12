@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [guerre-des-gauches]
 aliases: [condescendance de classe]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:28:07 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

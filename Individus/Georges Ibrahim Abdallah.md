@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie]
 thèmes: [Palestine]
-statut: ébauche
 aliases: [George Ibrahim Abdallah, George Abdallah]
 date created: Tuesday, March 31st 2026, 10:57:26 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

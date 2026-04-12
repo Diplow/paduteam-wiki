@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [cordon sanitaire inversé]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:31:04 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

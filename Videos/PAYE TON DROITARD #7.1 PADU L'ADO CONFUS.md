@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société, théorie]
 thèmes: [trajectoires-politiques, féminisme, racisme-antiracisme, masculinisme]
-format: paye-ton-droitard
 enjeux: []
 date:
-intervenants: [Zoé, Chris]
-statut: développé
 date created: Sunday, April 12th 2026, 5:27:36 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

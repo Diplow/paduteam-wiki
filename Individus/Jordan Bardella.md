@@ -2,8 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
-quadrant_graphique: "Droite antisystème → Droite système"
 date created: Thursday, April 2nd 2026, 1:17:18 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

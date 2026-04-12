@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [psychologisation, réduction à l'ego, Psychologisation des désaccords politiques]
-statut: développé
 date created: Friday, April 3rd 2026, 8:37:05 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

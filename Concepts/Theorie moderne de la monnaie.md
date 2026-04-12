@@ -3,7 +3,6 @@ type: concept
 domaine: [économie, théorie]
 thèmes: [travail, anti-impérialisme]
 aliases: [MMT, Modern Monetary Theory, Théorie moderne de la monnaie]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:45:29 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

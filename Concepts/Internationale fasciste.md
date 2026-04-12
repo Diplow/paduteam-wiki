@@ -3,7 +3,6 @@ type: concept
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, élections]
 aliases: [internationale nationale-autoritaire, axe national-autoritaire]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:11 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

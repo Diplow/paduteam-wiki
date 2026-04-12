@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, PS]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2025-09
-intervenants: [Padu, Chris]
-statut: ébauche
 aliases: [FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [racisme-antiracisme, travail]
 aliases: [Matérialisme dialectique, Épistémologie matérialiste dialectique, Épistémologie marxiste]
-statut: ébauche
 date created: Sunday, April 12th 2026, 3:47:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

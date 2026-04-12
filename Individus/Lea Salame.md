@@ -3,8 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [médias-propagande]
 aliases: [Lea Salame, Léa Salamé]
-quadrant_graphique: "Haut-gauche (bourgeoisie médiatique progressiste)"
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:13 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

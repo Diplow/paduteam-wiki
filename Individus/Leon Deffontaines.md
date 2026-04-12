@@ -2,11 +2,9 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 aliases: [Léon Deffontaines]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Gauche universaliste / haut-gauche"
 ---
 #domaine/politique-intérieure
 # Léon Deffontaines

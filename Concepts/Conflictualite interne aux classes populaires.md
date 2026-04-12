@@ -2,7 +2,6 @@
 type: concept
 domaine: ['théorie']
 thèmes: ['le-Graphique']
-statut: ébauche
 aliases: [surconflictualité, conflictualité fondamentale, Conflictualité interne aux classes populaires]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

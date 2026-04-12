@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [médias-propagande]
-statut: ébauche
 aliases: [Nicolas Offenstadt]
 date created: Wednesday, April 1st 2026, 7:40:53 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

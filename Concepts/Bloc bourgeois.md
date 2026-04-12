@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure', 'théorie']
 thèmes: ['élections']
-statut: ébauche
 aliases: [bloc macroniste, bloc central]
 date created: Monday, March 30th 2026, 3:05:06 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

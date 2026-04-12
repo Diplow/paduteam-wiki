@@ -12,9 +12,8 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 type: organisation
 domaine: [politique-intérieure]      # 1-2 valeurs
 thèmes: [guerre-des-gauches]        # vocabulaire contrôlé
-quadrant_graphique: "haut-droite"    # position dans le Graphique si connue
 aliases: [PS, Parti Socialiste]      # acronymes et noms alternatifs
-statut: ébauche                      # ébauche | développé | mature
+skill_version: "1.0"                 # version du skill ayant généré la fiche
 ```
 
 ## Sections attendues

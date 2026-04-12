@@ -13,7 +13,7 @@ type: concept
 domaine: [théorie]                   # 1-2 valeurs
 thèmes: [élections]    # vocabulaire contrôlé
 aliases: [Graphique, le Graphique]  # noms alternatifs
-statut: ébauche                      # ébauche | développé | mature
+skill_version: "1.0"                 # version du skill ayant généré la fiche
 ```
 
 ## Sections attendues

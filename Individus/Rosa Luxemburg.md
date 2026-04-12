@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, politique-intérieure]
 thèmes: [théorie-marxiste, féminisme]
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:55:14 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
@@ -13,9 +12,6 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 
 ## Profil synthétique
 Révolutionnaire marxiste polonaise (1871-1919). Théoricienne de l'accumulation du capital et critique du réformisme bernsteinien. Selon la PaduTeam, elle enrichit le marxisme depuis l'intérieur de son cadre épistémologique, sans le remettre en cause.
-
-## Position dans le [[Saint Graphique]]
-Côté prolétariat révolutionnaire, bloc de rupture.
 
 ## Stratégie et trajectoire
 La PaduTeam la cite comme exemple d'enrichissement interne du marxisme par une femme — son apport sur l'accumulation du capital et la critique du parlementarisme approfondit la grille marxiste sans introduire d'épistémologie rivale. Prend position dans le débat Bernstein/Kautsky/Lénine sur l'[[Integration du proletariat]].

@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande]
-quadrant_graphique: "Haut-droite — journaliste service public / gauche molle"
 aliases: [Salome Saque, Salomé Saqué]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:45:02 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

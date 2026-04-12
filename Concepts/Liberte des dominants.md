@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [liberté sans rapports de domination, liberté bourgeoise, Liberté des dominants]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:32:21 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

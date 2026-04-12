@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [médias-propagande, guerre-des-gauches, élections]
-quadrant_graphique: "Haut-droite — journaliste bourgeois PS"
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:57:57 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

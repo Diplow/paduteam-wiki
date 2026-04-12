@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, économie]
-quadrant_graphique: "Bloc bourgeois macroniste"
 aliases: [Le Maire]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:29:52 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [médias-propagande]
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:46:53 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

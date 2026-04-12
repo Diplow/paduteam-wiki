@@ -3,8 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [DSK]
-quadrant_graphique: "Haut-droite / bloc bourgeois"
-statut: ébauche
 date created: Thursday, April 2nd 2026, 9:30:59 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

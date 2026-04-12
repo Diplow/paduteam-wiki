@@ -2,9 +2,7 @@
 type: individu
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande, racisme-antiracisme]
-quadrant_graphique: "Extrême droite, virage classico fasciste"
 aliases: [Tatiana Ventose, Tatiana Ventôse]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:50 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

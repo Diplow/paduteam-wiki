@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: développé
 aliases: [Macron, Emmanuel Macron]
 date created: Tuesday, March 31st 2026, 11:00:21 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

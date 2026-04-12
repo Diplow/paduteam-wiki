@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [Laurent Wauquiez, Wauquiez]
-quadrant_graphique: "Droite conservatrice"
 date created: Thursday, April 2nd 2026, 12:30:24 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

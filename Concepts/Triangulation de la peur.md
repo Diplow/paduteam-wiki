@@ -2,7 +2,6 @@
 type: concept
 domaine: ['théorie']
 thèmes: ['ruralité', 'élections']
-statut: ébauche
 date created: Tuesday, March 31st 2026, 11:19:10 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [luttes en classe, luttes de classe, lutte en classe]
 date created: Wednesday, April 1st 2026, 12:39:32 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

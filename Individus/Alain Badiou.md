@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Alain Badiou, Badiou]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:16:25 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

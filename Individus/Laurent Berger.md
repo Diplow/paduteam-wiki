@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [travail, guerre-des-gauches]
-quadrant_graphique: "Haut-gauche (syndicats réformistes, CFDT)"
 aliases: [Berger]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

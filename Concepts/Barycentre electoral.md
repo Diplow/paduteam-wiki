@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie]
 thèmes: [le-Graphique]
-statut: ébauche
 aliases: [Barycentre électoral, barycentre, centre de gravité électoral]
 date created: Wednesday, April 1st 2026, 5:37:44 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

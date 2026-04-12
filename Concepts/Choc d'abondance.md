@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure', 'économie']
 thèmes: []
-statut: ébauche
 aliases: [abondance, projet d'abondance]
 date created: Tuesday, March 31st 2026, 11:18:50 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure, théorie]
 thèmes: [élections, guerre-des-gauches]
 aliases: [5e République, cinquième République, Vème République]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:16:16 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

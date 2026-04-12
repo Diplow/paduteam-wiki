@@ -3,7 +3,6 @@ type: concept
 domaine: [société, théorie]
 thèmes: [féminisme, masculinisme]
 aliases: [masculinisme, mascul]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:31:38 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,7 +2,6 @@
 type: enjeu
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
-statut: ébauche
 date created: Tuesday, March 31st 2026, 11:47:20 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

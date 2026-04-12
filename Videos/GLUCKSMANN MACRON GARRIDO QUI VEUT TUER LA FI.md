@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
-format: analyse
 enjeux: [union-populaire]
 date: 2023-01
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:23:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

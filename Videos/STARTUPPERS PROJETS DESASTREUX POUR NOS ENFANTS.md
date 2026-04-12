@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société, théorie, politique-intérieure]
 thèmes: [travail, médias-propagande, élections]
-format: react
 enjeux: [union-populaire]
 date: 2024-12-27
-intervenants: [Padu, Chris]
-statut: développé
 date created: Thursday, April 2nd 2026, 1:07:24 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]

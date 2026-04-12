@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure, société]
 thèmes: [féminisme, guerre-des-gauches]
 aliases: [La Rêve, Rêve, REV, Révolution Écologique pour le Vivant]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:38:36 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

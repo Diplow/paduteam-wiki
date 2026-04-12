@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [théorie, société]
 thèmes: [féminisme, Palestine]
-format: react
 enjeux: []
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:36:43 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

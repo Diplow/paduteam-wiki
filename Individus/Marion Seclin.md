@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [féminisme, médias-propagande]
 aliases: [Marion Séclin]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:45:21 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

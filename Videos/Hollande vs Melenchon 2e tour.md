@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-format: analyse
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-02
-intervenants: [Padu, Chris]
-statut: ébauche
 aliases: [HOLLANDE vs MÉLENCHON au 2ÈME TOUR la PROPHÉTIE INTERDITE]
 date created: Wednesday, April 1st 2026, 2:03:49 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

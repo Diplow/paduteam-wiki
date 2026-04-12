@@ -3,7 +3,6 @@ type: concept
 domaine: [société, théorie]
 thèmes: [féminisme]
 aliases: [féminisme matérialiste communiste, féminisme pas assez communiste]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:48:33 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

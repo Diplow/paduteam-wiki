@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-format: react
 enjeux: [union-populaire]
 date: 2025-07-08
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:28:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

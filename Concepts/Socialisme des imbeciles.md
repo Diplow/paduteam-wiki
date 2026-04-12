@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [guerre-des-gauches, médias-propagande]
 aliases: [socialisme des imbéciles, antisémitisme de gauche, antisémitisme rouge, Socialisme des imbéciles]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:37:00 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

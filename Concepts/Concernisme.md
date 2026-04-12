@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme, guerre-des-gauches]
 aliases: [concern, concern check, concerniste]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 9:31:22 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

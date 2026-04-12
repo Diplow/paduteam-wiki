@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, ruralité, racisme-antiracisme]
-format: backseat
 enjeux: [union-populaire, plus-jamais-PS]
-statut: développé
 date: 2026-03-28
-intervenants: [Padu, Chris, Zoé]
 aliases: [BACKSEAT vs PADUTEAM COMMENT EMPÊCHER LE RN EN RURALITÉ]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

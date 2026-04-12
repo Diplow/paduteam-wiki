@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [géopolitique]
 thèmes: [Venezuela, anti-impérialisme]
-format: analyse
 enjeux: [anti-impérialisme, campisme-assumé]
-statut: développé
 date: 2026-03-31
-intervenants: [Padu, Chris]
 date created: Tuesday, March 31st 2026, 11:22:07 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]

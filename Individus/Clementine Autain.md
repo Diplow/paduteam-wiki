@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: ébauche
 aliases: [Clémentine Autain, Autain]
-quadrant_graphique: "Gauche noisette"
 date created: Wednesday, April 1st 2026, 6:59:54 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

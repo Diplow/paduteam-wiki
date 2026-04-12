@@ -2,7 +2,6 @@
 type: concept
 domaine: [société]
 thèmes: [psychiatrie-psychologie]
-statut: ébauche
 aliases: [Réduction des risques, RDR, harm reduction]
 date created: Wednesday, April 1st 2026, 12:48:09 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

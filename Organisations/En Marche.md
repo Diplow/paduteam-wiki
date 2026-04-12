@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [En Marche, La République En Marche, LREM, Renaissance]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:14:50 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, société]
 thèmes: [féminisme, médias-propagande]
 aliases: [Lucbert]
-statut: développé
 date created: Thursday, April 2nd 2026, 12:37:18 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

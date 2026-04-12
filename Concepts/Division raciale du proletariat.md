@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [racisme-antiracisme, travail]
 aliases: [scission raciale du prolétariat, division raciale, Division raciale du prolétariat]
-statut: ébauche
 date created: Friday, April 3rd 2026, 7:28:22 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

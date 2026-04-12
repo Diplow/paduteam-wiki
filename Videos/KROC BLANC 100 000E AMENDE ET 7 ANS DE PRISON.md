@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [société]
 thèmes: [médias-propagande, répression-justice]
-format: analyse
 enjeux: []
-intervenants: [Padu]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 9:15:19 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

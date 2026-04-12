@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [guerre-des-gauches]
 aliases: [adversaire vs ennemi, allié politique adversaire intellectuel]
-statut: ébauche
 date created: Saturday, April 4th 2026, 11:20:41 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

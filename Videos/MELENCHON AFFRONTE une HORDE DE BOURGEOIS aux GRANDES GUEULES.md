@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, travail]
-format: react
 enjeux: [union-populaire, plus-jamais-PS]
-statut: ébauche
 date:
-intervenants: [Padu, Chris]
 date created: Wednesday, April 1st 2026, 7:51:46 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

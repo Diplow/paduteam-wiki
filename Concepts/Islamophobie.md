@@ -3,7 +3,6 @@ type: concept
 domaine: [société, politique-intérieure]
 thèmes: [racisme-antiracisme, islamophobie, laïcité]
 aliases: [islamophobie, deux matrices de l'islamophobie]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:22:41 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

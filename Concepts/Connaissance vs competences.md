@@ -3,7 +3,6 @@ type: concept
 domaine: [société, théorie]
 thèmes: [travail]
 aliases: [connaissance vs compétences, connaissance contre compétence, école émancipatrice]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:52:25 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

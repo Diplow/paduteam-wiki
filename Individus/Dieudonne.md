@@ -2,9 +2,7 @@
 type: individu
 domaine: [société, politique-intérieure]
 thèmes: [racisme-antiracisme, trajectoires-politiques]
-quadrant_graphique: "extrême droite antisémite"
 aliases: [Dieudo, Dieudonné]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 8:18:09 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

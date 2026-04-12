@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande]
 aliases: [Duhamel]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:26:38 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

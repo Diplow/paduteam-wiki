@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [le-Graphique, travail]
 aliases: [capital scolaire, capital éducatif, capital technoscolaire]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 8:31:13 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2026-03-30
-intervenants: [Padu, Chris, Félicien Faury]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:04:32 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

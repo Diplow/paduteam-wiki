@@ -2,7 +2,6 @@
 type: concept
 domaine: [économie, théorie]
 thèmes: [travail]
-statut: ébauche
 aliases: [salariat archaïque, tâcheronnage, sous-salariat, sous-prolétariat]
 date created: Wednesday, April 1st 2026, 5:56:20 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

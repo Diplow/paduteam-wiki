@@ -2,8 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-quadrant_graphique: "Droite système"
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:15:14 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

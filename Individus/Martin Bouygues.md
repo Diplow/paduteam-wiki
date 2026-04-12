@@ -2,9 +2,7 @@
 type: individu
 domaine: [société]
 thèmes: [médias-propagande]
-quadrant_graphique: "Très haut-droite, grande bourgeoisie"
 aliases: [Martin Bouygues]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:15:26 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

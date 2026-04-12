@@ -2,8 +2,6 @@
 type: individu
 domaine: [économie, société]
 thèmes: [travail, États-Unis]
-statut: ébauche
-quadrant_graphique: "Extrême droite du Graphique — grande bourgeoisie"
 date created: Wednesday, April 1st 2026, 10:44:18 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

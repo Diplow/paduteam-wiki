@@ -3,7 +3,6 @@ type: organisation
 domaine: [géopolitique, anti-impérialisme]
 thèmes: [anti-impérialisme]
 aliases: [FLN, Front de Libération Nationale]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:57:45 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

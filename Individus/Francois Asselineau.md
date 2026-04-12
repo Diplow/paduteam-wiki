@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [François Asselineau, Asselineau]
-quadrant_graphique: "Souverainisme technocratique"
 date created: Wednesday, April 1st 2026, 6:22:32 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

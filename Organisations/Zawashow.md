@@ -3,7 +3,6 @@ type: organisation
 domaine: [société]
 thèmes: [médias-propagande, féminisme]
 aliases: [Zawa Show, Dany et Raz, ZawaProd, Zawa, la Zawa]
-statut: développé
 date created: Thursday, April 2nd 2026, 12:38:25 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

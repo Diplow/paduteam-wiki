@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [Éric Ciotti, Ciotti]
-quadrant_graphique: "Droite extrême"
 date created: Wednesday, April 1st 2026, 4:02:07 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

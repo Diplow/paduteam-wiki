@@ -2,10 +2,8 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: développé
 date created: Monday, March 30th 2026, 3:01:57 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
-quadrant_graphique: "Droite système"
 ---
 #domaine/politique-intérieure #thème/élections
 

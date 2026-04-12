@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
-format: analyse
 enjeux: [anti-impérialisme, campisme-assumé]
 date: 2026-03-01
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:38:06 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

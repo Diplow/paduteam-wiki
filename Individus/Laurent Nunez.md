@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [répression-justice, médias-propagande]
 aliases: [Laurent Nuñez, Nuñez, Nunes]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:23:49 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

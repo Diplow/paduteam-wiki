@@ -2,11 +2,9 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: développé
 aliases: [François Hollande]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
-quadrant_graphique: "Gauche système / centre-gauche"
 ---
 #domaine/politique-intérieure
 # François Hollande

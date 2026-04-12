@@ -2,8 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: développé
-quadrant_graphique: "Centre / gaulliste"
 aliases: [Villepin]
 date created: Wednesday, April 1st 2026, 1:14:12 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

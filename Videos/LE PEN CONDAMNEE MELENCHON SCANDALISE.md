@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, répression-justice, guerre-des-gauches]
-format: analyse
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2026-03-31
-intervenants: [Padu, Chris]
-statut: ébauche
 aliases: [LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]
 date created: Sunday, April 12th 2026, 5:28:17 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -2,9 +2,7 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, travail]
-quadrant_graphique: "Extrême gauche trotskiste (lambertiste)"
 aliases: [PT, POI, POID, Parti Ouvrier Indépendant, Organisation Communiste Internationaliste, OCI]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:24:18 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

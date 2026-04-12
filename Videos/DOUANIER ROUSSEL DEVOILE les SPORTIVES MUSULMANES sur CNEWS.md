@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, islamophobie, racisme-antiracisme, médias-propagande]
-format: react
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2025
-intervenants: [Padu, Chris]
-statut: ébauche
 aliases: [DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]
 date created: Sunday, April 12th 2026, 5:28:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

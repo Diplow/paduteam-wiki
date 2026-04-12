@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [guerre-des-gauches]
 aliases: [Julie Gaillet]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:15 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

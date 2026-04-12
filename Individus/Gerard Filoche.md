@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
-statut: ébauche
 aliases: [Gérard Filoche, Filoche, la béfiloche, l'abbé Filoche]
 date created: Wednesday, April 1st 2026, 7:50:04 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

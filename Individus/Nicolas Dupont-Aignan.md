@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [Dupont-Aignan, du Pontignan]
 date created: Wednesday, April 1st 2026, 6:24:59 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

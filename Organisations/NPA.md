@@ -2,10 +2,8 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 date created: Monday, March 30th 2026, 3:03:11 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Gauche antisystème (extrême)"
 ---
 #domaine/politique-intérieure
 # NPA

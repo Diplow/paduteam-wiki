@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches]
 aliases: [social-fascisme]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:41:40 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie]
 thèmes: [anti-impérialisme]
 aliases: [Losurdo, l'Osourdo]
-statut: ébauche
 date created: Saturday, April 4th 2026, 11:19:36 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

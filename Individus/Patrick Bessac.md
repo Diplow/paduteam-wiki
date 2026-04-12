@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Bessac]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:18 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

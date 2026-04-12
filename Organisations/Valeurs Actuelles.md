@@ -3,7 +3,6 @@ type: organisation
 domaine: [société]
 thèmes: [médias-propagande]
 aliases: [Valeurs actuelles, VA, VA+]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:25:08 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

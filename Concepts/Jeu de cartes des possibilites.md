@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: []
 aliases: [jeu de cartes, cartes de possibilités, Jeu de cartes des possibilités]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:38:45 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

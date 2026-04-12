@@ -2,7 +2,6 @@
 type: concept
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, États-Unis]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:44:50 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

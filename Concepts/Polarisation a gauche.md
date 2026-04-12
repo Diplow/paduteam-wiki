@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure']
 thèmes: []
-statut: ébauche
 aliases: [Polarisation à gauche]
 date created: Tuesday, March 31st 2026, 2:20:28 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

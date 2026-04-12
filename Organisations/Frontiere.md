@@ -6,7 +6,6 @@ ancienne_appellation: Livre Noir
 patron: Eric Tegner
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande]
-statut: ébauche
 apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]"]
 aliases: [Frontière]
 date created: Thursday, April 2nd 2026, 3:19:14 pm

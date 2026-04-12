@@ -3,7 +3,6 @@ type: concept
 domaine: [société]
 thèmes: [médias-propagande]
 aliases: [chien de garde médiatique, chiens de garde médiatiques]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:25:16 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

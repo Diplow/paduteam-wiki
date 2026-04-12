@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-quadrant_graphique: "Haut-droite, bloc bourgeois"
 aliases: [Louis Sarkozy, le Nabo]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:14:23 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

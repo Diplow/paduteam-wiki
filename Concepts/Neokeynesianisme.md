@@ -2,7 +2,6 @@
 type: concept
 domaine: ['économie']
 thèmes: []
-statut: ébauche
 aliases: [néokeynesien, néo-keynésien, social-libéralisme renouvelé, Néokeynesianisme]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

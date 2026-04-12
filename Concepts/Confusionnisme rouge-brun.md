@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [trajectoires-politiques, racisme-antiracisme]
 aliases: [rouge-brun, confusionnisme, tiers-voiisme, troisième voie]
-statut: développé
 date created: Thursday, April 2nd 2026, 8:19:15 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

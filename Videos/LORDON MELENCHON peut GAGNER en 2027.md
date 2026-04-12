@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [élections, guerre-des-gauches]
-format: react
 enjeux: [union-populaire]
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:05:48 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [LORDON MÉLENCHON peut GAGNER en 2027]

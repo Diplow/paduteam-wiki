@@ -2,7 +2,6 @@
 type: organisation
 domaine: [géopolitique]
 thèmes: [Venezuela]
-statut: ébauche
 date created: Tuesday, March 31st 2026, 9:52:38 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

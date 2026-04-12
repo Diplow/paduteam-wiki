@@ -2,8 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
-quadrant_graphique: "Bas-droite / réactionnaire"
 date created: Wednesday, April 1st 2026, 1:16:40 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

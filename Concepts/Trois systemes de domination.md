@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [3 systèmes de domination, triple domination, capitalisme-sexisme-colonialisme]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:31:53 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

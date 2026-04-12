@@ -2,7 +2,6 @@
 type: individu
 domaine: [économie, société]
 thèmes: [travail, ruralité, racisme-antiracisme]
-statut: ébauche
 aliases: [Alain Aunac, Aunac]
 date created: Friday, April 3rd 2026, 2:31:20 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

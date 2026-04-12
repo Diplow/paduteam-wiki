@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, société]
 thèmes: [guerre-des-gauches, féminisme]
 aliases: [Lagasnerie, la Gasnerie, la ganerie, la gannerie]
-statut: développé
 date created: Saturday, April 4th 2026, 11:21:29 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

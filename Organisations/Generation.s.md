@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Génération.s, Generation.s, parti de Hamon]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 8:30:44 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

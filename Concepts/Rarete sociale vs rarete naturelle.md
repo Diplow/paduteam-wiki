@@ -3,7 +3,6 @@ type: concept
 domaine: [économie, théorie]
 thèmes: [États-Unis, néolibéralisme]
 aliases: [Rareté sociale, rareté naturelle, Rareté artificielle, Rareté sociale vs rareté naturelle]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:11 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

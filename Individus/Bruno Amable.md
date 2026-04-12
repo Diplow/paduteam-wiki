@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie, économie]
 thèmes: [le-Graphique]
-statut: ébauche
 aliases: [Bruno Amable]
 date created: Wednesday, April 1st 2026, 5:03:59 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

@@ -3,7 +3,6 @@ type: concept
 domaine: [économie, politique-intérieure]
 thèmes: [travail, guerre-des-gauches]
 aliases: [Crédit d'impôt pour la compétitivité et l'emploi]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:08 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

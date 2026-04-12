@@ -2,9 +2,7 @@
 type: individu
 domaine: [société]
 thèmes: [féminisme]
-quadrant_graphique: "Extrême droite, en reconversion partielle"
 aliases: []
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:24 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

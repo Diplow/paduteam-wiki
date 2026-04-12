@@ -3,7 +3,6 @@ type: individu
 domaine: [économie]
 thèmes: [travail]
 aliases: [Bettencourt]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

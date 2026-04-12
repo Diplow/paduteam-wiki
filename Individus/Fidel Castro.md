@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Amérique-latine]
 aliases: [Castro]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:43:32 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

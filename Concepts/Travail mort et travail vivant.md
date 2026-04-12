@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, économie]
 thèmes: [travail]
 aliases: [travail mort, travail vivant]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:46:21 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

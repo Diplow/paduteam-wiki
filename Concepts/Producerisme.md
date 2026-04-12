@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, médias-propagande]
 aliases: [producerisme, productivisme de droite, logique producteur-parasite]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:36:27 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

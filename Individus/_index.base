@@ -1,18 +1,48 @@
+filters:
+  and:
+    - type == "individu"
 views:
   - type: table
-    name: Tableau
-    filters:
-      and:
-        - file.inFolder("Individus")
+    name: Tous les individus
     order:
       - file.name
-      - date created
-      - date modified
-      - file.tags
+      - domaine
+      - thèmes
+      - file.mtime
     sort:
-      - property: date created
+      - property: file.name
         direction: ASC
-      - property: file.ctime
-        direction: DESC
     columnSize:
-      note.date created: 288
+      file.name: 280
+  - type: table
+    name: Récents
+    order:
+      - file.name
+      - domaine
+      - thèmes
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Politique intérieure
+    filters:
+      and:
+        - domaine.contains("politique-intérieure")
+    order:
+      - file.name
+      - thèmes
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Géopolitique
+    filters:
+      and:
+        - domaine.contains("géopolitique")
+    order:
+      - file.name
+      - thèmes
+    sort:
+      - property: file.name
+        direction: ASC

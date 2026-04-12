@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme]
 aliases: [Abbas, Ferhat Abbas, Feratabas]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:56:52 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

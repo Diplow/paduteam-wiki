@@ -12,16 +12,11 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 type: vidéo
 domaine: [politique-intérieure]      # 1-2 valeurs
 thèmes: [élections, guerre-des-gauches]  # vocabulaire contrôlé
-format: analyse                       # série/format de la vidéo
 enjeux: [union-populaire]            # combats stratégiques avancés
 date: YYYY-MM-DD                     # date de publication
-intervenants: [Padu, Chris]          # membres PaduTeam présents
-statut: ébauche                      # ébauche | développé | mature
+youtube_id: "dQw4w9WgXcQ"           # identifiant YouTube de la vidéo
+skill_version: "1.0"                 # version du skill ayant généré la fiche
 ```
-
-## Formats disponibles
-
-`analyse`, `paye-ton-droitard`, `recette-de-noel`, `seigneurs-des-noisettes`, `antitech-resistance`, `backseat`, `entretien`, `react`, `débat`
 
 ## Sections attendues
 

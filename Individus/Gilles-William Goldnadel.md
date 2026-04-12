@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, antisémitisme, guerre-des-gauches]
-quadrant_graphique: "Droite nationaliste sioniste"
 aliases: [Goldnadel]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:22:37 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

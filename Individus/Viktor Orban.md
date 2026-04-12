@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, élections]
 aliases: [Orban, Viktor Orban, Viktor Orbán]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:14 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

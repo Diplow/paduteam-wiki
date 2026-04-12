@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [médias-propagande]
 aliases: [impuissance contemplative, faux semblant culturel, contemplatisme politique, liturgie intellectuelle]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:32:39 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

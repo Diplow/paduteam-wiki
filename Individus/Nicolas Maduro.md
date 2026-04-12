@@ -2,7 +2,6 @@
 type: individu
 domaine: [géopolitique]
 thèmes: [Venezuela]
-statut: ébauche
 aliases: [Maduro]
 date created: Tuesday, March 31st 2026, 9:51:15 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

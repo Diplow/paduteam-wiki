@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société]
 thèmes: [médias-propagande, travail, féminisme]
-format: analyse
 enjeux: []
 date: 2026-01-30
-intervenants: [Padu, Chris, Zoé, Magne]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:43:42 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [1000 CAPSULE - PROCÈS DU MINIATURISTE]

@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, société]
 thèmes: [féminisme]
 aliases: [matérialisme démographique, démographie matérialiste]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:47:43 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,7 +2,6 @@
 type: concept
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, travail]
-statut: ébauche
 aliases: [financement public des partis, cotisations militantes]
 date created: Sunday, April 12th 2026, 5:25:09 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

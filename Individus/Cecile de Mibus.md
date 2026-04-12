@@ -2,7 +2,6 @@
 type: individu
 domaine: [société]
 thèmes: [médias-propagande]
-statut: ébauche
 aliases: [Cecile de Mibus, Cécile de Mibus]
 date created: Thursday, April 2nd 2026, 3:19:12 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
