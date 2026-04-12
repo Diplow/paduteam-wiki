@@ -27,6 +27,14 @@ Les trotskistes (NPA, Lutte Ouvrière, Révolution Permanente) qui refusent le c
 ## Évolution
 Principe revendiqué dès les débuts de la chaîne, appliqué de manière constante. L'enlèvement de Maduro (2026) a durci le discours — la PaduTeam a explicitement dénoncé les ni-nistes comme complices objectifs de l'impérialisme.
 
+## Le campisme pro-Palestine comme test de cohérence
+
+Le batch Gaza (2024-2026) confirme le campisme comme ligne non-négociable face au génocide. [[Paul Elek]] dans [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] revendique explicitement le terme « campisme assumé » : refus de la neutralité fictive, reconnaissance du droit à la résistance armée anticoloniale (protocole additionnel 1973 au droit international), rejet du « deux-côtéisme » qui met sur le même plan le colon et le colonisé. La PaduTeam ne défend pas la « pureté » morale du Hamas — elle distingue l'acte de résistance (légitimé par l'ONU en situation coloniale) des moyens critiquables (civils tués au festival du 7 octobre) — mais affirme que le déséquilibre structurel interdit toute équivalence. Face au génocide, exiger la « nuance » revient à demander aux Palestiniens de mourir proprement.
+
+Les adversaires du campisme pro-Palestine sont les mêmes que dans la guerre des gauches intérieure : PS, EELV, gauche bourgeoise qui "n'ont jamais compris la question palestinienne" et qui transforment la reconnaissance tardive en [[Recuperation posthume]].
+
 ## Vidéos clés
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Critique frontale du ni-nisme face à l'enlèvement de Maduro, défense du campisme bolivarien
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Le campisme appliqué à la cause palestinienne et à la solidarité internationale
+- [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Paul Elek revendique explicitement "campisme assumé" face au faux débat terrorisme/légitime défense
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Rejet de la "neutralité" occidentale, appel à la mobilisation internationale des peuples contre leurs bourgeoisies
