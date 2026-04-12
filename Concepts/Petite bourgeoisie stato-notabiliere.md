@@ -4,6 +4,8 @@ domaine: [théorie, économie]
 thèmes: [le-Graphique, travail]
 aliases: [petite bourgeoisie stato-notabilière, bourgeoisie de notable, bourgeoisie d'état, petite bourgeoisie notabilière, Petite bourgeoisie stato-notabilière]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:31:57 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/économie #thème/le-Graphique #thème/travail
 

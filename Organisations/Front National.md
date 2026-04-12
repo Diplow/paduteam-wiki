@@ -5,6 +5,8 @@ thèmes: [élections, histoire, fascisme, extrême-droite]
 quadrant_graphique: "Bas-droite"
 aliases: [FN, Front nat]
 statut: ébauche
+date created: Friday, April 3rd 2026, 8:37:00 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/histoire #thème/fascisme
 

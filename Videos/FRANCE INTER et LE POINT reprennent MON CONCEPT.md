@@ -6,6 +6,8 @@ format: react
 enjeux: [union-populaire, plus-jamais-PS]
 intervenants: [Padu, Chris]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:28:16 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/le-Graphique #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 

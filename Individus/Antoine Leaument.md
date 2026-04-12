@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, racisme-antiracisme]
 statut: ébauche
 aliases: [Antoine Léaument]
+date created: Sunday, April 12th 2026, 5:38:31 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/racisme-antiracisme
 

@@ -5,7 +5,7 @@ thèmes: [médias-propagande, anti-impérialisme]
 aliases: [Géopolitique Profonde, GP]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 1:32:56 pm
-date modified: Thursday, April 2nd 2026, 2:31:59 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande
 

@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [médias-propagande]
 aliases: [Les GG, LGG, Grandes Gueules]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:24:14 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/médias-propagande
 

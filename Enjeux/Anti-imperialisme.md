@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [anti-impérialisme, Venezuela, Palestine]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 10:47:20 pm
-date modified: Thursday, April 2nd 2026, 10:27:50 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine
 # Anti-impérialisme

@@ -5,7 +5,7 @@ thèmes: ['Palestine', 'anti-impérialisme']
 statut: ébauche
 aliases: [Centralité de la question palestinienne]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/anti-impérialisme
 # Centralité de la question palestinienne

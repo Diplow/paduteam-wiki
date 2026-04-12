@@ -7,7 +7,7 @@ enjeux: [union-populaire]
 intervenants: [Padu, Chris, Zoé]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 12:46:03 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/le-Graphique #thème/psychiatrie-psychologie #enjeu/union-populaire
 # CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ?

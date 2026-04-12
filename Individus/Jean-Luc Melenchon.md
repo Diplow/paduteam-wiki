@@ -6,7 +6,7 @@ statut: développé
 aliases: [Jean-Luc Melenchon, Mélenchon, JLM, Jean-Luc, Jean-Luc Mélenchon]
 quadrant_graphique: "Bas-gauche (classes populaires, gauche antisystème)"
 date created: Tuesday, March 31st 2026, 2:20:43 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique
 
@@ -54,7 +54,7 @@ Cité : "Mesdames, messieurs, mes camarades sont morts au Chili sous la torture.
 "Gardez votre sang froid, organisez-vous et déroulez la transformation, le programme."
 
 ## Diabolisation et radicalité nécessaire (janv. 2023)
-Suite à la mort de [[Quentin de Rang]], Macron, Glucksmann et Garrido l'attaquent frontalement. Mélenchon répond avec sang-froid — exactement ce que la PaduTeam préconise. Sa diabolisation est analysée comme structurellement nécessaire : il porte un programme de rupture, donc ils ont "raison d'avoir peur." L'erreur serait de se modérer — si tu es diabolisé mais que ton programme est le même que celui des non-diabolisés, tu n'as plus de raison d'être.
+Suite à la mort de [[Quentin Deranque]], Macron, Glucksmann et Garrido l'attaquent frontalement. Mélenchon répond avec sang-froid — exactement ce que la PaduTeam préconise. Sa diabolisation est analysée comme structurellement nécessaire : il porte un programme de rupture, donc ils ont "raison d'avoir peur." L'erreur serait de se modérer — si tu es diabolisé mais que ton programme est le même que celui des non-diabolisés, tu n'as plus de raison d'être.
 
 ## Communiqué post-condamnation Le Pen (mars 2026)
 
@@ -111,7 +111,7 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — [[Odoxa]] le donne à 12% au 1er tour et 26% au 2nd tour face à Bardella. Démonstration que 42% de ses propres électeurs disparaissent entre les deux tours — fabrication pure
 - [[MELENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES]] — Analysé comme [[Bourgeoisie progressiste]] (Robespierre du Tiers État), keynésien pas socialiste
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Confirmation du graphique : accède au 2e tour face à Le Pen et gagne
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Défendu contre les accusations post-mort de Quentin de Rang ; philosophie de non-violence ; prophétie du 2002 inversé
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Défendu contre les accusations post-mort de Quentin Deranque ; philosophie de non-violence ; prophétie du 2002 inversé
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Transition du populisme au peuplisme ; critique de la théorie des réseaux
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Prophétie confirmée : LFI gagne seule, perd en alliance. Scénarios 2027
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Son tweet décodé : veut Retailleau, pas Wauquiez

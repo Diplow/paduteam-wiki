@@ -8,7 +8,7 @@ date: 2024-01-01
 intervenants: [Zoé, Chris]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 10:22:04 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/théorie #thème/islamophobie #thème/racisme-antiracisme #enjeu/union-populaire #enjeu/campisme-assumé
 

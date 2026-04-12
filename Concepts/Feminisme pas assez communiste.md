@@ -5,7 +5,7 @@ thèmes: [féminisme]
 aliases: [féminisme matérialiste communiste, féminisme pas assez communiste]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 6:48:33 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme
 

@@ -5,7 +5,7 @@ thèmes: [élections, guerre-des-gauches]
 statut: ébauche
 aliases: [2012 inversé, stratégie du 2012 inversé]
 date created: Wednesday, April 1st 2026, 4:03:15 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 # Stratégie du 2012 inversé

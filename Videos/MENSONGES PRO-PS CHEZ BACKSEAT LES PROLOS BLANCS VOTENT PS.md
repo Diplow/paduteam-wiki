@@ -9,7 +9,7 @@ intervenants: [Padu, Chris, Zoé]
 statut: ébauche
 aliases: [MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]
 date created: Wednesday, April 1st 2026, 5:56:45 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/ruralité #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire
 

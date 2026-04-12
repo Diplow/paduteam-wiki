@@ -5,7 +5,7 @@ thèmes: []
 statut: ébauche
 aliases: [gauche de rupture, gauche radicale]
 date created: Tuesday, March 31st 2026, 10:41:40 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure
 # Gauche de rupture

@@ -5,7 +5,7 @@ thèmes: ['racisme-antiracisme']
 statut: ébauche
 aliases: [antiracisme concret, antiracisme abstrait, antiracisme universaliste]
 date created: Tuesday, March 31st 2026, 10:59:56 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/racisme-antiracisme
 # Antiracisme politique vs antiracisme moral

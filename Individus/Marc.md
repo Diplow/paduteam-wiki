@@ -5,7 +5,7 @@ thèmes: [féminisme, masculinisme]
 aliases: [Marc (Terre des hommes libres)]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 6:31:25 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/féminisme #thème/masculinisme
 

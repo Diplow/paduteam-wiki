@@ -5,6 +5,8 @@ thèmes: []
 quadrant_graphique: ""
 aliases: [Chapoutot, Joan Chaputo]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:25:15 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie
 

@@ -4,6 +4,8 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, élections]
 statut: ébauche
 aliases: [Plenel]
+date created: Sunday, April 12th 2026, 5:25:13 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/élections
 

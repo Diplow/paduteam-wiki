@@ -5,6 +5,8 @@ thèmes: [racisme-antiracisme, trajectoires-politiques, marxisme]
 quadrant_graphique: "Extrême droite, fascisme populiste"
 aliases: [Soral]
 statut: développé
+date created: Thursday, April 2nd 2026, 8:20:15 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/racisme-antiracisme #thème/trajectoires-politiques
 

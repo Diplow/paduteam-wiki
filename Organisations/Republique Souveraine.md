@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [République souveraine, République Souveraine]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:25:21 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 

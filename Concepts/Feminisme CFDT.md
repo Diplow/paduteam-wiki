@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [féminisme]
 aliases: [féminisme compatible avec les agresseurs, Féminisme CFDT]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:37:47 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #thème/féminisme
 

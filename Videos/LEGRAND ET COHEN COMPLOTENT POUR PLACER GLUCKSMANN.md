@@ -8,7 +8,7 @@ date: 2025-09-05
 intervenants: [Padu, Chris]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 12:57:44 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/médias-propagande #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 

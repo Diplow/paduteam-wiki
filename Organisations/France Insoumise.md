@@ -3,7 +3,7 @@ type: organisation
 tags: [parti, gauche, paduteam]
 quadrant_graphique: "Gauche antisystème"
 date created: Monday, March 30th 2026, 3:03:11 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 # France Insoumise
 

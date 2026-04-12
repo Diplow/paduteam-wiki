@@ -5,7 +5,7 @@ thèmes: [élections, écologie]
 statut: ébauche
 aliases: [Jadot]
 date created: Wednesday, April 1st 2026, 7:01:10 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/écologie
 # Yannick Jadot

@@ -5,6 +5,8 @@ thèmes: [guerre-des-gauches, élections]
 quadrant_graphique: "Haut-gauche (noisette, populisme de gauche sans antiracisme)"
 aliases: [Debout le peuple]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:14 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 

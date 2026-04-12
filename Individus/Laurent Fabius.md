@@ -5,6 +5,8 @@ thèmes: [guerre-des-gauches, élections]
 quadrant_graphique: "gauche social-libérale, aile PS"
 statut: ébauche
 aliases: [Fabius]
+date created: Thursday, April 2nd 2026, 8:18:28 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 

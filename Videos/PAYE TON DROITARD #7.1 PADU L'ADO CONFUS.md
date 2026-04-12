@@ -7,6 +7,8 @@ enjeux: []
 date:
 intervenants: [Zoé, Chris]
 statut: développé
+date created: Sunday, April 12th 2026, 5:27:36 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/théorie #thème/trajectoires-politiques #thème/féminisme #thème/racisme-antiracisme #thème/masculinisme
 

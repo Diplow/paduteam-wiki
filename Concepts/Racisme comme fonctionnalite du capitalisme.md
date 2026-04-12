@@ -4,6 +4,8 @@ domaine: [théorie, économie, société]
 thèmes: [racisme-antiracisme, travail]
 statut: ébauche
 aliases: [Racisme comme fonctionnalité du capitalisme]
+date created: Friday, April 3rd 2026, 2:31:33 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/économie #domaine/société #thème/racisme-antiracisme #thème/travail
 

@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [théorie-marxiste]
 aliases: [Lukacs, Lukács, Georg Lukács]
 statut: ébauche
+date created: Friday, April 3rd 2026, 7:22:45 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/théorie-marxiste
 

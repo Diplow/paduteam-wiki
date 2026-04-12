@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [guerre-des-gauches]
 aliases: [progressisme antimarxiste, poison libéral]
 statut: ébauche
+date created: Saturday, April 4th 2026, 11:20:50 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/guerre-des-gauches
 

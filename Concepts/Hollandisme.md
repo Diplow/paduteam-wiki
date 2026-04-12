@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, PS]
 aliases: [hollandiste, hollandisme révolutionnaire]
 statut: ébauche
+date created: Sunday, April 12th 2026, 5:25:09 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/PS
 

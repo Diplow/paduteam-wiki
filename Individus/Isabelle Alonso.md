@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [féminisme]
 statut: ébauche
 aliases: [Alonso]
+date created: Thursday, April 2nd 2026, 8:18:20 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/féminisme
 

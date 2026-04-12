@@ -5,7 +5,7 @@ thèmes: ['élections']
 statut: ébauche
 aliases: [Éclatement du bloc central]
 date created: Tuesday, March 31st 2026, 2:20:34 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Eclatement du bloc central

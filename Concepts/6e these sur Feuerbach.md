@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [théorie]
 aliases: [6e thèse sur Feuerbach, sixième thèse sur Feuerbach, thèse sur Feuerbach]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/théorie
 

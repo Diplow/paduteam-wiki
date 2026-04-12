@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [théorie]
 aliases: [Editions La Dispute, La Dispute]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:14 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #thème/théorie
 

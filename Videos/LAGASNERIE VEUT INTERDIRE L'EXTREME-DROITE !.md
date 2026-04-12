@@ -8,6 +8,8 @@ date:
 intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]
+date created: Saturday, April 4th 2026, 11:19:29 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire
 

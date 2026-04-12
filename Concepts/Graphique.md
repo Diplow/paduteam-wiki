@@ -5,7 +5,7 @@ thèmes: [élections]
 statut: mature
 aliases: [Saint Graphique, Le Graphique, le graphique, Le Saint Graphique]
 date created: Monday, March 30th 2026, 3:05:06 pm
-date modified: Wednesday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/le-Graphique #thème/élections
 

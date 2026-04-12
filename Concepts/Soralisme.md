@@ -5,7 +5,7 @@ thèmes: [racisme-antiracisme, trajectoires-politiques]
 aliases: [soraliste, recrutement soral]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 10:24:05 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/racisme-antiracisme
 

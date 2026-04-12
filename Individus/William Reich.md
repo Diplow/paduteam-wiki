@@ -4,6 +4,8 @@ domaine: [théorie, société]
 thèmes: [théorie-marxiste, psychiatrie-psychologie]
 aliases: []
 statut: ébauche
+date created: Sunday, April 12th 2026, 3:47:25 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/société #thème/psychiatrie-psychologie
 

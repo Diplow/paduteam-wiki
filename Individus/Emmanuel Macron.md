@@ -5,7 +5,7 @@ thèmes: [élections, guerre-des-gauches]
 statut: développé
 aliases: [Macron, Emmanuel Macron]
 date created: Tuesday, March 31st 2026, 11:00:21 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -47,4 +47,4 @@ Macron joue sa carte habituelle : rester "clé de voûte" entre les deux extrêm
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — A dû modifier ses parcours diplomatiques face aux manifestants réclamant la libération d'Abdallah
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Affirme que la FI est "d'extrême gauche", instrumentalise la mort de Quentin de Rang pour asseoir cette classification
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Affirme que la FI est "d'extrême gauche", instrumentalise la mort de Quentin Deranque pour asseoir cette classification

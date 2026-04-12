@@ -8,6 +8,8 @@ date: 2025-07-01
 intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON]
+date created: Thursday, April 2nd 2026, 10:00:58 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/union-populaire
 

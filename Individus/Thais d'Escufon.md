@@ -6,7 +6,7 @@ quadrant_graphique: "Extrême droite identitaire"
 aliases: [Thais d'Escufon, Thaïs Descufon, Thaïs d'Escufon]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:12 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 

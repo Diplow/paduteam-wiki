@@ -4,6 +4,8 @@ domaine: [théorie, société]
 thèmes: [féminisme, travail]
 aliases: [Zetkin]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 10:55:35 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/travail
 

@@ -8,6 +8,8 @@ date: 2025
 intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]
+date created: Sunday, April 12th 2026, 5:28:16 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/islamophobie #thème/racisme-antiracisme #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 

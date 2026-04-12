@@ -6,6 +6,8 @@ format: react
 enjeux: []
 intervenants: [Padu, Chris]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:30:17 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/travail #thème/guerre-des-gauches
 

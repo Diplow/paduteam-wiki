@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [travail]
 aliases: [dictature du prolétariat, Dictature du prolétariat]
 statut: ébauche
+date created: Saturday, April 4th 2026, 11:22:21 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/travail
 

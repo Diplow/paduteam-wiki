@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [bloc modéré, gauche démocrate, gauche bourgeoise, Bloc démocrate]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 

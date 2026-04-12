@@ -7,6 +7,8 @@ enjeux: [union-populaire]
 intervenants: [Padu, Chris]
 statut: ébauche
 aliases: [MÉLENCHON vs LE PEN 2027 les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE]
+date created: Thursday, April 2nd 2026, 3:19:15 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire
 

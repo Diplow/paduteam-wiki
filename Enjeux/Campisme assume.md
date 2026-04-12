@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches]
 statut: ébauche
 date created: Tuesday, March 31st 2026, 11:48:25 pm
-date modified: Thursday, April 2nd 2026, 10:27:50 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches
 # Campisme assumé

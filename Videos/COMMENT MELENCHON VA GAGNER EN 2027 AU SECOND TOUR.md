@@ -9,7 +9,7 @@ date: 2024-11
 intervenants: [Chris, Padu]
 aliases: [COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR]
 date created: Tuesday, March 31st 2026, 2:20:45 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #enjeu/union-populaire
 # COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR

@@ -6,7 +6,7 @@ quadrant_graphique: "En haut à droite — mais OVNI : orienté valeur d'usage p
 aliases: [fondateur SuperProf, fondateur Super Prof]
 statut: ébauche
 date created: Thursday, April 2nd 2026, 1:07:33 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #thème/travail
 

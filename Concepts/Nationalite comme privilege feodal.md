@@ -4,6 +4,8 @@ domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme, travail]
 statut: ébauche
 aliases: [Nationalité comme privilège féodal]
+date created: Thursday, April 2nd 2026, 3:19:11 pm
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/racisme-antiracisme #thème/travail
 

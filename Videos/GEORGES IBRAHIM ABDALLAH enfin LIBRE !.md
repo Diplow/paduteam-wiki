@@ -8,7 +8,7 @@ statut: développé
 date: 2025-07-XX
 intervenants: [Padu, Chris, Saïd Bouamama]
 date created: Tuesday, March 31st 2026, 10:57:26 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #thème/répression-justice #enjeu/Palestine-libre #enjeu/anti-impérialisme
 # GEORGES IBRAHIM ABDALLAH enfin LIBRE ! (Entretien avec SAÏD BOUAMAMA)

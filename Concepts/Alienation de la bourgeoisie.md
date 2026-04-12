@@ -5,7 +5,7 @@ thèmes: [travail]
 statut: ébauche
 aliases: [aliénation de la bourgeoisie, aliénation bourgeoise]
 date created: Thursday, April 2nd 2026, 12:52:46 am
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #thème/travail
 

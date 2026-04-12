@@ -5,6 +5,8 @@ thèmes: [trajectoires-politiques, élections]
 quadrant_graphique: "indéterminé — tiers-voiiste, ni gauche ni droite"
 aliases: [Chouard, Étienne Chouard]
 statut: ébauche
+date created: Thursday, April 2nd 2026, 8:17:54 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/trajectoires-politiques
 

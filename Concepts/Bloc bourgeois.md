@@ -5,7 +5,7 @@ thèmes: ['élections']
 statut: ébauche
 aliases: [bloc macroniste, bloc central]
 date created: Monday, March 30th 2026, 3:05:06 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections
 # Bloc bourgeois

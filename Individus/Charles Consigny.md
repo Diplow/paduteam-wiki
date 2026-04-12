@@ -5,7 +5,7 @@ thèmes: [médias-propagande]
 statut: ébauche
 aliases: [Consigny, Consigni]
 date created: Wednesday, April 1st 2026, 6:04:13 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande
 # Charles Consigny

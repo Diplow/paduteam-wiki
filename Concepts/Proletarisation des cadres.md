@@ -5,7 +5,7 @@ thèmes: [travail]
 statut: ébauche
 aliases: [prolétarisation des cadres, déclassement des cadres, crise des cadres]
 date created: Wednesday, April 1st 2026, 5:04:35 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/économie #domaine/politique-intérieure #thème/travail
 # Prolétarisation des cadres

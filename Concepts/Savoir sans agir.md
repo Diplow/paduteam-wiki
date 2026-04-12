@@ -5,7 +5,7 @@ thèmes: [médias-propagande]
 aliases: [impuissance contemplative, faux semblant culturel, contemplatisme politique, liturgie intellectuelle]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 9:32:39 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
 #domaine/théorie #domaine/société #thème/médias-propagande
 

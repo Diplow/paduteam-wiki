@@ -8,18 +8,18 @@ date: 2023-01
 intervenants: [Padu, Chris]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 11:23:29 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/union-populaire
 
 # GLUCKSMANN, MACRON GARRIDO QUI VEUT TUER LA FI
 
 ## Résumé
-Suite à la mort de [[Quentin de Rang]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]].
+Suite à la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]].
 
 ## Thèses et analyses clés
 
-1. **Agenda de marginalisation de la FI** : La mort de Quentin de Rang est instrumentalisée par le bloc bourgeois (Macron, Glucksmann, Garrido) pour renforcer la classification de la [[France Insoumise]] à "l'extrême gauche" — une étiquette qui permet d'assimiler la gauche de rupture à l'extrême droite comme forces "non républicaines".
+1. **Agenda de marginalisation de la FI** : La mort de Quentin Deranque est instrumentalisée par le bloc bourgeois (Macron, Glucksmann, Garrido) pour renforcer la classification de la [[France Insoumise]] à "l'extrême gauche" — une étiquette qui permet d'assimiler la gauche de rupture à l'extrême droite comme forces "non républicaines".
 
 2. **[[Prophetie du 2002 inverse]]** : Cette diabolisation est exactement ce que la PaduTeam avait annoncé. [[Jean-Luc Melenchon]] arrivera au second tour surdiabolisé, avec un "vote caché" — sondages à 14-15% mais résultat réel à 17-18%, suffisant pour passer la barre dans un scrutin fragmenté.
 
@@ -36,7 +36,7 @@ Suite à la mort de [[Quentin de Rang]], militant [[Collectif Nemesis|Némésis]
 8. **[[Raquel Garrido]] = Brutus** : Garrido essaie de tuer la FI "de l'intérieur" en présentant Mélenchon comme le problème de la FI. C'est Brutus et César — quelqu'un que Mélenchon appelait "sa famille". Honte à elle.
 
 ## Individus mentionnés
-[[Emmanuel Macron]], [[Raphael Glucksmann]], [[Raquel Garrido]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Raphael Arnaud]], [[Quentin de Rang]], [[Yael Braun-Pivet]], [[Laurent Nunez]], [[Aurore Laluc]], [[Michel-Edouard Leclerc]], [[Thierry Breton]], [[Nathalie Arthaud]], [[Marco Rubio]], [[Alexis Corbière]], [[Thomas Sankara]], [[Blaise Compaoré]], [[Sara Farris]], [[Jean-Claude Michea]], [[Mikheil Saakachvili]], [[Donald Trump]], [[Benjamin Netanyahu]]
+[[Emmanuel Macron]], [[Raphael Glucksmann]], [[Raquel Garrido]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Raphael Arnaud]], [[Quentin Deranque]], [[Yael Braun-Pivet]], [[Laurent Nunez]], [[Aurore Laluc]], [[Michel-Edouard Leclerc]], [[Thierry Breton]], [[Nathalie Arthaud]], [[Marco Rubio]], [[Alexis Corbière]], [[Thomas Sankara]], [[Blaise Compaoré]], [[Sara Farris]], [[Jean-Claude Michea]], [[Mikheil Saakachvili]], [[Donald Trump]], [[Benjamin Netanyahu]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Collectif Nemesis]], [[La Jeune Garde]], [[Place Publique]], [[Rassemblement National]], [[Action Francaise]], [[Ligue de Defense Juive]], [[Positions Revue]]

@@ -1,3 +1,7 @@
+---
+date created: Sunday, April 12th 2026, 5:25:19 pm
+date modified: Sunday, April 12th 2026, 5:46:47 pm
+---
 # Plan d'évolution — Graphiked
 
 ## État actuel (12 avril 2026)
@@ -160,14 +164,3 @@ Quand une convention change (ex: nouveau champ frontmatter, nouvelle section obl
 2. Applique la migration (ajout de champ, restructuration de section)
 3. Crée une PR unique "migrate: description du changement"
 
----
-
-## Questions ouvertes
-
-- [ ] Le repo doit-il être public (collaboration ouverte) ou privé (contrôle) ?
-- [ ] Les transcripts (607 fichiers) sont-ils versionnés ou ignorés par git ? (volume vs traçabilité)
-- [ ] Les MOC sont-ils manuels ou auto-générés (Dataview) ?
-- [ ] Faut-il une chronologie par semestre, trimestre, ou mois ?
-- [ ] Le sourcing timestamp justifie-t-il le surcoût en temps d'ingestion ?
-- [ ] Faut-il créer de nouveaux enjeux maintenant ou attendre d'avoir ingéré plus de vidéos ?
-- [ ] Quelle granularité pour les PR d'ingestion : 1 PR = 1 vidéo, ou 1 PR = batch de 5 vidéos ?

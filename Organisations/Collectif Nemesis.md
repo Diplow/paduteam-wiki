@@ -6,7 +6,7 @@ quadrant_graphique: "Extrême droite identitaire"
 aliases: [Némésis, Collectif Némésis]
 statut: ébauche
 date created: Wednesday, April 1st 2026, 11:26:45 pm
-date modified: Thursday, April 2nd 2026, 10:27:51 am
+date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 
@@ -24,7 +24,7 @@ Leur esthétique est décrite comme "virginale", avec un côté "image de secte"
 - [[Alice Cordier]] — fondatrice et porte-parole
 
 ## Stratégie de provocation
-Némésis envoie des militants perturber les réunions publiques de la FI pour provoquer des confrontations. L'objectif est de faire "dégoupiller" les militants de gauche, de créer des incidents, puis de se présenter en victimes. La mort de [[Quentin de Rang]] lors d'une rixe à Lyon s'inscrit dans cette stratégie : Némésis se pointe à une conférence de [[Rima Hassan]], provoque une confrontation avec des antifas ([[La Jeune Garde]]), et l'issue tragique est ensuite utilisée pour accuser la FI.
+Némésis envoie des militants perturber les réunions publiques de la FI pour provoquer des confrontations. L'objectif est de faire "dégoupiller" les militants de gauche, de créer des incidents, puis de se présenter en victimes. La mort de [[Quentin Deranque]] lors d'une rixe à Lyon s'inscrit dans cette stratégie : Némésis se pointe à une conférence de [[Rima Hassan]], provoque une confrontation avec des antifas ([[La Jeune Garde]]), et l'issue tragique est ensuite utilisée pour accuser la FI.
 
 "Si ça avait pas été ce coup-là, ça aurait été un autre. Ça va être comme ça pendant un an."
 
@@ -32,4 +32,4 @@ L'[[Action Francaise]] elle-même a reconnu que Némésis avait "été la cause"
 
 ## Vidéos où le Collectif Némésis est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Leur stratégie de provocation décryptée ; mort de Quentin de Rang instrumentalisée
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Leur stratégie de provocation décryptée ; mort de Quentin Deranque instrumentalisée
