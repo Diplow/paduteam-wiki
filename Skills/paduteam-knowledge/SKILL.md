@@ -58,7 +58,7 @@ main              ← production (déclenche la publication du wiki)
 
 ### Publication (develop → main)
 
-Le merge de `develop` dans `main` est fait manuellement par l'utilisateur quand il veut publier une nouvelle version du wiki. Ce merge déclenche la publication (mécanisme à définir selon l'outil de publication choisi).
+Le merge de `develop` dans `main` est fait manuellement par l'utilisateur quand il veut publier une nouvelle version du wiki. La publication se fait ensuite via Obsidian Publish (sync manuelle depuis l'app).
 
 ## Chemins du vault
 
