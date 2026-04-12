@@ -2,10 +2,8 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 date created: Tuesday, March 31st 2026, 11:17:31 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Droite antisystème"
 ---
 #domaine/politique-intérieure
 # Marine Le Pen

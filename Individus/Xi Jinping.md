@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique, économie]
 thèmes: [anti-impérialisme, États-Unis]
 aliases: [Jing Ping, Xi]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:38:33 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

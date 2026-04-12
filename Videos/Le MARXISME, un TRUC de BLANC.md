@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [théorie, société]
 thèmes: [racisme-antiracisme, le-Graphique]
-format: analyse
 enjeux: [le-Graphique]
 date: 2026-01-01
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Sunday, April 12th 2026, 3:47:07 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

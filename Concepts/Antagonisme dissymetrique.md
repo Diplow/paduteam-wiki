@@ -2,7 +2,6 @@
 type: concept
 domaine: ['société', 'théorie']
 thèmes: []
-statut: ébauche
 aliases: [Antagonisme dissymÃ©trique]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

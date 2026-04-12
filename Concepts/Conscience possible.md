@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [travail, le-Graphique]
 aliases: [conscience maximale possible, mögliches Bewusstsein]
-statut: ébauche
 date created: Friday, April 3rd 2026, 7:22:02 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

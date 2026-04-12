@@ -3,7 +3,6 @@ type: concept
 domaine: [société, géopolitique]
 thèmes: [féminisme, écologie]
 aliases: [malthusien, néomalthusianisme, antinatalisme]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:47:28 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

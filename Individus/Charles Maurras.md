@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [médias-propagande]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:46:31 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

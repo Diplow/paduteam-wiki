@@ -2,7 +2,6 @@
 type: concept
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [huile de noisette, noisette concassée]
 date created: Wednesday, April 1st 2026, 6:26:28 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

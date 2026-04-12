@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [féminisme, médias-propagande]
 aliases: [Danis, Danic Caligula, Dany]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:36:42 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

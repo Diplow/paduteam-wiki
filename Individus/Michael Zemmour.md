@@ -2,7 +2,6 @@
 type: individu
 domaine: [économie]
 thèmes: [travail, élections]
-statut: ébauche
 aliases: [Michaël Zemmour]
 date created: Thursday, April 2nd 2026, 10:07:41 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

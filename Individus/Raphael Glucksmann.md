@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, anti-impérialisme]
-quadrant_graphique: "Haut-gauche (gauche libérale, atlantiste, bourgeoisie progressiste)"
 aliases: [Glucksmann, Raphaël G., Raphael Glucksmann, Raphaël Glucksmann]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:06:42 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

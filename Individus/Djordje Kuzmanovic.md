@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Kuzmanovic, Nicolas Kuzmanovic]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:13 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

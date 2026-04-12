@@ -2,10 +2,8 @@
 type: individu
 domaine: []
 thèmes: []
-statut: ébauche
 date created: Monday, March 30th 2026, 3:01:57 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Inclassable / populaire rural"
 ---
 # Jean Lassalle
 

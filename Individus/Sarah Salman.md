@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: []
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:45:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

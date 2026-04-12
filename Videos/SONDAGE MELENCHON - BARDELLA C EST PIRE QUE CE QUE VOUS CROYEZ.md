@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, médias-propagande]
-format: analyse
 enjeux: [union-populaire]
-statut: ébauche
 date: 2025-11-27
-intervenants: [Zoé, Chris]
 date created: Wednesday, April 1st 2026, 5:56:26 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

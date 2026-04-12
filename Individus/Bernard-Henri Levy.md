@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique, société]
 thèmes: [anti-impérialisme, médias-propagande]
 aliases: [BHL, Bernard Henri Lévy, Bernard-Henri Lévy]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:12 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

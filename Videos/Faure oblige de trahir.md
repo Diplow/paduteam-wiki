@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 12:38:04 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

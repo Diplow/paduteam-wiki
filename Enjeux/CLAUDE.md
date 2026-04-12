@@ -18,7 +18,7 @@ Le concept explique ; l'enjeu mobilise.
 type: enjeu
 domaine: [politique-intérieure]      # 1-2 valeurs
 thèmes: [guerre-des-gauches]        # vocabulaire contrôlé
-statut: ébauche                      # ébauche | développé | mature
+skill_version: "1.0"                 # version du skill ayant généré la fiche
 ```
 
 ## Sections attendues

@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, répression-justice]
 aliases: [Lula da Silva, Luis Inácio Lula da Silva]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:13 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

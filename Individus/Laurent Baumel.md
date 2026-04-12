@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
-quadrant_graphique: "Haut-droite (aile droite PS)"
 aliases: [Baumel]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:13 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

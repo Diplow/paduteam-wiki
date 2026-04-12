@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [théorie, société]
 thèmes: [féminisme, racisme-antiracisme]
-format: analyse
 enjeux: []
-statut: développé
-intervenants: [Padu, Chris]
 date created: Tuesday, March 31st 2026, 10:11:07 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

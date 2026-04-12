@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 9:31:39 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

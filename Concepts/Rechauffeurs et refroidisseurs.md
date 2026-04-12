@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 aliases: [refroidisseurs, réchauffeurs, réchauffeur, refroidisseur, Réchauffeurs et refroidisseurs]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:11 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

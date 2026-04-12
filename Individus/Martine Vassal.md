@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-quadrant_graphique: "Droite système"
 aliases: [Vassal]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:02:30 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

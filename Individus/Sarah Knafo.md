@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [Sarah Knafo]
-quadrant_graphique: "Droite radicale"
 date created: Thursday, April 2nd 2026, 1:17:03 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

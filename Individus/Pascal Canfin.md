@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches]
-quadrant_graphique: "Haut-droite — écolo-libéral"
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:01:26 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

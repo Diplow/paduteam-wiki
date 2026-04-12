@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, société]
 thèmes: [racisme-antiracisme, anti-impérialisme]
 aliases: [Césaire, Cesaire, Aimé Césaire]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:56:32 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

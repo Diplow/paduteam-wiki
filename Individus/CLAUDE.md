@@ -12,16 +12,14 @@ date modified: Sunday, April 12th 2026, 5:46:48 pm
 type: individu
 domaine: [politique-intérieure]      # 1-2 valeurs
 thèmes: [élections, guerre-des-gauches]  # vocabulaire contrôlé
-quadrant_graphique: "bas-gauche"     # position dans le Graphique si connue
 aliases: [Méluche, JLM]             # noms alternatifs
-statut: ébauche                      # ébauche | développé | mature
+skill_version: "1.0"                 # version du skill ayant généré la fiche
 ```
 
 ## Sections attendues
 
 1. Profil synthétique (1-3 phrases)
-2. Position dans le Graphique (si discutée)
-3. Stratégie et trajectoire (analyse PaduTeam)
+2. Stratégie et trajectoire (analyse PaduTeam)
 4. Relations (wikilinks vers individus et organisations)
 5. Vidéos où X est analysé (liste de wikilinks)
 

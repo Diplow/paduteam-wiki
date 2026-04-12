@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections, ruralité, racisme-antiracisme]
-format: analyse
 enjeux: [union-populaire]
-statut: ébauche
 date:
-intervenants: [Padu, Chris]
 aliases: [CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON]
 date created: Wednesday, April 1st 2026, 7:51:47 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

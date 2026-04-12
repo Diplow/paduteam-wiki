@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie, économie]
 thèmes: [travail]
-statut: ébauche
 aliases: [Friot]
 date created: Wednesday, April 1st 2026, 5:38:15 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

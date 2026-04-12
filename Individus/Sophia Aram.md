@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches]
-statut: ébauche
 aliases: []
 date created: Sunday, April 12th 2026, 5:27:25 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [travail, féminisme]
 aliases: [Yasuk, Yassou, yassouk.k]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:19 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

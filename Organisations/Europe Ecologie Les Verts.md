@@ -2,11 +2,9 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, écologie, élections]
-statut: développé
 aliases: [Europe Écologie Les Verts]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Haut milieu (post-matérialiste)"
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/écologie #thème/élections
 

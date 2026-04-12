@@ -2,7 +2,6 @@
 type: concept
 domaine: ['théorie']
 thèmes: []
-statut: ébauche
 aliases: [ConfÃ©rence tricontinentale, Tricontinentale de 1966]
 date created: Tuesday, March 31st 2026, 10:59:47 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

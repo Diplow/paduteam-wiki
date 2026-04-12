@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société]
 thèmes: [médias-propagande, répression-justice, féminisme]
-format: react
 enjeux: []
 date: 2024-12-09
-intervenants: [Padu]
-statut: ébauche
 aliases: [KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ CONTRE PADU PAPACITO ET MILA]
 date created: Thursday, April 2nd 2026, 10:49:02 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

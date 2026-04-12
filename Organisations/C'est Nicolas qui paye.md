@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 aliases: [Nicolas qui paye, C'est Nicolas qui paye collectif]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:24:41 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

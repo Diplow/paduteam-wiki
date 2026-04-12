@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, le-Graphique, élections]
-format: react
 enjeux: [union-populaire, le-Graphique, campisme-assumé]
 date: 2025-05-01
-intervenants: [Padu]
-statut: ébauche
 aliases: [LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]
 date created: Sunday, April 12th 2026, 5:27:36 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

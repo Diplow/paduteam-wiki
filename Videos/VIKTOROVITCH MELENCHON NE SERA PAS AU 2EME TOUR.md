@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, médias-propagande]
-format: react
 enjeux: [union-populaire, plus-jamais-PS]
-intervenants: [Padu, Chris]
-statut: ébauche
 aliases: [VIKTOROVITCH MÉLENCHON NE SERA PAS AU 2ÈME TOUR]
 date created: Sunday, April 12th 2026, 5:28:17 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

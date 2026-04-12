@@ -3,7 +3,6 @@ type: organisation
 domaine: [société]
 thèmes: [travail]
 aliases: [Allegria, Allégria]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:08:09 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

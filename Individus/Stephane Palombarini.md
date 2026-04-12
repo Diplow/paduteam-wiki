@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie]
 thèmes: []
-statut: ébauche
 aliases: [Stéphane Palombarini]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

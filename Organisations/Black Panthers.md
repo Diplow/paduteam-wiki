@@ -2,7 +2,6 @@
 type: organisation
 domaine: [théorie]
 thèmes: [racisme-antiracisme]
-statut: ébauche
 aliases: [Black Panther Party]
 date created: Tuesday, March 31st 2026, 10:58:47 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm

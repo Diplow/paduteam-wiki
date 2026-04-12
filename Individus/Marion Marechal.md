@@ -2,11 +2,9 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 aliases: [Marion Maréchal]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Droite civilisationnelle / haut-droite"
 ---
 #domaine/politique-intérieure
 # Marion Maréchal

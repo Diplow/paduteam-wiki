@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: développé
 aliases: [Jean-Luc Melenchon, Mélenchon, JLM, Jean-Luc, Jean-Luc Mélenchon]
-quadrant_graphique: "Bas-gauche (classes populaires, gauche antisystème)"
 date created: Tuesday, March 31st 2026, 2:20:43 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

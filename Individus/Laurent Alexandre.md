@@ -2,9 +2,7 @@
 type: individu
 domaine: [société, théorie]
 thèmes: [travail, médias-propagande]
-quadrant_graphique: "En haut à droite — dominant économiquement et culturellement"
 aliases: [Dr Laurent Alexandre, Laurent Alexandre chirurgien]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:51:30 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

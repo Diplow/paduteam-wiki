@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, médias-propagande]
-statut: développé
 aliases: [Aurore Bergé, Aurore Berge]
-quadrant_graphique: "Centre-droite macroniste"
 date created: Wednesday, April 1st 2026, 7:43:04 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

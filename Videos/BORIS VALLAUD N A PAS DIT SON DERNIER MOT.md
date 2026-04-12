@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
-statut: développé
 date: 2026-03-30
-intervenants: [Padu, Chris]
 date created: Tuesday, March 31st 2026, 10:36:35 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

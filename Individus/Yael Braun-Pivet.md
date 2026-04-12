@@ -3,8 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 aliases: [Yaël Braun-Pivet, Bron Pivé]
-quadrant_graphique: "Bloc bourgeois macroniste"
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:23:43 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure', 'société']
 thèmes: ['racisme-antiracisme']
-statut: ébauche
 aliases: [antiracisme concret, antiracisme abstrait, antiracisme universaliste]
 date created: Tuesday, March 31st 2026, 10:59:56 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

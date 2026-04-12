@@ -2,7 +2,6 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: développé
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,9 +2,7 @@
 type: organisation
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches]
-quadrant_graphique: "Haut-droite — service public acquis au bloc bourgeois"
 aliases: [France Interre, France Inter]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:58:18 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

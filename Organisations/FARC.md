@@ -2,7 +2,6 @@
 type: organisation
 domaine: []
 thèmes: []
-statut: ébauche
 aliases: [Forces armées révolutionnaires de Colombie, Farcs]
 date created: Tuesday, March 31st 2026, 9:52:27 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie]
 thèmes: [ruralité, élections]
-statut: ébauche
 aliases: [Hervé Le Bras, Le Bras, Lebras]
 date created: Wednesday, April 1st 2026, 5:56:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

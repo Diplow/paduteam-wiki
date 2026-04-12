@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
-quadrant_graphique: "Bas-droite (faussement social, raciste)"
 aliases: [Philippot]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:03:16 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,9 +2,7 @@
 type: individu
 domaine: [théorie, politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-quadrant_graphique: "Bas-gauche (antilibéral, spinoziste, proche des classes populaires)"
 aliases: [Lordon, l'Ordon, Fred Lordon, Frederic Lordon, Frédéric Lordon]
-statut: développé
 date created: Wednesday, April 1st 2026, 9:45:02 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

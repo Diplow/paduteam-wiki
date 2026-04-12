@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme]
 aliases: [Eka Zgouadze, Eka Zgouad]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:12 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

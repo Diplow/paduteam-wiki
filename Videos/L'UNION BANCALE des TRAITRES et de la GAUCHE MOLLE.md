@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2025-07
-intervenants: [Padu, Chris, Zoé]
-statut: ébauche
 aliases: [L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]
 date created: Sunday, April 12th 2026, 5:25:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

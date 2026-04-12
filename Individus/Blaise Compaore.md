@@ -3,7 +3,6 @@ type: individu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme]
 aliases: [Blaise Compaoré]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:24:23 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

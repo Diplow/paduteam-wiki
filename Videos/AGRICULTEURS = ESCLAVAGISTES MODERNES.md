@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [économie, société]
 thèmes: [racisme-antiracisme, travail, ruralité]
-format: react
 enjeux: []
 date: 2026-03
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:39:07 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

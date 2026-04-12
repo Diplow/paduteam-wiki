@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [Éva Joly]
 date created: Wednesday, April 1st 2026, 5:51:04 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

@@ -2,7 +2,6 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [France Humaniste]
 date created: Sunday, April 12th 2026, 5:25:20 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

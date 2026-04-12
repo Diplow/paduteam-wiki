@@ -3,7 +3,6 @@ type: concept
 domaine: [économie, théorie]
 thèmes: [États-Unis, anti-impérialisme]
 aliases: [Alternative socialiste, Bifurcation socialiste]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 10:38:59 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [société]
 thèmes: [féminisme, masculinisme]
-format: react
 enjeux: []
-intervenants: [Padu, Zoé]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:31:12 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

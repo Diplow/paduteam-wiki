@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, répression-justice]
 aliases: [Raphaël Arnaud]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:24:12 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

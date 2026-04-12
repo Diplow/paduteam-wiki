@@ -2,7 +2,6 @@
 type: concept
 domaine: ['société', 'théorie']
 thèmes: ['le-Graphique', 'racisme-antiracisme']
-statut: ébauche
 aliases: [3ème dimension du graphique, genre dans le graphique, race dans le graphique]
 date created: Tuesday, March 31st 2026, 10:11:34 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

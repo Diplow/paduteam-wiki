@@ -2,7 +2,6 @@
 type: concept
 domaine: [politique-intérieure, théorie]
 thèmes: [élections, médias-propagande]
-statut: ébauche
 aliases: [Surestimation sondagière de la droite, Droitisation sondagière]
 date created: Wednesday, April 1st 2026, 5:57:10 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

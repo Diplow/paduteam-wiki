@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [écologie, guerre-des-gauches]
 aliases: [écologie punitive, écologie libérale]
-statut: développé
 date created: Wednesday, April 1st 2026, 7:28:34 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,7 +2,6 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 aliases: [Mouvement des jeunes communistes de France]
 date created: Wednesday, April 1st 2026, 12:47:24 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm

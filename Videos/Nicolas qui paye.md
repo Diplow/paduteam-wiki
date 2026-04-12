@@ -7,15 +7,10 @@ thèmes:
   - travail
   - le-Graphique
   - féminisme
-format: analyse
 enjeux:
   - le-Graphique
   - union-populaire
 date:
-intervenants:
-  - Chris
-  - Zoé
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:17:11 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

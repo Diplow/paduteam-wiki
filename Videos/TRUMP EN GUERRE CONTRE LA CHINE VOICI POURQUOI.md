@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme, néolibéralisme]
-format: analyse
 enjeux: [anti-impérialisme]
 date: 2026-03-31
-intervenants: [Padu, Chris]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:15 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

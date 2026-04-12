@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie]
 thèmes: [travail]
-statut: ébauche
 aliases: [rapports de production, rapport de production]
 date created: Wednesday, April 1st 2026, 5:56:20 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

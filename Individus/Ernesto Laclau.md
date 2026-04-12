@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Ernesto Laclau]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:13:21 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

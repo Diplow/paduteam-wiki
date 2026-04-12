@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Clémence Guetté, Clémence Geté, Guetté]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:38:45 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

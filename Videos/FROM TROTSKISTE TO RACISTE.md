@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société, théorie]
 thèmes: [islamophobie, laïcité, racisme-antiracisme, trajectoires-politiques]
-format: react
 enjeux: [union-populaire, campisme-assumé]
 date: 2024-01-01
-intervenants: [Zoé, Chris]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:22:04 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

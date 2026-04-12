@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:25:13 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

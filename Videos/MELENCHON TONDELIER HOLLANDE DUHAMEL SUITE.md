@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
-format: analyse
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2026-02-07
-intervenants: [Padu, Chris, Zoé]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 7:26:15 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

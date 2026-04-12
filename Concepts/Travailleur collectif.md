@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [marxisme, travail, salariat-généralisé]
 aliases: [parlement du travailleur collectif, États généraux du travailleur collectif]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 3:19:12 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

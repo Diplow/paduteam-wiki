@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure', 'théorie']
 thèmes: [élections]
-statut: ébauche
 aliases: [Prophétie du 2002 inversé, 2002 inversé, 2002 à l'envers]
 date created: Thursday, April 2nd 2026, 1:07:38 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

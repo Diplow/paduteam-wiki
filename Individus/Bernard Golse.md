@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie]
 thèmes: []
 aliases: [Golse, Bernard Gols]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:32:04 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

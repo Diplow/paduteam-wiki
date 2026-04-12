@@ -2,7 +2,6 @@
 type: concept
 domaine: ['économie']
 thèmes: []
-statut: ébauche
 date created: Tuesday, March 31st 2026, 10:42:02 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

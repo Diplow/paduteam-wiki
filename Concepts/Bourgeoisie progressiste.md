@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [élections]
-statut: ébauche
 aliases: [bourgeoisie progressiste, députés montagnards]
 date created: Wednesday, April 1st 2026, 6:06:14 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

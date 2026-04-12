@@ -2,10 +2,8 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, écologie]
-statut: mature
 date created: Tuesday, March 31st 2026, 10:38:58 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
-quadrant_graphique: "Haut milieu (post-matérialiste)"
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

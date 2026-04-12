@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections]
-format: analyse
 enjeux: [union-populaire]
-statut: développé
 date: 2024-11
-intervenants: [Chris, Padu]
 aliases: [COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR]
 date created: Tuesday, March 31st 2026, 2:20:45 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

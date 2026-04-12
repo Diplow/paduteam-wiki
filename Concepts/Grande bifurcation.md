@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie, économie]
 thèmes: [travail]
-statut: ébauche
 aliases: [grande bifurcation, bifurcation Duménil Lévy]
 date created: Wednesday, April 1st 2026, 7:18:26 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

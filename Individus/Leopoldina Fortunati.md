@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, société]
 thèmes: [féminisme, travail]
 aliases: [Fortunati]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 10:55:41 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

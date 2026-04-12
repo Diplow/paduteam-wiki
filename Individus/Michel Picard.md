@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
-quadrant_graphique: "Bas-milieu (PCF)"
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:02:53 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

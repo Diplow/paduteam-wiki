@@ -3,7 +3,6 @@ type: organisation
 domaine: [politique-intérieure, géopolitique]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Podemos]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:38:58 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

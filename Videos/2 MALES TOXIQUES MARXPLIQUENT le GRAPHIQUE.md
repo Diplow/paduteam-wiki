@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [théorie]
 thèmes: [féminisme, travail]
-format: analyse
 enjeux: []
-intervenants: [Padu, Chris, Zoé]
-statut: ébauche
 aliases: [2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]
 date created: Wednesday, April 1st 2026, 5:02:55 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

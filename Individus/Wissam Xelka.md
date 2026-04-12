@@ -2,9 +2,7 @@
 type: individu
 domaine: [société, théorie]
 thèmes: [médias-propagande, racisme-antiracisme, théorie-marxiste]
-quadrant_graphique: "Salariat généralisé"
 aliases: [Wisam, Wissam, Wiisam]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:41 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

@@ -2,9 +2,7 @@
 type: individu
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
-quadrant_graphique: "Extrême droite identitaire"
 aliases: [Thais d'Escufon, Thaïs Descufon, Thaïs d'Escufon]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 9:44:12 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

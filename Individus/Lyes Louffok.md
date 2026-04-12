@@ -2,7 +2,6 @@
 type: individu
 domaine: [théorie]
 thèmes: []
-statut: ébauche
 date created: Tuesday, March 31st 2026, 11:19:50 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

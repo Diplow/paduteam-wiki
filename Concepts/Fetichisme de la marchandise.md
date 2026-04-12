@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie]
 thèmes: [travail]
-statut: ébauche
 aliases: [fétichisme de la marchandise]
 date created: Thursday, April 2nd 2026, 12:52:38 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

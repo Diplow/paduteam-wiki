@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Coquerel, Éric Coquerel]
-statut: ébauche
 date created: Sunday, April 12th 2026, 5:27:26 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

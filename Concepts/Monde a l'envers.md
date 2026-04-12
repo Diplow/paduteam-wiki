@@ -3,7 +3,6 @@ type: concept
 domaine: [théorie]
 thèmes: [travail]
 aliases: [monde à l'envers, monde inversé, monde renversé]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:52:00 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

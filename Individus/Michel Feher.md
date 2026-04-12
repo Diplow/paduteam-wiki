@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie]
 thèmes: [guerre-des-gauches, médias-propagande]
 aliases: [Michel Fer]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 11:38:38 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

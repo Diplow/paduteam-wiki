@@ -2,9 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, écologie]
-quadrant_graphique: "Haut milieu (écolo ligne Jadot)"
 aliases: [Moncond'huy, Leonore Monconduy, Léonore Moncond'huy]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:02:15 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

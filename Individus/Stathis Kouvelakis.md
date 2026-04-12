@@ -3,7 +3,6 @@ type: individu
 domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Stathis, Kouvelakis]
-statut: développé
 date created: Thursday, April 2nd 2026, 12:23:36 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

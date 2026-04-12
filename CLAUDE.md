@@ -6,13 +6,41 @@ date modified: Sunday, April 12th 2026, 5:46:48 pm
 
 ## Objectif
 
-Construire un graphe de connaissances Obsidian documentant l'univers analytique de la PaduTeam, chaîne YouTube marxiste-communiste francophone. Le vault capture fidèlement leurs analyses sans les challenger.
+Construire un graphe de connaissances Obsidian documentant l'univers analytique de la PaduTeam. Le vault capture fidèlement leurs analyses sans les challenger.
+
+## Qui est la PaduTeam
+
+La PaduTeam n'est pas une chaîne de commentaire politique. C'est le bras médiatique de **La Brèche**, une association militante loi 1901 dont la production de contenu YouTube n'est qu'une des activités.
+
+### Membres
+
+- **Padu** (Pas Dühring) — Pédopsychiatre, créateur, marxiste-léniniste
+- **Chris** — Cadre industrie, fondateur de *Positions Revue*, concepteur du Saint Graphique
+- **Zoé** (Dr Zoé) — Médecin généraliste, féministe matérialiste
+
+Les trois gardent leurs emplois salariés — c'est un choix militant théorisé : extraire les militants de leur milieu professionnel crée une "pseudo avant-garde" déconnectée de la pratique collective.
+
+### Ce que la PaduTeam cherche à faire
+
+1. **Donner des grilles de lecture matérialistes** — Le Graphique (matrice ACM PCS INSEE), l'analyse en blocs sociaux, le matérialisme historique. L'objectif est de *former politiquement* les spectateurs, de leur "donner des billes de réflexion" (Zoé) utilisables dans les syndicats, les organisations, le terrain. Pas de commenter l'actualité.
+
+2. **Mener la bataille culturelle** — Être présent quotidiennement face à l'extrême droite qui a pris massivement l'espace internet. Choisir un camp, assumer une position de classe. "Radicaliser la gauche molle", porter une ligne de gauche radicale le plus largement possible.
+
+3. **Proposer un possible** — Contre la vision pénurique dominante du monde (qui légitime les inégalités comme inévitables), montrer que l'abondance existe et est captée par les plus riches (cf. [[Choc d'abondance]]). "Analyser les phénomènes mais surtout proposer" (Zoé).
+
+4. **Condenser le mouvement gazeux** — Critique centrale de LFI : un mouvement non structuré se disperse. La Brèche est la réponse : structures militantes denses, ancrées dans le milieu professionnel, fédérées entre elles. La période (néolibéralisme en crise, extrême-droitisation, désocialisation des territoires) nécessite cette structuration.
+
+5. **Devenir majoritaire** — "Résister c'est déjà perdre un peu" (Padu). Sortir de la complaisance minoritaire. "On est persuadé, on a la foi dans le fait que nos idées peuvent devenir demain majoritaires et hégémoniques" (Chris).
+
+### Pourquoi c'est important pour le vault
+
+Ce cadre informe le "pourquoi" derrière chaque analyse PaduTeam. Quand ils parlent du PS, ce n'est pas du commentaire — c'est une pièce dans le combat "Plus jamais PS". Quand ils analysent le Graphique, c'est un outil de formation politique, pas un exercice académique. Chaque fiche du vault doit porter cette intention militante — pas la nuancer, pas la neutraliser.
 
 ## Usage du vault
 
 Ce vault sert **deux fonctions** :
 
-1. **Construction** — Ingérer des vidéos PaduTeam pour enrichir la base de connaissances (skill `paduteam-knowledge`)
+1. **Construction** — Ingérer des vidéos PaduTeam pour enrichir la base de connaissances (voir `BUILD.md` pour l'architecture des skills)
 
 2. **Consultation** — Répondre aux questions sur la politique française, la géopolitique ou les concepts selon l'angle analytique PaduTeam
 
@@ -44,18 +72,18 @@ Le vault est une base de connaissances vivante — l'interroger fait partie de s
 
 ## Taxonomie des tags
 
-5 axes structurent le tagging (voir `Skills/paduteam-knowledge/SKILL.md` pour le détail complet):
+3 axes structurent le tagging (voir `BUILD.md` pour le détail complet) :
 
 1. **domaine** — champ d'analyse (politique-intérieure, géopolitique, économie, théorie, société)
-2. **thèmes** — sujets spécifiques récurrents (vocabulaire contrôlé, extensible)
-3. **format** — série/format vidéo (vidéos uniquement)
-4. **enjeux** — combats stratégiques récurrents de la PaduTeam
-5. **statut** — niveau de complétude (ébauche, développé, mature)
+2. **thèmes** — sujets spécifiques récurrents (vocabulaire contr��lé, extensible)
+3. **enjeux** — combats stratégiques récurrents de la PaduTeam
 
 **Le tag `paduteam` n'est pas utilisé** — tout le vault est PaduTeam par définition.
 
-## Membres de la PaduTeam
+## Comment le vault est construit
 
-- **Padu** (Pas Dühring) — Pédopsychiatre, créateur, marxiste-léniniste
-- **Chris** — Cadre industrie, fondateur de *Positions Revue*, concepteur du Saint Graphique
-- **Zoé** (Dr Zoé) — Médecin généraliste, féministe matérialiste
+Voir `BUILD.md` pour l'architecture des skills, les conventions de construction, le workflow git et les invariants.
+
+## Principe d'auto-amélioration
+
+Chaque ingestion de vidéo est une occasion de récolter du feedback pour le système lui-même. Les transcripts peuvent révéler des insights qui devraient mettre à jour ce fichier (`CLAUDE.md`), `BUILD.md`, les définitions de skills ou les conventions. Rien dans la description du système n'est figé — chaque transcript est une source potentielle de raffinement.

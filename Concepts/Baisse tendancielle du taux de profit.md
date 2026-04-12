@@ -2,7 +2,6 @@
 type: concept
 domaine: [économie, théorie]
 thèmes: [travail]
-statut: ébauche
 aliases: [baisse tendancielle du taux de profit, BTTP]
 date created: Wednesday, April 1st 2026, 7:18:17 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

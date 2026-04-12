@@ -2,7 +2,6 @@
 type: concept
 domaine: [théorie]
 thèmes: [élections]
-statut: mature
 aliases: [Saint Graphique, Le Graphique, le graphique, Le Saint Graphique]
 date created: Monday, March 30th 2026, 3:05:06 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
-statut: ébauche
 date created: Tuesday, March 31st 2026, 10:39:15 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

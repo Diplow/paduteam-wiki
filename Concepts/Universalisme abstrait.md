@@ -2,7 +2,6 @@
 type: concept
 domaine: ['société']
 thèmes: ['racisme-antiracisme']
-statut: ébauche
 aliases: [universalisme républicain, antiracisme universaliste]
 date created: Tuesday, March 31st 2026, 10:12:06 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

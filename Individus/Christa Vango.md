@@ -3,7 +3,6 @@ type: individu
 domaine: [société]
 thèmes: [féminisme, médias-propagande]
 aliases: []
-statut: développé
 date created: Wednesday, April 1st 2026, 9:45:15 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

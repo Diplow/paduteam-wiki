@@ -2,7 +2,6 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
-statut: ébauche
 aliases: [Raquel Garrido]
 date created: Thursday, April 2nd 2026, 1:16:57 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm

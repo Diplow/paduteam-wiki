@@ -2,9 +2,7 @@
 type: individu
 domaine: [société]
 thèmes: [travail]
-quadrant_graphique: "En haut à droite — CEO startupeuse de l'éducation"
 aliases: []
-statut: ébauche
 date created: Thursday, April 2nd 2026, 1:07:51 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

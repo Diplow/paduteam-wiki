@@ -2,7 +2,6 @@
 type: concept
 domaine: ['politique-intérieure']
 thèmes: ['élections']
-statut: ébauche
 aliases: [primaire de la gauche noisette]
 date created: Tuesday, March 31st 2026, 10:42:10 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm

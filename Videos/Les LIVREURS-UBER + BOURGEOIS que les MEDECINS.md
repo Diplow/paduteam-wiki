@@ -2,10 +2,7 @@
 type: vidéo
 domaine: [théorie, économie]
 thèmes: [travail]
-format: analyse
 enjeux: []
-statut: ébauche
-intervenants: [Padu, Chris]
 date created: Wednesday, April 1st 2026, 5:55:03 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

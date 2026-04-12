@@ -3,7 +3,6 @@ type: individu
 domaine: [société, théorie]
 thèmes: [féminisme, démographie]
 aliases: [Tod, Emmanuel Tod]
-statut: ébauche
 date created: Wednesday, April 1st 2026, 6:39:41 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

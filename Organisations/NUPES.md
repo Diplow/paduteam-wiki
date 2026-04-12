@@ -2,7 +2,6 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: []
-statut: ébauche
 aliases: [Nouvelle Union Populaire Écologique et Sociale]
 date created: Tuesday, March 31st 2026, 10:40:53 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm

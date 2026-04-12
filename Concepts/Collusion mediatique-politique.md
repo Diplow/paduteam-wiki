@@ -3,7 +3,6 @@ type: concept
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches]
 aliases: [collusion médiatico-politique, collusion mediatique]
-statut: ébauche
 date created: Thursday, April 2nd 2026, 12:58:37 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

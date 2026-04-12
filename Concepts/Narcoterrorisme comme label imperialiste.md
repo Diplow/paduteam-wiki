@@ -2,7 +2,6 @@
 type: concept
 domaine: ['géopolitique', 'société']
 thèmes: ['anti-impérialisme', 'médias-propagande']
-statut: ébauche
 aliases: [Narcoterrorisme, Narcoétat, Narcodictature]
 date created: Tuesday, March 31st 2026, 9:52:51 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm

@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [société]
 thèmes: [féminisme, médias-propagande]
-format: analyse
 enjeux: []
 date: 2025-05
-intervenants: [Padu, Chris, Zoé]
-statut: ébauche
 aliases: [AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE]
 date created: Sunday, April 12th 2026, 5:27:35 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

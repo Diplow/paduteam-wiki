@@ -2,11 +2,8 @@
 type: vidéo
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, répression-justice]
-format: entretien
 enjeux: [Palestine-libre, anti-impérialisme]
-statut: développé
 date: 2025-07-XX
-intervenants: [Padu, Chris, Saïd Bouamama]
 date created: Tuesday, March 31st 2026, 10:57:26 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

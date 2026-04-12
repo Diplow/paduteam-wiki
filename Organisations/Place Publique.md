@@ -2,7 +2,6 @@
 type: organisation
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
-statut: ébauche
 aliases: [Place publique]
 date created: Wednesday, April 1st 2026, 12:29:11 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm

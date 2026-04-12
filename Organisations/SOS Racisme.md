@@ -2,7 +2,6 @@
 type: organisation
 domaine: []
 thèmes: [racisme-antiracisme]
-statut: ébauche
 date created: Tuesday, March 31st 2026, 10:12:39 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

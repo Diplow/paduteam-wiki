@@ -3,7 +3,6 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Cathédrale Osseuse, cathedrale_osseuse]
-statut: ébauche
 date created: Friday, April 3rd 2026, 7:28:02 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---

@@ -2,7 +2,6 @@
 type: concept
 domaine: ['théorie', 'politique-intérieure']
 thèmes: [élections]
-statut: ébauche
 aliases: [période de confusion, confusion]
 date created: Wednesday, April 1st 2026, 11:40:21 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
