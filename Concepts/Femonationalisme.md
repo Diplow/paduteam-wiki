@@ -54,6 +54,23 @@ Farris montre que le fémonationalisme réactive paradoxalement la vision patria
 
 Chris : "les femmes sont mises dans un panier 'femmes' indifférencié, tandis que les hommes sont séparés en races et civilisations. Et ils luttent entre eux pour le panier femme — peu importe ce qu'ils prennent."
 
+## Le fémonationalisme dans le corpus iranien (2026)
+
+Le corpus Iran (janvier-mars 2026) fournit des cas d'école supplémentaires du fémonationalisme en contexte géopolitique — plus proches du sens originel de Farris (justification des guerres impérialistes).
+
+**Association Femmes Azadi** : se présente comme représentante des femmes iraniennes en exil. Hyper-relayée dans les médias français. Son logo utilise le lion du Shah (emblème monarchique renversé en 1979) ; une représentante (Mona Jafarian) est proche du fils du Shah ; la publication est en anglais et en français — pas en farsi[^iran1]. Critère simple : jamais l'association ne demande la fin des sanctions contre l'Iran, principale source de misère pour les femmes iraniennes.
+
+**Alice Cordier à la manif pro-Shah** : Cordier manifeste à Paris avec des drapeaux du Shah et des drapeaux israéliens, pancarte "Support Iranian Women / Fuck Khomeini". Alors qu'elle n'a jamais mobilisé contre les violences de Trump sur l'IVG, ni contre Epstein (dont Trump est trempé), ni contre Jean-Marc Morandini (condamné pour détournement de mineurs, dont elle a fréquenté le plateau)[^iran2].
+
+**Mise en scène orientaliste sur les réseaux** : sélection de jeunes femmes iraniennes selon des critères de désirabilité occidentaux, drapeaux du Shah en fond. Commentaires masculins : "Les iraniennes sont les latinas du Moyen-Orient." — "La colonialité, c'est-à-dire le pouvoir de certaines personnes sur les femmes"[^iran3].
+
+**La vraie conséquence pour les femmes iraniennes** : si l'Iran "tombe", elles viendraient dans le centre impérialiste "pour pouvoir faire nounou ou femme de chambre parce qu'elles auront été libérées du méchant Ali Khamenei" — exactement la dynamique économie politique de Farris[^iran4].
+
+[^iran1]: [19:09](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1149) — "méfiez-vous toujours quand quelqu'un est hyper relayé dans les médias habituels"
+[^iran2]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — "Alice Cordier qui a la particularité [...] de ne pointer le patriarcat que quand ce n'est pas le patriarcat bourgeois blanc français"
+[^iran3]: [26:56](https://www.youtube.com/watch?v=yPJKov273gs&t=1616) — "une démonstration d'orientalisme sur les femmes iraniennes qui est juste dégueulasse"
+[^iran4]: [34:18](https://www.youtube.com/watch?v=yPJKov273gs&t=2058) — "elles viendraient dans le centre impérialiste pour pouvoir faire nounou ou femme de chambre"
+
 ## Vidéos où le concept est développé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris développe la dimension économie politique du fémonationalisme via Sara Farris
