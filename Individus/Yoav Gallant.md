@@ -15,7 +15,7 @@ Ministre israélien de la Défense (2022-2024) dans le gouvernement [[Benjamin N
 
 ## Analyse PaduTeam
 
-Zoé ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) : la déclaration de Gallant dès le 8 octobre 2023, non contestée par Netanyahu ou le gouvernement, établit l'intentionnalité génocidaire dès le lendemain de l'attaque du 7 octobre. Ce n'est pas une « réponse dans la chaleur de l'émotion » — c'est une doctrine énoncée publiquement, qui va orienter pendant deux ans la conduite de l'armée israélienne : déshumanisation systématique, ciblage des civils, des soignants, des journalistes, famine organisée. La phrase « animaux humains » revient dans plusieurs vidéos du batch comme preuve-test.
+Zoé ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) : la déclaration de Gallant dès le 8 octobre 2023, non contestée par Netanyahu ou le gouvernement, établit l'intentionnalité génocidaire dès le lendemain de l'attaque du 7 octobre. Ce n'est pas une « réponse dans la chaleur de l'émotion » — c'est une doctrine énoncée publiquement, qui va orienter pendant deux ans la conduite de l'armée israélienne : déshumanisation systématique, ciblage des civils, des soignants, des journalistes, famine organisée. La phrase « animaux humains » revient dans plusieurs vidéos comme preuve-test.
 
 ## Relations
 [[Benjamin Netanyahu]] — chef de gouvernement. [[Tsahal]] — armée dirigée.

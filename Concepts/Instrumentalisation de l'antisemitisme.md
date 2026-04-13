@@ -37,10 +37,37 @@ La PaduTeam refuse explicitement toute essentialisation inverse. Padu ([[UN GENO
 - BHL, Glucksmann, Arthur refusant toute reconnaissance de la Palestine « tant que tous les otages ne sont pas libérés » — condition impossible par design
 - TF1/LCI recevant Netanyahu en prime time alors que 103+ journalistes ont été tués à Gaza par son armée
 - Netanyahu traitant 100 000 manifestants français d'antisémites sur TF1
-- Dissolution d'Urgence Palestine par Retailleau (cf. batch F)
+- Dissolution d'Urgence Palestine par Retailleau
+
+## Cas Meyer Habib (2024-2025)
+
+Meyer Habib fournit les cas les plus spectaculaires d'instrumentalisation :
+
+- **Edgar Morin qualifié de "porteur d'idéologie nazie"** ([[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]]) : philosophe juif progressiste, 100 ans, ancien proche du PCF (qu'il a quitté en 1951), accusé de "phraséologie nazie" pour avoir dit qu'Israël mérite critique. Habib lui reproche d'avoir écrit que le conflit israélo-palestinien est "un cancer" — en omettant de préciser qu'Edgar Morin parle d'un cancer pour les deux peuples, pas du peuple palestinien. Morin répond avec calme et précision.
+- **David Guiraud accusé d'antisémitisme pour avoir dit "c'est toi le cochon"** ([[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]]) : Habib l'a lui-même interpellé en parlant de "cochons", Guiraud lui répond au miroir, et Habib porte plainte en criant à l'antisémitisme. Stéphane Le Rudulier explique que "porc" est une insulte islamiste car le porc est interdit dans l'islam — sans noter que le porc est aussi interdit dans le judaïsme.
+- **La flottille qualifiée de "mascarade antisémite"** ([[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]]) : Habib et Fourest appellent "antisémite" une action humanitaire visant à briser le blocus de Gaza.
+- **La CPI elle-même déclarée "antisémite"** ([[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]]) : quand la Cour pénale internationale émet un mandat d'arrêt contre Netanyahu ET Mohamed Deif (équilibré sur les deux parties), Netanyahu et Habib crient à l'antisémitisme. Goldnadel s'étonne qu'un mandat n'ait pas été émis contre Churchill lors de la Seconde Guerre mondiale — sans noter que la CPI n'existait pas à l'époque.
+- **Le peuple palestinien qualifié de "cancer"** ([[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]]) : énoncé sur Radio J, sans poursuites judiciaires, pendant que David Guiraud est poursuivi pour "porc."
+
+## Cas du sionisme de gauche (2024-2025)
+
+- **[[Jerome Guedj|Guedj]] traite Mélenchon de "salopard antisémite"** au congrès PS ([[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]]) : depuis la tribune d'un congrès de parti, face à une foule, qualifier publiquement un chef de file de l'"antisémitisme". Zoé : "Si c'était la France insoumise qui tenait ce discours, le gars serait convoqué en garde à vue." Double standard maximal.
+
+- **[[Sophia Aram]] au Molière** ([[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]]) : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalise une fausse absence de dénonciation pour faire croire que les pro-Palestine ignorent les victimes israéliennes. Padu : "Il y a eu des milliers de discours sur le 7 octobre. Venir nous faire croire qu'on n'en parle pas, ça sort d'où ?"
+
+- **Prix LICRA à [[Arthur]] et [[Sophia Aram]]** remis par Macron ([[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]]) : Macron officialise le mécanisme : décerner un "prix antiraciste" à ceux qui ont combattu Rima Hassan, stigmatisé les militants pro-Palestine, et ignoré le génocide. Padu : "Ce n'est pas un prix antiraciste, c'est un prix de soutien au génocide en Palestine qui permet de stigmatiser les antiracistes français."
+
+- **[[Bernard-Henri Levy|BHL]] soirée "contre l'antisémitisme"** avec [[Douglas Murray]] ([[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]]) : inviter un personnage qui juge le monument de la Shoah "trop culpabilisant" à une soirée contre l'antisémitisme. Et vieux invité déclarant "taxer les riches = taxer les Juifs" — syllogisme qui révèle un antisémitisme réel (les Juifs = les riches) chez celui qui prétend défendre les Juifs.
 
 ## Vidéos où le concept est développé
 - [[GAZA LES SIONISTES TUENT DES MEDECINS]] — Dr Zoé sur la pression au Conseil de l'Ordre et l'instrumentalisation comme danger pour les juifs eux-mêmes
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Chris : Netanyahu prend les juifs mondiaux en otage politique
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]] — Padu refuse l'essentialisation et insiste sur le sionisme comme effet de la géopolitique
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Netanyahu traitant les manifestants d'antisémites, plafond de la rhétorique instrumentale
+- [[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]] — Cas le plus spectaculaire : un philosophe juif accusé de nazisme pour avoir critiqué Israël
+- [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Weaponisation de l'antisémitisme dans une bagarre de couloir à l'Assemblée nationale
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — L'institutionnel lui-même (la CPI) déclaré antisémite
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Guedj au congrès PS ; 7,7M d'électeurs traités de "fanatiques" ; purge JC Nord 92
+- [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — "Silence assourdissant" instrumentalisé ; inversion du réel médiatique
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA comme officialisation institutionnelle ; "prix de soutien au génocide" selon Padu
+- [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Syllogisme "taxer les riches = taxer les Juifs" ; antisémitisme révélé chez celui qui prétend lutter contre lui

@@ -28,5 +28,15 @@ La PaduTeam rejette la lecture complotiste ("les bourgeois nous divisent avec de
 ## Implications pratiques
 On ne peut pas "convaincre" un artisan par des arguments rationnels de soutenir les intérêts du prolétariat. Ce qui change la conscience, c'est un changement dans les rapports de production — c'est-à-dire les conditions concrètes d'existence et de reproduction sociale.
 
+## Le cas Linguisticae : fausse conscience dans l'économie du contenu militant
+Le vidéaste [[Linguisticae]] (Monté, vulgarisateur de linguistique, se positionnant à gauche) explique publiquement qu'il refuse de relayer des cagnottes pour des enfants gazaouis ou yéménites parce qu'il est "en concurrence" avec ces cagnottes : il a 100€ sur son compte, 400€ d'échéances, et ses revenus ont chuté de moitié.
+
+Chris (PaduTeam) : "Il est sincèrement en train de nous vendre qu'il est en concurrence avec des Yéménites ou des Gazaouis parce que lui il peut pas payer son crédit. Bah alors ce moment-là tu es en concurrence avec Canal Plus, tu es en concurrence avec Netflix, tu es en concurrence avec le fait de s'acheter des pâtes Barilla plutôt qu'Eco Plus. Pourquoi tu viens dire que tu es en concurrence avec des Palestiniens qui n'ont aucun autre moyen que ces ressources-là de survivre ?"
+
+C'est la définition opérationnelle de la fausse conscience : Linguisticae se dit de gauche (aspirations idéalistes), mais son rapport de production ultra-libéral, concurrentiel, individualisant (le modèle économique des streamers) produit une conscience de classe streamer incompatible avec ces aspirations. La "concurrence" avec les enfants gazaouis **masque** sa vraie concurrence avec tous les autres capteurs de valeur d'échange de monnaie (Netflix, Spotify, autres créateurs).
+
+Note : ce n'est pas une critique personnelle de Linguisticae — la PaduTeam le dit explicitement. C'est une critique structurelle du mode de production ultra-libéral de l'économie des streamers qui génère mécaniquement cette fausse conscience.
+
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
+- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Cas d'école concret dans l'économie du contenu numérique

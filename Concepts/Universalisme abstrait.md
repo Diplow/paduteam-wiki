@@ -22,4 +22,18 @@ L'universalisme abstrait est inefficace dans les classes populaires racisées ca
 - Macronisme sur le racisme ("le racisme n'a pas de couleur")
 - PCF/[[Leon Deffontaines]] sur les abayas (position laïciste = universalisme républicain)
 - [[SOS Racisme]] des années 1980 (porté par les classes moyennes-hautes)
-- Ligne "c'est notre civilisation commune contre le fascisme" de type [[Marion Mare
+- [[Sophia Aram]] au Molières 2024 : "l'humanisme ne se divise pas" + obsession contre le voile — Padu : "Derrière l'universalisme abstrait, il y a un suprémacisme concret." L'universalisme qui prétend ne pas voir la race est en réalité celui qui impose une norme de classe blanche dominante et qui stigmatise les musulmans par la laïcité instrumentalisée.
+
+## Universalisme abstrait vs universalisme concret (Padu, vidéo prix LICRA)
+Padu formule explicitement l'opposition :
+- **Universalisme abstrait** : "l'humanisme ne se divise pas en race, la République ne se divise pas en communauté." Formel, idéaliste. Ne nomme pas les rapports de domination réels.
+- **Universalisme concret** : notre but est que "le genre humain soit émancipé de toutes les structures de domination — raciales, sexistes, d'exploitation." Mais pour y arriver, il faut d'abord *nommer* ces structures et *lutter contre elles spécifiquement*. "Tu peux pas venir dire faut pas diviser en race alors que la société est de fait divisée en race par un processus de racialisation issu de l'héritage colonial."
+
+## Exemples politiques (suite)
+- Ligne "c'est notre civilisation commune contre le fascisme" de type [[Marion Marechal]] — même registre abstrait, habillage différent
+- [[Julien Dray]] : "l'antiracisme était une évidence et l'universalisme une boussole" — nostalgie d'un passé fictif où le racisme n'existait pas
+
+## Vidéos où le concept est développé
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Padu formule explicitement universalisme abstrait vs concret face au discours de Sophia Aram
+- [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — "L'humanisme ne se divise pas" instrumentalisé contre les pro-Palestine
+- [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel comme variante PC du même mécanisme (laïcité comme arme islamophobe)

@@ -36,7 +36,7 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 - Attribution à son ministre Gallant (8 octobre 2023, non contestée par Netanyahu) : « ces gens sont des animaux humains et nous allons les traiter comme tel »
 
 ## Relations
-[[Donald Trump]] — allié explicite, porte-voix de ses rêves expansionnistes (plan « Côte d'Azur » Gaza). [[Joe Biden]] — armeur silencieux, « trempé jusqu'à la moelle » dans le soutien militaire. [[Itamar Ben-Gvir]], [[Bezalel Smotrich]] — ministres d'extrême-droite de sa coalition. [[Isaac Herzog]] — Président, relai idéologique (« les civils aussi responsables »). [[Emmanuel Macron]] — interlocuteur complaisant. [[Vladimir Jabotinski]] — référence idéologique historique. [[Ariel Sharon]] — prédécesseur dans la stratégie coloniale. [[Mahmoud Abbas]] — interlocuteur délégitimé. [[Bernard-Henri Levy]], [[Raphael Glucksmann]], [[Manuel Valls]] — relais français de sa ligne. [[Georges Ibrahim Abdallah]] — adversaire historique (menace d'assassinat probable post-libération selon l'analyse PaduTeam). [[Benjamin Netanyahu]] figure dans toutes les fiches du batch Gaza 2024-2026.
+[[Donald Trump]] — allié explicite, porte-voix de ses rêves expansionnistes (plan « Côte d'Azur » Gaza). [[Joe Biden]] — armeur silencieux, « trempé jusqu'à la moelle » dans le soutien militaire. [[Itamar Ben-Gvir]], [[Bezalel Smotrich]] — ministres d'extrême-droite de sa coalition. [[Isaac Herzog]] — Président, relai idéologique (« les civils aussi responsables »). [[Emmanuel Macron]] — interlocuteur complaisant. [[Vladimir Jabotinski]] — référence idéologique historique. [[Ariel Sharon]] — prédécesseur dans la stratégie coloniale. [[Mahmoud Abbas]] — interlocuteur délégitimé. [[Bernard-Henri Levy]], [[Raphael Glucksmann]], [[Manuel Valls]] — relais français de sa ligne. [[Georges Ibrahim Abdallah]] — adversaire historique (menace d'assassinat probable post-libération selon l'analyse PaduTeam). [[Benjamin Netanyahu]] figure dans toutes les fiches du corpus Gaza 2024-2026.
 
 ## Vidéos où Netanyahu est analysé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
@@ -46,3 +46,6 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]]
+- [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — L'assaut sur Rafah que Netanyahu et Habib avaient annoncé
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon Padu
+- [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI

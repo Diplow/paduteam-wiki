@@ -11,7 +11,7 @@ skill_version: ingest-batch-2026-04-13
 # TF1
 
 ## Position dans l'analyse PaduTeam
-Première chaîne de télévision française (groupe Bouygues). Pour la PaduTeam, [[Chiens de garde]] emblématique du dispositif médiatique bourgeois. Dans le contexte du batch Gaza, TF1 est analysée comme **complice active du génocide** pour avoir platformé [[Benjamin Netanyahu]] en prime time (20h, heure de grande écoute) alors qu'il est sous mandat d'arrêt de la [[Cour Penale Internationale]] pour crimes contre l'humanité.
+Première chaîne de télévision française (groupe Bouygues). Pour la PaduTeam, [[Chiens de garde]] emblématique du dispositif médiatique bourgeois. Dans le contexte du génocide à Gaza, TF1 est analysée comme **complice active du génocide** pour avoir platformé [[Benjamin Netanyahu]] en prime time (20h, heure de grande écoute) alors qu'il est sous mandat d'arrêt de la [[Cour Penale Internationale]] pour crimes contre l'humanité.
 
 ## Dynamique
 Chris ([[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]]) : « Imaginez si on recevait Poutine à 20h sur TF1 — évidemment, ça serait inadmissible. Sauf qu'on ne reçoit pas Poutine. Sauf que pour Netanyahu, ça paraît un peu normal. » Le traitement différentiel réservé à Netanyahu par rapport à d'autres dirigeants contestés révèle l'alignement atlantiste-sioniste de la chaîne. L'interview est menée par [[Darius Rochebin]] sur [[LCI]] (filiale câblée du groupe).

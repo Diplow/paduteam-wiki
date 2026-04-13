@@ -18,6 +18,14 @@ Mentionné dans le contexte de la trajectoire confusionniste de Padu : "l'image 
 
 Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée : passage de la loi travail (El Khomri), discours sécuritaire, nationalisme républicain de façade.
 
+**"Fou de rage" du mandat d'arrêt CPI contre Netanyahu.** En novembre 2024, quand la CPI émet un mandat d'arrêt contre Netanyahu (et simultanément contre Mohamed Deif, côté Hamas), Valls réagit avec la même fureur que Habib : il qualifie la décision de "mascarade", de "honte", défend Netanyahu comme victime d'antisémitisme. Padu note l'union parfaite entre un sioniste de droite assumé (Habib) et un social-démocrate censé représenter "la gauche" (Valls) sur la défense d'un inculpé pour crimes contre l'humanité. Cette convergence confirme le diagnostic PaduTeam : le PS dans sa version Valls a objectivement rejoint le camp sioniste.
+
+## Relations
+- [[Meyer Habib]] — allié objectif dans la défense de Netanyahu face à la CPI
+- [[François Hollande]] — Premier ministre sous la présidence Hollande ; la même trajectoire de droitisation
+- [[Benjamin Netanyahu]] — défendu contre la CPI
+
 ## Vidéos où Valls est mentionné
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple de la gauche traîtresse qui a nourri le confusionnisme de Padu ado
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes
+- [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Réaction au mandat CPI : Valls et Habib dans le même camp

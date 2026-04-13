@@ -28,7 +28,46 @@ La PaduTeam la défend : "Il y a un racisme évidemment." Et rappelle son exempl
 ## Candidature Saint-Ouen (municipales 2026)
 [[Eric Coquerel]] propose que Rima Hassan se présente à Saint-Ouen. Bouamrane entre dans une fureur que Padu analyse via le [[Graphique]] : Hassan a une "aura" dans les quartiers populaires "pour son combat pour la Palestine" et parce qu'elle est soutenue par Mélenchon — bien mieux placée que Hollande ou Mayer-Rossignol dans ces quartiers. Bouamrane voit sa mairie menacée.
 
+## Arc répression / censure (2024-2025)
+
+Rima Hassan est au croisement de tout ce que le bloc dominant déteste : LFI, mouvement pro-Palestine, droit international, femme arabe, féministe. "La femme à abattre pour mettre un coup de pression à toutes ces branches." (Chris, [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]])
+
+### Affaire Arthur / Forbes (jan-fév 2024)
+[[Arthur|Jacques Essebag (Arthur)]] l'accuse publiquement d'"antisémitisme" et d'"apologie du terrorisme" sur Instagram (3M abonnés) après qu'elle a été classée parmi les Forbes 40 femmes 2023. Il fait pression pour la retirer du classement et aurait utilisé ses réseaux pour nuire à d'autres militants (cas Mohamed Cassi / TV5). Elle porte plainte pour diffamation via son avocat Yassine Bouzrou. Analyse PaduTeam : "la vraie cancel culture" — mort sociale professionnelle comme arme contre les militants pro-Palestine.
+
+### Affaire Le Crayon (janv-mars 2024)
+Son interview pour [[Le Crayon]] (1h30) est réduite à 5 secondes sur un format "vrai/faux" : "l'action du Hamas est-elle légitime ?" hors contexte, ce qui lui fait dire qu'elle soutient le Hamas. Le média refuse de lui envoyer les rushes malgré ses relances, ne publie pas l'intégralité. Mise en demeure envoyée. Analyse PaduTeam : même méthode que Psychodélique (buzzification + dépose dans la sauce + invitation à revenir pour refaire des vues).
+
+### Conférence interdite à Lille (avril 2024)
+Conférence avec [[Jean-Luc Melenchon]] à l'Université de Lille interdite, puis à nouveau dans une salle privée (18 avril 2024) par la préfecture du Nord — le nouveau lieu est mis "sous avis défavorable" le jour J. Xavier Bertrand, des élus macronistes et RN avaient réclamé l'interdiction. La PaduTeam dénonce : la préfecture a donné le pouvoir à la droite (appels à contre-manifester = conférence annulée). Rassemblement place Van Hoocker à la place, avec Mélenchon, Manon Aubry, Louis Boyard et d'autres.
+
+### Sciences Po et le tweet "soulèvement" (avril-mai 2024)
+Elle tweete "Venez à Sciences Po, l'heure est au soulèvement" pendant l'occupation pro-Palestine. Sur BFM TV, Public Sénat, SUD Radio : son tweet est traduit en arabe pour y trouver le mot "intifada" — racisme structurel analysé par la PaduTeam. Expulsion des étudiants par les CRS le 26 avril, deux députés LFI (Lear et Chaikirou) se positionnent entre les CRS et les manifestants.
+
+### BFM TV — "Vous devrez rendre des comptes" (octobre 2024)
+Invitée sur BFM TV (8 octobre 2024), elle dénonce en direct que le porte-parole de l'armée israélienne Olivier Rafovic avait félicité BFM TV pour sa couverture du conflit. Le plateau coupe court à l'interview, BFM TV publie un communiqué. Analyse : preuve directe de la ligne éditoriale pro-israélienne de BFM TV (propriété de Patrick Drahi).
+
+### Garde à vue / drogue / loi Yadan (2025)
+16 plaintes déposées contre elle en ~2 ans et demi (13 classées sans suite). Lors d'une convocation judiciaire, elle est placée en garde à vue, son sac fouillé. Des informations fuitent dans les médias (via Caroline Fourest) : "drogue de synthèse". Réalité : CBD légal, test urinaire confirmant seulement des traces de THC (normal avec le CBD). Son immunité parlementaire a été violée — elle n'est pas censée être convoquée pour chaque tweet. Loi Yadan (criminalisation de l'antisionisme) en cours de discussion. Paul Vannier l'accompagne dans l'offensive médiatique.
+
+La PaduTeam formule la frontière politique révélée par cette affaire : LFI, NPA, L'après réagissent fort. Tondelier dit "excessif". Roussel "je soutiens mais je suis pas d'accord avec leurs positions". Glucksmann — silence. "C'est des moments très très importants. En plus, c'est une ligne de démarcation entre les gens qui soutiennent réellement et concrètement la résistance palestinienne [...] et les gens qui s'y soumettent."
+
+## Relations
+- [[Jean-Luc Melenchon]] — l'a invitée à une conférence de presse ; allié dans les conférences interdites
+- [[Marine Tondelier]] — l'a qualifiée de "provocation" (épisode Karen) ; dit que la répression judiciaire est "excessif" plutôt que de la soutenir inconditionnellement
+- [[Arthur|Jacques Essebag (Arthur)]] — l'a diffamée sur Instagram (affaire Forbes)
+- [[Raphael Glucksmann]] — l'attaque personnellement (affaire Deranque) ; silence lors des procédures judiciaires
+- [[Collectif Nemesis|Némésis]] — a déposé une plainte contre elle pour un post relayé d'un collectif étudiant
+- Paul Vannier — l'accompagne dans l'offensive après la garde à vue
+
 ## Vidéos où Hassan est mentionnée
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Éric Coquerel propose sa candidature à Saint-Ouen, ce qui déclenche la fureur de Bouamrane
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Épisode Karen/Tondelier : l'invitation de Rima Hassan par Mélenchon comme déclencheur de la polémique
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Ciblée par Glucksmann après la mort de Quentin Deranque ; défendue par la PaduTeam
+- [[RIMA HASSAN PORTE PLAINTE CONTRE ARTHUR]] — Affaire Forbes / diffamation
+- [[Rima Hassan TAILLE Le Crayon]] — Affaire du Crayon / interview tronquée
+- [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Conférence interdite à Lille
+- [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — Occupation Sciences Po, tweet "soulèvement"
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Bourgeoise sioniste dans l'avion
+- [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Dénonce la ligne éditoriale de BFM TV
+- [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan

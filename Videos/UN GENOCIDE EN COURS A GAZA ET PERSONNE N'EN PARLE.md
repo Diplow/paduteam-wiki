@@ -35,7 +35,7 @@ skill_version: ingest-batch-2026-04-13
 
 8. **Brutalisation et cercle vicieux**. « Chaque fois qu'ils massacrent des gens à Gaza, ça va créer des dizaines de milliers de terroristes plus tard qui auront juste envie de venger leurs parents. » Argument de bon sens stratégique : la violence d'État produit la violence sociale par réaction. La logique de Netanyahu est auto-destructrice.
 
-9. **Proposition positive : État unique multiethnique**. « Quand on parle d'un État qui serait multinational, multiethnique, multireligieux en Palestine, c'est la seule solution pour qu'il y ait réellement un mieux pour les populations à la fois israéliennes et palestiniennes. » Première formulation claire d'une solution politique dans le corpus batch.
+9. **Proposition positive : État unique multiethnique**. « Quand on parle d'un État qui serait multinational, multiethnique, multireligieux en Palestine, c'est la seule solution pour qu'il y ait réellement un mieux pour les populations à la fois israéliennes et palestiniennes. » Première formulation claire d'une solution politique dans le corpus.
 
 10. **MSF comme boussole morale indépendante**. Padu cite [[Medecins Sans Frontieres]] (« irréprochable depuis le début de cette guerre ») et son ancien président [[Ronny Brauman]] né à Jérusalem — cas test de l'absurdité des accusations d'antisémitisme contre ceux qui dénoncent le génocide.
 

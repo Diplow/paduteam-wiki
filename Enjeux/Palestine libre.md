@@ -55,6 +55,18 @@ Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 
 La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par Chris : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
+## Le sionisme de gauche / bourgeoisie progressiste
+
+Le sionisme de gauche enrichit cet enjeu d'une dimension spécifique : **le sionisme de gauche comme menace interne à la gauche**.
+
+- [[Sophia Aram]] au Molière : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalisation du 7-octobre pour faire croire qu'on parle trop des Palestiniens, sous couvert d'"équilibre".
+- [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne.
+- [[Bernard-Henri Levy|BHL]] (Beyrouth, octobre 2024) : qualifie le bombardement de Beyrouth de "libération" — le sionisme de gauche atlantiste soutient aussi l'extension de la guerre au Liban.
+- [[Chloé Ridel]] sur [[Backseat]] : retourne sa veste en 2025, prétend avoir "toujours dénoncé le génocide". Deux ans plus tôt, des sionistes passaient sans contradiction sur le même plateau pour établir le storytelling Hamas=terrorisme.
+- Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. Padu : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
+
+L'argument structurant : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. Zoé : "Le RN est moins sioniste que le Parti socialiste en France."
+
 ## Vidéos clés
 
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] : centralité de la question palestinienne, renaissance du marxisme mondial, retournement du rapport de force
@@ -64,3 +76,35 @@ La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une 
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Critique de la reconnaissance tardive ; Tour Eiffel obscène ; récupération posthume ; proposition d'État unique anti-ethno-nationaliste avec droit de retour
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Bilan 2 ans ; continuum 80 ans ; dignité générationnelle ; accord Trump-Blair ; Netanyahu « pointe avancée du nationalisme ethnique »
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Avec Paul Elek : cessez-le-feu comme houdna ; Muraille de Fer Cisjordanie ; impunité absolue ; structure coloniale permanente
+- [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Instrumentalisation du silence assourdissant ; universalisme abstrait comme couverture sioniste ; Sophia Aram comme cas d'école
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Négationnisme du génocide ; impunité des négationnistes vs répression des militants ; Grok IA dit le génocide, Dray dit "des glaces à Gaza"
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Officialisation institutionnelle du sionisme de gauche ; le prix LICRA comme arme anti-solidarité palestinienne
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — PS rewriting history ; Backseat platformant le sionisme progressiste sans contradiction
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Paroxysme : 7,7M d'électeurs traités de fanatiques ; JC Nord 92 purgée pour soutien à la résistance palestinienne
+- [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Coalition sioniste gauche-droite ; réhabilitation de l'extrême droite par couverture "humaniste" de BHL
+- [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — Extension de la guerre au Liban ; BHL, Céline Pina, Anne Sinclair défendant Israël ; double mesure médiatique
+- [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — Bombardement du camp de réfugiés de Rafah ; intentionnalité génocidaire prouvée ; Meyer Habib comme porte-voix de Netanyahu en France
+- [[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]] — Dérapage genocidaire en direct sur Radio J ; double standard avec Benzema ; la parole génocidaire impunie
+- [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Confrontation à l'Assemblée nationale ; criminalisation du drapeau palestinien ; instrumentalisation de l'antisémitisme contre Guiraud
+- [[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]] — Cas d'école de l'[[Instrumentalisation de l'antisemitisme]] : tout critique d'Israël devient nazi, même un philosophe juif progressiste
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Mandat d'arrêt CPI comme victoire ; réactions sionistes ; exultation de Meyer Habib
+- [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Alliance Valls-Habib dans la défense de Netanyahu inculpé
+- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Flottille 2025 ; Rima Hassan détenue ; décryptage de la désinformation sioniste de Fourest et Habib
+- [[AYMERIC CARON ECRABOUILLE CNEWS SUR GAZA]] — Modèle du clash médiatique : piéger CNews sur les 30 000 morts et les journalistes assassinés
+- [[TPMP POLSKA DETRUIT NADINE MORANO SUR GAZA EN DIRECT]] — Polska expose le discours génocidaire mainstream ; "à cause du Hamas on est obligé de tous les tuer"
+- [[ARNO KLARSFELD ET MICHEL BOUJENAH SE LACHENT SUR LES PALESTINIENS ET LES MUSULMANS]] — Propos génocidaires impunis : rafles de musulmans (Klarsfeld), Gaza=Hiroshima (Boujenah), barbecue Tsahal (Darmanin)
+- [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — Rapport ONU sur les viols des femmes palestiniennes en détention israélienne, ignoré par Bergé
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
+- [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
+
+## La bataille médiatique des clashs pro-Palestine
+
+Cet ensemble de vidéos documente **la bataille médiatique** autour du génocide — qui prend la parole, qui est réduit au silence, qui gagne les clashes sur plateau.
+
+Arguments nouveaux :
+- Le modèle Caron : venir avec les sources, piéger par des questions précises ("condamnez-vous l'assassinat de journalistes palestiniens ?"), ne pas lâcher. Le directeur de CNews bégaie car il ne peut pas répondre oui sans se contredire ni non sans s'exposer.
+- L'argument des chiffres : 122 journalistes tués par Israël à Gaza au 1er février (selon l'ONU), 30 000 morts (en Une de Libération), 70-170 tués lors d'une distribution alimentaire. Le directeur de CNews dit ne pas connaître ces chiffres — il dirige pourtant une chaîne d'info.
+- Michel Boujenah expose la logique génocidaire nue : "s'ils sont d'accord avec le Hamas, il y a pas de dommages collatéraux" — c'est-à-dire : tous les civils gazaouis sont des cibles légitimes. Comparaison avec les nazis : Gaza=Hiroshima. Tenu impunément.
+- Le rapport ONU sur les viols des femmes palestiniennes en détention par les forces israéliennes : détention arbitraire, violences sexuelles, femmes gardées en cage sous la pluie, photos de soldats avec des sous-vêtements volés. Aurore Bergé, chantre du féminisme, silencieuse.
+- **Polska** comme exemple de classe : immigrée polonaise, a fait de l'OnlyFans pour s'en sortir, vient au débat sur TPMP et fait bégayer Nadine Morano. La PaduTeam défend Polska contre la misogynie qui la réduit à son corps — et souligne que ce sont précisément les gens qui "n'oublient pas d'où ils viennent" qui se positionnent pour la Palestine.
+- La dissolution de [[La Jeune Garde]] et [[Urgence Palestine]] comme acte de fascisation : Retailleau les dissout après le meurtre d'Abouakar. La cible n'est pas la violence — c'est l'efficacité organisée.
