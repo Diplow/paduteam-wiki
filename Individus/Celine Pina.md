@@ -1,0 +1,30 @@
+---
+type: individu
+domaine: [société, géopolitique]
+thèmes: [médias-propagande, Palestine, racisme-antiracisme]
+aliases: [Céline Pina]
+skill_version: ingest-batch-2026-04-13
+---
+#domaine/société #domaine/géopolitique #thème/médias-propagande #thème/Palestine
+
+# Céline Pina
+
+## Profil synthétique
+Militante politique française, interventions régulières sur les plateaux TV. Pour la PaduTeam, incarne la logique islamophobe structurelle qui sous-tend le soutien inconditionnel à Israël : les Arabes/Muslims sont ontologiquement des terroristes potentiels, donc tuer des civils palestiniens ou libanais n'est pas "tuer des civils".
+
+## Enfants palestiniens qui meurent "sans se sentir mourir injustement"
+Céline Pina a déclaré que les enfants palestiniens qui meurent "n'avaient pas l'impression d'être morts de manière injuste" car "on bafouait des règles universelles des lois élémentaires." Pour la PaduTeam, c'est la matrice de toute sa pensée.
+
+## Débat sur le "terrorisme" (vidéo BEYROUTH)
+Pina propose une définition : "les résistants français n'attaquaient pas la population civile — si on attaque des soldats on n'est pas terroriste." Padu démonte : il y a eu des morts civiles dans la Résistance française et algérienne. Mais surtout, sa définition retourne contre Israël : 45 000 morts à Gaza dont 2/3 de femmes et d'enfants.
+
+Son interlocuteur intervient : si on applique sa définition, Israël pourrait être qualifié de terroriste. Sa réponse : "Attention à cette définition" — elle refuse de laisser la logique aboutir. Pour Padu : c'est parce que dans sa tête, "un civil libanais ou palestinien, c'est déjà un islamiste, et comme c'est déjà un islamiste, c'est déjà un terroriste. Israël n'arrête pas de tuer des civils mais pour eux, ce sont des islamistes donc des terroristes."
+
+"Il y a vraiment ce schéma de pensée là en arrière-fond et il n'y a que comme ça qu'on peut comprendre sa phrase."
+
+## Relations
+- [[Bernard-Henri Levy]] — même espace idéologique atlantiste
+- [[Anne Sinclair]] — même réseau, même soirée BHL
+
+## Vidéos où Pina est mentionnée
+- [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — Débat sur la définition du terrorisme ; schéma mental islamophobe ; enfants palestiniens qui "ne se sentent pas mourir injustement"

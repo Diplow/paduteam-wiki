@@ -27,5 +27,15 @@ Arthur est l'exemple de ce que la PaduTeam appelle la "vraie cancel culture" : u
 - [[Rima Hassan]] — l'a diffamée, elle porte plainte
 - [[Mohamed Cassi]] — aurait fait pression sur TV5 Monde contre lui
 
+## Prix LICRA (Macron, avril 2025)
+Macron remet à Arthur le prix Jean-Pierre Bloch de la LICRA "contre le racisme et l'antisémitisme", aux côtés de [[Sophia Aram]]. Son discours de réception : "Je reçois ce prix et je ne sais pas comment l'accepter, parce qu'en France en 2025, on récompense quelqu'un juste pour avoir dit que l'antisémitisme était inacceptable."
+
+Padu : "Le discours de Arthur fait monter l'antisémitisme parce qu'il y a une guerre des civilisations portée. Il est unilatéral, totalement aveugle sur le génocide en Palestine et encourage des politiques islamophobes." La mécanique : défendre les juifs en ciblant les musulmans et les militants pro-Palestine crée mécaniquement du ressentiment et de l'antisémitisme par amalgame. "La seule chose qui peut nous sauver de ça, c'est une critique franche de l'antisémitisme ET de l'islamophobie."
+
+Padu note cependant que la peur d'Arthur est sincère : "Je pense qu'Arthur a peur pour lui et pour ses enfants. Je peux le comprendre sincèrement. Mais son discours ne résout rien, il met de l'huile sur le feu."
+
+Moment révélateur : sur scène avec Sophia Aram, Arthur ne lui prend pas le bras, ne lui fait pas de bisous dans le cou — contrairement à ses habitudes avec les candidates de son émission. Padu : "C'est intéressant de voir que les dominants se comportent pas pareil selon le statut social des femmes."
+
 ## Vidéos où Arthur est analysé
 - [[RIMA HASSAN PORTE PLAINTE CONTRE ARTHUR]] — Analyse complète de l'affaire Forbes
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA ; discours sur la peur antisémite ; comportement de classe en scène avec Sophia Aram

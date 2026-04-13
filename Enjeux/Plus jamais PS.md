@@ -62,6 +62,18 @@ La capsule Bouamrane montre l'aile droite du PS qui ne cherche plus à dissimule
 
 Pour la PaduTeam, c'est une confirmation éclatante de l'enjeu "plus jamais PS" : le parti ne fait pas semblant d'être de gauche en interne, il planifie ouvertement comment éliminer LFI.
 
+## Le PS comme vecteur du sionisme de gauche (batch D, 2024-2025)
+
+La question palestinienne révèle une dimension supplémentaire de la trahison PS : le parti est devenu **l'un des vecteurs principaux du sionisme en France**, plus militant que le RN sur la question. Zoé : "Je ne sais même pas quel parti est plus sioniste que le Parti socialiste en France. Le RN est moins sioniste que le Parti socialiste."
+
+Manifestations concrètes :
+- La marche contre l'antisémitisme du 12 novembre 2023 avec l'extrême droite — en fait une marche de stigmatisation des militants pro-Palestine
+- [[Jerome Guedj|Guedj]] au congrès de Nancy traitant Mélenchon de "salopard antisémite" et ses 7,7 millions d'électeurs de "fanatiques" — sans aucune réaction du bureau national
+- [[Chloé Ridel]] sur [[Backseat]] rewriting l'histoire PS sur Palestine, passant de "risque de génocide" (mars 2024) à "j'ai toujours dit génocide" (2025)
+- Le PS ayant servi de couverture pour le storytelling Hamas=terrorisme dès octobre 2023, qui a permis aux pays occidentaux de ne pas s'opposer au génocide
+
+Lien structurel : la trahison PS sur la Palestine suit la même logique que la trahison PS en général — un parti dont la base de classe (haut-droite du Graphique) l'oblige à défendre l'ordre sioniste atlantiste. "Ce n'est pas une erreur ou une lâcheté : c'est leur ligne."
+
 ## Vidéos clés
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — bilan quinquennat Hollande comme liste de trahisons concrètes : CICE (300M à Arnault), répression manifs palestiniennes, loi travail, émergence de Macron. Le reportage Paris Match comme révélateur du rapport de classe de la social-démocratie.
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — [[Chloé Ridel]] (porte-parole PS) attaque le communiqué de LFI sur la condamnation Le Pen, illustrant la posture permanente d'opposition du PS à LFI dès qu'une opportunité se présente
@@ -82,4 +94,6 @@ Pour la PaduTeam, c'est une confirmation éclatante de l'enjeu "plus jamais PS" 
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Padu dit explicitement "ici on est team plus jamais PS" face à la conférence FP2027 qui inclut Hollande/Rousseau dans son orbite. Démonstration que le FP2027 est une tentative PS de reconstruire un véhicule avec des noisettes.
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Les réunions secrètes PS-Attal derrière la façade unitaire de la primaire révèlent la convergence PS/bloc central. La PaduTeam décrit comment les socialistes tractent avec le gouvernement sur le budget pendant qu'ils font la primaire "de rupture". Jospin 2002 prédit comme sort du candidat noisette.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot : lancement de la campagne anti-PS avec [[On ne veut plus]] et [[La Breche|La Brèche]]. La "suspension" des retraites comme trahison exemplaire : le PS accepte une miette (décalage de courbe de quelques mois) et la présente comme victoire historique. Déclaration solennelle : "Dès que vous entendez PS, si vous êtes vraiment pour la rupture avec le néolibéralisme, c'est un adversaire." Appel à cesser toute tentative d'alliance avec le PS — "la séquence est terminée."
-- [[HOLLANDE prepare t-il SON RETOUR]] — Lancement de la campagne physique "Plus jamais PS" : kits d'affichage, collage en binômes paritaires, groupes [[On ne veut plus]] en région. Annonce d'un événement IRL à Paris en février avec "des gens assez incroyables". La PaduTeam explique que la stratégie Hollande de retour démontre exactement pourquoi le PS restera toujours un ennemi : il reprend les mêmes personnes, les mêmes logiques, pour faire la même politique.
+- [[HOLLANDE prepare t-il SON RETOUR]] — Lancement de la campagne physique "Plus jamais PS"
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Retournement de veste PS sur Gaza ; Backseat comme vecteur de sionisme progressiste
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Guedj comme cas d'école de la convergence PS/sionisme ; le PS plus sioniste que le RN : kits d'affichage, collage en binômes paritaires, groupes [[On ne veut plus]] en région. Annonce d'un événement IRL à Paris en février avec "des gens assez incroyables". La PaduTeam explique que la stratégie Hollande de retour démontre exactement pourquoi le PS restera toujours un ennemi : il reprend les mêmes personnes, les mêmes logiques, pour faire la même politique.
