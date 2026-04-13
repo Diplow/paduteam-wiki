@@ -35,6 +35,7 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des ~40
 
 ## Batch B — Arc Rima Hassan (répression/censure)
 
+
 **Statut** : ✅ ingéré (2026-04-13)
 **Slug branche** : `ingest-batch/rima-hassan-repression`
 
@@ -80,16 +81,16 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des ~40
 
 ## Batch E — Répression militante & censure médiatique
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ ingéré (2026-04-13)
 **Slug branche** : `ingest-batch/gaza-repression-censure`
 
-- [ ] SIHAME ASSBAGUE CONVOQUÉE PAR LA POLICE POUR UN TWEET SUR GAZA
-- [ ] ENTHOVEN — IL N'Y A PAS DE GÉN0CIDE À GAZA + MEURICE N'A AUCUN TALENT
-- [ ] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024
-- [ ] CE REALISATEUR JUIF CANCELED POUR SON SOUTIEN AUX PALESTINIENS (Jonathan Glazer)
-- [ ] LINGUISTICAE en CONCURRENCE avec les ENFANTS GAZAOUIS
-- [ ] GAZA — BAKI CENSURÉ PAR LE PFL
-- [ ] APOLOGIE du TERR0RISME — PANOT FAIT PÉTER le PLATEAU de BFMTV en direct
+- [x] SIHAME ASSBAGUE CONVOQUÉE PAR LA POLICE POUR UN TWEET SUR GAZA
+- [x] ENTHOVEN — IL N'Y A PAS DE GÉN0CIDE À GAZA + MEURICE N'A AUCUN TALENT
+- [x] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024
+- [x] CE REALISATEUR JUIF CANCELED POUR SON SOUTIEN AUX PALESTINIENS (Jonathan Glazer)
+- [x] LINGUISTICAE en CONCURRENCE avec les ENFANTS GAZAOUIS
+- [x] GAZA — BAKI CENSURÉ PAR LE PFL
+- [x] APOLOGIE du TERR0RISME — PANOT FAIT PÉTER le PLATEAU de BFMTV en direct
 
 ---
 

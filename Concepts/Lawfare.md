@@ -41,7 +41,18 @@ Le batch Rima Hassan illustre la forme la plus aboutie du lawfare : non plus seu
 
 **Parallèle international** : même mécanisme utilisé contre Lula (Lava Jato), Morales (Bolivie), Bachelet, Correa, Podemos en Espagne. Chris : "C'est vraiment une technique bah justement des forces politiques judiciaires et médiatiques. Quand c'est privatisé dans les mondes libéral, le policière et le juridique et le médiatique jouent un rôle très important là-dedans, se coordonne parce que c'est des actes de résistance de la bourgeoisie."
 
+## La loi "apologie du terrorisme" 2014 comme instrument de lawfare
+Avant 2014, l'apologie du terrorisme relevait du **droit de la presse** (loi de 1881). La loi Cazeneuve (PS, 2014) la bascule dans le **code pénal** : peines plus lourdes, stigmatisation pénale accrue, et — surtout — outil aux mains de parquets pouvant poursuivre sans plainte préalable.
+
+Depuis 2014, une série de militants pro-Palestine ont été poursuivis pour des positions que la gauche tenait sans procès depuis des décennies (contextualiser le 7 octobre par l'occupation, soutenir la résistance palestinienne comme légitime). La PaduTeam nomme le mécanisme : ce n'est pas l'apologie réelle qui est visée — c'est le militantisme politique.
+
+La proposition de loi de [[Hugo Bernalicis]] (LFI) vise à retransférer ce délit au droit de la presse, comme avant 2014. Le PS (Olivier Fort) et la droite (Christian Estrosi) y répondent par un mensonge délibéré : "ils veulent autoriser l'apologie du terrorisme". [[Mathilde Panot]] sur BFMTV : "nous ne l'abrogeons pas, nous le remettons au bon endroit — et un rapport de l'ONU dénonce l'instrumentalisation de ce délit contre les voix pour la paix en France."
+
+Ironie politique : c'est une loi socialiste (PS) qui est devenue l'instrument principal de répression des militants pro-Palestine.
+
 ## Vidéos où le concept est développé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Cas d'école complet de l'offert : judiciaire + médiatique + loi liberticide
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Forme administrative du lawfare (interdictions préfectorales)
+- [[SIHAME ASSBAGUE CONVOQUEE PAR LA POLICE POUR UN TWEET SUR GAZA]] — Application de la loi 2014 contre un tweet de militante
+- [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — Proposition Bernalicis, réponse de Panot, mensonge du PS sur la proposition
