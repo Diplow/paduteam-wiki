@@ -29,7 +29,7 @@ Capsule sur l'incident de l'Assemblée nationale : [[Pape de Logou]] (député F
 5. **L'antisémitisme réel dilué par son instrumentalisation.** La plainte pour "insulte antisémite" suite à un mot "porc" après provocation met en danger les Juifs de France : "c'est dangereux pour les Juifs de France de commencer à instrumentaliser l'antisémitisme quand il y a un antisémitisme réel [...] qui passe notamment par des agressions de Juifs en France."[^5]
 
 ## Individus mentionnés
-[[David Guiraud]], [[Meyer Habib]], [[Pape de Logou]], [[Stéphane Le Rudulier]], [[Florence Bergeo Black]], [[Clémence Guette]]
+[[David Guiraud]], [[Meyer Habib]], [[Pape de Logou]], [[Stéphane Le Rudulier]], [[Florence Bergeaud-Blackler]], [[Clémence Guette]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Assemblee nationale]]

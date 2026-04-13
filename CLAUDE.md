@@ -15,8 +15,8 @@ La PaduTeam n'est pas une chaîne de commentaire politique. C'est le bras média
 ### Membres
 
 - **Padu** (Pas Dühring) — Pédopsychiatre, créateur, marxiste-léniniste
-- **Chris** — Cadre industrie, fondateur de *Positions Revue*, concepteur du Saint Graphique
-- **Zoé** (Dr Zoé) — Médecin généraliste, féministe matérialiste
+- **Chris** — Cadre industrie, fondateur de *Positions Revue*, concepteur du [[Graphique]]
+- **Zoé** (Dr Zoé) — Présidente de La Brèche, Médecin généraliste, féministe matérialiste
 
 Les trois gardent leurs emplois salariés — c'est un choix militant théorisé : extraire les militants de leur milieu professionnel crée une "pseudo avant-garde" déconnectée de la pratique collective.
 
@@ -69,6 +69,16 @@ Le vault est une base de connaissances vivante — l'interroger fait partie de s
 - **Aliases**: définis en frontmatter YAML, permettent les liens via `[[Nom réel|alias]]`
 - **Langue**: français, ton analytique (pas encyclopédique)
 - **Principe fondamental**: restituer la vision PaduTeam telle quelle, sans modérer ni nuancer
+
+## Lire les sources PaduTeam — avertissements
+
+Trois pièges à éviter systématiquement quand on travaille sur ce vault :
+
+1. **Les titres sont du clickbait assumé.** Ils sont rédigés pour passer l'algorithme YouTube, pas pour résumer fidèlement le contenu. Un titre qui dit « X CENSURE Y », « Z DÉTRUIT W », « ILS SE DÉCHIRENT » est quasi systématiquement une dramatisation. **Ne jamais déduire le contenu ou la position PaduTeam à partir d'un titre seul** — toujours lire le transcript avant de caractériser une vidéo, un conflit interne, ou une position. Si une fiche doit être écrite sans transcript disponible, le signaler explicitement au lieu d'extrapoler depuis le titre.
+
+2. **Le vault est construit à partir de transcripts écrits, pas de la vidéo.** On perd l'ironie visuelle, le ton, les regards complices, les rires. Un passage qui semble agressif à l'écrit peut être un running gag ; une phrase qui semble sérieuse peut être au second degré. En cas de doute sur le registre d'un passage, préférer une formulation qui préserve l'ambiguïté plutôt qu'une interprétation littérale.
+
+3. **La PaduTeam est cynique, caustique et autodérisoire.** Padu et Chris en particulier pratiquent une ironie corrosive, incluant sur eux-mêmes, sur leurs camarades, sur leurs alliés. Leurs « clashs » internes sont souvent performatifs (débat entre amis, sketch militant, provocation pédagogique). Distinguer les vraies lignes de fracture des joutes de chapelle suppose de lire le transcript en entier, pas d'extraire un extrait isolé. Quand le transcript laisse un doute, ne pas inventer un conflit qui n'existe pas.
 
 ## Taxonomie des tags
 

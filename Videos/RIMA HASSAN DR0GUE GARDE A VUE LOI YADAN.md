@@ -1,11 +1,20 @@
 ---
 type: vidéo
-domaine: [politique-intérieure, géopolitique]
-thèmes: [Palestine, répression-justice, médias-propagande]
-enjeux: [Répression des pro-Palestine, Palestine libre]
-date: 2025-04-01
-youtube_id: "ggMtsfLNACo"
+domaine:
+  - politique-intérieure
+  - géopolitique
+thèmes:
+  - Palestine
+  - répression-justice
+  - médias-propagande
+enjeux:
+  - Répression des pro-Palestine
+  - Palestine libre
+date: 2026-04-01
+youtube_id: ggMtsfLNACo
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:17:48 am
+date modified: Monday, April 13th 2026, 11:04:39 am
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
 
@@ -51,6 +60,6 @@ Padu et Chris analysent en direct l'affaire de la garde à vue de [[Rima Hassan]
 [[RIMA HASSAN  DR0GUE, GARDE À VUE, LOI YADAN !]]
 
 [^1]: [10:46](https://www.youtube.com/watch?v=ggMtsfLNACo&t=646) — "Elle ne devrait pas être là [...] la première chose à dire c'est qu'il devrait pas y avoir de procès"
-[^2]: [12:18](https://www.youtube.com/watch?v=ggMtsfLNACo&t=738) — Rima Hassan : "13/16 au total en grande majorité des plaintes déposées par le lobby proélien en France ciblant mes opinions politiques"
+[^2]: [12:18](https://www.youtube.com/watch?v=ggMtsfLNACo&t=738) — Rima Hassan : "13/16 au total en grande majorité des plaintes déposées par le lobby proisraélien en France ciblant mes opinions politiques"
 [^3]: [20:06](https://www.youtube.com/watch?v=ggMtsfLNACo&t=1206) — "Ils disent pas un truc faux mais un truc tellement opaque, large et confus que ça peut tout et rien dire"
 [^4]: [26:49](https://www.youtube.com/watch?v=ggMtsfLNACo&t=1609) — "C'est des moments très très importants [...] une ligne de démarcation entre les gens qui soutiennent réellement et concrètement la résistance palestinienne [...] et les gens qui s'y soumettent"
