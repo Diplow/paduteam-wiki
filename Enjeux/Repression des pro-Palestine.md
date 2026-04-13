@@ -87,6 +87,35 @@ Le même Enthoven nie le génocide à Gaza en prime time sur BFMTV ("L'accusatio
 ### La plainte Habib contre Guiraud comme exemplum
 [[Meyer Habib]] porte plainte contre [[David Guiraud]] pour l'avoir traité de "porc" après que Habib l'a lui-même provoqué dans les couloirs de l'Assemblée en l'interpellant pendant une interview. Habib est venu faire chier Guiraud qui se faisait interviewer, a commencé par parler de "cochon" ("on n'a pas élevé les cochons ensemble"), Guiraud lui répond "c'est toi le cochon", et Habib porte plainte en criant à l'antisémitisme. [[Stéphane Le Rudulier]] et Florence Bergeo Black renchérissent : dire "porc" à un juif serait un appel à l'islamisme (car le porc est haram pour les musulmans). Padu : "je pense qu'il est traité de porc parce qu'il a un quintuple menton plus que pour sa judéité." Le même jour, [[Pape de Logou]] est exclu 15 jours de l'Assemblée pour avoir brandi un drapeau palestinien — la plus haute sanction possible, identique à celle prononcée pour propos racistes. [[David Guiraud]] sanctionné pour avoir riposté à une provocation ; Habib impuni pour ses propos génocidaires habituels.
 
+### La dissolution des organisations pro-Palestine comme fascisation
+
+Retailleau annonce une procédure de dissolution contre [[La Jeune Garde]] et [[Urgence Palestine]] quelques jours seulement après le meurtre d'Abouakar — un musulman tué en France dans un contexte de montée de l'islamophobie. Le timing est explicite : au lieu de réprimer les violences islamophobes, on réprime ceux qui luttent contre le génocide et le fascisme.
+
+Cem Yoldas (Jeune Garde) sur les trois griefs du gouvernement :
+1. Être **antifasciste** — "c'est écrit noir sur blanc que l'antifascisme conduit à la violence". Ce qui était la norme en 1945 jusqu'en 2010-2015 est criminalisé en 2025.
+2. Organiser des **stages d'autodéfense** — instrumentalisation de la lutte antiterroriste pour mettre sur le même pied militants politiques et terroristes.
+3. Une **liste d'agressions** sans fondement juridique — aucune condamnation de justice, tout est interprétation partant d'un postulat idéologique.
+
+Le paradoxe exposé par Padu et Yoldas : le seul parti lié à des affaires de terrorisme réel est le [[Rassemblement National]] (Claude Sink, Amedy Coulibaly et l'hypercacher). On dissout la Jeune Garde, pas le RN.
+
+La dissolution cible délibérément les organisations **efficaces et organisées** — preuve de leur force. Yoldas : "si aujourd'hui on est attaqué par le gouvernement, c'est qu'on leur fait peur." La même logique vaut pour Urgence Palestine : 100+ rassemblements hebdomadaires, c'est une force sociale visible.
+
+Pente glissante théorisée par Yoldas : après la Jeune Garde, ce sera des partis, des syndicats. La CGT et la France Insoumise sont déjà dans le viseur depuis la loi travail. Ce n'est pas un incident isolé — c'est la trajectoire du libéralisme autoritaire vers une extrême droitisation assumée[^dissolution].
+
+[^dissolution]: [9:14](https://www.youtube.com/watch?v=apa807lyQeM&t=554) — "on fait peur quand on est organisé [...] ce qui fait peur et ce qu'on tente de dissoudre, c'est dès que ça commence à devenir un petit peu gros, dès que ça commence à devenir une force sociale"
+
+### La censure des plateaux TV et le double mesure structurel
+
+Le directeur de rédaction de CNews, auditionné par une commission parlementaire, refuse de condamner l'assassinat de journalistes palestiniens et la censure des médias par Israël. Aymeric Caron le pousse : répondez par oui ou non, est-ce que vous condamnez ces meurtres de journalistes ? Le directeur bégaie et esquive[^cnews].
+
+En miroir : les propos tenus impunément sur les mêmes plateaux —
+- Arno Klarsfeld appelle à "organiser des grandes rafles de musulmans" (CNews)
+- Michel Boujenah compare Gaza à Hiroshima et dit qu'il n'y a "pas de dommages collatéraux" si les Gazaouis "sont d'accord avec le Hamas"
+- Gérald Darmanin participe à un barbecue en soutien à Tsahal
+- À Poitiers, une fresque "75 ans de colonisation, stop génocide" est effacée par la mairie sous pression d'élus d'opposition qui la qualifient d'antisémitisme
+
+[^cnews]: [6:19](https://www.youtube.com/watch?v=mbxXDxHk3gE&t=379) — "vous avez prêté serment de dire la vérité toute la vérité et donc je vous demande de répondre simplement par oui ou par non"
+
 ## Vidéos clés
 - [[RIMA HASSAN PORTE PLAINTE CONTRE ARTHUR]] — Première affaire de mort sociale professionnelle ciblée (Forbes, TV5/Cassi)
 - [[Rima Hassan TAILLE Le Crayon]] — Mécanisme de la diabolisation par extrait tronqué
@@ -102,3 +131,7 @@ Le même Enthoven nie le génocide à Gaza en prime time sur BFMTV ("L'accusatio
 - [[CE REALISATEUR JUIF CANCELED POUR SON SOUTIEN AUX PALESTINIENS JONATHAN GLAZER]] — Cancel culture culturelle de droite ; parallèle Zone d'intérêt / génocide en cours
 - [[ENTHOVEN IL N'Y A PAS DE GENOCIDE A GAZA MEURICE N'A AUCUN TALENT]] — Négationnisme du génocide en prime time ; suspension de Guillaume Meurice
 - [[FRANCE INFO OFFRE 10 POUR CENT AU CLUB MED GAZA]] — Banalisation maximale : France Info traite la déportation de 2,2 millions de Palestiniens comme un sujet hôtelier
+- [[AYMERIC CARON ECRABOUILLE CNEWS SUR GAZA]] — Modèle tactique : piéger le directeur de CNews sur les chiffres de Gaza et la censure des journalistes assassinés
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes et pro-Palestine comme acte de fascisation ; théorisation de la lutte par Cem Yoldas
+- [[ARNO KLARSFELD ET MICHEL BOUJENAH SE LACHENT SUR LES PALESTINIENS ET LES MUSULMANS]] — Double mesure : rafles de musulmans impunies, fresque anti-génocide effacée
+- [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — ONU documente les viols de femmes palestiniennes, Bergé silencieuse — double mesure féministe

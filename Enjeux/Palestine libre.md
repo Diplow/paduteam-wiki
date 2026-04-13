@@ -90,3 +90,21 @@ L'argument structurant de ce batch : **le sionisme venu de gauche est plus nocif
 - [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Mandat d'arrêt CPI comme victoire ; réactions sionistes ; exultation de Meyer Habib
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Alliance Valls-Habib dans la défense de Netanyahu inculpé
 - [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Flottille 2025 ; Rima Hassan détenue ; décryptage de la désinformation sioniste de Fourest et Habib
+- [[AYMERIC CARON ECRABOUILLE CNEWS SUR GAZA]] — Modèle du clash médiatique : piéger CNews sur les 30 000 morts et les journalistes assassinés
+- [[TPMP POLSKA DETRUIT NADINE MORANO SUR GAZA EN DIRECT]] — Polska expose le discours génocidaire mainstream ; "à cause du Hamas on est obligé de tous les tuer"
+- [[ARNO KLARSFELD ET MICHEL BOUJENAH SE LACHENT SUR LES PALESTINIENS ET LES MUSULMANS]] — Propos génocidaires impunis : rafles de musulmans (Klarsfeld), Gaza=Hiroshima (Boujenah), barbecue Tsahal (Darmanin)
+- [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — Rapport ONU sur les viols des femmes palestiniennes en détention israélienne, ignoré par Bergé
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
+- [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
+
+## Apports du batch F (clashs médiatiques pro-Palestine)
+
+Ce batch documente **la bataille médiatique** autour du génocide — qui prend la parole, qui est réduit au silence, qui gagne les clashes sur plateau.
+
+Arguments nouveaux :
+- Le modèle Caron : venir avec les sources, piéger par des questions précises ("condamnez-vous l'assassinat de journalistes palestiniens ?"), ne pas lâcher. Le directeur de CNews bégaie car il ne peut pas répondre oui sans se contredire ni non sans s'exposer.
+- L'argument des chiffres : 122 journalistes tués par Israël à Gaza au 1er février (selon l'ONU), 30 000 morts (en Une de Libération), 70-170 tués lors d'une distribution alimentaire. Le directeur de CNews dit ne pas connaître ces chiffres — il dirige pourtant une chaîne d'info.
+- Michel Boujenah expose la logique génocidaire nue : "s'ils sont d'accord avec le Hamas, il y a pas de dommages collatéraux" — c'est-à-dire : tous les civils gazaouis sont des cibles légitimes. Comparaison avec les nazis : Gaza=Hiroshima. Tenu impunément.
+- Le rapport ONU sur les viols des femmes palestiniennes en détention par les forces israéliennes : détention arbitraire, violences sexuelles, femmes gardées en cage sous la pluie, photos de soldats avec des sous-vêtements volés. Aurore Bergé, chantre du féminisme, silencieuse.
+- **Polska** comme exemple de classe : immigrée polonaise, a fait de l'OnlyFans pour s'en sortir, vient au débat sur TPMP et fait bégayer Nadine Morano. La PaduTeam défend Polska contre la misogynie qui la réduit à son corps — et souligne que ce sont précisément les gens qui "n'oublient pas d'où ils viennent" qui se positionnent pour la Palestine.
+- La dissolution de [[La Jeune Garde]] et [[Urgence Palestine]] comme acte de fascisation : Retailleau les dissout après le meurtre d'Abouakar. La cible n'est pas la violence — c'est l'efficacité organisée.

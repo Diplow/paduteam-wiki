@@ -67,6 +67,14 @@ Scénario long terme : si Retailleau arrive au pouvoir avec une ligne libérale-
 
 Sarkozy reçoit officiellement Bardella — interprété comme une tentative de Retailleau de neutraliser l'influence de Sarkozy en intégrant Bardella dans l'orbite républicaine. Analyse PaduTeam : Retailleau est "emm***é" par cet acte — Sarkozy lui rappelle sa dépendance. Pour constituer le bloc de droite à 30%, Retailleau a besoin de l'adoubement de Sarkozy ET de l'appareil Bardella.
 
+## La dissolution de la Jeune Garde et Urgence Palestine
+
+Quelques jours après le meurtre d'Abouakar (tué parce que musulman), Retailleau annonce une procédure de dissolution contre [[La Jeune Garde]] et [[Urgence Palestine]]. La séquence : islamophobie meurtrière → répression des antifascistes et pro-Palestiniens, pas des islamophobes.
+
+Cem Yoldas (Jeune Garde) décrit le lien entre Retailleau et l'extrême droite violente : [[Collectif Nemesis|Némésis]], groupe identitaire qui a attaqué des manifestations du 8 mars et du 22 novembre, a ses entrées au ministère via sa porte-parole Alice Cordier. C'est elle qui a initié la campagne de dissolution auprès de Retailleau.
+
+Padu et Yoldas établissent la trajectoire : libéralisme autoritaire → extrême droitisation assumée. "On est vraiment sur une pente glissante."
+
 ## Vidéos où Retailleau est analysé
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
@@ -78,3 +86,4 @@ Sarkozy reçoit officiellement Bardella — interprété comme une tentative de 
 - [[FROM TROTSKISTE TO RACISTE]] — loi interdisant le hijab dans les compétitions sportives, analysée comme islamophobie d'État
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Retailleau = "le Glucksmann de droite" : stratégie solitaire de siphonnage au lieu de l'union des droites ; c'est la stratégie "plus maline" selon la PaduTeam
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Le dîner Bardella/Sarkozy comme acte de positionnement dans la reconstitution du bloc Sarkozy 2007 ; Retailleau a besoin de l'adoubement de Sarkozy pour réussir
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes ; lien avec Némésis ; théorie de la fascisation
