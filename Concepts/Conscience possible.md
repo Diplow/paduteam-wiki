@@ -28,5 +28,19 @@ Exemple concret donné par la PaduTeam : les jeunes médecins. Imposer une "inst
 ## Rapport à la [[Conscience et sujets collectifs]]
 La conscience possible est une dimension de la théorie plus large des sujets collectifs : elle précise *quelle fraction* d'un sujet collectif peut atteindre *quel niveau* de conscience politique. C'est le plafond structurel, pas le contenu de la conscience.
 
+## Application au débat Mos Majorum
+
+Dans les deux vidéos de réponse à [[Mos Majorum]], Chris mobilise la conscience possible comme explication de l'incompréhension systématique de Mos Majorum face à la critique marxiste. Mos Majorum est caractérisé comme "petit bourgeois autonome" : son activité de débunker indépendant (sans patron, sans subordonné, son intelligence individuelle comme seul capital) produit des structures mentales qui lui rendent littéralement inaccessibles certains concepts — pas par stupidité individuelle, mais parce que sa position de classe ne lui en donne pas la *conscience possible*.
+
+Chris : "On ne rattrapera pas Mos Majorum. Quand on lui répond là, on lui parle pas à lui. On parle à une partie de son public qui est peut-être un petit peu moins cannassacée dans une structure mentale et qui peut parfois être un peu plus jeune."
+
+Ce passage du politique (Graphique) au féminisme et à l'épistémologie illustre la portée générale du concept : la même structure mentale petite-bourgeoise qui empêche de comprendre l'exploitation empêche de comprendre le patriarcat ou la science comme enjeu de lutte des classes.
+
+## Déplacement de position comme condition du changement
+
+Un dépositionnement matériel (changer d'activité, de milieu de classe) peut faire évoluer les structures mentales, là où l'argument ne le peut pas. Chris donne l'exemple de Salomé Saqué allant travailler dans une usine à poisson pendant une semaine : "ça l'a un peu dépositionné." La prison au contraire ne dépositionne pas — elle te sort du monde sans te faire changer de position.
+
 ## Vidéos où ce concept est développé
 - [[Le MARXISME, un TRUC de BLANC]] — mobilisé pour défendre le [[Graphique]] comme outil léniniste d'identification des sujets collectifs et de leur programme mobilisateur
+- [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — application à Mos Majorum comme petit-bourgeois autonome ; limites de la discussion face à des structures mentales de classe fermées
+- [[REEDUCATION INCEL LIBERTARIEN]] — prolongement : pourquoi on parle au public de Mos Majorum, pas à lui
