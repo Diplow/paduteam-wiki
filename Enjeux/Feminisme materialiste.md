@@ -134,4 +134,7 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — instrumentalisation raciste de la pédocriminalité ; ASE et discours de la pénurie ; misandre de FdeSouche
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — récupération raciste des faits divers ; harcèlement de victimes ; "pas de faits divers, que des faits politiques"
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — protection institutionnelle des prédateurs ; mythe du monstre ; complicité passive de Bayrou ; rapport Sauvé (330 000 victimes)
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation ; la parole comme acte matériel
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique interne structurelle plutôt que punitivisme ; management militant toxique dans les orgas militantes
+- [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
 

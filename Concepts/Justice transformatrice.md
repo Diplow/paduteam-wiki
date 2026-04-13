@@ -31,3 +31,5 @@ La PaduTeam distingue l'usage légitime et l'instrumentalisation :
 
 ## Vidéos où le concept est développé
 - [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — conditions de la réhabilitation (discours juste, dépositionnement, transformation) ; "faute avouée à moitié pardonnée" n'est pas de la justice transformatrice
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — l'excommunication punitiviste n'extirpe pas la structure ; référence à Elsa Deck Marceau, *Faire justice — moralisme progressiste et pratique punitive dans la lutte contre les violences sexistes* (La Fabrique)

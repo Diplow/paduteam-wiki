@@ -93,34 +93,40 @@ L'antiféminisme d'extrême droite se travestit en féminisme. Thaïs d'Escufon 
 
 ## Batch D — VSS, célébrités & show-business
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/vss-showbusiness`
 
 La constellation Depardieu/Arthur/Cauet/Moix/Abittan comme expression de la protection de classe des prédateurs médiatiques. Brigitte Macron défendant Abittan contre NousToutes est le point d'orgue politique.
 
-- [ ] LIO BALANCE TOUT SUR DEPARDIEU et les VSS dans le SHOW-BUSINESS
-- [ ] YANN MOIX — PLUS GROS PORC QUE DEPARDIEU (x Dr Zoé)
-- [ ] ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES (x Dr Zoé)
-- [ ] ARTHUR NOUS CENSURE, @Dr_Zoé_YT EST FOLLE DE RAGE
-- [ ] CAUET — ENCORE UNE VICTIME DE LA CANCEL CULTURE (x Dr Zoé)
-- [ ] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
-- [ ] @LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES
-- [ ] PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME
-- [ ] HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES
-- [ ] BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS
+- [x] LIO BALANCE TOUT SUR DEPARDIEU et les VSS dans le SHOW-BUSINESS
+- [x] YANN MOIX — PLUS GROS PORC QUE DEPARDIEU (x Dr Zoé)
+- [x] ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES (x Dr Zoé)
+- [x] ARTHUR NOUS CENSURE, @Dr_Zoé_YT EST FOLLE DE RAGE
+- [x] CAUET — ENCORE UNE VICTIME DE LA CANCEL CULTURE (x Dr Zoé)
+- [x] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
+- [x] @LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES
+- [x] PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME
+- [x] HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES
+- [x] BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS
+
+**Fiches créées** : [[Yann Moix]], [[Cauet]], [[Ary Abittan]], [[La Menace]], [[Fugu]], [[Eydia]], [[Baptiste Moireau]], [[Lio]], [[Brigitte Macron]], [[Arnaud Lagardere]], [[NousToutes]], [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]], [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]], [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]], [[ARTHUR NOUS CENSURE DR ZOE EST FOLLE DE RAGE]], [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]], [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]], [[LAMENACEOFFICIAL CONDAMNE POUR VIOLENCES CONJUGALES]], [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]], [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]], [[BAPTISTE PAS NET VIRE DES JO POUR AVOIR POINTE DES FILLES DE 12 ANS]]
+**Fiches enrichies** : [[Gerard Depardieu]], [[Arthur]], [[Psychodelique]], [[VSS comme fait social]]
 
 ---
 
 ## Batch E — La gauche face à ses propres VSS
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/gauche-vss-interne`
 
 Le front interne. Comment LFI / PaduTeam / Positions Revue gèrent (ou ratent) les VSS et la misogynie *à l'intérieur* de la gauche. Batch délicat : la PaduTeam est à la fois critique et autocritique (affaire Quatennens, affaire Positions Revue/Tondelier).
 
-- [ ] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
-- [ ] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
-- [ ] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+- [x] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
+- [x] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
+- [x] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+
+**Fiches créées** : [[Hugo Prevost]], [[Union Etudiante]], [[Management militant toxique]], [[Feminisme essentialiste]], [[Lyas Loufok]], [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]], [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]], [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]]
+**Fiches enrichies** : [[Adrien Quatennens]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[France Insoumise]], [[Positions Revue]], [[VSS comme fait social]], [[Feminisme materialiste]], [[Justice transformatrice]], [[Elsa Deck Marceau]]
 
 ---
 
