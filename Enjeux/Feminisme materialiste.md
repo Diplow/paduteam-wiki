@@ -1,14 +1,18 @@
 ---
 type: enjeu
-domaine: [société, théorie]
+domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
-skill_version: ingest-batch-2026-04-13
+aliases: [Féminisme matérialiste, féminisme de classe]
+date created: Monday, April 13th 2026, 12:00:00 pm
+date modified: Monday, April 13th 2026, 12:00:00 pm
 ---
-#domaine/société #domaine/théorie #thème/féminisme #thème/VSS
+#domaine/théorie #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 
 # Féminisme matérialiste
 
 ## Position PaduTeam
+
+Le féminisme n'est pas une lutte pour l'égalité abstraite entre individus biologiques. C'est une lutte politique qui ne peut exister que si elle s'articule aux autres rapports de domination : classe sociale, race, situation économique concrète. Séparer le genre de ces structures produit inévitablement soit un féminisme bourgeois inoffensif, soit un fémonationalisme raciste.
 
 Les violences sexistes et sexuelles (VSS) ne sont pas des faits divers — ce sont des faits politiques produits par des structures de domination. Lutter contre les VSS exige de démanteler ces structures : système judiciaire maltraitant, absence de soins psychotraumatiques, culture du viol normalisée, éducation sexuelle refusée. C'est un combat de gauche au plein sens du terme : lutte contre la hiérarchisation des êtres humains, contre le fait que certains peuvent prendre sur le corps des autres sans conséquence.
 
@@ -35,13 +39,38 @@ Citation de Giselle Pelicot reprise comme mot d'ordre. La victime qui parle, qui
 **La responsabilité collective**
 Tous concernés, tous responsables — formule du titre du verdict. Ceux qui ont vu et fermé les yeux, ceux qui ont participé aux dynamiques de groupe masculines qui normalisent la contrainte sexuelle, ceux qui tiennent des discours mascus qui font que des hommes se sentent autorisés. Padu cite Hannah Arendt et "la banalité du mal" : comme les gens qui ont vu la déportation et n'ont rien fait, il y a des gens qui voient la violence sexuelle dans leur entourage et ne disent rien.
 
+## L'adversaire principal : le féminisme bourgeois
+
+Le **féminisme bourgeois** est défini par trois caractéristiques :
+1. **Abstraction** : parler "des femmes" en général, comme si elles formaient un bloc homogène. Une aide-soignante en EPHAD et une directrice de CAC 40 ne vivent pas le patriarcat de la même façon.
+2. **Dépolitisation** : réduire le sexisme à des comportements individuels (mansplaining, microagressions) plutôt qu'à des structures économiques (inégalités de salaire, travail domestique non rémunéré, précarité des emplois féminisés).
+3. **Sororité universelle** : demander aux femmes de ne pas "s'attaquer entre elles", ce qui revient à demander aux dominées de ne pas critiquer les femmes en position de pouvoir. Le "Pacte" qui invitait à la solidarité avec Georgia Meloni et Marine Le Pen est l'exemple le plus caricatural de cette logique.
+
+Pour la PaduTeam (notamment [[Dr Zoe]] et [[Chris]]), l'invocation de la sororité universelle est une forme de [[Concernisme]] féministe : surinvestir le genre au détriment de la classe produit une fausse unité qui bénéficie politiquement aux femmes bourgeoises.
+
+Zoé : "Je ne considère pas Marine Le Pen comme ma sœur."
+
+Chris : "C'est la seule et dernière discrimination qui leur reste" — pour les femmes bourgeoises blanches qui ont "éradiqué" les autres discriminations, le sexisme devient le seul enjeu, ce qui explique le surinvestissement.
+
+## L'intersectionnalité sans l'abstraction
+
+La PaduTeam mobilise [[Kimberlé Crenshaw]] et [[Sara Farris]] non pour "additionner" les discriminations, mais pour montrer qu'elles interagissent et se reconfigurent selon le contexte social. Ce n'est pas "les femmes + les racisés + les pauvres souffrent chacun de leur côté" — c'est "une femme noire soignante précaire subit une configuration de domination qualitativement différente de celle d'une femme blanche cadre".
+
+## Le pipeline identitaire comme démonstration a contrario
+
+La trajectoire de [[Thais d'Escufon]] illustre ce que la PaduTeam considère comme l'inverse exact du féminisme matérialiste : une femme qui a vécu des VSS dans un cadre heteropatriarcal et qui, au lieu d'en tirer une conclusion structurelle, les a intégrées dans un discours antiféministe renforcé. Ce n'est pas une anomalie psychologique — c'est la conséquence logique d'une idéologie qui nie les structures sociales.
+
+Contraste : [[Virginie Vota]], dans la même sphère, a vécu la même expérience et a commencé à comprendre le féminisme.
+
 ## Concepts associés
 
-[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]]
+[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]], [[Concernisme]]
 
 ## Adversaires de cette position
 
 **L'extrême droite fémonationaliste** ([[Thais d'Escufon]], [[Alice Cordier]], [[Collectif Nemesis]]) : racialise les VSS pour en faire un argument anti-immigration. Thaïs d'Escufon normalise explicitement le viol conjugal (le concept de viol conjugal a été "inventé" et "travestit par des femmes fourbes"). Leur monde idéal n'est pas un monde sans violence sexuelle — c'est un monde où la violence sexuelle reste dans le "cadre correct" (homme blanc marié).
+
+**Le féminisme libéral** : "girl boss", empowerment individuel, égalité dans les structures existantes sans les transformer.
 
 **Le discours des pulsions** : l'idée que les hommes auraient des "besoins" ou des "pulsions" incontrôlables. Ce discours naturalise la violence et en fait une fatalité — il est anti-féministe et pro-viol dans ses effets même quand il ne l'assume pas.
 
@@ -57,7 +86,12 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 
 ## Vidéos clés
 
-- [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — posent le socle analytique : définition médicale de la soumission chimique, banalité du viol, 43% des viols commis par les conjoints
+- [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — socle analytique : définition médicale de la soumission chimique, banalité du viol, 43% des viols commis par les conjoints
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage de la récupération d'extrême droite, formulation de ce que l'extrême droite veut vraiment
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — bilan structurel : "et maintenant ?", responsabilité collective, banalité du viol (Arendt), masculinités vertueuses
 - [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage personnel de Zoé, documentaire France 2, militantisme du témoignage
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — critique du "Pacte sororité" ; définition du concernisme féministe bourgeois ; Zoé : "Je ne considère pas Marine Le Pen comme ma sœur"
+- [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — analyse du parcours identitaire de Thaïs comme anti-modèle
+- [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — connexion antiféminisme / agenda nataliste identitaire
+- [[THAIS LES VSS L ONT RENDUE NAZIE]] — le mécanisme VSS → radicalisation droite comme absence de féminisme matérialiste
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] — féminisme bourgeois vs féminisme structurel sur la question nataliste
