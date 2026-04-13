@@ -41,22 +41,28 @@ Ce batch pose le socle factuel et analytique sur le viol comme phénomène socia
 
 ## Batch B — Masculinisme, incels & coachs en séduction
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/masculinisme-incels`
+**Statut** : ✅ B1 fait (2026-04-13) — 5 vidéos réseau | ⏳ B2 à faire — 6 vidéos coachs
+**Slug branche B1** : `ingest-batch/masculinisme-incels-b1`
+**Slug branche B2** : `ingest-batch/masculinisme-incels-b2` (à créer)
 
 L'écosystème mascu/incel/coach en séduction comme industrie de la frustration virile. À traiter ensemble parce que les figures se recoupent (Killian Senseï, Valek, Mos Majorum, Alex Hitchens) et que la PaduTeam y applique une grille de classe cohérente.
 
-- [ ] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
+**B1 — Groupe réseau (Mos Majorum, @lobservateurOfficiel, arcs autobiographiques)**
+- [x] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
+- [x] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
+- [x] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
+- [x] RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
+- [x] PAYE TON DROITARD #7.2 — PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ
+
+**B2 — Groupe coachs (Killian Senseï, Valek, Alex Hitchens)**
 - [ ] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
-- [ ] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
 - [ ] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
 - [ ] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
-- [ ] PAYE TON DROITARD #7.2 — PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ
 - [ ] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
-- [ ] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
-- [ ] RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
 - [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
 - [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
+
+**Fiches créées en B1** : [[Mos Majorum]], [[Lobservateur Officiel]], [[DR ZOE RECADRE LES MASCUS TOXIQUES]], [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]], [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]], [[REEDUCATION INCEL LIBERTARIEN]], [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — enrichissements : [[Conscience possible]], [[Feminisme materialiste]]
 
 ---
 
