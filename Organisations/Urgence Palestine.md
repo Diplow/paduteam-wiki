@@ -1,0 +1,22 @@
+---
+type: organisation
+domaine: [politique-intérieure]
+thèmes: [Palestine]
+aliases: [Urgence Palestine]
+date created: Monday, April 13th 2026, 12:00:00 pm
+date modified: Monday, April 13th 2026, 12:00:00 pm
+skill_version: ingest-batch-2026-04-13
+---
+#domaine/politique-intérieure #thème/Palestine
+# Urgence Palestine
+
+## Position dans l'analyse PaduTeam
+Collectif militant français de solidarité avec la Palestine, organisateur de rassemblements hebdomadaires dans de nombreuses villes françaises depuis le début du génocide. Pour la PaduTeam, Urgence Palestine incarne la **mobilisation de masse décentralisée** comme réponse à l'[[Impunite absolue]]. Chris ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) cite 100+ rassemblements hebdomadaires comme preuve que la mobilisation existe, même quand elle n'est pas médiatisée.
+
+Cible de la répression : le collectif fait l'objet d'une tentative de dissolution par Bruno Retailleau (à analyser dans un autre batch), illustration de la [[Instrumentalisation de l'antisemitisme]] comme outil de répression du mouvement pro-palestinien.
+
+## Dynamique
+Organisation horizontale, coordination nationale, rassemblements hebdomadaires aux lieux symboliques (places publiques, préfectures, sièges d'entreprises liées à Israël). Convergence avec France Palestine Solidarité, BDS France, d'autres collectifs.
+
+## Vidéos où Urgence Palestine est mentionnée
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — 100+ rassemblements hebdomadaires, mobilisation de masse

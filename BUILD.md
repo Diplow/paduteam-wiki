@@ -12,10 +12,11 @@ Ce fichier documente **comment** le vault Graphiked est construit et maintenu : 
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│  ingest-batch (Phase 3)                              │
-│  Regroupe N transcripts par sujet, construit un      │
-│  contexte consolidé, puis appelle ingest-video       │
-│  pour chaque vidéo avec ce contexte enrichi          │
+│  ingest-batch (optionnel)                            │
+│  Regroupe N transcripts par sujet, construit une     │
+│  synthèse cross-vidéos, puis dispatche vers les       │
+│  skills write-* avec ce contexte consolidé.          │
+│  Un seul commit / PR pour tout le batch.             │
 └───────────────────────┬──────────────────────────────┘
                         │
                         ▼
@@ -52,7 +53,7 @@ Elle ne fait **pas** de recherche extensive. Elle prend le contexte pour acquis 
 | `write-entity` | Rédiger/enrichir une fiche `Individus/` ou `Organisations/` | v1 |
 | `write-concept` | Rédiger/enrichir une fiche `Concepts/` | v1 |
 | `write-enjeu` | Rédiger/enrichir une fiche `Enjeux/` | v1 |
-| `ingest-batch` | Ingérer plusieurs transcripts par sujet pour cohérence maximale | À créer (Phase 3) |
+| `ingest-batch` | Ingérer plusieurs transcripts par sujet pour cohérence maximale | v1 |
 
 ---
 
@@ -160,12 +161,14 @@ Le vault est versionné sur GitHub (`Diplow/paduteam-wiki`).
 ```
 main              ← production (publication du wiki)
  └── develop      ← intégration (état courant du vault)
-      └── ingest/slug-video  ← branche d'ingestion (1 par vidéo)
+      ├── ingest/slug-video        ← ingestion unitaire (1 vidéo)
+      └── ingest-batch/slug-sujet  ← ingestion batch (N vidéos d'un même sujet)
 ```
 
 - **`main`** : état publié du wiki. Jamais de push direct.
 - **`develop`** : branche d'intégration. Toutes les ingestions sont mergées ici via PR.
-- **`ingest/<slug>`** : branche éphémère par ingestion. Slug = titre en minuscules, sans accents, tirets, tronqué à ~50 chars.
+- **`ingest/<slug>`** : branche éphémère pour une ingestion unitaire. Slug = titre de la vidéo en minuscules, sans accents, tirets, tronqué à ~50 chars.
+- **`ingest-batch/<slug>`** : branche éphémère pour un batch thématique. Slug = nom du sujet (ex: `guerre-des-gauches`), ~40 chars max. Un seul commit et une seule PR couvrant toutes les vidéos du batch.
 
 ### En début d'ingestion
 

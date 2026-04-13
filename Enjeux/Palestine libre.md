@@ -3,29 +3,64 @@ type: enjeu
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Monday, April 13th 2026, 12:00:00 pm
+skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 # Palestine libre
 
 ## Position PaduTeam
-La question palestinienne est centrale pour toute gauche digne de ce nom. La Palestine est un miroir grossissant de toutes les oppressions : racisme, exploitation économique, domination coloniale. Quel que soit l'angle de lutte — antiracisme, féminisme, syndicalisme — la Palestine en offre la caricature extrême. Soutenir la cause palestinienne n'est pas une option, c'est un test de cohérence.
+La question palestinienne est centrale pour toute gauche digne de ce nom. La Palestine est un miroir grossissant de toutes les oppressions : racisme, exploitation économique, domination coloniale. Quel que soit l'angle de lutte — antiracisme, féminisme, syndicalisme — la Palestine en offre la caricature extrême. Soutenir la cause palestinienne n'est pas une option, c'est un test de cohérence. Depuis 2023, ce test s'est aggravé en obligation morale générationnelle : un [[Genocide en 4K|génocide télévisé en direct]] se déroule, et personne de nos générations ne pourra dire « on ne savait pas ».
 
 ## Arguments récurrents
-- La [[Centralite de la question palestinienne]] : la Palestine concentre toutes les formes d'oppression ([[Colonialisme de peuplement]], apartheid, violence d'État)
-- La mobilisation pro-palestinienne a atteint un seuil critique : maintenir [[Georges Ibrahim Abdallah]] en prison coûtait plus cher à l'État que de le libérer — preuve que le rapport de force bouge
-- La renaissance de l'intérêt pour la Palestine chez les jeunes est passée par le prisme antiraciste (George Floyd 2020, apartheid) avant de rejoindre l'anti-impérialisme classique
-- La France connaît une crise de légitimité sans équivalent : gilets jaunes, retraites, quartiers populaires, mouvement pro-palestinien — quatre mouvements de masse dont la convergence effraie le pouvoir
-- Israël est un État vassal de la stratégie impérialiste de [[Balcanisation imperialiste]] au Moyen-Orient
+
+- La [[Centralite de la question palestinienne]] : la Palestine concentre toutes les formes d'oppression ([[Colonialisme de peuplement]], apartheid, violence d'État). Derrière Israël, c'est un "syndicat d'impérialisme" qui se confronte au peuple palestinien.
+- Le cadre historique nécessaire est la [[Nakba]] (1947-48) et les 80 ans de colonialisme continu — refuser la narration occidentale qui commence le 7 octobre 2023. Le 7-10 est un épisode dans un continuum, pas une origine.
+- Le projet israélien est explicitement génocidaire : dès le 8 octobre 2023, le ministre Gallant qualifie les Palestiniens d'« animaux humains ». Des ministres israéliens jubilent publiquement « des ruines de Gaza ». La destruction organisée de la famine (minoteries, boulangeries, tir sur les pêcheurs) et le [[Ciblage systematique des soignants|ciblage systématique des soignants]] (450+ tués, 1000+ détenus) attestent d'une intentionnalité coloniale.
+- Le projet est le « Grand Israël » récupérant le territoire antérieur à 1947, porté par une coalition d'extrême-droite (Netanyahu, Ben-Gvir, Smotrich) dont l'opération « Muraille de Fer » en Cisjordanie reprend explicitement le nom de l'ouvrage fasciste de [[Vladimir Jabotinski|Jabotinski]] (1923).
+- Tout cessez-le-feu est structurellement illusoire : un « houdna » temporaire pendant que le [[Front colonial permanent|front colonial]] ne cesse pas. La coalition d'extrême-droite israélienne fait chuter tout accord permanent. Les négociations « de paix » sont un double-bind : Israël sabote systématiquement les alternatives non-violentes (assassinats ciblés de Yassine, Rantissi, Meshaal ; emprisonnement de [[Marwan Barghouti]] ; délégitimation de l'Autorité palestinienne) puis reproche aux Palestiniens leur seule résistance restante.
+- L'[[Impunite absolue]] du colonialisme israélien est le mécanisme structurant : aucune sanction crédible, la France laisse l'avion de Netanyahu utiliser son espace aérien malgré mandat d'arrêt de la [[Cour Penale Internationale|CPI]], les médias bourgeois (TF1, LCI, CNews) platforment un inculpé en prime time.
+- L'[[Instrumentalisation de l'antisemitisme]] comme arme répressive : l'accusation fusionne juif, israélien, sioniste pour faire taire toute critique. Conséquence : faire taire + mettre en danger les juifs français par association à Netanyahu. La résistance juive anti-sioniste existe ([[UJFP]], [[Ronny Brauman]] de MSF, Francesca Albanese, Amira Hass, Gideon Levy) et doit être reconnue.
+- La mobilisation pro-palestinienne a atteint un seuil critique : maintenir [[Georges Ibrahim Abdallah]] en prison coûtait plus cher à l'État que de le libérer — preuve que le rapport de force bouge. 100+ rassemblements hebdomadaires en France, grèves portuaires (Italie, France), flottilles civiles, campagnes [[BDS]], blocages de livraisons d'armes : la dignité générationnelle se construit par l'inscription historique, pas par la métrique électorale (leçon Vietnam années 60).
+- La seule solution politique viable selon PaduTeam : un **État unique anti-ethno-nationaliste avec droit de retour pour les réfugiés de la [[Nakba]]**. La solution à deux États est un leurre — le premier est détruit en temps réel. La reconnaissance tardive par Macron, Hidalgo et consorts revient à « reconnaître l'État amérindien précolombien » : ça ne coûte rien quand le destinataire est anéanti.
+- La France connaît une crise de légitimité sans équivalent : gilets jaunes, retraites, quartiers populaires, mouvement pro-palestinien — quatre mouvements de masse dont la convergence effraie le pouvoir.
+- Israël est un État vassal de la stratégie impérialiste de [[Balcanisation imperialiste]] au Moyen-Orient.
+- La renaissance de l'intérêt pour la Palestine chez les jeunes est passée par le prisme antiraciste (George Floyd 2020, apartheid) avant de rejoindre l'anti-impérialisme classique.
 
 ## Concepts associés
-[[Centralite de la question palestinienne]], [[Colonialisme de peuplement]], [[Balcanisation imperialiste]], [[Antiracisme politique vs antiracisme moral]], [[Crise de l'hegemonie americaine]], [[Tricontinentale]]
+[[Centralite de la question palestinienne]], [[Colonialisme de peuplement]], [[Nakba]], [[Genocide en 4K]], [[Front colonial permanent]], [[Impunite absolue]], [[Instrumentalisation de l'antisemitisme]], [[Ciblage systematique des soignants]], [[Pointe avancee du nationalisme ethnique]], [[Recuperation posthume]], [[Balcanisation imperialiste]], [[Antiracisme politique vs antiracisme moral]], [[Crise de l'hegemonie americaine]], [[Tricontinentale]]
 
 ## Adversaires de cette position
-Les "deux-côtéistes" qui mettent oppresseur et opprimé sur le même plan. La gauche social-libérale qui soutient Israël par atlantisme. Les médias mainstream qui cadrent le conflit comme "complexe". Ceux qui considèrent la Palestine comme un sujet "communautaire" plutôt que politique.
+
+**Le camp sioniste assumé** : [[Benjamin Netanyahu]], son gouvernement d'extrême-droite ([[Itamar Ben-Gvir]], [[Bezalel Smotrich]]), les héritiers de [[Vladimir Jabotinski]]. Leurs alliés français explicites : [[Bernard-Henri Levy]], [[Raphael Glucksmann]], [[Manuel Valls]], [[Julien Dray]], Meyer Habib, Caroline Fourest — les "fanatiques" qui refusent jusqu'à l'idée d'une reconnaissance de la Palestine, demandent des conditions impossibles (libération totale d'otages avant toute démarche), traitent 100 000 manifestants d'antisémites.
+
+**Les « deux-côtéistes »** : ceux qui mettent oppresseur et opprimé sur le même plan, cadrent le conflit comme « complexe », demandent des « minutes de silence pour les deux côtés ». Version institutionnelle : le Tour Eiffel illuminée aux couleurs mélangées Israël/Palestine par Hidalgo — « un drapeau nazi et un drapeau français avec une colombe le 8 mai 1945 ».
+
+**La gauche social-démocrate** atlantiste et opportuniste. Le [[Parti Socialiste]] (Hidalgo, Faure, Dray, Glucksmann) a défendu le "droit inconditionnel d'Israël à se défendre" puis défile en 2025 avec Macron en reconnaissant tardivement la Palestine : [[Recuperation posthume]] sans contenu matériel. Le [[Parti Communiste Francais]], historiquement fidèle à la Palestine, capitule à l'électoralisme ([[Fabien Roussel]] posant des conditions cringy). [[Europe Ecologie Les Verts]] (Jadot, Tondelier) "n'a jamais rien compris à la question palestinienne".
+
+**Les médias mainstream** : TF1, LCI, CNews, BFM, France Inter qui cadrent le génocide comme « complexe », platforment Netanyahu en prime time, menacent les soignants pro-Palestine au [[Conseil de l'Ordre des Medecins|Conseil de l'Ordre]]. 103+ journalistes tués à Gaza par Israël — mais ce sont les journalistes français qui interviewent l'architecte du ciblage.
+
+**Les ministres israéliens génocidaires** : au-delà de Netanyahu, Miri Regev, Amichai Chikli, Isaac Herzog (qui a qualifié "les civils aussi responsables"), Yoav Gallant, et l'ensemble des porteurs du projet « Grand Israël ».
 
 ## Évolution
-Enjeu renforcé massivement depuis 2023 (offensive israélienne sur Gaza). La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité.
+
+Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
+
+- **[2024]** Bascule terminologique « nettoyage ethnique » → « génocide » ([[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]], Padu seul).
+- **[2024]** Critique du platformage médiatique : TF1/LCI reçoivent Netanyahu en prime time ([[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]]) — l'analogie Normandie-Rafah comme obscénité historique.
+- **[2025]** Cadrage médical-éthique : Dr Zoé sur le ciblage systématique des soignants ([[GAZA LES SIONISTES TUENT DES MEDECINS]]), instrumentalisation de l'antisémitisme comme arme répressive contre les médecins pro-Palestine au Conseil de l'Ordre.
+- **[2025]** Critique de la reconnaissance tardive Macron/Hidalgo ([[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]) — reconnaître l'État quand il est détruit, sans sanctions contre Netanyahu = théâtre bourgeois. Figure de la [[Recuperation posthume]].
+- **[octobre 2025]** Bilan 2 ans après le 7 octobre ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) — théorisation du continuum colonial 80 ans, refus de la narration qui commence le 7-10, appel à la dignité générationnelle, libération d'Abdallah comme preuve que la lutte paie.
+- **[janvier 2026]** Illusion du cessez-le-feu ([[GAZA L'ILLUSION DU CESSEZ-LE-FEU]], avec Paul Elek) — le cessez-le-feu comme houdna temporaire pendant que le front colonial continue, opération « Muraille de Fer » en Cisjordanie, accord Trump-Blair comme colonisation par intermédiaire.
+
+La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par Chris : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
 ## Vidéos clés
-- [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] sur la libération d'Abdallah, la centralité de la question palestinienne, et la renaissance du marxisme mondial
+
+- [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] : centralité de la question palestinienne, renaissance du marxisme mondial, retournement du rapport de force
+- [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]] — Bascule terminologique vers « génocide » ; critique ministres israéliens ; proposition État unique multiethnique
+- [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Déconstruction de l'interview Netanyahu-Rochebin ; obscénité Rafah/Normandie ; complicité médiatique ; la CPI comme seul lieu légitime pour interroger Netanyahu
+- [[GAZA LES SIONISTES TUENT DES MEDECINS]] — Cadre médical-éthique : cas Abou Safiya/Albourch ; ciblage systématique des soignants ; instrumentalisation de l'antisémitisme au Conseil de l'Ordre ; serment d'Hippocrate « quasi protocommuniste »
+- [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Critique de la reconnaissance tardive ; Tour Eiffel obscène ; récupération posthume ; proposition d'État unique anti-ethno-nationaliste avec droit de retour
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Bilan 2 ans ; continuum 80 ans ; dignité générationnelle ; accord Trump-Blair ; Netanyahu « pointe avancée du nationalisme ethnique »
+- [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Avec Paul Elek : cessez-le-feu comme houdna ; Muraille de Fer Cisjordanie ; impunité absolue ; structure coloniale permanente
