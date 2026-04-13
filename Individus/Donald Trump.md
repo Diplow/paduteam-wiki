@@ -54,6 +54,19 @@ Analyse marxiste de l'impasse : Trump ne peut pas réindustrialiser parce qu'il 
 
 Résultats concrets : PIB à -0,3% au T1 2026, déficit commercial record à 162 Md$, inflation en hausse. Données citées depuis l'article de [[Romaric Godin]] dans [[Mediapart]].
 
+## Guerre contre l'Iran (février-mars 2026)
+
+Le 27 février 2026, Trump attaque l'Iran aux côtés d'Israël. Frappes ciblant les têtes du régime — mort d'[[Ali Khamenei]]. Déclaration de guerre sans vote du Congrès (Trump ne parle pas de "guerre" mais d'"opérations de défense" — même rhétorique que Hollande contre le terrorisme, même rhétorique que Colin Powell sur les armes de destruction massive en Irak).
+
+La vraie raison : faire remonter le [[Pétrodollar]] après la dégringolade du dollar due à sa politique économique. Le pétrole monte à 120$/baril avant de redescendre à 83$. L'empire ne peut plus soutenir ses vassaux ni négocier — il ne lui reste que la force brute[^iran1].
+
+L'opération échoue : la [[Défense mosaïque décentralisée]] iranienne continue de frapper les bases US dans toute la région. Après 10 jours, Trump recule, annonce que la guerre "est bientôt finie", envisage de lever les sanctions — capitulation partielle. [[Mojtaba Khamenei]], fils d'Ali, est nommé nouveau guide suprême : "Vous voulez qu'on entend plus ? On met son fils." Trump est "déçu"[^iran2].
+
+L'Arabie Saoudite et les Émirats comprennent que le bateau américain coule et commencent à s'en distancier.
+
+[^iran1]: [1:01](https://www.youtube.com/watch?v=yPJKov273gs&t=61) — "Trump dans son premier mandat avait déjà fait en sorte d'arrêter les accords d'échange économique avec l'Iran [...] c'est aussi un moyen pour lui de reprendre un peu la main avant les midterms"
+[^iran2]: [5:06](https://www.youtube.com/watch?v=ZkNLJ6DzTTM&t=306) — "l'Iran a annoncé qu'il pouvait tenir 6 mois. D'abord Trump a dit on enverra peut-être des troupes au sol. Et puis non"
+
 ## Vidéos où Trump est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
