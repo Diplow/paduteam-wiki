@@ -24,5 +24,14 @@ La PaduTeam défend la légitimité de cette caricature : on ne se moque pas du 
 ## Relations
 - Associée idéologiquement à [[Alice Cordier]] et au [[Collectif Nemesis]]
 
+## Normalisation du viol conjugal (affaire Mazan)
+
+Pendant le procès Mazan, Thaïs d'Escufon a posté un texte affirmant que "le concept de viol conjugal" avait été "travestit par certaines femmes fourbes pour ne plus avoir à entretenir une intimité avec leur mari", et que "personne n'est dupe de vos petits jeux malsains".
+
+Selon Zoé, ce texte illustre quelque chose que l'extrême droite fait mieux que la droite "respectable" : *assumer* ce que le patriarcat sous-entend normalement. Thaïs d'Escufon dit explicitement que la femme doit au mari une "intimité", que refuser des rapports sexuels c'est jouer un "petit jeu malsain". Ce faisant, elle expose le fond idéologique de la [[Culture du viol]] — la contrainte sexuelle dans le couple comme norme.
+
+Zoé : "Tu normalises la contrainte sexuelle. Tu traites de femmes fourbes les femmes qui refusent des relations non consenties. Tout ça pour extorquer de l'argent à des types perdus sur internet en stimulant leur misogynie. Tu te rends compte de la gravité de ce que tu dis ? Les gens qui tiennent ces discours ont du sang sur les mains."
+
 ## Vidéos où Thaïs d'Escufon est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — texte sur le "prétendu viol conjugal" décortiqué par Zoé, lien explicite entre son discours et la culture du viol qui a rendu possible l'affaire Mazan
