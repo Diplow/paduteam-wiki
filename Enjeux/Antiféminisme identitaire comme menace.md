@@ -43,6 +43,19 @@ Cette méthode est documentée par des conversations internes révélées par L'
 - "90% des accusations de viol sont fausses" (Thaïs d'Escufon) → Légitimation du système du silence, participation active à l'impunité des agresseurs
 - "Notre service d'ordre nous protège" → Mensonge documenté : ce sont des agents provocateurs néonazis qui viennent pour créer des affrontements
 
+## L'axe transphobe : de la droite identitaire à l'écologie réactionnaire
+
+Si Némésis et Thaïs d'Escufon représentent l'antiféminisme *racialiste* (les femmes blanches à protéger des hommes racisés), un second axe de l'antiféminisme identitaire est l'antiféminisme *naturaliste* — dont [[Antitech Resistance]] (ATR) est l'exemple analysé par la PaduTeam.
+
+ATR ne prétend pas défendre les femmes contre les hommes racisés. Il prétend défendre la nature contre la technique. Mais ses conséquences pratiques sont identiques : refus de l'industrie pharmaceutique → plus de contraception, plus d'IVG, plus d'hormones de transition. Zoé (ATR #2) : "Être contre les conditions concrètes matérielles pour que les femmes aient accès à leurs droits, c'est être contre les droits des femmes. Il n'y a pas de dichotomie entre les deux."
+
+L'axe transphobe est structurant dans les deux cas :
+- **ATR** (Mano, militant) : "Le transactivisme est un outil antiféministe qui vise à invisibiliser les femmes." Argument TERF classique, situé dans une critique antitech plus large.
+- **Psyhodelik** (youtuber droitier) : "Le vrai problème, c'est pas les gays, c'est les trans." Ciblage stratégique des trans dans un écosystème qui prétend ne s'en prendre qu'aux "excès" LGBT.
+- **Marguerite Stern** (ancienne Femen, militante transphobe) : production de fake news transphobes (carnaval espagnol présenté comme mise en scène pédophile LGBT). Pipeline : Stern → Psyhodelik → audience large → préjudice concret sur les personnes trans.
+
+**La désinformation transphobe comme arme** : la vidéo Psyhodelik/Stern documente une mécanique précise — une vidéo non vérifiée de 30 secondes produite par une source à fake news avérées est reprise comme fait par un influenceur à grande audience, sans vérification. Padu : "S'il vérifiait, il ne serait pas d'extrême droite." La fake news n'est pas un accident — elle est fonctionnelle : elle permet de désigner les trans comme menace sans avoir à défendre cette position à visage découvert.
+
 ## Adversaires identifiés
 
 - [[Alice Cordier]] — fondatrice Némésis, formée réseau Atlas (extrême droite américaine), passée par Action Française et Institut de Formation Politique (Marion Maréchal)
@@ -64,3 +77,5 @@ Cette méthode est documentée par des conversations internes révélées par L'
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
+- [[PSYHODELIK ET MARGUERITE STERN  CHAMPIONS DES FAKES NEWS TRANSPHOBES !!]] — mécanique de la fake news transphobe ; Psyhodelik : "le vrai problème c'est les trans" ; conséquences matérielles de la désinformation
+- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — antiféminisme naturaliste d'ATR ; manifeste de Mano ; pipeline ATR → extrême droite (Frontières, Valeurs Actuelles, CNews)
