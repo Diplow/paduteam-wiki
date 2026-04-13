@@ -41,22 +41,25 @@ Ce batch pose le socle factuel et analytique sur le viol comme phénomène socia
 
 ## Batch B — Masculinisme, incels & coachs en séduction
 
-**Statut** : ⏳ en attente
+**Statut B1** : ✅ fait — `ingest-batch/masculinisme-incels-b1` — Mos Majorum, L'Observateur Officiel, PTD #7.2, Cet INCEL LIBERTARIEN x2
+**Statut B2** : ✅ fait — `ingest-batch/masculinisme-incels-b2` — Killian Senseï x2, Valek, Le Coach Séduction, Alex Hitchens/Carla Vyx, Couilles Bleues
 **Slug branche** : `ingest-batch/masculinisme-incels`
+
+**Fiches créées B2** : [[Killian Sensei]], [[Valek]], [[Fabrice Julien]], [[Alex Hitchens]], [[Carla Vyx]], [[Industrie de la seduction]], [[Culture du viol]], [[Feminisme materialiste]] (enjeu), [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]], [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]], [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]], [[LE COACH SEDUCTION FLIPPANT]], [[ALEX HITCHENS HUMILIE CARLA VYX]], [[COUILLES BLEUES MYTHES REALITE]]
 
 L'écosystème mascu/incel/coach en séduction comme industrie de la frustration virile. À traiter ensemble parce que les figures se recoupent (Killian Senseï, Valek, Mos Majorum, Alex Hitchens) et que la PaduTeam y applique une grille de classe cohérente.
 
 - [ ] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
-- [ ] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
+- [x] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
 - [ ] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
-- [ ] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
-- [ ] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
+- [x] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
+- [x] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
 - [ ] PAYE TON DROITARD #7.2 — PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ
-- [ ] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
+- [x] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
 - [ ] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
 - [ ] RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
-- [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
-- [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
+- [x] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
+- [x] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
 
 ---
 
