@@ -62,22 +62,25 @@ L'écosystème mascu/incel/coach en séduction comme industrie de la frustration
 
 ## Batch C — Némésis, Thaïs d'Escufon & antiféminisme identitaire
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/nemesis-antifeminisme-identitaire`
+**Statut** : C1 ✅ fait (`ingest-batch/nemesis-alice-cordier`) — C2 ✅ fait (`ingest-batch/nemesis-antifeminisme-identitaire`)
+**Slug branche C1** : `ingest-batch/nemesis-alice-cordier`
+**Slug branche C2** : `ingest-batch/nemesis-antifeminisme-identitaire`
 
 L'antiféminisme d'extrême droite se travestit en féminisme. Thaïs d'Escufon et le collectif Némésis sont les figures structurantes. Le batch documente leur stratégie, leur instrumentalisation des VSS contre les immigrés, et leur réarticulation avec l'écosystème mascu.
 
-- [ ] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
-- [ ] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
-- [ ] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
-- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
-- [ ] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
-- [ ] THAÏS — les VSS l'ont rendue NAZIE
-- [ ] THAÏS D'ESCUFON VICTIME D'UNE AGRESSION PAR UN MIGRANT — MON AVIS
-- [ ] THAÏS D'ESCUFON AIDE les INCELS À TROUVER UNE MEUF POUR 19,90€/MOIS
-- [ ] PAYE TA DROITARDE #4.1 — THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS
-- [ ] PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR FAIRE DES BÉBÉS BLANCS
-- [ ] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN
+- [x] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
+- [x] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
+- [x] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
+- [x] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
+- [x] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
+- [x] THAÏS — les VSS l'ont rendue NAZIE
+- [ ] THAÏS D'ESCUFON VICTIME D'UNE AGRESSION PAR UN MIGRANT — MON AVIS *(pas de transcript disponible)*
+- [x] THAÏS D'ESCUFON AIDE les INCELS À TROUVER UNE MEUF POUR 19,90€/MOIS
+- [x] PAYE TA DROITARDE #4.1 — THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS
+- [x] PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR FAIRE DES BÉBÉS BLANCS
+- [x] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN
+
+**C2 — Fiches produites** : enjeu [[Feminisme materialiste]] (nouveau) ; enrichissement [[Thais d'Escufon]], [[Concernisme]] ; création [[Julien Rochedy]], [[Generation Identitaire]], [[Guillaume Faye]], [[Kimberle Crenshaw]], [[Baptiste Marche]], [[SOS Mediteranee]] ; 5 fiches vidéos.
 
 ---
 
