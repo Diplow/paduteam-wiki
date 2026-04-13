@@ -131,3 +131,4 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[DR ZOE RECADRE LES MASCUS TOXIQUES]] — antiféminisme comme recrutement fasciste ; virilité réinterprétée
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — libertarianisme = masculinisme ; pénurie appliquée aux femmes
 - [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → RN : l'accroche masculiniste comme porte d'entrée fasciste
+

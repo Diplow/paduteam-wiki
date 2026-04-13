@@ -44,26 +44,25 @@ Ce batch pose le socle factuel et analytique sur le viol comme phénomène socia
 
 ## Batch B — Masculinisme, incels & coachs en séduction
 
-**Statut** : ✅ B1 fait (2026-04-13) — 5 vidéos réseau | ⏳ B2 à faire — 6 vidéos coachs
-**Slug branche B1** : `ingest-batch/masculinisme-incels-b1`
-**Slug branche B2** : `ingest-batch/masculinisme-incels-b2` (à créer)
+**Statut B1** : ✅ fait — `ingest-batch/masculinisme-incels-b1` — Mos Majorum, L’Observateur Officiel, PTD #7.2, Cet INCEL LIBERTARIEN x2
+**Statut B2** : ✅ fait — `ingest-batch/masculinisme-incels-b2` — Killian Senseï x2, Valek, Le Coach Séduction, Alex Hitchens/Carla Vyx, Couilles Bleues
+**Slug branche** : `ingest-batch/masculinisme-incels`
+
+**Fiches créées B2** : [[Killian Sensei]], [[Valek]], [[Fabrice Julien]], [[Alex Hitchens]], [[Carla Vyx]], [[Industrie de la seduction]], [[Culture du viol]], [[Feminisme materialiste]] (enjeu), [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]], [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]], [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]], [[LE COACH SEDUCTION FLIPPANT]], [[ALEX HITCHENS HUMILIE CARLA VYX]], [[COUILLES BLEUES MYTHES REALITE]]
 
 L'écosystème mascu/incel/coach en séduction comme industrie de la frustration virile. À traiter ensemble parce que les figures se recoupent (Killian Senseï, Valek, Mos Majorum, Alex Hitchens) et que la PaduTeam y applique une grille de classe cohérente.
 
-**B1 — Groupe réseau (Mos Majorum, @lobservateurOfficiel, arcs autobiographiques)**
 - [x] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
+- [x] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
 - [x] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
+- [x] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
+- [x] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
+- [x] PAYE TON DROITARD #7.2 — PADU, L’ÉLECTEUR RN SAUVÉ PAR L’HÉTÉROSEXUALITÉ
+- [x] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
 - [x] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
-- [x] RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
-- [x] PAYE TON DROITARD #7.2 — PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ
-
-**B2 — Groupe coachs (Killian Senseï, Valek, Alex Hitchens)**
-- [ ] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
-- [ ] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
-- [ ] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
-- [ ] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
-- [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
-- [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
+- [x] RÉÉDUCATION DE L’INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
+- [x] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
+- [x] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
 
 **Fiches créées en B1** : [[Mos Majorum]], [[Lobservateur Officiel]], [[DR ZOE RECADRE LES MASCUS TOXIQUES]], [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]], [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]], [[REEDUCATION INCEL LIBERTARIEN]], [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — enrichissements : [[Conscience possible]], [[Feminisme materialiste]]
 
