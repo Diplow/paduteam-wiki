@@ -1,12 +1,12 @@
 ---
 type: individu
-domaine: [politique-intérieure]
-thèmes: [élections, guerre-des-gauches]
+domaine: [politique-intérieure, géopolitique]
+thèmes: [élections, guerre-des-gauches, anti-impérialisme]
 aliases: [Macron, Emmanuel Macron]
 date created: Tuesday, March 31st 2026, 11:00:21 am
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
-#domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
+#domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme
 
 # Emmanuel Macron
 
@@ -42,8 +42,21 @@ Sur Radio J (dimanche 15 janvier), Macron affirme que la FI "est bien une format
 
 Macron joue sa carte habituelle : rester "clé de voûte" entre les deux extrêmes — une position qui n'a plus de sens en période de crise. Il "attend que ça" — que la tension entre extrême droite et extrême gauche lui donne un prétexte pour l'article 16, le plein pouvoir, l'état d'urgence. La PaduTeam compare à Waldeck Rousseau et son "gouvernement de défense républicaine" (fin XIXe) qui avait utilisé les attentats anarchistes pour interdire les mouvements ouvriers.
 
+## Macron face au Venezuela — "serpillère de l'impérialisme"
+
+Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Macron appelle [[Maria Corina Machado]] — la figure de l'opposition vénézuélienne pro-impérialiste — pour lui apporter son soutien. Pour la PaduTeam dans [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]], c'est la définition même de la "serpillère de l'impérialisme" : un dirigeant européen qui, sous couvert de défense des droits de l'homme, valide et accompagne l'agression américaine contre un pays souverain.
+
+La PaduTeam établit une hiérarchie des positions françaises face à l'enlèvement :
+- **[[Gabriel Attal]]** : "trumpiste pur", soutient directement l'opération
+- **Macron** : "trumpiste honteux", appelle Machado sans assumer pleinement
+- **[[Marine Le Pen]]** : "gaulliste opportuniste", critique l'ingérence américaine par intérêt souverainiste français
+- **[[Jean-Luc Melenchon]]** : anti-impérialiste de principe, seul à tenir une position cohérente
+
+La comparaison avec la France-Afrique est explicite : Macron prépare un "France-Afrique 2.0" en Amérique du Sud, jouant le rôle de sous-traitant de l'hégémonie américaine tout en prétendant défendre une "souveraineté européenne". Le Venezuela révèle l'impossibilité de cette posture.
+
 ## Vidéos
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — A dû modifier ses parcours diplomatiques face aux manifestants réclamant la libération d'Abdallah
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Affirme que la FI est "d'extrême gauche", instrumentalise la mort de Quentin Deranque pour asseoir cette classification
+- [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — "Trumpiste honteux" : appelle Machado pour valider l'opération américaine, comparé à France-Afrique 2.0, hiérarchie des positions françaises face au Venezuela établie.

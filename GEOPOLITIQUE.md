@@ -35,20 +35,20 @@ Bloc cohérent sur l'Iran vu par la PaduTeam : histoire impériale longue, régi
 
 ## Batch B — Venezuela : impérialisme américain et gauche latino
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/venezuela-imperialisme`
 
 Le Venezuela comme cas d'école de l'intervention impérialiste US en Amérique latine. Le batch couvre l'agression directe (bombardement, kidnapping de Maduro), la soumission de Macron, le complotisme médiatique, et le débat interne à la gauche française sur Maduro (Panot qui refuse de condamner vs Kazib qui dénonce le dictateur anti-ouvrier). Tension productive entre solidarité anti-impérialiste et critique de classe du chavisme.
 
-- [ ] DÉCRYPTAGE : TRUMP BOMBARDE le VENEZUELA et KIDNAPPE MADURO !
-- [ ] MACR0N, SERPILLÈRE des ÉTATS-UNIS après l'AGRESSI0N du VENEZUELA
-- [ ] LE VENEZUELA S'EST VENDU À TRUMP ET LA CIA ?
-- [ ] VENEZUELA : le COMPLOTISME AUTORISÉ des FACTCHECKERS !
-- [ ] MATHILDE PANOT REFUSE DE CONDAMNER MADURO SUR BFMTV !!
-- [ ] ANASSE KAZIB ATOMISE MADURO : "C'EST UN DlCTATEUR 100% ANTI-OUVRIER" !
+- [x] DÉCRYPTAGE : TRUMP BOMBARDE le VENEZUELA et KIDNAPPE MADURO !
+- [x] MACR0N, SERPILLÈRE des ÉTATS-UNIS après l'AGRESSI0N du VENEZUELA
+- [x] LE VENEZUELA S'EST VENDU À TRUMP ET LA CIA ?
+- [x] VENEZUELA : le COMPLOTISME AUTORISÉ des FACTCHECKERS !
+- [x] MATHILDE PANOT REFUSE DE CONDAMNER MADURO SUR BFMTV !!
+- [x] ANASSE KAZIB ATOMISE MADURO : "C'EST UN DlCTATEUR 100% ANTI-OUVRIER" !
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]], [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]], [[VENEZUELA COMPLOTISME FACHECKERS]], [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]], [[ANASSE KAZIB ATOMISE MADURO]], [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]]
+**Fiches enrichies** : [[Anti-imperialisme]], [[Campisme assume]], [[Nicolas Maduro]], [[Delcy Rodriguez]], [[Anasse Kazib]], [[Mathilde Panot]], [[Raphael Glucksmann]], [[Emmanuel Macron]], [[Gabriel Attal]], [[Revolution Permanente]]
 
 ---
 

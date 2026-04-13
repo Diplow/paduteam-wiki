@@ -26,5 +26,13 @@ Les trotskistes et certains à gauche l'accusent de trahir la révolution. La Pa
 - [[Padrino Lopez]] — ancien chef des armées, remercié et remplacé
 - [[Hezbollah]] — lien rompu sous Rodriguez selon la PaduTeam
 
+## La photo CIA et la stratégie de discrédit
+
+Dans la vidéo [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]], une photo circule montrant Rodriguez en réunion avec un agent de la CIA lors de la "retraite tactique bolivarienne". La PaduTeam décortique le contexte : les rencontres avec des intermédiaires américains font partie de la négociation diplomatique sous contrainte — elles ne prouvent pas une trahison. La thèse "vendu à la CIA" est elle-même un produit de [[Guerre psychologique imperialiste]] visant à décourager les anti-impérialistes français de soutenir le Venezuela.
+
+Rodriguez est analysée comme une figure de la continuité chaviste : les soutiens qui comptent — fils de Maduro, anciens ministres, Padrino Lopez, Diosdado Cabello — valident la [[Retraite tactique bolivarienne]]. Si elle trahissait, les structures du chavisme ne la suivraient pas.
+
 ## Vidéos où Delcy Rodriguez est analysée
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
+- [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]]
+- [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]]
