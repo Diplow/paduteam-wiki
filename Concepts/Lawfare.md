@@ -28,5 +28,20 @@ Chris : "On critique nous-même tout le temps la justice sur la façon dont elle
 ## Ce que ce n'est pas
 Le lawfare n'est pas un complot centralisé : c'est une dynamique structurelle dans laquelle les intérêts du bloc dominant convergent avec les instruments de l'État. La justice punit le RN pour ses faits réels — mais ne poursuivrait pas les partis traditionnels (PS, LR, Ensemble) de la même manière pour des pratiques similaires (ex : emplois fictifs, assistants parlementaires utilisés pour le parti dans tous les partis).
 
+## Le cas Rima Hassan — l'offert complet
+Le batch Rima Hassan illustre la forme la plus aboutie du lawfare : non plus seulement judiciaire, mais couplé à un rouleau compresseur médiatique (ce que Padu et Chris appellent "l'offert"). Structure :
+
+1. **Harcèlement judiciaire** : 16 plaintes en 2 ans et demi, quasi une tous les 2 mois, toutes par des lobbies pro-israéliens. 13 classées sans suite — mais l'objectif est la salarisation permanente (coût financier, temps, énergie) et la création d'une image de "suspecte". "C'est aussi un moyen d'attaquer, c'est bien matériel."
+
+2. **Violation de l'immunité parlementaire** : Rima Hassan est eurodéputée. Elle n'est pas censée être convoquée pour chaque tweet. La première chose à dire, répète Chris : "Elle ne devrait pas être là" — le principe même de la convocation est illégitime avant d'examiner le fond.
+
+3. **Synchronisation judiciaire-médiatique** : pendant la garde à vue (elle ne peut pas répondre), les informations fuitent dans la presse — "drogue de synthèse" via Caroline Fourest. Au moment où le démenti arrive (CBD légal, test urinaire confirmant l'absence de drogue illicite), l'impression est déjà créée dans l'opinion.
+
+4. **La loi Yadan comme clôture** : si la loi Yadan passe (assimilation légale antisionisme/antisémitisme), les procédures déjà abusives deviennent légalement "fondées". L'offert se transforme en instrument législatif permanent.
+
+**Parallèle international** : même mécanisme utilisé contre Lula (Lava Jato), Morales (Bolivie), Bachelet, Correa, Podemos en Espagne. Chris : "C'est vraiment une technique bah justement des forces politiques judiciaires et médiatiques. Quand c'est privatisé dans les mondes libéral, le policière et le juridique et le médiatique jouent un rôle très important là-dedans, se coordonne parce que c'est des actes de résistance de la bourgeoisie."
+
 ## Vidéos où le concept est développé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
+- [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Cas d'école complet de l'offert : judiciaire + médiatique + loi liberticide
+- [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Forme administrative du lawfare (interdictions préfectorales)
