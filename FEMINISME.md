@@ -117,14 +117,17 @@ La constellation Depardieu/Arthur/Cauet/Moix/Abittan comme expression de la prot
 
 ## Batch E — La gauche face à ses propres VSS
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/gauche-vss-interne`
 
 Le front interne. Comment LFI / PaduTeam / Positions Revue gèrent (ou ratent) les VSS et la misogynie *à l'intérieur* de la gauche. Batch délicat : la PaduTeam est à la fois critique et autocritique (affaire Quatennens, affaire Positions Revue/Tondelier).
 
-- [ ] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
-- [ ] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
-- [ ] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+- [x] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
+- [x] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
+- [x] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+
+**Fiches créées** : [[Hugo Prevost]], [[Union Etudiante]], [[Management militant toxique]], [[Feminisme essentialiste]], [[Lyas Loufok]], [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]], [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]], [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]]
+**Fiches enrichies** : [[Adrien Quatennens]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[France Insoumise]], [[Positions Revue]], [[VSS comme fait social]], [[Feminisme materialiste]], [[Justice transformatrice]], [[Elsa Deck Marceau]]
 
 ---
 

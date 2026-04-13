@@ -131,4 +131,7 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[DR ZOE RECADRE LES MASCUS TOXIQUES]] — antiféminisme comme recrutement fasciste ; virilité réinterprétée
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — libertarianisme = masculinisme ; pénurie appliquée aux femmes
 - [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → RN : l'accroche masculiniste comme porte d'entrée fasciste
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation ; la parole comme acte matériel
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique interne structurelle plutôt que punitivisme ; management militant toxique dans les orgas militantes
+- [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
 

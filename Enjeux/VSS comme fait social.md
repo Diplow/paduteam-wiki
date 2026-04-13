@@ -75,6 +75,15 @@ Cauet (animateur radio), PPDA, Depardieu, Nicolas Hulot — la PaduTeam observe 
 
 Ce pattern contredit directement l'imaginaire droitard du "violeur étranger dans la rue" : les agresseurs sériels sont des hommes blancs, riches, bien insérés, dont le pouvoir est le principal outil de l'agression et de l'impunité.
 
+## Les VSS à gauche — front interne
+
+La PaduTeam affirme que les VSS existent aussi dans les organisations de gauche — et que nier cela est "absolument impossible et dangereux". La gestion de ces cas est un test politique :
+
+- **Affaire Quatennens** : le problème n'est pas la gifle — c'est l'interview BFM où Quatennens légitime la domination économique dans le couple (payer le loyer = droit de garder les clés). Mélenchon défend avec "faute avouée à moitié pardonnée" — catastrophique car gomme l'asymétrie.
+- **Affaire Hugo Prévost** : député LFI 24 ans, harcèlement et violences sexuelles sur 4 ans dans l'Union Etudiante. L'excommunication punitiviste ne résout rien si la structure organisationnelle qui a sélectionné et couvert ce profil pendant 4 ans n'est pas réformée.
+
+Position PaduTeam : "On va pas vous lâcher la peau du cul. C'est une lutte qui se passe avec nos propres camarades."
+
 ## Adversaires identifiés
 
 - [[Thais d'Escufon]] — "90% des accusations de viol sont fausses"
@@ -99,3 +108,5 @@ Ce pattern contredit directement l'imaginaire droitard du "violeur étranger dan
 - [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]]
 - [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]]
 - [[BAPTISTE PAS NET VIRE DES JO POUR AVOIR POINTE DES FILLES DE 12 ANS]]
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — VSS à gauche : gestion catastrophique par Quatennens (BFM) et Mélenchon (tweet)
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — VSS structurelles dans les orgas militantes : sélection perverse des cadres, management toxique

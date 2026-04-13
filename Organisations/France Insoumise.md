@@ -42,6 +42,17 @@ Conclusion PaduTeam : "Arrêtez avec les unions à la con. Ça ne fait pas gagne
 - Radicaliser le programme (rupture, pas concorde)
 - Aux législatives : aller séparément au premier tour, désistements réciproques au second — pas de NFP commun
 
+## Critique structurelle : sélection des cadres et VSS
+
+Le mode de sélection LFI — petit comité central choisissant les candidats par le haut — génère deux problèmes liés :
+1. **Sélection par les réseaux** : on choisit les gros carnets d'adresses (syndicalisme étudiant, influence internet) au détriment de l'ancrage militant local. Or ces réseaux se construisent parfois via des méthodes de management autoritaire.
+2. **Absence de critique interne** : dans une structure où le comité central choisit les élus, critiquer un cadre revient à risquer sa propre sélection. Résultat : management toxique toléré en interne, crucifié publiquement quand ça devient incontrôlable.
+
+Cas emblématiques : [[Hugo Prevost]] (harcèlement et violences sexuelles sur 4 ans dans l'Union Etudiante avant d'être candidat LFI), [[Sophia Chikirou]] (management potentiellement toxique que personne n'ose critiquer). Padu : "Ce qui m'énerve c'est qu'il y a aucune pensée entre les deux — rien dire et puis crucifier."
+
+Contre-exemples de bonnes sélections : [[Lyas Loufok]], [[Amal Bentounsi]], [[Sabrina Alibay]] — mais leur sélection dépend de la "bonne volonté" de Mélenchon, pas d'une structure systémique.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan détaillé : victoires en solo, défaites en alliance, stratégie post-municipales
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique du mode de sélection des cadres ; VSS structurelles dans les orgas militantes
