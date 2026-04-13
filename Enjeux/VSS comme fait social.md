@@ -56,13 +56,13 @@ Mécanismes identifiés par la PaduTeam :
 
 ## La solidarité en ligne comme violence secondaire
 
-L'affaire [[Helydiafugu]] illustre un mécanisme spécifique au milieu internet : quand Eydia (streameuse) porte plainte pour violences conjugales contre Fugu (streamer), celui-ci publie une vidéo de 50 minutes vue 3 millions de fois qui :
-- Expose l'intimité d'Eydia (messages vocaux sur sa santé mentale, conversations privées)
-- Organise son isolement social (rapporte des paroles "négatives" d'Eydia sur ses proches)
+L'affaire [[Helydiafugu]] illustre un mécanisme spécifique au milieu internet : quand Helydia (streameuse) porte plainte pour violences conjugales contre Fugu (streamer), celui-ci publie une vidéo de 50 minutes vue 3 millions de fois qui :
+- Expose l'intimité d'Helydia (messages vocaux sur sa santé mentale, conversations privées)
+- Organise son isolement social (rapporte des paroles "négatives" d'Helydia sur ses proches)
 - Discrédite sa parole via une mise en scène de la spontanéité (voiture, montage soigné)
 - Utilise les techniques classiques du chaud-froid et de la manipulation
 
-Le public — jeune, masculin, jeux vidéo — amplifie la vidéo de Fugu et cible Eydia. Internet devient un amplificateur de la violence conjugale. Le "camp" se forme avant que les faits soient établis, sur la base de la notoriété et du format narratif le plus engageant.
+Le public — jeune, masculin, jeux vidéo — amplifie la vidéo de Fugu et cible Helydia. Internet devient un amplificateur de la violence conjugale. Le "camp" se forme avant que les faits soient établis, sur la base de la notoriété et du format narratif le plus engageant.
 
 ## Le pattern des puissants : asymétrie + impunité + récidive
 

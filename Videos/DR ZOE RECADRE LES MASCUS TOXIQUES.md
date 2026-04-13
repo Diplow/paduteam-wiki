@@ -1,11 +1,16 @@
 ---
 type: vidéo
-domaine: [société]
-thèmes: [masculinisme, féminisme]
-enjeux: [féminisme-matérialiste]
+domaine:
+  - société
+thèmes:
+  - masculinisme
+  - féminisme
+enjeux:
+  - féminisme-matérialiste
 date:
-youtube_id: "GDBDWWS43m8"
-aliases: ["@Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES"]
+youtube_id: GDBDWWS43m8
+aliases:
+  - "@Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES"
 skill_version: "1.0"
 ---
 #domaine/société #thème/masculinisme #thème/féminisme

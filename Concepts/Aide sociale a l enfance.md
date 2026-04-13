@@ -32,7 +32,7 @@ Pierre Sautarel suggère de ne confier les enfants qu'à des "familles tradition
 
 ## Ressources
 
-Rapports annuels ADRESS (Direction de la recherche, des études, de l'évaluation et des statistiques) sur les enfants pris en charge par l'ASE : mines d'information sur les profils, évolutions, impacts des politiques.
+Rapports annuels DREES (Direction de la recherche, des études, de l'évaluation et des statistiques) sur les enfants pris en charge par l'ASE : mines d'information sur les profils, évolutions, impacts des politiques.
 
 ## Liens
 
