@@ -54,6 +54,14 @@ Cité : "Mesdames, messieurs, mes camarades sont morts au Chili sous la torture.
 ## Diabolisation et radicalité nécessaire (janv. 2023)
 Suite à la mort de [[Quentin Deranque]], Macron, Glucksmann et Garrido l'attaquent frontalement. Mélenchon répond avec sang-froid — exactement ce que la PaduTeam préconise. Sa diabolisation est analysée comme structurellement nécessaire : il porte un programme de rupture, donc ils ont "raison d'avoir peur." L'erreur serait de se modérer — si tu es diabolisé mais que ton programme est le même que celui des non-diabolisés, tu n'as plus de raison d'être.
 
+## Gestion catastrophique de l'affaire Quatennens (2022)
+
+Suite aux aveux de violences conjugales d'[[Adrien Quatennens]] (gifle + violences plus larges), Mélenchon tweete : "Je salue sa dignité et son courage. Je lui dis ma confiance et mon affection." Il utilise la formule "faute avouée à moitié pardonnée" dans sa défense.
+
+Dr Zoé qualifie ce tweet de catastrophique : il met à égalité Quatennens et son ex-femme, gomme l'asymétrie profonde (économique, psychologique) qui structure la violence conjugale. La formule "faute avouée à moitié pardonnée" présuppose que l'aveu seul suffit — sans dépositionnement ni transformation réelle.
+
+Position PaduTeam : "Je pense que c'est le meilleur candidat pour 2027 et s'il se présente je ferai sa campagne. Mais à chaque fois qu'il y aura une question de VSS, je vais fortement regarder comment il se positionne."
+
 ## Communiqué post-condamnation Le Pen (mars 2026)
 
 Face à la condamnation de [[Marine Le Pen]] (inéligibilité immédiate, 5 ans), [[France Insoumise|LFI]] et Mélenchon publient un communiqué déclarant qu'ils combattent le RN "dans les urnes et dans la rue" — pas par les tribunaux — et critiquant l'absence de recours possible contre l'exécution immédiate de la peine.
@@ -100,6 +108,7 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[Anasse Kazib]] — à gauche de Mélenchon, son existence potentielle renforcée à 6% signifierait que la FI est "recentrée" dans le paysage = hégémonie de gauche en construction
 
 ## Vidéos où Mélenchon est analysé
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Défendu contre l'accusation d'antisémitisme, comparé aux FFI face au discours "antifrance" de Bergé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice de la prophétie
 - [[Le GRAPHIQUE est-il vraiment SEXISTE]]

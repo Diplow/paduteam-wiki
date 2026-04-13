@@ -32,6 +32,16 @@ La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", c
 - Jordan Florentin — journaliste, accusé d'avoir harcelé une femme endeuillée pour ses positions politiques
 - Dora Muto — ancienne rédactrice adjointe de Combini, partie chez Frontière
 
+## Affaire Louise (février 2025)
+
+[[Jordan Florentin]], journaliste de Frontière, est l'un des acteurs du harcèlement de la sœur de Louise (11 ans, assassinée le 7 février 2025). Dans les heures suivant la découverte du corps, il publie les captures d'écran du compte Twitter de la sœur (18-20 ans) avec le terme "francocide", sous-entendant que ses positions politiques pro-LFI la rendent coresponsable du meurtre.
+
+La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé publiquement qu'aucune récupération politique ne soit faite.
+
+## VSS internes : Eric Tegner
+
+[[Eric Tegner]], directeur de Frontière, est visé par une plainte d'une ancienne collaboratrice pour harcèlement sexuel et moral. Témoignages de proches évoquant des comportements "chelou avec les meufs". Pierre-René Laville, son prédécesseur (anciennement secrétaire général de Livre Noir), avait lui-même été condamné pour violence conjugale.
+
 ## Regard de la PaduTeam
 
 "VA+, Frontière : l'extrême droite la plus ridicule de France" (Zoé). La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."

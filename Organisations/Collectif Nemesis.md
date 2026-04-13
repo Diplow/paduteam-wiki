@@ -28,6 +28,28 @@ Némésis envoie des militants perturber les réunions publiques de la FI pour p
 
 L'[[Action Francaise]] elle-même a reconnu que Némésis avait "été la cause" de la mort de Quentin — mais c'est la FI qui est accusée dans les médias. Illustration de l'inversion agresseur/agressé par les dominants.
 
+## Preuve documentaire des guet-apens
+
+En février 2026, *L'Humanité* révèle des conversations internes entre la responsable lyonnaise de Némésis ("Ornela") et le chef du groupuscule néofasciste Audace Lyon ("Calixy"), datant d'octobre 2025. Ces échanges prouvent la coordination préméditée :
+
+- Némésis propose d'envoyer des militantes comme **appâts** ("on peut faire l'appât et on ne revendiquera pas Némésis") pour attirer les antifascistes dans un guet-apens
+- Calixy planifie de "se planquer dans un bar" et de "casser tout" au moindre signe de confrontation
+- Le nombre de "gros bras" nécessaires est discuté froidement (8-10 hommes)
+- Déception partagée quand l'opération tourne au fiasco sans bagarre
+
+La mort de [[Quentin Deranque]] lors des affrontements du 14 février 2026 — provoqués par Némésis lors d'une conférence de [[Rima Hassan]] — s'inscrit directement dans cette logique.
+
+Némésis a contesté l'article dans un communiqué en disant que les conversations étaient "sorties de leur contexte" — ce que la PaduTeam interprète comme une confirmation implicite de leur authenticité (on ne dit pas "hors contexte" si c'est faux).
+
+## Idéologie précisée
+
+Némésis se définit comme "engagé pour la défense des femmes françaises et européennes face aux violences importées et à l'insécurité." Chris : ce n'est pas du [[Femonationalisme]] au sens de Sara Farris (outil de l'impérialisme centriste), c'est du **[[Feminisme raciste]]** : une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés. Le patriarcat blanc — Calixy, Morandini — n'est pas leur sujet.
+
 ## Vidéos où le Collectif Némésis est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Leur stratégie de provocation décryptée ; mort de Quentin Deranque instrumentalisée
+- [[DR ZOE RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NEMESIS]]
+- [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
+- [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
+- [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
+- [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
