@@ -65,16 +65,17 @@ L'écosystème mascu/incel/coach en séduction comme industrie de la frustration
 
 ## Batch C — Némésis, Thaïs d'Escufon & antiféminisme identitaire
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/nemesis-antifeminisme-identitaire`
+**Statut** : C1 ✅ fait (`ingest-batch/nemesis-alice-cordier`) — C2 ⏳ en attente
+**Slug branche C1** : `ingest-batch/nemesis-alice-cordier`
+**Slug branche C2** : `ingest-batch/nemesis-antifeminisme-identitaire`
 
 L'antiféminisme d'extrême droite se travestit en féminisme. Thaïs d'Escufon et le collectif Némésis sont les figures structurantes. Le batch documente leur stratégie, leur instrumentalisation des VSS contre les immigrés, et leur réarticulation avec l'écosystème mascu.
 
-- [ ] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
-- [ ] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
-- [ ] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
-- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
-- [ ] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
+- [x] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
+- [x] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
+- [x] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
+- [x] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
+- [x] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
 - [ ] THAÏS — les VSS l'ont rendue NAZIE
 - [ ] THAÏS D'ESCUFON VICTIME D'UNE AGRESSION PAR UN MIGRANT — MON AVIS
 - [ ] THAÏS D'ESCUFON AIDE les INCELS À TROUVER UNE MEUF POUR 19,90€/MOIS
