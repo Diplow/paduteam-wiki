@@ -22,6 +22,10 @@ Arnaud est pointé du doigt par [[Raphael Glucksmann]] à la suite de la mort de
 - [[Rima Hassan]] — tous deux ciblés dans la même campagne médiatique
 - [[Collectif Nemesis]] — cible désignée
 
+## La dissolution et l'instrumentalisation
+Dans la procédure de dissolution Retailleau, une des "agressions" listées contre la Jeune Garde est en réalité une agression subie par Arnaud lui-même à la gare de Lyon — il s'est filmé l'arcade en sang. Le ministre de l'intérieur interprète cela comme un "appel à la vengeance." [[Cem Yoldas]] : "c'est absolument tout en interprétation."
+
 ## Vidéos où Arnaud est mentionné
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[PADUSTREAM C'EST DEJA FINI]] — co-invité avec [[Padu]] à un débat JC Nord (Lille, 22 fév. 2025) sur la montée du racisme/extrême droite
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Mentionné comme ex-porte-parole de la Jeune Garde, aujourd'hui député LFI

@@ -18,5 +18,11 @@ Cible de la répression : le collectif fait l'objet d'une tentative de dissoluti
 ## Dynamique
 Organisation horizontale, coordination nationale, rassemblements hebdomadaires aux lieux symboliques (places publiques, préfectures, sièges d'entreprises liées à Israël). Convergence avec France Palestine Solidarité, BDS France, d'autres collectifs.
 
+## La tentative de dissolution Retailleau
+Visée simultanément avec [[La Jeune Garde]] par [[Bruno Retailleau]]. La dissolution d'Urgence Palestine, collectif de solidarité avec la Palestine, est présentée comme mesure "d'ordre public" — mais intervient quelques jours après le meurtre d'Abouakar (tué parce que musulman). Logique symétrique : au lieu de réprimer la violence islamophobe, on réprime les solidaires palestiniens.
+
+Padu : la dissolution montre "qu'on fait peur quand on est organisé" — preuve de l'efficacité du collectif.
+
 ## Vidéos où Urgence Palestine est mentionnée
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — 100+ rassemblements hebdomadaires, mobilisation de masse
+- [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Procédure de dissolution comme acte de fascisation
