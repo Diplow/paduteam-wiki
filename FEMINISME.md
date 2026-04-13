@@ -27,15 +27,18 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des tra
 
 ## Batch A — Affaire Mazan & soumission chimique
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/mazan-soumission-chimique`
 
 Ce batch pose le socle factuel et analytique sur le viol comme phénomène social — pas comme acte individuel monstrueux. L'affaire Mazan est le moment où la PaduTeam articule une position structurelle sur les VSS.
 
-- [ ] AFFAIRE MAZAN — LA SOUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ (x Dr Zoé)
-- [ ] AFFAIRE MAZAN — THAÏS D'ESCUFON, ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLÈME (x Dr Zoé)
-- [ ] VERDICT MAZAN — TOUS CONCERNÉS, TOUS RESPONSABLES (x Dr Zoé)
-- [ ] VI0L, S0UMISSION CHIMIQUE — Dr Zoé raconte son histoire
+- [x] AFFAIRE MAZAN — LA SOUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ (x Dr Zoé)
+- [x] AFFAIRE MAZAN — THAÏS D'ESCUFON, ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLÈME (x Dr Zoé)
+- [x] VERDICT MAZAN — TOUS CONCERNÉS, TOUS RESPONSABLES (x Dr Zoé)
+- [x] VI0L, S0UMISSION CHIMIQUE — Dr Zoé raconte son histoire
+
+**Fiches créées** : `Enjeux/Feminisme materialiste`, `Concepts/Soumission chimique`, `Concepts/Culture du viol`, `Concepts/Banalite du viol`, `Individus/Giselle Pelicot`, `Individus/Dominique Pelicot`, `Individus/Caroline Darian`, `Individus/Julien Rochedy`, 4 fiches vidéo
+**Fiches enrichies** : `Concepts/Femonationalisme`, `Individus/Dr Zoe`, `Individus/Thais d'Escufon`, `Individus/Alice Cordier`
 
 ---
 
