@@ -39,8 +39,21 @@ La PaduTeam refuse explicitement toute essentialisation inverse. Padu ([[UN GENO
 - Netanyahu traitant 100 000 manifestants français d'antisémites sur TF1
 - Dissolution d'Urgence Palestine par Retailleau (cf. batch F)
 
+## Exemples du batch Meyer Habib (2024-2025)
+
+Ce batch fournit les cas les plus spectaculaires d'instrumentalisation :
+
+- **Edgar Morin qualifié de "porteur d'idéologie nazie"** ([[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]]) : philosophe juif progressiste, 100 ans, ancien proche du PCF (qu'il a quitté en 1951), accusé de "phraséologie nazie" pour avoir dit qu'Israël mérite critique. Habib lui reproche d'avoir écrit que le conflit israélo-palestinien est "un cancer" — en omettant de préciser qu'Edgar Morin parle d'un cancer pour les deux peuples, pas du peuple palestinien. Morin répond avec calme et précision.
+- **David Guiraud accusé d'antisémitisme pour avoir dit "c'est toi le cochon"** ([[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]]) : Habib l'a lui-même interpellé en parlant de "cochons", Guiraud lui répond au miroir, et Habib porte plainte en criant à l'antisémitisme. Stéphane Le Rudulier explique que "porc" est une insulte islamiste car le porc est interdit dans l'islam — sans noter que le porc est aussi interdit dans le judaïsme.
+- **La flottille qualifiée de "mascarade antisémite"** ([[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]]) : Habib et Fourest appellent "antisémite" une action humanitaire visant à briser le blocus de Gaza.
+- **La CPI elle-même déclarée "antisémite"** ([[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]]) : quand la Cour pénale internationale émet un mandat d'arrêt contre Netanyahu ET Mohamed Deif (équilibré sur les deux parties), Netanyahu et Habib crient à l'antisémitisme. Goldnadel s'étonne qu'un mandat n'ait pas été émis contre Churchill lors de la Seconde Guerre mondiale — sans noter que la CPI n'existait pas à l'époque.
+- **Le peuple palestinien qualifié de "cancer"** ([[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]]) : énoncé sur Radio J, sans poursuites judiciaires, pendant que David Guiraud est poursuivi pour "porc."
+
 ## Vidéos où le concept est développé
 - [[GAZA LES SIONISTES TUENT DES MEDECINS]] — Dr Zoé sur la pression au Conseil de l'Ordre et l'instrumentalisation comme danger pour les juifs eux-mêmes
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Chris : Netanyahu prend les juifs mondiaux en otage politique
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]] — Padu refuse l'essentialisation et insiste sur le sionisme comme effet de la géopolitique
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Netanyahu traitant les manifestants d'antisémites, plafond de la rhétorique instrumentale
+- [[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]] — Cas le plus spectaculaire : un philosophe juif accusé de nazisme pour avoir critiqué Israël
+- [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Weaponisation de l'antisémitisme dans une bagarre de couloir à l'Assemblée nationale
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — L'institutionnel lui-même (la CPI) déclaré antisémite

@@ -52,6 +52,9 @@ La répression de Rima Hassan est un révélateur : qui la défend inconditionne
 - **Oct 2024** : BFM TV coupe l'interview de Rima Hassan après qu'elle dénonce la félicitation Rafovic.
 - **2025** : Garde à vue, montage "drogue", 16 plaintes (13 classées), loi Yadan en cours. Rima Hassan est désormais eurodéputée — l'acharnement s'intensifie.
 
+### La plainte Habib contre Guiraud comme exemplum
+[[Meyer Habib]] porte plainte contre [[David Guiraud]] pour l'avoir traité de "porc" après que Habib l'a lui-même provoqué dans les couloirs de l'Assemblée en l'interpellant pendant une interview. Habib est venu faire chier Guiraud qui se faisait interviewer, a commencé par parler de "cochon" ("on n'a pas élevé les cochons ensemble"), Guiraud lui répond "c'est toi le cochon", et Habib porte plainte en criant à l'antisémitisme. [[Stéphane Le Rudulier]] et Florence Bergeo Black renchérissent : dire "porc" à un juif serait un appel à l'islamisme (car le porc est haram pour les musulmans). Padu : "je pense qu'il est traité de porc parce qu'il a un quintuple menton plus que pour sa judéité." Le même jour, [[Pape de Logou]] est exclu 15 jours de l'Assemblée pour avoir brandi un drapeau palestinien — la plus haute sanction possible, identique à celle prononcée pour propos racistes. [[David Guiraud]] sanctionné pour avoir riposté à une provocation ; Habib impuni pour ses propos génocidaires habituels.
+
 ## Vidéos clés
 - [[RIMA HASSAN PORTE PLAINTE CONTRE ARTHUR]] — Première affaire de mort sociale professionnelle ciblée (Forbes, TV5/Cassi)
 - [[Rima Hassan TAILLE Le Crayon]] — Mécanisme de la diabolisation par extrait tronqué
@@ -59,3 +62,5 @@ La répression de Rima Hassan est un révélateur : qui la défend inconditionne
 - [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — Répression sur les campus, Rima au croisement des attaques médiatiques
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Preuve directe de la ligne éditoriale BFM TV (félicitation Rafovic)
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — L'offert complet : judiciaire + médiatique + loi liberticide
+- [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Mécanisme de l'accusation antisémite weaponisée : plainte après provocation, expulsion pour drapeau palestinien
+- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Détention de Rima Hassan par Israël ; décryptage des mensonges médiatiques sur la flottille

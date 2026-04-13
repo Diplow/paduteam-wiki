@@ -46,3 +46,6 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]]
+- [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — L'assaut sur Rafah que Netanyahu et Habib avaient annoncé
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon Padu
+- [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI

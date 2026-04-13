@@ -64,3 +64,10 @@ La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une 
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Critique de la reconnaissance tardive ; Tour Eiffel obscène ; récupération posthume ; proposition d'État unique anti-ethno-nationaliste avec droit de retour
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Bilan 2 ans ; continuum 80 ans ; dignité générationnelle ; accord Trump-Blair ; Netanyahu « pointe avancée du nationalisme ethnique »
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Avec Paul Elek : cessez-le-feu comme houdna ; Muraille de Fer Cisjordanie ; impunité absolue ; structure coloniale permanente
+- [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — Bombardement du camp de réfugiés de Rafah ; intentionnalité génocidaire prouvée ; Meyer Habib comme porte-voix de Netanyahu en France
+- [[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]] — Dérapage genocidaire en direct sur Radio J ; double standard avec Benzema ; la parole génocidaire impunie
+- [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Confrontation à l'Assemblée nationale ; criminalisation du drapeau palestinien ; instrumentalisation de l'antisémitisme contre Guiraud
+- [[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]] — Cas d'école de l'[[Instrumentalisation de l'antisemitisme]] : tout critique d'Israël devient nazi, même un philosophe juif progressiste
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Mandat d'arrêt CPI comme victoire ; réactions sionistes ; exultation de Meyer Habib
+- [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Alliance Valls-Habib dans la défense de Netanyahu inculpé
+- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Flottille 2025 ; Rima Hassan détenue ; décryptage de la désinformation sioniste de Fourest et Habib
