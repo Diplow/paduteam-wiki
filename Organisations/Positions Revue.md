@@ -20,5 +20,9 @@ Née fin 2019 de l'analyse critique de l'échec des [[Gilets Jaunes]] — le pre
 ## Figures clés
 - [[Chris]] — fondateur, directeur de publication
 
+## Affaire Karen / procès en misogynie (2026)
+Chris appelle [[Marine Tondelier]] "Karen" dans une capsule — provoquant des accusations de misogynie en commentaires. [[Dr Zoe]] est invitée pour "le procès en misogynie" et **refuse d'accorder le point dès la première minute**. Elle défend le terme "Karen" comme outil du féminisme noir critiquant le féminisme blanc bourgeois, et soutient pleinement Positions Revue.
+
 ## Vidéos où Positions Revue est mentionnée
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Généalogie explicite : Positions Revue comme première brique de la [[Guerre de position]] PaduTeam, née de l'analyse critique de l'échec GJ
+- [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Zoé défend PR contre accusations de misogynie ; explique "Karen" comme terme antiraciste ; attaque le féminisme essentialiste de Tondelier/Rousseau

@@ -3,7 +3,6 @@ name: FÉMINISME — suivi d'ingestion
 description: Suivi du travail d'ingestion batch des vidéos PaduTeam sur féminisme, VSS, masculinisme, antiféminisme de droite, transphobie et pédocriminalité
 date created: 2026-04-13
 ---
-
 # FÉMINISME — Suivi d'ingestion
 
 Fichier de travail pour suivre l'ingestion par sous-batches thématiques des transcripts PaduTeam traitant substantiellement de féminisme, violences sexistes et sexuelles (VSS), masculinisme/incels, antiféminisme de droite, transphobie et pédocriminalité. Dr Zoé est la voix structurante de ces sujets côté PaduTeam — la plupart des vidéos sont co-animées avec elle.
@@ -27,117 +26,139 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des tra
 
 ## Batch A — Affaire Mazan & soumission chimique
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/mazan-soumission-chimique`
 
 Ce batch pose le socle factuel et analytique sur le viol comme phénomène social — pas comme acte individuel monstrueux. L'affaire Mazan est le moment où la PaduTeam articule une position structurelle sur les VSS.
 
-- [ ] AFFAIRE MAZAN — LA SOUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ (x Dr Zoé)
-- [ ] AFFAIRE MAZAN — THAÏS D'ESCUFON, ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLÈME (x Dr Zoé)
-- [ ] VERDICT MAZAN — TOUS CONCERNÉS, TOUS RESPONSABLES (x Dr Zoé)
-- [ ] VI0L, S0UMISSION CHIMIQUE — Dr Zoé raconte son histoire
+- [x] AFFAIRE MAZAN — LA SOUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ (x Dr Zoé)
+- [x] AFFAIRE MAZAN — THAÏS D'ESCUFON, ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLÈME (x Dr Zoé)
+- [x] VERDICT MAZAN — TOUS CONCERNÉS, TOUS RESPONSABLES (x Dr Zoé)
+- [x] VI0L, S0UMISSION CHIMIQUE — Dr Zoé raconte son histoire
+
+**Fiches créées** : `Enjeux/Feminisme materialiste`, `Concepts/Soumission chimique`, `Concepts/Culture du viol`, `Concepts/Banalite du viol`, `Individus/Giselle Pelicot`, `Individus/Dominique Pelicot`, `Individus/Caroline Darian`, `Individus/Julien Rochedy`, 4 fiches vidéo
+**Fiches enrichies** : `Concepts/Femonationalisme`, `Individus/Dr Zoe`, `Individus/Thais d'Escufon`, `Individus/Alice Cordier`
 
 ---
 
 ## Batch B — Masculinisme, incels & coachs en séduction
 
-**Statut** : ⏳ en attente
+**Statut B1** : ✅ fait — `ingest-batch/masculinisme-incels-b1` — Mos Majorum, L’Observateur Officiel, PTD #7.2, Cet INCEL LIBERTARIEN x2
+**Statut B2** : ✅ fait — `ingest-batch/masculinisme-incels-b2` — Killian Senseï x2, Valek, Le Coach Séduction, Alex Hitchens/Carla Vyx, Couilles Bleues
 **Slug branche** : `ingest-batch/masculinisme-incels`
+
+**Fiches créées B2** : [[Killian Sensei]], [[Valek]], [[Fabrice Julien]], [[Alex Hitchens]], [[Carla Vyx]], [[Industrie de la seduction]], [[Culture du viol]], [[Feminisme materialiste]] (enjeu), [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]], [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]], [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]], [[LE COACH SEDUCTION FLIPPANT]], [[ALEX HITCHENS HUMILIE CARLA VYX]], [[COUILLES BLEUES MYTHES REALITE]]
 
 L'écosystème mascu/incel/coach en séduction comme industrie de la frustration virile. À traiter ensemble parce que les figures se recoupent (Killian Senseï, Valek, Mos Majorum, Alex Hitchens) et que la PaduTeam y applique une grille de classe cohérente.
 
-- [ ] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
-- [ ] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
-- [ ] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
-- [ ] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
-- [ ] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
-- [ ] PAYE TON DROITARD #7.2 — PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ
-- [ ] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
-- [ ] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
-- [ ] RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
-- [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
-- [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
+- [x] @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT
+- [x] Le COACH en SÉDUCTION le + FLIPPANT (x Dr Zoé)
+- [x] PAYE TON DROITARD #2 — @lobservateurOfficiel, LE MASCU LIBERTARIEN FÉTICHISTE
+- [x] PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
+- [x] PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
+- [x] PAYE TON DROITARD #7.2 — PADU, L’ÉLECTEUR RN SAUVÉ PAR L’HÉTÉROSEXUALITÉ
+- [x] PAYE TON DROITARD #8 — VALEK, DE PUCIX DE JVC À COACH LIBERTARIEN
+- [x] Cet INCEL LIBERTARIEN nous CLASHE (Mos Majorum)
+- [x] RÉÉDUCATION DE L’INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
+- [x] C0UILLES BLEUES, MYTHES ou RÉALITÉ (Padu x Dr Zoé)
+- [x] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 REPENTIE (CARLA VYX)
+
+**Fiches créées en B1** : [[Mos Majorum]], [[Lobservateur Officiel]], [[DR ZOE RECADRE LES MASCUS TOXIQUES]], [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]], [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]], [[REEDUCATION INCEL LIBERTARIEN]], [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — enrichissements : [[Conscience possible]], [[Feminisme materialiste]]
 
 ---
 
 ## Batch C — Némésis, Thaïs d'Escufon & antiféminisme identitaire
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/nemesis-antifeminisme-identitaire`
+**Statut** : C1 ✅ fait (`ingest-batch/nemesis-alice-cordier`) — C2 ✅ fait (`ingest-batch/nemesis-antifeminisme-identitaire`)
+**Slug branche C1** : `ingest-batch/nemesis-alice-cordier`
+**Slug branche C2** : `ingest-batch/nemesis-antifeminisme-identitaire`
 
 L'antiféminisme d'extrême droite se travestit en féminisme. Thaïs d'Escufon et le collectif Némésis sont les figures structurantes. Le batch documente leur stratégie, leur instrumentalisation des VSS contre les immigrés, et leur réarticulation avec l'écosystème mascu.
 
-- [ ] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
-- [ ] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
-- [ ] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
-- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
-- [ ] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
-- [ ] THAÏS — les VSS l'ont rendue NAZIE
-- [ ] THAÏS D'ESCUFON VICTIME D'UNE AGRESSION PAR UN MIGRANT — MON AVIS
-- [ ] THAÏS D'ESCUFON AIDE les INCELS À TROUVER UNE MEUF POUR 19,90€/MOIS
-- [ ] PAYE TA DROITARDE #4.1 — THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS
-- [ ] PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR FAIRE DES BÉBÉS BLANCS
-- [ ] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN
+- [x] DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS
+- [x] @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER SUR LES VSS
+- [x] NÉMÉSIS A MENTI — LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE
+- [x] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS
+- [x] PAPACITO BALANCE L'ÉNORME BODYCOUNT D'ALICE CORDIER
+- [x] THAÏS — les VSS l'ont rendue NAZIE
+- [ ] THAÏS D'ESCUFON VICTIME D'UNE AGRESSION PAR UN MIGRANT — MON AVIS *(pas de transcript disponible)*
+- [x] THAÏS D'ESCUFON AIDE les INCELS À TROUVER UNE MEUF POUR 19,90€/MOIS
+- [x] PAYE TA DROITARDE #4.1 — THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS
+- [x] PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR FAIRE DES BÉBÉS BLANCS
+- [x] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN
+
+**C2 — Fiches produites** : enjeu [[Feminisme materialiste]] (nouveau) ; enrichissement [[Thais d'Escufon]], [[Concernisme]] ; création [[Julien Rochedy]], [[Generation Identitaire]], [[Guillaume Faye]], [[Kimberle Crenshaw]], [[Baptiste Marche]], [[SOS Mediteranee]] ; 5 fiches vidéos.
 
 ---
 
 ## Batch D — VSS, célébrités & show-business
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/vss-showbusiness`
 
 La constellation Depardieu/Arthur/Cauet/Moix/Abittan comme expression de la protection de classe des prédateurs médiatiques. Brigitte Macron défendant Abittan contre NousToutes est le point d'orgue politique.
 
-- [ ] LIO BALANCE TOUT SUR DEPARDIEU et les VSS dans le SHOW-BUSINESS
-- [ ] YANN MOIX — PLUS GROS PORC QUE DEPARDIEU (x Dr Zoé)
-- [ ] ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES (x Dr Zoé)
-- [ ] ARTHUR NOUS CENSURE, @Dr_Zoé_YT EST FOLLE DE RAGE
-- [ ] CAUET — ENCORE UNE VICTIME DE LA CANCEL CULTURE (x Dr Zoé)
-- [ ] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
-- [ ] @LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES
-- [ ] PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME
-- [ ] HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES
-- [ ] BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS
+- [x] LIO BALANCE TOUT SUR DEPARDIEU et les VSS dans le SHOW-BUSINESS
+- [x] YANN MOIX — PLUS GROS PORC QUE DEPARDIEU (x Dr Zoé)
+- [x] ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES (x Dr Zoé)
+- [x] ARTHUR NOUS CENSURE, @Dr_Zoé_YT EST FOLLE DE RAGE
+- [x] CAUET — ENCORE UNE VICTIME DE LA CANCEL CULTURE (x Dr Zoé)
+- [x] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
+- [x] @LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES
+- [x] PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME
+- [x] HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES
+- [x] BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS
+
+**Fiches créées** : [[Yann Moix]], [[Cauet]], [[Ary Abittan]], [[La Menace]], [[Fugu]], [[Eydia]], [[Baptiste Moireau]], [[Lio]], [[Brigitte Macron]], [[Arnaud Lagardere]], [[NousToutes]], [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]], [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]], [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]], [[ARTHUR NOUS CENSURE DR ZOE EST FOLLE DE RAGE]], [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]], [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]], [[LAMENACEOFFICIAL CONDAMNE POUR VIOLENCES CONJUGALES]], [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]], [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]], [[BAPTISTE PAS NET VIRE DES JO POUR AVOIR POINTE DES FILLES DE 12 ANS]]
+**Fiches enrichies** : [[Gerard Depardieu]], [[Arthur]], [[Psychodelique]], [[VSS comme fait social]]
 
 ---
 
 ## Batch E — La gauche face à ses propres VSS
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ fait (2026-04-13)
 **Slug branche** : `ingest-batch/gauche-vss-interne`
 
 Le front interne. Comment LFI / PaduTeam / Positions Revue gèrent (ou ratent) les VSS et la misogynie *à l'intérieur* de la gauche. Batch délicat : la PaduTeam est à la fois critique et autocritique (affaire Quatennens, affaire Positions Revue/Tondelier).
 
-- [ ] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
-- [ ] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
-- [ ] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+- [x] AFFAIRE QUATENNENS — L'ERREUR DE MÉLENCHON (x Dr Zoé x Chris)
+- [x] HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES (x Dr Zoé)
+- [x] @Dr_Zoé_YT CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER
+
+**Fiches créées** : [[Hugo Prevost]], [[Union Etudiante]], [[Management militant toxique]], [[Feminisme essentialiste]], [[Lyas Loufok]], [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]], [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]], [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]]
+**Fiches enrichies** : [[Adrien Quatennens]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[France Insoumise]], [[Positions Revue]], [[VSS comme fait social]], [[Feminisme materialiste]], [[Justice transformatrice]], [[Elsa Deck Marceau]]
 
 ---
 
 ## Batch F — Transphobie & droits trans
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/transphobie-droits-trans`
+**Statut** : ✅ fait (2026-04-13) — `ingest-batch/transphobie-droits-trans`
 
 L'axe transphobe structure une partie de l'antiféminisme contemporain (TERF + droite). Petit batch mais cohérent.
 
-- [ ] IMANE KHELIF — les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME (JO 2024)
-- [ ] Cette ORGANISATION TRANS a BESOIN de VOUS (OST x Dr Zoé)
-- [ ] PSYHODELIK ET MARGUERITE STERN — CHAMPIONS DES FAKES NEWS TRANSPHOBES
-- [ ] ANTI FÉMINISTE, TRANSPHOBE ET EUGÉNISTE — LE VRAI VISAGE D'ANTITECH RESISTANCE #2
+- [x] IMANE KHELIF — les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME (JO 2024)
+- [x] Cette ORGANISATION TRANS a BESOIN de VOUS (OST x Dr Zoé)
+- [x] PSYHODELIK ET MARGUERITE STERN — CHAMPIONS DES FAKES NEWS TRANSPHOBES
+- [x] ANTI FÉMINISTE, TRANSPHOBE ET EUGÉNISTE — LE VRAI VISAGE D'ANTITECH RESISTANCE #2
+
+**Fiches créées** : [[Imane Khelif]], [[Marguerite Stern]], [[Psyhodelik]], [[Antitech Resistance]], [[Transidentite]], [[Transphobie]], [[Intersexualite]], [[Sujet revolutionnaire]], [[Antitechnologie vs technocritique]], [[IMANE KHELIF  les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME  (JO 2024)]], [[PSYHODELIK ET MARGUERITE STERN  CHAMPIONS DES FAKES NEWS TRANSPHOBES !!]], [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]], [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]]
+
+**Fiches enrichies** : [[Feminisme materialiste]] (section droits trans + ATR + sujet révolutionnaire), [[Antiféminisme identitaire comme menace]] (axe transphobe + ATR), [[Lou Girard]] (enrichissement complet), [[Organisation Solidarite Trans]] (enrichissement complet)
 
 ---
 
 ## Batch G — Pédocriminalité & protection bourgeoise
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/pedocriminalite-protection-bourgeoise`
+**Statut** : ✅ fait (2026-04-13) — `ingest-batch/pedocriminalite-protection-bourgeoise`
 
 La pédocriminalité comme ligne de fracture : qui est protégé, qui est poursuivi, qui accuse qui. L'affaire Bétharram comme cas d'école de protection institutionnelle bourgeoise. L'accusation croisée (FDesouche / Valek qui accusent la PaduTeam) comme retournement militant.
 
-- [ ] AFFAIRE BÉTHARRAM — BAYROU PROTÈGE LES PÉDOPHILES (x Dr Zoé)
-- [ ] FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PAYDOCRIMINELS
-- [ ] M€URTRE de LOUISE — L'EXTRÊME-DROITE HARCÈLE SA SOEUR ET SON PÈRE (x Dr Zoé)
+- [x] AFFAIRE BÉTHARRAM — BAYROU PROTÈGE LES PÉDOPHILES (x Dr Zoé)
+- [x] FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PAYDOCRIMINELS
+- [x] M€URTRE de LOUISE — L'EXTRÊME-DROITE HARCÈLE SA SOEUR ET SON PÈRE (x Dr Zoé)
+
+**Fiches créées** : [[Pedocriminalite bourgeoise]] (enjeu), [[Protection institutionnelle des agresseurs]], [[Recuperation raciste des faits divers]], [[Mythe du monstre]], [[Aide sociale a l enfance]], [[Pierre Sautarel]], [[Pierre-Alain Cotino]], [[Jordan Florentin]], [[FdeSouche]], 3 fiches vidéo
+**Fiches enrichies** : [[Francois Bayrou]] (Bétharram), [[Lyes Louffok]] (ASE), [[Frontiere]] (Louise/Tejner), [[Feminisme materialiste]] (liens nouveaux concepts)
 
 ---
 

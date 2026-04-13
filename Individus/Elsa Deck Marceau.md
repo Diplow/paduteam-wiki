@@ -21,3 +21,4 @@ La ZawaProd a instrumentalisé son travail pour réclamer des « médiations » 
 
 ## Vidéos où Elsa Deck Marceau est mentionnée
 - [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]
+- [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — Recommandée par Zoé pour réfléchir à la gestion des VSS en milieu militant ; son livre *Faire justice — moralisme progressiste et pratique punitive dans la lutte contre les violences sexistes* (La Fabrique) traite de comment gérer les conflits dans les collectifs sans réduire au punitivisme
