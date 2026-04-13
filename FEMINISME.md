@@ -3,7 +3,6 @@ name: FÉMINISME — suivi d'ingestion
 description: Suivi du travail d'ingestion batch des vidéos PaduTeam sur féminisme, VSS, masculinisme, antiféminisme de droite, transphobie et pédocriminalité
 date created: 2026-04-13
 ---
-
 # FÉMINISME — Suivi d'ingestion
 
 Fichier de travail pour suivre l'ingestion par sous-batches thématiques des transcripts PaduTeam traitant substantiellement de féminisme, violences sexistes et sexuelles (VSS), masculinisme/incels, antiféminisme de droite, transphobie et pédocriminalité. Dr Zoé est la voix structurante de ces sujets côté PaduTeam — la plupart des vidéos sont co-animées avec elle.
@@ -141,14 +140,16 @@ L'axe transphobe structure une partie de l'antiféminisme contemporain (TERF + d
 
 ## Batch G — Pédocriminalité & protection bourgeoise
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/pedocriminalite-protection-bourgeoise`
+**Statut** : ✅ fait (2026-04-13) — `ingest-batch/pedocriminalite-protection-bourgeoise`
 
 La pédocriminalité comme ligne de fracture : qui est protégé, qui est poursuivi, qui accuse qui. L'affaire Bétharram comme cas d'école de protection institutionnelle bourgeoise. L'accusation croisée (FDesouche / Valek qui accusent la PaduTeam) comme retournement militant.
 
-- [ ] AFFAIRE BÉTHARRAM — BAYROU PROTÈGE LES PÉDOPHILES (x Dr Zoé)
-- [ ] FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PAYDOCRIMINELS
-- [ ] M€URTRE de LOUISE — L'EXTRÊME-DROITE HARCÈLE SA SOEUR ET SON PÈRE (x Dr Zoé)
+- [x] AFFAIRE BÉTHARRAM — BAYROU PROTÈGE LES PÉDOPHILES (x Dr Zoé)
+- [x] FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PAYDOCRIMINELS
+- [x] M€URTRE de LOUISE — L'EXTRÊME-DROITE HARCÈLE SA SOEUR ET SON PÈRE (x Dr Zoé)
+
+**Fiches créées** : [[Pedocriminalite bourgeoise]] (enjeu), [[Protection institutionnelle des agresseurs]], [[Recuperation raciste des faits divers]], [[Mythe du monstre]], [[Aide sociale a l enfance]], [[Pierre Sautarel]], [[Pierre-Alain Cotino]], [[Jordan Florentin]], [[FdeSouche]], 3 fiches vidéo
+**Fiches enrichies** : [[Francois Bayrou]] (Bétharram), [[Lyes Louffok]] (ASE), [[Frontiere]] (Louise/Tejner), [[Feminisme materialiste]] (liens nouveaux concepts)
 
 ---
 

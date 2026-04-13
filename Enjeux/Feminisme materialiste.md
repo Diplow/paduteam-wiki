@@ -95,7 +95,7 @@ La vraie maturité virile = traiter les femmes comme des êtres humains. Ce reto
 
 ## Concepts associés
 
-[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]], [[Concernisme]], [[Capitalisme masculiniste]]
+[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]], [[Concernisme]], [[Capitalisme masculiniste]], [[Protection institutionnelle des agresseurs]], [[Mythe du monstre]], [[Recuperation raciste des faits divers]]
 
 ## Adversaires de cette position
 
@@ -131,4 +131,7 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[DR ZOE RECADRE LES MASCUS TOXIQUES]] — antiféminisme comme recrutement fasciste ; virilité réinterprétée
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — libertarianisme = masculinisme ; pénurie appliquée aux femmes
 - [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → RN : l'accroche masculiniste comme porte d'entrée fasciste
+- [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — instrumentalisation raciste de la pédocriminalité ; ASE et discours de la pénurie ; misandre de FdeSouche
+- [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — récupération raciste des faits divers ; harcèlement de victimes ; "pas de faits divers, que des faits politiques"
+- [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — protection institutionnelle des prédateurs ; mythe du monstre ; complicité passive de Bayrou ; rapport Sauvé (330 000 victimes)
 
