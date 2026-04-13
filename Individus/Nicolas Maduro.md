@@ -28,5 +28,23 @@ Continuateur de [[Hugo Chavez]]. A entretenu des relations avec les [[FARC]], le
 - [[Donald Trump]] — commanditaire de l'enlèvement
 - [[Hugo Carvajal]] — ancien chef des renseignements, l'a trahi pour soutenir [[Juan Guaido]]
 
+## L'enlèvement comme prétexte pétrolier
+
+L'opération Venezuela vue par la PaduTeam n'est pas d'abord politique : c'est une opération pétrolière. Le Venezuela détient les plus grandes réserves de pétrole conventionnel du monde. Trump avait besoin de prendre le contrôle de ces réserves pour résoudre la double crise du pétrole de schiste américain (non rentable sous 60$/baril) et redonner accès aux compagnies historiques (Chevron, ExxonMobil) au pétrole conventionnel. L'enlèvement de Maduro était le levier : remplacer Maduro par quelqu'un qui ferait exactement la même politique pétrolière mais serait "acceptable" pour la diaspora conservatrice et les intérêts américains.
+
+La contradiction interne : ExxonMobil refuse d'investir les 100 milliards demandés, faute de rentabilité. La [[Doctrine Monroe 2.0]] militaire ne peut pas imposer ce que la crise de suraccumulation du capital rend impossible.
+
+## L'étiquette "dictateur" comme arme
+
+La PaduTeam refuse le mot "dictateur" appliqué à Maduro, invoquant le sociologue Lucien Goldman ([[Dictature post-revolutionnaire]]) : Maduro est un régime post-révolutionnaire sous pression impérialiste, structurellement différent d'une dictature réactionnaire bourgeoise. Sa légitimité électorale de 2024, bien que contestée, est réelle. Les "manifestants réprimés" au Venezuela étaient majoritairement pro-Machado, pro-intervention américaine, appelant des puissances étrangères à renverser leur gouvernement.
+
+Le dispositif médiatique "est-ce que vous condamnez Maduro ?" est identique au "est-ce que vous condamnez le Hamas ?" de Gaza : forcer les anti-impérialistes à valider le récit de l'empire avant de pouvoir dénoncer l'agression.
+
 ## Vidéos où Maduro est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
+- [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]]
+- [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]]
+- [[VENEZUELA COMPLOTISME FACHECKERS]]
+- [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]]
+- [[ANASSE KAZIB ATOMISE MADURO]]
+- [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]]

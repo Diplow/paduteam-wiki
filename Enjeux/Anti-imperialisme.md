@@ -1,11 +1,10 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [anti-impérialisme, Venezuela, Palestine]
-date created: Wednesday, April 1st 2026, 10:47:20 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine]
+skill_version: write-enjeu-2026-04-14
 ---
-#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine
+#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine
 # Anti-impérialisme
 
 ## Position PaduTeam
@@ -71,16 +70,47 @@ La PaduTeam ne demande pas d'approuver la République islamique — elle demande
 ## Concepts associés (mis à jour)
 [[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]]
 
+## Le Venezuela : Doctrine Monroe 2.0
+
+L'enlèvement de [[Nicolas Maduro]] (janvier 2026) est le cas le plus spectaculaire de la période. Il révèle les mécaniques de la [[Doctrine Monroe 2.0]] : intervention militaire directe pour contrôler les prix du pétrole, vassalisation des partenaires européens, et guerre psychologique contre les résistances.
+
+**Le pétrole comme clé** : les États-Unis bombardent Caracas pour sécuriser l'accès au pétrole vénézuélien — les plus grandes réserves conventionnelles au monde. Le schiste américain est en crise (baisse de production de 30-40 %, prix du baril trop bas pour être rentable). Trump avait retiré la licence Chevron en février 2026 pour revenir dessus quelques mois plus tard — preuve que le Venezuela a la main sur la négociation.
+
+**La victoire bolivarienne sur le pétrole** : quand les États-Unis sont obligés d'acheter du pétrole vénézuélien aux conditions de [[Delcy Rodriguez]], c'est le Venezuela qui gagne — pas l'inverse. La PaduTeam insiste : vouloir vendre son pétrole au prix du marché à qui veut l'acheter n'est pas une "concession" à l'impérialisme, c'est la revendication que l'empire combat depuis 25 ans.
+
+**La continuité chaviste** : Chavez → Maduro → Rodriguez. Les "trahisons" dénoncées par les trotskistes sont en réalité la même politique de souveraineté pétrolière. La photo Rodriguez-CIA sert avant tout la propagande de Trump ("j'ai gagné"), pas la preuve d'une reddition.
+
+**Les relais politiques** : [[Raphaël Glucksmann]] qualifié d'"agent américain" pour son tweet "pas une larme pour Maduro" au moment du bombardement. [[Emmanuel Macron]] "serpillère de l'impérialisme" pour avoir félicité [[Maria Corina Machado]] (3 % de soutien populaire, appels à l'intervention US, programme de privatisation de PDVSA). [[Gabriel Attal]] encore plus à droite que Le Pen sur ce sujet. [[Jean-Luc Melenchon]] salué pour avoir tenu une ligne anti-impérialiste de principe sans condamner Maduro.
+
+**Le ni-nisme trotskiste** : [[Anasse Kazib]] (Révolution Permanente) dénonce Maduro comme "dictateur 100% anti-ouvrier" le jour de son kidnapping. Pour la PaduTeam, c'est une "honte" : au moment précis où l'impérialisme fasciste agit, alimenter sa propagande avec des éléments de langage identiques à ceux de Glucksmann, c'est se placer objectivement du même côté. Le peuple vénézuélien lui-même manifestait pour le retour de Maduro — ce qui invalide empiriquement la thèse du "dictateur antipopulaire".
+
+**Les fact-checkers comme guerre psychologique** : les fact-checkers des grands médias se concentrent sur la désinformation supposée de la Russie et de la Chine, pas sur les mensonges américains (narcoterrorisme de Maduro, étiquette dictateur sans définition). Ils pointent du doigt la Chine — qui n'a rien fait dans cette affaire — et ignorent que l'amplificateur de désinformation le plus puissant en Europe est américain (X d'Elon Musk, Netflix, etc.).
+
+## L'étiquette "dictateur" comme arme impérialiste
+
+La demande "est-ce que Maduro est un dictateur ?" est structurellement identique à la demande "est-ce que vous condamnez le Hamas ?" après le 7 octobre. Elle n'est pas une question factuelle — c'est un dispositif de neutralisation : forcer l'anti-impérialiste à d'abord valider le récit de l'empire avant de pouvoir parler de l'agression. Refuser ce cadrage n'est pas "soutenir les dictateurs" — c'est refuser que le centre impérialiste soit l'arbitre de qui mérite d'être renversé.
+
+Le concept de [[Dictature post-revolutionnaire]] (Lucien Goldman) permet d'être plus précis : un régime post-révolutionnaire qui doit gérer la pression extérieure impérialiste a des logiques de verrouillage internes qui n'ont rien à voir avec la dictature réactionnaire bourgeoise. La comparer à Hitler, Pinochet ou Kim Jong-un est une escroquerie intellectuelle.
+
+## Concepts associés (mis à jour)
+[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]], [[Communalisme bolivarien]]
+
 ## Vidéos clés
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
+- [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Première réaction à l'agression : Doctrine Monroe 2.0, pétrole, comparaison Iran/Ukraine, Glucksmann "agent américain"
+- [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — Macron au-dessous de Le Pen, Attal belliciste, Mélenchon anti-impérialiste de principe
+- [[VENEZUELA COMPLOTISME FACHECKERS]] — Déconstruction des fact-checkers comme propagande de guerre, Goldman sur le concept de "dictature"
+- [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]] — Le dispositif "condamnez-vous Maduro" comme équivalent du "condamnez-vous le Hamas"
+- [[ANASSE KAZIB ATOMISE MADURO]] — Critique frontale du trotskisme occidental comme complicité objective de l'impérialisme
+- [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]] — Continuité Rodriguez/Maduro sur le pétrole, Samir Amine, victoire bolivarienne sur les conditions de vente
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — L'anti-impérialisme à travers le prisme de la lutte palestinienne et de la crise de l'hégémonie américaine
-- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente, destruction des classes populaires au profit d'une élite pro-occidentale, "démocratie" = marché
-- [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US ; la réponse anti-impérialiste concrète : commercer avec la Chine, sortir du dollar, construire un ordre mondial alternatif
-- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US : émancipation du dollar, diversification, riposte symétrique
-- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Cadre historique complet (Mossadegh, révolution de 79, guerre Iran-Irak) + analyse des contradictions internes iraniennes en juin 2025
-- [[L'IRAN L'EMPIRE LES IRANIENS]] — Décryptage des manifestations début 2026, propagande impérialiste, fémonationalisme, position anti-impérialiste
-- [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore, prix du pétrole / pétrodollar
-- [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule, déclin de l'hégémonie américaine
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Cadre historique complet (Mossadegh, révolution de 79, guerre Iran-Irak)
+- [[L'IRAN L'EMPIRE LES IRANIENS]] — Décryptage des manifestations début 2026, propagande impérialiste, fémonationalisme
+- [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore
+- [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule
 
 [^iran1]: [17:03](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1023) — "peu importe sur quel échiquier vous êtes, les sanctions sont une violence impérialiste qui doit être supprimée"
 [^iran2]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — Alice Cordier (Némésis) à la manif pro-Shah avec drapeaux israéliens : "on est en train d'assister au fémonationalisme"

@@ -71,6 +71,10 @@ Sa proposition implicite de "ticket à l'américaine" (Glucksmann président + V
 
 **Passage implicitement cité par Padu (paraphrase) :** "Si vous croyez que vous allez gagner une élection présidentielle en essayant de ne pas jouer l'affrontement entre Mélenchon et Glucksmann, vous vous faites l'œil."
 
+## Glucksmann et le Venezuela — "agent américain"
+
+Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "pas une larme pour Maduro". Pour la PaduTeam dans [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]], c'est la preuve de sa nature d'"agent américain" — pas au sens complotiste, mais comme quelqu'un dont la fonction politique objective est de relayer les intérêts impérialistes américains au sein de la gauche française. Ses positions atlantistes (pro-OTAN, pro-Ukraine, pro-intervention) s'alignent systématiquement avec la position du département d'État américain. Le Venezuela est le test ultime de ce positionnement.
+
 ## Vidéos où Glucksmann est analysé
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Cité comme exemple de candidat adoubé par les médias pour contrer Mélenchon
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Analyse de son rôle dans la déstabilisation de LFI
@@ -83,3 +87,4 @@ Sa proposition implicite de "ticket à l'américaine" (Glucksmann président + V
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle avec Tondelier sur la primaire (refus d'y inclure Mélenchon), citation de Mitterrand 1981 contre le PCF, position de Marchais dans l'analogie inversée, handicap Léa Salamé au 20h.
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Refus de la primaire : "pas la même vision du monde" ; reconnu par la PaduTeam comme seul candidat cohérent avec Mélenchon ; analyse de sa position antisynthèse ; scenario ticket Glucksmann/Vallaud discuté.
 - [[LE PS A TRAHI (EPISODE 24873)]] — "Totalement muet" lors du deal PS/Lecornu 2. C'est [[Aurélien Rousseau]] qui tweete à sa place pour avaliser la position. Chris : "la noisette des noisettes là, c'est le valet là, le petit traître en chef là, enfin qui est finito, qui est fort" — "finito". Sa stratégie de l'effacement total lors d'un moment clé confirme son inexistence politique.
+- [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Qualifié d'"agent américain" après son tweet "pas une larme pour Maduro" ; incarnation de la ligne atlantiste pro-impérialiste au sein de la gauche française.
