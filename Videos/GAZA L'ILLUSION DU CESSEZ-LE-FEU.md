@@ -59,7 +59,7 @@ skill_version: ingest-batch-2026-04-13
 [[Front colonial permanent]], [[Colonialisme de peuplement]], [[Nakba]], [[Impunite absolue]], [[Pointe avancee du nationalisme ethnique]], [[Instrumentalisation de l'antisemitisme]], [[Centralite de la question palestinienne]], [[Balcanisation imperialiste]], [[Campisme]], [[Crise de l'hegemonie americaine]]
 
 ## Enjeux avancés
-- **[[Palestine libre]]** — Analyse la plus structurée du corpus batch. Cessez-le-feu démythifié. Articulation Gaza-Cisjordanie. Mythe de la gauche progressiste israélienne démonté. Stratégies de résistance cataloguées et articulées.
+- **[[Palestine libre]]** — Analyse la plus structurée du corpus. Cessez-le-feu démythifié. Articulation Gaza-Cisjordanie. Mythe de la gauche progressiste israélienne démonté. Stratégies de résistance cataloguées et articulées.
 - **[[Anti-imperialisme]]** — Impunité absolue comme concept central. France comme État vassal atlantiste post-Sarkozy. USA bipartisan dans le soutien à Israël. Droit international instrumentalisé.
 - **[[Campisme assume]]** — Revendiqué explicitement par Paul Elek. Refus de la neutralité fictive face au génocide. Droit à la résistance coloniale comme cadre juridique (protocole 1977).
 

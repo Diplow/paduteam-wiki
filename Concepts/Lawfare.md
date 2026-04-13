@@ -29,7 +29,7 @@ Chris : "On critique nous-même tout le temps la justice sur la façon dont elle
 Le lawfare n'est pas un complot centralisé : c'est une dynamique structurelle dans laquelle les intérêts du bloc dominant convergent avec les instruments de l'État. La justice punit le RN pour ses faits réels — mais ne poursuivrait pas les partis traditionnels (PS, LR, Ensemble) de la même manière pour des pratiques similaires (ex : emplois fictifs, assistants parlementaires utilisés pour le parti dans tous les partis).
 
 ## Le cas Rima Hassan — l'offert complet
-Le batch Rima Hassan illustre la forme la plus aboutie du lawfare : non plus seulement judiciaire, mais couplé à un rouleau compresseur médiatique (ce que Padu et Chris appellent "l'offert"). Structure :
+L'arc Rima Hassan illustre la forme la plus aboutie du lawfare : non plus seulement judiciaire, mais couplé à un rouleau compresseur médiatique (ce que Padu et Chris appellent "l'offert"). Structure :
 
 1. **Harcèlement judiciaire** : 16 plaintes en 2 ans et demi, quasi une tous les 2 mois, toutes par des lobbies pro-israéliens. 13 classées sans suite — mais l'objectif est la salarisation permanente (coût financier, temps, énergie) et la création d'une image de "suspecte". "C'est aussi un moyen d'attaquer, c'est bien matériel."
 

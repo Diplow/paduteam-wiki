@@ -37,11 +37,11 @@ La PaduTeam refuse explicitement toute essentialisation inverse. Padu ([[UN GENO
 - BHL, Glucksmann, Arthur refusant toute reconnaissance de la Palestine « tant que tous les otages ne sont pas libérés » — condition impossible par design
 - TF1/LCI recevant Netanyahu en prime time alors que 103+ journalistes ont été tués à Gaza par son armée
 - Netanyahu traitant 100 000 manifestants français d'antisémites sur TF1
-- Dissolution d'Urgence Palestine par Retailleau (cf. batch F)
+- Dissolution d'Urgence Palestine par Retailleau
 
-## Exemples du batch Meyer Habib (2024-2025)
+## Cas Meyer Habib (2024-2025)
 
-Ce batch fournit les cas les plus spectaculaires d'instrumentalisation :
+Meyer Habib fournit les cas les plus spectaculaires d'instrumentalisation :
 
 - **Edgar Morin qualifié de "porteur d'idéologie nazie"** ([[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]]) : philosophe juif progressiste, 100 ans, ancien proche du PCF (qu'il a quitté en 1951), accusé de "phraséologie nazie" pour avoir dit qu'Israël mérite critique. Habib lui reproche d'avoir écrit que le conflit israélo-palestinien est "un cancer" — en omettant de préciser qu'Edgar Morin parle d'un cancer pour les deux peuples, pas du peuple palestinien. Morin répond avec calme et précision.
 - **David Guiraud accusé d'antisémitisme pour avoir dit "c'est toi le cochon"** ([[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]]) : Habib l'a lui-même interpellé en parlant de "cochons", Guiraud lui répond au miroir, et Habib porte plainte en criant à l'antisémitisme. Stéphane Le Rudulier explique que "porc" est une insulte islamiste car le porc est interdit dans l'islam — sans noter que le porc est aussi interdit dans le judaïsme.
@@ -49,7 +49,7 @@ Ce batch fournit les cas les plus spectaculaires d'instrumentalisation :
 - **La CPI elle-même déclarée "antisémite"** ([[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]]) : quand la Cour pénale internationale émet un mandat d'arrêt contre Netanyahu ET Mohamed Deif (équilibré sur les deux parties), Netanyahu et Habib crient à l'antisémitisme. Goldnadel s'étonne qu'un mandat n'ait pas été émis contre Churchill lors de la Seconde Guerre mondiale — sans noter que la CPI n'existait pas à l'époque.
 - **Le peuple palestinien qualifié de "cancer"** ([[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]]) : énoncé sur Radio J, sans poursuites judiciaires, pendant que David Guiraud est poursuivi pour "porc."
 
-## Exemples du batch D (sionisme de gauche, 2024-2025)
+## Cas du sionisme de gauche (2024-2025)
 
 - **[[Jerome Guedj|Guedj]] traite Mélenchon de "salopard antisémite"** au congrès PS ([[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]]) : depuis la tribune d'un congrès de parti, face à une foule, qualifier publiquement un chef de file de l'"antisémitisme". Zoé : "Si c'était la France insoumise qui tenait ce discours, le gars serait convoqué en garde à vue." Double standard maximal.
 

@@ -29,7 +29,7 @@ Conséquence analytique : il est inutile d'opposer au négationniste des faits a
 ## Analogue historique : les nazis cachant la Shoah
 Chris fait un parallèle avec les nazis qui ont commencé à cacher la Shoah quand ils ont compris qu'ils allaient perdre la guerre (1944-45). Avant, ils l'affichaient. Le basculement de l'affiché au caché n'est pas moral — c'est un changement de rapport de force. De même, si le rapport de force change en faveur des pro-Palestine, le négationnisme deviendra plus discret. C'est pour cela que la lutte militante importe autant que le débat d'idées.
 
-## Exemples concrets (batch D)
+## Exemples concrets
 - [[Julien Dray]] sur i24/CNews-type plateau : "festins à Gaza", "bars à glaces", 697$/mois d'aide par Palestinien
 - [[Sophia Aram]] au Molières 2024 : "il y a un silence assourdissant autour du 7-octobre" — inversion totale : il y a eu des milliers de discours sur le 7-octobre, quasi-silence sur les 70 000+ morts palestiniens
 - [[Anne Sinclair]] : "Le Hamas est pire que les nazis" + "des relents de génocide dans le 7-octobre" mais "pas de génocide à Gaza"

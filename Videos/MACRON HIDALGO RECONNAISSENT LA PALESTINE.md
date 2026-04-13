@@ -31,7 +31,7 @@ skill_version: ingest-batch-2026-04-13
 
 6. **Black Lives Matter 2021 comme catalyseur générationnel.** La relance de l'intérêt pour la Palestine chez les jeunes est passée par le prisme antiraciste (George Floyd, apartheid) avant de rejoindre l'anti-impérialisme classique. Les deux cadres ont convergé.
 
-7. **Trahison du PS incarnée par Hidalgo.** Anne Hidalgo candidate à 1,7 % à la présidentielle 2022 (catastrophe historique pour le PS) se permet maintenant de défiler en tête de manifestation avec Macron sur la Palestine. [[Parti Socialiste]] = trahison systématique, récupération opportuniste. [[Julien Dray]] a nié la famine à Gaza (cf. batch D), [[Manuel Valls]] confond antisionisme et antisémitisme, [[Raphael Glucksmann]] exige la libération totale des otages israéliens comme préalable.
+7. **Trahison du PS incarnée par Hidalgo.** Anne Hidalgo candidate à 1,7 % à la présidentielle 2022 (catastrophe historique pour le PS) se permet maintenant de défiler en tête de manifestation avec Macron sur la Palestine. [[Parti Socialiste]] = trahison systématique, récupération opportuniste. [[Julien Dray]] a nié la famine à Gaza, [[Manuel Valls]] confond antisionisme et antisémitisme, [[Raphael Glucksmann]] exige la libération totale des otages israéliens comme préalable.
 
 8. **Capitulation du PCF.** [[Fabien Roussel]] pose des conditions cringy à son soutien à la cause palestinienne (« oui mais je n'aime pas le Hamas »), manque de courage politique. [[Parti Communiste Francais]] historiquement fidèle à la ligne pro-palestinienne, aujourd'hui en défilé avec Macron et Jadot. Régression majeure.
 

@@ -37,12 +37,12 @@ La soirée "contre l'antisémitisme" organisée par [[Bernard-Henri Levy|BHL]] a
 ## Adversaires de cette position
 [[Parti Socialiste]] comme organisation, avec ses figures sionistes de gauche : [[Jerome Guedj|Jérôme Guedj]], [[Chloé Ridel]], [[Julien Dray]], [[Raphaël Glucksmann]] (à la confluence du PS et de la gauche atlantiste), [[Manuel Valls]].
 
-Les intellectuels médiatiques : [[Bernard-Henri Levy|BHL]], [[Sophia Aram]], [[Arthur]] (dans sa posture post-Rima Hassan), [[Caroline Fourest]] (déjà documentée dans le batch C comme figure du sionisme "laïciste").
+Les intellectuels médiatiques : [[Bernard-Henri Levy|BHL]], [[Sophia Aram]], [[Arthur]] (dans sa posture post-Rima Hassan), [[Caroline Fourest]] (figure du sionisme "laïciste" autour de Meyer Habib).
 
 Les plateformes qui "platforment" le sionisme de gauche : [[Backseat]] (qui a reçu des sionistes de gauche sans contradiction en octobre 2023 et qui continue), BFM TV, France Inter.
 
 ## Évolution
-Le batch D documente une période (2024-2025) marquée par un durcissement :
+Les vidéos PaduTeam documentent une période (2024-2025) marquée par un durcissement :
 - **[2024, Molières]** : [[Sophia Aram]] utilise son Molière pour instrumentaliser le 7-octobre dans un discours antisémite implicite contre la gauche de rupture
 - **[octobre 2024, Liban]** : [[Bernard-Henri Levy|BHL]] qualifie le bombardement de Beyrouth de "libération"
 - **[2025]** : Macron remet le prix LICRA à [[Arthur]] et [[Sophia Aram]] — officialisation de la couverture institutionnelle du sionisme de gauche

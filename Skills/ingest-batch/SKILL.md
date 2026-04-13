@@ -187,6 +187,7 @@ Présenter :
 - **Une seule PR.** Même si le batch couvre 10 vidéos, il produit 1 branche, 1 commit, 1 PR. C'est la cohérence thématique qu'on review, pas chaque vidéo isolément.
 - **Taille du batch.** 2-10 vidéos. Moins de 2, utiliser `paduteam-knowledge`. Plus de 10, scinder en sous-batches thématiques.
 - **Ne pas doublonner avec gather-context.** `gather-context` donne l'état du vault *avant* le batch. La synthèse batch donne ce que les transcripts apportent. Les deux cohabitent dans `.context-tmp.md`.
+- **Ne jamais référencer le « batch » dans les fiches.** Le découpage en batches est un artefact du workflow d'ingestion — les lecteurs des fiches (Concepts, Enjeux, Individus, Organisations, Vidéos) n'ont pas accès à cette information et ne peuvent pas comprendre des formulations comme « batch D », « ce batch », « le corpus batch », « cf. batch F », « apports du batch X ». Reformuler en nommant le sujet réel (« l'arc Rima Hassan », « le corpus Gaza », « les vidéos sur le sionisme de gauche », ou simplement supprimer la référence). Cette règle ne s'applique pas aux fichiers de suivi d'ingestion (ex: `GAZA.md`, `FEMINISME.md`) qui sont explicitement des fichiers de travail.
 
 ---
 

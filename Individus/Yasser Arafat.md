@@ -15,7 +15,7 @@ Leader historique de l'Organisation de Libération de la Palestine (OLP) et du F
 
 ## Analyse PaduTeam
 
-Arafat est invoqué dans le batch Gaza comme symbole de la **stratégie israélienne de destruction des interlocuteurs palestiniens légitimes**. Il avait accepté le cadre d'Oslo (1993) — compromis historique majeur de l'OLP acceptant la reconnaissance mutuelle — pour se retrouver progressivement délégitimé, isolé, assiégé, et probablement assassiné. Le message envoyé à toute la génération militante palestinienne suivante : même accepter les compromis ne protège pas de la destruction. Le double-bind est structurel : résister = terroriste ; négocier = trahison puis assassinat.
+Arafat est invoqué dans le corpus Gaza comme symbole de la **stratégie israélienne de destruction des interlocuteurs palestiniens légitimes**. Il avait accepté le cadre d'Oslo (1993) — compromis historique majeur de l'OLP acceptant la reconnaissance mutuelle — pour se retrouver progressivement délégitimé, isolé, assiégé, et probablement assassiné. Le message envoyé à toute la génération militante palestinienne suivante : même accepter les compromis ne protège pas de la destruction. Le double-bind est structurel : résister = terroriste ; négocier = trahison puis assassinat.
 
 ## Relations
 [[Mahmoud Abbas]] — successeur (délégitimé à son tour). [[Ariel Sharon]] — adversaire direct, organisateur du siège final. [[Benjamin Netanyahu]] — successeur idéologique de la ligne Sharon.

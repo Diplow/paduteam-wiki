@@ -55,9 +55,9 @@ Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 
 La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par Chris : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
-## Apports du batch D (sionisme de gauche / bourgeoisie progressiste)
+## Le sionisme de gauche / bourgeoisie progressiste
 
-Le batch D enrichit cet enjeu d'une dimension spécifique : **le sionisme de gauche comme menace interne à la gauche**.
+Le sionisme de gauche enrichit cet enjeu d'une dimension spécifique : **le sionisme de gauche comme menace interne à la gauche**.
 
 - [[Sophia Aram]] au Molière : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalisation du 7-octobre pour faire croire qu'on parle trop des Palestiniens, sous couvert d'"équilibre".
 - [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne.
@@ -65,7 +65,7 @@ Le batch D enrichit cet enjeu d'une dimension spécifique : **le sionisme de gau
 - [[Chloé Ridel]] sur [[Backseat]] : retourne sa veste en 2025, prétend avoir "toujours dénoncé le génocide". Deux ans plus tôt, des sionistes passaient sans contradiction sur le même plateau pour établir le storytelling Hamas=terrorisme.
 - Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. Padu : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
 
-L'argument structurant de ce batch : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. Zoé : "Le RN est moins sioniste que le Parti socialiste en France."
+L'argument structurant : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. Zoé : "Le RN est moins sioniste que le Parti socialiste en France."
 
 ## Vidéos clés
 
@@ -97,9 +97,9 @@ L'argument structurant de ce batch : **le sionisme venu de gauche est plus nocif
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
 
-## Apports du batch F (clashs médiatiques pro-Palestine)
+## La bataille médiatique des clashs pro-Palestine
 
-Ce batch documente **la bataille médiatique** autour du génocide — qui prend la parole, qui est réduit au silence, qui gagne les clashes sur plateau.
+Cet ensemble de vidéos documente **la bataille médiatique** autour du génocide — qui prend la parole, qui est réduit au silence, qui gagne les clashes sur plateau.
 
 Arguments nouveaux :
 - Le modèle Caron : venir avec les sources, piéger par des questions précises ("condamnez-vous l'assassinat de journalistes palestiniens ?"), ne pas lâcher. Le directeur de CNews bégaie car il ne peut pas répondre oui sans se contredire ni non sans s'exposer.

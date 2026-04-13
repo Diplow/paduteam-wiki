@@ -10,7 +10,7 @@ skill_version: ingest-batch-2026-04-13
 # Discours génocidaire
 
 ## Définition
-Structure rhétorique qui prépare et justifie l'annihilation d'un groupe humain en le déshumanisant, en présentant ses enfants comme des dangers existentiels pour le groupe dominant, et en transformant la violence exterminatrice en acte moral voire héroïque. Dans le cadre du batch Rima Hassan, le concept est mobilisé à partir des travaux de l'historien [[Johann Chapoutot]] sur le nazisme, pour analyser le discours d'une bourgeoise sioniste française qui déclare avoir "zéro compassion pour les Palestiniens" et que les enfants palestiniens sont des "futurs terroristes" qui menacent ses propres enfants.
+Structure rhétorique qui prépare et justifie l'annihilation d'un groupe humain en le déshumanisant, en présentant ses enfants comme des dangers existentiels pour le groupe dominant, et en transformant la violence exterminatrice en acte moral voire héroïque. Dans le cadre de l'arc Rima Hassan, le concept est mobilisé à partir des travaux de l'historien [[Johann Chapoutot]] sur le nazisme, pour analyser le discours d'une bourgeoise sioniste française qui déclare avoir "zéro compassion pour les Palestiniens" et que les enfants palestiniens sont des "futurs terroristes" qui menacent ses propres enfants.
 
 ## Mécanisme
 

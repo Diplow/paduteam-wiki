@@ -62,7 +62,7 @@ La capsule Bouamrane montre l'aile droite du PS qui ne cherche plus à dissimule
 
 Pour la PaduTeam, c'est une confirmation éclatante de l'enjeu "plus jamais PS" : le parti ne fait pas semblant d'être de gauche en interne, il planifie ouvertement comment éliminer LFI.
 
-## Le PS comme vecteur du sionisme de gauche (batch D, 2024-2025)
+## Le PS comme vecteur du sionisme de gauche (2024-2025)
 
 La question palestinienne révèle une dimension supplémentaire de la trahison PS : le parti est devenu **l'un des vecteurs principaux du sionisme en France**, plus militant que le RN sur la question. Zoé : "Je ne sais même pas quel parti est plus sioniste que le Parti socialiste en France. Le RN est moins sioniste que le Parti socialiste."
 

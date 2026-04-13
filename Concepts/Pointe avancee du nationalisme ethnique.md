@@ -35,7 +35,7 @@ Le concept articule donc la Palestine au combat contre l'extrême droite frança
 - Alliance Trump-Netanyahu pour le plan « Côte d'Azur » Gaza (2026)
 - Meloni, Orbán, Salvini revendiquant ouvertement leur proximité avec Netanyahu
 - Les extrêmes droites européennes historiquement antisémites (RN, Zemmour) se rangeant derrière Israël dans les années 2020
-- Le « sionisme pragmatique » de Bardella et du RN, analysé dans les autres batches ([[BARDELLA S'APLATIT DEVANT TRUMP]])
+- Le « sionisme pragmatique » de Bardella et du RN ([[BARDELLA S'APLATIT DEVANT TRUMP]])
 - Les discours ministériels israéliens décomplexés (Gallant « animaux humains », Regev « fière des ruines de Gaza ») qui préfigurent ce que les extrêmes droites européennes rêvent de dire publiquement
 
 ## Vidéos où le concept est développé
