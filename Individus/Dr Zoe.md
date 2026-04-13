@@ -29,6 +29,17 @@ Padu et Chris analysent la position de classe de Zoé : en tant que médecin lib
 ## Médecine de campagne
 Zoé exerce comme médecin généraliste en zone rurale. L'hiver est sa période de surcharge de travail ("l'hiver c'est pas le oh là là de ta où on a le plus de temps"). Cela retarde la production de sa chaîne YouTube personnelle.
 
+## Rôle dans le corpus Némésis / antiféminisme identitaire
+
+Dans les 5 vidéos sur Némésis et Alice Cordier, Zoé est la voix analytique principale. Elle établit plusieurs distinctions clés :
+
+- La **conflictualité politique** n'est pas de la "violence faite aux femmes" : quand Alice Cordier se fait expulser d'une manif, c'est parce qu'elle milite pour le nettoyage ethnique et vient provoquer, pas parce qu'elle est une femme
+- Le **féminisme n'est pas "les femmes sont gentilles et les hommes méchants"** — des femmes peuvent être des militantes fascistes. "Une féministe conséquente est capable de dire que les femmes sont capables d'être de grosses connes fascistes"
+- La **culture française est pétrie de culture du viol** (Depardieu 1977, Benoît Jacot, Zemmour 2014) — aller chercher "les étrangers" comme explication principale est du foutage de gueule
+- Le **système du silence** : Thaïs d'Escufon dit que 90% des accusatrices mentent → moins de plaintes → plus d'impunité pour les agresseurs → "du sang sur les mains"
+
+Elle décrit sa pratique médicale rurale comme source directe de la réalité des VSS : "j'ai des vieilles dames de 80 ans qui parlent de l'inceste de leur père pour la première fois à 80 piges." Pas d'histoire d'étranger dans ce cabinet.
+
 ## Vidéos où Dr Zoé est mentionnée
 - [[Nicolas qui paye]] — Première vidéo avec le Graphique, analyse féministe des écarts salariaux cadres et de la prolétarisation genrée
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Analyse de la position de classe des médecins à travers l'exemple de Zoé : pas capitaliste, tarif réglementé, fonctionnarisation comme horizon progressiste

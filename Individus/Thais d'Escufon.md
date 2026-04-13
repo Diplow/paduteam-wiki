@@ -24,5 +24,13 @@ La PaduTeam défend la légitimité de cette caricature : on ne se moque pas du 
 ## Relations
 - Associée idéologiquement à [[Alice Cordier]] et au [[Collectif Nemesis]]
 
+## Positions sur les VSS
+
+Selon Zoé dans la vidéo sur les VSS, Thaïs d'Escufon tient des discours de légitimation du viol conjugal ("une invention de femmes perfides") et affirme que 90% des accusatrices de viol mentent. Zoé : cet argument est faux statistiquement et participe directement au système du silence — moins de victimes portent plainte, moins d'agresseurs sont condamnés.
+
+Son activité commerciale : vente de PDF et de formations à des hommes incels/mascus pour "trouver une femme". Zoé a payé un abonnement d'un mois (via un abonné) et y a trouvé "strictement rien — des vieux sites faits avec ChatGPT et un forum avec 99% de robots et des incels qui l'appellent 'Reine Taïs'".
+
 ## Vidéos où Thaïs d'Escufon est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
+- [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
