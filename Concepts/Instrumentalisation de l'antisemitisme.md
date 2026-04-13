@@ -49,6 +49,16 @@ Ce batch fournit les cas les plus spectaculaires d'instrumentalisation :
 - **La CPI elle-même déclarée "antisémite"** ([[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]]) : quand la Cour pénale internationale émet un mandat d'arrêt contre Netanyahu ET Mohamed Deif (équilibré sur les deux parties), Netanyahu et Habib crient à l'antisémitisme. Goldnadel s'étonne qu'un mandat n'ait pas été émis contre Churchill lors de la Seconde Guerre mondiale — sans noter que la CPI n'existait pas à l'époque.
 - **Le peuple palestinien qualifié de "cancer"** ([[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]]) : énoncé sur Radio J, sans poursuites judiciaires, pendant que David Guiraud est poursuivi pour "porc."
 
+## Exemples du batch D (sionisme de gauche, 2024-2025)
+
+- **[[Jerome Guedj|Guedj]] traite Mélenchon de "salopard antisémite"** au congrès PS ([[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]]) : depuis la tribune d'un congrès de parti, face à une foule, qualifier publiquement un chef de file de l'"antisémitisme". Zoé : "Si c'était la France insoumise qui tenait ce discours, le gars serait convoqué en garde à vue." Double standard maximal.
+
+- **[[Sophia Aram]] au Molière** ([[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]]) : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalise une fausse absence de dénonciation pour faire croire que les pro-Palestine ignorent les victimes israéliennes. Padu : "Il y a eu des milliers de discours sur le 7 octobre. Venir nous faire croire qu'on n'en parle pas, ça sort d'où ?"
+
+- **Prix LICRA à [[Arthur]] et [[Sophia Aram]]** remis par Macron ([[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]]) : Macron officialise le mécanisme : décerner un "prix antiraciste" à ceux qui ont combattu Rima Hassan, stigmatisé les militants pro-Palestine, et ignoré le génocide. Padu : "Ce n'est pas un prix antiraciste, c'est un prix de soutien au génocide en Palestine qui permet de stigmatiser les antiracistes français."
+
+- **[[Bernard-Henri Levy|BHL]] soirée "contre l'antisémitisme"** avec [[Douglas Murray]] ([[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]]) : inviter un personnage qui juge le monument de la Shoah "trop culpabilisant" à une soirée contre l'antisémitisme. Et vieux invité déclarant "taxer les riches = taxer les Juifs" — syllogisme qui révèle un antisémitisme réel (les Juifs = les riches) chez celui qui prétend défendre les Juifs.
+
 ## Vidéos où le concept est développé
 - [[GAZA LES SIONISTES TUENT DES MEDECINS]] — Dr Zoé sur la pression au Conseil de l'Ordre et l'instrumentalisation comme danger pour les juifs eux-mêmes
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Chris : Netanyahu prend les juifs mondiaux en otage politique
@@ -57,3 +67,7 @@ Ce batch fournit les cas les plus spectaculaires d'instrumentalisation :
 - [[MEYER HABIB ASSOCIE EDGAR MORIN AUX NAZZZIS]] — Cas le plus spectaculaire : un philosophe juif accusé de nazisme pour avoir critiqué Israël
 - [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Weaponisation de l'antisémitisme dans une bagarre de couloir à l'Assemblée nationale
 - [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — L'institutionnel lui-même (la CPI) déclaré antisémite
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Guedj au congrès PS ; 7,7M d'électeurs traités de "fanatiques" ; purge JC Nord 92
+- [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — "Silence assourdissant" instrumentalisé ; inversion du réel médiatique
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA comme officialisation institutionnelle ; "prix de soutien au génocide" selon Padu
+- [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Syllogisme "taxer les riches = taxer les Juifs" ; antisémitisme révélé chez celui qui prétend lutter contre lui

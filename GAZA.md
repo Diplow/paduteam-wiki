@@ -65,16 +65,16 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des ~40
 
 ## Batch D — Sionisme à gauche / bourgeoisie "progressiste"
 
-**Statut** : ⏳ en attente
+**Statut** : ✅ ingéré (2026-04-13)
 **Slug branche** : `ingest-batch/sionisme-gauche-bourgeoisie`
 
-- [ ] CHLOÉ RIDEL (PS) à BACKSEAT — le SI0NISME S'INFILTRE à GAUCHE
-- [ ] SOPHIA ARAM — LA PRO-ISRAËL LA + CRINGE
-- [ ] La SOIRÉE de BHL DÉRAPE — TAXER LES RICHES VEUT DIRE TAXER LES JUIFS
-- [ ] BEYROUTH RASÉE — BHL VEUT Y APPORTER LA DÉMOCRATIE
-- [ ] GUEDJ au CONGRÈS du PS — MÉLENCHON EST UN SAL0PARD ANT!SEMITE
-- [ ] JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE
-- [ ] MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM
+- [x] CHLOÉ RIDEL (PS) à BACKSEAT — le SI0NISME S'INFILTRE à GAUCHE
+- [x] SOPHIA ARAM — LA PRO-ISRAËL LA + CRINGE
+- [x] La SOIRÉE de BHL DÉRAPE — TAXER LES RICHES VEUT DIRE TAXER LES JUIFS
+- [x] BEYROUTH RASÉE — BHL VEUT Y APPORTER LA DÉMOCRATIE
+- [x] GUEDJ au CONGRÈS du PS — MÉLENCHON EST UN SAL0PARD ANT!SEMITE
+- [x] JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE
+- [x] MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM
 
 ---
 

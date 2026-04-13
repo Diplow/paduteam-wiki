@@ -55,6 +55,18 @@ Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 
 La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par Chris : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
+## Apports du batch D (sionisme de gauche / bourgeoisie progressiste)
+
+Le batch D enrichit cet enjeu d'une dimension spécifique : **le sionisme de gauche comme menace interne à la gauche**.
+
+- [[Sophia Aram]] au Molière : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalisation du 7-octobre pour faire croire qu'on parle trop des Palestiniens, sous couvert d'"équilibre".
+- [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne.
+- [[Bernard-Henri Levy|BHL]] (Beyrouth, octobre 2024) : qualifie le bombardement de Beyrouth de "libération" — le sionisme de gauche atlantiste soutient aussi l'extension de la guerre au Liban.
+- [[Chloé Ridel]] sur [[Backseat]] : retourne sa veste en 2025, prétend avoir "toujours dénoncé le génocide". Deux ans plus tôt, des sionistes passaient sans contradiction sur le même plateau pour établir le storytelling Hamas=terrorisme.
+- Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. Padu : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
+
+L'argument structurant de ce batch : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. Zoé : "Le RN est moins sioniste que le Parti socialiste en France."
+
 ## Vidéos clés
 
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] : centralité de la question palestinienne, renaissance du marxisme mondial, retournement du rapport de force
@@ -64,6 +76,13 @@ La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une 
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Critique de la reconnaissance tardive ; Tour Eiffel obscène ; récupération posthume ; proposition d'État unique anti-ethno-nationaliste avec droit de retour
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Bilan 2 ans ; continuum 80 ans ; dignité générationnelle ; accord Trump-Blair ; Netanyahu « pointe avancée du nationalisme ethnique »
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Avec Paul Elek : cessez-le-feu comme houdna ; Muraille de Fer Cisjordanie ; impunité absolue ; structure coloniale permanente
+- [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Instrumentalisation du silence assourdissant ; universalisme abstrait comme couverture sioniste ; Sophia Aram comme cas d'école
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Négationnisme du génocide ; impunité des négationnistes vs répression des militants ; Grok IA dit le génocide, Dray dit "des glaces à Gaza"
+- [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Officialisation institutionnelle du sionisme de gauche ; le prix LICRA comme arme anti-solidarité palestinienne
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — PS rewriting history ; Backseat platformant le sionisme progressiste sans contradiction
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Paroxysme : 7,7M d'électeurs traités de fanatiques ; JC Nord 92 purgée pour soutien à la résistance palestinienne
+- [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Coalition sioniste gauche-droite ; réhabilitation de l'extrême droite par couverture "humaniste" de BHL
+- [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — Extension de la guerre au Liban ; BHL, Céline Pina, Anne Sinclair défendant Israël ; double mesure médiatique
 - [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — Bombardement du camp de réfugiés de Rafah ; intentionnalité génocidaire prouvée ; Meyer Habib comme porte-voix de Netanyahu en France
 - [[MEYER HABIB LE PEUPLE PALSTINIEN EST UN CANCER]] — Dérapage genocidaire en direct sur Radio J ; double standard avec Benzema ; la parole génocidaire impunie
 - [[DAVID GUIRAUD BALANCE SON PORC MEYER HABIB]] — Confrontation à l'Assemblée nationale ; criminalisation du drapeau palestinien ; instrumentalisation de l'antisémitisme contre Guiraud

@@ -75,7 +75,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | BENOÎT SAINT-DENIS FACHO  CET ANTIFASCISTE BALANCE TOUT ! (Cem Yoldas @jeunegardeantifasciste7950) | [YouTube](https://www.youtube.com/watch?v=B-PtOGw9Eo4) |  | [[BENOÎT SAINT-DENIS FACHO  CET ANTIFASCISTE BALANCE TOUT ! (Cem Yoldas @jeunegardeantifasciste7950)]] |  |
 | BERNARD ARNAULT  LE PIRE ESCLAVAGISTE | [YouTube](https://www.youtube.com/watch?v=8ec4hM5ImGs) |  | [[BERNARD ARNAULT  LE PIRE ESCLAVAGISTE]] |  |
 | BEST OF des PIRES DÉRAPAGES des CANDIDATS RASSEMBLEMENT NATIONAL !! | [YouTube](https://www.youtube.com/watch?v=bCWLd9QQet4) |  | [[BEST OF des PIRES DÉRAPAGES des CANDIDATS RASSEMBLEMENT NATIONAL !!]] |  |
-| BEYROUTH RASÉE  BHL VEUT Y APPORTER LA DÉMOCRATIE !! | [YouTube](https://www.youtube.com/watch?v=RDeV9JqXCAQ) |  | [[BEYROUTH RASÉE  BHL VEUT Y APPORTER LA DÉMOCRATIE !!]] |  |
+| BEYROUTH RASÉE  BHL VEUT Y APPORTER LA DÉMOCRATIE !! | [YouTube](https://www.youtube.com/watch?v=RDeV9JqXCAQ) |  | [[BEYROUTH RASÉE  BHL VEUT Y APPORTER LA DÉMOCRATIE !!]] | [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] |
 | BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !! | [YouTube](https://www.youtube.com/watch?v=ls5x6iJ_EAc) |  | [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] |  |
 | BOMPARD DÉTRUIT la CARRIÈRE de WAUQUIEZ sur BFMTV !! (@pasduhring X Chris) | [YouTube](https://www.youtube.com/watch?v=cQyddWBI59U) |  | [[BOMPARD DÉTRUIT la CARRIÈRE de WAUQUIEZ sur BFMTV !! (@pasduhring X Chris)]] | [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] | [[Le Graphique]] |
 | BOMPARD or FAURE WHAT STRATEGY against BAYROU for the LEFT |  |  | [[BOMPARD or FAURE WHAT STRATEGY against BAYROU for the LEFT]] |  |
@@ -121,7 +121,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT) | [YouTube](https://www.youtube.com/watch?v=FOdXSBG_54g) |  | [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]] |  |
 | CHANTAGE , PING DANS LA GUEULE, INTIMIDATION, À QUOI JOUENT @mrsam-interrogation @gontranhet WildEye | [YouTube](https://www.youtube.com/watch?v=32mWMdjgcig) |  | [[CHANTAGE , PING DANS LA GUEULE, INTIMIDATION, À QUOI JOUENT @mrsam-interrogation @gontranhet WildEye]] |  |
 | CHARLES CONSIGNY VEUT + D'ESCLAVES POUR LES VENDANGES !! | [YouTube](https://www.youtube.com/watch?v=Pb8WmNTbl_8) |  | [[CHARLES CONSIGNY VEUT + D'ESCLAVES POUR LES VENDANGES !!]] |  |
-| CHLOÉ RIDEL (PS) à BACKSEAT  le SI0NISME S'INFILTRE à GAUCHE | [YouTube](https://www.youtube.com/watch?v=uPMZImTM3zw) |  | [[CHLOÉ RIDEL (PS) à BACKSEAT  le SI0NISME S'INFILTRE à GAUCHE]] |  |
+| CHLOÉ RIDEL (PS) à BACKSEAT  le SI0NISME S'INFILTRE à GAUCHE | [YouTube](https://www.youtube.com/watch?v=uPMZImTM3zw) |  | [[CHLOÉ RIDEL (PS) à BACKSEAT  le SI0NISME S'INFILTRE à GAUCHE]] | [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] |
 | CHRIS DÉRAPE sur LINGUISTICAE  T'AS QU'À ALLER BOSSER EN INTÉRIM !! | [YouTube](https://www.youtube.com/watch?v=siyiTFAa2g0) |  | [[CHRIS DÉRAPE sur LINGUISTICAE  T'AS QU'À ALLER BOSSER EN INTÉRIM !!]] |  |
 | CHRIS DÉVOILE COMMENT MÉLENCHON va GAGNER en 2027 !! (‪@pasduhring‬ x Chris) | [YouTube](https://www.youtube.com/watch?v=RcKQcSZ1fnc) |  | [[CHRIS DÉVOILE COMMENT MÉLENCHON va GAGNER en 2027 !! (‪@pasduhring‬ x Chris)]] |  | [[Le Graphique]] |
 | CLASH  DANY ET RAZ JALOUX DE MES 1,6 MILLIONS D'EUROS PAR MOIS SUR TIPEEE !! | [YouTube](https://www.youtube.com/watch?v=E-dUpimGlzI) |  | [[CLASH  DANY ET RAZ JALOUX DE MES 1,6 MILLIONS D'EUROS PAR MOIS SUR TIPEEE !!]] |  |
@@ -197,7 +197,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | GLUPATATE QUITTE LA BRAV-M ! (X @Dr_Zoé_YT) | [YouTube](https://www.youtube.com/watch?v=qM_z7n7Dk5M) |  | [[GLUPATATE QUITTE LA BRAV-M ! (X @Dr_Zoé_YT)]] |  |
 | GRAPHOMARXISME x Positions Revue |  |  | [[Graphiked/Sources/Transcripts/GRAPHOMARXISME x Positions Revue]] | [[Graphiked/Sources/Transcripts/GRAPHOMARXISME x Positions Revue]] | [[Le Graphique]] |
 | GREG TABIBIAN me CLASHE avec KUZMANOVIC sur le LUMPEN et L'IMMIGRATION !! (@JsuispascontentTV ) | [YouTube](https://www.youtube.com/watch?v=6EKm4trmxiQ) |  | [[GREG TABIBIAN me CLASHE avec KUZMANOVIC sur le LUMPEN et L'IMMIGRATION !! (@JsuispascontentTV )]] |  |
-| GUEDJ au CONGRÈS du PS  MÉLENCHON EST UN SAL0PARD ANT!SEMITE !! | [YouTube](https://www.youtube.com/watch?v=OfBy9VR2FGY) |  | [[GUEDJ au CONGRÈS du PS  MÉLENCHON EST UN SAL0PARD ANT!SEMITE !!]] |  |
+| GUEDJ au CONGRÈS du PS  MÉLENCHON EST UN SAL0PARD ANT!SEMITE !! | [YouTube](https://www.youtube.com/watch?v=OfBy9VR2FGY) |  | [[GUEDJ au CONGRÈS du PS  MÉLENCHON EST UN SAL0PARD ANT!SEMITE !!]] | [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] |
 | Guerre en UKRAINE  faut-il COMMENCER à APPRENDRE le RUSSE  (analyse MARXISTE avec Chris) | [YouTube](https://www.youtube.com/watch?v=sgNt9HCQrTU) |  | [[Guerre en UKRAINE  faut-il COMMENCER à APPRENDRE le RUSSE  (analyse MARXISTE avec Chris)]] |  |
 | GUILLAUME KASBARIAN le MINISTRE qui DÉTESTE les FONCTIONNAIRES   (avec @Dr_Zoé_YT) | [YouTube](https://www.youtube.com/watch?v=cLfeliDVdDA) |  | [[GUILLAUME KASBARIAN le MINISTRE qui DÉTESTE les FONCTIONNAIRES   (avec @Dr_Zoé_YT)]] |  |
 | HELYDIAFUGU  COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES ! | [YouTube](https://www.youtube.com/watch?v=1V7Xml-44jQ) |  | [[HELYDIAFUGU  COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES !]] |  |
@@ -230,7 +230,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | JUAN BRANCO FAUX-RÉVOLUTIONNAIRE  L'ANALYSE DE FRUSTRATION MAGAZINE (NICOLAS FRAMONT) | [YouTube](https://www.youtube.com/watch?v=AvaMUky-ekg) |  | [[JUAN BRANCO FAUX-RÉVOLUTIONNAIRE  L'ANALYSE DE FRUSTRATION MAGAZINE (NICOLAS FRAMONT)]] |  |
 | JULIA DE FUNÈS  LA BOURGEOISE LA + INSUPPORTABLE  (@Dr_Zoé_YT X Chris) | [YouTube](https://www.youtube.com/watch?v=exP-GSThKEo) |  | [[JULIA DE FUNÈS  LA BOURGEOISE LA + INSUPPORTABLE  (@Dr_Zoé_YT X Chris)]] |  |
 | JULIEN DRAY has REVELATIONS about MELENCHON'S PAST |  |  | [[JULIEN DRAY has REVELATIONS about MELENCHON'S PAST]] | [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] | [[Le Graphique]] |
-| JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !! | [YouTube](https://www.youtube.com/watch?v=pmkfvlIocN0) |  | [[JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !!]] |  |
+| JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !! | [YouTube](https://www.youtube.com/watch?v=pmkfvlIocN0) |  | [[JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !!]] | [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] |
 | JVC, BRAV-M, DARMANIN, @Glupatate RÉPOND À MES ACCUSATIONS !! | [YouTube](https://www.youtube.com/watch?v=MX23MdVk5JQ) |  | [[JVC, BRAV-M, DARMANIN, @Glupatate RÉPOND À MES ACCUSATIONS !!]] |  |
 | KALASH CRIMINEL ET RAOUL HEDEBOUW DISENT LES TERMES SUR LE PILLAGE DU CONGO !! | [YouTube](https://www.youtube.com/watch?v=1UT4LcDUYBU) |  | [[KALASH CRIMINEL ET RAOUL HEDEBOUW DISENT LES TERMES SUR LE PILLAGE DU CONGO !!]] |  |
 | KARIM BOUAMRANE (PS)  on va DÉFONCER ÉRIC COQUEREL et la FI !! | [YouTube](https://www.youtube.com/watch?v=1sfoW7SPKdY) |  | [[KARIM BOUAMRANE (PS)  on va DÉFONCER ÉRIC COQUEREL et la FI !!]] | [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] | [[Le Graphique]] |
@@ -259,7 +259,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | LA PIRE HUMILIATION DEVANT DES PATRONS  LE DÉFILÉ DES PAUVRES | [YouTube](https://www.youtube.com/watch?v=NiyULKHmm0k) |  | [[LA PIRE HUMILIATION DEVANT DES PATRONS  LE DÉFILÉ DES PAUVRES]] |  |
 | La POLICE de RETAILLEAU MALTRAITE une JEUNE FEMME suite au 10 SEPTEMBRE ! | [YouTube](https://www.youtube.com/watch?v=-T5vF0dUOcc) |  | [[La POLICE de RETAILLEAU MALTRAITE une JEUNE FEMME suite au 10 SEPTEMBRE !]] |  |
 | LA PORTE-PAROLE DU PCF DÉRAPE SUR LE VOILE ! | [YouTube](https://www.youtube.com/watch?v=Z4bJwLusIM8) |  | [[LA PORTE-PAROLE DU PCF DÉRAPE SUR LE VOILE !]] |  |
-| La SOIRÉE de BHL DÉRAPE  TAXER LES RICHES VEUT DIRE TAXER LES JUIFS !! | [YouTube](https://www.youtube.com/watch?v=aPjkUUSz3_o) |  | [[La SOIRÉE de BHL DÉRAPE  TAXER LES RICHES VEUT DIRE TAXER LES JUIFS !!]] |  |
+| La SOIRÉE de BHL DÉRAPE  TAXER LES RICHES VEUT DIRE TAXER LES JUIFS !! | [YouTube](https://www.youtube.com/watch?v=aPjkUUSz3_o) |  | [[La SOIRÉE de BHL DÉRAPE  TAXER LES RICHES VEUT DIRE TAXER LES JUIFS !!]] | [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] |
 | LA STRATÉGIE RUFFIN  UN AUTRE GLUCKSMAN EST POSSIBLE | [YouTube](https://www.youtube.com/watch?v=r-sIRwUSAR4) |  | [[LA STRATÉGIE RUFFIN  UN AUTRE GLUCKSMAN EST POSSIBLE]] |  |
 | La VÉRITÉ sur la mort de JEAN PORMANOVE  T0RTURES, EMPRISE et VALIDISME | [YouTube](https://www.youtube.com/watch?v=Szw7Cli2ltE) |  | [[La VÉRITÉ sur la mort de JEAN PORMANOVE  T0RTURES, EMPRISE et VALIDISME]] |  |
 | La VÉRITÉ sur NICOLAS QUI PAYE | [YouTube](https://www.youtube.com/watch?v=fOEEjSA7QZk) |  | [[La VÉRITÉ sur NICOLAS QUI PAYE]] | [[Nicolas qui paye]] | [[Le Graphique]] |
@@ -319,7 +319,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | MACRON JETTE les TRANS et les IMMIGRÉS SOUS LE BUS POUR RÉCUPÉRER les VOIX du RN !! | [YouTube](https://www.youtube.com/watch?v=CfeIkgp_XWM) |  | [[MACRON JETTE les TRANS et les IMMIGRÉS SOUS LE BUS POUR RÉCUPÉRER les VOIX du RN !!]] |  |
 | MACRON NE FINIRA PAS L'ANNÉE 2025  analyse MARXISTE !! (avec Chris de Positions Revue) | [YouTube](https://www.youtube.com/watch?v=huwzFU_HESg) |  | [[MACRON NE FINIRA PAS L'ANNÉE 2025  analyse MARXISTE !! (avec Chris de Positions Revue)]] |  |
 | MACRON NOUS MENT POUR TUER LA SÉCU ( @Dr_Zoé_YT  X Chris) | [YouTube](https://www.youtube.com/watch?v=jtDb2meKMn8) |  | [[MACRON NOUS MENT POUR TUER LA SÉCU ( @Dr_Zoé_YT  X Chris)]] |  |
-| MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !! | [YouTube](https://www.youtube.com/watch?v=a7sHsPkNOhI) |  | [[MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !!]] |  |
+| MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !! | [YouTube](https://www.youtube.com/watch?v=a7sHsPkNOhI) |  | [[MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !!]] | [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] |
 | MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT | [YouTube](https://www.youtube.com/watch?v=dseEwYxePGM) |  | [[MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT]] |  |
 | MACRON, HIDALGO, etc.  ILS RECONNAISSENT LA PALESTINE après 2 ANS DE GEN0C1DE | [YouTube](https://www.youtube.com/watch?v=ZxdweYOefVA) |  | [[MACRON, HIDALGO, etc.  ILS RECONNAISSENT LA PALESTINE après 2 ANS DE GEN0C1DE]] | [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] |
 | MAGALI BERDAH  LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL | [YouTube](https://www.youtube.com/watch?v=Uw4ZBPtuG_w) |  | [[MAGALI BERDAH  LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]] |  |
@@ -458,7 +458,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 | SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP ! | [YouTube](https://www.youtube.com/watch?v=F0x4OhYVpTk) |  | [[SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP !]] |  |
 | SIHAME ASSBAGUE CONVOQUÉE PAR LA POLICE POUR UN TWEET SUR GAZA !! | [YouTube](https://www.youtube.com/watch?v=GIOlCwfOf6w) |  | [[SIHAME ASSBAGUE CONVOQUÉE PAR LA POLICE POUR UN TWEET SUR GAZA !!]] |  |
 | SONDAGES DE PROPAGANDE SUR FRANCE INFO  ÇA DEVIENT N’IMPORTE QUOI ! | [YouTube](https://www.youtube.com/watch?v=hnF8vCljbuo) |  | [[SONDAGES DE PROPAGANDE SUR FRANCE INFO  ÇA DEVIENT N’IMPORTE QUOI !]] |  | [[Le Graphique]] |
-| SOPHIA ARAM  LA PRO-ISRAËL LA + CRINGE | [YouTube](https://www.youtube.com/watch?v=uOwfFzd8MZ8) |  | [[SOPHIA ARAM  LA PRO-ISRAËL LA + CRINGE]] |  |
+| SOPHIA ARAM  LA PRO-ISRAËL LA + CRINGE | [YouTube](https://www.youtube.com/watch?v=uOwfFzd8MZ8) |  | [[SOPHIA ARAM  LA PRO-ISRAËL LA + CRINGE]] | [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] |
 | SQUEEZIE, LENA SITUATIONS, MISTER V EXPLIQUENT POURQUOI IL FAUT VOTER CONTRE L'EXTRÊME DROITE !! | [YouTube](https://www.youtube.com/watch?v=zPhCClUf6hw) |  | [[SQUEEZIE, LENA SITUATIONS, MISTER V EXPLIQUENT POURQUOI IL FAUT VOTER CONTRE L'EXTRÊME DROITE !!]] |  |
 | STORYTIME  SON MEC LA TROMPE MAIS ELLE EST DANS LE DÉNI !! | [YouTube](https://www.youtube.com/watch?v=mdQKV-sD8fI) |  | [[STORYTIME  SON MEC LA TROMPE MAIS ELLE EST DANS LE DÉNI !!]] |  |
 | STÉPHANE ÉDOUARD CONDAMNÉ au TRIBUNAL face au FOU ALLIÉ et à DAÏ-MON !! | [YouTube](https://www.youtube.com/watch?v=3sUnX8lHgJM) |  | [[STÉPHANE ÉDOUARD CONDAMNÉ au TRIBUNAL face au FOU ALLIÉ et à DAÏ-MON !!]] |  |
