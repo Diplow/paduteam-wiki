@@ -33,8 +33,23 @@ Bayrou incarne depuis 2007 la prophétie du centre mais n'a jamais réussi à l'
 
 L'original MoDem vs sa copie macroniste : la différence entre Bayrou et Macron, c'est que Bayrou n'a jamais capté des électeurs de gauche réels. Macron l'a fait. Bayrou reste "un parti d'ex-droitards." C'est sa limite structurelle.
 
+## Affaire Bétharram (2025)
+
+Bayrou était maire de Pau, ministre de l'Éducation nationale, père de six enfants scolarisés à Notre-Dame de Bétharram, épouse ayant enseigné le catéchisme dans l'établissement. L'école est au cœur d'un scandale de 112 plaintes pour violences physiques et pédocriminalité couvrant 1950-2010 (rapport Sauvé total sur l'Église catholique : 330 000 victimes en France).
+
+Timeline des alertes ignorées par Bayrou :
+- **1996** : un père d'élève distribue des tracts après qu'un surveillant a laissé des séquelles auditives à son fils de 14 ans. Bayrou est alerté à trois reprises par des parents d'élèves et une enseignante (Françoise Gulung). Réponse : il minimise. Il se rend ensuite à Bétharram pour *soutenir l'établissement* publiquement après les premières plaintes. Citation devant la presse : "Toutes les informations que le ministre pouvait demander, il les a demandées — les vérifications étaient favorables et positives."
+- **1998** : le père Caricar (directeur) est mis en examen pour viol sur enfant. Le juge Christian Mirande confirme que Bayrou l'a rencontré en privé pour lui parler du dossier "de façon feutrée" : "Il n'arrivait pas à croire que Caricar ait pu avoir un tel comportement déviant." Le père est finalement exfiltré au Vatican, puis se suicide lors d'une nouvelle convocation judiciaire. Élizabeth Bayrou assiste à ses obsèques.
+- **2000** : la journaliste Dominique Conil publie une enquête mentionnant que des parents ont écrit à Bayrou sans réponse.
+- **2024** : Bayrou jure au Parisien qu'il "ignorait tout". Démenti par archives, témoignages et sa propre rencontre avec le juge.
+
+Padu : "Il était pas au courant le gars, il avait oublié qu'il était allé rencontrer le juge en charge de l'enquête."
+
+Zoé ne l'accuse pas directement de pédocriminalité, mais formule une thèse de complicité passive : "par le fait d'aller rencontrer le juge, de recevoir plein de signalements et de ne rien faire et de venir 30 ans après dire 'moi je suis pas au courant' — il y a une forme de complicité là-dedans."
+
 ## Vidéos où l'individu est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Référence historique au Graphique 2012
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Perd Pau face au PS+gauche. Illustration du centre qui s'effondre vers le PS.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Sa chute imminente (vote de confiance le 8) utilisée par Glucksmann pour justifier l'inutilité du 10 septembre. Analyse PaduTeam : Bayrou n'est qu'un fusible, le problème c'est le système. Pronostic du Graphique : 0,5% de chances.
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Bayrou comme Medvedevron de Macron : analyse de la stratégie de successeur fantoche, historique MoDem/UDF, sa relation de "père" (fondateur du centre) à Macron (accomplisseur)
+- [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — complicité passive dans la protection des agresseurs de Bétharram ; timeline des alertes ignorées depuis 1996 ; démontage de ses dénégations
