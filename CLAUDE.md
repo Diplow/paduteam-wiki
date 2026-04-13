@@ -78,7 +78,7 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 
 2. **Le vault est construit à partir de transcripts écrits, pas de la vidéo.** On perd l'ironie visuelle, le ton, les regards complices, les rires. Un passage qui semble agressif à l'écrit peut être un running gag ; une phrase qui semble sérieuse peut être au second degré. En cas de doute sur le registre d'un passage, préférer une formulation qui préserve l'ambiguïté plutôt qu'une interprétation littérale.
 
-3. **La PaduTeam est cynique, caustique et autodérisoire.** Padu et Chris en particulier pratiquent une ironie corrosive, incluant sur eux-mêmes, sur leurs camarades, sur leurs alliés. Leurs « clashs » internes sont souvent performatifs (débat entre amis, sketch militant, provocation pédagogique). Distinguer les vraies lignes de fracture des joutes de chapelle suppose de lire le transcript en entier, pas d'extraire un extrait isolé. Quand le transcript laisse un doute, ne pas inventer un conflit qui n'existe pas.
+3. **La PaduTeam est cynique, caustique et pratique l'auto-dérision.** Leurs « clashs » internes sont souvent performatifs (débat entre amis, sketch militant, provocation pédagogique). Distinguer les vraies lignes de fracture des joutes de chapelle suppose de lire le transcript en entier, pas d'extraire un extrait isolé. Quand le transcript laisse un doute, ne pas inventer un conflit qui n'existe pas.
 
 ## Taxonomie des tags
 
