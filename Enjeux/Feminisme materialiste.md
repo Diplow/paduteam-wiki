@@ -95,7 +95,7 @@ La vraie maturité virile = traiter les femmes comme des êtres humains. Ce reto
 
 ## Concepts associés
 
-[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]], [[Concernisme]], [[Capitalisme masculiniste]], [[Protection institutionnelle des agresseurs]], [[Mythe du monstre]], [[Recuperation raciste des faits divers]]
+[[Culture du viol]], [[Soumission chimique]], [[Banalite du viol]], [[Masculinisme]], [[MeToo revolutionnaire]], [[Je te crois comme acte militant]], [[Famille nucleaire patriarcale en crise]], [[Femonationalisme]], [[Concernisme]], [[Capitalisme masculiniste]], [[Protection institutionnelle des agresseurs]], [[Mythe du monstre]], [[Recuperation raciste des faits divers]], [[Transidentite]], [[Transphobie]], [[Sujet revolutionnaire]], [[Antitechnologie vs technocritique]]
 
 ## Adversaires de cette position
 
@@ -110,6 +110,22 @@ La vraie maturité virile = traiter les femmes comme des êtres humains. Ce reto
 **L'approche uniquement punitiviste** : se concentrer sur la punition des agresseurs sans interroger les structures qui les produisent ne change rien.
 
 **Le féminisme médiatique bourgeois** : réduit MeToo à la dénonciation des célébrités. N'a pas pu pointer les VSS dans les milieux bourgeois parce que ces médias défendaient ces milieux.
+
+## La transphobie comme prolongement de l'antiféminisme
+
+Pour la PaduTeam, la transphobie et l'antiféminisme relèvent du même régime d'oppression : le maintien des normes de genre comme outil de domination patriarcale et de classe. Deux raisons imbriquées :
+
+**La transidentité comme sujet révolutionnaire** (Chris, ATR #2) : les personnes trans "font avancer les possibilités de l'humanité de s'extirper de conditions naturelles". Comme les femmes avec la contraception et l'IVG, elles luttent contre la détermination par la biologie — contre "la dissymétrie corporelle de l'humanité" héritée d'une organisation sociale préindustrielle. C'est pour ça qu'elles sont attaquées : leur existence déplace les limites du possible.
+
+**La technique comme condition de l'émancipation trans et féminine** : l'argument anti-ATR est identique pour les femmes et pour les trans. Pas de contraception, pas d'IVG, pas d'accès aux hormones de transition sans industrie pharmaceutique — l'ATR détruit les conditions matérielles de l'émancipation des deux groupes. La technique n'est pas capitaliste par essence : l'URSS a été parmi les premiers pays à légaliser l'IVG et à développer une médecine obstétricale publique. L'outil est disputé, pas condamnable en soi.
+
+**Transphobie comme précarisation de classe** : la transphobie n'est pas un désaccord de valeurs — c'est un mécanisme de production de précarité documenté. Discrimination logement, emploi, famille, soins médicaux → travail du sexe, drogue, violence. Les personnes trans sont majoritairement ouvrières avant leur transition ; après, elles sont souvent déclassées. L'[[Organisation Solidarite Trans|OST]] fonctionnait avec 1 000 € de trésorerie pour 12 sections nationales.
+
+Le féminisme matérialiste inclut donc la défense des droits trans — pas comme cause "alliée" mais comme partie intégrante de la même lutte contre la détermination naturelle des corps et des places sociales.
+
+### Les TERF comme cohérence interne du féminisme réactionnaire
+
+Marguerite Stern et le mouvement TERF illustrent la trajectoire : commencer par un "matérialisme vulgaire" (les catégories de sexe sont déterminées biologiquement, inviolables) aboutit mécaniquement à la défense de l'ordre naturel — c'est-à-dire à la même position qu'ATR. Les TERF et ATR partagent la même prémisse : les corps ont une nature fixe que la technique pervertit.
 
 ## Évolution
 
@@ -137,4 +153,6 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation ; la parole comme acte matériel
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique interne structurelle plutôt que punitivisme ; management militant toxique dans les orgas militantes
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
+- [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]] — Dr Zoé / Lou Girard (OST) : matérialisme trans, précarité trans, autosupport, lutte de classe trans, contexte Trump
+- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — ATR comme antiféminisme + transphobie + validisme ; sujet révolutionnaire féminin et trans ; technique comme condition d'émancipation
 

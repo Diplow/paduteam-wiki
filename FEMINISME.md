@@ -132,15 +132,18 @@ Le front interne. Comment LFI / PaduTeam / Positions Revue gèrent (ou ratent) l
 
 ## Batch F — Transphobie & droits trans
 
-**Statut** : ⏳ en attente
-**Slug branche** : `ingest-batch/transphobie-droits-trans`
+**Statut** : ✅ fait (2026-04-13) — `ingest-batch/transphobie-droits-trans`
 
 L'axe transphobe structure une partie de l'antiféminisme contemporain (TERF + droite). Petit batch mais cohérent.
 
-- [ ] IMANE KHELIF — les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME (JO 2024)
-- [ ] Cette ORGANISATION TRANS a BESOIN de VOUS (OST x Dr Zoé)
-- [ ] PSYHODELIK ET MARGUERITE STERN — CHAMPIONS DES FAKES NEWS TRANSPHOBES
-- [ ] ANTI FÉMINISTE, TRANSPHOBE ET EUGÉNISTE — LE VRAI VISAGE D'ANTITECH RESISTANCE #2
+- [x] IMANE KHELIF — les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME (JO 2024)
+- [x] Cette ORGANISATION TRANS a BESOIN de VOUS (OST x Dr Zoé)
+- [x] PSYHODELIK ET MARGUERITE STERN — CHAMPIONS DES FAKES NEWS TRANSPHOBES
+- [x] ANTI FÉMINISTE, TRANSPHOBE ET EUGÉNISTE — LE VRAI VISAGE D'ANTITECH RESISTANCE #2
+
+**Fiches créées** : [[Imane Khelif]], [[Marguerite Stern]], [[Psyhodelik]], [[Antitech Resistance]], [[Transidentite]], [[Transphobie]], [[Intersexualite]], [[Sujet revolutionnaire]], [[Antitechnologie vs technocritique]], [[IMANE KHELIF  les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME  (JO 2024)]], [[PSYHODELIK ET MARGUERITE STERN  CHAMPIONS DES FAKES NEWS TRANSPHOBES !!]], [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]], [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]]
+
+**Fiches enrichies** : [[Feminisme materialiste]] (section droits trans + ATR + sujet révolutionnaire), [[Antiféminisme identitaire comme menace]] (axe transphobe + ATR), [[Lou Girard]] (enrichissement complet), [[Organisation Solidarite Trans]] (enrichissement complet)
 
 ---
 
