@@ -1,10 +1,10 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine]
-skill_version: write-enjeu-2026-04-14
+thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine]
+skill_version: ingest-batch-2026-04-14
 ---
-#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine
+#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine
 # Anti-impérialisme
 
 ## Position PaduTeam
@@ -95,6 +95,33 @@ Le concept de [[Dictature post-revolutionnaire]] (Lucien Goldman) permet d'être
 ## Concepts associés (mis à jour)
 [[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]], [[Communalisme bolivarien]]
 
+## L'Ukraine : guerre impérialiste sans camp progressiste
+
+Le cas ukrainien est le plus complexe du corpus anti-impérialiste PaduTeam — et celui qui génère le plus de divisions à gauche. La position est tranchée mais nuancée : **l'Ukraine n'est pas un camp à soutenir, c'est une guerre à arrêter.**
+
+**L'impérialisme est unique.** Il n'y a qu'un seul impérialisme, celui du capitalisme mondial. Poutine est un nationaliste réactionnaire expansionniste, mais il est subalterne dans ce système — pas une puissance anti-impérialiste. L'OTAN, en revanche, est le bras armé de l'impérialisme capitaliste. Ni Poutine ni l'OTAN ne défend des intérêts de classe progressistes. Il n'y a pas de camp à soutenir dans cette guerre — il y a un cessez-le-feu à exiger[^ukr1].
+
+**La genèse : Ukraine depuis 2014.** Le coup d'État de Maïdan (2014) est une intervention impérialiste qui a renversé un gouvernement élu. Le massacre d'Odessa (2 mai 2014) — 48 syndicalistes de gauche et communistes brûlés vifs dans la Maison des syndicats par des nationalistes ukrainiens — est le moment fondateur de la guerre civile dans le Donbass. Cette histoire longue est systématiquement effacée par la propagande atlantiste qui "commence" la guerre en 2022[^ukr2].
+
+**Envoyer des armes = allonger la boucherie.** L'Ukraine ne peut pas gagner dans cette configuration — elle manque d'hommes, le front s'enlise depuis 3 ans, la Russie peut tenir beaucoup plus longtemps. Livrer des armes ne résout pas le problème militaire de fond, ça prolonge le massacre des soldats ukrainiens (et russes) au profit de l'industrie de l'armement et de la stratégie OTAN d'affaiblissement de la Russie[^ukr3].
+
+**Le tournant Trump (mars 2026).** Quand Trump suspend le soutien militaire à l'Ukraine et humilie Zelenski à la Maison Blanche, le diagnostic PaduTeam est confirmé : les États-Unis ne soutiennent pas l'Ukraine par amour de la démocratie, mais pour affaiblir la Russie. Trump veut la paix en Ukraine pour libérer ses ressources politiques et militaires pour la guerre commerciale contre la Chine. Deux options s'ouvrent pour l'Ukraine : la finlandisation (neutralité comme garantie de sécurité) ou une partition de fait (ligne de front comme frontière). La gauche doit soutenir ces options contre ceux qui veulent "continuer la guerre jusqu'à la victoire"[^ukr4].
+
+**Zelenski comme proxy.** Zelenski a interdit les partis de gauche et les syndicats en Ukraine, suspendu les élections (son mandat est expiré), accepté d'envoyer des hommes à la mort pour les intérêts géopolitiques de l'OTAN. Ce n'est pas un démocrate attaqué par un autocrate — c'est un proxy dans un conflit entre grandes puissances. La défense des "droits démocratiques" ukrainiens comme argument pour envoyer des armes est la même rhétorique que "la démocratie" pour justifier l'invasion de l'Irak[^ukr5].
+
+**L'accord UE-USA (août 2026) comme dénouement économique.** Von der Leyen signe un accord avec Trump : 15% de droits de douane (contre 20% menaçants), 750 milliards d'euros d'énergie américaine achetée sur 3 ans, 600 milliards d'investissements en USA. L'accord enterre Nordstream (dont les USA ont organisé le sabotage) et force l'Europe à acheter du gaz américain deux fois plus cher. L'UE n'est pas une puissance politique — c'est un marché soumis. La guerre en Ukraine aura servi à organiser la vassalisation énergétique de l'Europe[^ukr6].
+
+## Concepts associés (mis à jour — Ukraine)
+[[Bellicisme social-democrate]], [[Camp de la paix]], [[Union sacree]], [[Propagande de guerre]], [[Vassalisation de la France]], [[Finlandisation]]
+
+## Vidéos clés (suite — corpus Ukraine 2025-2026)
+
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première réaction au bellicisme d'Usul : service militaire, trajectoire trotskiste-atlantiste
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse complète : Maïdan, Odessa, impérialisme unique, pacifisme marxiste comme honneur de la tradition communiste
+- [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — Bellicisme institutionnel, militarisation de l'enseignement, NPA belliciste, union sacrée 2.0
+- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Tournant Trump, deux scénarios (finlandisation/partition), Chris analyse la géopolitique complète
+- [[ACCORD TRUMP VON DER LEYEN SOUMET L UE AUX USA]] — La vassalisation énergétique de l'Europe comme dénouement de la guerre ukrainienne
+
 ## Vidéos clés
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Première réaction à l'agression : Doctrine Monroe 2.0, pétrole, comparaison Iran/Ukraine, Glucksmann "agent américain"
@@ -112,6 +139,12 @@ Le concept de [[Dictature post-revolutionnaire]] (Lucien Goldman) permet d'être
 - [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore
 - [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule
 
+[^ukr1]: [25:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=1500) — "Il y a qu'un seul impérialisme. C'est l'impérialisme capitaliste. Poutine c'est quoi ? C'est un régime nationaliste expansionniste subalterne."
+[^ukr2]: [10:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=600) — Contexte Odessa 2014 et Maïdan comme toile de fond de la guerre — effacés par le récit atlantiste qui "commence" en 2022.
+[^ukr3]: [31:41](https://www.youtube.com/watch?v=sgNt9HCQrTU&t=1901) — "L'Ukraine ne peut pas gagner... elle manque d'hommes, le front s'enlise... quand on est de gauche, on est pour la paix."
+[^ukr4]: [20:00](https://www.youtube.com/watch?v=sgNt9HCQrTU&t=1200) — Deux options : finlandisation (neutralité) ou partition de fait. Trump veut la paix pour concentrer les ressources sur la guerre commerciale contre la Chine.
+[^ukr5]: [35:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=2100) — Zelenski a interdit syndicats et partis de gauche, son mandat est expiré — "ce n'est pas un défenseur de la démocratie."
+[^ukr6]: [5:00](https://www.youtube.com/watch?v=S5wMhwDNpy4&t=300) — Accord UE-USA : 750 Md€ énergie américaine, 600 Md$ investissements. "L'UE est un marché soumis, pas une puissance politique."
 [^iran1]: [17:03](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1023) — "peu importe sur quel échiquier vous êtes, les sanctions sont une violence impérialiste qui doit être supprimée"
 [^iran2]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — Alice Cordier (Némésis) à la manif pro-Shah avec drapeaux israéliens : "on est en train d'assister au fémonationalisme"
 [^iran3]: [35:21](https://www.youtube.com/watch?v=yPJKov273gs&t=2121) — Chris : "dès que ça commence à atteindre les 60 dollars, c'est-à-dire la rentabilité du gaz de schiste américain... il y a une intervention"

@@ -71,11 +71,21 @@ Sa proposition implicite de "ticket à l'américaine" (Glucksmann président + V
 
 **Passage implicitement cité par Padu (paraphrase) :** "Si vous croyez que vous allez gagner une élection présidentielle en essayant de ne pas jouer l'affrontement entre Mélenchon et Glucksmann, vous vous faites l'œil."
 
+## Glucksmann et l'Ukraine — figure centrale du bellicisme social-démocrate
+
+Le corpus Ukraine (2025-2026) confirme et approfondit l'analyse PaduTeam : Glucksmann est la **figure structurante du bellicisme social-démocrate français**. Ce n'est pas une dérive — c'est sa position naturelle, cohérente avec toute sa trajectoire (Géorgie, revues néoconservatrices, OTAN).
+
+**La ligne constante : envoyer des armes.** Dans chaque intervention publique sur l'Ukraine depuis 2022, Glucksmann défend la même position : livrer des armes à l'Ukraine, renforcer l'OTAN, construire une "défense européenne." Pas d'analyse sur les causes (Maïdan, Odessa, élargissement OTAN), pas d'horizon diplomatique, pas de réflexion sur les intérêts de classe — juste "envoyer des armes" avec un habillage moral (défense de la démocratie contre l'autoritarisme).
+
+**L'axe Glucksmann–Macron–Usul–NPA.** La PaduTeam identifie Glucksmann comme le point de jonction entre la droite centriste (Macron) et la gauche internet (Usul, NPA). Sa capacité à "contaminier" la gauche radicale sur le bellicisme — en enveloppant la position atlantiste dans le vocabulaire des droits humains — est son rôle politique le plus dangereux dans cette période.
+
+**Réaction au retrait américain (mars 2026).** Quand Trump suspend le soutien à l'Ukraine, Glucksmann (et ses alliés européens) poussent pour que l'UE "prenne le relais" — c'est-à-dire que les contribuables européens financent la guerre à la place des américains. Pour la PaduTeam, c'est l'aboutissement logique du bellicisme social-démocrate : on commence par "soutenir la démocratie", on finit par demander des milliards de fonds publics pour une guerre impossible à gagner.
+
 ## Glucksmann et le Venezuela — "agent américain"
 
 Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "pas une larme pour Maduro". Pour la PaduTeam dans [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]], c'est la preuve de sa nature d'"agent américain" — pas au sens complotiste, mais comme quelqu'un dont la fonction politique objective est de relayer les intérêts impérialistes américains au sein de la gauche française. Ses positions atlantistes (pro-OTAN, pro-Ukraine, pro-intervention) s'alignent systématiquement avec la position du département d'État américain. Le Venezuela est le test ultime de ce positionnement.
 
-## Vidéos où Glucksmann est analysé
+## Vidéos où Glucksmann est analysé (suite — corpus Ukraine 2025-2026)
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Cité comme exemple de candidat adoubé par les médias pour contrer Mélenchon
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Analyse de son rôle dans la déstabilisation de LFI
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Critique de l'idée d'alliance avec LFI
@@ -88,3 +98,6 @@ Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "p
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Refus de la primaire : "pas la même vision du monde" ; reconnu par la PaduTeam comme seul candidat cohérent avec Mélenchon ; analyse de sa position antisynthèse ; scenario ticket Glucksmann/Vallaud discuté.
 - [[LE PS A TRAHI (EPISODE 24873)]] — "Totalement muet" lors du deal PS/Lecornu 2. C'est [[Aurélien Rousseau]] qui tweete à sa place pour avaliser la position. Chris : "la noisette des noisettes là, c'est le valet là, le petit traître en chef là, enfin qui est finito, qui est fort" — "finito". Sa stratégie de l'effacement total lors d'un moment clé confirme son inexistence politique.
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Qualifié d'"agent américain" après son tweet "pas une larme pour Maduro" ; incarnation de la ligne atlantiste pro-impérialiste au sein de la gauche française.
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Mentionné comme référence du bellicisme social-démocrate dont Usul se rapproche
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse de sa trajectoire atlantiste (Géorgie, BHL, revues néoconservatrices) comme matrice du bellicisme
+- [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — Axe Macron-Glucksmann présenté comme promoteurs institutionnels du bellicisme en France

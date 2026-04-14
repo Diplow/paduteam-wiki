@@ -54,19 +54,19 @@ Le Venezuela comme cas d'école de l'intervention impérialiste US en Amérique 
 
 ## Batch C — Gauche française et bellicisme : Ukraine, UE, OTAN
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/gauche-bellicisme-ukraine`
 
 Le front intérieur de la géopolitique : comment la gauche française se positionne face à la guerre en Ukraine et au réarmement européen. Glucksmann comme figure du bellicisme social-démocrate, Usul qui bascule, Macron qui pousse à la guerre. L'accord Trump/Von der Leyen comme soumission de l'UE. La vidéo Ukraine/Chris pose le cadre marxiste sur le conflit russo-ukrainien.
 
-- [ ] Guerre en UKRAINE faut-il COMMENCER à APPRENDRE le RUSSE (analyse MARXISTE avec Chris)
-- [ ] MACRON et GLUCKSMANN VEULENT LA GUERRE !
-- [ ] USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE
-- [ ] USUL : CETTE GAUCHE qui VEUT NOUS EMMENER à la GUERRE
-- [ ] ACCORD TRUMP VON DER LEYEN soumet L'UE aux USA
+- [x] Guerre en UKRAINE faut-il COMMENCER à APPRENDRE le RUSSE (analyse MARXISTE avec Chris)
+- [x] MACRON et GLUCKSMANN VEULENT LA GUERRE !
+- [x] USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE
+- [x] USUL : CETTE GAUCHE qui VEUT NOUS EMMENER à la GUERRE
+- [x] ACCORD TRUMP VON DER LEYEN soumet L'UE aux USA
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]], [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]], [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]], [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]], [[ACCORD TRUMP VON DER LEYEN SOUMET L UE AUX USA]], [[Camp de la paix]], [[Bellicisme social-democrate]], [[Union sacree]], [[Finlandisation]], [[Militarisation de l enseignement]], [[Propagande de guerre]], [[Ursula von der Leyen]], [[Volodymyr Zelensky]], [[OTAN]]
+**Fiches enrichies** : [[Anti-imperialisme]], [[Campisme assume]], [[Atlantisme]], [[Vassalisation de la France]], [[Usul]], [[Raphael Glucksmann]]
 
 ---
 
