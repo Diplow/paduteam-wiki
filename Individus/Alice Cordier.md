@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme, extrême-droite]
 aliases: []
 date created: Wednesday, April 1st 2026, 9:44:03 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Tuesday, April 14th 2026, 6:04:28 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme

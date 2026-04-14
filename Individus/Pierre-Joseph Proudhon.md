@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [marxisme, capitalisme]
 aliases: [Proudhon, proudonien, Proudon]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Tuesday, April 14th 2026, 6:03:54 pm
 ---
 #domaine/théorie #thème/marxisme
 
