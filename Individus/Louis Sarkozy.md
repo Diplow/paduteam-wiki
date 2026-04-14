@@ -55,5 +55,21 @@ En février 2025, l'association Union Algérienne et Suissraïsme portent plaint
 - [[Raquel Garrido]] — face à elle dans *Face à Face* sur LCI
 - [[Javier Milei]], Donald Trump, Elon Musk — références politiques
 
+## La masterclass accidentelle sur les retraites
+
+Invité sur LCI pour parler des retraites face à Raquel Garrido, Louis Sarkozy propose d'indexer l'âge de la retraite sur l'espérance de vie. Calvi est médusé — le résultat du calcul : **66 ans et demi**. Mais la PaduTeam retourne l'argument contre lui : si l'on indexe vraiment sur l'espérance de vie par catégorie socioprofessionnelle, les ouvriers partiraient à 50 ans et les cadres à 70. C'est la logique du camarade Sarkozy poussée à son terme — 55 ans pour les ouvriers, 70 ans pour les professions supérieures.
+
+Ce qu'il n'a pas vu — ou refusé de voir :
+- À l'âge légal de la retraite (62-65 ans), **25% des 5% de Français les plus pauvres sont déjà morts** (infographie Libération)
+- L'espérance de vie sans incapacité est de **63-64 ans** pour les hommes/femmes — c'est le seuil réel au-delà duquel on vit en mauvaise santé
+- L'écart d'espérance de vie entre cadres et ouvriers est d'environ **5-6 ans** à 35 ans
+
+Sa proposition est "accidentellement basée" : elle démontre malgré lui que l'âge de la retraite dépend de la **division du travail**, donc de la politique — pas d'une loi naturelle.[^2]
+
+Son erreur fondamentale : traiter l'espérance de vie comme une variable "scientifique" et non sociale. Or l'espérance de vie est un produit des rapports sociaux — si on fait travailler les gens plus longtemps, l'espérance de vie baisse en retour.
+
 ## Vidéos où il est analysé
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
+- [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — accidentellement basé sur l'espérance de vie différentielle
+
+[^2]: [11:59](https://www.youtube.com/watch?v=sPTaGxN7JFE&t=719) — "à 65 ans, à l'âge de la retraite, il y a déjà 25% des gens qui sont morts... à l'âge de la retraite, 25% des plus pauvres sont déjà morts"

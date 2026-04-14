@@ -33,19 +33,19 @@ Deux sous-batches naturels autour de Zoé et Padu. Angle : le système de santé
 
 ### Batch SANTÉ-B — Attaques contre la Sécu & retraites
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/sante-secu-retraites`
 
-- [ ] MACRON NOUS MENT POUR TUER LA SÉCU (Dr Zoé X Chris)
-- [ ] BARNIER, HANOUNA, MARION MARÉCHAL : ILS MENTENT SUR L'AME POUR ATTAQUER LA SÉCU (X Dr Zoé)
-- [ ] NAULLEAU et HANOUNA CONTRE la SÉCU et POUR la RETRAITE À 70 ANS !!
-- [ ] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
-- [ ] La MASTERCLASS du CAMARADE SARKOZY sur les RETRAITES !
-- [ ] NATHALIE SAINT-CRICQ nous parle de la SÉCU : c'est CATASTROPHIQUE !
-- [ ] ALLIANCE PS-MACRONISTE-LR : LES ASSASSINS DE LA SANTÉ
+- [x] MACRON NOUS MENT POUR TUER LA SÉCU (Dr Zoé X Chris)
+- [x] BARNIER, HANOUNA, MARION MARÉCHAL : ILS MENTENT SUR L'AME POUR ATTAQUER LA SÉCU (X Dr Zoé)
+- [x] NAULLEAU et HANOUNA CONTRE la SÉCU et POUR la RETRAITE À 70 ANS !!
+- [x] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
+- [x] La MASTERCLASS du CAMARADE SARKOZY sur les RETRAITES !
+- [x] NATHALIE SAINT-CRICQ nous parle de la SÉCU : c'est CATASTROPHIQUE !
+- [x] ALLIANCE PS-MACRONISTE-LR : LES ASSASSINS DE LA SANTÉ
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : Enjeux/Defense de la Securite Sociale, Concepts/Mythe du deficit de la Secu, Concepts/AME, Concepts/Jours de carence, Concepts/Tarification a l acte, Concepts/Logique penuriste, Concepts/Determinants sociaux de sante, Individus/Eric Naulleau, Individus/Nathalie Saint-Cricq, Individus/Maud Bregeon, Individus/Sebastien Le Cornu, Individus/Sylvain Maillard, Individus/Amelie Oudea-Castera, 7 fiches Videos
+**Fiches enrichies** : Concepts/100 pour cent Securite Sociale, Individus/Cyril Hanouna, Individus/Louis Sarkozy, Individus/Michel Barnier
 
 ---
 
