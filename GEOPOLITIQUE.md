@@ -28,7 +28,7 @@ Bloc cohérent sur l'Iran vu par la PaduTeam : histoire impériale longue, régi
 - [x] TRUMP PREND UNE FESSÉE EN IRAN : ON AVAIT TOUT PRÉVU !!!!
 - [x] IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)
 
-**Fiches créées** : [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]], [[L'IRAN L'EMPIRE LES IRANIENS]], [[IRAN LA PIRE PROPAGANDE DE GUERRE]], [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]], [[Petrodollar]], [[Defense mosaique decentralisee]], [[Mohammed Mossadegh]], [[Ali Khamenei]], [[Mojtaba Khamenei]], [[Thomas Portes]], [[Shah d'Iran]], [[Ali Khomeini]], [[Saddam Hussein]]
+**Fiches créées** : [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]], [[L'IRAN L'EMPIRE LES IRANIENS]], [[IRAN LA PIRE PROPAGANDE DE GUERRE]], [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]], [[Petrodollar]], [[Defense mosaique decentralisee]], [[Mohammed Mossadegh]], [[Ali Khamenei]], [[Mojtaba Khamenei]], [[Thomas Portes]], [[Shah d'Iran]], [[Rouhollah Khomeini]], [[Saddam Hussein]]
 **Fiches enrichies** : [[Anti-imperialisme]], [[Femonationalisme]], [[Alice Cordier]], [[Donald Trump]]
 
 ---

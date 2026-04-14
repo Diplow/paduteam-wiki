@@ -53,7 +53,7 @@ Longue communauté juive en Iran — les juifs chassés d'Espagne (Reconquista, 
 
 ## Liens
 - [[Mohammed Mossadegh]] — figure centrale
-- [[Ali Khomeini]] — révolution de 79
+- [[Rouhollah Khomeini]] — révolution de 79
 - [[Hezbollah]] — allié
 - [[Hamas]] — allié anti-impérialiste
 - [[Saddam Hussein]] — agresseur 1980 (allié US)

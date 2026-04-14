@@ -2,12 +2,12 @@
 type: individu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Iran]
-aliases: [Ali Khomeini, Rouhollah Khomeini, Khomeiny, آیت‌الله خمینی, Ayatollah Khomeini]
+aliases: [Rouhollah Khomeini, Khomeini, Khomeiny, آیت‌الله خمینی, Ayatollah Khomeini]
 date created: 2026-04-13
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran
-# Ali Khomeini
+# Rouhollah Khomeini
 
 ## Ébauche
 Fondateur de la République islamique d'Iran. Guide suprême de 1979 à sa mort en 1989. Chef de la révolution iranienne qui renverse le [[Shah d'Iran]] en février 1979.

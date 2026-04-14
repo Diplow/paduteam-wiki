@@ -47,7 +47,7 @@ Le corpus Gaza (2024-2026) confirme que l'impérialisme américain est structure
 
 L'Iran est, avec Cuba, le pays qui illustre le mieux la mécanique impérialiste sur la durée. La PaduTeam y consacre quatre vidéos couvrant juin 2025 à mars 2026.
 
-**L'histoire longue (depuis Mossadegh)** : En 1953, le Premier ministre [[Mohammed Mossadegh]], élu démocratiquement, nationalise le pétrole iranien. La CIA organise un coup d'État (opération Ajax) et remet le [[Shah d'Iran]] au pouvoir — dictature proaméricaine jusqu'en 1979. La révolution islamique de [[Ali Khomeini]] renverse le Shah avec une alliance communistes-islamistes. La [[Guerre Iran-Irak]] (1980-1988), déclenchée par [[Saddam Hussein]] avec l'appui US, solidifie le nationalisme anti-impérialiste iranien au lieu de le briser.
+**L'histoire longue (depuis Mossadegh)** : En 1953, le Premier ministre [[Mohammed Mossadegh]], élu démocratiquement, nationalise le pétrole iranien. La CIA organise un coup d'État (opération Ajax) et remet le [[Shah d'Iran]] au pouvoir — dictature proaméricaine jusqu'en 1979. La révolution islamique de [[Rouhollah Khomeini]] renverse le Shah avec une alliance communistes-islamistes. La [[Guerre Iran-Irak]] (1980-1988), déclenchée par [[Saddam Hussein]] avec l'appui US, solidifie le nationalisme anti-impérialiste iranien au lieu de le briser.
 
 **Le blocus comme arme** : Depuis 1979, l'embargo US asphyxie l'économie iranienne — inflation à 200%, dévaluation du rial, coupures d'électricité. Ce n'est pas la répression interne qui crée la misère populaire, c'est le blocus occidental. La position PaduTeam est claire : la première ligne anti-impérialiste depuis le centre est **arrêter les sanctions contre l'Iran**[^iran1].
 
