@@ -2,14 +2,14 @@
 type: individu
 domaine: [société]
 thèmes: [sport]
-aliases: [Cédric Dumbé, Cedric Dumbe]
+aliases: [Cédric Doumbè, Cedric Doumbe]
 date created: 2026-04-13
-date modified: 2026-04-13
+date modified: 2026-04-14
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/sport
 
-# Cédric Dumbé
+# Cédric Doumbè
 
 ## Profil synthétique
 Combattant MMA français, kickboxer multichampion du monde, très forte médiatisation. Se présente comme "super musulman" dans ses communications. N'a pas pris position publiquement sur la Palestine lors de la soirée [[PFL]] où il affronte [[Baki]].

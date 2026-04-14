@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [féminisme]
 aliases: [Dr Zoé, Zoé]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Monday, April 13th 2026, 10:45:22 pm
 ---
 #domaine/théorie #thème/féminisme
 # Dr Zoé
@@ -38,10 +38,6 @@ Elle a également subi du harcèlement sexuel d'un homme à la fac de médecine 
 Ces expériences ont constitué son engagement féministe : comprendre pourquoi elle a eu le réflexe de se taire, pourquoi le système est organisé pour maltraiter les victimes, et quelles sont les solutions politiques.
 
 En janvier 2025, elle a témoigné dans le documentaire *Soumission chimique pour que la honte change de camp* (France 2 et RTBF, réalisé par Linda Bendali), avec [[Caroline Darian]] et d'autres victimes, comme acte militant : "dire aux autres victimes qu'elles sont pas seules."
-
-## Chaîne YouTube
-
-Zoé a lancé sa propre chaîne YouTube (annoncée début 2025), rejoignant la structure collective de [[La Breche]] avec Positions Revue et Padu. Elle partagera les moyens de production avec Padu. La chaîne se concentrera sur santé, politique de santé et féminisme.
 
 ## Rôle dans le corpus Némésis / antiféminisme identitaire
 

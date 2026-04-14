@@ -49,7 +49,7 @@ Conte de Noël politique en 4 actes + épilogue : bilan 2025 de chaque "maison" 
 ## Enjeux avancés
 [[Plus jamais PS]] — Faure instrumentalise la primaire pour se légitimer, le PS reste structurellement l'ennemi de la gauche de rupture
 [[Union populaire]] — Seule LFI peut représenter la gauche de rupture ; toutes les tentatives alternatives échouent
-[[Graphique]] — Utilisé pour montrer que Roussel parle aux mêmes catégories que Zemmour ; que Tondelier hérite de la base orpheline PS/Jado
+[[Graphique]] — Utilisé pour montrer que Roussel parle aux mêmes catégories que Zemmour ; que Tondelier hérite de la base orpheline PS/[[Yannick Jadot]]
 
 ## Transcript
 [[Les SEIGNEURS des NOISETTES ( Vol. 1, 2 & 3)]]
