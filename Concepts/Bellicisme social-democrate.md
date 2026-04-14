@@ -28,7 +28,7 @@ Le service militaire "volontaire" de Macron ne ciblera pas les fils de bourgeois
 ## Déclin ou contamination ?
 La PaduTeam distingue deux trajectoires chez les bellicistes de gauche :
 - **Trajectoire Glucksmann** — atlantiste structurel depuis ses débuts (carrière en Géorgie aux côtés de Saakachvili). Son bellicisme sur l'Ukraine n'est pas une "contamination" — c'est sa position de classe naturelle.
-- **Trajectoire Usul** — trotskiste converti au bellicisme. Illustre la dérive d'une partie de la gauche radicale qui, depuis son abstraction théorique, finit par servir objectivement l'impérialisme dominant. Comparé à Jado 2022 ("on a perdu Usul").
+- **Trajectoire Usul** — trotskiste converti au bellicisme. Illustre la dérive d'une partie de la gauche radicale qui, depuis son abstraction théorique, finit par servir objectivement l'impérialisme dominant. Comparé à [[Yannick Jadot]] en 2022 ("on a perdu Usul").
 
 ## Exemples
 - [[Raphaël Glucksmann]] : "envoyer des armes, envoyer des armes, envoyer des armes" — sans analyse ni horizon politique

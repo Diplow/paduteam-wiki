@@ -24,7 +24,7 @@ Note : Lionel Jospin décède en direct pendant l'enregistrement — annoncé en
 
 3. **LFI gagne seul, perd en alliance.** LFI gagne Roubaix, Vénissieux (avec [[Idir Boumertit]]), Saint-Denis, Cergy, Sarcelles, plusieurs villes de La Réunion (Saint-Paul, Le Tampon). À Montpellier, seul, LFI fait 25%. À Lille seul, LFI fait 35% — très fort contre une liste de gauche alliée aux écolos.
 
-4. **Le PS revient par la droite.** Il capte l'électorat de centre-droit d'Horizon (Strasbourg : [[Catherine Trautmann]] bat [[Jeanne Barseghian]] + LFI). À Pau, [[Francois Bayrou]] perd contre le PS + gauche. Les anciens électeurs de Jado 2019 (populisme bourgeois déçu de Macron) reviennent vers le centre-PS.
+4. **Le PS revient par la droite.** Il capte l'électorat de centre-droit d'Horizon (Strasbourg : [[Catherine Trautmann]] bat [[Jeanne Barseghian]] + LFI). À Pau, [[Francois Bayrou]] perd contre le PS + gauche. Les anciens électeurs de [[Yannick Jadot]] 2019 (populisme bourgeois déçu de Macron) reviennent vers le centre-PS.
 
 5. **Les Verts sont finis.** Perdent Bordeaux, Strasbourg, Poitiers. [[Marine Tondelier]] convoque une réunion de crise le lendemain. Leur électorat est un électorat bourgeois qui ne veut pas de la gauche de rupture. [[Moisation|Moïsation]] en cours.
 

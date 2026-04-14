@@ -37,7 +37,7 @@ La FI est la seule force politique significative à tenir la position pacifiste.
 ## Adversaires de cette position
 - [[Raphael Glucksmann]] — figure centrale du bellicisme social-démocrate
 - [[Emmanuel Macron]] — promoteur du service militaire, cherche peut-être à rester au pouvoir via la guerre
-- [[Usul]] — a "gluxmanisé" sur le service militaire, comparé à Jado 2022
+- [[Usul]] — a "gluxmanisé" sur le service militaire, comparé à [[Yannick Jadot]] en 2022
 - [[NPA]] — position belliciste sur l'Ukraine, "même ligne que Glucksmann et BHL"
 - Les généraux (général Mandon : "il faut accepter de perdre ses enfants") — relayés par les médias pour normaliser l'idée de guerre
 

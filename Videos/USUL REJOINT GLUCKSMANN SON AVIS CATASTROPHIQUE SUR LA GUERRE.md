@@ -25,7 +25,7 @@ Première réaction de la PaduTeam à la prise de position d'[[Usul]] en faveur 
 
 3. **La FI comme dernier rempart** — "Si cette force qui représente 20% des Français tombe, il n'y aura plus rien pour nous empêcher d'aller à la guerre." La FI doit tenir la ligne pacifiste même sous la pression de la contamination belliciste dans son environnement[^2].
 
-4. **Comparaison Jado 2022** — Comme [[Yannick Jadot]] avait glissé vers l'atlantisme en 2022 depuis la gauche verte, Usul glisse depuis la gauche radicale internet. Le pattern est identique : depuis un espace d'indépendance doctrinale, on arrive à la même position que l'impérialisme dominant.
+4. **Comparaison Jadot 2022** — Comme [[Yannick Jadot]] avait glissé vers l'atlantisme en 2022 depuis la gauche verte, Usul glisse depuis la gauche radicale internet. Le pattern est identique : depuis un espace d'indépendance doctrinale, on arrive à la même position que l'impérialisme dominant.
 
 ## Individus analysés
 [[Usul]], [[Raphaël Glucksmann|Glucksmann]], [[Emmanuel Macron]], [[Yannick Jadot]]

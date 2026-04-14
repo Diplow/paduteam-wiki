@@ -19,7 +19,7 @@ Deuxième réaction à la position belliciste d'[[Usul]], après qu'il l'a réit
 
 ## Thèses et analyses clés
 
-1. **"On a perdu Usul"** — La rupture est consommée. Après réitération sur Backseat, Usul est comparé à [[Yannick Jadot]] en 2022 : "un belliciste type Jado 2022". Ce n'est plus un désaccord tactique — c'est une rupture de camp.
+1. **"On a perdu Usul"** — La rupture est consommée. Après réitération sur Backseat, Usul est comparé à [[Yannick Jadot]] en 2022 : "un belliciste type Jadot 2022". Ce n'est plus un désaccord tactique — c'est une rupture de camp.
 
 2. **L'Ukraine depuis 2014 comme toile de fond effacée** — Le coup d'État de Maïdan (2014) était une intervention impérialiste. Le massacre d'Odessa du 2 mai 2014 — 48 syndicalistes et communistes brûlés vifs dans la Maison des syndicats par des nationalistes ukrainiens — est le moment fondateur du conflit dans le Donbass. Ce contexte est systématiquement effacé par le récit atlantiste[^1].
 

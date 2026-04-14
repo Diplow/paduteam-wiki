@@ -40,7 +40,7 @@ Usul soutient le **service militaire volontaire** proposé par Macron. Pour lui,
 
 Puis Usul **réitère sa position** sur [[Backseat]], la défend contre les critiques, et la durcit. La PaduTeam sort alors une deuxième vidéo, beaucoup plus grave : "Usul a gluxmanisé."
 
-### La comparaison Jado 2022
+### La comparaison Jadot 2022
 Le verdict PaduTeam : Usul est devenu **"le Jadot de 2022 sur la question militaire"**. En 2022, [[Yannick Jadot]] avait soutenu l'envoi d'armes à l'Ukraine et affirmé une ligne atlantiste — trahissant la tradition verte et pacifiste. En 2025-2026, Usul fait le même pas : depuis un positionnement de gauche radicale, il valide la logique belliciste de Macron.
 
 "On a perdu Usul." La formule est sèche. Il ne s'agit pas d'un désaccord tactique sur un point de programme — c'est une rupture de camp.
@@ -60,4 +60,4 @@ La PaduTeam appelle les militants FI plus jeunes, attirés par Usul sur des ques
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]]
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — son rôle dans la trajectoire confusionniste de Padu ado via l'épisode Chouard 2014 — Contacté par [[Le Point]] pour commenter la [[Moisation|moïsation]]. Sa réaction par MP à Padu : "J'ai été contacté par Le Point pour parler de Moïsation. C'était pas dans mon bingo 2025." La PaduTeam note l'improbabilité comique de la situation — Usul et Padu ne se parlent pas régulièrement, et le Point les contacte tous les deux sur le même sujet.
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première réaction au soutien au service militaire : capsule "drôle", analyse de la trajectoire trotskiste
-- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Deuxième réaction après réitération sur Backseat : "on a perdu Usul", comparaison Jado 2022, rupture consommée
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Deuxième réaction après réitération sur Backseat : "on a perdu Usul", comparaison Jadot 2022, rupture consommée
