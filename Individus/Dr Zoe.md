@@ -1,12 +1,13 @@
 ---
 type: individu
-domaine: [théorie]
-thèmes: [féminisme]
+domaine: [théorie, société]
+thèmes: [féminisme, santé, corpo-médicale]
 aliases: [Dr Zoé, Zoé]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
+skill_version: ingest-batch-2026-04-14
 ---
-#domaine/théorie #thème/féminisme
+#domaine/théorie #domaine/société #thème/féminisme #thème/santé #thème/corpo-médicale
 # Dr Zoé
 
 ## Profil synthétique
@@ -28,6 +29,34 @@ Padu et Chris analysent la position de classe de Zoé : en tant que médecin lib
 
 ## Médecine de campagne
 Zoé exerce comme médecin généraliste en zone rurale. L'hiver est sa période de surcharge de travail ("l'hiver c'est pas le oh là là de ta où on a le plus de temps"). Cela retarde la production de sa chaîne YouTube personnelle.
+
+## Analyse politique de la corporation médicale
+
+[[Dr Zoe]] est l'analyste principale de la [[Corpo medicale|corpo médicale]] dans le vault. Son positionnement est unique : médecin libérale elle-même, elle critique de l'intérieur les mécanismes corporatistes, avec l'autorité de l'expérience pratique.
+
+**Sur la pénurie** : "on a organisé la pénurie de médecins. Les mandarins des années 70 ont demandé à réduire le nombre de médecins formés, main dans la main avec les gouvernements néolibéraux."
+
+**Sur les revenus** : Transparence militante — elle gagne environ 4000€ net/mois en tant que généraliste rurale, travaille 40h/semaine. "Je suis une des moins bien payées de la profession, et c'est quand même largement au-dessus du SMIC."
+
+**Sur la fonctionnarisation** : Défend la fin de la médecine libérale à terme — salariat, forfait indépendant du volume d'actes, interdiction des dépassements d'honoraires, [[100 pour cent Securite Sociale]].
+
+**Sur le [[Secteur 2]]** : S'y oppose fermement. "Interdire les dépassements d'honoraires, c'est ce qu'il faudrait faire purement et simplement."
+
+**Sur le [[Conseil de l'Ordre des Medecins]]** : A reçu plus de 100 signalements pour ses positions sur la Palestine. Dénonce l'usage de la [[Confraternite medicale]] pour censurer les voix dissidentes et protéger les agresseurs.
+
+**Sur les VSS en médecine** : Documente l'ampleur (1/5 femmes étudiantes en médecine agressées, 1/30 violées), dénonce la normalisation via les traditions carabines, l'impunité structurelle, le cas [[Nicolas W]].
+
+**Évolution visible** : Entre 2024 (ton analytique, précautions juridiques fréquentes) et 2025 (radicalisation politique explicite, appel à la "ligue de médecins communistes", vision de la fin de la médecine libérale comme projet de gauche).
+
+## Vidéos médicales clés
+
+- [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — MeToo médecine, cas Nicolas W
+- [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — démystification des rémunérations
+- [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — analyse des rentabilités excessives
+- [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — grève de droite des internes
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée
+- [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en médecine
+- [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — solution de gauche
 
 ## Témoignage personnel sur les VSS
 
