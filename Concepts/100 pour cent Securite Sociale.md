@@ -50,7 +50,10 @@ Le 100% Sécu seul ne résout pas la [[Tarification a l acte|tarification à l'a
 
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — présentation centrale, calcul des économies, frais de gestion
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — contexte du financement privatisé de la santé
+- [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage du mythe du déficit, calcul 5,6 milliards
+- [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — comparaison : 5,4 milliards (rapport HCAAM scénario 3) vs 1,7 milliards de mesures Brégeon
 
 [^1]: [29:20](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1760) — "supprimer les complémentaires, prendre l'argent cotisé au complémentaire pour le passer à la sécurité sociale nous fait économiser immédiatement 5,4 milliards d'euros par an"
 [^2]: [30:52](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1852) — "chez AXA quand vous cotisez 100 € il y a 22 € qui partent dans les frais de gestion... 3 € d'un côté 22 € de l'autre c'est 7 fois plus cher"
 [^3]: [29:20](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1760) — "supprimer les complémentaires, prendre l'argent cotisé au complémentaire pour le passer à la sécurité sociale nous fait économiser immédiatement 5,4 milliards d'euros par an"
+[^4]: [20:09](https://www.youtube.com/watch?v=jtDb2meKMn8&t=1209) — "supprimer les complémentaires santé... nous fait économiser immédiatement 5,6 milliards d'euros" (calcul légèrement différent, même ordre de grandeur)
