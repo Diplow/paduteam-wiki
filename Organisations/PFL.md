@@ -12,10 +12,10 @@ skill_version: ingest-batch-2026-04-13
 # PFL — Professional Fighters League
 
 ## Profil synthétique
-Organisation américaine de MMA (Mixed Martial Arts). Organisatrice d'événements sportifs à grande audience, dont une soirée en France devant 20 000 personnes lors de laquelle [[Baki]] vainc [[Cedric Dumbe|Cédric Dumbé]]. La PaduTeam l'analyse comme une institution qui empêche un sportif vainqueur de porter un message pro-Palestine.
+Organisation américaine de MMA (Mixed Martial Arts). Organisatrice d'événements sportifs à grande audience, dont une soirée en France devant 20 000 personnes lors de laquelle [[Baki]] vainc [[Cedric Doumbe|Cédric Doumbè]]. La PaduTeam l'analyse comme une institution qui empêche un sportif vainqueur de porter un message pro-Palestine.
 
 ## Analyse PaduTeam
-L'incident : après la victoire de [[Baki]], le staff PFL lui refuse physiquement le micro alors qu'il est le vainqueur du combat et a contractuellement le droit au dernier mot. Baki voulait parler de la famine à Gaza. Le staff PFL donne simplement la fin de l'interview à [[Cedric Dumbe|Cédric Dumbé]], l'adversaire battu.
+L'incident : après la victoire de [[Baki]], le staff PFL lui refuse physiquement le micro alors qu'il est le vainqueur du combat et a contractuellement le droit au dernier mot. Baki voulait parler de la famine à Gaza. Le staff PFL donne simplement la fin de l'interview à [[Cedric Doumbe|Cédric Doumbè]], l'adversaire battu.
 
 Padu analyse cette censure comme symptomatique d'organisations sportives commerciales qui préservent leur image auprès de leur audience et de leurs sponsors en évitant toute prise de position politique — y compris quand cette position est "les enfants meurent de faim à Gaza."
 
