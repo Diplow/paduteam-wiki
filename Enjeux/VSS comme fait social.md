@@ -84,6 +84,45 @@ La PaduTeam affirme que les VSS existent aussi dans les organisations de gauche 
 
 Position PaduTeam : "On va pas vous lâcher la peau du cul. C'est une lutte qui se passe avec nos propres camarades."
 
+## VSS en milieu médical — MeToo Médecine
+
+Le milieu médical est un cas d'école de la normalisation des VSS au sein d'une institution corporatiste. [[Dr Zoe]] documente l'ampleur et les mécanismes spécifiques de ce milieu.
+
+### Ampleur
+
+- 1 femme étudiante en médecine sur 5 agressée sexuellement (enquête ANEMF)
+- 1 femme étudiante en médecine sur 30 violée[^anemf]
+- VSS intégrées aux traditions carabines : weekends d'intégration à contenu sexuel, salles omnium aux murs ornés de photos pornographiques, rites d'humiliation à connotation sexuelle
+
+### Structure hiérarchique comme condition de l'impunité
+
+La hiérarchie hospitalière est genrée et raciale : médecins (souvent hommes, souvent bourgeois) dominent infirmières (femmes, classe moyenne) qui dominent aides-soignantes (femmes, milieu populaire) qui dominent agents de nettoyage (femmes, souvent immigrées). Les agresseurs choisissent les personnes avec moins de pouvoir et de légitimité à porter plainte.
+
+### Cas Nicolas W
+
+Externe en médecine à Limoges, condamné pour 5 agressions sexuelles dont un viol (correctionnalisé), multirécidiviste, fils de deux médecins réputés. Autorisé à continuer ses études et passer le concours d'internat → accéder au corps des patients dans un contexte de rapport de domination structurel médecin/patient.[^nicolasw]
+
+Transfert de faculté (Tours → Limoges) qui rappelle le transfert de prêtres pédophiles. La trajectoire révèle la protection institutionnelle.
+
+### Le Conseil de l'Ordre comme instrument de protection des agresseurs
+
+Paradoxe structurel : il est plus risqué de **dénoncer** un confrère agresseur (non-respect de la "confraternité") que d'**être** un agresseur.[^ordrevsagresseur] La [[Confraternite medicale]] fonctionne comme code du silence corporatiste.
+
+"Il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre." ([[Dr Zoe]], dans [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]])
+
+### Solution politique
+
+Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD'HUI TON VILEUR) pour demander l'interdiction d'exercice pour les personnes inscrites au fichier des délinquants sexuels dans les métiers liés à un public vulnérable. Interpellation directe de la corporation et des institutions.
+
+[^anemf]: [21:20](https://www.youtube.com/watch?v=xrGePx2JwbM&t=1280) — "il y a une femme sur 5 qui a été agressée sexuellement dans le milieu étudiant et il y a une femme sur 30 qui a subi un viol" (Dr Zoé, enquête ANEMF)
+[^nicolasw]: [6:47](https://www.youtube.com/watch?v=xrGePx2JwbM&t=407) — "elle se réveille avec cette personne au-dessus d'elle qui est en train de la pénétrer" (Dr Zoé, cas Nicolas W)
+[^ordrevsagresseur]: [28:34](https://www.youtube.com/watch?v=xrGePx2JwbM&t=1714) — "actuellement encore aujourd'hui il est beaucoup plus facile de faire condamner un confrère pour non respect de la confraternité parce qu'il a dénoncé les agissements d'un médecin agresseur"
+
+### Vidéos sur les VSS en médecine
+
+- [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — affaire Nicolas W, MeToo Médecine, mécanismes d'impunité
+- [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la confraternité comme bouclier
+
 ## Adversaires identifiés
 
 - [[Thais d'Escufon]] — "90% des accusations de viol sont fausses"

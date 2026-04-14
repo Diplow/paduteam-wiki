@@ -15,37 +15,37 @@ Deux sous-batches naturels autour de Zoé et Padu. Angle : le système de santé
 
 ### Batch SANTÉ-A — Corpo médicale & MeToo médecine
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/sante-corpo-medicale`
 
-- [ ] AUJOURD'HUI TON VILEUR, DEMAIN TON DOCTEUR (avec Dr Zoé) #metoomedecine
-- [ ] 17 700€/MOIS MAIS PRIS À LA GORGE : les RADIOLOGUES font GRÈVE !!
-- [ ] Les MÉDECINS MENTENT-ILS sur leurs RÉMUNÉRATIONS (avec Dr Zoé)
-- [ ] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES (Dr Zoé x Padu)
-- [ ] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP CONS (selon Chris, pas Zoé hein)
-- [ ] LÉAUMENT EN SUEUR CONTRE LA CORPO MÉDICALE : ZOÉ LE COACH
-- [ ] LFI envoie les MÉDECINS aux CHAMPS ! (Dr Zoé X Padu)
+- [x] AUJOURD'HUI TON VILEUR, DEMAIN TON DOCTEUR (avec Dr Zoé) #metoomedecine
+- [x] 17 700€/MOIS MAIS PRIS À LA GORGE : les RADIOLOGUES font GRÈVE !!
+- [x] Les MÉDECINS MENTENT-ILS sur leurs RÉMUNÉRATIONS (avec Dr Zoé)
+- [x] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES (Dr Zoé x Padu)
+- [x] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP CONS (selon Chris, pas Zoé hein)
+- [x] LÉAUMENT EN SUEUR CONTRE LA CORPO MÉDICALE : ZOÉ LE COACH
+- [x] LFI envoie les MÉDECINS aux CHAMPS ! (Dr Zoé X Padu)
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : Enjeux/Corpo medicale, Concepts/Penurie de medecins, Concepts/Tarification a l acte, Concepts/Secteur 2, Concepts/Confraternite medicale, Concepts/100 pour cent Securite Sociale, Individus/Vie de Carabin, Individus/Nicolas W, Individus/Sandrine Runel, Organisations/Fondation Medecins de France, Organisations/Syndicat de la Medecine Generale, Organisations/Assurance Maladie, 7 fiches Videos
+**Fiches enrichies** : Enjeux/VSS comme fait social, Individus/Dr Zoe, Individus/Antoine Leaument, Organisations/Conseil de l'Ordre des Medecins
 
 ---
 
 ### Batch SANTÉ-B — Attaques contre la Sécu & retraites
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/sante-secu-retraites`
 
-- [ ] MACRON NOUS MENT POUR TUER LA SÉCU (Dr Zoé X Chris)
-- [ ] BARNIER, HANOUNA, MARION MARÉCHAL : ILS MENTENT SUR L'AME POUR ATTAQUER LA SÉCU (X Dr Zoé)
-- [ ] NAULLEAU et HANOUNA CONTRE la SÉCU et POUR la RETRAITE À 70 ANS !!
-- [ ] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
-- [ ] La MASTERCLASS du CAMARADE SARKOZY sur les RETRAITES !
-- [ ] NATHALIE SAINT-CRICQ nous parle de la SÉCU : c'est CATASTROPHIQUE !
-- [ ] ALLIANCE PS-MACRONISTE-LR : LES ASSASSINS DE LA SANTÉ
+- [x] MACRON NOUS MENT POUR TUER LA SÉCU (Dr Zoé X Chris)
+- [x] BARNIER, HANOUNA, MARION MARÉCHAL : ILS MENTENT SUR L'AME POUR ATTAQUER LA SÉCU (X Dr Zoé)
+- [x] NAULLEAU et HANOUNA CONTRE la SÉCU et POUR la RETRAITE À 70 ANS !!
+- [x] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
+- [x] La MASTERCLASS du CAMARADE SARKOZY sur les RETRAITES !
+- [x] NATHALIE SAINT-CRICQ nous parle de la SÉCU : c'est CATASTROPHIQUE !
+- [x] ALLIANCE PS-MACRONISTE-LR : LES ASSASSINS DE LA SANTÉ
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : Enjeux/Defense de la Securite Sociale, Concepts/Mythe du deficit de la Secu, Concepts/AME, Concepts/Jours de carence, Concepts/Tarification a l acte, Concepts/Logique penuriste, Concepts/Determinants sociaux de sante, Individus/Eric Naulleau, Individus/Nathalie Saint-Cricq, Individus/Maud Bregeon, Individus/Sebastien Le Cornu, Individus/Sylvain Maillard, Individus/Amelie Oudea-Castera, 7 fiches Videos
+**Fiches enrichies** : Concepts/100 pour cent Securite Sociale, Individus/Cyril Hanouna, Individus/Louis Sarkozy, Individus/Michel Barnier
 
 ---
 
