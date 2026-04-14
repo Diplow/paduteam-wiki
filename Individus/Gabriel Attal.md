@@ -1,7 +1,7 @@
 ---
 type: individu
-domaine: []
-thèmes: []
+domaine: [politique-intérieure, géopolitique]
+thèmes: [anti-impérialisme]
 date created: Monday, March 30th 2026, 3:01:57 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
 ---
@@ -28,6 +28,11 @@ Ancien Premier ministre, figure opportuniste de la politique française. Tente d
 
 Chris identifie Attal comme "le post-macronisme de gauche" (vs [[Edouard Philippe]] "post-macronisme de droite"). Mais il n'a "aucun espace" : entre le libéralisme non-extrême de Philippe et le PS libéral de [[Francois Hollande|Hollande]]/[[Boris Vallaud|Vallaud]], il n'y a rien. "C'est pour ça qu'Attal est donné à 6-8%." Ses options : s'imposer (improbable), rallier le RN (suicidaire), ou se désister pour Philippe. "Les mecs ont fait sécession avec [LR] en faisant un bureau exceptionnel", impossible de revenir en arrière.
 
+## Attal et le Venezuela — "trumpiste pur"
+
+Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Attal est identifié par la PaduTeam comme "trumpiste pur" dans la hiérarchie des positions françaises : il soutient directement l'opération américaine, sans les hésitations ni les contorsions de [[Emmanuel Macron]] ("trumpiste honteux"). C'est la posture atlantiste assumée : agression américaine = légitime défense contre une "dictature". Pour la PaduTeam dans [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]], cette position révèle que le macronisme "de gauche" se retrouve, face à un test géopolitique réel, du côté de l'impérialisme le plus direct.
+
 ## Vidéos
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 11% par [[Odoxa]] (contre 26% pour Macron en 2022). Ses électeurs sont identifiés comme les plus anti-Mélenchon du panel : seulement 1% se reporteraient sur Mélenchon au 2nd tour (vs 43% des électeurs Ensemble qui avaient voté LFI face au RN aux législatives 2024). Incarnation du vote "dépolitisé mais votant" qui biaise les sondages
 - [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Identifié comme "post-macronisme de gauche" sans espace électoral entre Philippe et le PS
+- [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — "Trumpiste pur" face à l'enlèvement de Maduro ; positionnement le plus atlantiste du spectre politique français.

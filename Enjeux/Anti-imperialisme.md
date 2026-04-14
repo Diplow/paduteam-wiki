@@ -1,11 +1,10 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [anti-impérialisme, Venezuela, Palestine]
-date created: Wednesday, April 1st 2026, 10:47:20 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine]
+skill_version: ingest-batch-2026-04-14
 ---
-#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine
+#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine
 # Anti-impérialisme
 
 ## Position PaduTeam
@@ -44,9 +43,110 @@ Le corpus Gaza (2024-2026) confirme que l'impérialisme américain est structure
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Platformage d'un inculpé CPI par la télévision publique, contraste avec Spain/Ireland/Norway
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — La reconnaissance tardive comme théâtre bourgeois impérialiste
 
+## L'Iran comme cas d'école anti-impérialiste
+
+L'Iran est, avec Cuba, le pays qui illustre le mieux la mécanique impérialiste sur la durée. La PaduTeam y consacre quatre vidéos couvrant juin 2025 à mars 2026.
+
+**L'histoire longue (depuis Mossadegh)** : En 1953, le Premier ministre [[Mohammed Mossadegh]], élu démocratiquement, nationalise le pétrole iranien. La CIA organise un coup d'État (opération Ajax) et remet le [[Shah d'Iran]] au pouvoir — dictature proaméricaine jusqu'en 1979. La révolution islamique de [[Rouhollah Khomeini]] renverse le Shah avec une alliance communistes-islamistes. La [[Guerre Iran-Irak]] (1980-1988), déclenchée par [[Saddam Hussein]] avec l'appui US, solidifie le nationalisme anti-impérialiste iranien au lieu de le briser.
+
+**Le blocus comme arme** : Depuis 1979, l'embargo US asphyxie l'économie iranienne — inflation à 200%, dévaluation du rial, coupures d'électricité. Ce n'est pas la répression interne qui crée la misère populaire, c'est le blocus occidental. La position PaduTeam est claire : la première ligne anti-impérialiste depuis le centre est **arrêter les sanctions contre l'Iran**[^iran1].
+
+**La propagande de guerre** : Chaque crise en Iran donne lieu à la même séquence impérialiste. Les manifestations (2009, 2022, début 2026) sont instrumentalisées par une diaspora pro-Shah en exil qui n'a aucune base dans la population iranienne. Les mêmes associations (Femmes Azadi, liée au fils du Shah) défilent à Paris avec des drapeaux israéliens. Le [[Fémonationalisme]] sert à légitimer l'agenda impérialiste au nom des droits des femmes[^iran2].
+
+**La guerre de février-mars 2026** : Le 27 février 2026, les États-Unis et Israël frappent l'Iran et tuent [[Ali Khamenei]], guide suprême. [[Donald Trump]] déclare la guerre sans vote du Congrès. [[Emmanuel Macron]] fait de même sans vote du Parlement. La vraie raison : faire remonter le [[Pétrodollar]] à 100$ le baril pour sauver l'économie trumpiste en crise[^iran3].
+
+**L'Iran tient** : L'Iran s'y préparait depuis 30 ans. La [[Défense mosaïque décentralisée]] rend l'armée opérationnelle sans ses têtes. Les missiles iraniens à 50 000$ neutralisent les intercepteurs US à plusieurs centaines de milliers d'euros. Après 10 jours, Trump recule. [[Mojtaba Khamenei]], fils d'Ali, est nommé nouveau guide suprême — trolling géopolitique assumé[^iran4].
+
+**L'isolement de Trump** : L'Arabie Saoudite, les Émirats et le Golf se distancient. Pedro Sanchez s'oppose seul en Europe. La décision des Iraniens de nommer le fils de Khamenei montre qu'ils "s'en battent les couilles des conseils des impérialistes sur qui doit être le chef suprême religieux de leur pays."
+
+## LFI face à la propagande de guerre
+
+Ce corpus révèle une fracture au sein de LFI sur la ligne anti-impérialiste :
+- **[[Thomas Portes]]** publie un Instagram qualifiant Khamenei de "dictateur sanguinaire" le lendemain de sa mort — relayant mot pour mot la propagande trumpiste. "Motif de sanction" pour la PaduTeam[^lfi1].
+- **[[Manon Aubry]]** (LFI) : "ni Mola ni Shah ni USA" — position "ni-niste" qui, depuis le centre impérialiste, sert objectivement l'agenda US.
+- **[[Jean-Luc Melenchon]]** : "plutôt sobre" mais reste dans une logique de critique du régime.
+La PaduTeam ne demande pas d'approuver la République islamique — elle demande de ne pas fournir des "armes de propagande de guerre au pays le plus fasciste de la planète."
+
+## Concepts associés (mis à jour)
+[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]]
+
+## Le Venezuela : Doctrine Monroe 2.0
+
+L'enlèvement de [[Nicolas Maduro]] (janvier 2026) est le cas le plus spectaculaire de la période. Il révèle les mécaniques de la [[Doctrine Monroe 2.0]] : intervention militaire directe pour contrôler les prix du pétrole, vassalisation des partenaires européens, et guerre psychologique contre les résistances.
+
+**Le pétrole comme clé** : les États-Unis bombardent Caracas pour sécuriser l'accès au pétrole vénézuélien — les plus grandes réserves conventionnelles au monde. Le schiste américain est en crise (baisse de production de 30-40 %, prix du baril trop bas pour être rentable). Trump avait retiré la licence Chevron en février 2026 pour revenir dessus quelques mois plus tard — preuve que le Venezuela a la main sur la négociation.
+
+**La victoire bolivarienne sur le pétrole** : quand les États-Unis sont obligés d'acheter du pétrole vénézuélien aux conditions de [[Delcy Rodriguez]], c'est le Venezuela qui gagne — pas l'inverse. La PaduTeam insiste : vouloir vendre son pétrole au prix du marché à qui veut l'acheter n'est pas une "concession" à l'impérialisme, c'est la revendication que l'empire combat depuis 25 ans.
+
+**La continuité chaviste** : Chavez → Maduro → Rodriguez. Les "trahisons" dénoncées par les trotskistes sont en réalité la même politique de souveraineté pétrolière. La photo Rodriguez-CIA sert avant tout la propagande de Trump ("j'ai gagné"), pas la preuve d'une reddition.
+
+**Les relais politiques** : [[Raphaël Glucksmann]] qualifié d'"agent américain" pour son tweet "pas une larme pour Maduro" au moment du bombardement. [[Emmanuel Macron]] "serpillère de l'impérialisme" pour avoir félicité [[Maria Corina Machado]] (3 % de soutien populaire, appels à l'intervention US, programme de privatisation de PDVSA). [[Gabriel Attal]] encore plus à droite que Le Pen sur ce sujet. [[Jean-Luc Melenchon]] salué pour avoir tenu une ligne anti-impérialiste de principe sans condamner Maduro.
+
+**Le ni-nisme trotskiste** : [[Anasse Kazib]] (Révolution Permanente) dénonce Maduro comme "dictateur 100% anti-ouvrier" le jour de son kidnapping. Pour la PaduTeam, c'est une "honte" : au moment précis où l'impérialisme fasciste agit, alimenter sa propagande avec des éléments de langage identiques à ceux de Glucksmann, c'est se placer objectivement du même côté. Le peuple vénézuélien lui-même manifestait pour le retour de Maduro — ce qui invalide empiriquement la thèse du "dictateur antipopulaire".
+
+**Les fact-checkers comme guerre psychologique** : les fact-checkers des grands médias se concentrent sur la désinformation supposée de la Russie et de la Chine, pas sur les mensonges américains (narcoterrorisme de Maduro, étiquette dictateur sans définition). Ils pointent du doigt la Chine — qui n'a rien fait dans cette affaire — et ignorent que l'amplificateur de désinformation le plus puissant en Europe est américain (X d'Elon Musk, Netflix, etc.).
+
+## L'étiquette "dictateur" comme arme impérialiste
+
+La demande "est-ce que Maduro est un dictateur ?" est structurellement identique à la demande "est-ce que vous condamnez le Hamas ?" après le 7 octobre. Elle n'est pas une question factuelle — c'est un dispositif de neutralisation : forcer l'anti-impérialiste à d'abord valider le récit de l'empire avant de pouvoir parler de l'agression. Refuser ce cadrage n'est pas "soutenir les dictateurs" — c'est refuser que le centre impérialiste soit l'arbitre de qui mérite d'être renversé.
+
+Le concept de [[Dictature post-revolutionnaire]] (Lucien Goldman) permet d'être plus précis : un régime post-révolutionnaire qui doit gérer la pression extérieure impérialiste a des logiques de verrouillage internes qui n'ont rien à voir avec la dictature réactionnaire bourgeoise. La comparer à Hitler, Pinochet ou Kim Jong-un est une escroquerie intellectuelle.
+
+## Concepts associés (mis à jour)
+[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]], [[Communalisme bolivarien]]
+
+## L'Ukraine : guerre impérialiste sans camp progressiste
+
+Le cas ukrainien est le plus complexe du corpus anti-impérialiste PaduTeam — et celui qui génère le plus de divisions à gauche. La position est tranchée mais nuancée : **l'Ukraine n'est pas un camp à soutenir, c'est une guerre à arrêter.**
+
+**L'impérialisme est unique.** Il n'y a qu'un seul impérialisme, celui du capitalisme mondial. Poutine est un nationaliste réactionnaire expansionniste, mais il est subalterne dans ce système — pas une puissance anti-impérialiste. L'OTAN, en revanche, est le bras armé de l'impérialisme capitaliste. Ni Poutine ni l'OTAN ne défend des intérêts de classe progressistes. Il n'y a pas de camp à soutenir dans cette guerre — il y a un cessez-le-feu à exiger[^ukr1].
+
+**La genèse : Ukraine depuis 2014.** Le coup d'État de Maïdan (2014) est une intervention impérialiste qui a renversé un gouvernement élu. Le massacre d'Odessa (2 mai 2014) — 48 syndicalistes de gauche et communistes brûlés vifs dans la Maison des syndicats par des nationalistes ukrainiens — est le moment fondateur de la guerre civile dans le Donbass. Cette histoire longue est systématiquement effacée par la propagande atlantiste qui "commence" la guerre en 2022[^ukr2].
+
+**Envoyer des armes = allonger la boucherie.** L'Ukraine ne peut pas gagner dans cette configuration — elle manque d'hommes, le front s'enlise depuis 3 ans, la Russie peut tenir beaucoup plus longtemps. Livrer des armes ne résout pas le problème militaire de fond, ça prolonge le massacre des soldats ukrainiens (et russes) au profit de l'industrie de l'armement et de la stratégie OTAN d'affaiblissement de la Russie[^ukr3].
+
+**Le tournant Trump (mars 2026).** Quand Trump suspend le soutien militaire à l'Ukraine et humilie Zelenski à la Maison Blanche, le diagnostic PaduTeam est confirmé : les États-Unis ne soutiennent pas l'Ukraine par amour de la démocratie, mais pour affaiblir la Russie. Trump veut la paix en Ukraine pour libérer ses ressources politiques et militaires pour la guerre commerciale contre la Chine. Deux options s'ouvrent pour l'Ukraine : la finlandisation (neutralité comme garantie de sécurité) ou une partition de fait (ligne de front comme frontière). La gauche doit soutenir ces options contre ceux qui veulent "continuer la guerre jusqu'à la victoire"[^ukr4].
+
+**Zelenski comme proxy.** Zelenski a interdit les partis de gauche et les syndicats en Ukraine, suspendu les élections (son mandat est expiré), accepté d'envoyer des hommes à la mort pour les intérêts géopolitiques de l'OTAN. Ce n'est pas un démocrate attaqué par un autocrate — c'est un proxy dans un conflit entre grandes puissances. La défense des "droits démocratiques" ukrainiens comme argument pour envoyer des armes est la même rhétorique que "la démocratie" pour justifier l'invasion de l'Irak[^ukr5].
+
+**L'accord UE-USA (août 2026) comme dénouement économique.** Von der Leyen signe un accord avec Trump : 15% de droits de douane (contre 20% menaçants), 750 milliards d'euros d'énergie américaine achetée sur 3 ans, 600 milliards d'investissements en USA. L'accord enterre Nordstream (dont les USA ont organisé le sabotage) et force l'Europe à acheter du gaz américain deux fois plus cher. L'UE n'est pas une puissance politique — c'est un marché soumis. La guerre en Ukraine aura servi à organiser la vassalisation énergétique de l'Europe[^ukr6].
+
+## Concepts associés (mis à jour — Ukraine)
+[[Bellicisme social-democrate]], [[Camp de la paix]], [[Union sacree]], [[Propagande de guerre]], [[Vassalisation de la France]], [[Finlandisation]]
+
+## Vidéos clés (suite — corpus Ukraine 2025-2026)
+
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première réaction au bellicisme d'Usul : service militaire, trajectoire trotskiste-atlantiste
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse complète : Maïdan, Odessa, impérialisme unique, pacifisme marxiste comme honneur de la tradition communiste
+- [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — Bellicisme institutionnel, militarisation de l'enseignement, NPA belliciste, union sacrée 2.0
+- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Tournant Trump, deux scénarios (finlandisation/partition), Chris analyse la géopolitique complète
+- [[ACCORD TRUMP VON DER LEYEN SOUMET L UE AUX USA]] — La vassalisation énergétique de l'Europe comme dénouement de la guerre ukrainienne
+
 ## Vidéos clés
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
+- [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Première réaction à l'agression : Doctrine Monroe 2.0, pétrole, comparaison Iran/Ukraine, Glucksmann "agent américain"
+- [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — Macron au-dessous de Le Pen, Attal belliciste, Mélenchon anti-impérialiste de principe
+- [[VENEZUELA COMPLOTISME FACHECKERS]] — Déconstruction des fact-checkers comme propagande de guerre, Goldman sur le concept de "dictature"
+- [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]] — Le dispositif "condamnez-vous Maduro" comme équivalent du "condamnez-vous le Hamas"
+- [[ANASSE KAZIB ATOMISE MADURO]] — Critique frontale du trotskisme occidental comme complicité objective de l'impérialisme
+- [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]] — Continuité Rodriguez/Maduro sur le pétrole, Samir Amine, victoire bolivarienne sur les conditions de vente
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — L'anti-impérialisme à travers le prisme de la lutte palestinienne et de la crise de l'hégémonie américaine
-- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente, destruction des classes populaires au profit d'une élite pro-occidentale, "démocratie" = marché
-- [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US ; la réponse anti-impérialiste concrète : commercer avec la Chine, sortir du dollar, construire un ordre mondial alternatif
-- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US : émancipation du dollar, diversification, riposte symétrique
+- [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Cadre historique complet (Mossadegh, révolution de 79, guerre Iran-Irak)
+- [[L'IRAN L'EMPIRE LES IRANIENS]] — Décryptage des manifestations début 2026, propagande impérialiste, fémonationalisme
+- [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore
+- [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule
+
+[^ukr1]: [25:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=1500) — "Il y a qu'un seul impérialisme. C'est l'impérialisme capitaliste. Poutine c'est quoi ? C'est un régime nationaliste expansionniste subalterne."
+[^ukr2]: [10:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=600) — Contexte Odessa 2014 et Maïdan comme toile de fond de la guerre — effacés par le récit atlantiste qui "commence" en 2022.
+[^ukr3]: [31:41](https://www.youtube.com/watch?v=sgNt9HCQrTU&t=1901) — "L'Ukraine ne peut pas gagner... elle manque d'hommes, le front s'enlise... quand on est de gauche, on est pour la paix."
+[^ukr4]: [20:00](https://www.youtube.com/watch?v=sgNt9HCQrTU&t=1200) — Deux options : finlandisation (neutralité) ou partition de fait. Trump veut la paix pour concentrer les ressources sur la guerre commerciale contre la Chine.
+[^ukr5]: [35:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=2100) — Zelenski a interdit syndicats et partis de gauche, son mandat est expiré — "ce n'est pas un défenseur de la démocratie."
+[^ukr6]: [5:00](https://www.youtube.com/watch?v=S5wMhwDNpy4&t=300) — Accord UE-USA : 750 Md€ énergie américaine, 600 Md$ investissements. "L'UE est un marché soumis, pas une puissance politique."
+[^iran1]: [17:03](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1023) — "peu importe sur quel échiquier vous êtes, les sanctions sont une violence impérialiste qui doit être supprimée"
+[^iran2]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — Alice Cordier (Némésis) à la manif pro-Shah avec drapeaux israéliens : "on est en train d'assister au fémonationalisme"
+[^iran3]: [35:21](https://www.youtube.com/watch?v=yPJKov273gs&t=2121) — Chris : "dès que ça commence à atteindre les 60 dollars, c'est-à-dire la rentabilité du gaz de schiste américain... il y a une intervention"
+[^iran4]: [0:00](https://www.youtube.com/watch?v=ZkNLJ6DzTTM&t=0) — "Ils s'en battent les couilles les Iraniens des conseils des impérialistes sur qui doit être le chef suprême religieux de leur pays"
+[^lfi1]: [21:15](https://www.youtube.com/watch?v=yPJKov273gs&t=1275) — "La réaction de Thomas Portes est absolument honteuse [...] c'est motif de sanction"

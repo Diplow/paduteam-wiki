@@ -14,14 +14,14 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 Théoricien socialiste et anarchiste français (1809-1865), fondateur du mutuellisme. Figures tutélaire d'un socialisme petit-bourgeois, anti-étatiste et anti-marxiste.
 
 ## Analyse PaduTeam
-Padu utilise Proudhon comme catégorie d'analyse pour qualifier [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] : un "proudonien non assumé." La filiation intellectuelle de Soral (ni tout socialiste ni tout libéral, défense des petits propriétaires, méfiance envers la planification totale) est proudonienne, pas marxiste. Soral "devrait assumer son proudonisme et actualiser Proudhon" plutôt que de prétendre lire Marx.
+Padu utilise Proudhon comme catégorie d'analyse pour qualifier [[Alain Soral]] : un "proudonien non assumé." La filiation intellectuelle de Soral (ni tout socialiste ni tout libéral, défense des petits propriétaires, méfiance envers la planification totale) est proudonienne, pas marxiste. Soral "devrait assumer son proudonisme et actualiser Proudhon" plutôt que de prétendre lire Marx.
 
 Padu nuance : à l'époque de Proudhon, cette position pouvait contenir un caractère révolutionnaire potentiel (il était tenté par sa "Banque du peuple"). Mais ce "révolutionnaire" contenait déjà des "caractères conservateurs réactionnaires, presque antihistoriques." Aujourd'hui, il n'y a plus aucun potentiel révolutionnaire dans le proudonisme — c'est structurellement réactionnaire.
 
-Le cercle Proudhon, dont se réclame un proche de Soral, symbolise cette filiation : un courant anarco-petit-bourgeois qui peut glisser facilement vers la droite réactionnaire.
+Le cercle Proudhon, dont se réclame un proche de Soral, symbolise cette filiation : un courant anarcho-petit-bourgeois qui peut glisser facilement vers la droite réactionnaire.
 
 ## Relations
-- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — sa vraie filiation intellectuelle selon Padu
+- [[Alain Soral]] — sa vraie filiation intellectuelle selon Padu
 - [[Petite bourgeoisie]] — la position de classe que le proudonisme représente
 
 ## Vidéos où Proudhon est cité

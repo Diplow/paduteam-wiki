@@ -1,11 +1,12 @@
 ---
 type: concept
-domaine: [géopolitique]
-thèmes: [anti-impérialisme, États-Unis]
+domaine: [géopolitique, politique-intérieure]
+thèmes: [anti-impérialisme, États-Unis, guerre-des-gauches, Ukraine]
 date created: Wednesday, April 1st 2026, 10:44:50 pm
 date modified: Sunday, April 12th 2026, 5:46:48 pm
+skill_version: ingest-batch-2026-04-14
 ---
-#domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis
+#domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/États-Unis #thème/guerre-des-gauches #thème/Ukraine
 
 # Atlantisme
 
@@ -28,8 +29,18 @@ Macron a compris avant Bardella qu'il fallait pivoter : aller chercher la Chine,
 - CNews en déferlement pro-américain, en larmes après le discours de Macron à Davos
 - Goldnadel furieux que la France ne reste pas derrière Trump (= derrière Israël)
 
+## L'atlantisme de la gauche sociale-démocrate
+
+Le corpus Ukraine (2025-2026) révèle une **forme gauche de l'atlantisme** distincte de l'atlantisme de droite : [[Raphaël Glucksmann]] et une partie de la gauche radicale (Usul, NPA) arrivent à la même position que l'OTAN par un chemin différent.
+
+L'atlantisme de droite est structurel — adhésion idéologique à la puissance américaine comme modèle. L'atlantisme social-démocrate est **moral** : Poutine est le mal absolu, donc soutenir l'OTAN contre Poutine devient une obligation éthique. Le résultat est identique — livrer des armes, financer la guerre, envoyer potentiellement des soldats — mais la justification est différente (liberté/démocratie vs intérêts économiques US).
+
+La PaduTeam est particulièrement sévère avec cet atlantisme de gauche : il est plus dangereux que l'atlantisme assumé de Bardella, parce qu'il détourne une partie des classes populaires de leur intérêt réel (la paix) en utilisant le vocabulaire progressiste (résistance, démocratie, solidarité). C'est une **contamination** — Usul "a de l'urine de CIA dans le cerveau" sans le savoir.
+
 ## Concepts associés
-[[Vassalisation de la France]], [[Crise de l'hegemonie americaine]], [[Campisme]], [[Anti-imperialisme]]
+[[Vassalisation de la France]], [[Crise de l'hegemonie americaine]], [[Campisme]], [[Anti-imperialisme]], [[Bellicisme social-democrate]], [[Camp de la paix]]
 
 ## Vidéos où le concept est développé
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — analyse de l'atlantisme structurel de l'extrême droite
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — la forme gauche de l'atlantisme : Glucksmann, Usul, NPA
+- [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — convergence belliciste droite-gauche comme atlantisme diffus
