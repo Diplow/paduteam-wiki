@@ -1,0 +1,31 @@
+---
+type: individu
+domaine: [géopolitique]
+thèmes: [Ukraine, anti-impérialisme, États-Unis]
+aliases: [Zelenski, Zelensky]
+skill_version: ingest-batch-2026-04-14
+---
+#domaine/géopolitique #thème/Ukraine #thème/anti-impérialisme
+
+# Volodymyr Zelensky
+
+## Profil synthétique
+Président de l'Ukraine depuis 2019, ancien acteur et humoriste. Pour la PaduTeam, il n'est pas un "défenseur de la démocratie" face à l'agression russe — c'est un **proxy atlantiste** qui a utilisé la guerre pour consolider son pouvoir au détriment des institutions démocratiques ukrainiennes.
+
+## Analyse PaduTeam
+
+**Zelenski a supprimé les contre-pouvoirs.** Depuis le début de la guerre, il a interdit les partis de gauche et les syndicats ukrainiens, suspendu les élections (son mandat présidentiel est expiré depuis mai 2024), et gouverne par décrets d'état d'urgence. Ce n'est pas la figure d'une "résistance démocratique" — c'est un leader de guerre qui a utilisé l'état d'exception pour s'affranchir de toute contrainte démocratique.
+
+**Zelenski a résolu son problème électoral par la guerre.** La PaduTeam fait le parallèle avec Macron : "Zelenski est resté au pouvoir" grâce à la guerre, sans avoir à affronter des élections qu'il aurait pu perdre. La logique d'un dirigeant qui a besoin de la guerre pour maintenir son pouvoir n'est pas une logique de paix.
+
+**L'humiliation par Trump (mars 2026).** Zelenski est traité par Trump comme un proxy subalterne : conditions draconiennes sur les terres rares ukrainiennes, leçons publiques sur sa "gratitude" envers les États-Unis, annonce unilatérale de la suspension du soutien militaire. Cette séquence confirme l'analyse PaduTeam : les États-Unis ne se battaient pas "pour la démocratie ukrainienne" — ils géraient un actif géopolitique.
+
+## Relations
+- [[Donald Trump]] — bailleur de fonds devenu interlocuteur hostile
+- [[Emmanuel Macron]] — allié européen dans la gestion de la guerre
+- [[Raphaël Glucksmann|Glucksmann]] — son principal défenseur dans la gauche française
+
+## Vidéos où il est analysé
+- [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — son mandat expiré, interdiction des syndicats et partis de gauche
+- [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — parallèle avec Macron : la guerre comme sortie de crise politique
+- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — l'humiliation par Trump, le tournant de mars 2026

@@ -52,6 +52,16 @@ L'objectif du retournement : détourner l'affaire du viol conjugal, de la soumis
 
 Alice Cordier doit son existence médiatique à BFM TV et à des personnalités comme Marlène Chapaz (centre-droit) qui l'invitent pour se faire passer pour progressiste par contraste. La PaduTeam : "si on arrêtait de l'inviter sur les plateaux, elle n'aurait aucune existence."
 
+## Fémonationalisme géopolitique : la manif pro-Shah (janvier 2026)
+
+Alice Cordier manifeste à Paris en "soutien au peuple iranien" avec drapeaux du Shah et drapeaux israéliens. Pancarte : "Support Iranian Women / Fuck Khomeini." Elle est photographiée aux côtés de drapeaux des deux pays.
+
+La PaduTeam note l'évidence : Cordier n'a jamais manifesté contre Trump sur l'IVG, contre Epstein, contre les violences sexuelles dans l'entourage républicain américain — "mouillé jusqu'à la moelle dans les affaires Epstein." Elle n'a jamais demandé la levée des sanctions contre l'Iran, pourtant première cause de précarité des femmes iraniennes. Son "soutien aux femmes iraniennes" est un agenda impérialiste pro-Shah, pas du féminisme[^iran1].
+
+Ce cas illustre la dimension géopolitique du [[Fémonationalisme]] telle que l'analyse [[Sarah Faris|Sara Farris]] : les droits des femmes comme légitimation d'une intervention impérialiste.
+
+[^iran1]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — "ces femmes-là vont aller militer [...] jamais vous ne les verrez parler des sanctions contre l'Iran"
+
 ## Vidéos où Alice Cordier est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage du retournement narratif, critique de la complicité médiatique (BFM, Marlène Chapaz)
