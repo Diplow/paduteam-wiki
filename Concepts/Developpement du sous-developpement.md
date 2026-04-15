@@ -4,7 +4,7 @@ domaine: [géopolitique, théorie]
 thèmes: [anti-impérialisme, Amérique-latine]
 aliases: [développement du sous-développement, sous-développement, Développement du sous-développement]
 date created: Wednesday, April 1st 2026, 10:46:02 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/théorie #thème/anti-impérialisme
 

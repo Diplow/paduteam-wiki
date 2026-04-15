@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [anti-impérialisme, répression-justice]
 aliases: [Lula da Silva, Luis Inácio Lula da Silva]
 date created: Thursday, April 2nd 2026, 3:19:13 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/répression-justice
 

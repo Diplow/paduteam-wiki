@@ -3,7 +3,7 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 date created: Wednesday, April 1st 2026, 7:42:11 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 aliases: [Action Française]
 ---
 #domaine/politique-intérieure #thème/médias-propagande

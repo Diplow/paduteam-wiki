@@ -4,7 +4,7 @@ sous-type: syndicat
 domaine: [politique-intérieure, économie]
 thèmes: [ruralité, racisme-antiracisme, travail]
 date created: Friday, April 3rd 2026, 2:31:34 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/économie #thème/ruralité #thème/racisme-antiracisme #thème/travail
 

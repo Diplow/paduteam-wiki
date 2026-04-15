@@ -4,7 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [guerre-des-gauches, racisme-antiracisme, santé]
 aliases: [Antoine Léaument]
 date created: Sunday, April 12th 2026, 5:38:31 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/racisme-antiracisme #thème/santé

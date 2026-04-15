@@ -4,7 +4,7 @@ domaine: [géopolitique, société]
 thèmes: [anti-impérialisme, médias-propagande]
 aliases: [Le Meilleur des Mondes]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/société #thème/anti-impérialisme #thème/médias-propagande
 

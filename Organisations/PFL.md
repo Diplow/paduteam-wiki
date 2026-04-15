@@ -3,8 +3,8 @@ type: organisation
 domaine: [société]
 thèmes: [sport, répression-justice, Palestine]
 aliases: [PFL, Professional Fighters League]
-date created: 2026-04-13
-date modified: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/sport #thème/répression-justice

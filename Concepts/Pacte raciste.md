@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: []
 aliases: [pacte raciste, solution raciste, préférence nationale]
 date created: Tuesday, March 31st 2026, 11:18:26 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure
 # Pacte raciste

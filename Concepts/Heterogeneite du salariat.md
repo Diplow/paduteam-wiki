@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [travail]
 aliases: [hétérogénéité du salariat, hétérogénéité des classes, division interne du salariat]
 date created: Wednesday, April 1st 2026, 7:19:13 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/le-Graphique #thème/travail
 # Hétérogénéité du salariat

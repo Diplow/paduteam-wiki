@@ -4,14 +4,14 @@ domaine: [théorie, économie]
 thèmes: [marxisme, capitalisme, travail]
 aliases: [boutiquier, capitalisme concurrentiel libéral, boutique soralienne]
 date created: Thursday, April 2nd 2026, 10:25:56 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/économie #thème/marxisme #thème/capitalisme
 
 # Capitalisme boutiquier
 
 ## Définition
-Concept de [[Michel Clouscard]] désignant le stade du capitalisme fondé sur la petite propriété individuelle et la concurrence entre petits producteurs/commerçants indépendants. La PaduTeam l'utilise pour qualifier [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] : un défenseur idéologique du petit commerce contre la planification, qui fait de sa propre boutique idéologique (Égalité et Réconciliation) un modèle.
+Concept de [[Michel Clouscard]] désignant le stade du capitalisme fondé sur la petite propriété individuelle et la concurrence entre petits producteurs/commerçants indépendants. La PaduTeam l'utilise pour qualifier [[Alain Soral]] : un défenseur idéologique du petit commerce contre la planification, qui fait de sa propre boutique idéologique (Égalité et Réconciliation) un modèle.
 
 ## Clouscard sur le capitalisme boutiquier
 Dans *Le populisme est la fin du capitalisme concurrentiel libéral*, Clouscard montre que les sursauts du capitalisme boutiquier — Poujade, José Bové, et par extension Soral — ne sont que des **tressautements tragiques de classes condamnées par la dynamique du [[Salariat generalise|salariat généralisé]]**. Ces sursauts expriment la résistance d'une forme économique périmée face à sa propre obsolescence historique. Ce ne sont pas des forces révolutionnaires — ce sont des spasmes conservateurs.

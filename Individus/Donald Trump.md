@@ -3,7 +3,7 @@ type: individu
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
 date created: Wednesday, April 1st 2026, 10:47:07 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme
 # Donald Trump

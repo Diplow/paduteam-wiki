@@ -4,7 +4,7 @@ domaine: [théorie, économie]
 thèmes: [néolibéralisme, capitalisme, histoire-longue]
 aliases: [Colloque Lippmann, Colloque Walter Lippmann, Congrès Lippmann]
 date created: Thursday, April 2nd 2026, 3:19:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/économie #thème/néolibéralisme #thème/histoire-longue
 

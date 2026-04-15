@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 aliases: [C8, CNews, canal Bolloré]
 date created: Wednesday, April 1st 2026, 10:47:32 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/médias-propagande
 

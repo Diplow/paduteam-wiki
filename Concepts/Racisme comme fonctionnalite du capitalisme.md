@@ -4,7 +4,7 @@ domaine: [théorie, économie, société]
 thèmes: [racisme-antiracisme, travail]
 aliases: [Racisme comme fonctionnalité du capitalisme]
 date created: Friday, April 3rd 2026, 2:31:33 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/économie #domaine/société #thème/racisme-antiracisme #thème/travail
 

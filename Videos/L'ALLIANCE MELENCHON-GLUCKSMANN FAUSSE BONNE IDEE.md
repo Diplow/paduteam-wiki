@@ -6,7 +6,7 @@ enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-09-00
 youtube_id: snQlvsjgr24
 date created: Wednesday, April 1st 2026, 5:48:07 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
 

@@ -4,6 +4,8 @@ domaine: [politique-intérieure, théorie]
 thèmes: [organisation-militante, mouvement-social]
 aliases: [Gilets jaunes, GJ]
 skill_version: write-concept-2026-04-12
+date created: Sunday, April 12th 2026, 11:07:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/organisation-militante #thème/mouvement-social
 

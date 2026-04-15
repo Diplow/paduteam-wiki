@@ -6,7 +6,7 @@ enjeux: [anti-impérialisme, campisme-assumé]
 date: 2026-03-31
 youtube_id: InxosoRwAmQ
 date created: Tuesday, March 31st 2026, 11:22:07 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]
 ---
 #domaine/géopolitique #thème/Venezuela #thème/anti-impérialisme #enjeu/anti-impérialisme #enjeu/campisme-assumé

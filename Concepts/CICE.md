@@ -4,7 +4,7 @@ domaine: [économie, politique-intérieure]
 thèmes: [travail, guerre-des-gauches]
 aliases: [Crédit d'impôt pour la compétitivité et l'emploi]
 date created: Sunday, April 12th 2026, 5:25:08 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/économie #domaine/politique-intérieure #thème/travail #thème/guerre-des-gauches
 

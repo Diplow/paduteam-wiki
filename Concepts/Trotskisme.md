@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [travail, guerre-des-gauches]
 aliases: [trotskiste, 4e Internationale, quatrième internationale]
 date created: Thursday, April 2nd 2026, 10:23:31 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/guerre-des-gauches
 

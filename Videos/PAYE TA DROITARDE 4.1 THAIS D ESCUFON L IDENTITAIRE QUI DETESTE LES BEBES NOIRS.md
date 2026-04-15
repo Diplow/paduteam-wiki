@@ -8,7 +8,7 @@ enjeux: [Feminisme materialiste]
 intervenants: [Padu, Dr Zoe]
 aliases: [PAYE TA DROITARDE 4.1, Paye ta droitarde 4.1 Thaïs d'Escufon]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 

@@ -3,6 +3,8 @@ type: enjeu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice, médias-propagande]
 skill_version: ingest-batch-2026-04-13
+date created: Tuesday, April 14th 2026, 5:59:34 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande
 

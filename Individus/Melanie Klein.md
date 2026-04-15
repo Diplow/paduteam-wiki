@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [Melanie Klein, Klein, Mélanie Klein]
 date created: Wednesday, April 1st 2026, 9:31:38 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 

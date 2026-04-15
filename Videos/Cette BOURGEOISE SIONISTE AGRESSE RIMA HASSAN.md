@@ -6,6 +6,8 @@ enjeux: [Répression des pro-Palestine, Palestine libre]
 date: 2024-06-01
 youtube_id: "yJsyp5U_uHY"
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:17:48 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/médias-propagande #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
 

@@ -4,7 +4,7 @@ domaine: ['politique-intérieure', 'théorie']
 thèmes: ['élections']
 aliases: [Google Trends, prédiction par tendances de recherche, Google Trends prédiction électorale]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections
 # Google Trends prédiction électorale

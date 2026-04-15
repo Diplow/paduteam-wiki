@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 aliases: [Consigny, Consigni]
 date created: Wednesday, April 1st 2026, 6:04:13 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande
 # Charles Consigny

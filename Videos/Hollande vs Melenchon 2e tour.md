@@ -6,7 +6,7 @@ enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-02
 aliases: [HOLLANDE vs MÉLENCHON au 2ÈME TOUR la PROPHÉTIE INTERDITE]
 date created: Wednesday, April 1st 2026, 2:03:49 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/guerre-des-gauches #enjeu/union-populaire #enjeu/plus-jamais-PS
 # HOLLANDE vs MÉLENCHON au 2ÈME TOUR : la PROPHÉTIE INTERDITE !!

@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [islamophobie, laïcité, racisme-antiracisme]
 aliases: [laïcité dévoiée, laïcardisme, Laïcité culturaliste]
 date created: Thursday, April 2nd 2026, 10:23:08 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/islamophobie #thème/racisme-antiracisme
 

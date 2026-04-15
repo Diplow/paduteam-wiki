@@ -6,7 +6,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, antisémitisme]
 enjeux: [plus-jamais-PS, union-populaire]
 date created: Thursday, April 2nd 2026, 1:22:15 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/antisémitisme #enjeu/plus-jamais-PS #enjeu/union-populaire

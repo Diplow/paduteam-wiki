@@ -4,7 +4,7 @@ domaine: ['théorie', 'politique-intérieure']
 thèmes: [élections]
 aliases: [période de confusion, confusion]
 date created: Wednesday, April 1st 2026, 11:40:21 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/élections
 # Période de confusion

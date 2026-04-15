@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme]
 aliases: [Faye]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/racisme-antiracisme
 

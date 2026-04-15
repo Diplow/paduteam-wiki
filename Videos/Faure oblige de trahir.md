@@ -4,7 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
 date created: Wednesday, April 1st 2026, 12:38:04 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
 # FAURE était OBLIGÉ de TRAHIR — VOICI POURQUOI !

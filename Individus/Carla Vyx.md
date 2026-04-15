@@ -4,7 +4,8 @@ domaine: [société]
 thèmes: [VSS, masculinisme, travail-du-sexe]
 aliases: []
 skill_version: "1.0"
-date created: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/VSS #thème/masculinisme
 

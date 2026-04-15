@@ -7,7 +7,7 @@ thèmes: [guerre-des-gauches, élections, ruralité, racisme-antiracisme]
 enjeux: [union-populaire]
 aliases: [CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON]
 date created: Wednesday, April 1st 2026, 7:51:47 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/ruralité #thème/racisme-antiracisme #enjeu/union-populaire
 

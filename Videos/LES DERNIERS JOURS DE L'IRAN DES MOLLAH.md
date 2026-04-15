@@ -6,6 +6,8 @@ enjeux: [anti-impérialisme, campisme-assumé]
 date: 2025-06-15
 youtube_id: LJyxCApZGjc
 skill_version: ingest-batch-2026-04-13
+date created: Tuesday, April 14th 2026, 4:52:32 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

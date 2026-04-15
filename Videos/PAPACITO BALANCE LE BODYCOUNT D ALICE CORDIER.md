@@ -8,7 +8,7 @@ youtube_id: "6X_qpVRqvP8"
 skill_version: ingest-batch-2026-04-13
 aliases: ["PAPACITO BALANCE L'ÉNORME B0DYCOUNT D'ALICE CORDIER (collectif NÉMÉSIS) !! (avec @Dr_Zoé_YT)"]
 date created: Monday, April 13th 2026, 12:00:00 am
-date modified: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/extrême-droite #thème/médias-propagande #thème/féminisme
 

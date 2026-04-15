@@ -3,6 +3,8 @@ type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Ukraine, États-Unis]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 1:20:44 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches #thème/Ukraine
 

@@ -3,6 +3,8 @@ type: enjeu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 4:52:34 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine
 # Anti-impérialisme

@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, anti-impérialisme]
 aliases: [Macron, Emmanuel Macron]
 date created: Tuesday, March 31st 2026, 11:00:21 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme
 

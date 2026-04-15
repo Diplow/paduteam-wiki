@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [guerre-des-gauches, féminisme]
 aliases: [Lagasnerie, la Gasnerie, la ganerie, la gannerie]
 date created: Saturday, April 4th 2026, 11:21:29 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/guerre-des-gauches #thème/féminisme
 

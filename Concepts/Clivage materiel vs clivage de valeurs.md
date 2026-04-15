@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: ['élections']
 aliases: [clivage de valeur, clivage matériel, politique de valeurs, politique matérielle, Clivage matériel vs clivage de valeurs]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Clivage matériel vs clivage de valeurs

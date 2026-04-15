@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [marxisme, capitalisme, histoire-longue]
 aliases: [Clouscard, Cluscard, Michel Clouscar]
 date created: Thursday, April 2nd 2026, 3:19:13 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/marxisme #thème/capitalisme
 
@@ -39,7 +39,7 @@ Dans un live de Géopolitique Profonde, Soral cite "la métamorphose de la lutte
 Clouscard appartient à une génération de penseurs des années 50-60 qui bénéficient d'une université encore non segmentée en départements. Il mêle psychiatrie, philosophie, sociologie, histoire — dans la même veine que Foucault. Cette interdisciplinarité produit une puissance synthétique qu'on ne retrouve plus après la segmentation universitaire.
 
 ## Relations
-- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — l'a renié publiquement ; Soral continue de se revendiquer de lui par [[Logorrhee]]
+- [[Alain Soral]] — l'a renié publiquement ; Soral continue de se revendiquer de lui par [[Logorrhee]]
 - [[Chris]] — le cite comme référence principale
 - [[Padu]] — l'a beaucoup lu (sauf *Les chemins de la praxis*)
 - [[Lucien Goldmann]] — l'a influencé ; Clouscard l'a probablement connu via Goldman

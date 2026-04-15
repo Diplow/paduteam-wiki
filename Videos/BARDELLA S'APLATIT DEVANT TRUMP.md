@@ -6,7 +6,7 @@ enjeux: [anti-impérialisme, campisme-assumé]
 date: 2026-01-30
 youtube_id: bI8XNzxjq6E
 date created: Wednesday, April 1st 2026, 10:44:04 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme #thème/guerre-des-gauches #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

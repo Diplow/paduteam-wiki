@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [racisme-antiracisme, médias-propagande]
 aliases: [Ligue internationale contre le racisme et l'antisémitisme]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 3:05:49 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/racisme-antiracisme #thème/médias-propagande
 

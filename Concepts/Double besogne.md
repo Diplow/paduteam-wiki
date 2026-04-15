@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, travail]
 aliases: [double tâche, double besogne CGT]
 date created: Thursday, April 2nd 2026, 3:19:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/travail
 

@@ -6,7 +6,7 @@ enjeux: [Palestine-libre, anti-impérialisme, campisme-assumé]
 date: 2025-10-03
 youtube_id: "-LNzH33Rhck"
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #enjeu/Palestine-libre #enjeu/anti-impérialisme #enjeu/campisme-assumé

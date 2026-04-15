@@ -7,7 +7,7 @@ thèmes: [travail, féminisme]
 enjeux: [anti-impérialisme]
 aliases: [CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]
 date created: Sunday, April 12th 2026, 5:25:27 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/travail #thème/féminisme #enjeu/anti-impérialisme
 

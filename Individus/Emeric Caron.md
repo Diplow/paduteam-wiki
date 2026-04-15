@@ -4,7 +4,7 @@ domaine: [politique-intérieure, société, géopolitique]
 thèmes: [féminisme, guerre-des-gauches, Palestine, médias-propagande]
 aliases: [Émeric Caron]
 date created: Thursday, April 2nd 2026, 10:37:32 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/féminisme #thème/guerre-des-gauches #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre

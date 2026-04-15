@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine]
 aliases: [UJFP, Union Juive Française pour la Paix]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine

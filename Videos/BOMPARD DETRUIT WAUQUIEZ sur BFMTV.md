@@ -6,7 +6,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]
 date created: Thursday, April 2nd 2026, 12:29:22 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/guerre-des-gauches #enjeu/union-populaire

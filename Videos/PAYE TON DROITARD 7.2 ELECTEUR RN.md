@@ -7,6 +7,8 @@ thèmes: [masculinisme, élections]
 enjeux: [féminisme-matérialiste]
 aliases: ["PAYE TON DROITARD #7.2", "PTD #7.2", "PADU L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ"]
 skill_version: "1.0"
+date created: Monday, April 13th 2026, 3:04:21 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/masculinisme #thème/élections
 

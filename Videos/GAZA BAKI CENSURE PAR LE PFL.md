@@ -6,6 +6,8 @@ domaine: [géopolitique, société]
 thèmes: [Palestine, répression-justice, sport]
 enjeux: [Répression des pro-Palestine, Palestine libre]
 skill_version: ingest-batch-2026-04-13
+date created: Tuesday, April 14th 2026, 5:59:41 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/répression-justice #thème/sport #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
 

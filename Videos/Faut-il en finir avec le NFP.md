@@ -5,7 +5,7 @@ thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-02-01
 date created: Wednesday, April 1st 2026, 12:28:02 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
 # FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)

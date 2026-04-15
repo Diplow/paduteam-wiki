@@ -4,7 +4,7 @@ domaine: ['société', 'théorie']
 thèmes: ['le-Graphique', 'racisme-antiracisme']
 aliases: [3ème dimension du graphique, genre dans le graphique, race dans le graphique]
 date created: Tuesday, March 31st 2026, 10:11:34 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/le-Graphique #thème/racisme-antiracisme
 # Dimensions tierces du Graphique

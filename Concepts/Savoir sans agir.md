@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [médias-propagande]
 aliases: [impuissance contemplative, faux semblant culturel, contemplatisme politique, liturgie intellectuelle]
 date created: Wednesday, April 1st 2026, 9:32:39 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/médias-propagande
 

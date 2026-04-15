@@ -6,6 +6,8 @@ enjeux: [union-populaire]
 date: 2025-09-02
 youtube_id: "2VOtXz9RSUw"
 skill_version: write-video-2026-04-12
+date created: Sunday, April 12th 2026, 11:05:31 pm
+date modified: Wednesday, April 15th 2026, 1:39:38 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/organisation-militante #thème/strategie-gramscienne #enjeu/union-populaire
 

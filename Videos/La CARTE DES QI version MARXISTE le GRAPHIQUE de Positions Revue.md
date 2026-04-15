@@ -7,7 +7,7 @@ thèmes: [élections]
 enjeux: [union-populaire]
 aliases: [Carte des QI marxiste, Capsule Graphique Positions Revue]
 date created: Wednesday, April 1st 2026, 5:37:20 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/élections #enjeu/union-populaire
 

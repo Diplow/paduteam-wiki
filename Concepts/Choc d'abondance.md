@@ -4,7 +4,7 @@ domaine: ['politique-intérieure', 'économie']
 thèmes: []
 aliases: [abondance, projet d'abondance]
 date created: Tuesday, March 31st 2026, 11:18:50 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/économie
 # Choc d'abondance

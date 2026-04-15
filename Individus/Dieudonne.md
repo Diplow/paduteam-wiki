@@ -4,14 +4,14 @@ domaine: [société, politique-intérieure]
 thèmes: [racisme-antiracisme, trajectoires-politiques]
 aliases: [Dieudo, Dieudonné]
 date created: Thursday, April 2nd 2026, 8:18:09 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/racisme-antiracisme #thème/trajectoires-politiques
 
 # Dieudonné
 
 ## Profil synthétique
-Humoriste français, partenaire artistique historique d'Élie Semoun, devenu antisémite notoire et figure de la "dissidence" d'extrême droite. Analysé par la PaduTeam comme faisant partie de la même nébuleuse confusionniste que [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], avec lequel il a développé une relation étroite.
+Humoriste français, partenaire artistique historique d'Élie Semoun, devenu antisémite notoire et figure de la "dissidence" d'extrême droite. Analysé par la PaduTeam comme faisant partie de la même nébuleuse confusionniste que [[Alain Soral]], avec lequel il a développé une relation étroite.
 
 ## Trajectoire
 Zoé : "En 2007-2008 Dieudonné, le Divorce de Patrick, c'est un des meilleurs spectacles d'humour que j'ai vu." La PaduTeam reconnaît que Dieudonné était une figure comique respectée à ses débuts. Mais "en 2014-2015 on est dans des trucs qui sont au-delà du regardable" — glissement vers l'antisémitisme assumé, la "quenelle" comme geste antisémite, puis la fréquentation de [[Jean-Marie Le Pen]] (il a fait baptiser son enfant par Le Pen).

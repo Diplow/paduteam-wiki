@@ -3,6 +3,8 @@ type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 9:10:35 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 
 #domaine/économie #domaine/société #thème/santé #thème/travail

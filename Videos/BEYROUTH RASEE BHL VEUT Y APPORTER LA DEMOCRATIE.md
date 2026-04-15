@@ -8,6 +8,8 @@ format: analyse
 enjeux: [Palestine-libre, anti-impérialisme, sionisme-gauche-comme-menace]
 intervenants: [Padu]
 statut: ébauche
+date created: Monday, April 13th 2026, 3:05:49 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/anti-impérialisme #thème/médias-propagande #enjeu/Palestine-libre #enjeu/anti-impérialisme #enjeu/sionisme-gauche-comme-menace
 

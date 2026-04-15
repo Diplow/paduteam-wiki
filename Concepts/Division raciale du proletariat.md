@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [racisme-antiracisme, travail]
 aliases: [scission raciale du prolétariat, division raciale, Division raciale du prolétariat]
 date created: Friday, April 3rd 2026, 7:28:22 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/racisme-antiracisme #thème/travail
 

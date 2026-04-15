@@ -3,7 +3,7 @@ type: enjeu
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme

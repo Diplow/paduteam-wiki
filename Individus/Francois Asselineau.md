@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections]
 aliases: [François Asselineau, Asselineau]
 date created: Wednesday, April 1st 2026, 6:22:32 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 
@@ -23,7 +23,7 @@ Padu confesse avoir voté Asselineau au premier tour 2017 : il était "dans sa p
 N'obtiendra pas les 500 signatures. [[Dominique de Villepin]] lui prend les signatures. Finira par "crier au complot" (son habitude, invoquant vote caché, réseaux pro-Hamas, Qatar, Iran, CIA, etc.). "Aselino out."
 
 ## Relations
-- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — l'a défendu dans des affaires (Soral : "c'est normal que les chefs de parti assouvissent leurs pulsions avec leurs militants")
+- [[Alain Soral]] — l'a défendu dans des affaires (Soral : "c'est normal que les chefs de parti assouvissent leurs pulsions avec leurs militants")
 - [[Union Populaire Republicaine]] — son parti
 - [[Dominique de Villepin]] — lui prendra les 500 signatures en 2027
 

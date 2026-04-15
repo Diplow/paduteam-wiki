@@ -5,7 +5,7 @@ description: >
   Appelée par ingest-video après l'analyse du transcript et le gather-context.
   Peut aussi être appelée directement pour réécrire/améliorer une fiche vidéo existante.
 date created: Sunday, April 12th 2026, 7:00:00 pm
-date modified: Sunday, April 12th 2026, 7:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 
 # Skill : Write Video

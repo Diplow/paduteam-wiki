@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [féminisme, masculinisme]
 aliases: [masculinités progressistes, nouvelles masculinités, Masculinités du 21e siècle]
 date created: Thursday, April 2nd 2026, 8:19:53 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme
 
@@ -16,7 +16,7 @@ Projet politique de la PaduTeam (porté principalement par [[Dr Zoe|Zoé]]) visa
 ## Le problème
 La destruction du modèle de la famille patriarcale classique (divorce, liberté sexuelle, accès des femmes au compte bancaire et au travail) n'a pas été accompagnée de la création de structures collectives alternatives. Résultat : les femmes ont perdu les protections partielles du mariage sans gagner une vraie émancipation, et les jeunes hommes se sont retrouvés sans modèle de masculinité.
 
-Dans ce vide, [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] a proposé une solution : la masculinité virile traditionnelle rhabillée en "résistance". Ce modèle a recruté massivement parmi les adolescents confus (dont [[Padu]] dans sa phase rouge-brun).
+Dans ce vide, [[Alain Soral]] a proposé une solution : la masculinité virile traditionnelle rhabillée en "résistance". Ce modèle a recruté massivement parmi les adolescents confus (dont [[Padu]] dans sa phase rouge-brun).
 
 ## Contre "l'homme déconstruit"
 Zoé rejette le concept de "déconstruction" comme réponse à la masculinité soralienne :

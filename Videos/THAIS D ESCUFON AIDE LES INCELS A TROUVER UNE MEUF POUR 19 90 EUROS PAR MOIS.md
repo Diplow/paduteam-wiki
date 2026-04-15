@@ -8,7 +8,7 @@ enjeux: [Feminisme materialiste]
 intervenants: [Padu]
 aliases: [THAÏS D'ESCUFON AIDE les INCELS à TROUVER une MEUF pour 19,90 EUROS par mois, Thaïs Conquête de Valeur]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme
 

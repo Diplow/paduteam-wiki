@@ -6,7 +6,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, écologie, élections]
 enjeux: [union-populaire, le-Graphique]
 date created: Friday, April 3rd 2026, 8:37:04 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/écologie #thème/élections #enjeu/union-populaire #enjeu/le-Graphique
 

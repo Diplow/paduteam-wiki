@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [Rochedy]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 

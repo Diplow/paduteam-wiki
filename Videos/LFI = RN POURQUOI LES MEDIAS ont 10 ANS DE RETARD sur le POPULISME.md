@@ -6,7 +6,7 @@ enjeux: [union-populaire]
 date: 2025-12-31
 youtube_id: naNzzctpIfs
 date created: Wednesday, April 1st 2026, 11:35:50 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/union-populaire
 

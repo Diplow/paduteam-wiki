@@ -6,7 +6,7 @@ domaine: [société, théorie]
 thèmes: [féminisme, démographie]
 enjeux: [plus-jamais-PS]
 date created: Wednesday, April 1st 2026, 6:49:15 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]
 ---
 #domaine/société #domaine/théorie #thème/féminisme #enjeu/plus-jamais-PS

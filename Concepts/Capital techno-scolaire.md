@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [le-Graphique, travail]
 aliases: [capital scolaire, capital éducatif, capital technoscolaire]
 date created: Thursday, April 2nd 2026, 8:31:13 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/le-Graphique #thème/travail
 

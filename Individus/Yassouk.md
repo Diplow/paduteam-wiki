@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [travail, féminisme]
 aliases: [Yasuk, Yassou, yassouk.k]
 date created: Sunday, April 12th 2026, 5:25:19 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/travail #thème/féminisme
 

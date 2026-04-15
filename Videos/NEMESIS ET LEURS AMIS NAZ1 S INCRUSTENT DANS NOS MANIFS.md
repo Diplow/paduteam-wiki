@@ -8,7 +8,7 @@ youtube_id: "CP3mKiRpH_I"
 skill_version: ingest-batch-2026-04-13
 aliases: ["NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT et Chris)"]
 date created: Monday, April 13th 2026, 12:00:00 am
-date modified: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #domaine/théorie #thème/féminisme #thème/extrême-droite #thème/théorie #thème/racisme-antiracisme
 

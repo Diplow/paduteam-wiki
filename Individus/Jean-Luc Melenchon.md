@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Jean-Luc Melenchon, Mélenchon, JLM, Jean-Luc, Jean-Luc Mélenchon]
 date created: Tuesday, March 31st 2026, 2:20:43 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique
 

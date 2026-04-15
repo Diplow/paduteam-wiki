@@ -4,14 +4,14 @@ domaine: [théorie, politique-intérieure]
 thèmes: [trajectoires-politiques, racisme-antiracisme]
 aliases: [rouge-brun, confusionnisme, tiers-voiisme, troisième voie]
 date created: Thursday, April 2nd 2026, 8:19:15 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/trajectoires-politiques #thème/racisme-antiracisme
 
 # Confusionnisme rouge-brun
 
 ## Définition
-Tendance politique qui mélange des éléments de gauche (critique du capitalisme, critique du néolibéralisme, souverainisme économique) avec des éléments de droite réactionnaire (antiféminisme, anti-droits LGBT, nationalisme culturel), sous prétexte de dépasser le clivage gauche/droite. En France, son incarnation principale est le soralisme ([[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] et [[Egalite et Reconciliation]]).
+Tendance politique qui mélange des éléments de gauche (critique du capitalisme, critique du néolibéralisme, souverainisme économique) avec des éléments de droite réactionnaire (antiféminisme, anti-droits LGBT, nationalisme culturel), sous prétexte de dépasser le clivage gauche/droite. En France, son incarnation principale est le soralisme ([[Alain Soral]] et [[Egalite et Reconciliation]]).
 
 ## Mécanisme
 Le confusionnisme rouge-brun opère en plusieurs étapes :
@@ -35,7 +35,7 @@ Chris : "Égalité & Réconciliation n'a pas eu l'effet d'un parti fasciste parc
 Le moment où le clivage redevient lisible (pacte égalitaire vs arc réactionnaire) correspond à ce que la PaduTeam appelle la [[Moisation|moïsation]]. Pour Padu, ce sera le tournant 2017 (sujet de la partie 2 de la vidéo).
 
 ## Exemples dans le vault
-- [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] — incarnation principale en France
+- [[Alain Soral]] — incarnation principale en France
 - [[Etienne Chouard]] — version "démocratique-idéaliste"
 - [[Dieudonne]] — version antisémite assumée
 - La notion d'"UMPS" — élément de langage confusionniste repris même par des gens de gauche

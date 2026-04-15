@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice, racisme-antiracisme]
 aliases: [Cem Yoldas, Chem Yoldash]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/racisme-antiracisme #enjeu/Palestine-libre

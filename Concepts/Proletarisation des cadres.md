@@ -4,7 +4,7 @@ domaine: [économie, politique-intérieure]
 thèmes: [travail]
 aliases: [prolétarisation des cadres, déclassement des cadres, crise des cadres]
 date created: Wednesday, April 1st 2026, 5:04:35 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/économie #domaine/politique-intérieure #thème/travail
 # Prolétarisation des cadres

@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [marxisme, travail, salariat-généralisé]
 aliases: [parlement du travailleur collectif, États généraux du travailleur collectif]
 date created: Thursday, April 2nd 2026, 3:19:12 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/marxisme #thème/travail
 

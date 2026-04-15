@@ -8,7 +8,7 @@ enjeux: [antiféminisme-identitaire-comme-menace, féminisme-matérialiste]
 date video: 2024-08
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/racisme-antiracisme
 

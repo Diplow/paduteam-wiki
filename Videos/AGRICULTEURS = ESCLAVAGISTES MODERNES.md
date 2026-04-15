@@ -5,7 +5,7 @@ thèmes: [racisme-antiracisme, travail, ruralité]
 enjeux: []
 date: 2026-03
 date created: Sunday, April 12th 2026, 5:39:07 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/économie #domaine/société #thème/racisme-antiracisme #thème/travail #thème/ruralité
 

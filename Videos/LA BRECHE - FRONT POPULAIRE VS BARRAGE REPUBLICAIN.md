@@ -7,7 +7,7 @@ date: 2024-07-06
 youtube_id: 4-j1k5auwOU
 aliases: [LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]
 date created: Sunday, April 12th 2026, 5:25:29 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 

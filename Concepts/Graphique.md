@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [élections]
 aliases: [Saint Graphique, Le Graphique, le graphique, Le Saint Graphique]
 date created: Monday, March 30th 2026, 3:05:06 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/le-Graphique #thème/élections
 

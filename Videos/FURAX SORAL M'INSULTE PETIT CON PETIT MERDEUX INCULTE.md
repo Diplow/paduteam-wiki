@@ -6,7 +6,7 @@ domaine: [théorie, société]
 thèmes: [marxisme, capitalisme, trajectoires-politiques]
 enjeux: []
 date created: Thursday, April 2nd 2026, 3:19:15 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/société #thème/marxisme #thème/capitalisme
 
@@ -39,7 +39,7 @@ Padu et Chris réagissent à un extrait d'un live de 5h38 de Géopolitique Profo
 Pas de chiffres ni sondages — vidéo entièrement théorique et polémique.
 
 ## Individus mentionnés
-[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Michel Clouscard]], [[Francis Cousin]], [[Christopher Lasch]], [[Pierre-Joseph Proudhon]], [[Lucien Goldmann]], [[Georg Lukacs]], [[Serge Mallet]], [[Alain Bihr]], [[Charles de Gaulle]], [[Valery Giscard d'Estaing]], [[Xavier Bertrand]], [[Edouard Philippe]], [[Jean-Luc Melenchon]], [[Jean-Marie Le Pen]], [[Marine Le Pen]], [[Georgi Dimitrov]], [[Nikolai Boukharine]], [[Jacques Rueff]], [[Jean-Claude Michea]]
+[[Alain Soral]], [[Michel Clouscard]], [[Francis Cousin]], [[Christopher Lasch]], [[Pierre-Joseph Proudhon]], [[Lucien Goldmann]], [[Georg Lukacs]], [[Serge Mallet]], [[Alain Bihr]], [[Charles de Gaulle]], [[Valery Giscard d'Estaing]], [[Xavier Bertrand]], [[Edouard Philippe]], [[Jean-Luc Melenchon]], [[Jean-Marie Le Pen]], [[Marine Le Pen]], [[Georgi Dimitrov]], [[Nikolai Boukharine]], [[Jacques Rueff]], [[Jean-Claude Michea]]
 
 ## Organisations mentionnées
 [[Positions Revue]], [[Egalite et Reconciliation]], [[Geopolitique Profonde]], [[Parti Communiste Francais]], [[France Insoumise]], [[Les Republicains]]

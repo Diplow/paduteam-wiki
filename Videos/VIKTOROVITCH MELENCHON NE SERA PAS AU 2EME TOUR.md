@@ -7,7 +7,7 @@ thèmes: [élections, guerre-des-gauches, médias-propagande]
 enjeux: [union-populaire, plus-jamais-PS]
 aliases: [VIKTOROVITCH MÉLENCHON NE SERA PAS AU 2ÈME TOUR]
 date created: Sunday, April 12th 2026, 5:28:17 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 

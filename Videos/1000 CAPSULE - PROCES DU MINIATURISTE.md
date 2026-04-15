@@ -6,7 +6,7 @@ enjeux: []
 date: 2026-01-30
 youtube_id: ay98YM5P2jE
 date created: Wednesday, April 1st 2026, 9:43:42 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [1000 CAPSULE - PROCÈS DU MINIATURISTE]
 ---
 #domaine/société #thème/médias-propagande #thème/travail #thème/féminisme

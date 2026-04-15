@@ -4,7 +4,7 @@ domaine: ['géopolitique']
 thèmes: ['Amérique-latine', 'Venezuela', 'anti-impérialisme']
 aliases: [Brest-Litovsk des Caraïbes, Retraite tactique bolivarienne]
 date created: Tuesday, March 31st 2026, 9:52:44 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/Amérique-latine #thème/Venezuela #thème/anti-impérialisme
 # Brest-Litovsk des Caraïbes

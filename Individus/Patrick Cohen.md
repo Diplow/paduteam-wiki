@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [médias-propagande, guerre-des-gauches, élections]
 aliases: []
 date created: Thursday, April 2nd 2026, 12:58:07 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/guerre-des-gauches
 

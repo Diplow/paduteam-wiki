@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [médias-propagande, mouvement-social]
 aliases: [Canard Réfractaire, Le Canard Réfractaire]
 skill_version: write-entity-2026-04-12
+date created: Sunday, April 12th 2026, 11:09:40 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/mouvement-social
 

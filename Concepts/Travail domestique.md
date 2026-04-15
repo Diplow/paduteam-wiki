@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [travail, féminisme]
 aliases: [travail reproductif, care]
 date created: Sunday, April 12th 2026, 5:25:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/travail #thème/féminisme
 

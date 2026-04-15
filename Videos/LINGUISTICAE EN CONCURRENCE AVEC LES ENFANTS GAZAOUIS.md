@@ -6,6 +6,8 @@ domaine: [société, théorie]
 thèmes: [économie-numérique, Palestine, médias-propagande]
 enjeux: [Palestine libre]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:11:43 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/économie-numérique #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre
 

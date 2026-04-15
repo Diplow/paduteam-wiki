@@ -7,6 +7,8 @@ thèmes: [masculinisme, marxisme]
 enjeux: [féminisme-matérialiste]
 aliases: ["Cet INCEL LIBERTARIEN nous CLASHE", "réponse à Mos Majorum"]
 skill_version: "1.0"
+date created: Monday, April 13th 2026, 3:04:21 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/masculinisme #thème/marxisme
 

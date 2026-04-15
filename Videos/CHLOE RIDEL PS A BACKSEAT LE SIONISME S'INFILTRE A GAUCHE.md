@@ -8,6 +8,8 @@ format: analyse
 enjeux: [Palestine-libre, sionisme-gauche-comme-menace, plus-jamais-PS]
 intervenants: [Padu, Zoé]
 statut: ébauche
+date created: Monday, April 13th 2026, 3:05:49 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/Palestine #thème/guerre-des-gauches #thème/médias-propagande #enjeu/Palestine-libre #enjeu/sionisme-gauche-comme-menace #enjeu/plus-jamais-PS
 

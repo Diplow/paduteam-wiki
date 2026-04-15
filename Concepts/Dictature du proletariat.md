@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [travail]
 aliases: [dictature du prolétariat, Dictature du prolétariat]
 date created: Saturday, April 4th 2026, 11:22:21 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/travail
 

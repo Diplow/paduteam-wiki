@@ -7,7 +7,7 @@ date: 2026-03-31
 youtube_id: PzJEraKtYC8
 aliases: [LE PEN CONDAMNÉE MÉLENCHON SCANDALISÉ]
 date created: Sunday, April 12th 2026, 5:28:17 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/répression-justice #thème/guerre-des-gauches #enjeu/union-populaire #enjeu/plus-jamais-PS
 

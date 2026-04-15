@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [femonationalisme, fémo-nationalisme, Fémonationalisme]
 date created: Wednesday, April 1st 2026, 9:45:51 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/racisme-antiracisme
 

@@ -6,7 +6,7 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, élections]
 enjeux: [union-populaire, plus-jamais-PS]
 date created: Sunday, April 12th 2026, 5:28:16 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/le-Graphique #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 
@@ -35,7 +35,7 @@ React de Padu et Chris face à la reprise du concept de [[Moisation|moïsation]]
 La genèse exacte reste floue même pour Padu et Chris. Le terme viendrait d'un membre du groupe baptisé "R1" lors d'une blague sur "Moïse et la mer rouge-brune". Chris pense avoir été le premier à l'intellectualiser par écrit — mais concède que le prophète de la moïsation, c'est Padu. La moïsation "s'est inventée elle-même" dans les discussions collectives. L'entretien de 2021 avec [[Stéphane Palombarini]] dans [[Positions Revue]] (*S'il ne reste qu'un barrage républicain, ce sera contre la gauche*) constitue la trace écrite la plus ancienne de la théorisation profonde.
 
 ## Individus mentionnés
-[[Padu]], [[Chris]], [[Sarah Legrain]], [[Clément Petro]], [[Philippe Bilger]], [[Cécile de Mibus]], [[Francoise Degois]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Marine Le Pen]], [[Raphael Glucksmann|Raphaël Glucksmann]], [[Bruno Retailleau]], [[Francois Hollande|François Hollande]], [[Francois Bayrou|François Bayrou]], [[Usul]], [[Chantal Mouffe]], [[Ernesto Laclau]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Stéphane Palombarini]], [[Thomas Piketty]], [[Louis Boyard]], [[Raphael Enthoven|Raphaël Enthoven]], [[Tatiana Ventose]], [[Loic Chenu]], [[Sacha Tabibian]], [[Gaspard Koenig]]
+[[Padu]], [[Chris]], [[Sarah Legrain]], [[Clément Petro]], [[Philippe Bilger]], [[Cécile de Mibus]], [[Francoise Degois]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Marine Le Pen]], [[Raphael Glucksmann|Raphaël Glucksmann]], [[Bruno Retailleau]], [[Francois Hollande|François Hollande]], [[Francois Bayrou|François Bayrou]], [[Usul]], [[Chantal Mouffe]], [[Ernesto Laclau]], [[Alain Soral]], [[Stéphane Palombarini]], [[Thomas Piketty]], [[Louis Boyard]], [[Raphael Enthoven|Raphaël Enthoven]], [[Tatiana Ventose]], [[Loic Chenu]], [[Sacha Tabibian]], [[Gaspard Koenig]]
 
 ## Organisations mentionnées
 [[France Inter]], [[Le Point]], [[Sud Radio]], [[Positions Revue]], [[Alliance FR]], [[France Insoumise]], [[Parti Socialiste]], [[Rassemblement National]], [[Les Republicains|LR]], [[Mediapart]]

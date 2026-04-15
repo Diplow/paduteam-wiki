@@ -6,7 +6,7 @@ enjeux: [union-populaire]
 date: 2024-11
 aliases: [COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR]
 date created: Tuesday, March 31st 2026, 2:20:45 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #enjeu/union-populaire
 # COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR

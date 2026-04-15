@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [strategie-gramscienne, organisation-militante]
 aliases: [Garde de position]
 skill_version: write-concept-2026-04-12
+date created: Sunday, April 12th 2026, 11:05:58 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/strategie-gramscienne #thème/organisation-militante
 

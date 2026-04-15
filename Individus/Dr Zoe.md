@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [féminisme, santé, corpo-médicale]
 aliases: [Dr Zoé, Zoé]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Tuesday, April 14th 2026, 6:02:54 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/santé #thème/corpo-médicale

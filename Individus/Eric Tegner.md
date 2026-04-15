@@ -7,7 +7,7 @@ domaine: [société, politique-intérieure]
 thèmes: [médias-propagande]
 apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]", "[[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]]"]
 date created: Thursday, April 2nd 2026, 10:26:35 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/médias-propagande
 

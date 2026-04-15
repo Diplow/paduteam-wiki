@@ -6,6 +6,8 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande, répression-justice]
 enjeux: [Répression des pro-Palestine, Palestine libre]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:09:26 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/répression-justice #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
 

@@ -5,6 +5,8 @@ thèmes: [anti-impérialisme, Venezuela, États-Unis, Amérique-latine, théorie
 date: 2026-01-30
 youtube_id: BAZDH2-S8xg
 skill_version: write-video-2026-04-14
+date created: Tuesday, April 14th 2026, 12:19:58 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/États-Unis #thème/théorie
 

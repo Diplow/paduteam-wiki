@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: []
 aliases: [Stratégie Le Pen 2002]
 date created: Tuesday, March 31st 2026, 2:20:31 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure
 # Strategie Le Pen 2002

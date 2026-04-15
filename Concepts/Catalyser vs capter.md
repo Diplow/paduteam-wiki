@@ -3,6 +3,8 @@ type: concept
 domaine: [théorie]
 thèmes: [organisation-militante]
 skill_version: write-concept-2026-04-12
+date created: Sunday, April 12th 2026, 11:07:28 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/organisation-militante
 

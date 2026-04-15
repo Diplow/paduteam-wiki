@@ -4,7 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [féminisme, guerre-des-gauches]
 aliases: [La Rêve, Rêve, REV, Révolution Écologique pour le Vivant]
 date created: Thursday, April 2nd 2026, 10:38:36 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/féminisme #thème/guerre-des-gauches
 

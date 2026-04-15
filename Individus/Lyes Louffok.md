@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Lyes Louffok]
 date created: Tuesday, March 31st 2026, 11:19:50 am
-date modified: Sunday, April 13th 2026
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 

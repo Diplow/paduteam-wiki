@@ -4,7 +4,7 @@ domaine: ['politique-intérieure', 'société']
 thèmes: ['racisme-antiracisme']
 aliases: [antiracisme concret, antiracisme abstrait, antiracisme universaliste]
 date created: Tuesday, March 31st 2026, 10:59:56 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/racisme-antiracisme
 # Antiracisme politique vs antiracisme moral

@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 aliases: [chien de garde médiatique, chiens de garde médiatiques]
 date created: Thursday, April 2nd 2026, 10:25:16 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/médias-propagande
 

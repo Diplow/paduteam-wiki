@@ -7,7 +7,7 @@ thèmes: [guerre-des-gauches, anti-impérialisme, élections]
 enjeux: [plus-jamais-PS, anti-impérialisme, union-populaire, campisme-assumé]
 aliases: [GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]
 date created: Sunday, April 12th 2026, 5:25:28 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/guerre-des-gauches #thème/anti-impérialisme #thème/élections #enjeu/plus-jamais-PS #enjeu/anti-impérialisme #enjeu/union-populaire #enjeu/campisme-assumé
 

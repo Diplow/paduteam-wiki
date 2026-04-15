@@ -4,7 +4,7 @@ domaine: [théorie, économie]
 thèmes: [travail]
 aliases: [salariat généralisé, prolétariat généralisé]
 date created: Wednesday, April 1st 2026, 7:17:47 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/économie #thème/travail
 # Salariat généralisé

@@ -4,6 +4,8 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [Thunberg, Greta]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:38:11 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 

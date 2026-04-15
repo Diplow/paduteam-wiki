@@ -6,6 +6,8 @@ domaine: [géopolitique, société]
 thèmes: [Palestine, féminisme, médias-propagande]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:37:42 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/féminisme #thème/médias-propagande #enjeu/Palestine-libre
 

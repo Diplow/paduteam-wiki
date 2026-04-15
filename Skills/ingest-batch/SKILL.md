@@ -8,7 +8,7 @@ description: >
   "ingérer toutes les vidéos sur Y", "batch ingest", "ingérer la série sur Z", ou quand il fournit
   un sujet couvert par plusieurs transcripts non ingérés.
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 

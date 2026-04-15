@@ -4,6 +4,8 @@ domaine: [géopolitique, théorie]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [discours génocidaire, rhétorique génocidaire, normalisation du génocide]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:52:40 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/théorie #thème/Palestine #thème/anti-impérialisme
 

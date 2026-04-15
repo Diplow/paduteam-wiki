@@ -3,8 +3,8 @@ type: individu
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Pierre-Alain Cotino]
-date created: Sunday, April 13th 2026
-date modified: Sunday, April 13th 2026
+date created: Tuesday, January 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 

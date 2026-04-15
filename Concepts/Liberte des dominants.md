@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [liberté sans rapports de domination, liberté bourgeoise, Liberté des dominants]
 date created: Wednesday, April 1st 2026, 6:32:21 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/racisme-antiracisme
 

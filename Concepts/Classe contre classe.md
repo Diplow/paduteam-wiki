@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [marxisme, histoire-longue]
 aliases: [stratégie classe contre classe, classe-contre-classe]
 date created: Thursday, April 2nd 2026, 3:19:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/marxisme #thème/histoire-longue
 
@@ -19,7 +19,7 @@ La stratégie "classe contre classe" est **offensive dans les termes, défensive
 La sortie de cette stratégie se fait avec l'arrivée du fascisme et le Congrès du Komintern de 1935 : [[Georgi Dimitrov]] théorise la stratégie des **fronts populaires**, alliance large antifasciste. C'est ce moment que [[Leon Trotski|Trotsky]] avait anticipé en critiquant le "front unique" dans la période "classe contre classe."
 
 ## Ce que Soral en fait (et le problème)
-[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] utilise "classe contre classe" pour parler de la complexification des classes dans le capitalisme contemporain — en citant [[Michel Clouscard]] et le tertiaire. C'est un contresens total :
+[[Alain Soral]] utilise "classe contre classe" pour parler de la complexification des classes dans le capitalisme contemporain — en citant [[Michel Clouscard]] et le tertiaire. C'est un contresens total :
 1. La stratégie "classe contre classe" ne parle pas de la composition sociologique du prolétariat, mais d'une tactique politique d'alliance ou de refus d'alliance.
 2. Elle désigne une période précise (1926-1935) et un contexte précis (protéger l'URSS), pas une loi générale.
 3. Clouscard ne traite pas de "classe contre classe" dans *Les métamorphoses des classes* — c'est un concept du tout Soral.

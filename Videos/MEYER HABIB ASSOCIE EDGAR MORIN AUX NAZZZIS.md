@@ -6,6 +6,8 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande]
 enjeux: [Palestine-libre, Sionisme-de-droite]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:35:03 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre
 

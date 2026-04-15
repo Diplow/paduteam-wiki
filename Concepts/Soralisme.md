@@ -4,14 +4,14 @@ domaine: [société, politique-intérieure]
 thèmes: [racisme-antiracisme, trajectoires-politiques]
 aliases: [soraliste, recrutement soral]
 date created: Thursday, April 2nd 2026, 10:24:05 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/racisme-antiracisme
 
 # Soralisme
 
 ## Définition
-Idéologie et mécanisme de recrutement incarné par [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] : capture des hommes des classes populaires confus (période pré-[[Moisation|moïsation]]) en leur proposant une grille d'explication du monde qui préserve et valorise leur racisme et leur sexisme. Le soralisme est analysé par la PaduTeam comme un vecteur de basculement vers le fascisme pour des hommes qui auraient pu rejoindre la gauche de rupture.
+Idéologie et mécanisme de recrutement incarné par [[Alain Soral]] : capture des hommes des classes populaires confus (période pré-[[Moisation|moïsation]]) en leur proposant une grille d'explication du monde qui préserve et valorise leur racisme et leur sexisme. Le soralisme est analysé par la PaduTeam comme un vecteur de basculement vers le fascisme pour des hommes qui auraient pu rejoindre la gauche de rupture.
 
 ## Mécanisme
 1. L'accroche est **sexiste et misogyne** : Soral promet à ses lecteurs d'apprendre à "pécho" — c'est l'entrée dans le récit, pas la politique. [[Chris]] : "3/4 des gens qui lisent Soral veulent savoir comment pécho."

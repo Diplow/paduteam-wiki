@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [répression-justice, Palestine]
 aliases: [La Jeune Garde, Jeune Garde]
 date created: Wednesday, April 1st 2026, 11:24:48 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #thème/répression-justice #thème/Palestine #enjeu/Palestine-libre

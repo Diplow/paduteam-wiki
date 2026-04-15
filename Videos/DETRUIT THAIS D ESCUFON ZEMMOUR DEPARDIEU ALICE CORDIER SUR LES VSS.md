@@ -8,7 +8,7 @@ youtube_id: "nRNFvVDvI4s"
 skill_version: ingest-batch-2026-04-13
 aliases: ["@Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER, SUR LES VSS !!"]
 date created: Monday, April 13th 2026, 12:00:00 am
-date modified: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/VSS #thème/médias-propagande
 

@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [guerre-des-gauches, médias-propagande, Ukraine]
 aliases: [Usule]
 date created: Wednesday, April 1st 2026, 5:57:36 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/guerre-des-gauches #thème/médias-propagande #thème/Ukraine

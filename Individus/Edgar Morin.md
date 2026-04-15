@@ -4,6 +4,8 @@ domaine: [théorie, géopolitique]
 thèmes: [Palestine, médias-propagande]
 aliases: [Edgar Morin, Morin]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:32:28 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/géopolitique #thème/Palestine #thème/médias-propagande
 

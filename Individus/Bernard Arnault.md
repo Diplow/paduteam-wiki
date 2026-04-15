@@ -3,7 +3,7 @@ type: individu
 domaine: [économie, société]
 thèmes: [travail, États-Unis]
 date created: Wednesday, April 1st 2026, 10:44:18 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/économie #thème/travail
 

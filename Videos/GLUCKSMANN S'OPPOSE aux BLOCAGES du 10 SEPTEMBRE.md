@@ -6,7 +6,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]
 date created: Sunday, April 12th 2026, 5:25:28 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/plus-jamais-PS #enjeu/union-populaire
 
@@ -38,7 +38,7 @@ Padu et Chris réagissent à Raphaël Glucksmann qui s'oppose au mouvement "Bloq
 10. **Prophétie du Graphique** : Bayrou a 0,5% de chances de s'en sortir selon le Graphique (vs 5% qu'il affirme). "Macron peut tomber en 2025 — faites tout pour."
 
 ## Individus mentionnés
-[[Raphael Glucksmann]], [[Daniel Cohn-Bendit]], [[François Bayrou]], [[Olivier Faure]], [[Marine Tondelier]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Bernard Cazeneuve]], [[Laurent Baumel]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Édouard Philippe]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Marcel Gauchet]], [[Antoine Oberdorff]], [[Lucy Castets]], [[Eric Zemmour]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Gerald Darmanin]]
+[[Raphael Glucksmann]], [[Daniel Cohn-Bendit]], [[François Bayrou]], [[Olivier Faure]], [[Marine Tondelier]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Bernard Cazeneuve]], [[Laurent Baumel]], [[Nicolas Mayer-Rossignol]], [[François Hollande]], [[Édouard Philippe]], [[Gabriel Attal]], [[Bruno Retailleau]], [[Marcel Gauchet]], [[Antoine Oberdorff]], [[Lucy Castets]], [[Eric Zemmour]], [[Alain Soral]], [[Gerald Darmanin]]
 
 ## Organisations mentionnées
 [[Place Publique]], [[France Insoumise]], [[Parti Socialiste]], [[Parti Communiste Francais]], [[Europe Ecologie Les Verts]], [[NFP]], [[On ne veut plus]], [[Positions Revue]]

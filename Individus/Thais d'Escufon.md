@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [Thais d'Escufon, Thaïs Descufon, Thaïs d'Escufon]
 date created: Wednesday, April 1st 2026, 9:44:12 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 

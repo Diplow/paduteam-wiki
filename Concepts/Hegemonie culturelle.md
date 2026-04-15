@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [strategie-gramscienne]
 aliases: [Hégémonie culturelle, Heneumonie culturelle]
 skill_version: write-concept-2026-04-12
+date created: Sunday, April 12th 2026, 11:06:29 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/strategie-gramscienne
 

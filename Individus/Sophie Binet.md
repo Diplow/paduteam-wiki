@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, travail]
 date created: Thursday, April 2nd 2026, 10:07:30 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/travail
 

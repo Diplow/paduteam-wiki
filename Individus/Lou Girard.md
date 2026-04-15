@@ -3,7 +3,7 @@ type: individu
 domaine: [société]
 thèmes: [féminisme]
 date created: Wednesday, April 1st 2026, 6:48:44 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/féminisme
 

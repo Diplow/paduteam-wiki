@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [Palestine, médias-propagande, féminisme]
 aliases: [Polska]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/féminisme #enjeu/Palestine-libre

@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [écologie, guerre-des-gauches]
 aliases: [écologie punitive, écologie libérale]
 date created: Wednesday, April 1st 2026, 7:28:34 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/écologie #thème/guerre-des-gauches
 

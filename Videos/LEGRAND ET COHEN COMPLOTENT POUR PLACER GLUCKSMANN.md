@@ -6,7 +6,7 @@ enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-09-05
 youtube_id: 02KZ0I1Anqc
 date created: Thursday, April 2nd 2026, 12:57:44 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/médias-propagande #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 

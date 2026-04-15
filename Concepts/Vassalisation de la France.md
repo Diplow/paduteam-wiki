@@ -3,7 +3,7 @@ type: concept
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, États-Unis, Ukraine]
 date created: Wednesday, April 1st 2026, 10:45:02 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/États-Unis #thème/Ukraine

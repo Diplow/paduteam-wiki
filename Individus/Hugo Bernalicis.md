@@ -3,8 +3,8 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [répression-justice, Palestine, guerre-des-gauches]
 aliases: [Hugo Bernalicis]
-date created: 2026-04-13
-date modified: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #thème/répression-justice #thème/Palestine #thème/guerre-des-gauches

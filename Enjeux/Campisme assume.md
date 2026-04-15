@@ -3,6 +3,8 @@ type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Venezuela, Amérique-latine, Ukraine]
 skill_version: ingest-batch-2026-04-14
+date created: Monday, April 13th 2026, 11:53:22 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches #thème/Ukraine
 # Campisme assumé

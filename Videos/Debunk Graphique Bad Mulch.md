@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
 date created: Wednesday, April 1st 2026, 12:22:09 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #thème/le-Graphique #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 # Cet INGÉNIEUR MENTAL croit DÉBUNKER le GRAPHIQUE — ÇA TOURNE MAL !! (Chris X @pasduhring)

@@ -6,7 +6,7 @@ domaine: [société, théorie]
 thèmes: [trajectoires-politiques, féminisme, racisme-antiracisme, masculinisme]
 enjeux: []
 date created: Sunday, April 12th 2026, 5:27:36 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/trajectoires-politiques #thème/féminisme #thème/racisme-antiracisme #thème/masculinisme
 
@@ -17,7 +17,7 @@ Première partie d'un épisode en deux volets. Zoé et Chris analysent la vidéo
 
 ## Thèses et analyses clés
 
-1. **La politisation par les idées sans praxis** : Padu s'est politisé uniquement via YouTube ([[Etienne Chouard]], [[Usul]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]]) sans jamais s'engager dans une lutte concrète. Chris : "il est pas allé tracter devant les usines." Pour la PaduTeam, la politisation sans ancrage dans des luttes de classe est structurellement vulnérable au [[Confusionnisme rouge-brun]].
+1. **La politisation par les idées sans praxis** : Padu s'est politisé uniquement via YouTube ([[Etienne Chouard]], [[Usul]], [[Alain Soral]]) sans jamais s'engager dans une lutte concrète. Chris : "il est pas allé tracter devant les usines." Pour la PaduTeam, la politisation sans ancrage dans des luttes de classe est structurellement vulnérable au [[Confusionnisme rouge-brun]].
 
 2. **Le mécanisme de recrutement soralien** : Le vrai moteur de recrutement de Soral n'était pas idéologique mais masculiniste. Il vendait un modèle de virilité aux jeunes hommes confus (conseils de drague, 700 conquêtes revendiquées), puis greffait l'idéologie politique dessus. Zoé : "le graphique dit 91,3 [% de public masculin pour Soral] mais le graphique a toujours raison."
 
@@ -32,7 +32,7 @@ Première partie d'un épisode en deux volets. Zoé et Chris analysent la vidéo
 7. **Masculinités du 21e siècle** : Ni la masculinité soralienne (virile, dominatrice, consommatrice), ni "l'homme déconstruit" (la réponse bourgeoise progressiste, inefficace). Il faut construire de nouvelles masculinités à partir de fondations matérielles — parentalité collective, temps de travail réduit, éducation affective.
 
 ## Individus mentionnés
-[[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Etienne Chouard]], [[Usul]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[François Hollande]], [[Nicolas Sarkozy]], [[Laurent Fabius]], [[Manuel Valls]], [[Florian Philippot]], [[Dieudonne]], [[Jean-Claude Michea]], [[Christophe Guilluy]], [[Isabelle Alonso]]
+[[Alain Soral]], [[Etienne Chouard]], [[Usul]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[François Hollande]], [[Nicolas Sarkozy]], [[Laurent Fabius]], [[Manuel Valls]], [[Florian Philippot]], [[Dieudonne]], [[Jean-Claude Michea]], [[Christophe Guilluy]], [[Isabelle Alonso]]
 
 ## Organisations mentionnées
 [[Egalite et Reconciliation]], [[France Insoumise]], [[Parti Socialiste]], [[Parti Communiste Francais]], [[Front de Gauche]], [[Rassemblement National]], [[SOS Racisme]], [[Positions Revue]]

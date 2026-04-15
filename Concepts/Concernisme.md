@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme, guerre-des-gauches]
 aliases: [concern, concern check, concerniste]
 date created: Thursday, April 2nd 2026, 9:31:22 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/racisme-antiracisme #thème/guerre-des-gauches
 

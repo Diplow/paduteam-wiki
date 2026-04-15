@@ -8,7 +8,7 @@ enjeux: [Feminisme materialiste]
 intervenants: [Dr Zoe, Chris]
 aliases: [Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN, féministes solidaires Le Pen]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/guerre-des-gauches
 

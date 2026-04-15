@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [anti-impérialisme, théorie-politique, Amérique-latine]
 aliases: [occidentalocentrisme, occidentalocentrisme trotskiste, eurocentrisme révolutionnaire]
 skill_version: write-concept-2026-04-14
+date created: Tuesday, April 14th 2026, 12:19:58 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/anti-impérialisme
 
