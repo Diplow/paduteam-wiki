@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-04-17
+youtube_id: 8aw2darqPmc
 domaine: [théorie, économie]
 thèmes: [travail]
 enjeux: []

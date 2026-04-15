@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-04-19
+youtube_id: TVMgyPabBpE
 domaine: [société]
 thèmes: [VSS]
 enjeux: [vss-comme-fait-social]
-date: 2024-07
-youtube_id: "TVMgyPabBpE"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS

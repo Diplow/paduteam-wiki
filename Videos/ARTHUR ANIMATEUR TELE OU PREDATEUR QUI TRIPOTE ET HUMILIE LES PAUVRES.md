@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-12-17
+youtube_id: pMaS50RJJ4E
 domaine: [société]
 thèmes: [VSS, médias-propagande]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
-date: 2024-01
-youtube_id: "pMaS50RJJ4E"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS #thème/médias-propagande

@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-09-11
+youtube_id: n7Oqb319c9Y
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, racisme-antiracisme]
 enjeux: [féminisme-matérialiste]
-date: 2024-09
-youtube_id: "n7Oqb319c9Y"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS #thème/racisme-antiracisme #enjeu/féminisme-matérialiste

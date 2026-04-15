@@ -4,6 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [union-populaire]
 date: 2025-07-01
+youtube_id: qkIf71aJ5Dw
 aliases: [JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON]
 date created: Thursday, April 2nd 2026, 10:00:58 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

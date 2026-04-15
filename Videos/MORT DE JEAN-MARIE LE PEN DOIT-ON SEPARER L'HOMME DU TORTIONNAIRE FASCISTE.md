@@ -4,6 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [élections, racisme-antiracisme, le-Graphique]
 enjeux: [union-populaire]
 date: 2025-01-07
+youtube_id: tumiY3ljR5k
 aliases: [MORT DE JEAN-MARIE LE PEN DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE]
 date created: Sunday, April 12th 2026, 5:27:36 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

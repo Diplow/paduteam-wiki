@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-05-17
+youtube_id: L4b3g_GHEqk
 domaine: [politique-intérieure]
 thèmes: [élections]
 enjeux: []

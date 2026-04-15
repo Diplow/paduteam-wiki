@@ -4,6 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [États-Unis, anti-impérialisme, guerre-des-gauches]
 enjeux: [anti-impérialisme, campisme-assumé]
 date: 2026-01-30
+youtube_id: bI8XNzxjq6E
 date created: Wednesday, April 1st 2026, 10:44:04 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

@@ -1,9 +1,10 @@
 ---
 type: video
+date: 2024-03-07
+youtube_id: tjCRdy1UAls
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, extrême-droite]
 enjeux: [antiféminisme-identitaire-comme-menace]
-youtube_id: tjCRdy1UAls
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 13th 2026, 12:00:00 pm

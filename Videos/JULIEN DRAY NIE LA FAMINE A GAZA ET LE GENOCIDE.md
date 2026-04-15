@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-08-15
+youtube_id: pmkfvlIocN0
 domaine: [géopolitique, théorie]
 thèmes: [Palestine, médias-propagande, anti-impérialisme]
 format: analyse

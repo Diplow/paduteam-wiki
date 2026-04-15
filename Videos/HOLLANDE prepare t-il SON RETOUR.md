@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-12-02
+youtube_id: 6Oh29FEy0-Y
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2024-12
 aliases: [HOLLANDE prépare t-il SON RETOUR]
 date created: Sunday, April 12th 2026, 5:28:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

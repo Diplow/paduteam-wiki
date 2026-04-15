@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-05-28
+youtube_id: 3m8H_SHEjng
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme]
-date: 2024-05
-youtube_id: "3m8H_SHEjng"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #enjeu/Palestine-libre

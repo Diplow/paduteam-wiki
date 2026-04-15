@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-03-08
+youtube_id: HyodKdeKyI4
 domaine: [géopolitique, société]
 thèmes: [Palestine, répression-justice, sport]
 enjeux: [Répression des pro-Palestine, Palestine libre]
-youtube_id: "HyodKdeKyI4"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/répression-justice #thème/sport #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre

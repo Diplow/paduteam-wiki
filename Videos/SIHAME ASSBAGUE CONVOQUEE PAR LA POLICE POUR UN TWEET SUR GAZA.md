@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-04-24
+youtube_id: GIOlCwfOf6w
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, répression-justice, antiracisme]
 enjeux: [Répression des pro-Palestine, Palestine libre]
-youtube_id: "GIOlCwfOf6w"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/répression-justice #thème/antiracisme #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre

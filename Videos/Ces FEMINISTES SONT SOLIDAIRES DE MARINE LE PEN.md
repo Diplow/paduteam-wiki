@@ -1,5 +1,6 @@
 ---
 type: video
+date: 2025-04-06
 youtube_id: gQes3ZACQmA
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, guerre-des-gauches]

@@ -4,6 +4,7 @@ domaine: [théorie, société]
 thèmes: [racisme-antiracisme, le-Graphique]
 enjeux: [le-Graphique]
 date: 2026-01-01
+youtube_id: cB1crSU0r-k
 date created: Sunday, April 12th 2026, 3:47:07 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

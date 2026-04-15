@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-03-24
+youtube_id: CI-C05V074k
 domaine: [société]
 thèmes: [santé, corpo-médicale]
 enjeux: [Corpo medicale]
-date: 2025-03
-youtube_id: CI-C05V074k
 skill_version: ingest-batch-2026-04-14
 ---
 

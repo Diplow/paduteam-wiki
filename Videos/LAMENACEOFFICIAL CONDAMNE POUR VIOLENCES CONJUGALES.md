@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-04-17
+youtube_id: xHa2JBJCZbc
 domaine: [société]
 thèmes: [VSS, masculinisme]
 enjeux: [feminisme-materialiste, vss-comme-fait-social]
-date: 2023-04
-youtube_id: "xHa2JBJCZbc"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS #thème/masculinisme

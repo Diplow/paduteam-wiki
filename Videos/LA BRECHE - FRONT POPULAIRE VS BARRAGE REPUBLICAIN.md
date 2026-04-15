@@ -4,6 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2024-07-06
+youtube_id: 4-j1k5auwOU
 aliases: [LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]
 date created: Sunday, April 12th 2026, 5:25:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

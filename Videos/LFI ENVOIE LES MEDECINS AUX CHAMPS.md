@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-04-07
+youtube_id: XT_0YFmY_lM
 domaine: [société, politique-intérieure]
 thèmes: [santé, corpo-médicale, guerre-des-gauches]
 enjeux: [Corpo medicale, Union populaire]
-date: 2025-06
-youtube_id: XT_0YFmY_lM
 skill_version: ingest-batch-2026-04-14
 ---
 

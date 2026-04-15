@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-04-15
+youtube_id: NFnCfCXVt7o
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, élections]
 enjeux: [union-populaire, plus-jamais-PS]

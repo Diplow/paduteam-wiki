@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-08-30
+youtube_id: kyOS41v2Ubg
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2025-09
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

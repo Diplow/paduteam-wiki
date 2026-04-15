@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-11-23
+youtube_id: U26977L2L24
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, anti-impérialisme, guerre-des-gauches]
 enjeux: [Palestine-libre, anti-impérialisme, Sionisme-de-droite]
-date: 2024-11
-youtube_id: "U26977L2L24"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/anti-impérialisme #thème/guerre-des-gauches #enjeu/Palestine-libre #enjeu/anti-impérialisme

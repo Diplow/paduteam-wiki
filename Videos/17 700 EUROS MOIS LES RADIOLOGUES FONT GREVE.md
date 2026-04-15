@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-11-13
+youtube_id: 7yzD_OE6WDM
 domaine: [société, économie]
 thèmes: [santé, corpo-médicale]
 enjeux: [Corpo medicale]
-date: 2024-11
-youtube_id: 7yzD_OE6WDM
 skill_version: ingest-batch-2026-04-14
 ---
 

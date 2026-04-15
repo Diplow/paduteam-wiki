@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-02-09
+youtube_id: Hu-4ltLIimk
 domaine: [société, politique-intérieure]
 thèmes: [masculinisme, élections]
 enjeux: [féminisme-matérialiste]
-date:
-youtube_id: "Hu-4ltLIimk"
 aliases: ["PAYE TON DROITARD #7.2", "PTD #7.2", "PADU L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉROSEXUALITÉ"]
 skill_version: "1.0"
 ---

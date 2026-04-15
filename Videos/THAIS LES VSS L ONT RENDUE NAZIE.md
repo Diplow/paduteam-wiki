@@ -1,5 +1,6 @@
 ---
 type: video
+date: 2025-06-21
 youtube_id: 4MLEHjkr7Rs
 domaine: [société]
 thèmes: [féminisme]

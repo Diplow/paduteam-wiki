@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-02-13
+youtube_id: wppjlWp6HvA
 domaine: [société]
 thèmes: [féminisme, masculinisme, VSS]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #thème/féminisme #thème/masculinisme #thème/VSS

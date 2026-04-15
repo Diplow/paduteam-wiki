@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-11-19
+youtube_id: tjVIifoybys
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2025-11
 aliases: [PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCÉ POUR 2026]
 date created: Sunday, April 12th 2026, 5:25:30 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

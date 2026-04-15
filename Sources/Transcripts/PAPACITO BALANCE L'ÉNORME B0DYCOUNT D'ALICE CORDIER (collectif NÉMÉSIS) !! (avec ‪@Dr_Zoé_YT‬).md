@@ -1,6 +1,8 @@
 ---
 date created: Friday, March 27th 2026, 10:16:52 am
 date modified: Tuesday, March 31st 2026, 2:23:22 pm
+youtube_id: 6X_qpVRqvP8
+
 ---
 ### Chapitre 1 : Introduction
 

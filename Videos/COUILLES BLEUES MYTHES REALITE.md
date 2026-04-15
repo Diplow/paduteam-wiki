@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-11-22
+youtube_id: PSYLzGpiRe4
 domaine: [société]
 thèmes: [féminisme, VSS, santé]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #thème/féminisme #thème/VSS #thème/santé

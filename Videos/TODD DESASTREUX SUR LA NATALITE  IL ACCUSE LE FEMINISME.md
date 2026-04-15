@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2026-02-13
+youtube_id: nWck0GgPnxw
 domaine: [société, théorie]
 thèmes: [féminisme, démographie]
 enjeux: [plus-jamais-PS]

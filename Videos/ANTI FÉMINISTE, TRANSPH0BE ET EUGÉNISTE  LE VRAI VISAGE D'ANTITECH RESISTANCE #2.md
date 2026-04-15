@@ -1,9 +1,10 @@
 ---
 type: video
+date: 2026-01-10
+youtube_id: 30gViuLs8J0
 domaine: [théorie, société]
 thèmes: [féminisme, extrême-droite, écologie]
 enjeux: [féminisme-matérialiste, antiféminisme-identitaire-comme-menace]
-youtube_id: 30gViuLs8J0
 date video: 2026-01-30
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm

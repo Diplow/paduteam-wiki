@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-05-09
+youtube_id: apa807lyQeM
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice, racisme-antiracisme]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
-date: 2025
-youtube_id: apa807lyQeM
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/racisme-antiracisme #enjeu/Palestine-libre

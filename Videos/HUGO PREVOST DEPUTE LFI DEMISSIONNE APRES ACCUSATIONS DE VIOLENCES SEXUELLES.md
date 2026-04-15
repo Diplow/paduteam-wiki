@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-10-16
+youtube_id: yixXgHXrAho
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, guerre-des-gauches]
 format: analyse

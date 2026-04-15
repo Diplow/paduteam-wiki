@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-04-12
+youtube_id: hCwB2zdIslI
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande]
 enjeux: [Palestine-libre, Sionisme-de-droite]
-date: 2024-09
-youtube_id: "hCwB2zdIslI"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre

@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-05-28
+youtube_id: ncwt44Ejh_E
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice]
 enjeux: [Palestine-libre, Repression-des-pro-Palestine]
-date: 2024-05
-youtube_id: "ncwt44Ejh_E"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #enjeu/Palestine-libre #enjeu/Repression-des-pro-Palestine

@@ -4,6 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [médias-propagande, guerre-des-gauches, élections]
 enjeux: [union-populaire]
 date: 2025-12-31
+youtube_id: naNzzctpIfs
 date created: Wednesday, April 1st 2026, 11:35:50 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

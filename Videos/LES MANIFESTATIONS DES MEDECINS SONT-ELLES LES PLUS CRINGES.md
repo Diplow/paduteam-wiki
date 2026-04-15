@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-05-05
+youtube_id: V14W9I6sqjA
 domaine: [société]
 thèmes: [santé, féminisme, VSS, corpo-médicale]
 enjeux: [Corpo medicale, VSS comme fait social]
-date: 2025-04
-youtube_id: V14W9I6sqjA
 skill_version: ingest-batch-2026-04-14
 ---
 

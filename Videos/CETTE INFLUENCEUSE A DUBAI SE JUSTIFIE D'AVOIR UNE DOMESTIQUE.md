@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-12-01
+youtube_id: 6Q9Sj1E-pqs
 domaine: [société, théorie]
 thèmes: [travail, féminisme]
 enjeux: [anti-impérialisme]
-date: 2025-12
 aliases: [CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]
 date created: Sunday, April 12th 2026, 5:25:27 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-01-11
+youtube_id: JD7fmYX6l5g
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, guerre-des-gauches]
 format: analyse

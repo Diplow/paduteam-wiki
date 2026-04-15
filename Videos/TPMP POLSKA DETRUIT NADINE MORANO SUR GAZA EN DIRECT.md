@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-06-09
+youtube_id: XNIki6_ZNp0
 domaine: [géopolitique, société]
 thèmes: [Palestine, médias-propagande, féminisme]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
-date: 2024
-youtube_id: XNIki6_ZNp0
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/médias-propagande #thème/féminisme #enjeu/Palestine-libre

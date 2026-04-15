@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-05-13
+youtube_id: cQyddWBI59U
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]

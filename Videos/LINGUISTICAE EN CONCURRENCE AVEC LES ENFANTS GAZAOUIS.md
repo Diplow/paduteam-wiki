@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-06-05
+youtube_id: 4jVPJ1eaS9I
 domaine: [société, théorie]
 thèmes: [économie-numérique, Palestine, médias-propagande]
 enjeux: [Palestine libre]
-youtube_id: "4jVPJ1eaS9I"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/théorie #thème/économie-numérique #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre

@@ -6,6 +6,8 @@ chaine: "PaduTeam"
 segments: 463
 date created: Monday, March 30th 2026, 12:04:40 pm
 date modified: Tuesday, March 31st 2026, 2:23:22 pm
+youtube_id: wsiChBGb6T0
+
 ---
 
 La guerre au Parti socialiste commence.

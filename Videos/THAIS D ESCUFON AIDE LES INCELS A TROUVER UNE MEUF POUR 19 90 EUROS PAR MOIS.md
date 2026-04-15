@@ -1,5 +1,6 @@
 ---
 type: video
+date: 2024-02-15
 youtube_id: nxqv571BG-g
 domaine: [société]
 thèmes: [féminisme]

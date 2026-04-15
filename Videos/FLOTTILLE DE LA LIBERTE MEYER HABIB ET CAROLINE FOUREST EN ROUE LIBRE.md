@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-06-11
+youtube_id: CtL2h7P8Fe4
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande, anti-impérialisme]
 enjeux: [Palestine-libre, Repression-des-pro-Palestine, Sionisme-de-droite]
-date: 2025-07
-youtube_id: "CtL2h7P8Fe4"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/anti-impérialisme #enjeu/Palestine-libre #enjeu/Repression-des-pro-Palestine

@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-06-06
+youtube_id: aPjkUUSz3_o
 domaine: [société, géopolitique]
 thèmes: [Palestine, médias-propagande, racisme-antiracisme]
 format: analyse

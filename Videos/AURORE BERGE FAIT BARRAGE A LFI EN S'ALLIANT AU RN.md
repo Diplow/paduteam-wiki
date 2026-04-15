@@ -4,6 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-02-27
+youtube_id: 7JKcdnkGji8
 date created: Wednesday, April 1st 2026, 7:44:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]

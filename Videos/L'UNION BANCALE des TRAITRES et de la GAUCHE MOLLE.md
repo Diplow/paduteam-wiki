@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-07-19
+youtube_id: -leKXsqu7lw
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2025-07
 aliases: [L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE]
 date created: Sunday, April 12th 2026, 5:25:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

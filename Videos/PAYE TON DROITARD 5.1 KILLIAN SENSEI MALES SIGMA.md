@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-12-06
+youtube_id: 6Efl9NtTZ1s
 domaine: [société, théorie]
 thèmes: [féminisme, masculinisme]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme

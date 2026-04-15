@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-02-12
+youtube_id: 3BcnMjWpoqQ
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS]
 format: analyse

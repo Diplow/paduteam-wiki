@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-11-27
+youtube_id: 9jL2g2xtFuA
 domaine: [politique-intérieure, géopolitique]
 thèmes: [répression-justice, Palestine, guerre-des-gauches]
 enjeux: [Répression des pro-Palestine, Plus jamais PS, Palestine libre]
-youtube_id: "9jL2g2xtFuA"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/répression-justice #thème/Palestine #thème/guerre-des-gauches #enjeu/Répression-des-pro-Palestine #enjeu/Plus-jamais-PS #enjeu/Palestine-libre

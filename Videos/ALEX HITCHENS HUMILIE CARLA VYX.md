@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-12-26
+youtube_id: MAMJ-1ua6Og
 domaine: [société]
 thèmes: [féminisme, masculinisme, VSS, travail-du-sexe]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #thème/féminisme #thème/masculinisme #thème/VSS

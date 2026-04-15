@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-09-09
+youtube_id: vfEiOQKnZ4M
 domaine: [société]
 thèmes: [féminisme, VSS]
 enjeux: [féminisme-matérialiste]
-date: 2024-09
-youtube_id: "vfEiOQKnZ4M"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/féminisme #thème/VSS #enjeu/féminisme-matérialiste

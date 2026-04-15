@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-10-20
+youtube_id: qFduz90djok
 domaine: [société]
 thèmes: [masculinisme, racisme-antiracisme]
 enjeux: [féminisme-matérialiste]
-date:
-youtube_id: "qFduz90djok"
 aliases: ["PAYE TON DROITARD #2 @lobservateurOfficiel", "PTD #2", "PTD2"]
 skill_version: "1.0"
 ---

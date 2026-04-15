@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-05-30
+youtube_id: GDBDWWS43m8
 domaine:
   - société
 thèmes:
@@ -7,8 +9,6 @@ thèmes:
   - féminisme
 enjeux:
   - féminisme-matérialiste
-date:
-youtube_id: GDBDWWS43m8
 aliases:
   - "@Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES"
 skill_version: "1.0"

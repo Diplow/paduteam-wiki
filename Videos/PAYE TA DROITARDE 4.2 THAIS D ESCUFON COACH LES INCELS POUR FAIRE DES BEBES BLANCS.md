@@ -1,5 +1,6 @@
 ---
 type: video
+date: 2024-11-19
 youtube_id: GfF0eNxM3EY
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]

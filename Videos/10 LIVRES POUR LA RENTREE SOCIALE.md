@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-07-27
+youtube_id: ubfvCuQziRA
 domaine: [théorie]
 thèmes: [racisme-antiracisme, féminisme, anti-impérialisme, travail]
 enjeux: []

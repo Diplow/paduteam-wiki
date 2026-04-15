@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-10-21
+youtube_id: oDlbLE_aTPM
 domaine: [société, théorie]
 thèmes: [masculinisme, marxisme]
 enjeux: [féminisme-matérialiste]
-date:
-youtube_id: "oDlbLE_aTPM"
 aliases: ["Cet INCEL LIBERTARIEN nous CLASHE", "réponse à Mos Majorum"]
 skill_version: "1.0"
 ---

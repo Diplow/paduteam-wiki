@@ -4,6 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 enjeux: [union-populaire]
 date: 2025-02-21
+youtube_id: LxwZ1JIvNtE
 date created: Thursday, April 2nd 2026, 12:23:15 am
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [PADUSTREAM C'EST DÉJÀ FINI]

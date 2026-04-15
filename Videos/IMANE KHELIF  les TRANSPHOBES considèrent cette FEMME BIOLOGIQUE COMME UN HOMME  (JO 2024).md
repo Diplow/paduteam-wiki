@@ -1,9 +1,10 @@
 ---
 type: video
+date: 2024-08-02
+youtube_id: O5snda5fgSQ
 domaine: [société]
 thèmes: [féminisme, racisme-antiracisme]
 enjeux: [antiféminisme-identitaire-comme-menace, féminisme-matérialiste]
-youtube_id: O5snda5fgSQ
 date video: 2024-08
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm

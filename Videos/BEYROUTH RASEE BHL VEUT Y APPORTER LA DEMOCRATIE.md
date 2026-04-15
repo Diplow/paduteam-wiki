@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-10-04
+youtube_id: RDeV9JqXCAQ
 domaine: [géopolitique, société]
 thèmes: [Palestine, anti-impérialisme, médias-propagande]
 format: analyse

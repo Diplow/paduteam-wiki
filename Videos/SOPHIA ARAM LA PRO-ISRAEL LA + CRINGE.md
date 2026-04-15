@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-05-09
+youtube_id: uOwfFzd8MZ8
 domaine: [société, politique-intérieure]
 thèmes: [Palestine, médias-propagande, guerre-des-gauches, racisme-antiracisme]
 format: paye-ton-droitard

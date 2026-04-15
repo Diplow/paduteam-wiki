@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-02-08
+youtube_id: fZJh9PLgXdw
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande, économie]
 enjeux: [Répression des pro-Palestine, Palestine libre]
-youtube_id: "fZJh9PLgXdw"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/économie #enjeu/Palestine-libre

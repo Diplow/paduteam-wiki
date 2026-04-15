@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-05-23
+youtube_id: bWe1wP8xhvU
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, répression-justice]
 enjeux: [Palestine-libre, anti-impérialisme]
-date: 2024-11
-youtube_id: "bWe1wP8xhvU"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #thème/répression-justice #enjeu/Palestine-libre #enjeu/anti-impérialisme

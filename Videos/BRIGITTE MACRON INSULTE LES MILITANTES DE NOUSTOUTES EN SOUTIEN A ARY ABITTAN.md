@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-12-11
+youtube_id: -Q-ulX_kTmU
 domaine: [société, politique-intérieure]
 thèmes: [VSS, féminisme]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
-date: 2024-11
-youtube_id: "-Q-ulX_kTmU"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/politique-intérieure #thème/VSS #thème/féminisme

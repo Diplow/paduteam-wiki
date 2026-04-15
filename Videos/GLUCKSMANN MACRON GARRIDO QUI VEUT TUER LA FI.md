@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2026-02-19
+youtube_id: uxdDj_LCsA8
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [union-populaire]
-date: 2023-01
 date created: Wednesday, April 1st 2026, 11:23:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

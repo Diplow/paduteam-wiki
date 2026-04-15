@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-11-24
+youtube_id: aicHLiAXsxQ
 domaine: [politique-intérieure, géopolitique]
 thèmes: [guerre-des-gauches, anti-impérialisme, élections]
 enjeux: [plus-jamais-PS, anti-impérialisme, union-populaire, campisme-assumé]
-date: 2025-11
 aliases: [GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS]
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-03-28
+youtube_id: rKW1LNNPgzQ
 domaine: [société]
 thèmes: [VSS, médias-propagande]
 enjeux: [vss-comme-fait-social]
-date: 2023
-youtube_id: "rKW1LNNPgzQ"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS #thème/médias-propagande

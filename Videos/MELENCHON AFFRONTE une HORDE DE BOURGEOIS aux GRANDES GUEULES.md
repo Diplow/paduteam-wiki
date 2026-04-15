@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-06-26
+youtube_id: f_Vwiwj32xw
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, travail]
 enjeux: [union-populaire, plus-jamais-PS]
-date:
 date created: Wednesday, April 1st 2026, 7:51:46 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

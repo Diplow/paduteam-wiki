@@ -13,6 +13,12 @@ Modes d'utilisation :
     python batch_transcripts.py --fix          # Corrige l'inventaire (dates, URLs, transcripts existants)
     python batch_transcripts.py --full         # Fait tout : discover + fix + extraction
     python batch_transcripts.py --full --last 3  # Discover + fix + extraction des 3 dernières
+    python batch_transcripts.py --enrich-fiches              # Ajoute youtube_id + corrige dates dans Videos/
+    python batch_transcripts.py --enrich-fiches --dry-run    # Prévisualise sans écrire
+    python batch_transcripts.py --fix-fiche-dates            # Corrige les dates manquantes via API YouTube individuelle
+    python batch_transcripts.py --fix-fiche-dates --dry-run  # Prévisualise sans écrire
+    python batch_transcripts.py --enrich-transcripts         # Ajoute youtube_id aux transcripts Sources/Transcripts/
+    python batch_transcripts.py --enrich-transcripts --dry-run # Prévisualise sans écrire
 
 Fonctionnalités :
 - Découverte de nouvelles vidéos via yt-dlp --flat-playlist
@@ -48,6 +54,7 @@ INVENTAIRE_PATH = os.path.join(SCRIPT_DIR, "..", "Inventaire PaduTeam.md")
 TRANSCRIPTS_DIR = SCRIPT_DIR
 TEMP_DIR = os.path.join(SCRIPT_DIR, "_temp_ytdlp")
 CHANNEL_URL = "https://www.youtube.com/@PaduTeam/videos"
+VIDEOS_DIR = os.path.normpath(os.path.join(SCRIPT_DIR, "..", "..", "Videos"))
 PAUSE_SECONDS = 8         # pause entre chaque vidéo
 MAX_CONSECUTIVE_FAILS = 3  # stop après N échecs consécutifs
 INTERVAL_S = 30            # regrouper le texte par blocs de ~30s
@@ -945,6 +952,518 @@ def cmd_recent(n, dry_run=False):
 
 
 # =====================================================================
+#  ENRICHISSEMENT DES FICHES VIDEOS/ (youtube_id + dates)
+# =====================================================================
+
+def extract_youtube_id_from_frontmatter(fm):
+    """Extrait le youtube_id depuis le frontmatter, y compris depuis les lignes malformées.
+
+    Gère :
+      - youtube_id: XXXXX         (normal)
+      - date: youtube_id: XXXXX   (bug ingestion précédente)
+    """
+    # Cas normal
+    m = re.search(r'^youtube_id\s*:\s*["\']?([a-zA-Z0-9_-]{8,})["\']?', fm, re.MULTILINE)
+    if m:
+        return m.group(1)
+    # Cas malformé : "date: youtube_id: XXXXX"
+    m = re.search(r'^date\s*:\s*youtube_id\s*:\s*([a-zA-Z0-9_-]{8,})', fm, re.MULTILINE)
+    if m:
+        return m.group(1)
+    return None
+
+
+def cmd_fix_fiche_dates(dry_run=False):
+    """Corrige les dates incomplètes/malformées dans les fiches Videos/ via API individuelle."""
+    print(f"\n{'='*60}")
+    print(f"CORRECTION DES DATES DANS VIDEOS/")
+    print(f"{'='*60}")
+
+    if not os.path.isdir(VIDEOS_DIR):
+        print(f"ERREUR: dossier Videos/ introuvable : {VIDEOS_DIR}")
+        return
+
+    fiche_files = [
+        os.path.join(VIDEOS_DIR, f)
+        for f in sorted(os.listdir(VIDEOS_DIR))
+        if f.endswith('.md') and not f.startswith('_') and f != 'CLAUDE.md'
+    ]
+
+    # Identifier les fiches à corriger
+    to_fix = []
+    for fiche_path in fiche_files:
+        try:
+            with open(fiche_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except Exception:
+            continue
+        if not content.startswith('---'):
+            continue
+        end = content.find('\n---', 3)
+        if end == -1:
+            continue
+        fm = content[3:end]
+
+        youtube_id = extract_youtube_id_from_frontmatter(fm)
+        if not youtube_id:
+            continue  # Pas de youtube_id → ne peut pas récupérer la date
+
+        date_m = re.search(r'^date\s*:\s*(\S+)', fm, re.MULTILINE)
+        date_val = date_m.group(1) if date_m else None
+
+        # Malformé ou incomplet ?
+        if date_val and date_val.startswith('youtube_id'):
+            need_fix = True  # "date: youtube_id: XXXXX"
+        elif not date_val:
+            need_fix = True
+        elif re.match(r'\d{4}-\d{2}-\d{2}$', date_val):
+            need_fix = False  # Déjà complet
+        else:
+            need_fix = True   # Partiel : YYYY-MM, YYYY, YYYY-MM-XX, etc.
+
+        if need_fix:
+            to_fix.append((fiche_path, youtube_id, date_val))
+
+    print(f"  Fiches à corriger : {len(to_fix)}")
+    if dry_run:
+        for path, yt_id, old_date in to_fix:
+            print(f"  [dry-run] {os.path.basename(path)[:70]} | date={old_date} | yt={yt_id}")
+        return
+
+    updated = 0
+    failed = 0
+
+    for i, (fiche_path, youtube_id, old_date) in enumerate(to_fix):
+        name = os.path.basename(fiche_path)
+        print(f"\n[{i+1}/{len(to_fix)}] {name[:70]}")
+        print(f"    date actuelle : {old_date}  |  youtube_id : {youtube_id}")
+
+        new_date = get_video_upload_date(youtube_id)
+        if not new_date:
+            print(f"    ÉCHEC : impossible de récupérer la date")
+            failed += 1
+        else:
+            print(f"    → {new_date}")
+            _fix_fiche_date_and_id(fiche_path, youtube_id, new_date)
+            updated += 1
+
+        if i < len(to_fix) - 1:
+            time.sleep(5)
+
+    print(f"\n{'='*60}")
+    print(f"RÉSUMÉ")
+    print(f"  Dates corrigées : {updated}")
+    print(f"  Échecs          : {failed}")
+    print(f"{'='*60}")
+
+
+def _fix_fiche_date_and_id(fiche_path, youtube_id, new_date):
+    """Réécrit proprement date et youtube_id dans le frontmatter."""
+    with open(fiche_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    end = content.find('\n---', 3)
+    fm = content[3:end]
+    body = content[end:]
+
+    # 1. Supprimer toutes les lignes date: et youtube_id: existantes (y compris malformées)
+    fm = re.sub(r'^date\s*:.*$\n?', '', fm, flags=re.MULTILINE)
+    fm = re.sub(r'^youtube_id\s*:.*$\n?', '', fm, flags=re.MULTILINE)
+
+    # 2. Insérer date: et youtube_id: après la ligne type:
+    type_m = re.search(r'^(type\s*:.*)$', fm, re.MULTILINE)
+    if type_m:
+        insert_pos = type_m.end()
+        fm = fm[:insert_pos] + f"\ndate: {new_date}\nyoutube_id: {youtube_id}" + fm[insert_pos:]
+    else:
+        fm = fm.rstrip() + f"\ndate: {new_date}\nyoutube_id: {youtube_id}\n"
+
+    with open(fiche_path, 'w', encoding='utf-8') as f:
+        f.write('---' + fm + body)
+
+def get_transcript_title_from_fiche(fiche_path):
+    """Extrait le nom de fichier du wikilink dans la section ## Transcript."""
+    try:
+        with open(fiche_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception:
+        return None
+    m = re.search(r'##\s+Transcript\s*\n\[\[([^\]]+)\]\]', content)
+    if not m:
+        return None
+    link = m.group(1).strip()
+    return link.split('/')[-1]  # basename si chemin complet type [[Vault/dossier/nom]]
+
+
+def read_fiche_frontmatter_fields(fiche_path):
+    """Lit youtube_id et date depuis le frontmatter d'une fiche."""
+    result = {'youtube_id': None, 'date': None}
+    try:
+        with open(fiche_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception:
+        return result
+    if not content.startswith('---'):
+        return result
+    end = content.find('\n---', 3)
+    if end == -1:
+        return result
+    fm = content[3:end]
+    for line in fm.splitlines():
+        m = re.match(r'^youtube_id\s*:\s*["\']?([a-zA-Z0-9_-]+)["\']?\s*$', line)
+        if m:
+            result['youtube_id'] = m.group(1)
+        m = re.match(r'^date\s*:\s*(\S+)\s*$', line)
+        if m:
+            result['date'] = m.group(1)
+    return result
+
+
+def update_fiche_frontmatter(fiche_path, youtube_id=None, date=None, dry_run=False):
+    """Met à jour chirurgicalement youtube_id et/ou date dans le frontmatter.
+
+    - youtube_id : ajouté après la ligne 'date:' si absent
+    - date       : remplacé si partiel (YYYY-MM), inséré si absent
+    Retourne True si une modification a été effectuée.
+    """
+    try:
+        with open(fiche_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception:
+        return False
+
+    if not content.startswith('---'):
+        return False
+    end = content.find('\n---', 3)
+    if end == -1:
+        return False
+
+    fm = content[3:end]
+    body = content[end:]  # inclut le '\n---' de fermeture
+
+    original_fm = fm
+    changes = []
+
+    # --- Corriger / insérer la date ---
+    if date:
+        date_m = re.search(r'^(date\s*:)\s*(\S+)\s*$', fm, re.MULTILINE)
+        if date_m:
+            existing = date_m.group(2)
+            if not re.match(r'\d{4}-\d{2}-\d{2}', existing):
+                fm = fm[:date_m.start(2)] + date + fm[date_m.end(2):]
+                changes.append(f"date: {existing} → {date}")
+        else:
+            # Insérer après 'type:' ou en fin de frontmatter
+            type_m = re.search(r'^(type\s*:.*)$', fm, re.MULTILINE)
+            if type_m:
+                insert_pos = type_m.end()
+                fm = fm[:insert_pos] + f"\ndate: {date}" + fm[insert_pos:]
+            else:
+                fm = fm.rstrip() + f"\ndate: {date}"
+            changes.append(f"date: (absent) → {date}")
+
+    # --- Insérer youtube_id ---
+    if youtube_id and not re.search(r'^youtube_id\s*:', fm, re.MULTILINE):
+        date_line = re.search(r'^(date\s*:.*)$', fm, re.MULTILINE)
+        if date_line:
+            insert_pos = date_line.end()
+            fm = fm[:insert_pos] + f"\nyoutube_id: {youtube_id}" + fm[insert_pos:]
+        else:
+            type_m = re.search(r'^(type\s*:.*)$', fm, re.MULTILINE)
+            if type_m:
+                insert_pos = type_m.end()
+                fm = fm[:insert_pos] + f"\nyoutube_id: {youtube_id}" + fm[insert_pos:]
+            else:
+                fm = fm.rstrip() + f"\nyoutube_id: {youtube_id}"
+        changes.append(f"youtube_id: {youtube_id}")
+
+    if not changes or fm == original_fm:
+        return False
+
+    if dry_run:
+        print(f"    [dry-run] {os.path.basename(fiche_path)} : {', '.join(changes)}")
+        return True
+
+    new_content = '---' + fm + body
+    with open(fiche_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    return True
+
+
+def cmd_enrich_fiches(dry_run=False):
+    """Ajoute youtube_id et corrige les dates dans les fiches Videos/."""
+    print(f"\n{'='*60}")
+    print(f"ENRICHISSEMENT DES FICHES VIDEOS/")
+    print(f"{'='*60}")
+
+    if not os.path.isdir(VIDEOS_DIR):
+        print(f"ERREUR: dossier Videos/ introuvable : {VIDEOS_DIR}")
+        return
+
+    # Récupérer toutes les vidéos de la chaîne (1 seule requête)
+    channel_videos = discover_channel_videos()
+    if not channel_videos:
+        print("Impossible de récupérer les vidéos de la chaîne.")
+        return
+
+    # Construire l'index norm(title) → {video_id, date}
+    def norm_title(t):
+        t = t.lower()
+        t = re.sub(r'[^\w\s]', '', t)
+        t = re.sub(r'\s+', ' ', t).strip()
+        return t
+
+    channel_map = {}
+    for cv in channel_videos:
+        key = norm_title(cv['title'])
+        channel_map[key] = cv
+
+    # Lister les fiches
+    fiche_files = [
+        os.path.join(VIDEOS_DIR, f)
+        for f in os.listdir(VIDEOS_DIR)
+        if f.endswith('.md') and not f.startswith('_') and f != 'CLAUDE.md'
+    ]
+    print(f"  Fiches trouvées   : {len(fiche_files)}")
+    print(f"  Vidéos chaîne     : {len(channel_videos)}")
+    if dry_run:
+        print(f"  Mode              : DRY-RUN (aucune écriture)")
+
+    updated = 0
+    skipped = 0
+    no_match = 0
+    no_match_list = []
+
+    for fiche_path in sorted(fiche_files):
+        fields = read_fiche_frontmatter_fields(fiche_path)
+        has_id = bool(fields['youtube_id'])
+        date_complete = bool(fields['date'] and re.match(r'\d{4}-\d{2}-\d{2}', fields['date']))
+
+        if has_id and date_complete:
+            skipped += 1
+            continue
+
+        # Chercher la vidéo correspondante
+        fiche_name = os.path.splitext(os.path.basename(fiche_path))[0]
+        transcript_title = get_transcript_title_from_fiche(fiche_path)
+
+        cv_match = None
+
+        # 1. Match exact sur le titre transcript
+        if transcript_title:
+            key = norm_title(transcript_title)
+            if key in channel_map:
+                cv_match = channel_map[key]
+            else:
+                # Fuzzy sur titre transcript
+                best_score, best_cv = 0, None
+                for ckey, cv in channel_map.items():
+                    score = SequenceMatcher(None, key, ckey).ratio()
+                    if score > best_score:
+                        best_score, best_cv = score, cv
+                if best_score >= 0.75:
+                    cv_match = best_cv
+
+        # 2. Fallback : match sur le nom de la fiche
+        if not cv_match:
+            key = norm_title(fiche_name)
+            if key in channel_map:
+                cv_match = channel_map[key]
+            else:
+                best_score, best_cv = 0, None
+                for ckey, cv in channel_map.items():
+                    score = SequenceMatcher(None, key, ckey).ratio()
+                    if score > best_score:
+                        best_score, best_cv = score, cv
+                if best_score >= 0.75:
+                    cv_match = best_cv
+
+        if not cv_match:
+            no_match += 1
+            no_match_list.append(fiche_name)
+            continue
+
+        new_id = cv_match['video_id'] if not has_id else None
+        new_date = cv_match.get('upload_date') if not date_complete else None
+        # Ne pas écraser une date complète déjà présente
+        if new_date and not re.match(r'\d{4}-\d{2}-\d{2}', new_date):
+            new_date = None
+
+        if not new_id and not new_date:
+            skipped += 1
+            continue
+
+        did_update = update_fiche_frontmatter(
+            fiche_path,
+            youtube_id=new_id,
+            date=new_date,
+            dry_run=dry_run
+        )
+        if did_update:
+            updated += 1
+            if not dry_run:
+                print(f"  ✓ {fiche_name[:70]}")
+
+    print(f"\n{'='*60}")
+    print(f"RÉSUMÉ")
+    print(f"  Mises à jour : {updated}")
+    print(f"  Déjà OK      : {skipped}")
+    print(f"  Non matchées : {no_match}")
+    if no_match_list:
+        print(f"\nFiches sans match YouTube :")
+        for name in no_match_list:
+            print(f"  - {name}")
+    print(f"{'='*60}")
+
+
+# =====================================================================
+#  ENRICHISSEMENT DES TRANSCRIPTS (youtube_id)
+# =====================================================================
+
+def add_youtube_id_to_transcript(transcript_path, youtube_id, dry_run=False):
+    """Ajoute youtube_id au frontmatter d'un transcript s'il n'y est pas déjà."""
+    try:
+        with open(transcript_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception:
+        return False
+
+    if not content.startswith('---'):
+        # Pas de frontmatter → en créer un minimal
+        if dry_run:
+            return True
+        with open(transcript_path, 'w', encoding='utf-8') as f:
+            f.write(f'---\nyoutube_id: {youtube_id}\n---\n' + content)
+        return True
+
+    end = content.find('\n---', 3)
+    if end == -1:
+        return False
+
+    fm = content[3:end]
+    if re.search(r'^youtube_id\s*:', fm, re.MULTILINE):
+        return False  # Déjà présent
+
+    fm = fm.rstrip() + f'\nyoutube_id: {youtube_id}\n'
+
+    if dry_run:
+        return True
+
+    with open(transcript_path, 'w', encoding='utf-8') as f:
+        f.write('---' + fm + content[end:])
+    return True
+
+
+def cmd_enrich_transcripts(dry_run=False):
+    """Ajoute youtube_id aux fichiers Sources/Transcripts/ via les fiches Videos/ + yt-dlp."""
+    print(f"\n{'='*60}")
+    print(f"ENRICHISSEMENT DES TRANSCRIPTS")
+    print(f"{'='*60}")
+
+    if not os.path.isdir(VIDEOS_DIR):
+        print(f"ERREUR: dossier Videos/ introuvable : {VIDEOS_DIR}")
+        return
+
+    # --- Étape 1 : propager depuis les fiches Videos/ ---
+    # Chaque fiche qui a youtube_id + wikilink ## Transcript → on sait quel transcript correspond
+    transcript_to_id = {}  # nom de fichier (sans .md) → youtube_id
+
+    for f in sorted(os.listdir(VIDEOS_DIR)):
+        if not f.endswith('.md') or f.startswith('_') or f == 'CLAUDE.md':
+            continue
+        fiche_path = os.path.join(VIDEOS_DIR, f)
+        fields = read_fiche_frontmatter_fields(fiche_path)
+        yt_id = fields['youtube_id']
+        if not yt_id:
+            continue
+        transcript_name = get_transcript_title_from_fiche(fiche_path)
+        if transcript_name:
+            transcript_to_id[transcript_name] = yt_id
+
+    print(f"  Fiches avec youtube_id + lien transcript : {len(transcript_to_id)}")
+
+    # --- Étape 2 : fuzzy match via yt-dlp pour les transcripts restants ---
+    transcript_files = sorted([
+        f for f in os.listdir(TRANSCRIPTS_DIR)
+        if f.endswith('.md') and not f.startswith('_')
+    ])
+    names_without_ext = [f[:-3] for f in transcript_files]
+    uncovered = [n for n in names_without_ext if n not in transcript_to_id]
+
+    print(f"  Transcripts total   : {len(transcript_files)}")
+    print(f"  Couverts par fiches : {len(transcript_to_id)}")
+    print(f"  À matcher via yt-dlp: {len(uncovered)}")
+
+    if uncovered:
+        channel_videos = discover_channel_videos()
+        if channel_videos:
+            def norm_title(t):
+                t = t.lower()
+                t = re.sub(r'[^\w\s]', '', t)
+                t = re.sub(r'\s+', ' ', t).strip()
+                return t
+
+            channel_map = {norm_title(cv['title']): cv for cv in channel_videos}
+
+            fuzzy_matched = 0
+            for name in uncovered:
+                key = norm_title(name)
+                cv = channel_map.get(key)
+                if not cv:
+                    best_score, best_cv = 0, None
+                    for ckey, cv_item in channel_map.items():
+                        score = SequenceMatcher(None, key, ckey).ratio()
+                        if score > best_score:
+                            best_score, best_cv = score, cv_item
+                    if best_score >= 0.75:
+                        cv = best_cv
+                if cv:
+                    transcript_to_id[name] = cv['video_id']
+                    fuzzy_matched += 1
+            print(f"  Matchés via yt-dlp  : {fuzzy_matched}")
+
+    # --- Étape 3 : écrire dans les fichiers transcript ---
+    updated = 0
+    skipped = 0
+    no_match = 0
+
+    for transcript_file in transcript_files:
+        name = transcript_file[:-3]
+        transcript_path = os.path.join(TRANSCRIPTS_DIR, transcript_file)
+        youtube_id = transcript_to_id.get(name)
+
+        if not youtube_id:
+            no_match += 1
+            continue
+
+        if dry_run:
+            # Vérifier quand même si déjà présent
+            try:
+                with open(transcript_path, 'r', encoding='utf-8') as fh:
+                    head = fh.read(300)
+                if 'youtube_id' in head:
+                    skipped += 1
+                    continue
+            except Exception:
+                pass
+            print(f"  [dry-run] {transcript_file[:70]} → {youtube_id}")
+            updated += 1
+        else:
+            result = add_youtube_id_to_transcript(transcript_path, youtube_id, dry_run=False)
+            if result:
+                updated += 1
+            else:
+                skipped += 1
+
+    print(f"\n{'='*60}")
+    print(f"RÉSUMÉ")
+    print(f"  Mis à jour  : {updated}")
+    print(f"  Déjà OK     : {skipped}")
+    print(f"  Sans match  : {no_match}")
+    print(f"{'='*60}")
+
+
+# =====================================================================
 #  MAIN
 # =====================================================================
 
@@ -983,6 +1502,12 @@ def main():
         cmd_discover(dry_run=dry_run)
     elif '--fix' in args:
         cmd_fix()
+    elif '--enrich-fiches' in args:
+        cmd_enrich_fiches(dry_run=dry_run)
+    elif '--fix-fiche-dates' in args:
+        cmd_fix_fiche_dates(dry_run=dry_run)
+    elif '--enrich-transcripts' in args:
+        cmd_enrich_transcripts(dry_run=dry_run)
     else:
         # Mode par défaut : extraction seule (compatibilité)
         cmd_extract(dry_run=dry_run, last_n=last_n)

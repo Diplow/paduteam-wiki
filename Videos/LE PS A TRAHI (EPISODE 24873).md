@@ -4,6 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2026-03-31
+youtube_id: 2yxPH0PN3J4
 aliases: [LE PS A TRAHI (ÉPISODE 24873)]
 date created: Sunday, April 12th 2026, 5:25:29 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

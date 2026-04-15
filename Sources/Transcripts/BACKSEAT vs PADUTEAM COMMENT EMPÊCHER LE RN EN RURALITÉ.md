@@ -6,6 +6,8 @@ chaine: "PaduTeam"
 segments: 562
 date created: Monday, March 30th 2026, 11:52:00 am
 date modified: Thursday, April 2nd 2026, 10:27:50 am
+youtube_id: xnU_T2a6Nz0
+
 ---
 
 La gauche a-t-elle définitivement abandonné les campagnes qui sont maintenant un énorme nid de fasciste et on ne peut absolument rien y faire ?

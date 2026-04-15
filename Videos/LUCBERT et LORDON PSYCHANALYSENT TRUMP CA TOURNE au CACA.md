@@ -4,6 +4,7 @@ domaine: [théorie, société]
 thèmes: [États-Unis, médias-propagande]
 enjeux: []
 date: 2026-02-21
+youtube_id: dqhm9fNiQ8A
 date created: Wednesday, April 1st 2026, 9:31:14 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 aliases: [LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA]

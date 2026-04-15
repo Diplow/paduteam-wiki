@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-06-29
+youtube_id: NTxttm97yIU
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS]

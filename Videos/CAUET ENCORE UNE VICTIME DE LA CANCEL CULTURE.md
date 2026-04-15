@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-04-28
+youtube_id: LEPnG1iS_D8
 domaine: [société]
 thèmes: [VSS, médias-propagande]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
-date: 2024
-youtube_id: "LEPnG1iS_D8"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS #thème/médias-propagande

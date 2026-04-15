@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-05-28
+youtube_id: c6YvwHjVfYg
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
-date: 2025
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

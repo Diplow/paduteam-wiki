@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-10-23
+youtube_id: eyF1l-60H-Q
 domaine: [société, théorie]
 thèmes: [masculinisme, marxisme]
 enjeux: [féminisme-matérialiste]
-date:
-youtube_id: "eyF1l-60H-Q"
 aliases: ["RÉÉDUCATION DE L'INCEL LIBERTARIEN", "ON FINIT LE TRAVAIL"]
 skill_version: "1.0"
 ---

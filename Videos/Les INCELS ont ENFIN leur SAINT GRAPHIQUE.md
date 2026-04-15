@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-06-04
+youtube_id: cboXFgyovFY
 domaine: [société]
 thèmes: [féminisme, masculinisme]
 enjeux: []

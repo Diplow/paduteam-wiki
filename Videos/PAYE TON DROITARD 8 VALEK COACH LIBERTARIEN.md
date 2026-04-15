@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-04-04
+youtube_id: aEztMIYxbwo
 domaine: [société, théorie]
 thèmes: [masculinisme, racisme-antiracisme, trajectoires-politiques, complotisme]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #domaine/théorie #thème/masculinisme #thème/racisme-antiracisme #thème/trajectoires-politiques #thème/complotisme

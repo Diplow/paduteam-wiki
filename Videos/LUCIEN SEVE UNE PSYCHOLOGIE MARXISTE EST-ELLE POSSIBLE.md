@@ -4,6 +4,7 @@ domaine: [théorie, société]
 thèmes: [psychiatrie-psychologie, théorie]
 enjeux: []
 date: 2026-03-31
+youtube_id: zp-Oi6dkzgU
 aliases: [LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]
 date created: Thursday, April 2nd 2026, 3:19:15 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

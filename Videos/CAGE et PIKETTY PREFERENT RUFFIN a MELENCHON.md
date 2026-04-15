@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-05-26
+youtube_id: vM1SmvSWsVE
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections, ruralité, racisme-antiracisme]
 enjeux: [union-populaire]
-date:
 aliases: [CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON]
 date created: Wednesday, April 1st 2026, 7:51:47 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm

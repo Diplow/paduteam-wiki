@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-03-05
+youtube_id: Y74w11dUXsM
 domaine: [géopolitique, société]
 thèmes: [Palestine, féminisme, médias-propagande]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
-date: 2024
-youtube_id: Y74w11dUXsM
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/féminisme #thème/médias-propagande #enjeu/Palestine-libre

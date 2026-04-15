@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-01-09
+youtube_id: p1f7yn8b7XU
 domaine: [géopolitique]
 thèmes: [Palestine]
 enjeux: [Palestine-libre]
-date: 2025-02-XX
-youtube_id: "p1f7yn8b7XU"
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 13th 2026, 12:00:00 pm
 skill_version: ingest-batch-2026-04-13

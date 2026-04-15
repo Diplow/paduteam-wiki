@@ -1,10 +1,11 @@
 ---
 type: vidéo
+date: 2025-04-10
+youtube_id: 4n1s-3x5r-Q
 titre: "FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !"
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande, racisme-antiracisme, féminisme, guerre-des-gauches]
 enjeux: []
-date: 2025
 transcript: "[[FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE ! (@Dr_Zoé_YT x @pasduhring)]]"
 aliases: [FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE]
 date created: Thursday, April 2nd 2026, 3:19:15 pm

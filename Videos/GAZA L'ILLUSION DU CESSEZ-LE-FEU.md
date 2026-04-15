@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-02-15
+youtube_id: YpOkaTJB_vk
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme, campisme-assumé]
-date: 2026-01-XX
-youtube_id: "YpOkaTJB_vk"
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 13th 2026, 12:00:00 pm
 skill_version: ingest-batch-2026-04-13

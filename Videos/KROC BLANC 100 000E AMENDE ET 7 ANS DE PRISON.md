@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2024-10-19
+youtube_id: 0FXlB7EWfic
 domaine: [société]
 thèmes: [médias-propagande, répression-justice]
 enjeux: []

@@ -5,6 +5,7 @@ thèmes: [féminisme, VSS, guerre-des-gauches]
 format: analyse
 enjeux: [féminisme-matérialiste, VSS-comme-fait-social]
 date: 2022-10-01
+youtube_id: vpr0o3duK_4
 intervenants: [Dr Zoe, Chris]
 statut: ébauche
 skill_version: ingest-batch-2026-04-13

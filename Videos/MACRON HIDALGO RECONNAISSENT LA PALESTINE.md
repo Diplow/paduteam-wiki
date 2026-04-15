@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2025-09-22
+youtube_id: ZxdweYOefVA
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, guerre-des-gauches]
 enjeux: [Palestine-libre, plus-jamais-PS, anti-impérialisme]
-date: 2025-09-XX
-youtube_id: "ZxdweYOefVA"
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 13th 2026, 12:00:00 pm
 skill_version: ingest-batch-2026-04-13

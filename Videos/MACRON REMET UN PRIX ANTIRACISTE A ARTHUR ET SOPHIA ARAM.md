@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-04-03
+youtube_id: a7sHsPkNOhI
 domaine: [société, politique-intérieure]
 thèmes: [Palestine, médias-propagande, racisme-antiracisme, guerre-des-gauches]
 format: analyse

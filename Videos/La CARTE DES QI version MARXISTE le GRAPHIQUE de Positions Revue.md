@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-01-07
+youtube_id: MJsGgEA_Slw
 domaine: [théorie, politique-intérieure]
 thèmes: [élections]
 enjeux: [union-populaire]

@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-12-15
+youtube_id: uFbvnoocfrI
 domaine: [société, théorie]
 thèmes: [féminisme, masculinisme, complotisme]
 enjeux: [féminisme-matérialiste]
-date:
 date created: 2026-04-13
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme #thème/complotisme

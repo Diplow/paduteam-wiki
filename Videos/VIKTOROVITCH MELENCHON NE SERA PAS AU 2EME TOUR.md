@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2026-04-02
+youtube_id: 4CZoB0WQ7bk
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, médias-propagande]
 enjeux: [union-populaire, plus-jamais-PS]

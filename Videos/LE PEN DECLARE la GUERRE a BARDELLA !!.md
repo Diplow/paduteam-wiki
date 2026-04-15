@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-06-03
+youtube_id: yI96-pLF_14
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]

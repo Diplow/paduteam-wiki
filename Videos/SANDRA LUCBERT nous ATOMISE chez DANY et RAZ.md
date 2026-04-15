@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-05-07
+youtube_id: OvZcYM5_3UQ
 domaine: [théorie, société]
 thèmes: [féminisme, Palestine]
 enjeux: []

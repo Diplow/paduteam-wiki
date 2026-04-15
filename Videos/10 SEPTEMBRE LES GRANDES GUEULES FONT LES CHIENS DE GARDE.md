@@ -4,6 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, travail]
 enjeux: [union-populaire]
 date: 2024-09-10
+youtube_id: OWvRp0vK2Sg
 date created: Thursday, April 2nd 2026, 10:27:11 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

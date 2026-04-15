@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-02-10
+youtube_id: K542PIeTpLA
 domaine: [société, politique-intérieure]
 thèmes: [Palestine, médias-propagande, féminisme]
 enjeux: [Palestine-libre]
-date: 2024
-youtube_id: K542PIeTpLA
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre

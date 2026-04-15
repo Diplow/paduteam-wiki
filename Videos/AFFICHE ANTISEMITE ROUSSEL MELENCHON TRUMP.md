@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-03-19
+youtube_id: 4D5Xd8L4jsI
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, antisémitisme]
 enjeux: [plus-jamais-PS, union-populaire]

@@ -4,6 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]
 date: 2025-07-08
+youtube_id: TucnkB-bPBg
 date created: Sunday, April 12th 2026, 5:28:16 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

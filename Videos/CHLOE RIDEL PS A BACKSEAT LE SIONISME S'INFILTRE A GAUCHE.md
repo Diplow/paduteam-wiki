@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-05-31
+youtube_id: uPMZImTM3zw
 domaine: [politique-intérieure]
 thèmes: [Palestine, guerre-des-gauches, médias-propagande]
 format: analyse

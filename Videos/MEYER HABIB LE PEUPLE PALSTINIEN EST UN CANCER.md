@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-02-06
+youtube_id: ADd-wfitfm8
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande]
 enjeux: [Palestine-libre, Sionisme-de-droite]
-date: 2024-07
-youtube_id: "ADd-wfitfm8"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre

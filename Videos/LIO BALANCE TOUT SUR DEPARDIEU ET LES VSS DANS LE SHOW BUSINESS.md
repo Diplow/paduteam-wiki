@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-02-21
+youtube_id: Thah39dBUhg
 domaine: [société]
 thèmes: [VSS, médias-propagande]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
-date: 2023-12
-youtube_id: "Thah39dBUhg"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/VSS #thème/médias-propagande

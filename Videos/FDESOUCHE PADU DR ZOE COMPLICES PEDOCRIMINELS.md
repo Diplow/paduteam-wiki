@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-02-27
+youtube_id: CElQQFq-Ntk
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, médias-propagande, racisme-antiracisme]
 format: analyse

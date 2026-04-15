@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-11-11
+youtube_id: IpS_wmPph0Q
 domaine: [théorie, politique-intérieure]
 thèmes: [le-Graphique, travail, guerre-des-gauches]
 enjeux: []

@@ -4,6 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2025-09-00
+youtube_id: snQlvsjgr24
 date created: Wednesday, April 1st 2026, 5:48:07 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---

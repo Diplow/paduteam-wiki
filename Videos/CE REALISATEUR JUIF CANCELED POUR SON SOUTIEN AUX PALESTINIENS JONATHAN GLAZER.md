@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2024-03-26
+youtube_id: CyOlf-AJtBE
 domaine: [géopolitique, société]
 thèmes: [Palestine, médias-propagande, culture, répression-justice]
 enjeux: [Répression des pro-Palestine, Palestine libre]
-youtube_id: "CyOlf-AJtBE"
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/médias-propagande #thème/culture #thème/répression-justice #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre

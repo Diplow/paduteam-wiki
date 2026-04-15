@@ -1,5 +1,7 @@
 ---
 type: vidéo
+date: 2025-01-14
+youtube_id: W1cH9vb1snY
 domaine: [théorie, société]
 thèmes: [marxisme, capitalisme, trajectoires-politiques]
 enjeux: []

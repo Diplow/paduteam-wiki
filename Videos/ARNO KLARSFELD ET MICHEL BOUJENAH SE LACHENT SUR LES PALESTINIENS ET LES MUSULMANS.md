@@ -1,10 +1,10 @@
 ---
 type: vidéo
+date: 2024-04-16
+youtube_id: K08ELoqSU2M
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande, racisme-antiracisme, répression-justice]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
-date: 2024
-youtube_id: K08ELoqSU2M
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/racisme-antiracisme #thème/répression-justice #enjeu/Palestine-libre

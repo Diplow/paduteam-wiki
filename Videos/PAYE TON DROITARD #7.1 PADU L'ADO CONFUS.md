@@ -1,9 +1,10 @@
 ---
 type: vidéo
+date: 2025-02-02
+youtube_id: 9AJZrCZJvPk
 domaine: [société, théorie]
 thèmes: [trajectoires-politiques, féminisme, racisme-antiracisme, masculinisme]
 enjeux: []
-date:
 date created: Sunday, April 12th 2026, 5:27:36 pm
 date modified: Sunday, April 12th 2026, 5:46:47 pm
 ---
