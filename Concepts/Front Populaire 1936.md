@@ -5,7 +5,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, travail]
 skill_version: write-enjeu-2026-04-19
 date created: Sunday, April 19th 2026, 10:00:00 pm
-date modified: Sunday, April 19th 2026, 10:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/travail
 
@@ -17,7 +17,7 @@ Référence stratégique centrale mobilisée par la PaduTeam pour poser la quest
 
 ## La thèse opérationnelle
 
-Padu (sur la victoire Mamdani, nov 2025) : **« les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36 — ce sont les grèves de juin 36 qui les imposent »**. L'élection du Front Populaire en mai 1936 est une victoire nécessaire mais **insuffisante**. Ce sont les **grèves sur le tas de juin 1936** — 2 millions de grévistes, 12 000 usines occupées — qui contraignent le patronat et le gouvernement Blum à signer les accords de Matignon : hausse des salaires, reconnaissance syndicale, congés payés, semaine de 40 heures.
+La PaduTeam (sur la victoire Mamdani, nov 2025) : **« les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36 — ce sont les grèves de juin 36 qui les imposent »**. L'élection du Front Populaire en mai 1936 est une victoire nécessaire mais **insuffisante**. Ce sont les **grèves sur le tas de juin 1936** — 2 millions de grévistes, 12 000 usines occupées — qui contraignent le patronat et le gouvernement Blum à signer les accords de Matignon : hausse des salaires, reconnaissance syndicale, congés payés, semaine de 40 heures.
 
 Conséquence stratégique pour la PaduTeam : toute victoire électorale d'une [[Gauche de rupture]] — que ce soit [[Zohran Mamdani]] à NYC, un gouvernement [[France Insoumise|LFI]] en France, ou demain un président DSA aux USA — **sera contenue par l'establishment si elle n'est pas adossée à une mobilisation de rue permanente**. La pression du capital sur un élu isolé est mécanique. Sans grève, sans blocage, sans manifestation, l'élu cède.
 
@@ -29,5 +29,5 @@ Conséquence stratégique pour la PaduTeam : toute victoire électorale d'une [[
 
 ## Vidéos où le concept est mobilisé
 
-- [[MAMDANI A GAUCHE DE MELENCHON]] — Padu formule la thèse en clair : les 20 millions dépensés pour empêcher Mamdani seront « 10 ou 15 fois plus » une fois au pouvoir ; sans grèves de type juin 36, Mamdani sera contenu
+- [[MAMDANI A GAUCHE DE MELENCHON]] — la PaduTeam formule la thèse en clair : les 20 millions dépensés pour empêcher Mamdani seront « 10 ou 15 fois plus » une fois au pouvoir ; sans grèves de type juin 36, Mamdani sera contenu
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Risque de droitisation au pouvoir (Syriza, Podemos, mairies françaises) comme arrière-plan du cadre Front Populaire

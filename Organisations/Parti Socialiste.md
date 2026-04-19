@@ -3,7 +3,7 @@ type: organisation
 domaine: [politique-intérieure]
 thèmes: []
 date created: Tuesday, March 31st 2026, 10:40:40 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/politique-intérieure
 # Parti Socialiste
@@ -47,7 +47,7 @@ Le PS revient en force, exactement comme la PaduTeam l'avait prédit. Il gagne g
 
 La dynamique : les électeurs qui avaient voté Jadot 2019 (populisme bourgeois déçu de Macron) retournent au PS+Horizon. Le PS est "un parti droitisé, fort en se droitisant et en devenant central."
 
-Chris : "On a vraiment un socle PS sur le centre avec je sais pas 15 à 20% de l'électorat qui est prêt à voter pour ça au premier tour."
+Formulation PaduTeam : "On a vraiment un socle PS sur le centre avec je sais pas 15 à 20% de l'électorat qui est prêt à voter pour ça au premier tour."
 
 ## Faure tente d'être PM de Macron (septembre 2025)
 Avant les municipales, Faure tente de positionner le PS comme gouvernement de remplacement de [[Francois Bayrou|Bayrou]]. Il présente un budget alternatif à l'Assemblée et cherche une majorité intégrant macronistes et LR. Il ambitionne 14Md d'économies, retraite à 62 ans, baisse de CSG jusqu'à 1,4 SMIC, taxe Zucman symbolique. Analyse PaduTeam : c'est de l'[[Hollandisme]], le PS fait 2% dans les sondages, Faure est "écrasé entre les lieutenants de Mélenchon et les lieutenants de Glucksmann." La PaduTeam note que le PS n'a ni bastions solides ni ligne cohérente : il est "nul pour le 1er tour, fort pour le 2nd" grâce aux desistements de barrage.
@@ -58,7 +58,7 @@ Après la victoire de [[Zohran Mamdani]] à New York sur un programme [[Democrat
 
 **Formulation polémique** : « la danse du ventre au centre » — récupération culturelle de la victoire radicale pour légitimer un programme hollandien. Le PS est structurellement une [[Gauche de droite]] : il s'approprie les étiquettes gagnantes sans le contenu programmatique de rupture.
 
-**Retour opérationnel pour LFI** : Chris conseille de ne *pas* revendiquer le programme NFP (« ils vont le faire [le PS] ») mais de revendiquer un programme *plus à gauche que le NFP* — l'alignement DSA, qui permet de réassigner structurellement le PS au centre-droit.
+**Retour opérationnel pour LFI** : la PaduTeam conseille de ne *pas* revendiquer le programme NFP (« ils vont le faire [le PS] ») mais de revendiquer un programme *plus à gauche que le NFP* — l'alignement DSA, qui permet de réassigner structurellement le PS au centre-droit.
 
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.

@@ -5,7 +5,7 @@ thèmes: [États-Unis, élections, anti-impérialisme]
 aliases: [AOC, Ocasio-Cortez]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 12:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/élections #thème/anti-impérialisme
 # Alexandria Ocasio-Cortez
@@ -32,9 +32,9 @@ La PaduTeam note les limites d'AOC sur la Palestine et l'impérialisme — sans 
 
 ## L'AOC américaine vs « l'AOC française » — running gag
 
-Padu et Chris plaisantent sur l'homonymie avec **Amélie Oudéa-Castéra** (sigle français AOC, ancienne ministre macroniste), pour marquer ironiquement que les USA ont « un peu mieux » quelque part : leur AOC est une radicale DSA, la française est une ministre de l'Éducation caviardée qui fait parler d'elle par ses scandales[^aoc-vs]. « Tant qu'elle ne s'est pas baignée dans la scène en criant comme Amélie Oudéa-Castéra, moi dès que je suis un peu triste, je me remets la vidéo de 1min30 d'Amélie dans la scène et ça me refait » (Zoé). Gag militant : Amélie Oudéa-Castéra reste « amuse publique, troubadour » tandis qu'Alexandria Ocasio-Cortez fait de la politique.
+La PaduTeam plaisante sur l'homonymie avec **Amélie Oudéa-Castéra** (sigle français AOC, ancienne ministre macroniste), pour marquer ironiquement que les USA ont « un peu mieux » quelque part : leur AOC est une radicale DSA, la française est une ministre de l'Éducation caviardée qui fait parler d'elle par ses scandales[^aoc-vs]. Gag militant : Amélie Oudéa-Castéra reste « amuse publique, troubadour » tandis qu'Alexandria Ocasio-Cortez fait de la politique.
 
-[^aoc-vs]: [03:03](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=183) — Padu : « la AOC américaine. Je rappelle que nous AOC c'est Amélie Oudéa-Castéra, chez eux c'est Alexandria Ocasio-Cortez. Donc encore un truc sur lequel ils sont un peu mieux. »
+[^aoc-vs]: [03:03](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=183) — « la AOC américaine. Je rappelle que nous AOC c'est Amélie Oudéa-Castéra, chez eux c'est Alexandria Ocasio-Cortez. Donc encore un truc sur lequel ils sont un peu mieux. »
 
 ## Vidéos où AOC est mentionnée
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Généalogie BNC : AOC première victoire (2018, Bronx/Queens), Mamdani deuxième génération (2025, NYC)

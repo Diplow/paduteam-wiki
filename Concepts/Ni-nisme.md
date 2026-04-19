@@ -4,7 +4,7 @@ domaine: ['théorie']
 thèmes: ['Venezuela']
 aliases: [Ni-ni, Confusionnisme de gauche, Troisième voie]
 date created: Tuesday, March 31st 2026, 9:53:01 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/théorie #thème/Venezuela
 # Ni-nisme
@@ -22,7 +22,7 @@ En introduisant de la "surcomplexité en période de guerre" — agents doubles,
 - Guerre des gauches: chercher une troisième voie entre [[Jean-Luc Melenchon]] et [[Francois Hollande|Hollande]] → confusion
 - Groenland (janvier 2026) : « ni Trump ni le Danemark colonisateur » sans rupture réelle → statu quo qui livre le Groenland aux USA. La PaduTeam tranche en campiste étendu : « il n'y a pas de troisième voix possible [...] Si vous croyez au droit international sans rompre avec l'OTAN et l'UE, vous êtes un tartuf »[^groen_nini]. Le droit international sans retournement d'alliances est performatif : la seule rupture cohérente est de soutenir l'autonomie radicale du peuple groenlandais « autonome des Américains et autonome de l'OTAN et du Danemark et de l'UE ».
 
-[^groen_nini]: [36:40](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=2200) — Chris : « Il n'y a pas d'autres solutions. Il n'y a pas de troisième voix possible. [...] Si vous croyez au droit international sans rompre avec l'OTAN et l'UE, vous êtes un tartuf. Vous êtes soit un idiot, soit vous serez un collabo de fait. Si vous croyez pouvoir faire le droit international avec Trump, c'est bidon. »
+[^groen_nini]: [36:40](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=2200) — « Il n'y a pas d'autres solutions. Il n'y a pas de troisième voix possible. [...] Si vous croyez au droit international sans rompre avec l'OTAN et l'UE, vous êtes un tartuf. Vous êtes soit un idiot, soit vous serez un collabo de fait. Si vous croyez pouvoir faire le droit international avec Trump, c'est bidon. »
 
 ## Lien avec le [[Campisme]]
 Le [[Campisme]] est la position opposée au ni-nisme: choisir un camp, même imparfait, en période de conflit. La PaduTeam défend le campisme comme seule position anti-impérialiste viable.

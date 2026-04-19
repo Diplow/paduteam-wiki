@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [populisme bourgeois, populisme d'en haut, populisme des classes supérieures]
 date created: Thursday, April 2nd 2026, 12:12:16 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -55,12 +55,12 @@ Une formulation particulièrement claire est posée dans [[CE QUE SIGNIFIE VRAIM
 - Cette disqualification ouvre un espace pour un populisme *bourgeois* — qui peut se présenter comme "ni droite ni gauche" parce que la droite est devenue inassimilable
 - Macron capture cet espace avec un populisme bourgeois technocratique : « on va élire un directeur général de Renault ou un DRH à la présidence »[^bisrep_1]
 
-Chris formule explicitement : « le trumpisme a favorisé Macron là-dessus — parce qu'en plus le trumpisme était assimilé à Marine Le Pen et donc à populisme raciste, on a eu un populisme bourgeois »[^bisrep_1].
+La PaduTeam formule explicitement : « le trumpisme a favorisé Macron là-dessus — parce qu'en plus le trumpisme était assimilé à Marine Le Pen et donc à populisme raciste, on a eu un populisme bourgeois »[^bisrep_1].
 
 **La farce 2024** : Si la séquence 2016-2017 était "tragique", la répétition 2024 est "farce". Le populisme bourgeois "ne peut plus fonctionner" parce que les gens ne rêvent plus de la startup nation — le modèle a échoué en France comme en Allemagne. La France "à l'avant-garde" de la gauche européenne peut capitaliser sur la démonstration par l'échec : « vous avez fait l'essai pour ne pas avoir le trumpisme, vous voyez que ça ne fonctionne pas »[^bisrep_2]. Message militant : pas de troisième populisme bourgeois possible — seule la gauche radicale tient.
 
-[^bisrep_1]: [34:58](https://www.youtube.com/watch?v=mK41og88Zj0&t=2098) — Chris : « je pense que le trumpisme a favorisé Macron là-dessus, et justement parce qu'en plus le trumpisme était assimilé à Marine Le Pen et donc à populisme raciste — on a eu un populisme bourgeois ».
-[^bisrep_2]: [37:41](https://www.youtube.com/watch?v=mK41og88Zj0&t=2261) — Chris : « bis repetita — c'était tragique en 2016, c'est une farce en 2024 — vous avez fait l'essai pour ne pas avoir le trumpisme et ces zzats européens du contrat racial, du populisme bourgeois et cette espèce de gauche de droite Glucksmann — vous voyez que ça ne fonctionne pas ».
+[^bisrep_1]: [34:58](https://www.youtube.com/watch?v=mK41og88Zj0&t=2098) — « je pense que le trumpisme a favorisé Macron là-dessus, et justement parce qu'en plus le trumpisme était assimilé à Marine Le Pen et donc à populisme raciste — on a eu un populisme bourgeois ».
+[^bisrep_2]: [37:41](https://www.youtube.com/watch?v=mK41og88Zj0&t=2261) — « bis repetita — c'était tragique en 2016, c'est une farce en 2024 — vous avez fait l'essai pour ne pas avoir le trumpisme et ces zzats européens du contrat racial, du populisme bourgeois et cette espèce de gauche de droite Glucksmann — vous voyez que ça ne fonctionne pas ».
 
 ## Vidéos où le concept est développé
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Généalogie 2016-2017 du populisme bourgeois** : le trumpisme a fabriqué Macron en disqualifiant la droite assumée. Thèse de la farce 2024 : pas de troisième populisme bourgeois possible

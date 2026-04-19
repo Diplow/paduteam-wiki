@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Venezuela, Amérique-latine, Ukraine, États-Unis]
 skill_version: write-enjeu-2026-04-19
 date created: Monday, April 13th 2026, 11:53:22 am
-date modified: Sunday, April 19th 2026, 10:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches #thème/Ukraine #thème/États-Unis
 # Campisme assumé
@@ -69,7 +69,7 @@ Le corpus USA (nov 2024 → fév 2026) durcit et clarifie le campisme. Face au b
 
 ### « Pas de troisième voix possible » — la clôture explicite
 
-Formulation la plus nette de la période, par Chris face au Groenland (janv 2026) : **« Il y a deux solutions [...] Il n'y a pas de troisième voix possible »**[^usa_deuxvoies]. Les deux chemins sont précisés :
+Formulation la plus nette de la période, par la PaduTeam face au Groenland (janv 2026) : **« Il y a deux solutions [...] Il n'y a pas de troisième voix possible »**[^usa_deuxvoies]. Les deux chemins sont précisés :
 
 - **Chemin 1 (soumission) : la loi du plus fort**. Accepter la vassalisation, s'armer pour servir, finir « collabo de fait ». C'est ce que font Macron, Attal, le bloc central, les bourgeoisies européennes. À la fin : l'escalade puis la guerre.
 - **Chemin 2 (rupture) : alliance anti-impérialiste**. « Collaboration des peuples, un retournement d'alliance avec la Chine, avec les pays socialistes ou sur la voie du socialisme en Amérique du Sud — la Colombie, le Venezuela, Cuba, le Mexique aujourd'hui ».
@@ -80,15 +80,15 @@ Précision doctrinale sur la nature de la loi du plus fort : ce n'est pas un nou
 
 ### Application Marx-Engels 1840 — campisme matérialiste, pas moral
 
-Les émeutes de Los Angeles (juin 2026) fournissent à Chris l'occasion de formaliser le campisme matérialiste. [[Gavin Newsom]] est macroniste ; la PaduTeam l'assume — « ce pays a une gauche de droite et une droite d'extrême droite ». Mais **l'analyse matérialiste exige de lire un corpus d'idées dans sa dynamique historique** : « un bourgeois égalitariste et libéral aujourd'hui est un conservateur voire un réactionnaire — le même au 15ᵉ siècle c'était un révolutionnaire ».
+Les émeutes de Los Angeles (juin 2026) fournissent à la PaduTeam l'occasion de formaliser le campisme matérialiste. [[Gavin Newsom]] est macroniste ; la PaduTeam l'assume — « ce pays a une gauche de droite et une droite d'extrême droite ». Mais **l'analyse matérialiste exige de lire un corpus d'idées dans sa dynamique historique** : « un bourgeois égalitariste et libéral aujourd'hui est un conservateur voire un réactionnaire — le même au 15ᵉ siècle c'était un révolutionnaire ».
 
-Analogie théorique mobilisée : Marx et Engels dans les années 1840 considéraient les nationalismes progressistes contre l'empire austro-hongrois en déliquescence comme des « forces possibles révolutionnaires ». **Inséré face à Trump**, Newsom devient « un pas en avant dans la destruction de l'empire américain qui est une nécessité pour la planète ». La matrice campiste ici n'est **ni alignement sur Newsom**, **ni soutien aveugle au CalExit** — c'est le choix de camp dans le rapport de force objectif. Chris refuse l'analogie avec le Brexit (« les bourgeoisies locales qui sont sorties des traités européens ») et refuse aussi le fantasme d'une « République soviétique de Californie ». L'intérêt est **en négatif** : désagréger l'empire réduit la puissance matérielle qui pèse sur le reste du monde[^usa_marxengels].
+Analogie théorique mobilisée : Marx et Engels dans les années 1840 considéraient les nationalismes progressistes contre l'empire austro-hongrois en déliquescence comme des « forces possibles révolutionnaires ». **Inséré face à Trump**, Newsom devient « un pas en avant dans la destruction de l'empire américain qui est une nécessité pour la planète ». La matrice campiste ici n'est **ni alignement sur Newsom**, **ni soutien aveugle au CalExit** — c'est le choix de camp dans le rapport de force objectif. La PaduTeam refuse l'analogie avec le Brexit (« les bourgeoisies locales qui sont sorties des traités européens ») et refuse aussi le fantasme d'une « République soviétique de Californie ». L'intérêt est **en négatif** : désagréger l'empire réduit la puissance matérielle qui pèse sur le reste du monde[^usa_marxengels].
 
 ### Le programme opératoire — LFI-type comme seule force capable
 
-Chris (Rubio) formule en clair le programme campiste positif : **seules des « gauches de rupture » de type [[France Insoumise]] peuvent techniquement gouverner des États du centre impérialiste en assumant la **rupture du dollar** et la **rupture du marché** pour redévelopper les forces productives**. Rubio délire sans les moyens (planification, contrôle des prix, investissement public massif qu'il désigne comme « communisme ») ; LFI tient techniquement les outils mais doit assumer politiquement le chemin 2. C'est la formulation stratégique du campisme assumé à l'échelle du centre impérialiste : **le campisme n'est pas seulement un soutien externe aux résistances du Sud, c'est aussi un programme intérieur de rupture**.
+La PaduTeam (Rubio) formule en clair le programme campiste positif : **seules des « gauches de rupture » de type [[France Insoumise]] peuvent techniquement gouverner des États du centre impérialiste en assumant la **rupture du dollar** et la **rupture du marché** pour redévelopper les forces productives**. Rubio délire sans les moyens (planification, contrôle des prix, investissement public massif qu'il désigne comme « communisme ») ; LFI tient techniquement les outils mais doit assumer politiquement le chemin 2. C'est la formulation stratégique du campisme assumé à l'échelle du centre impérialiste : **le campisme n'est pas seulement un soutien externe aux résistances du Sud, c'est aussi un programme intérieur de rupture**.
 
-Corollaire pour l'OTAN : **sortir de l'OTAN est la condition du chemin 2** pour les pays européens. Le Groenland a démontré que l'OTAN est un mécanisme unilatéral de contrôle américain, pas de protection mutuelle. Toute gauche qui prétend rompre avec l'impérialisme sans sortir de l'OTAN tient un discours incohérent — « tartuf » selon Chris.
+Corollaire pour l'OTAN : **sortir de l'OTAN est la condition du chemin 2** pour les pays européens. Le Groenland a démontré que l'OTAN est un mécanisme unilatéral de contrôle américain, pas de protection mutuelle. Toute gauche qui prétend rompre avec l'impérialisme sans sortir de l'OTAN tient un discours incohérent — « tartuf » selon la PaduTeam.
 
 ### La paix contre l'escalade guerrière
 
@@ -98,9 +98,9 @@ Position communiste explicite face à Attal qui appelle à « s'armer, faire du 
 
 Les [[Atlantisme|atlantistes]] français (Damien Rieu, Julien Odoul, CNews) sont désignés comme les **équivalents contemporains de Charles Maurras** : antigermains en paroles, ils appellent « divine surprise » l'occupation par le plus fort dès qu'elle vient de l'extérieur. « C'est des gens qui sont toujours du côté du plus fort, surtout si le plus fort n'est pas dans leur pays. Donc c'est un patriotisme en carton ». Le campisme assumé permet de désigner l'atlantisme comme ce qu'il est — une soumission de classe, pas une « modération ».
 
-[^usa_deuxvoies]: [36:40](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=2200) — Chris : « il n'y a pas d'autres solutions. Il n'y a pas de troisième voix possible ».
-[^usa_marxengels]: [5:46](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=346) — Chris : « comme Marx et Engels dans les années 1840 où on se dit : même les nationalismes progressistes contre l'empire austro-hongrois en déliquescence sont quand même des forces possibles révolutionnaires ».
-[^usa_paix]: [12:55](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=775) — Chris : « vraiment la position communiste c'est la paix, la paix, la paix, la paix, la paix, la paix et la paix ».
+[^usa_deuxvoies]: [36:40](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=2200) — « il n'y a pas d'autres solutions. Il n'y a pas de troisième voix possible ».
+[^usa_marxengels]: [5:46](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=346) — « comme Marx et Engels dans les années 1840 où on se dit : même les nationalismes progressistes contre l'empire austro-hongrois en déliquescence sont quand même des forces possibles révolutionnaires ».
+[^usa_paix]: [12:55](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=775) — « vraiment la position communiste c'est la paix, la paix, la paix, la paix, la paix, la paix et la paix ».
 
 ## Vidéos clés (suite — corpus USA 2025-2026)
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — Formulation la plus claire du campisme assumé : « pas de troisième voix possible », deux chemins uniquement (loi du plus fort vs retournement d'alliances anti-impérialistes), OTAN démystifiée

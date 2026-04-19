@@ -5,7 +5,7 @@ thèmes: [États-Unis, élections, guerre-des-gauches]
 aliases: [Cuomo]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 3:00:00 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/élections #thème/guerre-des-gauches
 
@@ -16,12 +16,12 @@ Ancien gouverneur démocrate de l'État de New York, fils du gouverneur démocra
 
 ## Le « Manuel Valls de New York »
 
-Formulation de Chris dans la vidéo d'analyse de la victoire Mamdani :
+Formulation PaduTeam dans la vidéo d'analyse de la victoire Mamdani :
 « C'est un peu le Manuel Valls de New York en fait. C'est Manuel Valls mais encore au-dessus. Tu vois Manuel Valls un peu médiocre. »[^1]
 
 Cuomo incarne la **[[Gauche de droite]]** américaine version appareil démocrate : mâle, blanc, riche, héritier dynastique (son père Mario Cuomo fut également gouverneur de l'État de New York — la PaduTeam rappelle ironiquement que les États-Unis ont « fabriqué une forme d'aristocratie » malgré leur mythologie antiaristocratique, parallèle avec les dynasties Bush, Clinton, Kennedy).
 
-Chris ajoute sur l'incapacité structurelle des démocrates à l'autodiscipline : « mec riche blanc de pouvoir ne pas être un agresseur sexuel challenge »[^2]. Cuomo a donc démissionné pour harcèlement, perdu la primaire face à Mamdani, puis s'est représenté quand même — refusant la discipline primaire quand son camp perd.
+La PaduTeam ajoute sur l'incapacité structurelle des démocrates à l'autodiscipline : « mec riche blanc de pouvoir ne pas être un agresseur sexuel challenge »[^2]. Cuomo a donc démissionné pour harcèlement, perdu la primaire face à Mamdani, puis s'est représenté quand même — refusant la discipline primaire quand son camp perd.
 
 ## Le test primaire — avertissement Mélenchon/Glucksmann
 
@@ -38,6 +38,6 @@ La PaduTeam tire explicitement la leçon française : **quand l'aile droite d'un
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Analyse détaillée : « Manuel Valls de New York », dynastie, harcèlement, refus de la discipline primaire, test français de la primaire Mélenchon/Glucksmann
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Mentionné comme incarnation du « bloc Clinton-Cuomo-Harris » auquel la PaduTeam réassigne Faure et le PS français contre la DSA
 
-[^1]: [10:20](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=620) — Chris : « C'est un peu le Manuel Valls de New York en fait. C'est Manuel Valls mais encore au-dessus. Manuel Valls un peu médiocre. »
-[^2]: [09:49](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=589) — Chris : « mec riche blanc de pouvoir ne pas être un agresseur sexuel challenge. »
-[^3]: [10:51](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=651) — Padu : « C'est une alerte — si Mélenchon gagne une primaire à gauche avec Glucksmann dedans, si Glucksmann va quand même ou pas — j'attends que ça. »
+[^1]: [10:20](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=620) — « C'est un peu le Manuel Valls de New York en fait. C'est Manuel Valls mais encore au-dessus. Manuel Valls un peu médiocre. »
+[^2]: [09:49](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=589) — « mec riche blanc de pouvoir ne pas être un agresseur sexuel challenge. »
+[^3]: [10:51](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=651) — « C'est une alerte — si Mélenchon gagne une primaire à gauche avec Glucksmann dedans, si Glucksmann va quand même ou pas — j'attends que ça. »

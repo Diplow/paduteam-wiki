@@ -4,7 +4,7 @@ domaine: ['géopolitique']
 thèmes: ['Palestine', 'anti-impérialisme']
 aliases: [Crise de l'hégémonisme états-unien, Pivot asiatique, Crise de l'hégémonie américaine]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Saturday, April 19th 2026, 8:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
@@ -41,14 +41,14 @@ La crise de l'hégémonie a désormais un **front intérieur** lisible en temps 
 
 - **20% des exportations chinoises vers les USA transitent par la Californie**[^la_20pc]. Une Californie autonomisée, ou indépendante, coûterait à Pékin *l'équivalent de 10 points de droits de douane* négociés avec Washington — d'où l'intérêt chinois explicite à soutenir le CalExit.
 - **Newsom annonce ses propres tarifs de douane californiens** en avril 2026, distincts de ceux de Trump, pour préserver la relation Californie/Chine[^la_tarifs]. L'État fédéré commence à se donner une *politique commerciale autonome* — signal que la crise interne se déverse désormais directement dans la crise d'hégémonie externe.
-- **Xi Jinping parle publiquement de « libération du peuple californien »**, rappelle que « la Californie a longtemps appartenu au Mexique », se dit attentif aux « libertés » dans le traitement des émeutes. Chris prédit explicitement : **« Pékin sera le premier pays à reconnaître »** une Californie indépendante[^la_xi].
+- **Xi Jinping parle publiquement de « libération du peuple californien »**, rappelle que « la Californie a longtemps appartenu au Mexique », se dit attentif aux « libertés » dans le traitement des émeutes. La PaduTeam prédit explicitement : **« Pékin sera le premier pays à reconnaître »** une Californie indépendante[^la_xi].
 
 L'hégémonie américaine ne craque plus seulement à la périphérie (Iran, Venezuela, BRICS) ou à la frontière (Mexique) — elle craque *à l'intérieur*, via des États fédérés qui **s'adossent à ses concurrents géopolitiques**. C'est le pendant intérieur de la [[Desagregation de l empire americain]].
 
-[^la_londres]: [37:18](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2238) — Chris : « au même moment [les émeutes de LA], la Chine et les États-Unis étaient en négociation à Londres pour les douanes. »
-[^la_20pc]: [37:48](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2268) — Chris : « 20% de ces exportations [chinoises vers les USA] sont vers la Californie [...] si la Californie n'en fait pas partie, pour eux c'est l'équivalent de 40% [au lieu de 50% négociés]. »
-[^la_tarifs]: [37:18](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2238) — Chris : « au début avril, quand Trump avait dit qu'il allait monter les niveaux de douanes avec la Chine, le gouverneur de Californie avait dit : je vais moi-même mettre mes propres tarifs de douane. Je ne veux pas des tarifs de Trump avec la Chine pour la Californie. »
-[^la_xi]: [8:54](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=534) — Padu : « Xi Jinping a dit qu'il regardait ce qui se passait à Los Angeles pour voir si les libertés allaient être préservées [...] il serait temps que la nation californienne progressiste et égalitaire s'affranchisse de l'Amérique autoritaire. » — Chris : « Pékin sera le premier pays à reconnaître ce pays officiellement. »
+[^la_londres]: [37:18](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2238) — « au même moment [les émeutes de LA], la Chine et les États-Unis étaient en négociation à Londres pour les douanes. »
+[^la_20pc]: [37:48](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2268) — « 20% de ces exportations [chinoises vers les USA] sont vers la Californie [...] si la Californie n'en fait pas partie, pour eux c'est l'équivalent de 40% [au lieu de 50% négociés]. »
+[^la_tarifs]: [37:18](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2238) — « au début avril, quand Trump avait dit qu'il allait monter les niveaux de douanes avec la Chine, le gouverneur de Californie avait dit : je vais moi-même mettre mes propres tarifs de douane. Je ne veux pas des tarifs de Trump avec la Chine pour la Californie. »
+[^la_xi]: [8:54](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=534) — « Xi Jinping a dit qu'il regardait ce qui se passait à Los Angeles pour voir si les libertés allaient être préservées [...] il serait temps que la nation californienne progressiste et égalitaire s'affranchisse de l'Amérique autoritaire. [...] Pékin sera le premier pays à reconnaître ce pays officiellement. »
 
 ## Vidéos où le concept est développé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]

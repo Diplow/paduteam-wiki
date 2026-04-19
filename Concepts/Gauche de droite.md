@@ -5,7 +5,7 @@ thèmes: [guerre-des-gauches, élections, États-Unis]
 aliases: [gauche droitière, social-démocratie droitisée, centre-gauche atlantiste]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 12:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/États-Unis
 # Gauche de droite
@@ -35,7 +35,7 @@ La "Jospin de 2002" n'est pas un accident individuel — c'est la logique struct
 
 ## Le sandwich démocrate — décomposition mécanique (cas Harris 2024)
 
-Chris décompose la coalition démocrate américaine comme un **sandwich** à trois étages. Harris a perdu parce qu'elle n'a réussi à mobiliser aucun des trois :
+La PaduTeam décompose la coalition démocrate américaine comme un **sandwich** à trois étages. Harris a perdu parce qu'elle n'a réussi à mobiliser aucun des trois :
 
 - **Pain du bas** (très précaires, notamment Afro-Américains — "le capitalisme racialisé américain") : vote démocrate structurel, mais *sous-mobilisé* parce qu'aucun programme conséquent ne leur était proposé — même les Noirs américains, qui se sont "un peu surdéplacés", auraient pu l'être davantage.
 - **Garniture** (classes moyennes basses et hautes, classes intermédiaires en crise matérielle et culturelle) : **c'est précisément cet électorat qui a basculé vers Trump** — des gens qui avaient voté démocrate auparavant et qui passent à Trump dans ces classes intermédiaires.
@@ -43,9 +43,9 @@ Chris décompose la coalition démocrate américaine comme un **sandwich** à tr
 
 Diagnostic récapitulatif : la gauche de droite est « trop libérale pour bouger les masses précaires, trop conservatrice pour bouger les masses éduquées sensibles aux questions matérielles et géopolitiques ». La défaite est arithmétique : aucun des trois étages ne peut être "son" territoire.
 
-## Pingwashing et échec identitaire
+## Pinkwashing et échec identitaire
 
-Un corollaire du mécanisme de défaite : la gauche de droite compense son absence de programme de classe par de la **mise en scène identitaire** (pingwashing, "première femme", "première racisée"). Mais l'identité sans programme ne mobilise pas — au contraire, elle *dégoûte* parce qu'elle signale au spectateur que le candidat croit que la représentation suffit.
+Un corollaire du mécanisme de défaite : la gauche de droite compense son absence de programme de classe par de la **mise en scène identitaire** (pinkwashing, "première femme", "première racisée"). Mais l'identité sans programme ne mobilise pas — au contraire, elle *dégoûte* parce qu'elle signale au spectateur que le candidat croit que la représentation suffit.
 
 Exemples chez Harris : elle-même comme "première femme racisée", mais sans programme antiraciste ou féministe radical adéquat ; son colistier [[Tim Walz]] brandissant une arme à la télévision pour "montrer patte blanche" masculine.
 L'équivalent français explicité : Gabriel Attal disant « j'ai participé à des gouvernements extrêmement réactionnaires, mais regardez moi je suis homosexuel, donc en face c'est le fascisme ».
@@ -61,7 +61,7 @@ Aux USA, le [[Parti Democrate]] mainstream occupe cet espace : entre les Latinos
 La victoire de [[Zohran Mamdani]] à NYC en novembre 2025 (**50% dès le premier tour** face à Cuomo 42% soutenu par Trump et Musk, et Sliwa 7%) est l'**anti-Kamala** structurel : une gauche *de gauche* qui gagne parce qu'elle ne renonce à rien. « La gauche de gauche gagne quand elle ne renonce à rien. »
 
 **Inversion point par point** du sandwich démocrate Harris (cf. ci-dessus) :
-- **Pain du bas** : Kamala laisse les prolétaires se démobiliser ; Mamdani leur propose un programme matériel concret (gel des loyers, bus gratuits, garde d'enfants, épicerie municipale, Medicare for All) — même si le vote populaire ne suit pas encore pleinement (Bronx à 41%), le *programme* s'adresse bien aux prolétaires. Chris : « On n'est plus sur une gauche qui a abandonné les classes prolétaires. »
+- **Pain du bas** : Kamala laisse les prolétaires se démobiliser ; Mamdani leur propose un programme matériel concret (gel des loyers, bus gratuits, garde d'enfants, épicerie municipale, Medicare for All) — même si le vote populaire ne suit pas encore pleinement (Bronx à 41%), le *programme* s'adresse bien aux prolétaires. Formulation PaduTeam : « On n'est plus sur une gauche qui a abandonné les classes prolétaires. »
 - **Garniture** : Kamala perd les classes intermédiaires en crise ; Mamdani les capte massivement via le bloc des **jeunes femmes diplômées (84% chez les 18-29 ans)**, des locataires (59% Mamdani, 38% Cuomo), des racisés, des intermédiaires de Brooklyn et Manhattan.
 - **Pain du haut** : Kamala démobilise les hauts diplômés par l'alignement sur Israël et l'absence de programme géopolitique ; Mamdani les mobilise en assumant ses positions pro-Palestine (fondateur de collectifs étudiants pour la Palestine *avant* le 7 octobre) et un programme anti-impérialiste (fin des bases, fermeture).
 
@@ -74,13 +74,13 @@ Démontage PaduTeam point par point :
 - Sur « blocage des loyers sous Hollande » : Hollande n'est pas classé à l'extrême gauche — on parle ici du *même* Hollande qui a fait la déchéance de nationalité, la loi Travail, la CICE. Le blocage des loyers comme mesure unique dans un programme globalement pro-capital n'équivaut pas à un programme DSA.
 - Sur les « communes socialistes qui font ce que veut faire Mamdani » : les villes PS ne proposent ni 90% d'imposition du capital, ni Medicare for All, ni open borders, ni defund police, ni fin de l'impérialisme US, ni fermeture des bases militaires. Prendre le blocage des loyers et postuler l'équivalence globale, c'est une **synecdoque politique** — prendre la partie pour le tout.
 
-Formulation polémique PaduTeam[^danse-ventre] : c'est la **« danse du ventre au centre »** — appropriation de l'étiquette gagnante sans le contenu. Chris conseille à LFI en retour : **« ne revendiquez pas le programme du NFP parce qu'ils vont le faire [le PS] — revendiquez un programme *plus à gauche* que le NFP. Dites : le NFP était un programme de consensus avec des socialistes qui sont très à droite. Vous, vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris. C'est le programme DSA, c'est qu'ils sont inclus là-dedans. »**[^revendiquer]
+Formulation polémique PaduTeam[^danse-ventre] : c'est la **« danse du ventre au centre »** — appropriation de l'étiquette gagnante sans le contenu. Conseil PaduTeam à LFI en retour : **« ne revendiquez pas le programme du NFP parce qu'ils vont le faire [le PS] — revendiquez un programme *plus à gauche* que le NFP. Dites : le NFP était un programme de consensus avec des socialistes qui sont très à droite. Vous, vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris. C'est le programme DSA, c'est qu'ils sont inclus là-dedans. »**[^revendiquer]
 
 Le PS reste structurellement une gauche de droite ; Mamdani est structurellement une gauche de gauche ; les confondre, c'est précisément ce que fait une gauche de droite pour rester pertinente dans un cycle moïsant.
 
 [^faure-mamdani]: [16:31](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=991) — Olivier Faure sur Mamdani : « il se revendique socialiste [...] il veut faire le blocage des loyers dans une zone tendue [...] Je me sens parfaitement en phase avec ce qu'il fait. »
-[^danse-ventre]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris qualifie la récupération PS de « danse du ventre au centre » et réassigne Faure au bloc « Hillary Clinton, Cuomo, Kamala Harris ».
-[^revendiquer]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris : « Olivier Faure, nous on bataille surtout pour la FI : ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme plus à gauche que le NFP. »
+[^danse-ventre]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — la récupération PS est qualifiée de « danse du ventre au centre » ; Faure est réassigné au bloc « Hillary Clinton, Cuomo, Kamala Harris ».
+[^revendiquer]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — « Olivier Faure, nous on bataille surtout pour la FI : ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme plus à gauche que le NFP. »
 
 ## Usages français
 

@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [théorie-marxiste, féminisme, anti-impérialisme]
 aliases: [Rosa Luxembourg, Luxemburg]
 date created: Thursday, April 2nd 2026, 10:55:14 pm
-date modified: Sunday, April 19th 2026, 10:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/théorie #thème/théorie-marxiste #thème/anti-impérialisme
@@ -19,7 +19,7 @@ La PaduTeam la cite comme exemple d'enrichissement interne du marxisme par une f
 
 ## Luxemburg pour lire Rubio — l'extension du capital sur espace non capitaliste (février 2026)
 
-Dans [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]], Chris mobilise *L'Accumulation du capital* (1913) pour analyser le projet de recolonisation du Venezuela annoncé par [[Marco Rubio]] à Munich :
+Dans [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]], la PaduTeam mobilise *L'Accumulation du capital* (1913) pour analyser le projet de recolonisation du Venezuela annoncé par [[Marco Rubio]] à Munich :
 
 > « C'est ce que va expliquer Luxemburg en disant : bah c'est un espace non capitaliste, ça permet d'avoir une extension du capital et donc de le renouveler. Là en fait, c'est genre une économie trop socialiste, tu vois. Donc c'est une forme de périphérie non capitaliste qu'on pourrait relancer par du capital. »[^lux_rubio]
 
@@ -38,5 +38,5 @@ Articulation avec [[Samir Amin]] : même cadre théorique de fond, même thèse 
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — mobilisée pour lire la tentative rubiesque de reconquête du Venezuela comme extension du capital sur un espace « trop socialiste »
 
-[^lux_rubio]: [16:28](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=988) — Chris : « c'est ce que va expliquer Luxemburg en disant bah c'est un espace non capitaliste. Ça permet d'avoir une extension du capital et donc de le renouveler. Là en fait, c'est genre une économie trop socialiste. Donc c'est une forme de périphérie non capitaliste qu'on pourrait relancer par du capital. »
-[^lux_inverse]: [16:59](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1019) — Chris : « à l'inverse que normalement le Venezuela devrait être l'avenir de l'humanité alors que dans le 19ᵉ c'était plutôt le passé. Mais là ils vont dire "non, non, c'est presque trop l'avenir, il faut les relibéraliser pour pouvoir encore faire de la rente". »
+[^lux_rubio]: [16:28](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=988) — « c'est ce que va expliquer Luxemburg en disant bah c'est un espace non capitaliste. Ça permet d'avoir une extension du capital et donc de le renouveler. Là en fait, c'est genre une économie trop socialiste. Donc c'est une forme de périphérie non capitaliste qu'on pourrait relancer par du capital. »
+[^lux_inverse]: [16:59](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1019) — « à l'inverse que normalement le Venezuela devrait être l'avenir de l'humanité alors que dans le 19ᵉ c'était plutôt le passé. Mais là ils vont dire "non, non, c'est presque trop l'avenir, il faut les relibéraliser pour pouvoir encore faire de la rente". »

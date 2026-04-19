@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, États-Unis, Ukraine]
 aliases: [NATO, Alliance atlantique]
 skill_version: ingest-batch-2026-04-19
 date created: Tuesday, April 14th 2026, 1:18:40 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis
 
@@ -31,7 +31,7 @@ Typologie PaduTeam des nations que l'OTAN articule : **nations impérialistes ce
 
 Position militante qui en découle : le meilleur anti-impérialisme pour un petit peuple colonisé (Groenland, 60 000 habitants, pris en tenaille entre Danemark et USA) n'est pas de choisir entre deux colonisateurs mais de **rompre avec l'OTAN, l'UE et le Danemark en même temps** — autonomie radicale. À l'échelle française et européenne : « si vous croyez au droit international sans rompre avec l'OTAN et l'UE, vous êtes un tartuf. Vous êtes soit un idiot, soit vous serez un collabo de fait. »
 
-[^groen1]: [22:12](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=1332) — Chris : « l'OTAN, c'est les États-Unis, c'est eux qui payent 80% de l'addition [...] Quand vous avez un pied dans l'OTAN, ça peut vous servir face à un ennemi des États-Unis. Mais vous êtes un vassal. »
+[^groen1]: [22:12](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=1332) — « l'OTAN, c'est les États-Unis, c'est eux qui payent 80% de l'addition [...] Quand vous avez un pied dans l'OTAN, ça peut vous servir face à un ennemi des États-Unis. Mais vous êtes un vassal. »
 
 ## Vidéos où l'organisation est analysée
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — l'élargissement OTAN comme contexte ignoré par les bellicistes

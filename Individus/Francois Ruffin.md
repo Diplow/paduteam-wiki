@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Ruffin, Francois Ruffin, François Ruffin]
 date created: Thursday, April 2nd 2026, 1:06:33 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -32,7 +32,7 @@ Son organisation [[Fakir]] est citée comme exemple d'une force à gauche de la 
 
 Lors du NFP entre les deux tours des législatives 2024, Ruffin sort dans les médias (RMC) avec trois conditions pour gouverner avec [[Xavier Bertrand]] : abrogation de la réforme des retraites, RIC, hausse du SMIC. Il justifie cette coalition réactionnaire avec le Conseil National de la Résistance (CNR) comme référence.
 
-[[Stathis Kouvelakis]] et [[Dr Zoe|Zoé]] dénoncent une "honte" et une "trahison" : "le CNR c'est la Sécurité sociale, c'est né dans un contexte de rupture radicale avec une bourgeoisie massivement collaborationniste. Comparer ça à trois propositions de tractation d'arrière-boutique, c'est indigne." Ruffin était le premier à avoir voulu le Front populaire — le voilà qui prépare la sortie par la droite.
+[[Stathis Kouvelakis]] et la PaduTeam dénoncent une "honte" et une "trahison" : "le CNR c'est la Sécurité sociale, c'est né dans un contexte de rupture radicale avec une bourgeoisie massivement collaborationniste. Comparer ça à trois propositions de tractation d'arrière-boutique, c'est indigne." Ruffin était le premier à avoir voulu le Front populaire — le voilà qui prépare la sortie par la droite.
 
 Pour Stathis, Ruffin est "la pointe avancée" du projet de bloc bourgeois 2.0 : une coalition macronie + gauche hors LFI qui reproduirait la "3e force" de la SFIO sous [[Guy Mollet]] — guerres coloniales comprises.
 
@@ -50,7 +50,7 @@ Quand Friot disait "le prolétariat a le pouvoir de faire la révolution", quand
 Ruffin refuse de cliver sur les LGBT, bégaie sur le génocide à Gaza, hésite sur le racisme. "Quand tu veux pas cliver, c'est que tu refuses la lutte." Son refus de clivage est un point aveugle de classe : il ne voit pas qu'il clive avec les activistes propalestiniens, les personnes trans, les antiracistes.
 
 ### Bours et tours
-Ruffin oppose stéréotypiquement "bours" et "tours" comme si c'était réconciliable. Chris rappelle (émission sur Isonomia) que les réalités sont radicalement différentes : propriété, chômage, homogénéité culturelle. "Tout le monde a envie de vivre dans un bour, personne ne fait le chemin inverse." Ruffin maintient l'hégémonie conservatrice en valorisant les clichés.
+Ruffin oppose stéréotypiquement "bours" et "tours" comme si c'était réconciliable. La PaduTeam rappelle (émission sur Isonomia) que les réalités sont radicalement différentes : propriété, chômage, homogénéité culturelle. "Tout le monde a envie de vivre dans un bour, personne ne fait le chemin inverse." Ruffin maintient l'hégémonie conservatrice en valorisant les clichés.
 
 ### Prédiction du [[Graphique]]
 6,1% comme candidat [[Noisettes|noisette]] commun ([[Debout]] + [[L'Apres]] + Génération). Son électorat : "des vieux profs qui bandent sur le prolétariat, des mecs qui se croient de gauche mais dès qu'ils parlent disent des trucs de droite."
@@ -67,7 +67,7 @@ Intervient lors de la conférence de presse FP2027 du 2 juillet. La PaduTeam not
 
 ## Ruffin l'imposteur — analyse de sa stratégie présidentielle (2025)
 
-Analyse détaillée de Padu et Chris sur la stratégie de Ruffin pour 2027 :
+Analyse détaillée PaduTeam sur la stratégie de Ruffin pour 2027 :
 
 **L'imposture de la primaire** : Ruffin pousse pour une primaire à gauche en affirmant que "Mélenchon ne peut pas gagner". La PaduTeam : c'est de l'idéalisme — une primaire n'a "aucune application concrète, pas assise sur une matérialité concrète".
 
@@ -88,4 +88,4 @@ Analyse détaillée de Padu et Chris sur la stratégie de Ruffin pour 2027 :
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — React au lancement de Debout : condescendance de classe, cosplay prolétaire, refus du clivage, prédiction 6%
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Roleplay prolétaire ("c'est nous qu'on va gagner"), "extrême argent" comme esquive de classe, prédiction : gagne la primaire FP2027 → Faure mort politiquement
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Démonstration complète de l'imposture : circo toujours à gauche, stratégie double face (Mélenchon au 1er/Bayrou au 2e), gaz-light de l'extrême droite, absence de vision du monde, classes populaires jamais mobilisées
-- [[MAMDANI A GAUCHE DE MELENCHON]] — Ruffin se proclame « Mamdani français » (vidéo « Bravo Zoran [...] ça amène une bulle d'air dans l'empire américain trumpiste ») ; la PaduTeam démonte en rappelant qu'il a fait « foot » sur les manifs contre l'islamophobie, a manifesté avec le RN contre la résistance palestinienne, et a lâché la gauche de l'après sur Gaza. Padu : « tu es un imposteur. » Mamdani a, lui, « tenu les deux jambes » du matériel et du sociétal.
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Ruffin se proclame « Mamdani français » (vidéo « Bravo Zoran [...] ça amène une bulle d'air dans l'empire américain trumpiste ») ; la PaduTeam démonte en rappelant qu'il a fait « foot » sur les manifs contre l'islamophobie, a manifesté avec le RN contre la résistance palestinienne, et a lâché la gauche de l'après sur Gaza. Formulation PaduTeam : « tu es un imposteur. » Mamdani a, lui, « tenu les deux jambes » du matériel et du sociétal.

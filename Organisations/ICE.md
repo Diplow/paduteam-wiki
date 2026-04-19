@@ -5,7 +5,7 @@ thèmes: [États-Unis, racisme-antiracisme]
 aliases: [ICE, U.S. Immigration and Customs Enforcement, police de l'immigration américaine]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 8:00:00 pm
-date modified: Saturday, April 19th 2026, 8:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/racisme-antiracisme
 
@@ -14,7 +14,7 @@ date modified: Saturday, April 19th 2026, 8:00:00 pm
 ## Dynamique
 **U.S. Immigration and Customs Enforcement (ICE)** — police fédérale américaine de l'immigration et des douanes, créée en **2011** (référence transcript)[^date]. Pour la PaduTeam, l'ICE n'est pas une simple agence administrative : c'est le **bras armé matériel du [[Pacte raciste]] à l'échelle de l'empire américain**, instrument central de la politique de déportation qui s'est radicalisée sous [[Donald Trump]] à son retour au pouvoir.
 
-Padu rappelle l'analogie avec la France : « on est extrêmement précurseur avec des centres de rétention, avec une violence, avec des patrouilles [...] il n'y a pas de bonne manière de ramener les gens à la frontière »[^pre]. Position de principe PaduTeam formulée explicitement : **« on est pour la liberté de circulation de l'humanité partout et tout le temps »**.
+La PaduTeam rappelle l'analogie avec la France : « on est extrêmement précurseur avec des centres de rétention, avec une violence, avec des patrouilles [...] il n'y a pas de bonne manière de ramener les gens à la frontière »[^pre]. Position de principe PaduTeam formulée explicitement : **« on est pour la liberté de circulation de l'humanité partout et tout le temps »**.
 
 ## Contexte opérationnel 2026 — raids de Los Angeles
 
@@ -39,8 +39,8 @@ La PaduTeam insiste sur une distinction matérielle souvent effacée : les Latin
 ## Vidéos où l'organisation est analysée
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Raids LA, drones militaires, crise constitutionnelle Garde nationale, fracture intra-hispanique
 
-[^date]: [11:23](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=683) — Padu : « l'ICE date de 2011 et il y a toujours eu des mouvements de protestation là-bas. »
-[^pre]: [11:30](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=690) — Padu : « on est extrêmement précurseur avec des centres de rétention, avec une violence, avec des patrouilles [...] il n'y a pas de bonne manière de ramener les gens à la frontière. »
-[^drones]: [13:02](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=782) — Chris : « des drones militaires ont été déployés pendant les émeutes [...] certains drones en capacité d'action contre les manifestants. »
-[^gnat]: [13:33](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=813) — Padu : « la Garde nationale est une police extra-étatique des États fédéraux [...] il doit y avoir la demande du gouverneur [...] et là Trump a envoyé la Garde nationale contre tout processus constitutionnel. »
-[^fracture]: [30:05](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1805) — Chris : « des gens noirs qui viennent d'un pays sud-américain seront classés comme immigrants hispaniques et renvoyés à la frontière [...] fracture complète entre les deux. »
+[^date]: [11:23](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=683) — « l'ICE date de 2011 et il y a toujours eu des mouvements de protestation là-bas. »
+[^pre]: [11:30](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=690) — « on est extrêmement précurseur avec des centres de rétention, avec une violence, avec des patrouilles [...] il n'y a pas de bonne manière de ramener les gens à la frontière. »
+[^drones]: [13:02](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=782) — « des drones militaires ont été déployés pendant les émeutes [...] certains drones en capacité d'action contre les manifestants. »
+[^gnat]: [13:33](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=813) — « la Garde nationale est une police extra-étatique des États fédéraux [...] il doit y avoir la demande du gouverneur [...] et là Trump a envoyé la Garde nationale contre tout processus constitutionnel. »
+[^fracture]: [30:05](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1805) — « des gens noirs qui viennent d'un pays sud-américain seront classés comme immigrants hispaniques et renvoyés à la frontière [...] fracture complète entre les deux. »

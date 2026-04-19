@@ -4,7 +4,7 @@ domaine: ['économie']
 thèmes: []
 aliases: [néokeynesien, néo-keynésien, social-libéralisme renouvelé, Néokeynesianisme]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/économie
 # Néokeynesianisme
@@ -19,7 +19,7 @@ Ne résoudra pas la crise car ménage le patronat qui ne veut plus partager. Arr
 
 ## Le cas Biden — néokeynésianisme insuffisant (2021-2024)
 
-La présidence [[Joe Biden|Biden]] (2021-2024) sert de **contre-épreuve empirique du néokeynésianisme**. Sous pression de [[Bernie Sanders]], Biden a tenté un infléchissement néokeynésien (Inflation Reduction Act, investissements industriels) — mais Chris, à chaud après la défaite de Kamala ([[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]], novembre 2024), tranche : « même Biden n'a pas été assez loin dans le néokeynésianisme pour pouvoir satisfaire les gens qui l'ont élu ». La déception matérielle des classes populaires, aucunement dissipée par un néokeynésianisme de demi-mesure, a ouvert la porte à Trump 2024. Diagnostic stratégique : le néokeynésianisme est structurellement prisonnier de la cage néolibérale — il ne peut pas rompre la logique qu'il prétend amender, et ses demi-mesures produisent la déception qui ensuite alimente la droite assumée.
+La présidence [[Joe Biden|Biden]] (2021-2024) sert de **contre-épreuve empirique du néokeynésianisme**. Sous pression de [[Bernie Sanders]], Biden a tenté un infléchissement néokeynésien (Inflation Reduction Act, investissements industriels) — mais la PaduTeam, à chaud après la défaite de Kamala ([[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]], novembre 2024), tranche : « même Biden n'a pas été assez loin dans le néokeynésianisme pour pouvoir satisfaire les gens qui l'ont élu ». La déception matérielle des classes populaires, aucunement dissipée par un néokeynésianisme de demi-mesure, a ouvert la porte à Trump 2024. Diagnostic stratégique : le néokeynésianisme est structurellement prisonnier de la cage néolibérale — il ne peut pas rompre la logique qu'il prétend amender, et ses demi-mesures produisent la déception qui ensuite alimente la droite assumée.
 
 ## Vidéos où le concept est développé
-- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Chris sur Biden 2020-2024 : « n'a pas été assez loin dans le néokeynésianisme pour satisfaire les gens qui l'ont élu, et donc ceux qui ont ensuite élu Trump »
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — diagnostic PaduTeam sur Biden 2020-2024 : « n'a pas été assez loin dans le néokeynésianisme pour satisfaire les gens qui l'ont élu, et donc ceux qui ont ensuite élu Trump »

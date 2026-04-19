@@ -5,7 +5,7 @@ thèmes: [États-Unis, élections, anti-impérialisme]
 aliases: [BNC]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 3:00:00 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/élections #thème/anti-impérialisme
 
@@ -42,7 +42,7 @@ Le BNC/DSA n'a pas derrière lui de **syndicats de masse** ni d'organisations po
 
 ## Méthodologie de formation — précisions PaduTeam
 
-Chris détaille[^methode] : le BNC ne se contente pas de donner un chèque et un slogan aux candidats. Il produit :
+La PaduTeam détaille[^methode] : le BNC ne se contente pas de donner un chèque et un slogan aux candidats. Il produit :
 - **Des campagnes de terrain de porte-à-porte « que les démocrates ne faisaient plus »** — réhabilitation d'un geste politique élémentaire que le Parti Démocrate avait délégué aux consultants et aux spots TV.
 - **Un vivier de candidats issus du terrain** (syndicats, activisme, quartiers populaires) sélectionnés en amont des primaires — [[Alexandria Ocasio-Cortez]], [[Cori Bush]], [[Rashida Tlaib]], [[Ilhan Omar]] forment le noyau 2018, Mamdani prolonge en 2025.
 - **Une ingénierie politique** — « tout ce que vous avez vu avec Mamdani, c'est de l'ingénierie politique qui est née avec BNC en 2016 [...] Mamdani est littéralement un enfant de ça — il avait 24-25 ans quand il a fait ça. » C'est-à-dire : la méthode se transmet **par participation aux campagnes précédentes**, pas par formation abstraite.
@@ -51,9 +51,9 @@ Documentaire recommandé par la PaduTeam : *Knock Down the House* (Netflix, titr
 
 Statut organisationnel actuel : le BNC **n'existe plus en tant que tel aujourd'hui** (dissolution post-2020), « mais a porté ses fruits » — la méthode survit dans DSA et dans les campagnes BNC-héritées (Mamdani)[^dissolution].
 
-[^methode]: [08:41-10:15](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=521) — Padu : « c'est des démocrates de gauche de l'aile Sanders qui ont pris le terrain et qui ont mis en place des campagnes de terrain de porte-à-porte — des choses que les démocrates ne faisaient plus — pour aller chercher des candidats au Congrès [...] ils ont renouvelé un peu la génération et ils ont aussi fait émerger des nouvelles techniques de porte-à-porte, de discussion dans la rue. »
-[^doc]: [09:20](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=560) — Padu recommande le documentaire Netflix « Cap sur le Congrès » (VO *Knock Down the House*).
-[^dissolution]: [09:56](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=596) — Padu : « BNC qui n'existe plus aujourd'hui mais qui a porté ses fruits. Mamdani est littéralement un enfant de ça. »
+[^methode]: [08:41-10:15](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=521) — « c'est des démocrates de gauche de l'aile Sanders qui ont pris le terrain et qui ont mis en place des campagnes de terrain de porte-à-porte — des choses que les démocrates ne faisaient plus — pour aller chercher des candidats au Congrès [...] ils ont renouvelé un peu la génération et ils ont aussi fait émerger des nouvelles techniques de porte-à-porte, de discussion dans la rue. »
+[^doc]: [09:20](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=560) — recommandation PaduTeam du documentaire Netflix « Cap sur le Congrès » (VO *Knock Down the House*).
+[^dissolution]: [09:56](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=596) — « BNC qui n'existe plus aujourd'hui mais qui a porté ses fruits. Mamdani est littéralement un enfant de ça. »
 
 ## Vidéos où le BNC est analysé
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Généalogie Sanders→BNC→AOC→Mamdani, méthode 1,5M portes, programme matériel simple

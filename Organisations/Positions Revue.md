@@ -4,7 +4,7 @@ domaine: []
 thèmes: []
 aliases: [Positions, @Positions_revue]
 date created: Tuesday, March 31st 2026, 10:12:33 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 # Positions Revue
 
@@ -26,4 +26,4 @@ Chris appelle [[Marine Tondelier]] "Karen" dans une capsule — provoquant des a
 ## Vidéos où Positions Revue est mentionnée
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Généalogie explicite : Positions Revue comme première brique de la [[Guerre de position]] PaduTeam, née de l'analyse critique de l'échec GJ
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Zoé défend PR contre accusations de misogynie ; explique "Karen" comme terme antiraciste ; attaque le féminisme essentialiste de Tondelier/Rousseau
-- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Débrief à chaud de la présidentielle américaine 2024 avec Chris (Positions Revue) : Kamala = Jospin 2002, structure en sandwich, protectionnisme anachronique, désagrégation de l'empire
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Débrief à chaud de la présidentielle américaine 2024 avec Positions Revue : Kamala = Jospin 2002, structure en sandwich, protectionnisme anachronique, désagrégation de l'empire

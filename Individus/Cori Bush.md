@@ -5,7 +5,7 @@ thèmes: [États-Unis, anti-impérialisme]
 aliases: [Bush, Cori]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 5:00:00 pm
-date modified: Saturday, April 19th 2026, 5:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme
 
@@ -25,4 +25,4 @@ Mentionnée dans [[MAMDANI A GAUCHE DE MELENCHON]][^gen] comme une des nouvelles
 ## Vidéos où Bush est mentionnée
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Citée dans la généalogie BNC
 
-[^gen]: [09:12](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=552) — Padu : « ils sont allés chercher des nouvelles figures un peu de terrain — Alexandria Ocasio-Cortez, Cori Bush, Rashida Tlaib voilà, qui sont par exemple... »
+[^gen]: [09:12](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=552) — « ils sont allés chercher des nouvelles figures un peu de terrain — Alexandria Ocasio-Cortez, Cori Bush, Rashida Tlaib voilà, qui sont par exemple... »

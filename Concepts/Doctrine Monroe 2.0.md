@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, Venezuela, États-Unis, Amérique-latine]
 aliases: [Monroe 2.0, doctrine Monroe trumpiste]
 skill_version: write-concept-2026-04-14
 date created: Tuesday, April 14th 2026, 12:19:58 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis #thème/Amérique-latine
 
@@ -27,7 +27,7 @@ La contradiction interne de la doctrine : les grandes compagnies américaines (E
 
 ## Extension arctique : le Groenland (janvier 2026)
 
-La revendication du Groenland (5 janvier 2026) étend la Doctrine Monroe 2.0 hors de son périmètre historique (Amérique latine) vers l'Arctique. Chris établit explicitement la filiation : l'impérialisme de Trump est « un impérialisme forcené type début du 20e siècle, doctrine Monroe et autres impérialistes français ou de Grande-Bretagne de l'époque »[^monroe_groen1]. Bascule hors du néoconservatisme (universalisme, « mission civilisatrice ») vers la **loi du plus fort revendiquée** : « il n'y a même plus de se cacher derrière le monde civilisé contre le grand Satan. Trump est revenu à quelque chose de très grégaire, la loi du plus fort. Celui qui a le plus d'armée, il prend le plus de territoires »[^monroe_groen2].
+La revendication du Groenland (5 janvier 2026) étend la Doctrine Monroe 2.0 hors de son périmètre historique (Amérique latine) vers l'Arctique. La PaduTeam établit explicitement la filiation : l'impérialisme de Trump est « un impérialisme forcené type début du 20e siècle, doctrine Monroe et autres impérialistes français ou de Grande-Bretagne de l'époque »[^monroe_groen1]. Bascule hors du néoconservatisme (universalisme, « mission civilisatrice ») vers la **loi du plus fort revendiquée** : « il n'y a même plus de se cacher derrière le monde civilisé contre le grand Satan. Trump est revenu à quelque chose de très grégaire, la loi du plus fort. Celui qui a le plus d'armée, il prend le plus de territoires »[^monroe_groen2].
 
 Le mécanisme Monroe 2.0 s'applique au Groenland mutatis mutandis :
 - **Ressources** : terres rares, pétrole, gaz, nickel, sable — maillon arctique du découplage industriel avec la Chine
@@ -50,5 +50,5 @@ Le Groenland est le pendant *externe* de la [[Desagregation de l empire americai
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — extension arctique de la Monroe 2.0, sortie explicite du néoconservatisme vers le colonialisme du début du 20e siècle
 
-[^monroe_groen1]: [1:34](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=94) — Chris : « ce pays est vraiment en train de nous emmener à la guerre par son impérialisme forcené type début du 20e siècle, doctrine Monroe et autres impérialistes français ou de Grande-Bretagne de l'époque. »
-[^monroe_groen2]: [8:15](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=495) — Chris : « il n'y a même plus de se cacher derrière le monde civilisé contre le grand Satan. Trump est revenu à quelque chose de très grégaire, la loi du plus fort. Celui qui a le plus d'armée, il prend le plus de territoires. »
+[^monroe_groen1]: [1:34](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=94) — « ce pays est vraiment en train de nous emmener à la guerre par son impérialisme forcené type début du 20e siècle, doctrine Monroe et autres impérialistes français ou de Grande-Bretagne de l'époque. »
+[^monroe_groen2]: [8:15](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=495) — « il n'y a même plus de se cacher derrière le monde civilisé contre le grand Satan. Trump est revenu à quelque chose de très grégaire, la loi du plus fort. Celui qui a le plus d'armée, il prend le plus de territoires. »

@@ -5,7 +5,7 @@ thèmes: [États-Unis, anti-impérialisme, racisme-antiracisme]
 aliases: [Stéphane Miller, Steve Miller]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 3:00:00 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/anti-impérialisme #thème/racisme-antiracisme
 
@@ -30,4 +30,4 @@ Stephen Miller est connu publiquement comme l'un des architectes de la politique
 ## Vidéos où Stephen Miller est analysé
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — Position clé dans l'appareil (directeur de cabinet adjoint), porteur du dossier Groenland depuis des années
 
-[^stephen1]: [4:39](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=279) — Chris : « Stéphane Miller qui est directeur de cabinet adjoint de la Maison Blanche. Donc c'est un peu genre le Alexis Kohler [...] adjoint de [...] secrétariat général [...] d'Emmanuel Macron. »
+[^stephen1]: [4:39](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=279) — « Stéphane Miller qui est directeur de cabinet adjoint de la Maison Blanche. Donc c'est un peu genre le Alexis Kohler [...] adjoint de [...] secrétariat général [...] d'Emmanuel Macron. »

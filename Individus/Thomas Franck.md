@@ -5,7 +5,7 @@ thèmes: [États-Unis, élections, guerre-des-gauches]
 aliases: [Thomas Frank]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 3:00:00 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/théorie #domaine/géopolitique #thème/États-Unis #thème/élections #thème/guerre-des-gauches
 
@@ -16,7 +16,7 @@ Essayiste américain (souvent orthographié Thomas Frank), auteur de référence
 
 ## Rôle dans l'analyse PaduTeam
 
-Chris évoque explicitement les livres de Thomas Franck pour caractériser la **structure particulière du vote américain** : des très bas revenus qui votent conservateur (Cuomo/Trump) aux côtés de très hauts revenus, et des classes intermédiaires diplômées qui votent démocrate. Mécanisme matérialiste sous-jacent : les classes populaires américaines sont structurellement **libéralisées, concurrentielles, individualisées** (auto-entrepreneuriat, petits boulots, indépendants sans couverture sociale) — elles « ne peuvent compter que sur elles-mêmes »[^2] et ont un rapport au revenu concurrentiel, pas solidaire.
+La PaduTeam évoque explicitement les livres de Thomas Franck pour caractériser la **structure particulière du vote américain** : des très bas revenus qui votent conservateur (Cuomo/Trump) aux côtés de très hauts revenus, et des classes intermédiaires diplômées qui votent démocrate. Mécanisme matérialiste sous-jacent : les classes populaires américaines sont structurellement **libéralisées, concurrentielles, individualisées** (auto-entrepreneuriat, petits boulots, indépendants sans couverture sociale) — elles « ne peuvent compter que sur elles-mêmes »[^2] et ont un rapport au revenu concurrentiel, pas solidaire.
 
 Cette structure *différencie* les États-Unis de la France : il n'y a pas d'équivalent du salariat stable fordiste comme base d'une gauche populaire. C'est pourquoi la gauche américaine (Clinton/Harris) s'est *détournée* des classes prolétaires — et pourquoi la rupture Mamdani est historique : pour la première fois depuis longtemps, un élu démocrate propose un programme qui *s'adresse* aux prolétaires, même si le vote n'a pas encore suivi intégralement (Bronx à 41%).
 
@@ -28,5 +28,5 @@ Cette structure *différencie* les États-Unis de la France : il n'y a pas d'éq
 ## Vidéos où Thomas Franck est mentionné
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cité comme référence pour la structure sociologique du vote Cuomo/Trump (bas revenus + hauts revenus conservateurs, classes intermédiaires diplômées démocrates)
 
-[^1]: [34:10](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2050) — Chris : « On a parlé des livres de Thomas Franck. Pourquoi les pauvres votent à droite ? Pourquoi les riches votent à gauche ? En fait, on retrouve vraiment ça. »
-[^2]: [33:40](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2020) — Chris : « Ce sont des classes très libéralisées. Ce sont des classes qui ne peuvent compter que sur elles-mêmes, qui vont faire des petits boulots par-ci par-là, qui vont être des petits indépendants, des petits autonomes, et qui ne se reflètent pas dans les projections de salariat stable, collectif, de contrat longue durée. Elles ont un rapport aux revenus extrêmement concurrentiel, individualiste — que ce soit pour des très forts revenus ou des très petits revenus. »
+[^1]: [34:10](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2050) — « On a parlé des livres de Thomas Franck. Pourquoi les pauvres votent à droite ? Pourquoi les riches votent à gauche ? En fait, on retrouve vraiment ça. »
+[^2]: [33:40](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2020) — « Ce sont des classes très libéralisées. Ce sont des classes qui ne peuvent compter que sur elles-mêmes, qui vont faire des petits boulots par-ci par-là, qui vont être des petits indépendants, des petits autonomes, et qui ne se reflètent pas dans les projections de salariat stable, collectif, de contrat longue durée. Elles ont un rapport aux revenus extrêmement concurrentiel, individualiste — que ce soit pour des très forts revenus ou des très petits revenus. »

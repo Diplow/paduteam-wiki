@@ -5,7 +5,7 @@ thèmes: [États-Unis, anti-impérialisme]
 aliases: [DSA, Socialistes démocrates d'Amérique]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 12:00:00 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme
 # Democratic Socialists of America
@@ -32,7 +32,7 @@ Dans [[MAMDANI A GAUCHE DE MELENCHON]], la PaduTeam projette en split-screen le 
 | Immigration/antiracisme | Amnistie sans-papiers, **frontières ouvertes**, **réparations pour l'esclavage** | Plan interministériel antisémitisme/islamophobie |
 | Politique étrangère | **Fin de l'impérialisme US, fermeture des bases militaires à l'étranger** | Embargo Israël + annulation dette africaine |
 
-Ce programme est présenté par la PaduTeam sans réserve sur le fond — la DSA sait ce qu'elle veut, et formule des points de rupture que la gauche française n'ose pas écrire ainsi. Chris sur le contrôle ouvrier : « c'est le programme de la Brèche ». Sur la taxation à 90% : « Let's go. » Sur la fermeture des bases : « un truc assez dingo. »
+Ce programme est présenté par la PaduTeam sans réserve sur le fond — la DSA sait ce qu'elle veut, et formule des points de rupture que la gauche française n'ose pas écrire ainsi. Commentaire PaduTeam sur le contrôle ouvrier : « c'est le programme de la Brèche ». Sur la taxation à 90% : « Let's go. » Sur la fermeture des bases : « un truc assez dingo. »
 
 **Thèse centrale** de la vidéo : la hiérarchie est **DSA > LFI seule > NFP**. La DSA est plus à gauche que LFI, qui est elle-même plus à gauche que le NFP. D'où le titre « Mamdani à gauche de Mélenchon ».
 
@@ -50,11 +50,11 @@ La DSA peut-elle prendre l'ascendant sur le Parti Démocrate comme LFI l'a fait 
 
 La [[Moisation]] américaine est en cours (60%+ pro-socialisme dans l'électorat démocrate en 2025, <20% pour le « big business »), mais la structure partisane n'a pas encore basculé. La DSA est le pari sur cette bascule.
 
-**Inversion symétrique du rapport LFI/NFP** — formulation opérationnelle de Chris : « DSA va devoir faire avancer des mesures plus radicales dans un programme très à droite — ils vont être obligés de gauchiser un espace de droite. Là, le NFP avec Faure, c'est qu'ils sont en train de droitiser un espace de gauche. » Deux trajectoires opposées à partir d'une même asymétrie : avoir le programme le plus radical mais n'être pas majoritaire dans son propre bloc.
+**Inversion symétrique du rapport LFI/NFP** — formulation opérationnelle PaduTeam : « DSA va devoir faire avancer des mesures plus radicales dans un programme très à droite — ils vont être obligés de gauchiser un espace de droite. Là, le NFP avec Faure, c'est qu'ils sont en train de droitiser un espace de gauche. » Deux trajectoires opposées à partir d'une même asymétrie : avoir le programme le plus radical mais n'être pas majoritaire dans son propre bloc.
 
 ## La bataille culturelle involontaire — quand la droite fait campagne pour la DSA
 
-Mécanisme analysé dans [[MAMDANI A GAUCHE DE MELENCHON]] : les adversaires (Marion Maréchal, Céline Pina, Parti Miléiste français) énumèrent publiquement le programme Mamdani/DSA (impôt ultra-riches, gel des loyers, épiceries municipales à prix coûtant, doublement du salaire minimum, réforme police) pour le présenter comme désastre annoncé. Chris : « en fait, ils font la bataille culturelle à droite, un peu comme la gauche quand elle disait "oui il faut contrôler les immigrés" — ça a fait monter l'extrême droite. Quand eux font ça à détailler le programme en disant c'est très grave, les gens commencent à se dire "bah non c'est pas si mal en fait, vu la crise." » L'extrême droite panique et, ce faisant, **légitime** le programme socialiste auprès d'un public en crise sociale. C'est l'**actif symétrique** de la diabolisation Mélenchon en France.
+Mécanisme analysé dans [[MAMDANI A GAUCHE DE MELENCHON]] : les adversaires (Marion Maréchal, Céline Pina, Parti Miléiste français) énumèrent publiquement le programme Mamdani/DSA (impôt ultra-riches, gel des loyers, épiceries municipales à prix coûtant, doublement du salaire minimum, réforme police) pour le présenter comme désastre annoncé. Commentaire PaduTeam : « en fait, ils font la bataille culturelle à droite, un peu comme la gauche quand elle disait "oui il faut contrôler les immigrés" — ça a fait monter l'extrême droite. Quand eux font ça à détailler le programme en disant c'est très grave, les gens commencent à se dire "bah non c'est pas si mal en fait, vu la crise." » L'extrême droite panique et, ce faisant, **légitime** le programme socialiste auprès d'un public en crise sociale. C'est l'**actif symétrique** de la diabolisation Mélenchon en France.
 
 ## Figures clés
 - [[Alexandria Ocasio-Cortez]] — première victoire BNC, congresswoman
