@@ -44,6 +44,20 @@ La moïsation entre dans le vocabulaire des médias bourgeois via une chronique 
 
 [[Thomas Piketty]] dans son dernier livre identifie lui aussi des phases de "moïsation et de confusion" dans les données historiques — avec d'autres concepts, mais la même dynamique.
 
+## Moïsation américaine — le cas Mamdani (2025)
+
+Le corpus USA ouvre une comparaison internationale de la moïsation. Aux États-Unis, le Parti Démocrate est fondamentalement différent de la gauche française : il n'a jamais été un parti de classe ouvrière, c'est un bloc hétéroclite allant de la gauche radicale (DSA) à l'aile droite Clinton/Biden.
+
+**Les données de la moïsation américaine** : Dans les sondages de 2025, 60%+ des électeurs Démocrates se déclarent favorables au socialisme (contre 40-50% en 2010 et <30% en 2000). Moins de 20% sont favorables aux "grandes entreprises" (contre 45% en 2000). C'est une moïsation à gauche de l'électorat démocrate — mais la structure partisane n'a pas encore bougé en conséquence.
+
+**DSA vs NFP — deux rapports de force** : La DSA ([[Democratic Socialists of America]]) a un programme *plus radical* que le NFP français (90% d'imposition du capital, Medicare for All, open borders, defund police, fin de l'impérialisme US, fermeture des bases militaires). Mais la DSA est *minoritaire* à l'intérieur du Parti Démocrate — alors que LFI est majoritaire à l'intérieur du NFP. Deux moïsations à des stades très différents.
+
+**Mamdani comme signal** : L'élection de [[Zohran Mamdani]] à NYC (50% vs 42% Cuomo) avec 1,5M de portes knockées est le signe que la moïsation américaine peut produire des victoires électorales dès maintenant. Mais c'est local, municipal — pas encore national. Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Podemos). La PaduTeam pose la question sans y répondre.
+
+**La force unique de la France** : La moïsation française a une particularité — elle a produit une gauche de rupture (LFI) qui est déjà majoritaire dans le bloc de gauche. Aux USA, la gauche radicale reste minoritaire dans son propre camp. La France a un "casse-noix" (deux forces équilibrées en tension), pas un "marteau" de droite seul — avantage structurel que Mamdani n'a pas encore.
+
+**[[Raphael Glucksmann]] comme équivalent Démocrate mainstream** : dans l'analyse de la défaite de Kamala Harris, la PaduTeam établit explicitement : Glucksmann = aile droite des Démocrates US. La "[[Gauche de droite]]" existe des deux côtés de l'Atlantique et produit les mêmes résultats.
+
 ## Vidéos où le concept est analysé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
 
@@ -66,3 +80,5 @@ La moïsation entre dans le vocabulaire des médias bourgeois via une chronique 
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Sarkozy identifié comme l'inaugurateur de la Moisation (2007, via Patrick Buisson) ; fragmentation de la coalition Sarkozy en trois blocs post-mandat (retraités→Macron, populaires→Le Pen, indépendants→LR à 4%) ; Soral/Philippot comme barrières involontaires à la réunification
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Les médias mainstream reconnaissent enfin la moïsation ("retour vers la gauche et la droite"). Confirmation internationale : moïsation aux USA (profite à Trump), en Italie (profite à Meloni). La **force unique de la France** : avoir une moïsation à gauche aussi — un vrai casse-noix avec deux forces équilibrées, pas un "marteau" de droite seul. Macron n'est pas le "dépassement des extrêmes" mais "la résistance d'un système en perdition qui se regroupe au milieu pour pouvoir survivre" — Rachida Dati : "des traîtres de gauche et des traîtres de droite."
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — La moïsation oblige l'espace centre macroniste à choisir : "soit la droite dure, soit revenir à une espèce de nouvelle gauche." Entre Retailleau et Macron 2017, il n'y a plus d'espace. Prédiction : Vallaud comme synthèse PS/Glucksmann sera la réponse néokeynésienne à cette moïsation.
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Moïsation américaine : données 2025 (60%+ pro-socialisme chez les Démocrates), rapport de forces DSA/NFP, avantage structurel de la France (casse-noix vs marteau)
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Signal de moïsation locale à NYC : 50% au premier tour, programme radical, généalogie BNC/AOC

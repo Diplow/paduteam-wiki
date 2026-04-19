@@ -73,3 +73,7 @@ L'Arabie Saoudite et les Émirats comprennent que le bateau américain coule et 
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Les droits de douane à 200% révèlent l'incapacité de Bardella et l'atlantisme structurel de l'extrême droite
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — Analyse économique marxiste de la guerre commerciale Trump-Chine et de l'impasse protectionniste
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Analyse structurelle de la victoire 2024 : Kamala = Jospin 2002, 14-15M voix perdues, désagrégation de l'empire possible
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — Colonialisme assumé, OTAN comme instrument US, tweet FAFO, deux chemins pour le monde
+- [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Discours Rubio Munich : le colonialisme sans masque
+- [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Crise constitutionnelle Newsom, désagrégation de l'empire, contrat racial hispanique
