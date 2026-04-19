@@ -46,6 +46,18 @@ Chris ajoute : à l'intérieur même du pacte raciste, il n'y a pas de solidarit
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Confrontation avec [[Lumir Lapray]] ([[Backseat]]) qui sépare racisme et problèmes matériels. La PaduTeam démontre que les deux sont indissociables et que le débunkage du RN ne suffit pas.
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Approfondissement par Stathis : néolibéralisme racial, anti-étatisme populaire, démantèlement du logement social comme stratégie RN
 
+## Le pacte racial américain — Trump 2024
+
+Le corpus Trump (novembre 2024) fournit un cas d'école international du même mécanisme.
+
+**Le vote hispanique pour Trump** : En 2024, les Latinos naturalisés ont voté massivement pour Trump — tendance encore plus marquée qu'en 2016 et 2020. La PaduTeam l'analyse avec la grille du pacte raciste : une fois qu'on a obtenu ses papiers, on reproduit la logique de hiérarchisation — "ne pas faire rentrer les suivants." Ce n'est pas du tout de la corruption idéologique — c'est la même mécanique matérielle qu'en France : le naturalisé d'hier devient le partisan de la fermeture aujourd'hui parce que la pénurie est réelle et la solution raciste est fonctionnelle[^usa_pacte1].
+
+**Distinctions historiques cruciales** : Le pacte racial ne fonctionne *pas* de manière uniforme pour toutes les communautés américaines. Les Noirs américains ont une histoire *différente* des Latinos (esclavage vs immigration) — leurs comportements électoraux ne sont pas superposables. Réduire "les minorités" à un bloc homogène est une erreur d'analyse. La PaduTeam insiste : les Latinos cubains (Miami) votent différemment des Latinos mexicains (Los Angeles) différemment des Latinos portoricains (New York) — chaque sous-communauté a sa propre position dans la hiérarchie raciale américaine.
+
+**Le contrat racial au niveau de l'empire** : Le discours de [[Marco Rubio]] à Munich étend le mécanisme à l'échelle géopolitique : les USA comme "race blanche impériale" qui revendique le droit d'exploiter le reste du monde. Padu et Chris font la connexion explicite — le [[Colonialisme de peuplement|colonialisme de peuplement]] est la forme originelle du pacte raciste, et Rubio en assume la continuité sans pudeur.
+
+[^usa_pacte1]: [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Chris sur le vote hispanique Trump : "il y a une logique de pacte racial — une fois qu'on a ses papiers, on ne veut pas faire rentrer les suivants"
+
 ## Pacte raciste populaire vs pacte raciste bourgeois
 Le [[Graphique]] révèle deux expressions de classe distinctes du racisme : le [[Rassemblement National]] (pacte raciste populaire, en bas à gauche — classes peu diplômées en situation de pénurie) et [[Reconquete|Reconquête]] (pacte raciste bourgeois, en haut à droite — catégories aisées, suprémacisme culturel "gratuit"). Les deux se détestent : l'électeur Reconquête trouve le RN "trop social", l'électeur RN ne connaît même pas Zemmour. Ce sont deux logiques fondamentalement différentes : le racisme fonctionnel (gérer la pénurie) vs le fascisme culturel (suprémacisme par conviction)
 

@@ -1,12 +1,12 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine]
-skill_version: ingest-batch-2026-04-14
+thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine, États-Unis]
+skill_version: ingest-batch-2026-04-19
 date created: Tuesday, April 14th 2026, 4:52:34 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
-#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine
+#domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine #thème/États-Unis
 # Anti-impérialisme
 
 ## Position PaduTeam
@@ -116,6 +116,32 @@ Le cas ukrainien est le plus complexe du corpus anti-impérialiste PaduTeam — 
 ## Concepts associés (mis à jour — Ukraine)
 [[Bellicisme social-democrate]], [[Camp de la paix]], [[Union sacree]], [[Propagande de guerre]], [[Vassalisation de la France]], [[Finlandisation]]
 
+## Le colonialisme américain assumé (2025-2026)
+
+Le corpus américain marque un tournant dans la forme que prend l'impérialisme US : fini le vernis démocratique, place au colonialisme revendiqué. C'est l'analyse centrale des vidéos Groenland, Rubio et Los Angeles.
+
+**Le discours de Rubio à Munich (février 2026)** est qualifié de "discours le plus colonial qu'on ait entendu depuis des décennies." [[Marco Rubio]], devant la Conférence de Munich, affirme littéralement : "Pendant 5 siècles, l'Occident n'a cessé de s'étendre… les grands empires occidentaux entraient en déclin accéléré par les révolutions communistes impies et les soulèvements coloniaux." Triple aveu : (1) la crise du capitalisme est réelle — il ne peut plus se reproduire seul ; (2) ce sont les révolutions communistes et les décolonisations qui ont brisé l'expansion ; (3) il faut refaire ce que les "révolutions impies" ont défait. Comparaison avec Jules Ferry à la Chambre en 1880 — qui au moins prétendait avoir une mission civilisatrice. Rubio ne prend même pas cette peine[^usa1].
+
+**L'annexion du Groenland** comme révélateur structurel. Trump veut le Groenland pour ses terres rares (indispensables à la décarbonation) et son pétrole — ressources nécessaires pour découpler l'économie US de la Chine. Le Groenland est territoire OTAN. Les dirigeants européens disent "l'OTAN nous protège" — c'est naïf : les USA *sont* l'OTAN, et Trump en fait une démonstration en temps réel. Deux chemins s'ouvrent pour le monde : se soumettre à "la loi du plus fort impérialiste" ou construire des "alliances anti-impérialistes" (Chine, Amérique latine, BRICS)[^usa2]. Le tweet de la Maison Blanche "FAFO" ("Fuck Around and Find Out") est une logique mafieuse à l'état brut — "c'est au mieux du Trump, au pire du Mussolini."
+
+**Le contrat racial américain** : Trump actualise la mécanique du [[Pacte raciste]] à l'échelle US. La victoire de Trump en 2024 s'explique en partie par le fait que les Latinos naturalisés ont voté massivement pour lui — une fois qu'on a ses papiers, on reproduit la logique du pacte racial : "ne pas vouloir faire rentrer les suivants." Le même mécanisme qu'en France, mais amplifié par l'histoire spécifique des communautés hispaniques (différences Cuba/Porto Rico/Mexique/Venezuela). Distinction cruciale : les Noirs et les Latinos ont des histoires *différentes* (esclavage vs immigration) — leurs comportements électoraux ne sont pas superposables[^usa3].
+
+**La [[Desagregation de l empire americain]]** comme logique de fond : l'empire ne peut pas se fasciser totalement parce qu'il est trop grand, trop hétérogène, trop asymétrique. La Californie (4ème PIB mondial, 4000 milliards de dollars, deux fois la France) résiste aux déportations ICE, refuse l'occupation militaire, lance une pétition CalExit. La Chine surveille de près : 20% de ses exportations passent par la Californie. Trump envoie la Garde nationale sans accord du gouverneur — crise constitutionnelle. Ce n'est pas de la fascisation totale qui se prépare mais une dislocation potentielle[^usa4].
+
+**La réponse de gauche depuis l'intérieur** — [[Zohran Mamdani]] est la preuve que l'anti-impérialisme peut devenir une position électorale victorieuse aux USA. Élu maire de NYC en 2025 avec 50% au premier tour, il porte un programme qui inclut explicitement la fin de l'impérialisme américain et la fermeture des bases militaires à l'étranger — positions plus à gauche que les insoumis français. Pour la PaduTeam : "la gauche de gauche gagne quand elle ne renonce à rien."[^usa5]
+
+## Vidéos clés (suite — corpus USA 2024-2026)
+
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Trump comme révélateur de la gauche de droite américaine (Kamala=Jospin 2002), analyse structurelle du bipartisanisme
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — Colonialisme assumé, ressources, OTAN comme instrument US, deux chemins pour le monde
+- [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Discours Rubio Munich : colonialisme sans masque, triple crise du capitalisme, comparaison Jules Ferry
+- [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Contrat racial hispanique, crise constitutionnelle, désagrégation de l'empire, CalExit
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — BNC, 1,5M portes knockées, Front Populaire analogie, risque de droitisation au pouvoir
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Moïsation américaine, programme DSA vs NFP, Marion Maréchal panique, PS s'approprie Mamdani
+
+## Concepts associés (mis à jour — USA)
+[[Desagregation de l empire americain]], [[Gauche de droite]], [[Pacte raciste]], [[Moisation]], [[Contrat racial]]
+
 ## Vidéos clés (suite — corpus Ukraine 2025-2026)
 
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première réaction au bellicisme d'Usul : service militaire, trajectoire trotskiste-atlantiste
@@ -152,3 +178,8 @@ Le cas ukrainien est le plus complexe du corpus anti-impérialiste PaduTeam — 
 [^iran3]: [35:21](https://www.youtube.com/watch?v=yPJKov273gs&t=2121) — Chris : "dès que ça commence à atteindre les 60 dollars, c'est-à-dire la rentabilité du gaz de schiste américain... il y a une intervention"
 [^iran4]: [0:00](https://www.youtube.com/watch?v=ZkNLJ6DzTTM&t=0) — "Ils s'en battent les couilles les Iraniens des conseils des impérialistes sur qui doit être le chef suprême religieux de leur pays"
 [^lfi1]: [21:15](https://www.youtube.com/watch?v=yPJKov273gs&t=1275) — "La réaction de Thomas Portes est absolument honteuse [...] c'est motif de sanction"
+[^usa1]: [https://www.youtube.com/watch?v=r8ovmwQWv8U] — Chris lit et analyse le discours Rubio Munich : "c'est le discours le plus colonial qu'on ait entendu depuis des décennies"
+[^usa2]: [https://www.youtube.com/watch?v=Z_vN3SrjNzQ] — Padu sur le Groenland : "Soit tu crois à la loi du plus fort impérialiste, soit tu construis des alliances anti-impérialistes"
+[^usa3]: [https://www.youtube.com/watch?v=_h7v0R4K1Nk] — Chris sur le contrat racial hispanique : distinction Cuba/Porto Rico/Mexique/Venezuela, esclavage vs immigration
+[^usa4]: [https://www.youtube.com/watch?v=_h7v0R4K1Nk] — Padu sur la Californie : "4000 milliards de dollars, deux fois la France. [...] La Chine surveille ça de très près"
+[^usa5]: [https://www.youtube.com/watch?v=6K3SRK1Jl_0] — "La gauche de gauche gagne quand elle ne renonce à rien"

@@ -231,18 +231,18 @@ Trump vu comme révélateur systémique + émergence d'une gauche américaine ra
 
 ### Batch USA — Trump et la gauche américaine émergente
 
-**Statut** : en attente
+**Statut** : ✅ fait
 **Slug branche** : `ingest-batch/trump-gauche-americaine`
 
-- [ ] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec Positions Revue)
-- [ ] TRUMP VEUT ANNEXER LE GROENLAND
-- [ ] TRUMP et RUBIO REGRETTENT le TEMPS BÉNI des COLONIES !!
-- [ ] RÉVOLTES à LOS ANGELES : VERS une RÉPUBLIQUE SOVIÉTIQUE de CALIFORNIE
-- [ ] MAMDANI : À GAUCHE DE MÉLENCHON
-- [ ] NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME : COMMENT ZOHRAN MAMDANI A GAGNÉ
+- [x] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec Positions Revue)
+- [x] TRUMP VEUT ANNEXER LE GROENLAND
+- [x] TRUMP et RUBIO REGRETTENT le TEMPS BÉNI des COLONIES !!
+- [x] RÉVOLTES à LOS ANGELES : VERS une RÉPUBLIQUE SOVIÉTIQUE de CALIFORNIE
+- [x] MAMDANI : À GAUCHE DE MÉLENCHON
+- [x] NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME : COMMENT ZOHRAN MAMDANI A GAGNÉ
 
-**Fiches créées** :
-**Fiches enrichies** :
+**Fiches créées** : Concepts/Desagregation de l empire americain, Concepts/Gauche de droite, Individus/Kamala Harris, Individus/Alexandria Ocasio-Cortez, Individus/Gavin Newsom, Organisations/Democratic Socialists of America, Organisations/Parti Democrate, 6 fiches Videos
+**Fiches enrichies** : Enjeux/Anti-imperialisme (section USA colonialisme assumé), Concepts/Moisation (dimension USA/Mamdani), Concepts/Pacte raciste (dimension USA), Individus/Marco Rubio (discours Munich), Individus/Zohran Mamdani (analyse complète), Individus/Donald Trump (4 vidéos ajoutées)
 
 ---
 
