@@ -33,10 +33,50 @@ C'est précisément parce que femmes et trans sont des sujets révolutionnaires 
 
 Le concept s'inscrit dans la tradition marxiste : la classe ouvrière est le sujet révolutionnaire par excellence parce que ses conditions d'existence entrent en contradiction avec le système capitaliste. Mais pour la PaduTeam, d'autres groupes peuvent constituer des sujets révolutionnaires selon les conditions historiques — notamment dans une période où la lutte de genre est aussi profondément liée à la lutte de classe.
 
+## Les jeunes femmes diplômées comme classe révolutionnaire électorale — corpus Mamdani (novembre 2025)
+
+Le corpus USA opère une **extension** du concept vers une *classe révolutionnaire électoralement mobilisable*. L'analyse de la victoire de [[Zohran Mamdani]] à NYC (novembre 2025) produit la formulation théorique la plus claire de cette extension.
+
+**Les chiffres du bloc social Mamdani** — sorties d'urne croisant âge et genre :
+- Femmes 18-29 ans : **84%** Mamdani (score que Padu qualifie de « stalinien »)
+- Femmes 30-44 ans : 65%
+- Hommes 18-44 ans : 66-68%
+- Hommes 65+ : 36%
+
+La disparité générationnelle *à l'intérieur du genre féminin* (84% → 36% selon la classe d'âge) est *plus forte* que la disparité de genre elle-même — ce qui valide l'analyse d'une **classe** (jeunes femmes) et pas seulement d'un genre.
+
+**Formulation théorique de Padu (novembre 2025)** :
+
+> « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant. »[^mamdani_1]
+
+**Mécanisme matérialiste explicite** : Padu formule clairement la condition d'émergence d'un sujet révolutionnaire : **l'inadéquation entre possibilités et blocage**, pas l'exploitation maximale. Ce n'est pas en bas de l'échelle qu'on fait la révolution ; c'est là où le fossé entre ce qui est *structurellement possible* et ce qui est *matériellement permis* est devenu insupportable. Citation intégrale :
+
+> « Une situation révolutionnaire, elle ne survient pas forcément quand les gens sont très très exploités. Si vous regardez le féodalisme en France, ça a duré un millénaire — il y avait d'énormes parties de la population françaises énormément spoliées, violentées, dominées dans des situations absolument catastrophiques. Au sein de ce tiers état, petit à petit est montée une nouvelle classe, la bourgeoisie, qui s'est mis à avoir accès à plus de pouvoirs économiques et donc qui s'est mis à vouloir avoir accès à plus de pouvoirs politiques. [...] Une situation révolutionnaire arrive quand il y a une inadéquation entre une classe qui a envie de changement, a la possibilité et les moyens matériels de faire un changement, et un ancien monde qui n'est plus adéquat à leurs aspirations. »[^mamdani_2]
+
+**Conditions cumulées par les jeunes femmes new-yorkaises** (détaillées par Padu) :
+1. **Diplôme** — plus éduquées que la génération précédente, capital transférable
+2. **Structure mentale féministe normalisée** — « elles ont grandi dans un monde plus féministe, même si leur mère n'était pas militante — dans leur structure mentale il y a le fait de pouvoir s'émanciper, ne pas dépendre financièrement d'un homme, avoir accès à une carrière, contrôler les naissances, ne pas être enchaînée aux tâches domestiques »[^mamdani_3]
+3. **Empêchement matériel** — capitalisme patriarcal qui *empêche* l'émancipation structurellement attendue : loyers ingérables, précarité salariale, charge parentale non mutualisée, violences
+
+Ces trois conditions produisent l'**inadéquation** décisive : des femmes qui ont intégré subjectivement qu'un autre monde est *possible*, et qui font face à un monde ancien *qui bloque*. C'est précisément là que naît le sujet révolutionnaire.
+
+**Articulation avec la version féminisme matérialiste (ATR #2)** : la formulation Chris (femmes + personnes trans contre la détermination naturelle des corps) et la formulation Padu (jeunes femmes diplômées électoralement mobilisées) ne sont pas contradictoires mais complémentaires. La première donne le *sous-bassement matériel* (contraception, IVG, obstétrique moderne comme fondement objectif) ; la seconde donne la *forme électorale concrète* que prend le sujet révolutionnaire féminin dans une métropole capitaliste en crise du logement (2025). Les deux formulations convergent sur une thèse commune : **les femmes ne sont pas un sujet révolutionnaire par décret moral, elles le sont par configuration matérielle** — ce qui est aussi la réponse matérialiste aux critiques qui voient dans le féminisme une simple idéologie culturelle.
+
+**Limites reconnues par la PaduTeam** : les jeunes femmes diplômées new-yorkaises ne sont pas *toute* la classe ouvrière. Le vote Mamdani a « un vrai retard sur les bas diplômes »[^mamdani_4]. Le Bronx (quartier pauvre) vote Mamdani à 41% — « dans ces quartiers très populaires on fait la moyenne »[^mamdani_5]. La classe révolutionnaire jeune-femme-diplômée est le *vecteur* électoral, pas la *totalité* du bloc nécessaire à la rupture. Mamdani lui-même s'en sort parce qu'il a tenu un *programme prolétaire* (gel des loyers, transports et garde d'enfants gratuits) qui amorce l'extension vers le pain du bas — même si l'alignement électoral complet n'est pas encore là.
+
+**Différence avec le « pain du haut » démocrate mainstream** : les jeunes femmes diplômées ne sont pas l'électorat Harris/Clinton. Elles sont le *segment* de cet électorat qui a basculé vers une gauche de gauche, contre la fabrique identitaire sans programme (« première femme racisée »). L'identité sans programme *dégoûte* ; l'identité + programme matériel + organisation mobilise. Les jeunes femmes Mamdani sont le cas d'école.
+
 ## Concepts associés
 
-[[Feminisme materialiste]], [[Transidentite]], [[Transphobie]], [[Antitechnologie vs technocritique]]
+[[Feminisme materialiste]], [[Transidentite]], [[Transphobie]], [[Antitechnologie vs technocritique]], [[Moisation]], [[Gauche de droite]]
 
 ## Vidéos associées
 
-- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — formulation explicite du sujet révolutionnaire féminin et trans par Chris
+- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — formulation explicite du sujet révolutionnaire féminin et trans par Chris (détermination naturelle des corps)
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — formulation par Padu de « les jeunes femmes comme classe révolutionnaire » : 84% chez les 18-29 ans pour Mamdani ; théorie matérialiste de l'inadéquation structurelle
+
+[^mamdani_1]: [25:58](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1558) — Padu : « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant. »
+[^mamdani_2]: [25:27](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1527) — Padu : « Une situation révolutionnaire ne survient pas forcément quand les gens sont très très exploités. [...] Elle arrive quand il y a une inadéquation entre une classe qui a envie de changement, a la possibilité et les moyens matériels de faire un changement, et un ancien monde qui n'est plus adéquat à leurs aspirations. »
+[^mamdani_3]: [24:24](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1464) — Padu : « Elles ont grandi dans un monde plus féministe, même si leur mère n'était pas militante — dans leur structure mentale, il y a le fait de pouvoir s'émanciper, ne pas dépendre financièrement d'un homme, avoir accès à une carrière, contrôler les naissances, ne pas être enchaînée aux tâches domestiques. »
+[^mamdani_4]: [22:51](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1371) — « Sur les bas diplômes, il y a encore un vrai retard. »
+[^mamdani_5]: [32:39](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1959) — Chris : « Dans ces quartiers très populaires on fait la moyenne. »

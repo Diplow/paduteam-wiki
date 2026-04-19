@@ -1,12 +1,12 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [Palestine, anti-impérialisme]
+thèmes: [Palestine, anti-impérialisme, États-Unis]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
-skill_version: ingest-batch-2026-04-13
+date modified: Sunday, April 19th 2026, 10:00:00 pm
+skill_version: write-enjeu-2026-04-19
 ---
-#domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
+#domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #thème/États-Unis
 # Palestine libre
 
 ## Position PaduTeam
@@ -96,6 +96,44 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 - [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — Rapport ONU sur les viols des femmes palestiniennes en détention israélienne, ignoré par Bergé
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
+
+## Mamdani, Rubio et le contrat racial impérial (corpus USA 2025-2026)
+
+Le corpus USA renforce la centralité palestinienne comme test de cohérence sur deux fronts articulés : d'un côté, la **validation internationale** du pro-palestinisme de gauche comme position électorale victorieuse avec [[Zohran Mamdani]] ; de l'autre, le **dévoilement** du contrat racial impérial pro-Israël dans le discours Rubio Munich.
+
+### Mamdani pro-Palestine avant le 7 octobre — étiquette « islamiste » comme arme répressive
+
+[[Zohran Mamdani]] est chiite, racisé, fils d'une réalisatrice et de l'anthropologue Mahmood Mamdani. Étudiant, il avait fondé des **collectifs militants pro-Palestine avant le 7 octobre**. Élu maire de NYC en nov 2025 (50% au 1ᵉʳ tour contre Cuomo soutenu par Trump), sa campagne a tenu la ligne pro-palestinienne sous pression : en fin de campagne, sous la pression du « pays le plus soutien d'Israël », il a « donné un peu de lest » sur le discours mais **n'est pas revenu sur ses propositions** (fermeture des bases militaires à l'étranger, fin de l'impérialisme US)[^mamdani_palestine].
+
+La droite et l'extrême droite ont joué l'islamophobie à fond. Rudy Giuliani qualifie Mamdani de **« croisement d'un extrémiste islamiste et d'un communiste »** — la PaduTeam explique le registre : « dans la bouche d'un républicain états-unien, *communiste* c'est à peu près aussi infamant que te traiter de Ben Laden. Les deux sont sur le même plan ».
+
+**Réception en France** : même registre, mêmes acteurs. [[Marion Marechal]] : « 24 ans après le 11 septembre, il vient d'être élu maire de New York avec le programme de ruine économique que celui de la France Insoumise. La métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». Céline Pina : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra » — avec visuel World Trade Center 2001 / Mamdani 2025 et slogan « we forgot ». Padu : « elle veut se présenter au championnat du monde du racisme »[^mamdani_islamisme].
+
+Pointe factuelle : les musulmans représentent **moins de 3% de la population new-yorkaise**, proportion inférieure à la France. L'étiquette « islamiste » n'a aucun lien avec une réalité démographique — c'est **un dispositif de criminalisation politique** importé transatlantiquement, visant à disqualifier tout soutien à la Palestine comme « pro-Hamas », exactement ce que la [[Repression des pro-Palestine|répression française des pro-Palestine]] a déjà documenté. Le titre même de la vidéo PaduTeam — « NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME » — est une ironie retournée contre ce dispositif.
+
+### Rubio assume la blanchité + foi chrétienne avec Netanyahu
+
+Le discours de [[Marco Rubio]] à Munich (14 fév 2026) articule explicitement la grammaire coloniale américaine à l'alliance avec Israël. Rubio invoque la « foi chrétienne » comme ciment transatlantique — Chris démonte : **« c'est n'importe quoi parce que tout ce qu'il dit, il pourrait le dire avec Israël mais il n'y a pas la foi chrétienne. Donc c'est juste la blanchité, un projet impérialiste »**[^rubio_israel]. L'identité du « nous » rubiesque n'est pas religieuse — elle est **raciale-impériale**. La foi chrétienne est un faux-nez ; le vrai lien est la blanchité comme contrat colonial, étendu à Israël comme pointe avancée du [[Colonialisme de peuplement]].
+
+Articulation concrète avec Gaza :
+- Trump avait proposé une **« Côte d'Azur » touristique à Gaza** comme nettoyage ethnique déclaré (cf. plan Trump-Blair)
+- Rubio revendique publiquement le **« leadership américain » à Gaza** et l'extraterritorialité de la justice US sur les dirigeants ennemis (Maduro « fugitif » dans son propre pays)
+- Les « hommes qui ont colonisé la nation où je suis né sont arrivés sur nos rivages en emportant la foi chrétienne de leur ancêtre comme un héritage sacré » — Chris : « à part les Israéliens et les Américains, il y a personne qui a cette vision de se dire "je suis un colon" »
+
+**Les deux seuls peuples contemporains** où la conscience coloniale reste revendiquée en positif sont les Américains et les Israéliens — articulation théorique directe qui renforce la [[Centralite de la question palestinienne]] comme miroir grossissant du colonialisme mondial. Le [[Contrat racial]] de [[Charles Mills]] fournit l'ossature théorique : le « nous » occidental est un contrat racial, pas un contrat universaliste.
+
+### Le DSA formule « fin de l'impérialisme » dans son programme
+
+Le programme DSA que porte Mamdani inclut explicitement **« fin de l'impérialisme américain, fermeture des bases militaires à l'étranger »**. Chris qualifie cette mesure de « truc assez dingo » — reconnaissance implicite qu'**une gauche américaine radicale va plus loin sur l'anti-impérialisme que la gauche française radicale**. Pour le vault Palestine libre, c'est un point d'appui international : la position palestinienne n'est pas une position « exotique française », elle est formulée au centre même de l'empire comme rupture de programme. La défense de la Palestine et la critique de l'impérialisme US sont **inscrites dans le même geste programmatique** par Mamdani et la DSA.
+
+[^mamdani_palestine]: [14:30](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=870) — « Quand il était étudiant, Mamdani avait créé des collectifs étudiants militants pour la Palestine — déjà il y a longtemps, avant le 7 octobre ». [28:57](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1737) — Chris : « il s'est pas tant droitisé que ça [...] Surtout ce qu'il n'a pas fait, c'est qu'il n'a pas commencé à revenir sur ses propositions ».
+[^mamdani_islamisme]: [24:46](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1486) — Marion Maréchal citée : « il vient d'être élu maire de New York avec le programme de ruine économique [...] la métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». [15:33](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=933) — « À New York c'est moins de 3% des New-Yorkais qui se déclarent de confession musulmane [...] cette peur de l'islamisme [...] est encore plus ridicule là-bas qu'en France ».
+[^rubio_israel]: [26:47](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1607) — Chris : « c'est n'importe quoi parce que tout ce qu'il dit, il pourrait le dire avec Israël mais il y a pas la foi chrétienne. C'est juste la blanchité, un projet impérialiste ».
+
+## Vidéos clés (suite — corpus USA)
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Mamdani pro-Palestine avant le 7 octobre ; réception islamophobe transatlantique (Giuliani → Maréchal, Pina) ; moins de 3% de musulmans à NYC
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Programme DSA inclut « fin de l'impérialisme + fermeture des bases militaires » ; Ruffin « imposteur » parce qu'a fait foot sur les manifs contre l'islamophobie
+- [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Blanchité + foi chrétienne comme contrat racial impérial pro-Israël ; USA et Israël comme seuls peuples revendiquant la conscience coloniale
 
 ## La bataille médiatique des clashs pro-Palestine
 

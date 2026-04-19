@@ -17,3 +17,4 @@ Article "La croissance cassée par Donald Trump" (Mediapart, 2026) : démontre q
 
 ## Vidéos où Romaric Godin est cité
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Chris recommande son article Mediapart sur la défaite de Kamala Harris, qui formule le même diagnostic de la "gauche de droite" côté américain

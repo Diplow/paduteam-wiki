@@ -27,5 +27,12 @@ Sur Mélenchon 2027 : sort la thèse complotiste que "les mosquées donnent les 
 - Proche du milieu des startuppers de l'éducation et de la tech parisienne
 - Connaît [[Positions Revue]] (Chris) — l'a suivi sur Twitter en 2019-2020
 
+## Transhumanisme réactionnaire et malthusianisme
+
+Dans [[TRUMP VEUT ANNEXER LE GROENLAND]] (5 janvier 2026), Padu cite explicitement Laurent Alexandre comme exemple français de transhumaniste réactionnaire susceptible de soutenir des stérilisations forcées à grande échelle en Asie et en Afrique, dans le prolongement des stérilisations forcées danoises au Groenland (4 500 filles dès 12 ans, 1966-1970) et américaines (femmes noires en Alabama dans les années 1960). Articulation au malthusianisme écoréac (thèse de Jean-François Kovichi sur la démographie africaine) : « des discours qui ouvrent la porte au fait de choisir quels sont les types de femmes qui doivent se reproduire ou pas »[^alexandre_groen].
+
+[^alexandre_groen]: [27:54](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=1674) — Padu : « ça me surprendrait pas que des transhumanistes réac comme Elon Musk ou comme des — en France, on en a un bon exemple — Laurent Alexandre seraient pour des nouvelles stérilisations forcées en Asie et en Afrique. »
+
 ## Vidéos où Laurent Alexandre est analysé
 - [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]]
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — figure française du transhumanisme réactionnaire, articulation avec les stérilisations forcées coloniales

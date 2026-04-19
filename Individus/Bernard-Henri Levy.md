@@ -45,7 +45,14 @@ BHL sur la solution à deux États : "Ça fait 50 ans que je suis pour la soluti
 - [[Anne Sinclair]] — même camp sioniste de gauche atlantiste
 - [[Hidalgo]] — invitée à sa soirée
 
+## Disqualification de l'anti-américanisme en 2003
+
+Dans [[TRUMP VEUT ANNEXER LE GROENLAND]] (janvier 2026), Chris rappelle la séquence 2003 (intervention en Irak) où BHL et Cohn-Bendit qualifiaient publiquement l'anti-américanisme de gauche de « primaire ». BHL avait même affirmé que l'anti-américanisme était une forme d'antisémitisme[^bhl_groen]. Pour la PaduTeam, cette disqualification morale a anesthésié la critique de l'impérialisme US à gauche pendant 20 ans — et rend d'autant plus urgent, face à Trump qui assume le colonialisme, de **réhabiliter l'anti-américanisme comme position de gauche légitime**.
+
+[^bhl_groen]: [1:03](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=63) — Padu : « en 2003 quand nous étions déjà des gauchistes [...] on se battait contre l'intervention en Irak. On avait toute une team, les Cohn-Bendit, les BHL qui disaient "ça c'est de l'anti-américanisme primaire". BHL avait même dit que c'était de l'antisémitisme d'être anti-américain. »
+
 ## Vidéos où BHL est mentionné
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]
 - [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Soirée avec Douglas Murray et Yan Moix ; bégaiement sur BFM ; syllogisme antisémite de l'invité
 - [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — "Israël libère le Liban" ; position sur les deux États ; double standard sur la "légitime défense"
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — disqualification historique de l'anti-américanisme en 2003 ; matrice idéologique dont l'actualité trumpiste oblige à sortir

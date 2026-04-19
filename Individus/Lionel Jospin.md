@@ -19,3 +19,4 @@ Ex-trotskiste (tendance lambertiste), comme [[Jean-Luc Melenchon]]. Selon [[Chri
 ## Vidéos où l'individu est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Cité comme preuve de l'échec des sondages en 2002
 - [[FROM TROTSKISTE TO RACISTE]] — Mentionné comme ex-trotskiste passé au PS/social-libéralisme
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Matrice comparative de la [[Gauche de droite]] : "Kamala Harris c'est vraiment le Jospin de 2002" américain, même incompréhension du rapport de force politique

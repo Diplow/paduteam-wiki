@@ -32,6 +32,23 @@ Faure tente de positionner le PS comme gouvernement de remplacement de [[Francoi
 
 **Écrasé entre deux casse-noisettes** : Faure n'est même pas écrasé entre Mélenchon et Glucksmann — il est écrasé entre leurs lieutenants respectifs. "La noisette des noisettes."
 
+### Récupération Mamdani — « la danse du ventre au centre » (novembre 2025)
+
+Au lendemain de la victoire de [[Zohran Mamdani]] à New York, Faure déclare[^mamdani-ps] :
+
+> « Il suffit de regarder son programme. Sur quoi s'est-il fait élire, d'ailleurs que revendique-t-il ? Il se revendique comme socialiste [...] Je veux faire le blocage des loyers dans une zone tendue — New York — ça vous rappelle rien ? C'est sous François Hollande que ça s'est passé [...] Il veut des services publics qui fonctionnent et qui soient accessibles à tous, les crèches, les transports, etcetera — regardez en France quelles sont les villes, les départements, les régions qui mettent en œuvre la politique que veut mettre en place à New York — ce sont toutes des communes, des départements ou des régions socialistes. Donc je me sens parfaitement en phase avec ce qu'il fait. »
+
+Démontage PaduTeam en trois temps :
+1. **L'étiquette socialiste** ne fait pas le programme. Padu : « Lénine aussi était au Parti socialiste démocrate ouvrier de Russie. Je ne suis pas sûr que ça fonctionne quoi. » S'auto-proclamer socialiste n'établit pas une équivalence programmatique.
+2. **Hollande n'est pas classé à l'extrême gauche**. Faure justifie la filiation PS-Mamdani par le blocage des loyers sous Hollande, qui est le même Hollande de la déchéance de nationalité, de la loi Travail, du CICE — pas le même régime politique que celui porté par Mamdani (90% imposition capital, open borders, defund police, Medicare for All, fermeture des bases militaires US).
+3. **Synecdoque politique** — prendre le blocage des loyers comme équivalent du programme global DSA, c'est prendre la partie pour le tout. Le PS ne propose rien de comparable à Medicare for All, à la fermeture des bases US, à la socialisation du parc immobilier, à la fin de l'impérialisme.
+
+Formulation PaduTeam[^danse] : c'est la **« danse du ventre au centre »** — appropriation culturelle de la victoire radicale pour légitimer un programme hollandien. Chris réassigne Faure au bloc « Hillary Clinton, Cuomo, Kamala Harris » — non pas au bloc DSA. Retour stratégique pour LFI[^retour-lfi] : « ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme *plus à gauche* que le NFP. »
+
+[^mamdani-ps]: [16:31](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=991) — Olivier Faure sur Mamdani, ITW lue dans [[MAMDANI A GAUCHE DE MELENCHON]].
+[^danse]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris qualifie la manœuvre PS de « danse du ventre au centre ».
+[^retour-lfi]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris : « ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme plus à gauche que le NFP. »
+
 ### Kit ou double : la stratégie primaire FP2027 (juillet 2025)
 
 Faure lance l'invitation pour la conférence [[Front Populaire 2027]] du 2 juillet à Bagneux. Mais la PaduTeam démonte sa stratégie : il est minoritaire au PS (40% au premier tour de son congrès). Sa seule chance de survivre politiquement est de **gagner la primaire FP2027** — si elle se tient et si lui y participe.
@@ -63,3 +80,4 @@ Dans la convention réformiste, Faure apparaît comme le "patron fantoche" du PS
 - [[HOLLANDE prepare t-il SON RETOUR]] — Présenté comme le "patron fantoche" que Hollande va manger. Incapable de tenir face au vrai parrain : il croit avoir empêché le 49.3, Hollande lui confirme qu'il ne l'exclut pas.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Le deal Lecornu 2 / suspension des retraites comme point de départ de la guerre des gauches. Faure est "plus malin que prévu" — le mouvement avant les municipales est calculé pour capter les classes intermédiaires en ville.
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Kit ou double : stratégie de survie par la primaire FP2027. Ruffin gagnera la primaire → Faure mort politiquement. Transpire quand Tondelier lâche "primaire" sans mandat du PS.
+- [[MAMDANI A GAUCHE DE MELENCHON]] — « Mamdani serait au PS aujourd'hui » : synecdoque du blocage des loyers pour postuler l'équivalence globale ; démontage en trois temps (étiquette socialiste ≠ programme, Hollande ≠ extrême gauche, partie ≠ tout) ; réassignation au bloc « Clinton-Cuomo-Harris ».

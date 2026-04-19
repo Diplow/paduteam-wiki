@@ -3,7 +3,8 @@ type: individu
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
 date created: Wednesday, April 1st 2026, 10:47:07 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Saturday, April 19th 2026, 8:00:00 pm
+skill_version: ingest-batch-2026-04-19
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme
 # Donald Trump
@@ -44,6 +45,26 @@ Poutine et Trump sont en concurrence sur le marché pétrolier — pas alliés. 
 ## Style politique et impuissance de l'explication psychologique
 [[Sandra Lucbert]] et [[Frederic Lordon]] ont analysé un mème de Trump (vidéo IA Top Gun avec excréments sur la population lors du No Kings Day) via la psychanalyse de [[Melanie Klein]]. La PaduTeam réfute cette approche : le "style" psychologique de Trump (sa "position schizo-paranoïde") est politiquement irrelevant. Biden était "poli" et "respectueux" — ça ne l'a pas empêché de soutenir le génocide en Palestine. Ce qui compte, ce sont les débouchés structurels et la position de classe, pas la psychologie du dirigeant. Remplacer Trump par Rubio ne changerait rien à la situation géopolitique.
 
+## Groenland et colonialisme assumé (5 janvier 2026)
+
+Deux jours après l'exfiltration de [[Nicolas Maduro]], la Maison Blanche relance publiquement la revendication américaine sur le Groenland (territoire danois, 56-60 000 habitants, autonome depuis le référendum de 2008, membre de l'OTAN via le Danemark). Le tweet officiel — portrait noir et blanc de Trump avec agent FBI en oreillette et mention **FAFO** (« Fuck Around and Find Out ») — fait office de déclaration de méthode : la PaduTeam le lit comme l'image d'« un mafieux de la force absolu » qui assume publiquement la logique « années 1930 » des fascistes qui disent leur programme sans le maquiller.
+
+Chronologie d'appareil : Trump formule la revendication dès 2019, la réitère en décembre 2024 en n'excluant pas « l'usage de la force armée », et en août 2025 le Danemark convoque un chargé d'affaires américain pour « tentatives d'ingérence » (entrisme pour fissurer les relations entre le Groenland et Copenhague). Le dossier est porté dans l'appareil par [[Caty Miller]] (conseillère politique, tweet « soon ») et son mari [[Stephen Miller]] (directeur de cabinet adjoint de la Maison Blanche).
+
+Mécanisme matériel restitué par Chris : terres rares + pétrole + gaz + nickel + sable (le Groenland fait la taille du Mexique, largement sous-estimé par les planisphères) → découplage industriel avec la Chine (complément arctique des droits de douane) → pivot géostratégique arctique (position polaire face à Russie et Chine) → accès aux ressources que le dérèglement climatique rend exploitables. Corollaire : après le Groenland viendront l'Antarctique puis la Lune et Mars ([[Elon Musk]]) dans la même logique extractive.
+
+Thèse économique de Chris : « l'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable »[^groen1]. C'est le cadre général de la fin du [[Protectionnisme anachronique|protectionnisme]] (invalidation par la Cour suprême) : privé du levier tarifaire, Trump bascule sur le levier territorial. Sortie explicite du néoconservatisme — plus de « mission civilisatrice » ni de « contre le grand Satan » : « Non, nous on veut du pétrole, on veut notre sécurité »[^groen2]. C'est la [[Doctrine Monroe 2.0]] étendue à l'Arctique.
+
+L'épisode Groenland retourne [[OTAN|l'OTAN]] comme un gant : l'instrument « protecteur » (80% de l'addition payée par les USA) s'avère être le mécanisme de la vassalisation, qui se révèle dès que Washington revendique un territoire allié. Naïveté totale de la première ministre [[Mette Frederiksen]] qui invoque la « garantie de sécurité collective » de l'OTAN contre les USA. La PaduTeam : « le Danemark croit qu'il est encore dans les années 90 » — il « n'a pas compris le changement de phase du libéralisme avec Trump [...] On revient à du libéralisme concurrentiel, plus entre nations, mais entre empires »[^groen3].
+
+Réception européenne caricaturale : Macron « lèche les chaussures de Trump » et demande « peux-tu m'uriner dessus s'il te plaît ? » ; [[Gabriel Attal]] et le ministre des Affaires étrangères se réalignent immédiatement sur la « loi du plus fort » et appellent à s'armer — escalade guerrière explicite. La PaduTeam y lit la formule maurrassienne de la « divine providence » (Maurras anti-germain qui salue l'occupation nazie en 1940) : les atlantistes français ([[Damien Rieu]], [[Julien Odoul]], CNews) sont structurellement du côté du plus fort. « Vous passez votre temps à dire aux gens chicken for KFC, mais c'est vous le foutu poulet dans la bouche des Américains. »
+
+Conclusion campiste explicitement formulée comme alternative fermée (« il n'y a pas de troisième voix possible ») : soit la soumission (vassalisation, course à l'armement, collaboration de fait), soit le retournement des alliances vers Chine, Cuba, Venezuela, Colombie, Mexique, pays socialistes ou « sur la voie du socialisme ». Le droit international sans rupture avec OTAN et UE est un tartuferie.
+
+[^groen1]: [19:36](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=1176) — Chris : « l'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable. »
+[^groen2]: [7:45](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=465) — Chris : « Trump en a rien à foutre. Il est vraiment rentré dans un impérialisme. Non, nous on veut du pétrole, on veut notre sécurité. »
+[^groen3]: [24:17](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=1457) — Chris : « elle n'a pas compris le changement de phase du libéralisme avec Trump [...] On revient à du libéralisme concurrentiel, plus entre nations, mais entre empires. »
+
 ## Droits de douane sur le champagne (janvier 2026)
 Trump impose des droits de douane à 200% sur le champagne et les produits alcoolisés de France et de l'UE. Pour la PaduTeam : le but n'est pas de "protéger la filière viticole" (dont Trump se fout) — c'est de faire revenir les capitaux aux États-Unis. [[Jordan Bardella]] ne comprend pas ça. La seule réponse rationnelle : "Un milliard de Chinois sont prêts à acheter du champagne."
 
@@ -66,6 +87,48 @@ L'Arabie Saoudite et les Émirats comprennent que le bateau américain coule et 
 
 [^iran1]: [1:01](https://www.youtube.com/watch?v=yPJKov273gs&t=61) — "Trump dans son premier mandat avait déjà fait en sorte d'arrêter les accords d'échange économique avec l'Iran [...] c'est aussi un moyen pour lui de reprendre un peu la main avant les midterms"
 [^iran2]: [5:06](https://www.youtube.com/watch?v=ZkNLJ6DzTTM&t=306) — "l'Iran a annoncé qu'il pouvait tenir 6 mois. D'abord Trump a dit on enverra peut-être des troupes au sol. Et puis non"
+
+## Victoire 2024 — lecture matérialiste à chaud (novembre 2024)
+
+La [[Gauche de droite|thèse du "Jospin de 2002 américain"]] (développée dans [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]]) change l'angle de lecture : Trump n'a *pas* gagné parce qu'il monte — il a fait *moins* de voix qu'en 2020. Ce sont les classes populaires démocrates qui se sont abstenues (Harris a perdu 14-15 millions de voix vs Biden 2020). Trump est vainqueur **mécanique** d'une gauche de droite qui "court après la droite", pas produit d'un raz-de-marée d'adhésion personnelle. La campagne qu'il a menée en 2024 est "extrêmement rassembleuse, beaucoup plus que son discours de 2016" — ce qui dans la lecture PaduTeam est un **signal de danger**, pas de soulagement : il se prépare à apparaître comme le sauveur de la nation avec un assentiment populaire plus large, ce qui rend plus plausible un conflit Constitution vs masse sociale (volonté de rester au pouvoir au-delà du mandat, potentielle sécession).
+
+**Non-isolationnisme revendiqué** : « Trump est tout sauf un isolationniste — il peut rentrer dans une forme d'impérialisme et de nationalisme en même temps, qui est vraiment la dynamique protofasciste ». La vision : non pas les USA "gendarme du monde" (démocrates, celui qui conserve l'ordre), mais les USA "avant-garde du monde" (vision partagée avec [[Elon Musk]], retour à l'imaginaire 19e siècle — ceux qui *tirent* la dynamique mondiale)[^2024_1].
+
+**Le bis repetita Macron** : Le trumpisme 2016 a rendu possible Macron 2017 en France — un [[Populisme bourgeois]] technicisant ("élire un directeur général de Renault"), parce que le trumpisme avait disqualifié la droite assumée (Le Pen = "populisme raciste"). Mais le populisme bourgeois "ne peut plus fonctionner" après l'échec Macron. « Tragique en 2016, farce en 2024 » : la France a maintenant la plus grosse gauche radicale d'Europe pour capitaliser sur la démonstration par l'échec[^2024_2].
+
+[^2024_1]: [31:21](https://www.youtube.com/watch?v=mK41og88Zj0&t=1881) — Chris : « Trump est tout sauf un isolationniste — il peut rentrer dans une forme d'impérialisme et de nationalisme en même temps, qui est la dynamique protofasciste. Les démocrates se voient comme le gendarme du monde, celui qui conserve l'ordre ; lui voit les USA comme l'avant-garde du monde, c'est aussi la vision d'un Elon Musk, on revient à l'imaginaire du 19e siècle ».
+[^2024_2]: [34:58](https://www.youtube.com/watch?v=mK41og88Zj0&t=2098) — Chris : « le trumpisme a favorisé Macron [...] un populisme bourgeois très technocratique qui s'affranchit du clivage droite-gauche [...] aujourd'hui le populisme bourgeois ne peut plus fonctionner, ces Hollande-bis non plus — il y a un vrai chemin pour la gauche européenne et la France est à l'avant-garde ».
+
+## Rubio à Munich et l'état de l'Union (février 2026) — doctrine doublée
+
+**Division du travail Trump / Rubio**. Le 14 février 2026, [[Marco Rubio|Rubio]] prononce à la Conférence de Munich sur la sécurité un discours que Chris caractérise comme « le discours le plus colonial qu'on ait entendu depuis des décennies » — pièce inaugurale du [[Colonialisme revendique]]. Le 24 février, **la veille de l'enregistrement de [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]], Trump prononce son discours sur l'état de l'Union**. L'analyse PaduTeam pose une **division du travail doctrinale** :
+- **Trump = impulsion nationale-protectionniste** ([[Melonisme et Trumpisme|trumpisme]]), tweets FAFO, opérations (Maduro, Groenland, Iran, raids ICE)
+- **Rubio = formulation doctrinale, adresse aux Européens, théorie des « 5 siècles d'expansion » à relancer**
+
+La fonction de Rubio est aussi identitaire : catholique cubano-américain dans un appareil WASP-évangélique, il **travaille l'articulation du vote hispanique à la réaction** (29% Trump en 2016 → 50% en 2024), « remettant le catholicisme des Hispaniques américains dans la dimension WASP évangéliste de la domination sur la planète et la force »[^rub_synthese]. C'est la doublure idéologique du [[Pacte raciste|pacte racial américain]].
+
+**La peur de la sécession comme sous-texte**. [[Padu]] fait remarquer que le discours sur l'état de l'Union et le discours Rubio Munich partagent un sous-texte : « peut-être la peur de la sécession, la peur de l'explosion des États-Unis »[^rub_sec]. Les productions culturelles (comic *DMZ*, *The Handmaid's Tale*, blockbuster *Civil War*) l'ont anticipée ; Rubio la colmate en invoquant une « seule civilisation » transatlantique. La [[Desagregation de l empire americain|désagrégation interne]] alimente la fuite en avant externe **et** l'intensification du discours unitariste.
+
+**Non-isolationnisme confirmé**. La thèse formulée dès novembre 2024 (Trump = nationalisme + impérialisme en même temps, « avant-garde du monde » plutôt que « gendarme du monde ») trouve ici sa formulation doctrinale la plus aboutie. Rubio à Munich revendique « un nouveau siècle occidental », « nouvelles frontières » (voyages spatiaux commerciaux, IA, automatisation, captation des minerais essentiels, parts de marché dans les économies du sud global). C'est Trump + Musk + Rubio comme programme unifié.
+
+**Mur matériel**. Chris pose la limite aussitôt : Rubio n'a pas les moyens de son délire. Il faudrait la planification, le contrôle des prix, l'investissement public massif — c'est-à-dire ce que l'idéologie trumpiste appelle « communisme ». **Seule une gauche de rupture de type [[France Insoumise]] tiendrait techniquement les outils du délire hégémonique**[^rub_limite_trump]. Trump revendique l'impérialisme sans les outils, la gauche radicale a les outils sans l'impérialisme. Impasse structurelle.
+
+[^rub_synthese]: [23:11](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1391) — Chris : « quelqu'un de cynique comme Rubio sait que le monde américain est en train de disparaître [...] remettre le catholicisme des Hispaniques américains dans la dimension WASP évangéliste de la domination sur la planète et la force [...] les orienter contre le Sud. »
+[^rub_sec]: [26:47](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1607) — Padu : « il y a eu le discours sur l'état de l'Union de Trump hier. On tourne le 25 février, donc c'était hier. On sent qu'il y a au fond peut-être la peur de la sécession, la peur de l'explosion des États-Unis. »
+[^rub_limite_trump]: [33:31](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=2011) — Chris : « il faut absolument que des gauches de rupture comme la France insoumise comprennent ça [...] la sortie du capital progressive pour pouvoir développer l'humanité. »
+
+## Los Angeles et la crise constitutionnelle avec la Californie (juin 2026)
+
+Los Angeles flambe : raids ICE intensifiés, émeutes massives. Trump **envoie la Garde nationale sans accord du gouverneur [[Gavin Newsom]]** — « contre tout processus constitutionnel »[^la_gnat]. La Garde nationale est une police extra-étatique des États fédéraux dont le déploiement exige normalement la demande du gouverneur. Newsom refuse l'occupation militaire, annonce des poursuites judiciaires contre l'administration Trump et qualifie la décision d'« un pas incontestable vers l'autoritarisme ». Des drones militaires sont déployés pendant les émeutes, certains en capacité d'action contre les manifestants ; quelques marines sont mis en stand-by.
+
+**Effet paradoxal** de la fédéralisation forcée : elle *accélère* la dynamique qu'elle prétend empêcher. La pétition CalExit prend de l'ampleur ; la Californie — **4ᵉ PIB mondial (~4 000 Mds $), plus gros net payeur à l'État fédéral depuis dix ans, 20% des exports chinois vers les USA en transit** — s'autonomise commercialement (Newsom a annoncé en avril 2026 ses propres tarifs de douane avec la Chine, distincts de ceux de Trump)[^la_chine]. Chris formule la thèse symétrique : « **si Trump veut la fascisation, il aura en même temps la dislocation** »[^la_dislo].
+
+**Articulation avec le [[Pacte raciste]] hispanique** : la violence ICE exécute une politique qui a été *rendue politiquement possible* par le vote trumpiste des Hispaniques naturalisés de 2024. Les Latinos passent de 29% Trump en 2016 à ~50% en 2024 — « c'est vraiment le pacte racial : eux maintenant sont américains, ils ne veulent pas des derniers arrivés »[^la_pacte]. Trump utilise l'agrégat « vote hispanique » comme alibi (« voyez je suis pas antihispanique ») pendant qu'il expulse ceux-là mêmes qui partagent leur origine — fracture intra-hispanique cruciale (Latinos blancs vs Latinos noirs/natifs classés ensemble).
+
+[^la_gnat]: [13:33](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=813) — Padu : « la Garde nationale est une police extra-étatique des États fédéraux [...] là Trump a envoyé la Garde nationale contre tout processus constitutionnel. »
+[^la_chine]: [37:48](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2268) — Chris : « 20% de ces exportations [chinoises vers les USA] sont vers la Californie [...] le gouverneur de Californie avait dit : je vais moi-même mettre mes propres tarifs de douane. »
+[^la_dislo]: [19:45](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1185) — Chris : « si Trump veut la fascisation, il aura en même temps la dislocation. »
+[^la_pacte]: [24:24](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1464) — Chris : « c'est vraiment le pacte racial [...] eux maintenant sont américains [...] ils ne veulent pas des derniers arrivés. »
 
 ## Vidéos où Trump est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]

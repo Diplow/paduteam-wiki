@@ -1,12 +1,12 @@
 ---
 type: enjeu
 domaine: [politique-intérieure, géopolitique]
-thèmes: [Palestine, répression-justice, médias-propagande]
-skill_version: ingest-batch-2026-04-13
+thèmes: [Palestine, répression-justice, médias-propagande, États-Unis]
+skill_version: write-enjeu-2026-04-19
 date created: Tuesday, April 14th 2026, 5:59:34 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 10:00:00 pm
 ---
-#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande
+#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande #thème/États-Unis
 
 # Répression des pro-Palestine
 
@@ -106,6 +106,23 @@ Pente glissante théorisée par Yoldas : après la Jeune Garde, ce sera des part
 
 [^dissolution]: [9:14](https://www.youtube.com/watch?v=apa807lyQeM&t=554) — "on fait peur quand on est organisé [...] ce qui fait peur et ce qu'on tente de dissoudre, c'est dès que ça commence à devenir un petit peu gros, dès que ça commence à devenir une force sociale"
 
+### Le dispositif « islamiste » transatlantique — cas Mamdani
+
+Le corpus USA (nov 2025) fournit la démonstration que le dispositif répressif anti-pro-Palestine est **transatlantique**, avec des formules importées d'un continent à l'autre quasi mot pour mot. [[Zohran Mamdani]], élu maire de NYC avec 50% au 1ᵉʳ tour, est chiite, racisé, et avait fondé des collectifs pro-Palestine **avant le 7 octobre** quand il était étudiant. La campagne contre lui mobilise l'arsenal islamophobe habituel :
+
+- **Rudy Giuliani** : Mamdani est un « croisement d'un extrémiste islamiste et d'un communiste ». La PaduTeam décode : « dans la bouche d'un républicain états-unien, *communiste* c'est à peu près aussi infamant que te traiter de Ben Laden. Les deux sont sur le même plan »[^mamdani_giuliani].
+- **[[Marion Marechal]]** (tweet français relayant la séquence américaine) : « il vient d'être élu maire de New York avec le programme de ruine économique que celui de la France Insoumise. La métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». Le collage « ZAD pro-Hamas » transfère directement le répertoire français de criminalisation des pro-Palestine.
+- **Céline Pina** : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra » — avec visuel World Trade Center 2001 / Mamdani 2025, slogan « we forgot ». Padu : « elle veut se présenter au championnat du monde du racisme ».
+
+**Pointe factuelle** : les musulmans représentent **moins de 3% de la population new-yorkaise** — proportion inférieure à la France. « Cette peur de l'islamisme — elle est déjà ridicule en France, mais elle est encore plus ridicule là-bas ». L'étiquette « islamiste » n'a aucun lien avec une démographie — c'est **un dispositif de neutralisation politique** qui circule transatlantiquement : le même répertoire que la loi 2014 française (apologie du terrorisme), les mêmes acteurs (Maréchal, Pina, lobbies pro-israéliens), le même objectif (rendre impossible tout soutien à la Palestine sans être accusé d'islamisme).
+
+### Mécanisme politique retourné — énumérer le programme fait monter la gauche
+
+Chris formule une contre-lecture stratégique : en énumérant le programme Mamdani pour dire « c'est très grave, ils sont fous », l'extrême droite fait exactement ce que la gauche molle faisait à l'envers pour elle (« oui il faut contrôler les frontières, oui il faut contrôler les immigrés ») depuis 20 ans. À l'époque, ça a légitimé le vocabulaire extrême droitier et fait monter le RN. **Ici, ça légitime le vocabulaire et les mesures de la gauche DSA** en les exposant à un public qui commence à se dire « en fait ce n'est pas si mal, vu la crise »[^mamdani_renvers]. Le dispositif répressif islamophobe a ses limites internes : à force de répéter l'équation pro-Palestine = islamisme = communisme, les trois termes se banalisent — et le dernier cesse d'être infamant pour les jeunes diplômés (cf. 60% d'opinion favorable au socialisme chez les démocrates en 2025 vs 40-50% en 2010).
+
+[^mamdani_giuliani]: [15:02](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=902) — Padu décode Giuliani : « dans la bouche d'un républicain états-unien, communiste, c'est à peu près aussi infamant que te traiter de Ben Laden ».
+[^mamdani_renvers]: [29:28](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1768) — Chris : « ils sont en train de faire monter la gauche en faisant ça comme l'extrême droite l'a fait là-bas, c'est-à-dire en énumérant le programme [...] les gens ont commencé à se dire bah non, c'est pas si mal en fait, vu la crise ».
+
 ### La censure des plateaux TV et le double mesure structurel
 
 Le directeur de rédaction de CNews, auditionné par une commission parlementaire, refuse de condamner l'assassinat de journalistes palestiniens et la censure des médias par Israël. Aymeric Caron le pousse : répondez par oui ou non, est-ce que vous condamnez ces meurtres de journalistes ? Le directeur bégaie et esquive[^cnews].
@@ -137,3 +154,5 @@ En miroir : les propos tenus impunément sur les mêmes plateaux —
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes et pro-Palestine comme acte de fascisation ; théorisation de la lutte par Cem Yoldas
 - [[ARNO KLARSFELD ET MICHEL BOUJENAH SE LACHENT SUR LES PALESTINIENS ET LES MUSULMANS]] — Double mesure : rafles de musulmans impunies, fresque anti-génocide effacée
 - [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — ONU documente les viols de femmes palestiniennes, Bergé silencieuse — double mesure féministe
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Dispositif « islamiste » transatlantique appliqué à Mamdani (Giuliani → Maréchal, Pina) ; moins de 3% de musulmans à NYC ; étiquette importée comme arme de neutralisation politique
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Mécanisme retourné : en énumérant le programme, l'extrême droite française et libertarienne (Parti Miléiste) légitime le vocabulaire et les mesures de la gauche DSA

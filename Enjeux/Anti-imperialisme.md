@@ -2,9 +2,9 @@
 type: enjeu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine, États-Unis]
-skill_version: ingest-batch-2026-04-19
+skill_version: write-enjeu-2026-04-19
 date created: Tuesday, April 14th 2026, 4:52:34 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 10:00:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela #thème/Palestine #thème/Amérique-latine #thème/Ukraine #thème/États-Unis
 # Anti-impérialisme
@@ -118,17 +118,92 @@ Le cas ukrainien est le plus complexe du corpus anti-impérialiste PaduTeam — 
 
 ## Le colonialisme américain assumé (2025-2026)
 
-Le corpus américain marque un tournant dans la forme que prend l'impérialisme US : fini le vernis démocratique, place au colonialisme revendiqué. C'est l'analyse centrale des vidéos Groenland, Rubio et Los Angeles.
+Le corpus USA (nov 2024 → fév 2026) marque un tournant dans la forme que prend l'impérialisme US : fini le vernis néoconservateur, place au **[[Colonialisme revendique|colonialisme revendiqué sans masque]]**. Six vidéos articulent ce basculement : l'élection Trump 2 (nov 2024), la victoire Mamdani (nov 2025), le Groenland (janv 2026), les révoltes de Los Angeles (juin 2026), et le discours Rubio à Munich lu intégralement par Chris (fév 2026).
 
-**Le discours de Rubio à Munich (février 2026)** est qualifié de "discours le plus colonial qu'on ait entendu depuis des décennies." [[Marco Rubio]], devant la Conférence de Munich, affirme littéralement : "Pendant 5 siècles, l'Occident n'a cessé de s'étendre… les grands empires occidentaux entraient en déclin accéléré par les révolutions communistes impies et les soulèvements coloniaux." Triple aveu : (1) la crise du capitalisme est réelle — il ne peut plus se reproduire seul ; (2) ce sont les révolutions communistes et les décolonisations qui ont brisé l'expansion ; (3) il faut refaire ce que les "révolutions impies" ont défait. Comparaison avec Jules Ferry à la Chambre en 1880 — qui au moins prétendait avoir une mission civilisatrice. Rubio ne prend même pas cette peine[^usa1].
+### Pièce doctrinale : le discours Rubio Munich comme aveu
 
-**L'annexion du Groenland** comme révélateur structurel. Trump veut le Groenland pour ses terres rares (indispensables à la décarbonation) et son pétrole — ressources nécessaires pour découpler l'économie US de la Chine. Le Groenland est territoire OTAN. Les dirigeants européens disent "l'OTAN nous protège" — c'est naïf : les USA *sont* l'OTAN, et Trump en fait une démonstration en temps réel. Deux chemins s'ouvrent pour le monde : se soumettre à "la loi du plus fort impérialiste" ou construire des "alliances anti-impérialistes" (Chine, Amérique latine, BRICS)[^usa2]. Le tweet de la Maison Blanche "FAFO" ("Fuck Around and Find Out") est une logique mafieuse à l'état brut — "c'est au mieux du Trump, au pire du Mussolini."
+Le discours de [[Marco Rubio]] à la Conférence de Munich (14 février 2026) est qualifié de **« discours le plus colonial qu'on ait entendu depuis des décennies »**. Citation pivot : « Pendant 5 siècles avant la fin de la Seconde Guerre mondiale, l'Occident s'est développé [...] ses missionnaires, ses pèlerins, ses soldats, ses explorateurs [...] ont colonisé de nouveaux continents [...] Mais en 1945, pour la première fois depuis l'heure de Christophe Colomb, elle se contracte [...] les grands empires occidentaux entraient en phase terminale de déclin accéléré par les **révolutions communistes impies** et par les **soulèvements coloniaux** »[^usa_rubio].
 
-**Le contrat racial américain** : Trump actualise la mécanique du [[Pacte raciste]] à l'échelle US. La victoire de Trump en 2024 s'explique en partie par le fait que les Latinos naturalisés ont voté massivement pour lui — une fois qu'on a ses papiers, on reproduit la logique du pacte racial : "ne pas vouloir faire rentrer les suivants." Le même mécanisme qu'en France, mais amplifié par l'histoire spécifique des communautés hispaniques (différences Cuba/Porto Rico/Mexique/Venezuela). Distinction cruciale : les Noirs et les Latinos ont des histoires *différentes* (esclavage vs immigration) — leurs comportements électoraux ne sont pas superposables[^usa3].
+Trois niveaux de dévoilement :
+1. **Abandon du masque universaliste**. La grammaire néoconservatrice (« démocratie », « mission civilisatrice », « grand Satan contre monde civilisé ») avait pour fonction d'embarquer les alliés européens et de justifier les interventions. Rubio supprime ce maquillage : « dans le temps on était les boss, on a perdu un peu et on va revenir à avant parce que maintenant il y a presque trop d'égalité dans le monde ». Chris : « c'est un gars son espérance c'est le passé. Tu peux pas plus réac que cette phrase ».
+2. **Identification explicite des ennemis historiques** : les décolonisations et les révolutions communistes du 20ᵉ siècle. Chris : « moi j'adore parce que les communistes ont quand même baisé leur mère tellement fort que ça fait 100 ans qu'ils en sont sûrs [...] la gauche devrait s'en souvenir ». La droite internationale nomme — la gauche doit assumer l'héritage qu'elle désigne.
+3. **Ré-archaïsation** du discours colonial. [[Jules Ferry]] en 1880 articulait à la Chambre « les peuples supérieurs doivent civiliser les nations inférieures » *et* « la vraie question c'est les débouchés économiques ». Rubio reprend les débouchés (« nouvelle chaîne d'approvisionnement occidentale pour les minerais essentiels », « parts de marché dans les économies du sud global ») mais abandonne la civilisation. 146 ans d'écart, recul assumé.
 
-**La [[Desagregation de l empire americain]]** comme logique de fond : l'empire ne peut pas se fasciser totalement parce qu'il est trop grand, trop hétérogène, trop asymétrique. La Californie (4ème PIB mondial, 4000 milliards de dollars, deux fois la France) résiste aux déportations ICE, refuse l'occupation militaire, lance une pétition CalExit. La Chine surveille de près : 20% de ses exportations passent par la Californie. Trump envoie la Garde nationale sans accord du gouverneur — crise constitutionnelle. Ce n'est pas de la fascisation totale qui se prépare mais une dislocation potentielle[^usa4].
+### Triple crise du capitalisme comme cadre théorique
 
-**La réponse de gauche depuis l'intérieur** — [[Zohran Mamdani]] est la preuve que l'anti-impérialisme peut devenir une position électorale victorieuse aux USA. Élu maire de NYC en 2025 avec 50% au premier tour, il porte un programme qui inclut explicitement la fin de l'impérialisme américain et la fermeture des bases militaires à l'étranger — positions plus à gauche que les insoumis français. Pour la PaduTeam : "la gauche de gauche gagne quand elle ne renonce à rien."[^usa5]
+À partir du démontage Rubio, Chris formule la [[Triple crise du capitalisme]] — cadre théorique nouveau qui structure désormais l'enjeu anti-impérialiste. Trois niveaux de crise articulés par un **point nodal unique, le surprofit** :
+- **Crise sociale** au centre (lutte des classes classique)
+- **Crise mondiale** (pays de la périphérie qui veulent sortir de la puissance du centre)
+- **Crise écologique** (totale)
+
+Chaque fois qu'un mouvement conteste le surprofit — même par des dispositifs capitalistes standard (impôt, planification, redistribution) — la bourgeoisie crie au communisme. L'anticommunisme hystérique de Rubio révèle que **le capital ne peut plus se reproduire seul**. Chris mobilise [[Alain Bihr]] : les conditions de reproduction du capital (puissance publique, recherche, infrastructures) sont dialectiquement les conditions de son abolition — « si on peut faire en sorte de redynamiser le capital par la puissance publique, ça veut dire que peut-être par la puissance publique, on est capable d'en sortir »[^usa_bihr]. Et [[Samir Amin]] : le capitalisme « nécessite toujours de créer du sous-développement ». Rubio promettant à Munich « un nouveau siècle occidental » est un mensonge structurel.
+
+### Le Groenland comme démystification de l'[[OTAN]]
+
+Le 5 janvier 2026, la Maison Blanche tweet un portrait mafieux de Trump avec la mention « FAFO » (*Fuck Around and Find Out*) et réitère la revendication sur le Groenland — territoire danois de moins de 60 000 habitants, membre de l'OTAN, concentrant terres rares et hydrocarbures arctiques. Chris : « c'est au mieux du Trump, au pire du Mussolini » — logique mafieuse à l'état brut.
+
+Mécanisme matériel restitué en quatre crans : (1) **terres rares** (pour découpler de la Chine sans dépendre de Pékin) ; (2) **pivot arctique** (proximité Chine/Russie pour intervention militaire) ; (3) **dérèglement climatique** qui ouvre les routes maritimes arctiques — « il y a une inégalité profonde au dérèglement climatique » ; (4) **chronologie administrative** (revendication dès 2019, menace militaire en déc 2024, ingérence documentée par le Danemark en août 2025)[^usa_groenland].
+
+**Thèse théorique centrale** : l'OTAN n'est pas un mécanisme de protection mutuelle, c'est un mécanisme unilatéral de contrôle américain sur les alliés. Chris : « l'OTAN, c'est les États-Unis, c'est eux qui payent 80% de l'addition, c'est eux qui ont toutes les troupes [...] Quand vous avez un pied dans l'OTAN [...] vous êtes un vassal ». Le Groenland retourne l'outil « protecteur » en outil de captation. Typologie : **nations impérialistes centrales** (USA) / **nations impérialistes vassalisées** (Danemark, France, UE — qui ont leurs colonies mais restent vassales du centre) / **nations impérialistes concurrentielles** (Russie) / **nations anti-impérialistes** (Cuba, Venezuela, Colombie, Mexique, Iran, Chine). Corollaire militant : **sortir de l'OTAN est la condition d'un anti-impérialisme européen cohérent**.
+
+Le message de [[Bjork|Björk]] aux Groenlandais (rappel des 4 500 stérilisations forcées dès 12 ans entre 1966 et 1970 par le Danemark, indépendance islandaise 1944) ancre le [[Colonialisme de peuplement]] à l'échelle nordique : le meilleur anti-impérialisme n'est ni la tutelle danoise ni la tutelle américaine, mais **l'autonomie radicale du peuple groenlandais, hors OTAN, hors UE, hors USA**.
+
+### Los Angeles : l'empire qui ne peut pas se fasciser totalement
+
+Les raids ICE de juin 2026 à Los Angeles produisent un cas d'école de la thèse matérialiste de Chris : **« un empire ne peut pas devenir fasciste »**. Le raisonnement n'est pas idéologique — il est structurel. Les USA sont trop grands, trop hétérogènes, trop asymétriques en rapports matériels pour qu'une centralisation autoritaire puisse s'imposer unilatéralement. Contre-exemple historique mobilisé : les États bavarois « ont complètement très peu voté Hitler aux législatives de 32 » parce qu'ils n'avaient pas la conscience nationale prussienne — un empire plus hétérogène encore ne peut, a fortiori, pas basculer en bloc. **Formulation symétrique** : « si Trump veut la fascisation, il aura en même temps la dislocation »[^usa_fasc].
+
+Séquence de la crise constitutionnelle (juin 2026) : raids ICE intensifiés → émeutes → [[Gavin Newsom]] refuse l'occupation militaire et annonce des poursuites judiciaires contre l'administration Trump → Trump fédéralise la Garde nationale **sans accord du gouverneur** (« c'est comme s'il y avait une police européenne qui intervenait pour réprimer des manifestations françaises »). À chaque étape, la centralisation autoritaire **produit** l'autonomisation au lieu de l'empêcher.
+
+### La désagrégation de l'empire comme objectif anti-impérialiste
+
+La [[Desagregation de l empire americain]] n'est plus un simple constat analytique — elle devient un **corollaire militant** de l'anti-impérialisme dans le corpus USA. Chris (Los Angeles) : **« la destruction de cet empire qui pèse énormément sur la vie de l'humanité tout entière est une nécessité pour le progrès de l'humanité concrète »**. Padu (Mamdani) : « je pense que c'est la meilleure chose qui pourrait arriver à la planète que ce pays [disparaisse]. Il est beaucoup trop gros, beaucoup trop puissant, beaucoup trop dangereux pour tout le monde »[^usa_dislocation].
+
+**Analogie théorique mobilisée** : Marx et Engels dans les années 1840 considéraient les nationalismes progressistes contre l'empire austro-hongrois en déliquescence comme des forces révolutionnaires possibles. Newsom sur son corpus est macroniste, mais **inséré face à Trump**, il devient un « pas en avant dans la destruction de l'empire américain » — c'est l'analyse matérialiste appliquée. La matrice est [[Campisme|campiste]], non pas par alignement sur Newsom, mais par choix de camp dans le rapport de force objectif.
+
+**Conditions matérielles de la bifurcation** (données chiffrées Californie) :
+- PIB ~4 000 Mds $ = 4ᵉ PIB mondial si indépendante, **deux fois le PIB de la France**
+- Plus gros net payeur au budget fédéral depuis 10 ans — donne plus qu'elle ne reçoit
+- 20% des exportations chinoises vers les USA transitent par la Californie
+- [[Xi Jinping]] rappelle publiquement que « la Californie a longtemps appartenu au Mexique » ; Chris prédit que **« Pékin sera le premier pays à reconnaître ce pays »**
+
+Chris n'idéalise pas : le CalExit n'est pas « un paradis progressiste anticapitaliste » — Newsom reste macroniste. L'intérêt est **en négatif** : un empire désagrégé réduit la puissance militaire et économique qui pèse sur le reste du monde. Scénario Chris : dislocation de la Californie d'abord, puis probablement de New York, pendant que le cœur vire « fascisme accéléré » — c'est **« moins pire »** qu'un empire unifié fascisant en termes de PIB cumulé et de force militaire. Padu : « on sait toujours où les révolutions commencent, on sait jamais où elles se terminent ».
+
+### La peur de la sécession comme sous-texte Rubio
+
+L'insistance obsessionnelle de Rubio sur « une seule civilisation » et la « foi chrétienne » comme ciment transatlantique est un symptôme colmatant : **le discours externe veut masquer l'effritement intérieur**. Padu : « on sent qu'il y a au fond peut-être la peur de la sécession, la peur de l'explosion des États-Unis ». Le zeitgeist culturel américain exprime déjà le non-dit politique — comic *DMZ*, série *The Handmaid's Tale*, blockbuster *Civil War*. « Quand ça commence à s'exprimer dans la culture, c'est qu'il y a quelque chose qui ne peut pas s'exprimer ou qui ne s'exprime pas encore sur le plan politique ».
+
+### Le pacte racial impérial — articulation raciale du colonialisme assumé
+
+Le [[Pacte raciste]] est actualisé à l'échelle US par les six vidéos, avec des distinctions cruciales que la PaduTeam refuse d'aplatir :
+
+- **Vote hispanique Trump** : 29% en 2016 → **~50% en 2024** (sorties d'urne CNN). Mécanisme : « les immigrés d'origine hispanique aujourd'hui qui ont la nationalité américaine [...] eux maintenant sont américains, même s'ils sont d'origine hispanique ils ne veulent pas des derniers arrivés ». Logique parallèle au « vote arabo-musulman pour Le Pen » hypothétique, mais qui ne s'active pas en France parce que l'islamophobie fait rempart. Trump, lui, n'a pas d'anti-catholicisme ni d'hostilité culturelle aux Hispaniques — il peut absorber leur vote sans friction.
+- **Distinctions sous-communautaires à tenir** : Cubains de Miami (« partie qui a fui Cuba, Tony Montana quoi », anti-communistes structurels) / Portoricains (statut colonial US, vote démocrate) / Mexicains (vague d'immigration récente, comparable aux Irlandais/Polonais avant eux). Asymétrie Texas / Californie : au Texas, plus de pénurie + chômage → affrontement Latinos/Latinos — ce sont les **conditions matérielles locales** qui activent ou désactivent le pacte racial, pas la « culture hispanique » abstraite.
+- **Fait noir irréductible** : « il y a un fait noir négrophobe spécifique aux États-Unis [...] c'est pas une hiérarchie des immigrés contre les non-immigrés ». Les Afro-Américains sont descendants d'esclaves — ils ne partagent **pas** l'histoire d'immigration de travail qui structure le pacte hispanique. Leur vote démocrate massif n'est pas un miroir inverse du vote hispanique. Latinos blancs votent Trump / Latinos noirs sont expulsés par l'ICE — **« fracture complète entre les deux »**. Le « vote hispanique » est une construction statistique sans sens matériel.
+- **Contrat racial impérial (Rubio)** : [[Charles Mills]] mobilisé. Rubio invoque la « foi chrétienne » comme ciment transatlantique, mais Chris démonte : « il pourrait le dire avec Israël mais il n'y a pas la foi chrétienne. Donc c'est juste la **blanchité**, un projet impérialiste ». La seule nation avec Israël où « je suis un colon » reste une identité revendiquée en positif. Rubio, catholique d'origine cubaine, tente un syncrétisme tactique : réagencer le catholicisme hispanique « dans la dimension WASP évangéliste de la domination sur la planète », orienter les Hispaniques américains « contre le Sud, contre les autres Amériques ». D'où **deux possibles** pour les Hispaniques américains : un possible réactionnaire que Rubio incarne, un possible progressiste orienté vers la défense du Mexique, de Cuba, des autres Amériques.
+
+### Le mur matériel — Rubio délire sans les moyens
+
+Chris pose la limite structurelle du projet rubiesque : il revendique captation territoriale mondiale, minerais essentiels, IA, frontière spatiale — **mais n'a pas les moyens**. Faire ce que Rubio promet supposerait « planification, contrôle des prix, investissement public massif » — soit ce que le cadre idéologique américain désigne comme communisme. Rubio lui-même a annoncé que **le pétrodollar ne tiendra pas 5 ans** (cf. [[Petrodollar]] — seuil 60$/baril = seuil d'intervention militaire). D'où la fuite en avant Venezuela / Iran / Groenland / Panama : stratégie de survie, pas d'hégémonie retrouvée. **Contradiction structurelle** : seule une gauche de rupture de type [[France Insoumise]] tient techniquement les outils (sortie du dollar, sortie du marché, planification) que le délire impérial suppose — mais elle en refuse la finalité.
+
+### L'économie américaine doit passer par la guerre
+
+Chris formule la thèse en clair (Groenland) : **« l'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable. Et donc, il nous mène à la guerre et notre devoir, c'est d'y résister »**. Mécanisme : sans croissance, sans réindustrialisation ([[Protectionnisme anachronique]]), sans pétrodollar stable, la seule voie est **extractive et militaire** — saisir les ressources, forcer les prix, fragiliser les concurrents. La course à l'armement européenne qui en découle n'est pas une protection — elle *est* la guerre à venir : « ça n'existe pas des campagnes pendant 10, 15, 20 ans de course à l'armement à la militarisation pour que ça n'explose pas ».
+
+### L'anti-américanisme primaire réhabilité
+
+Conséquence militante explicitement formulée par Chris : **« l'anti-américanisme doit revenir et doit se remettre à la mode à gauche »**. [[Bernard-Henri Levy|BHL]] et Cohn-Bendit avaient disqualifié l'anti-américanisme en 2003 comme « antisémitisme » ; deux décennies de vernis néoconservateur avaient fait passer la critique de l'empire pour un réflexe archaïque. Le colonialisme Rubio rend l'anti-américanisme à nouveau légitime comme position de gauche — non pas contre le peuple américain, mais contre l'appareil impérial.
+
+### Le tartuf européen — asymétrie des réactions
+
+Face à l'enlèvement de [[Nicolas Maduro]] (janv 2026), à l'annonce d'annexion du Groenland, puis aux 14 bombes B2 sur l'Iran (fév-mars 2026), la réaction européenne est caricaturale : « drones russes autour d'un sous-marin à Brest = très très très grave ; enlèvement d'un chef d'État sud-américain et annexion d'un territoire UE = visiblement pas des casus belli ». Macron « s'aplatit » ; Attal appelle à « s'armer, faire du service militaire » ; le bloc central réalignement sur la « loi du plus fort ». Les [[Atlantisme|atlantistes]] (Damien Rieu, Julien Odoul, CNews) sont explicitement désignés comme les **équivalents contemporains de Charles Maurras** : antigermains en paroles, ils appellent « divine surprise » l'occupation par le plus fort. Position PaduTeam : **« si vous croyez au droit international sans rompre avec l'OTAN et l'UE, vous êtes un tartuf. Vous êtes soit un idiot, soit vous serez un collabo de fait »**. La [[Vassalisation de la France]] est le pendant français du colonialisme assumé.
+
+### La réponse de gauche depuis l'intérieur — Mamdani et la DSA
+
+[[Zohran Mamdani]] (élu maire de NYC en nov 2025 avec **50%** au 1ᵉʳ tour contre 42% Cuomo soutenu par Trump, après **1,5 million** de portes knockées par la [[Democratic Socialists of America|DSA]] et l'infrastructure [[Brand New Congress|BNC]]) porte un programme qui inclut explicitement **« fin de l'impérialisme américain, fermeture des bases militaires à l'étranger »** — qualifié par Chris de « truc assez dingo » parce que *plus radical que ce que LFI formule en France*. Pour la PaduTeam : **« la gauche de gauche gagne quand elle ne renonce à rien »**. Les sondages d'opinion démocrates (60% favorables au socialisme en 2025 vs 40-50% en 2010, moins de 20% favorables au « big business » vs 45% en 2010) valident la [[Moisation]] du bloc démocrate. Mais la DSA reste **minoritaire** dans un Parti Démocrate verrouillé par son aile Clinton-Obama-Biden — d'où la leçon stratégique : la bataille Mamdani n'est pas gagnée, elle *commence*.
+
+### La tâche militante — réimposer l'humanité universelle
+
+Chris formule la tâche symétrique à l'abandon rubiesque de l'humanité universelle : **« notre tâche de communistes, notre tâche d'opposants virulents à ces fascistes, c'est vraiment de réimposer l'idée d'une humanité unie entière et capable demain de vivre concrètement sans hiérarchie, sans violence et sans domination »**[^usa_tache]. Kennedy parlant de la Lune devait encore incarner « l'humanité entière » parce que le pôle communiste soviétique l'y obligeait ; Rubio en 2026 ne s'embarrasse plus de ce fardeau (« il y a les forts, il y a les faibles et les forts doivent s'imposer »). C'est à la gauche radicale contemporaine — LFI dans les centres impérialistes, bloc anti-impérialiste Chine / Cuba / Venezuela / Mexique / Colombie / Iran — de reprendre le fil. L'anti-impérialisme **n'est pas défensif** : c'est la seule reformulation possible d'un universalisme matériel après l'effondrement du masque néoconservateur.
 
 ## Vidéos clés (suite — corpus USA 2024-2026)
 
@@ -140,7 +215,7 @@ Le corpus américain marque un tournant dans la forme que prend l'impérialisme 
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Moïsation américaine, programme DSA vs NFP, Marion Maréchal panique, PS s'approprie Mamdani
 
 ## Concepts associés (mis à jour — USA)
-[[Desagregation de l empire americain]], [[Gauche de droite]], [[Pacte raciste]], [[Moisation]], [[Contrat racial]]
+[[Desagregation de l empire americain]], [[Gauche de droite]], [[Pacte raciste]], [[Moisation]], [[Contrat racial]], [[Colonialisme revendique]], [[Triple crise du capitalisme]], [[Colonialisme de peuplement]], [[Petrodollar]], [[Doctrine Monroe 2.0]], [[Loi du plus fort]], [[Retournement des alliances]], [[Fascisation impossible]], [[CalExit]]
 
 ## Vidéos clés (suite — corpus Ukraine 2025-2026)
 
@@ -178,8 +253,9 @@ Le corpus américain marque un tournant dans la forme que prend l'impérialisme 
 [^iran3]: [35:21](https://www.youtube.com/watch?v=yPJKov273gs&t=2121) — Chris : "dès que ça commence à atteindre les 60 dollars, c'est-à-dire la rentabilité du gaz de schiste américain... il y a une intervention"
 [^iran4]: [0:00](https://www.youtube.com/watch?v=ZkNLJ6DzTTM&t=0) — "Ils s'en battent les couilles les Iraniens des conseils des impérialistes sur qui doit être le chef suprême religieux de leur pays"
 [^lfi1]: [21:15](https://www.youtube.com/watch?v=yPJKov273gs&t=1275) — "La réaction de Thomas Portes est absolument honteuse [...] c'est motif de sanction"
-[^usa1]: [https://www.youtube.com/watch?v=r8ovmwQWv8U] — Chris lit et analyse le discours Rubio Munich : "c'est le discours le plus colonial qu'on ait entendu depuis des décennies"
-[^usa2]: [https://www.youtube.com/watch?v=Z_vN3SrjNzQ] — Padu sur le Groenland : "Soit tu crois à la loi du plus fort impérialiste, soit tu construis des alliances anti-impérialistes"
-[^usa3]: [https://www.youtube.com/watch?v=_h7v0R4K1Nk] — Chris sur le contrat racial hispanique : distinction Cuba/Porto Rico/Mexique/Venezuela, esclavage vs immigration
-[^usa4]: [https://www.youtube.com/watch?v=_h7v0R4K1Nk] — Padu sur la Californie : "4000 milliards de dollars, deux fois la France. [...] La Chine surveille ça de très près"
-[^usa5]: [https://www.youtube.com/watch?v=6K3SRK1Jl_0] — "La gauche de gauche gagne quand elle ne renonce à rien"
+[^usa_rubio]: [35:33](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=2133) — Rubio à Munich lu par Chris : « pendant 5 siècles avant la fin de la Seconde Guerre mondiale, l'Occident s'est développé [...] les grands empires occidentaux entraient en phase terminale de déclin accéléré par les révolutions communistes impies et par les soulèvements coloniaux ».
+[^usa_bihr]: [13:25](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=805) — Chris mobilise Alain Bihr : « les conditions de reproduction du capital sont aussi de manière dialectique des conditions de son abolition ».
+[^usa_groenland]: [14:29](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=869) — Chronologie Groenland : revendication Trump dès 2019, réitération déc 2024 « sans exclure l'usage de la force armée », août 2025 le Danemark convoque un chargé d'affaires américain pour ingérence.
+[^usa_fasc]: [19:45](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1185) — Chris : « si Trump veut la fascisation, il aura en même temps la dislocation ».
+[^usa_dislocation]: [5:46](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=346) — Chris : « la destruction de cet empire qui pèse énormément sur la vie de l'humanité tout entière, c'est une nécessité pour le progrès de l'humanité concrète ». Padu : [32:34](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1954) — « c'est la meilleure chose qui pourrait arriver à la planète que ce pays [disparaisse] ».
+[^usa_tache]: [38:37](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=2317) — Chris : « notre tâche de communistes [...] c'est vraiment de réimposer l'idée d'une humanité unie entière et capable demain de vivre concrètement sans hiérarchie, sans violence et sans domination ».

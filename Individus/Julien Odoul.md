@@ -20,5 +20,10 @@ Le RN paierait Odoul pour "taper sur Retailleau 24h/24" dès qu'il fait quelque 
 - [[Rassemblement National]] — membre RN
 - [[Bruno Retailleau]] — adversaire ciblé
 
+## Atlantisme et divine providence (janvier 2026)
+
+Dans [[TRUMP VEUT ANNEXER LE GROENLAND]], identifié par Chris aux côtés de [[Damien Rieu]] comme « traître à la patrie » et exemple contemporain de la matrice maurrassienne : « C'est des types comme Maurras [...] qui se disent anti-germain toute leur vie. Et quand en 1940, les Allemands avec leur puissance passent la frontière, ils appellent ça une divine surprise. C'est des gens qui sont toujours du côté du plus fort, surtout si le plus fort n'est pas dans leur pays. Donc c'est un patriotisme en carton. » Relais français de la propagande états-unienne, illustre la position de classe [[Atlantisme|atlantiste]] structurelle de l'extrême droite française face à Trump.
+
 ## Vidéos où Odoul est mentionné
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Cité comme attaquant Retailleau en permanence pour le compte du RN
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — « Traître à la patrie », matrice maurrassienne de la « divine providence », atlantisme structurel

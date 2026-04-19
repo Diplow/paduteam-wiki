@@ -2,9 +2,9 @@
 type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Ukraine, États-Unis]
-skill_version: ingest-batch-2026-04-14
+skill_version: write-enjeu-2026-04-19
 date created: Tuesday, April 14th 2026, 1:20:44 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 10:00:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches #thème/Ukraine
 
@@ -43,11 +43,25 @@ La FI est la seule force politique significative à tenir la position pacifiste.
 - [[NPA]] — position belliciste sur l'Ukraine, "même ligne que Glucksmann et BHL"
 - Les généraux (général Mandon : "il faut accepter de perdre ses enfants") — relayés par les médias pour normaliser l'idée de guerre
 
+## L'escalade post-Venezuela/Groenland — position communiste face à Attal (corpus USA 2026)
+
+L'agression US au Venezuela (enlèvement de Maduro, janv 2026) et l'annonce d'annexion du Groenland puis les 14 bombes B2 sur l'Iran (fév-mars 2026) produisent une réaction caractéristique du bloc central français : **[[Gabriel Attal]] appelle à « s'armer, faire du service militaire »** face à la « loi du plus fort ». La PaduTeam désigne explicitement la séquence comme **escalade guerrière** (référence aux analyses de [[Said Bouamama]]) et y oppose la position communiste en clair : **« vraiment la position communiste c'est la paix, la paix, la paix, la paix, la paix, la paix et la paix »**[^usa_paix].
+
+**Thèse économique sous-jacente** (Chris sur le Groenland) : l'économie américaine, sans hausse de productivité et sans réindustrialisation possible, n'a qu'une voie pour sauver sa puissance — **la guerre**. « L'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable. Et donc, il nous mène à la guerre et notre devoir, c'est d'y résister ». La course à l'armement européenne qui en découle n'est pas protection — c'est la guerre à venir : **« ça n'existe pas des campagnes pendant 10, 15, 20 ans de course à l'armement à la militarisation pour que ça n'explose pas »**[^usa_armement]. Le camp de la paix est donc aussi le camp **anti-course-à-l'armement** — contre le réarmement européen présenté comme dissuasif.
+
+### L'atlantisme comme traîtrise en carton
+
+Les [[Atlantisme|atlantistes]] français (Damien Rieu, Julien Odoul, CNews) sont désignés dans le corpus USA comme équivalents contemporains de **Charles Maurras** : antigermains en paroles toute leur vie, ils appellent « divine surprise » l'occupation par Hitler en 1940. « C'est des gens qui sont toujours du côté du plus fort, surtout si le plus fort n'est pas dans leur pays. Donc c'est un patriotisme en carton ». L'équation est claire : **s'aligner sur Trump face au Groenland / Venezuela / Iran, c'est préparer la guerre qu'on prétend vouloir empêcher**. Le camp de la paix exige de **sortir de l'OTAN** — démystifiée comme instrument de vassalisation américaine, pas de protection mutuelle.
+
+[^usa_paix]: [12:55](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=775) — Chris : « vraiment la position communiste c'est la paix, la paix, la paix, la paix, la paix, la paix et la paix ».
+[^usa_armement]: [12:23](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=743) — Chris : « si vous croyez que en se surmilitarisant, on va empêcher des guerres, mais c'est une folie. Si le monde se surmilitarise, à la fin c'est pour la guerre ».
+
 ## Vidéos clés
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]]
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]]
 - [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]]
 - [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]]
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — Position communiste face à l'escalade guerrière Attal post-Venezuela/Groenland ; mécanisme course à l'armement = guerre à venir ; atlantisme en carton comme trahison de classe
 
 [^1]: [19:40](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=1180) — "Pacifisme c'est l'honneur, la tradition et la projection communiste."
 [^2]: [31:41](https://www.youtube.com/watch?v=sgNt9HCQrTU&t=1901) — "Il y a deux solutions pour l'Ukraine, c'est sûr... qui commence par s'envoyer lui-même voyez là moi je pense qu'il faut quand même être clair : quand on est de gauche, on est pour la paix."

@@ -4,7 +4,8 @@ domaine: ['théorie']
 thèmes: []
 aliases: [Moïsation]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Saturday, April 19th 2026, 5:00:00 pm
+skill_version: ingest-batch-2026-04-19
 ---
 #domaine/théorie
 # Moïsation
@@ -48,11 +49,43 @@ La moïsation entre dans le vocabulaire des médias bourgeois via une chronique 
 
 Le corpus USA ouvre une comparaison internationale de la moïsation. Aux États-Unis, le Parti Démocrate est fondamentalement différent de la gauche française : il n'a jamais été un parti de classe ouvrière, c'est un bloc hétéroclite allant de la gauche radicale (DSA) à l'aile droite Clinton/Biden.
 
-**Les données de la moïsation américaine** : Dans les sondages de 2025, 60%+ des électeurs Démocrates se déclarent favorables au socialisme (contre 40-50% en 2010 et <30% en 2000). Moins de 20% sont favorables aux "grandes entreprises" (contre 45% en 2000). C'est une moïsation à gauche de l'électorat démocrate — mais la structure partisane n'a pas encore bougé en conséquence.
+**Les données de la moïsation américaine (sondages 2025)** — mesure en deux variables conjuguées sur le même électorat démocrate :
+
+| Indicateur (démocrates) | 2000 | 2010 | 2025 |
+|---|---|---|---|
+| Opinion favorable au socialisme | ~30% | 40-50% | **60%+ (deux tiers)** |
+| Opinion favorable au « big business » | — | 45% | **<20%** |
+
+La moïsation, c'est **la bascule conjointe** : montée du socialisme ET effondrement du capitalisme dans le même électorat. Par contraste, l'électorat républicain est stable autour de ~15% pour le socialisme et ~60% pour le big business. Les indépendants sont stables à ~40% sur le socialisme. C'est bien une dynamique propre à l'électorat démocrate, pas à l'électorat US en général.[^us-moisation]
+
+[^us-moisation]: Données lues par Padu sur graphiques dans [[MAMDANI A GAUCHE DE MELENCHON]] ([07:08-08:10](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=428)) — « il est en train de se passer une moïsation dans le parti démocrate, les copains. »
+
+**Asymétrie droite/gauche de la moïsation US**. Chris démontre sur graphique (position électeur médian démocrate vs républicain, 1994/2014/2017) que les deux blocs *divergent* depuis 2014, mais que **la moïsation à droite est "beaucoup plus avancée"** que la moïsation à gauche. Marqueur : les électeurs démocrates qui se disent favorables aux *deux* partis à la fois votent massivement pour Cuomo (centre), alors que les républicains qui se disent favorables aux deux votent républicain. Le centre démocrate reste poreux au centre républicain — inverse faux. Cette asymétrie est le fondement de la thèse « marteau vs casse-noix » : les USA ont un seul bloc de rupture (Trump, à droite), la France en a deux (LFI et RN, équilibrés).[^us-asym]
+
+[^us-asym]: [06:07](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=367) — Padu : « on voit que la moïsation à droite est beaucoup plus avancée [...] il reste encore un peu de centre chez Mamdani, c'est pour ça qu'on l'appelle le NFP. »
+
+**Le décalage chronologique France/USA**. La PaduTeam reconstruit les étapes comparées :
+
+| Étape Moïse | USA | France |
+|---|---|---|
+| Période de confusion | années 1990 (Clinton/Bush) | années 2010 (Macron) |
+| Début moïsation | 2016 (Sanders vs Clinton en primaire) | 2017 (Mélenchon installe le bas-gauche) |
+| Élection d'une extrême moïsée | Trump 2016 puis 2024 | pas encore |
+| Apparition de l'extrême opposée (gauche) | 2018 AOC → 2025 Mamdani | 2017-2022 Mélenchon |
+
+Padu formule[^us-chrono] : « eux ils sont partis de la moïsation. Ils ont passé par les étapes Trump. Ils ont choisi le mauvais côté de la moïsation [...] là peut-être que le bon côté commence à surgir. Essayons-nous d'aller directement au bon côté. » L'avantage français, c'est de **ne pas avoir encore élu un Trump** et de pouvoir sauter directement à la bifurcation à gauche.
+
+[^us-chrono]: [01:31](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=91) — Padu : « Eux, ils sont partis de la moïsation. Ils ont passé par les étapes Trump. Ils ont choisi le mauvais côté de la moïsation, Zoé. »
 
 **DSA vs NFP — deux rapports de force** : La DSA ([[Democratic Socialists of America]]) a un programme *plus radical* que le NFP français (90% d'imposition du capital, Medicare for All, open borders, defund police, fin de l'impérialisme US, fermeture des bases militaires). Mais la DSA est *minoritaire* à l'intérieur du Parti Démocrate — alors que LFI est majoritaire à l'intérieur du NFP. Deux moïsations à des stades très différents.
 
-**Mamdani comme signal** : L'élection de [[Zohran Mamdani]] à NYC (50% vs 42% Cuomo) avec 1,5M de portes knockées est le signe que la moïsation américaine peut produire des victoires électorales dès maintenant. Mais c'est local, municipal — pas encore national. Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Podemos). La PaduTeam pose la question sans y répondre.
+**Mamdani comme signal** : L'élection de [[Zohran Mamdani]] à NYC (50% vs 42% Cuomo, 41% de participation — le plus haut taux municipal depuis 1969, 1,5M de portes knockées) est le signe que la moïsation américaine peut produire des victoires électorales dès maintenant. Mais c'est local, municipal — pas encore national. Trois marqueurs de la moïsation US lisibles dans ces sorties d'urne :
+
+1. **La macronisation démocrate** : Chris — « les gens qui se sentent modérés votent massivement Cuomo — c'est une espèce de moïsation des États-Unis ». Le centre démocrate se sépare du camp DSA et vote comme un centre macroniste (Cuomo soutenu par Trump et Musk après avoir perdu la primaire démocrate).
+2. **La classe révolutionnaire électorale** : 84% Mamdani chez les femmes de 18-29 ans — un bloc social jeune, diplômé, féminisé, racisé, locataire qui *n'existait pas* comme coalition électorale cohérente avant Mamdani. C'est le visage concret de la moïsation à gauche.
+3. **Le basculement du programme** : pour la première fois depuis Clinton/Obama/Biden/Harris, un élu démocrate s'adresse programmatiquement aux *prolétaires* (gel des loyers, bus gratuits, Medicare for All, garde d'enfants). Même si l'électorat populaire ne suit pas encore pleinement (Bronx à 41%), le **programme**, lui, a basculé.
+
+Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Podemos, comme « diverses mairies françaises »). La PaduTeam pose la question sans y répondre. L'analogie stratégique mobilisée : **Front Populaire 1936** — le programme seul ne tient pas sans mobilisation de rue permanente.
 
 **La force unique de la France** : La moïsation française a une particularité — elle a produit une gauche de rupture (LFI) qui est déjà majoritaire dans le bloc de gauche. Aux USA, la gauche radicale reste minoritaire dans son propre camp. La France a un "casse-noix" (deux forces équilibrées en tension), pas un "marteau" de droite seul — avantage structurel que Mamdani n'a pas encore.
 
@@ -82,3 +115,4 @@ Le corpus USA ouvre une comparaison internationale de la moïsation. Aux États-
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — La moïsation oblige l'espace centre macroniste à choisir : "soit la droite dure, soit revenir à une espèce de nouvelle gauche." Entre Retailleau et Macron 2017, il n'y a plus d'espace. Prédiction : Vallaud comme synthèse PS/Glucksmann sera la réponse néokeynésienne à cette moïsation.
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Moïsation américaine : données 2025 (60%+ pro-socialisme chez les Démocrates), rapport de forces DSA/NFP, avantage structurel de la France (casse-noix vs marteau)
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Signal de moïsation locale à NYC : 50% au premier tour, programme radical, généalogie BNC/AOC
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale du "casse-noix vs marteau" (novembre 2024)** : la défaite de Kamala sert de révélateur — la moïsation américaine est monolatérale (un seul bloc de rupture, Trump), la moïsation française est bilatérale (LFI + RN). La France a "la plus grosse gauche radicale d'Europe" grâce à cette asymétrie favorable

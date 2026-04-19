@@ -1,11 +1,12 @@
 ---
 type: enjeu
 domaine: [politique-intérieure]
-thèmes: [guerre-des-gauches, élections]
+thèmes: [guerre-des-gauches, élections, États-Unis]
+skill_version: write-enjeu-2026-04-19
 date created: Thursday, April 2nd 2026, 12:05:46 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 10:00:00 pm
 ---
-#domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
+#domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/États-Unis
 # Plus jamais PS
 
 ## Position PaduTeam
@@ -61,6 +62,52 @@ Faure tente de se faire nommer PM par Macron lui-même pour remplacer Bayrou. Po
 La capsule Bouamrane montre l'aile droite du PS qui ne cherche plus à dissimuler sa stratégie : "on va te défoncer". Bouamrane assume que le PS ira seul à la présidentielle, sans alliance avec LFI. Chris analyse : "ils savent très bien que là on va vers un affrontement entre le PS et la FI. Et peu importe qui va gagner." Le PS n'est plus dans la tambouille molle — il embrasse frontalement la guerre des gauches.
 
 Pour la PaduTeam, c'est une confirmation éclatante de l'enjeu "plus jamais PS" : le parti ne fait pas semblant d'être de gauche en interne, il planifie ouvertement comment éliminer LFI.
+
+## L'argument international : Glucksmann = gauche démocrate US transposée en France (corpus USA 2024-2026)
+
+Le corpus USA (élection Trump nov 2024, victoire Mamdani nov 2025, PaduTeam sur la moïsation du Parti Démocrate fév 2026) fournit le **cas d'école comparatif** qui durcit l'enjeu « Plus jamais PS ». Thèse de la PaduTeam : [[Raphael Glucksmann]] n'est pas juste un allié encombrant, c'est **l'équivalent structurel de [[Kamala Harris]] — la gauche américaine démocrate transposée en France**, donc une **stratégie de défaite mécanique**.
+
+### Kamala = Jospin 2002 = le modèle Glucksmann
+
+L'élection Trump 2 est lue par Chris comme la démonstration mécanique du théorème : **« quand on a une gauche de droite on perd face à une droite de droite »** (Padu). Harris a perdu non pas parce que Trump a progressé (il a fait *moins* de voix qu'en 2020) mais parce que **14 à 15 millions d'électeurs démocrates se sont abstenus** face à une candidate qui ne leur parlait pas. Parallèle historique total avec Jospin 2002 : une candidature gestionnaire sans rapport de force politique ; faire campagne « sur les chiffres » au lieu de porter une rupture.
+
+L'équivalence avec Glucksmann est étagée par la PaduTeam :
+- **Programme** : « son programme c'est limite PCresse pour nous, c'est pas un programme de gauche ». La [[Gauche de droite]] américaine (Clinton, Biden, Harris, Cuomo) et la gauche de droite française (Hollande, Valls, Glucksmann) partagent un même ancrage de classe dans la bourgeoisie cultivée atlantiste.
+- **Vision du monde impérialiste** : Glucksmann partage avec Harris/Biden le rapport à Israël, à la Russie, aux technostructures FMI/OTAN. Sur la géopolitique impérialiste, les parallélismes sont directs.
+- **Ancrage sociologique assumé** : Glucksmann « a dit une fois qu'il est plus chez lui à New York que quand il se promène en France, et il se sent plus chez lui aussi en Géorgie ». Padu résume : « eux c'est vraiment la gauche américaine démocrate c'est-à-dire libéral, libéral condescendant, pas même social »[^usa_gluck].
+
+**Le curseur américain** : Chris affine. AOC et Sanders, présentés en France comme « dingos », sont en réalité modérés ramenés au centre de gravité français. [[Jill Stein]] est parfois comparée à Mélenchon — Chris corrige : son programme ressemble plutôt à celui de Manon Aubry. **L'aile droite programmatique de LFI vaut mieux qu'une aile gauche du PS ou des Verts** — « le centre de gravité intellectuel est plus fin » côté français. Conséquence : il n'y a pas besoin de « s'élargir au centre » à la Glucksmann ; la bataille est à mener *à gauche* de LFI, vers la radicalité DSA, pas à droite vers Glucksmann/Harris.
+
+### Faure « Mamdani serait au PS » — la danse du ventre au centre démasquée
+
+Au lendemain de la victoire [[Zohran Mamdani]] à NYC (nov 2025, 50% au 1ᵉʳ tour contre Cuomo), [[Olivier Faure]] dégaine la ligne de défense PS : « il se revendique socialiste [...] il veut faire le blocage des loyers dans une zone tendue ». Padu démonte phrase par phrase :
+- « Il se revendique socialiste » → « Lénine aussi était au Parti socialiste démocrate ouvrier de Russie. Je ne suis pas sûr que ça fonctionne quoi »
+- « Blocage des loyers en zone tendue » → « Ça vous rappelle rien ? C'est sous François Hollande que ça s'est passé. On est classé François Hollande à l'extrême gauche »[^usa_faure]
+
+**Le programme Mamdani (DSA) est *objectivement* plus à gauche que le NFP sur dix postes** : anticapitalisme assumé, salaire à 25$/h + 32h + **contrôle ouvrier des entreprises**, taxation à **90%** des revenus du capital, Medicare for All universel, **socialisation du parc immobilier + expropriations**, **Defund the Police + abolition du système carcéral**, **amnistie des sans-papiers, frontières ouvertes, réparations pour l'esclavage**, **fin de l'impérialisme + fermeture des bases militaires à l'étranger**. Chris formule : **« le programme du NFP est largement plus à droite que le programme de DSA [...] le programme qui se rapproche le plus de DSA c'est le programme de la France Insoumise, mais qu'il le tire à droite »**. Le PS récupère l'étiquette Mamdani en s'appropriant blocage des loyers / services publics — sans toucher au contenu radical. C'est la « **danse du ventre au centre** » en direct.
+
+### Cuomo « Manuel Valls de New York » — avertissement primaire
+
+Andrew Cuomo — gouverneur démissionné pour harcèlement sexuel, fils de dynastie politique, « Manuel Valls de New York » selon Chris — perd la primaire démocrate face à Mamdani puis se présente *quand même*, avec le soutien de Trump et Musk. Padu en tire un **avertissement français explicite** sur les primaires : si Mélenchon gagne une primaire face à Glucksmann, « est-ce que Glucksmann va dire oui je me range derrière Mélenchon, la sortie des traités européens, la désobéissance, la mise à distance de l'OTAN ? J'attends que ça »[^usa_cuomo]. Le centre démocrate US n'accepte pas la discipline primaire quand sa gauche gagne — le PS / [[Place Publique]] non plus. Toute stratégie qui suppose que Glucksmann acceptera une défaite primaire face à LFI est naïve par construction.
+
+### « Qu'ils fassent ça, comme ça ils sortiront définitivement de l'histoire »
+
+Position stratégique de Chris sur la récupération Mamdani par Faure : **c'est une bonne nouvelle**. En énumérant le programme Mamdani pour se l'approprier, le PS fait ce que l'extrême droite française fait à l'envers depuis vingt ans — elle légitime le vocabulaire et les mesures de l'adversaire. La droite en énumérant le programme pour dire « c'est grave, ils sont fous » fait *monter* la gauche auprès d'un public qui se dit « en fait ce n'est pas si mal, vu la crise ». La récupération PS risque de produire la même dynamique inversée : **tirer le centre démocrate vers la gauche via Mamdani, ou alors démontrer que le PS est incapable de tenir une ligne cohérente**. Dans les deux cas, le PS « sortira définitivement de l'histoire ». L'appel à LFI est explicite : **« ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme *plus à gauche* que le NFP. Dites : vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris »**[^usa_appelLFI].
+
+### Ruffin « imposteur » — le test Mamdani
+
+[[Francois Ruffin]] se proclame « Mamdani français ». La PaduTeam démonte la posture : Mamdani a tenu **les deux jambes** du matériel (logement, services publics, transports gratuits) et du sociétal (pro-Palestine avant le 7 octobre, droits LGBT, antiracisme). Ruffin a fait exactement l'inverse — « tu as fait foot sur les manifs contre l'islamophobie, tu as même manifesté avec le RN contre la résistance palestinienne [...] donc tu es un imposteur »[^usa_ruffin]. Le test Mamdani est un test de cohérence entre programme matériel et positions sociétales — celui que [[LFI]] via Piquemal / Chikirou peut passer, celui que le PS et Ruffin ne passent pas.
+
+[^usa_gluck]: [17:48](https://www.youtube.com/watch?v=mK41og88Zj0&t=1068) — Chris/Padu : « eux c'est vraiment la gauche américaine démocrate c'est-à-dire libéral, libéral condescendant [...] les curseurs aux USA c'est libéral paternaliste ». Ancrage New York/Géorgie de Glucksmann : [17:16](https://www.youtube.com/watch?v=mK41og88Zj0&t=1036).
+[^usa_faure]: [16:31](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=991) — Olivier Faure cité : « il se revendique socialiste [...] il veut faire le blocage des loyers dans une zone tendue [...] C'est sous François Hollande que ça s'est passé. [...] On est classé François Hollande à l'extrême gauche ». Réplique Padu : « Lénine aussi était au Parti socialiste démocrate ouvrier de Russie ».
+[^usa_cuomo]: [10:51](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=651) — Padu : « si Mélenchon gagne une primaire à gauche avec Glucksmann dedans, Glucksmann qui va dire oui je me range derrière Mélenchon, la sortie des traités européens, la désobéissance, la mise à distance de l'OTAN — j'attends que ça ».
+[^usa_appelLFI]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris : « ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme plus à gauche que le NFP. Dites : vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris ».
+[^usa_ruffin]: [21:11](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1271) — Padu : « tu as aussi fait foot et tu as même manifesté avec le Rassemblement national contre la résistance palestinienne, François Ruffin. Donc tu es un imposteur ».
+
+## Vidéos clés (suite — corpus USA)
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Thèse Kamala=Jospin 2002=Glucksmann ; gauche de droite perd mécaniquement face à droite de droite ; mécanisme du pingwashing sans radicalité de classe
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cuomo « Manuel Valls de New York » ; avertissement sur la discipline primaire (Glucksmann ne se rangera pas) ; victoire PS type démontée
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Faure démontée phrase par phrase ; programme DSA objectivement plus à gauche que NFP sur 10 postes ; appel à LFI de revendiquer plus à gauche que le NFP ; Ruffin « imposteur »
 
 ## Le PS comme vecteur du sionisme de gauche (2024-2025)
 

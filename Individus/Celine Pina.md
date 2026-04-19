@@ -3,9 +3,9 @@ type: individu
 domaine: [société, géopolitique]
 thèmes: [médias-propagande, Palestine, racisme-antiracisme]
 aliases: [Céline Pina]
-skill_version: ingest-batch-2026-04-13
+skill_version: ingest-batch-2026-04-19
 date created: Monday, April 13th 2026, 3:05:49 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Saturday, April 19th 2026, 5:00:00 pm
 ---
 #domaine/société #domaine/géopolitique #thème/médias-propagande #thème/Palestine
 
@@ -24,9 +24,24 @@ Son interlocuteur intervient : si on applique sa définition, Israël pourrait �
 
 "Il y a vraiment ce schéma de pensée là en arrière-fond et il n'y a que comme ça qu'on peut comprendre sa phrase."
 
+## Panique anti-Mamdani (novembre 2025) — « New York islamiste »
+
+Après la victoire de [[Zohran Mamdani]] à New York, Pina tweete un visuel montage World Trade Center (2001) / Zohran Mamdani (2025) avec le slogan « we forgot » et le texte[^pina-mamdani] :
+
+> « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra. »
+
+Pour la PaduTeam, c'est **exactement la même matrice** que sa position sur Gaza : l'Arabe/musulman est ontologiquement un terroriste en puissance, donc élire un maire musulman d'origine indienne à une ville américaine équivaut à une attaque sur la ville elle-même, les victimes collatérales ne seront que méritées. Padu : « Elle veut se présenter au championnat du monde du racisme la meuf. »[^championnat]
+
+Le registre mobilisé est strictement **post-11-septembre-2001** (le visuel est le World Trade Center en feu), juxtaposé au profil de Mamdani. Mécanisme classique d'amalgame : musulman = islamiste = terroriste = complicité 9/11. La PaduTeam rappelle que la « notion d'islamo-gauchisme a passé l'Atlantique » — Pina et [[Marion Marechal]] forment le **front transatlantique** de la panique civilisationnelle face à la victoire DSA.
+
+[^pina-mamdani]: [25:50](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1550) — Tweet Céline Pina lu à l'écran, avec visuel WTC/Mamdani « we forgot ».
+[^championnat]: [26:21](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1581) — Padu : « le niveau de racisme [...] elle veut se présenter au championnat du monde du racisme la meuf. »
+
 ## Relations
 - [[Bernard-Henri Levy]] — même espace idéologique atlantiste
 - [[Anne Sinclair]] — même réseau, même soirée BHL
+- [[Marion Marechal]] — alignement de registre sur le « New York islamiste »
 
 ## Vidéos où Pina est mentionnée
 - [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — Débat sur la définition du terrorisme ; schéma mental islamophobe ; enfants palestiniens qui "ne se sentent pas mourir injustement"
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Tweet « New York islamiste » après la victoire Mamdani, front transatlantique anti-DSA

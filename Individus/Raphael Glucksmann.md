@@ -81,6 +81,22 @@ Le corpus Ukraine (2025-2026) confirme et approfondit l'analyse PaduTeam : Gluck
 
 **Réaction au retrait américain (mars 2026).** Quand Trump suspend le soutien à l'Ukraine, Glucksmann (et ses alliés européens) poussent pour que l'UE "prenne le relais" — c'est-à-dire que les contribuables européens financent la guerre à la place des américains. Pour la PaduTeam, c'est l'aboutissement logique du bellicisme social-démocrate : on commence par "soutenir la démocratie", on finit par demander des milliards de fonds publics pour une guerre impossible à gagner.
 
+## Glucksmann = gauche américaine démocrate (équivalence structurelle, novembre 2024)
+
+Dans l'analyse à chaud de la défaite de [[Kamala Harris]], la PaduTeam ne traite pas Glucksmann comme un "allié" de la gauche démocrate US mais formule une **équivalence structurelle** : il *est* la gauche démocrate américaine transposée en France. La thèse est étagée :
+
+1. **Son programme** est « limite Pécresse » selon Chris — « c'est pas un programme de gauche »[^usa_1].
+2. **Vision du monde impérialiste** : même rapport à Israël, à la Russie, aux technostructures FMI/OTAN que Harris, Biden et l'administration démocrate complète. « Eux, c'est vraiment la gauche américaine démocrate — libéral, libéral condescendant, pas même social »[^usa_2].
+3. **Ancrage sociologique assumé** : Glucksmann « a même dit qu'il est plus chez lui à New York que quand il se promène en France, et qu'il se sent plus chez lui aussi en Géorgie »[^usa_3]. L'ancrage identitaire n'est pas accessoire — il dit la position de classe : atlantisme progressiste bourgeois mondialisé.
+4. **Position sur le curseur politique américain** : « les curseurs aux USA du débat politique c'est libéral paternaliste — atténuer les effets du néolibéralisme pour qu'il n'y ait pas trop de gens qui meurent dans la rue, mais garder les inégalités »[^usa_2]. Glucksmann s'installe parfaitement dans ce curseur.
+
+**Conséquence stratégique** : face à Trump, la gauche américaine démocrate a perdu (Jospin 2002 américain). Face à une droite de droite, une gauche de droite Glucksmann perdrait mécaniquement en France. Chris tire la leçon militante : « ceux qui font ça se prendront les pieds dans le tapis — j'espère qu'ils vont le faire, comme ça ils vont sortir définitivement de l'histoire »[^usa_4].
+
+[^usa_1]: [16:14](https://www.youtube.com/watch?v=mK41og88Zj0&t=974) — Chris : « [le programme de Harris] c'est limite Pécresse pour nous, c'est pas un programme de gauche ».
+[^usa_2]: [17:48](https://www.youtube.com/watch?v=mK41og88Zj0&t=1068) — Padu/Chris : « eux c'est vraiment la gauche américaine démocrate — libéral, libéral condescendant, même pas social — les curseurs aux USA c'est libéral paternaliste : atténuer les effets du néolibéralisme pour qu'il n'y ait pas trop de gens qui meurent dans la rue, mais garder les inégalités ».
+[^usa_3]: [17:16](https://www.youtube.com/watch?v=mK41og88Zj0&t=1036) — Padu : « [Glucksmann] il a même dit qu'il est plus chez lui à New York que quand il se promène en France, et il se sent plus chez lui aussi en Géorgie ».
+[^usa_4]: [16:14](https://www.youtube.com/watch?v=mK41og88Zj0&t=974) — Chris : « les Glucksmann et cetera, s'ils font ça, ils se prendront les pieds dans le tapis — moi j'espère qu'ils vont faire ça, comme ça ils vont sortir définitivement de l'histoire ».
+
 ## Glucksmann et le Venezuela — "agent américain"
 
 Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "pas une larme pour Maduro". Pour la PaduTeam dans [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]], c'est la preuve de sa nature d'"agent américain" — pas au sens complotiste, mais comme quelqu'un dont la fonction politique objective est de relayer les intérêts impérialistes américains au sein de la gauche française. Ses positions atlantistes (pro-OTAN, pro-Ukraine, pro-intervention) s'alignent systématiquement avec la position du département d'État américain. Le Venezuela est le test ultime de ce positionnement.
@@ -101,3 +117,4 @@ Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "p
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Mentionné comme référence du bellicisme social-démocrate dont Usul se rapproche
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse de sa trajectoire atlantiste (Géorgie, BHL, revues néoconservatrices) comme matrice du bellicisme
 - [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — Axe Macron-Glucksmann présenté comme promoteurs institutionnels du bellicisme en France
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Équivalence structurelle : Glucksmann = gauche démocrate américaine transposée en France. Même programme (limite Pécresse), même vision impérialiste, même ancrage sociologique. Fabrique des défaites à la Jospin 2002.

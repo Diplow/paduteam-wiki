@@ -36,9 +36,18 @@ La séparation est désormais visible empiriquement : les deux gauches ont des �
 ## Démonstration par les sondages
 Dans [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]], les données [[Cluster 17]] illustrent le mécanisme : quand la FI est séparée de l'alliance PS/PC/Place Publique/ELV, [[Ensemble]] perd davantage de points (les électeurs du centre se sentent moins menacés d'aller vers une gauche sans FI). La formule de Chris : "deux gauches qui s'affrontent à 15 et 15 et qui font 30 valent mieux qu'une gauche qui ménage la chèvre et le chou et qui stagnera à 25." Le désistement républicain au second tour permet de reconvertir cette compétition en coalition gagnante.
 
+## Leçon transatlantique — Mamdani comme argument dans la guerre des gauches française
+
+La victoire de [[Zohran Mamdani]] à New York donne à la PaduTeam un argument stratégique dans la guerre des gauches française. Chris formule explicitement[^cc] : « ne revendiquez pas le programme du NFP parce qu'ils [le PS] vont le faire. Surtout revendiquez un programme *plus à gauche* que le NFP. Dites : le NFP était un programme de consensus avec des socialistes qui sont très à droite — vous, vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris. »
+
+La manœuvre : transformer la récupération PS de Mamdani (Faure : « Mamdani serait au PS aujourd'hui ») en occasion d'**assigner structurellement le PS au bloc centre-droit américain** (Clinton/Cuomo/Harris), et en **rappelant que le programme gagnant est celui de la DSA** — 90% capital, Medicare for All, open borders, defund police, fin de l'impérialisme — que LFI doit revendiquer pour retrouver sa fonction de rupture. La leçon Mamdani confirme que **la gauche de gauche gagne quand elle ne renonce à rien**. Toute concession au NFP est un pas vers la défaite.
+
+[^cc]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — Chris à LFI.
+
 ## Vidéos où le concept est développé
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]]
 - [[Faut-il en finir avec le NFP]]
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Confirmation empirique : blocs se comportent comme prédit. LFI seul gagne, LFI+PS = confusion et défaite. "C'est la conclusion des municipales."
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Confirmation de la prophétie en temps réel : Faure incarne le pôle "droite de gauche" (refroidissement, PM de Macron), Mélenchon incarne le pôle rupture (destitution, 10 septembre). La ligne de la guerre des gauches est désormais aussi celle de la barricade.
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Leçon transatlantique : le programme DSA est le nouveau plancher à revendiquer contre la récupération PS. Réassignation structurelle du PS au bloc « Clinton-Cuomo-Harris ».
