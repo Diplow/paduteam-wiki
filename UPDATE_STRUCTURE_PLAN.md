@@ -4,9 +4,11 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 # Plan de restructuration des skills — Graphiked
 
+> **État : exécuté.** Ce plan décrit la refonte historique du monolithe vers l'architecture actuelle (`gather-context` + `ingest-video` + `write-*` + `ingest-batch`). Les références à `paduteam-knowledge` ci-dessous désignent l'ancien nom de `ingest-video`, renommé le 2026-04-19. Le document est conservé comme trace de conception.
+
 ## Problème
 
-La skill `paduteam-knowledge` est un monolithe de ~600 lignes qui fait tout : orchestration git, lecture du transcript, analyse du contenu, et écriture de 5 types de fiches différents. Ça pose trois problèmes :
+La skill `paduteam-knowledge` (aujourd'hui `ingest-video`) est un monolithe de ~600 lignes qui fait tout : orchestration git, lecture du transcript, analyse du contenu, et écriture de 5 types de fiches différents. Ça pose trois problèmes :
 
 1. **Pas de séparation contexte / écriture** — La skill fait la recherche ET la rédaction dans le même flux. Résultat : les fiches individus, concepts, enjeux etc. sont écrites avec un contexte partiel (juste le transcript courant + la fiche existante), sans vue d'ensemble sur ce que le vault sait déjà du sujet.
 

@@ -17,9 +17,13 @@ Cette skill rédige ou enrichit une fiche dans `Videos/`. C'est la fiche-pivot d
 ## Prérequis
 
 - Le transcript a été lu et analysé (thèses, métadonnées, entités identifiées)
-- Le contexte vault est disponible dans `Sources/.context-tmp.md` (produit par `gather-context`)
+- `Sources/.context-tmp.md` existe et a été produit par un appel **récent** à `gather-context` sur le sujet de la vidéo. Si ce fichier n'existe pas, ne concerne pas ce sujet, ou paraît périmé, **interrompre** et demander à l'appelant de lancer `gather-context` d'abord. Ne pas tenter de l'exécuter soi-même.
 
 **Conventions partagées** : voir `BUILD.md`.
+
+## Navigation de la carte de contexte
+
+`.context-tmp.md` est une **carte** : présentation synthétique + liens annotés vers les fiches pertinentes. Elle ne contient pas les détails. Pour rédiger une fiche Vidéo, **ouvrir les fiches Concepts/Enjeux liées** avant de choisir les wikilinks du corps — cela garantit que les liens pointent vers des fiches au contenu réellement cohérent avec la thèse de la vidéo. Pour les listes d'entités en bas, vérifier que les fiches existantes correspondent au bon sens (alias, homonymes) en ouvrant la fiche Individu/Organisation si doute.
 
 ---
 
@@ -93,7 +97,7 @@ tableau markdown.
 
 #### Principes de rédaction
 
-- **Embed YouTube** : placer l'embed Obsidian juste après les hashtags, avant le `# Titre`, sous la forme `![titre](https://www.youtube.com/watch?v=ID)`. Obsidian reconnaît cette syntaxe image pointant vers une URL YouTube et affiche un lecteur embarqué. Ne **pas** utiliser de thumbnail cliquable via `img.youtube.com` — cette forme donne une image statique sans lecteur. Le `youtube_id` vient du frontmatter ou de l'Inventaire PaduTeam. Si l'ID n'est pas disponible, omettre l'embed (ne pas inventer d'ID).
+- **Embed YouTube** : placer l'embed Obsidian juste après les hashtags, avant le `# Titre`, sous la forme `![titre](https://www.youtube.com/watch?v=ID)`. Obsidian reconnaît cette syntaxe image pointant vers une URL YouTube et affiche un lecteur embarqué. Ne **pas** utiliser de thumbnail cliquable via `img.youtube.com` — cette forme donne une image statique sans lecteur. Le `youtube_id` vient du frontmatter de la fiche vidéo ou du transcript source (tous deux portent ce champ). Si l'ID n'est pas disponible, omettre l'embed (ne pas inventer d'ID).
 - **Le résumé** doit tenir en 2-4 phrases. Un lecteur qui ne lit que le résumé doit comprendre la thèse centrale.
 - **Les thèses** sont numérotées et chacune contient au moins un [[wikilink]] vers un concept ou un enjeu. C'est ce qui fait de la fiche vidéo un nœud du graphe, pas un résumé isolé.
 - **Notes de bas de page timestampées** : sourcer les points clés (citations marquantes, formulations de thèse, moments de débat) avec des footnotes qui pointent vers le timestamp YouTube exact. Format : `[^N]: [MM:SS](https://www.youtube.com/watch?v=ID&t=SECONDS) — "citation ou résumé"`. Convertir le timestamp en secondes pour le paramètre `&t=`. Ne footnote que ce qui est réellement dans le transcript — ne pas inventer de citations.

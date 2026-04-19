@@ -48,7 +48,7 @@ Elle ne fait **pas** de recherche extensive. Elle prend le contexte pour acquis 
 | Skill | Rôle | Statut |
 |-------|------|--------|
 | `gather-context` | Rassembler tout ce que le vault sait sur un sujet donné | v1 |
-| `ingest-video` (`paduteam-knowledge`) | Orchestrer l'ingestion d'un transcript | v2 (orchestrateur) |
+| `ingest-video` | Orchestrer l'ingestion d'un transcript | v2 (orchestrateur) |
 | `write-video` | Rédiger/enrichir une fiche `Videos/` | v1 |
 | `write-entity` | Rédiger/enrichir une fiche `Individus/` ou `Organisations/` | v1 |
 | `write-concept` | Rédiger/enrichir une fiche `Concepts/` | v1 |

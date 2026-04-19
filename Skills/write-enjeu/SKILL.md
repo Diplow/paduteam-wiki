@@ -19,11 +19,13 @@ Cette skill rédige ou enrichit une fiche dans `Enjeux/`. Elle se distingue des 
 
 ## Prérequis
 
-Avant d'appeler cette skill, le contexte doit avoir été rassemblé par `gather-context`. Le fichier `Sources/.context-tmp.md` doit exister et contenir le contexte sur l'enjeu à documenter.
-
-Si le contexte n'existe pas, appeler d'abord `gather-context` avec le nom de l'enjeu.
+- `Sources/.context-tmp.md` existe et a été produit par un appel **récent** à `gather-context` sur l'enjeu concerné. Si ce fichier n'existe pas, ne concerne pas cet enjeu, ou paraît périmé, **interrompre** et demander à l'appelant de lancer `gather-context` d'abord. Ne pas tenter de l'exécuter soi-même.
 
 **Conventions partagées** (nommage, wikilinks, frontmatter, taxonomie, style) : voir `BUILD.md`.
+
+## Navigation de la carte de contexte
+
+`.context-tmp.md` est une **carte** : une présentation synthétique + des liens annotés vers les fiches pertinentes. Elle ne contient pas les détails. Pour rédiger une fiche Enjeu — qui consolide des arguments cross-vidéos — **ouvrir systématiquement chaque fiche vidéo liée** listée dans la carte : c'est là que vivent les arguments, les formulations marquantes, les données à consolider. Ouvrir aussi les fiches Concepts liées pour les wikilinks d'outils analytiques, et les fiches Individus/Organisations pour identifier adversaires et alliés.
 
 ---
 
