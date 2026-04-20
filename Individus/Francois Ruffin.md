@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Ruffin, Francois Ruffin, François Ruffin]
 date created: Thursday, April 2nd 2026, 1:06:33 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:58 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

@@ -11,12 +11,12 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Herbert Marcuse
 
 ## Profil synthétique
-Philosophe de l'École de Francfort (1898-1979), auteur de *L'Homme unidimensionnel* (1964). Mentionné par Chris comme représentant du "fraudomarxisme" — une pensée qui explique la non-révolution du prolétariat par la manipulation pulsionnelle via la consommation, plutôt que par l'analyse de classe.
+Philosophe de l'École de Francfort (1898-1979), auteur de *L'Homme unidimensionnel* (1964). Mentionné par la PaduTeam comme représentant du "fraudomarxisme" — une pensée qui explique la non-révolution du prolétariat par la manipulation pulsionnelle via la consommation, plutôt que par l'analyse de classe.
 
 ## Position selon la PaduTeam
 L'analyse de Marcuse dans *L'Homme unidimensionnel* : la société de consommation canalise le désir des travailleurs, les rendant incapables de révolte. Pour la PaduTeam, c'est précisément l'erreur des "fraudomarxistes" : ils expliquent la non-révolution au niveau individuel/pulsionnel, alors que le marxisme l'explique au niveau collectif — l'intégration du prolétariat, ses institutions, sa représentation syndicale et politique.
 
-Formulé directement par Chris : "l'homme unidimensionnel" est non marxiste car il ne passe pas par la classe.
+La PaduTeam formule directement : "l'homme unidimensionnel" est non marxiste car il ne passe pas par la classe.
 
 ## Relations
 - [[William Reich]] — même catégorie de "fraudomarxisme"

@@ -35,7 +35,7 @@ Les partisans des noisettes sont souvent des "unité-istes" — ils réclament l
 
 ## Crise post-municipales 2026
 
-Les municipales 2026 accélèrent la mort des noisettes. Padu dans [[MUNICIPALES CE QU'IL FAUT RETENIR]] : "Des noisettes, des noisettes de l'Union, ça va de je sais pas à Tondelier, à Fort, à Ruffin, à Hautin, d'autres clowns dont on parlera pas. Tout ça, ça n'existe pas et ça ne devrait pas exister."
+Les municipales 2026 accélèrent la mort des noisettes. La PaduTeam dans [[MUNICIPALES CE QU'IL FAUT RETENIR]] : "Des noisettes, des noisettes de l'Union, ça va de je sais pas à Tondelier, à Fort, à Ruffin, à Hautin, d'autres clowns dont on parlera pas. Tout ça, ça n'existe pas et ça ne devrait pas exister."
 
 - [[Marine Tondelier]] convoque une réunion de crise : la primaire des noisettes est morte, les élections l'ont prouvé
 - [[Francois Ruffin]] cité dans la liste des déchus
@@ -65,7 +65,7 @@ Ce rassemblement incarne exactement la mécanique noisette : chaque composante c
 
 ## Les déclinaisons de la noisette : bio, locale, fair trade
 
-Padu et Chris déclinent le terme selon la variante marketing de chaque noisette :
+La PaduTeam décline le terme selon la variante marketing de chaque noisette :
 - **Noisette industrielle** : la noisette classique (ex: [[Francois Ruffin]])
 - **Noisette bio** : [[Marine Tondelier]] — étiquette écolo, rhétorique verte, mais même mécanique d'écrasement
 - **Noisette locale** : revendique l'ancrage territorial

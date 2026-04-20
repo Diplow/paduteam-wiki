@@ -19,7 +19,7 @@ Représente la politique "gamelle" du PS parisien : offre des places à des pers
 
 Grégoire gagne la mairie de Paris **sans** faire alliance avec [[Sophia Chikirou]] (LFI), contrairement aux attentes des "castors" qui demandaient à Chikirou de se désister pour lui. La PaduTeam démonte la logique des castors : Grégoire aurait probablement fait encore plus de voix sans l'alliance LFI — les électeurs centristes qui l'ont soutenu auraient fui vers [[Rachida Dati]] (droite) si Chikirou avait fusionné avec lui.
 
-Sa victoire est une victoire du **centre**, pas de la gauche. Padu : "C'est le centre. Ce n'est pas la gauche. Il n'y a pas de porosité entre les deux." LFI perd des conseillers municipaux à Paris à cause de la pression au désistement qui a sous-mobilisé l'électorat insoumis.
+Sa victoire est une victoire du **centre**, pas de la gauche. La PaduTeam : "C'est le centre. Ce n'est pas la gauche. Il n'y a pas de porosité entre les deux." LFI perd des conseillers municipaux à Paris à cause de la pression au désistement qui a sous-mobilisé l'électorat insoumis.
 
 ## Relations
 - [[Parti Socialiste]] — appartenance

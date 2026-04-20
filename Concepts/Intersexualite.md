@@ -24,7 +24,7 @@ La confusion délibérée entre intersexualité et transidentité est un mécani
 2. Alimenter l'indignation sur "des hommes dans les compétitions féminines"
 3. Généraliser à toutes les femmes trans ou intersexes dans le sport
 
-Padu : "Je trouve ça assez humiliant de devoir prouver que cette meuf est une meuf."
+La PaduTeam : "Je trouve ça assez humiliant de devoir prouver que cette meuf est une meuf."
 
 ## Violence médicale sur les enfants intersexes
 

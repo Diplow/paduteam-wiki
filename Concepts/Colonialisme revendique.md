@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, États-Unis]
 aliases: [colonialisme sans masque, colonialisme assumé, impérialisme transparent, sortie du néoconservatisme]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 10:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/géopolitique #domaine/théorie #thème/anti-impérialisme #thème/États-Unis
 

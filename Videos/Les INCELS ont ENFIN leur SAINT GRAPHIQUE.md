@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # Les INCELS ont ENFIN leur SAINT GRAPHIQUE !!
 
 ## Résumé
-Padu et Zoé réagissent au "calculateur de la passe maritale" créé par [[Marc]], un YouTubeur masculiniste expat en Thaïlande (chaîne "Terre des hommes libres"). L'outil calcule le "coût" de chaque rapport sexuel avec sa femme en divisant les dépenses du couple par le nombre de passes. La vidéo est prétexte à une analyse du [[Masculinisme individualiste]] et de la transition du patriarcat classique vers le [[Capitalisme masculiniste]].
+La PaduTeam réagit au "calculateur de la passe maritale" créé par [[Marc]], un YouTubeur masculiniste expat en Thaïlande (chaîne "Terre des hommes libres"). L'outil calcule le "coût" de chaque rapport sexuel avec sa femme en divisant les dépenses du couple par le nombre de passes. La vidéo est prétexte à une analyse du [[Masculinisme individualiste]] et de la transition du patriarcat classique vers le [[Capitalisme masculiniste]].
 
 ## Thèses et analyses clés
 

@@ -16,7 +16,7 @@ Homme politique français, ancien député [[Union pour un Mouvement Populaire|U
 
 ## Stratégie et trajectoire
 
-**Représentant explicite des intérêts de Netanyahu en France.** Meyer Habib dit publiquement qu'il a Netanyahu au téléphone, qu'il a assisté au shabbat de son fils, qu'il l'a vu "vendredi avant d'avoir la chance d'être au shabbat de son fils." Padu : "Ce mec a un discours de génocidaire. On aurait pas un député qui nous dirait moi j'ai eu le chef du Hamas au téléphone il m'a dit ça notre position c'est ça — c'est la folie quoi."
+**Représentant explicite des intérêts de Netanyahu en France.** Meyer Habib dit publiquement qu'il a Netanyahu au téléphone, qu'il a assisté au shabbat de son fils, qu'il l'a vu "vendredi avant d'avoir la chance d'être au shabbat de son fils." La PaduTeam : "Ce mec a un discours de génocidaire. On aurait pas un député qui nous dirait moi j'ai eu le chef du Hamas au téléphone il m'a dit ça notre position c'est ça — c'est la folie quoi."
 
 **Défenseur de l'assaut sur Rafah.** Le 14 avril 2024, Habib annonce sur LCI que la réponse israélienne sera "disproportionnée car c'est la seule chose que ces barbares comprennent." Quand l'assaut sur Rafah se produit — bombardement de camps de réfugiés des Nations Unies désignés comme "zones sécurisées" par Israël —, la PaduTeam rappelle ses propos : il avait prévenu, il soutient, il l'avait promis.
 
@@ -24,7 +24,7 @@ Homme politique français, ancien député [[Union pour un Mouvement Populaire|U
 
 **Weaponisation de l'antisémitisme.** Habib est la figure la plus systématique de l'[[Instrumentalisation de l'antisemitisme]] dans le paysage politique français. Cas documentés : il accuse [[Edgar Morin]] de "phraséologie nazie" pour avoir critiqué le conflit israélo-palestinien. Il traite la flottille pour Gaza de "mascarade antisémite." Il qualifie [[Rima Hassan]] d'"antisémite." Il crie à l'"antisémitisme" de la CPI quand elle émet un mandat d'arrêt contre Netanyahu. Il qualifie "porc" d'"insulte antisémite" après l'avoir lui-même provoqué.
 
-**Position dans l'échiquier politique.** Padu : "ce n'est pas normal d'avoir un député français comme ça [...] il représente les intérêts d'un pays étranger [...] et en plus il sert pas les intérêts de la France." Son élection a d'ailleurs été annulée une première fois par le Conseil d'État pour irrégularités, avant qu'il soit finalement réélu. Il multiplie les apparitions médiatiques (BFM, LCI, i24 News) et est invité automatiquement sur les plateaux après chaque incident pro-Palestine.
+**Position dans l'échiquier politique.** La PaduTeam : "ce n'est pas normal d'avoir un député français comme ça [...] il représente les intérêts d'un pays étranger [...] et en plus il sert pas les intérêts de la France." Son élection a d'ailleurs été annulée une première fois par le Conseil d'État pour irrégularités, avant qu'il soit finalement réélu. Il multiplie les apparitions médiatiques (BFM, LCI, i24 News) et est invité automatiquement sur les plateaux après chaque incident pro-Palestine.
 
 ## Citations marquantes
 - "Le peuple palestinien est un cancer" (Radio J, 2024)

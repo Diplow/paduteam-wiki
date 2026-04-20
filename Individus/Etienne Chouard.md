@@ -4,7 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [trajectoires-politiques, élections]
 aliases: [Chouard, Étienne Chouard]
 date created: Thursday, April 2nd 2026, 8:17:54 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:27:58 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/trajectoires-politiques
 
@@ -17,7 +17,7 @@ Enseignant marseillais devenu figure du mouvement constituant suite au référen
 Dans la vidéo "Mon passé droitard", Padu identifie Chouard comme l'une de ses trois premières figures politiques (avec [[Usul]] et [[Alain Soral]]). Chouard lui a d'abord semblé cohérent : non au référendum 2005, dénonciation du trahison des élites, constituante citoyenne. Cette posture de "ni droite ni gauche, refus du bipartisme" est analysée comme le premier échelon du confusionnisme.
 
 ## Analyse PaduTeam
-Chouard incarne l'**idéalisme politique** : il croit que la délibération rationnelle peut réconcilier des intérêts opposés si l'on met "tout le monde autour d'une table." Chris : "c'est une vision de gens qui pensent que ça se joue sur le monde des idées — les meilleures idées s'imposeront par la délibération." Pour la PaduTeam, c'est fondamentalement dépolitisant car cela nie la conflictualité nécessaire.
+Chouard incarne l'**idéalisme politique** : il croit que la délibération rationnelle peut réconcilier des intérêts opposés si l'on met "tout le monde autour d'une table." La PaduTeam : "c'est une vision de gens qui pensent que ça se joue sur le monde des idées — les meilleures idées s'imposeront par la délibération." Pour la PaduTeam, c'est fondamentalement dépolitisant car cela nie la conflictualité nécessaire.
 
 En 2014, Usul avait défendu Chouard dans une vidéo sur sa série "Mes chers contemporains", puis s'était rétracté après discussion avec des antifas. C'est cet épisode qui a "fait péter un plomb" à Padu adolescent et l'a fait basculer vers les milieux "dissident" et soraliens.
 

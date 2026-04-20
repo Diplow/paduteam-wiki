@@ -7,7 +7,7 @@ enjeux: [plus-jamais-PS, anti-impérialisme]
 date: 2024-11
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/élections #thème/guerre-des-gauches #thème/racisme-antiracisme #thème/anti-impérialisme #enjeu/plus-jamais-PS #enjeu/anti-impérialisme
 # CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP

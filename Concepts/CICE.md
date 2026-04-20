@@ -23,7 +23,7 @@ Pour la PaduTeam, le CICE est le mécanisme hollandiste par excellence : transfe
 - [[Liliane Bettencourt]] (L'Oréal) — bénéficiaire à hauteur de sommes comparables
 - Pendant ce temps, les hôpitaux ferment des lits, les patients meurent aux urgences faute de places
 
-Padu (ironie) : "Comme moi j'ai voté François Hollande, j'espère qu'il va bien réinjecter ça dans l'économie réelle, ce qui va permettre de créer de l'emploi et d'aller vers le plein emploi."
+La PaduTeam (ironie) : "Comme moi j'ai voté François Hollande, j'espère qu'il va bien réinjecter ça dans l'économie réelle, ce qui va permettre de créer de l'emploi et d'aller vers le plein emploi."
 
 ## Vidéos où le concept est développé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme exemple emblématique de la redistribution hollandiste vers le haut

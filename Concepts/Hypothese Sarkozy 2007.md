@@ -17,9 +17,9 @@ Scénario où le [[Rassemblement National]], en se normalisant et en abandonnant
 Le principe sous-jacent est que "on préfère toujours l'original à la copie" : quand la droite dite républicaine venait sur le terrain du racisme et de l'anti-immigration (terrain du RN), les gens finissaient par voter RN. Si le RN vient sur le terrain de la droite respectable pro-business, les gens pourraient préférer l'original ([[Bruno Retailleau]]) à la copie ([[Jordan Bardella]]), d'autant plus que Retailleau a une légitimité d'âge et d'expérience que Bardella n'a pas.
 
 ## Analyse PaduTeam
-[[Chris]] identifie ce risque pour le RN : en ne se comportant pas comme une force oppositionnelle (en ne renversant pas les gouvernements macronistes, en n'appelant pas aux mobilisations), le RN perd sa spécificité — ce statut unique d'être "oppositionnel à tous" (droite, gauche et centre à la fois). Cette capacité antisystème est exactement ce que la [[France Insoumise]] doit conquérir : être oppositionnelle non seulement à la droite et à l'extrême droite, mais aussi à la gauche de [[Raphael Glucksmann]].
+La PaduTeam identifie ce risque pour le RN : en ne se comportant pas comme une force oppositionnelle (en ne renversant pas les gouvernements macronistes, en n'appelant pas aux mobilisations), le RN perd sa spécificité — ce statut unique d'être "oppositionnel à tous" (droite, gauche et centre à la fois). Cette capacité antisystème est exactement ce que la [[France Insoumise]] doit conquérir : être oppositionnelle non seulement à la droite et à l'extrême droite, mais aussi à la gauche de [[Raphael Glucksmann]].
 
-[[Padu]] nuance : le RN risque surtout de perdre ses dégagistes vers l'abstention plutôt que directement vers [[Les Republicains]], mais l'effet net reste le même — une érosion du bloc RN.
+La PaduTeam nuance : le RN risque surtout de perdre ses dégagistes vers l'abstention plutôt que directement vers [[Les Republicains]], mais l'effet net reste le même — une érosion du bloc RN.
 
 ## Lien avec d'autres concepts
 - [[Strategie Le Pen 2002]] — Le cas inverse : Le Pen père monte en récupérant l'électorat dégagiste

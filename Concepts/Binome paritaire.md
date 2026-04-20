@@ -17,9 +17,9 @@ Innovation organisationnelle de [[On ne veut plus]] : pour être reconnu comme g
 ## Mécanisme
 Le dispositif répond à deux problèmes diagnostiqués par la PaduTeam dans les dynamiques de groupe militant émergent :
 
-**1. Le "concours de coq" masculin.** Padu : "quand vous avez une AG et que vous demandez un représentant, très souvent ça va être un mec, des gars, un concours de coq pour qui sera le chef." Imposer la parité au niveau du représentant est une contrainte structurelle qui court-circuite cette pente sans passer par un travail de conviction cas par cas.
+**1. Le "concours de coq" masculin.** La PaduTeam : "quand vous avez une AG et que vous demandez un représentant, très souvent ça va être un mec, des gars, un concours de coq pour qui sera le chef." Imposer la parité au niveau du représentant est une contrainte structurelle qui court-circuite cette pente sans passer par un travail de conviction cas par cas.
 
-**2. Les violences sexistes et sexuelles dans les groupes nouveaux.** Padu : "il peut y avoir dans des groupes comme ça qui vont se former des problématiques de misogynie, de violence sexiste. Avoir une femme représentante, c'est central." L'idée n'est pas que la binôme-femme soit une "policière VSS", mais qu'il existe structurellement dans le groupe une interlocutrice reconnue vers qui se tourner.
+**2. Les violences sexistes et sexuelles dans les groupes nouveaux.** La PaduTeam : "il peut y avoir dans des groupes comme ça qui vont se former des problématiques de misogynie, de violence sexiste. Avoir une femme représentante, c'est central." L'idée n'est pas que la binôme-femme soit une "policière VSS", mais qu'il existe structurellement dans le groupe une interlocutrice reconnue vers qui se tourner.
 
 **Le seuil de 15 personnes** joue un rôle complémentaire : en dessous, un groupe reste un cercle d'amis où "c'est facile, on s'entend" et où la politique ne se fait pas ; au-dessus, des divergences apparaissent, la discussion devient politique, la représentation est nécessaire. Le binôme paritaire n'a donc de sens qu'articulé au seuil quantitatif.
 

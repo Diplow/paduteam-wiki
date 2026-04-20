@@ -4,7 +4,7 @@ domaine: [société, géopolitique]
 thèmes: [médias-propagande, anti-impérialisme]
 aliases: [Géopolitique Profonde, GP]
 date created: Thursday, April 2nd 2026, 1:32:56 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:27:56 pm
 ---
 #domaine/société #thème/médias-propagande
 

@@ -29,10 +29,10 @@ Le mécanisme est historique et lié à la période postcoloniale :
 
 La PaduTeam en tire une conclusion directe contre la ligne Roussell/PCF : dire que "le débat sur le racisme est stérile" ou "on essaie d'être large", c'est exactement ce qui permet au racisme de continuer à diviser le prolétariat. L'antiracisme n'est pas une question de valeurs abstraites — c'est une nécessité matérielle pour reconstituer un bloc populaire capable de faire la politique de rupture.
 
-Analogie historique mobilisée par Padu : "Dans les années 20-30, aurait-on dit 'on parle aux antisémites parce que ce sont des travailleurs aussi' ?" Non — c'est un discours clair et offensif contre l'antisémitisme qui permet de mobiliser les humanistes et de faire douter les antisémites.
+Analogie historique mobilisée par la PaduTeam : "Dans les années 20-30, aurait-on dit 'on parle aux antisémites parce que ce sont des travailleurs aussi' ?" Non — c'est un discours clair et offensif contre l'antisémitisme qui permet de mobiliser les humanistes et de faire douter les antisémites.
 
 ## Lien avec le [[Graphique]]
 La division raciale du prolétariat explique pourquoi le bas-gauche du Graphique (classes populaires, forte exploitation) est surreprésenté par des personnes racisées, tandis que le segment blanc s'est partiellement déplacé vers les couches intermédiaires (haut-gauche). Roussell, en ne parlant qu'aux blancs des classes intermédiaires populaires (retraités, travailleurs des années 70), confirme sa position en "haut à droite" du Graphique.
 
 ## Vidéos où le concept est développé
-- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Développement explicite de Padu face à la militante JC rousselliste
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Développement explicite de la PaduTeam face à la militante JC rousselliste

@@ -22,7 +22,7 @@ Fondateur du [[Front National]] (devenu [[Rassemblement National]]) en 1972. Mor
 - Exclu du FN/RN en 2015 par sa propre fille
 
 ## Sa ligne politique : pas des dérapages, une stratégie
-Padu et Zoé insistent sur ce point : ce n'était pas un homme qui "dérapait". C'était sa ligne politique permanente :
+La PaduTeam insiste sur ce point : ce n'était pas un homme qui "dérapait". C'était sa ligne politique permanente :
 - Pointer des groupes dominés (immigrés, homosexuels, juifs) pour faire porter à des minorités les problèmes de la France
 - Éviter soigneusement toute interrogation sur l'ordre social ou les rapports de production ([[Hierarchisation des etres humains]])
 - Les "dérapages" des années 80-90 (propos sur le SIDA, "les chambres à gaz sont un détail") étaient une stratégie de différenciation — l'extrême droite était marginale, il cherchait à attirer la lumière
@@ -37,7 +37,7 @@ Padu et Zoé insistent sur ce point : ce n'était pas un homme qui "dérapait". 
 Le Pen a reconnu avoir pratiqué la torture pendant la guerre d'Algérie, puis s'est rétracté. Son couteau a été retrouvé dans la maison d'un combattant algérien. Il n'a jamais été condamné pour ces actes — couverts par des décrets d'amnistie de 1962 (confirmés en loi en 1968). La torture en Algérie n'était pas anecdotique : c'était une méthode institutionnelle de l'armée française, documentée.
 
 ## Héritage politique : la continuité FN→RN
-Sa mort sert le RN selon Padu : le parti peut désormais se désolidariser du "vieux" tout en gardant sa ligne. Mais la continuité est réelle :
+Sa mort sert le RN selon la PaduTeam : le parti peut désormais se désolidariser du "vieux" tout en gardant sa ligne. Mais la continuité est réelle :
 - Les cadres qui allaient chercher des autographes de [[Leon Degrelle]] (ancien SS belge) dans les années 90 font toujours partie du réseau RN
 - [[Frederic Chatillon]], figure néo-fasciste, reste dans l'orbite proche
 - [[Marine Le Pen]] fait profil bas mais ne les met pas au ban
@@ -47,7 +47,7 @@ Le [[Graphique]] montre que le vote FN 2002 était un vote caché des classes po
 
 ## Référence historique dans les analyses PaduTeam
 - **Le 21 avril 2002** : symbole fondateur — 8% dans les sondages, 17% dans les urnes. Illustration du [[Biais sondagier de droitisation]]
-- **Comparaisons injustes avec Mélenchon** : [[Sophia Aram]] et [[Plantu]] ont tenté, le jour de sa mort, de tracer un parallèle entre Le Pen et Mélenchon. Padu : "Les négationistes de France votaient Jean-Marie Le Pen, pas Mélenchon."
+- **Comparaisons injustes avec Mélenchon** : [[Sophia Aram]] et [[Plantu]] ont tenté, le jour de sa mort, de tracer un parallèle entre Le Pen et Mélenchon. La PaduTeam : "Les négationistes de France votaient Jean-Marie Le Pen, pas Mélenchon."
 
 ## Vidéos où l'individu est mentionné
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons

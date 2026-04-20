@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Le Graphique
 
 ## Définition
-Outil d'analyse sociologique électorale créé par [[Chris]] de la [[PaduTeam]], basé sur une Analyse des Correspondances Multiples (ACM) des Professions et Catégories Socioprofessionnelles (PCS) de l'INSEE. Deux axes structurent le plan : exploitation (Marx) en abscisse et domination (Bourdieu) en ordonnée. Chaque "rond" représente une PCS positionnée selon ces deux dimensions.
+Outil d'analyse sociologique électorale créé par la [[PaduTeam]], basé sur une Analyse des Correspondances Multiples (ACM) des Professions et Catégories Socioprofessionnelles (PCS) de l'INSEE. Deux axes structurent le plan : exploitation (Marx) en abscisse et domination (Bourdieu) en ordonnée. Chaque "rond" représente une PCS positionnée selon ces deux dimensions.
 
 ## Structure
 Deux axes principaux:
@@ -25,10 +25,10 @@ Deux axes principaux:
 - **Bas-droite**: Droite antisystème / populaire (ex: [[Rassemblement National]])
 
 ## Le "Saint Graphique" — un trait d'humour récurrent
-Chris et Padu parlent régulièrement du "**Saint** Graphique" sur un ton volontairement sacralisant et humoristique. Ils aiment se présenter comme de simples "interprètes" ou "serviteurs" du Graphique, comme s'il s'agissait d'un oracle. C'est un running gag de la chaîne, pas une appellation sérieuse — l'outil reste un graphique d'analyse sociologique, rien de sacré.
+La PaduTeam parle régulièrement du "**Saint** Graphique" sur un ton volontairement sacralisant et humoristique. Ils aiment se présenter comme de simples "interprètes" ou "serviteurs" du Graphique, comme s'il s'agissait d'un oracle. C'est un running gag de la chaîne, pas une appellation sérieuse — l'outil reste un graphique d'analyse sociologique, rien de sacré.
 
 ## Détails techniques (algorithme)
-L'algorithme a été codé par [[Chris]] de manière artisanale. Il utilise les données INSEE sur la composition du patrimoine des PCS de niveau 2. Variables d'entrée :
+L'algorithme a été codé de manière artisanale. Il utilise les données INSEE sur la composition du patrimoine des PCS de niveau 2. Variables d'entrée :
 - Composition du patrimoine : flux bancaire salarial vs patrimoine d'entreprise (axe horizontal)
 - Statut social : être fonctionnaire pondère vers le centre (ni exploitant ni exploité)
 - Hiérarchie PCS : cadre > profession intermédiaire > employé > ouvrier qualifié > ouvrier non qualifié (axe vertical)
@@ -38,7 +38,7 @@ Un projet est en cours pour rendre l'algorithme public et permettre d'ajouter de
 
 ## Mécanique du ranking
 
-Dans le transcript de [[LORDON MELENCHON peut GAGNER en 2027]], Chris donne une description technique précise du Graphique :
+Dans le transcript de [[LORDON MELENCHON peut GAGNER en 2027]], la PaduTeam donne une description technique précise du Graphique :
 
 > "En fait, c'est ce qu'on appelle en statistique, en mathématiques, une matrice ACM sur lequel on va essayer de distribuer une note, un ranking. Les unités vont de -10 à +10. Et en fait derrière, il y a un algorithme en fonction du taux de propriété, du niveau de diplôme sur l'axe y et cetera. Quand vous êtes cadre, sur l'axe y vous êtes rankqué plus haut que quand vous êtes exécutant. Quand vous avez beaucoup plus de capital de votre entreprise, même si c'est une petite entreprise, on considère en marxiste que ça détermine votre rapport au travail et donc vous êtes rankqué plus à droite que si vous êtes seulement salarié."
 
@@ -55,7 +55,7 @@ La taille des points (PCS) correspond à leur masse électorale — les anciens 
 Distinction fondamentale pour lire le Graphique. La *captation* dit "40% des ouvriers votent Le Pen" (lecture sondagière classique). La *composition* dit "l'électorat de Le Pen est composé à X% d'ouvriers, ce qui la positionne ici sur le Graphique". Un candidat à 1% composé de 100% d'ouvriers sera plus en bas-gauche qu'un candidat à 40% chez les ouvriers mais aussi 60% de cadres. C'est la composition qui révèle la nature de classe d'un électorat, pas la captation.
 
 ## Distinction avec Bourdieu (rapports de production vs capitaux)
-Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdieu classe par volume et composition de capitaux accumulés. Le Graphique classe par [[Rapports de production]] — la manière dont on accumule le capital, pas le montant accumulé. Chris critique le graphique de Bourdieu comme ayant "aucune data derrière" comparé au sien. Un salarié et un artisan à 3 000 € sont dans la même case chez Bourdieu, mais dans des classes totalement différentes sur le Graphique — et c'est cette différence qui prédit le vote.
+Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdieu classe par volume et composition de capitaux accumulés. Le Graphique classe par [[Rapports de production]] — la manière dont on accumule le capital, pas le montant accumulé. La PaduTeam critique le graphique de Bourdieu comme ayant "aucune data derrière". Un salarié et un artisan à 3 000 € sont dans la même case chez Bourdieu, mais dans des classes totalement différentes sur le Graphique — et c'est cette différence qui prédit le vote.
 
 ## Utilisations
 - Cartographier le positionnement sociologique des candidats et partis
@@ -83,7 +83,7 @@ Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdie
 
 ## Validation externe
 
-[[Frederic Lordon]], dans une interview sur [[Blast]], arrive aux mêmes conclusions que le Graphique sur 2027 sans nommer l'outil. Padu et Chris y voient une confirmation que "l'esprit du temps est là" et que la convergence n'est pas accidentelle. Ils suspectent que Lordon les regarde et a intégré leur analyse.
+[[Frederic Lordon]], dans une interview sur [[Blast]], arrive aux mêmes conclusions que le Graphique sur 2027 sans nommer l'outil. La PaduTeam y voit une confirmation que "l'esprit du temps est là" et que la convergence n'est pas accidentelle. Ils suspectent que Lordon les regarde et a intégré leur analyse.
 
 La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les critiques qui lui sont adressées (sexisme, racisme, réductionnisme) sont mal posées : genre et race ne sont pas absents du Graphique, ils sont encodés dans les [[Dimensions tierces du Graphique]], lisibles à l'intérieur des ronds (PCS). Ajouter une 3D explicite le rendrait illisible.
 
@@ -105,7 +105,7 @@ La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les c
 - [[GRAPHOMARXISME x Positions Revue]] — Exercice de prédiction pure : le Graphique projette Villepin à 6-7% max en analysant l'espace de classe élection par élection. Nouvelle version interactive présentée. Défense de la prédiction comme base de l'esprit scientifique
 - [[Nicolas qui paye]] — Application du Graphique au vote des cadres seuls en 2017 et 2022, montrant la gauchisation (Mélenchon 15%→20%, Fillon/Pécresse 15%→5%) et l'effondrement de la droite dans cette catégorie
 - [[Hollande vs Melenchon 2e tour]] — Démonstration magistrale : analyse complète du Graphique 2002 (16 candidats positionnés), explication du concept d'espace sociologique partagé ("même espace = mêmes rapports matériels = mêmes problèmes"), puis projection sur 2027. Le Graphique construit visuellement la prophétie du 2002 inversé
-- [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Capsule pédagogique fondamentale : Chris explique à Zoé les deux axes, la [[Diagonale de pouvoir]], les espaces révolutionnaire/réactionnaire, la [[Socialisation des moyens de production]] vs désocialisation néolibérale. Application à la profession médicale. Références bibliographiques complètes (Mallet, Wright, Bihr, Bidet, Amable/Palombarini)
+- [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Capsule pédagogique fondamentale : la PaduTeam explique les deux axes, la [[Diagonale de pouvoir]], les espaces révolutionnaire/réactionnaire, la [[Socialisation des moyens de production]] vs désocialisation néolibérale. Application à la profession médicale. Références bibliographiques complètes (Mallet, Wright, Bihr, Bidet, Amable/Palombarini)
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — [[Marc]], YouTubeur masculiniste, a créé son propre tableur d'analyse ("calculateur de la passe maritale"), involontairement parodique du Graphique — d'où le titre de la vidéo
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Description technique détaillée du ranking ACM (-10 à +10) ; validation implicite par Lordon
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Distinction fondamentale entre Graphique et Bourdieu : [[Rapports de production]] vs capitaux cumulés. Application aux artisans, livreurs Uber, médecins, auto-entrepreneurs
@@ -113,4 +113,4 @@ La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les c
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Bergé qualifiée de "marionnette du graphique" : ses mouvements sont exactement ce que le Graphique prédit pour la consolidation du bloc de droite réactionnaire
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Le Graphique prédit la configuration Retailleau/Le Pen/Mélenchon au 1er tour
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Validation mainstream de la prophétie ; les journalistes convergent vers les conclusions du Graphique sans en saisir la portée ; graphiques 2017 et 2022 montrés pour documenter la sous-estimation systématique du bloc gauche
-- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Présentation pédagogique de l'outil en fin de vidéo : explication des CSP et comportement politique, exemple "propriétaire de 10 salariés vs travailleur agricole". Padu qualifie la capsule Graphique/Positions Revue de "peut-être la vidéo la plus importante du mois de janvier"
+- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Présentation pédagogique de l'outil en fin de vidéo : explication des CSP et comportement politique, exemple "propriétaire de 10 salariés vs travailleur agricole". la PaduTeam qualifie la capsule Graphique/Positions Revue de "peut-être la vidéo la plus importante du mois de janvier"

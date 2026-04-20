@@ -1,0 +1,727 @@
+---
+generated: 2026-04-20
+period: 2024-10-20 → 2026-04-20
+total_videos: 426
+total_batches: 40
+---
+
+# PADUTEAM — Ingestion chronologique (18 mois)
+
+Fichier de suivi pour l'ingestion chronologique des vidéos PaduTeam
+de 20 oct 2024 à 20 avr 2026.
+Batches de 2 semaines ISO (~10 vidéos/batch), du plus ancien au plus récent.
+
+Généré par `Sources/Transcripts/generate_chronological.py`.
+Pour lancer l'ingestion : `python Sources/Transcripts/run_ingest.py`
+
+---
+
+## Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2024-w43-w44
+
+- [ ] Ce PNJ de DROITE QUITTE la FRANCE À CAUSE de la MISÈRE S*XUELLE et de l'INSÉCURITÉ !!
+- [ ] Cette DROITARDE tente de nous CLASHER : ÇA TOURNE MAL !! (x @Dr_Zoé_YT)
+- [ ] LA BRÈCHE - LÉGALISATION de TOUTES les DR0GUES + AFFAIRE ANDY KERBRAT/FI (x ZOË DUBUS @Dr_Zoé_YT)
+
+---
+## Batch 02 — Semaines 2024-W45 à 2024-W46 (4 nov 2024 – 17 nov 2024)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2024-w45-w46
+
+- [ ] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec @Positions_revue )
+- [ ] GUILLAUME KASBARIAN le MINISTRE qui DÉTESTE les FONCTIONNAIRES ?  (avec @Dr_Zoé_YT)
+- [ ] PAYE TA DROITARDE #4.1 : THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS (x @Dr_Zoé_YT)
+
+---
+## Batch 03 — Semaines 2024-W47 à 2024-W48 (18 nov 2024 – 1 déc 2024)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2024-w47-w48
+
+- [ ] PAYE TA DROITARDE #4.2 THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS (x @Dr_Zoé_YT)
+- [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ ? ÉCHANGE TENDU entre Padu et Dr_Zoé_ !!
+- [ ] MEYER HABIB et MANUEL VALLS FOUS DE RAGE du MANDAT D'ARRÊT CONTRE NETANYAHU !!
+- [ ] @lobservateurOfficiel  ME RÉPOND : "PADU EST UNE PETITE SALLLL000PE" !!
+- [ ] PAPACITO et ROUGEYRON se la JOUENT SORAL !!
+- [ ] PINARD et POLITIQUE : la DROITE DES LOBBYS vs la GAUCHE DU TERROIR (X @Dr_Zoé_YT) !!
+- [ ] APOLOGIE du TERR0RISME : PANOT FAIT PÉTER le PLATEAU de BFMTV en direct !!
+- [ ] RAZ DIT LES TERMES SUR PAPACITO EN BALLE !!
+- [ ] GLUPATATE QUITTE LA BRAV-M ?! (X @Dr_Zoé_YT)
+- [ ] CYRUS NORTH EXPLIQUE le MARXISME à CHRIS de @Positions_revue !!
+- [ ] J'ai TROUVÉ le PIRE PATRON du MONDE !!!!!!!!!
+
+---
+## Batch 04 — Semaines 2024-W49 à 2024-W50 (2 déc 2024 – 15 déc 2024)
+
+<!-- ⚠ batch dense : 13 vidéos -->
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2024-w49-w50
+
+- [ ] MILA REFUSE LES AVANCES DE KROC BLANC : IL PORTE PLAINTE !! (@fdenews)
+- [ ] MOTION DE CENSURE : CAUSES ET CONSÉQUENCES !! (X @Dr_Zoé_YT)
+- [ ] JVC, BRAV-M, DARMANIN, @Glupatate RÉPOND À MES ACCUSATIONS !!
+- [ ] Ce DROITARDÉ RENONCE à sa NATIONALITÉ FRANÇAISE pour les IMPÔTS !! (@OseilleTV)
+- [ ] PAYE TON DROITARD #5.1 : KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MALES SIGMA (x @Dr_Zoé_YT)
+- [ ] Un INCONNU ASSASSINE le PDG de la + GROSSE ASSURANCE SANTÉ des USA (X @Dr_Zoé_YT) !!
+- [ ] BACHAR AL ASSAD EST TOMBÉ : CEM YOLDASS NOUS EXPLIQUE TOUT !!
+- [ ] KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ POUR PORTER PLAIINNNTE CONTRE MOI, PAPACITO ET MILA !!
+- [ ] CUISINE et POLITIQUE : nos AVIS PROBLÉMATIQUES !! (avec @Dr_Zoé_YT)
+- [ ] STÉPHANE ÉDOUARD CONDAMNÉ au TRIBUNAL face au FOU ALLIÉ et à DAÏ-MON !!
+- [ ] DE WOKE À FACHO, @Slapp_ RACONTE SA REDPILL LA + CRINGE !!  (avec @Dr_Zoé_YT)
+- [ ] 5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE À NOËL (X @Dr_Zoé_YT et Positions Revue)
+- [ ] PAYE TON DROITARD #5.2 : KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉD0$ATANISTE (X @Dr_Zoé_YT)
+
+---
+## Batch 05 — Semaines 2024-W51 à 2024-W52 (16 déc 2024 – 29 déc 2024)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2024-w51-w52
+
+- [ ] ARTHUR : ANIMATEUR TÉLÉ ou PRÉDATEUR qui TRIP0TE et HUMILE les PAUVRES ? (avec @Dr_Zoé_YT)
+- [ ] ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ? (X @Dr_Zoé_YT Positions Revue)
+- [ ] MACRON DÉRAPE : "Le PROBLÈME des URGENCES, c'est que c'est rempli de MAMADOU" !! (X @Dr_Zoé_YT)
+- [ ] 70 VICTIMES dans un ATTENTAT D'EXTRÊME-DROITE mais c'est la FAUTE de L'IMMIGRATION ?????
+- [ ] MAYOTTE : MACRON ENGUEULE encore les SURVIVANTS au cyclone CHIDO !! (avec @Dr_Zoé_YT)
+- [ ] VERDICT MAZAN : TOUS CONCERNÉS, TOUS RESPONSABLES !! (avec @Dr_Zoé_YT )
+- [ ] ARTHUR NOUS CENSURE, @Dr_Zoé_YT  EST FOLLE DE RAGE !!
+- [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 "REPENTIE" (CARLA VYX) C'EST TERRIFIANT ! (X @Dr_Zoé_YT)
+- [ ] LOUIS SAN CATASTROPHIQUE sur le FÉMINISME au JAPON ! (avec @Dr_Zoé_YT)
+- [ ] FOU DE RAGE CET ABONNÉ DONNE SON AVIS : "PADU C'ÉTAIT MIEUX AVANT" !!
+
+---
+## Batch 06 — Semaines 2025-W01 à 2025-W02 (30 déc 2024 – 12 jan 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w01-w02
+
+- [ ] TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)
+- [ ] "MACRON NE FINIRA PAS L'ANNÉE 2025" : analyse MARXISTE !! (avec Chris de Positions Revue)
+- [ ] MARINE TONDELIER se RIDICULISE face à LUMI !! (avec Chris de Positions Revue)
+- [ ] DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT !!
+- [ ] MORT DE JEAN-MARIE LE PEN : DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE ? (avec @Dr_Zoé_YT)
+- [ ] La "CARTE DES QI" version MARXISTE : le GRAPHIQUE de Positions Revue !!
+- [ ] GAZA : LES SIONISTES TUENT DES MÉDECINS, @Dr_Zoé_YT  S'INSURGE !!
+- [ ] La CLIQUE À SORAL me CLASHE : "PUDUSTREAM EST UN GAUCHISTE MOU"
+- [ ] @Dr_Zoé_YT  CANCEL POSITIONS REVUE pour MISOGYNIE sur TONDELIER !! (avec Dr Zoé)
+- [ ] 2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT  !! (x Dr Zoé/Positions Revue)
+
+---
+## Batch 07 — Semaines 2025-W03 à 2025-W04 (13 jan 2025 – 26 jan 2025)
+
+<!-- ⚠ batch dense : 13 vidéos -->
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w03-w04
+
+- [ ] ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! ( avec Dr Zoé)
+- [ ] FURAX, SORAL M'INSULTE : "PETIT C0N, PETIT MER-DEUX INCULTE" !! (avec Chris de Positions Revue)
+- [ ] Ce "MARXISTE" a très PEUR du GRAND REMPLACEMENT !! (FRANCIS COUSIN) (avec Chris de Positions Revue)
+- [ ] BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!
+- [ ] FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI ! (analyse MARXOGRAPHIQUE avec Chris/Positions Revue)
+- [ ] Les VRAIS COMMUNISTES SONT-ILS VRAIMENT À LFI et PAS au PCF ? (x Chris de Positions Revue)
+- [ ] CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ? (x Graph, @Dr_Zoé_YT, PositionsRevue)
+- [ ] Le GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)
+- [ ] VI0L, S0UMISSION CHIMIQUE : @Dr_Zoé_YT  RACONTE SON HISTOIRE. (avec Dr Zoé)
+- [ ] ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)
+- [ ] PAYE TON DROITARD #6 - LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ? (@Dr_Zoé_YT)
+- [ ] PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STAL1NE !!
+- [ ] L'ILLUSION DE VILLEPIN : POURQUOI IL NE PEUT PAS GAGNER EN 2027. (GRAPHOMARXISME x Positions Revue)
+
+---
+## Batch 08 — Semaines 2025-W05 à 2025-W06 (27 jan 2025 – 9 fév 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w05-w06
+
+- [ ] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
+- [ ] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
+- [ ] MOS MAJORUM croit DÉBUNKER MARX :  ça TOURNE très très MAL !! (avec Chris de Positions Revue)
+- [ ] Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
+- [ ] PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL ! (@Dr_Zoé_YT et Chris)
+- [ ] Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
+- [ ] WISSAM et RAZ me PSYCHANALYSENT : '"PADU est un LGBTPH0BE MALHONNÊTE" !! (x Chris/Positions Revue)
+- [ ] MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
+- [ ] Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
+- [ ] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024 !!
+- [ ] PAYE TON DROITARD #7.2  : PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉRO$EXUALITÉ (x @Dr_Zoé_YT  et Chris)
+
+---
+## Batch 09 — Semaines 2025-W07 à 2025-W08 (10 fév 2025 – 23 fév 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w07-w08
+
+- [ ] M€URTRE de LOUISE : L'EXTRÊME-DROITE HARC€LE sa SOEUR et son PÈRE !! (avec @Dr_Zoé_YT)
+- [ ] AFFAIRE BÉTHARRAM : BAYROU PROTÈGE LES P€D0PHILES ? (avec @Dr_Zoé_YT )
+- [ ] Le COACH en SÉDUCTION le + FLIPPANT !! (avec @Dr_Zoé_YT)
+- [ ] MOS MAJORUM : "ce sont LES SALARIÉS qui EXPLOITENT LES PATRONS" !! (avec Chris de Positions Revue)
+- [ ] GAZA : L'ILLUSION DU CESSEZ-LE-FEU !! (avec Paul Elek)
+- [ ] YANN MOIX : PLUS GROS P0RC QUE DEPARDIEU ? (avec @Dr_Zoé_YT)
+- [ ] On RECADRE PSYKOCOUAC le PSYCHOLOGUE LIBERTARIEN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
+- [ ] PAPACITO BALANCE L'ÉNORME B0DYCOUNT D'ALICE CORDIER (collectif NÉMÉSIS) !! (avec @Dr_Zoé_YT)
+- [ ] FRÉDÉRIC LORDON NOUS CLASHE : "ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE" !! (X Chris)
+- [ ] DR ZOÉ EN SUEUR face à cette MÉDECIN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
+- [ ] "BOUTELDJA A CAPITULÉ" : Débat TENDU avec Anasse Kazib, Raz, Cassandre et Chris de Positions Revue !
+
+---
+## Batch 10 — Semaines 2025-W09 à 2025-W10 (24 fév 2025 – 9 mar 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w09-w10
+
+- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
+- [ ] PADUSTREAM C'EST DÉJÀ FINI !!
+- [ ] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
+- [ ] FDESOUCHE nous ATTAQUE : "PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?" (avec @Dr_Zoé_YT)
+- [ ] FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
+- [ ] DÉBRIEF de mon DÉBAT avec @Zawa_Prod et @PsykoCouac sur la PSY ! (x @Dr_Zoé_YT et Chris de PR)
+- [ ] WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE !!
+- [ ] RAZ et WISSAM ont-ils GACHÉ le ZAWATALK ? (avec @Dr_Zoé_YT)
+- [ ] ANTOINE DANIEL DÉRAPE COMPLÈTEMENT AU SUJET DES MILLIARDAIRES !!
+- [ ] J'EXPLIQUE le COMMUNISME aux FANS d'ANTOINE DANIEL : ils ADHÉRENT !!
+- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT  et Chris)
+
+---
+## Batch 11 — Semaines 2025-W11 à 2025-W12 (10 mar 2025 – 23 mar 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w11-w12
+
+- [ ] LE JARL et sa MILICE FRACA$$ENT des CRÂNES de GAUCHISTES !! (X Chris de Positions Revue)
+- [ ] À QUOI RESSEMBLERA LE COMMUNISME ? (x Chris de Positions Revue)
+- [ ] DELAVIER LEAK sur LE JARL : "c'est un ESCR0C INSOLVABLE MULTI-CONDAMNÉ par la JUSTICE" !!
+- [ ] Guerre en UKRAINE : faut-il COMMENCER à APPRENDRE le RUSSE ? (analyse MARXISTE avec Chris)
+- [ ] Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)
+- [ ] Notre AVIS sur l'AFFAIRE DANY CALIGULA !! (@Dr_Zoé_YT X @pasduhring)
+- [ ] AFFICHE ANT1SÉMITE : pour FABIEN ROUSSEL "MÉLENCHON fait du TRUMP" !!
+- [ ] DR ZOÉ apprend à B4I$ER à ce PUCIX !! (@pasduhring x @Dr_Zoé_YT)
+- [ ] DANIEL WOIRIN et CYRIL DIABATÉ DÉTRUISENT LE JARL : "il a été CONDAMNÉ pour ESCROQUERIE" !!
+- [ ] INFAME est DEVENU WOKE !? (@Dr_Zoé_YT x @pasduhring)
+- [ ] GLUCKSMANN ADORE la DÉMOCRATIE, sauf à PLACE PUBLIQUE !!
+
+---
+## Batch 12 — Semaines 2025-W13 à 2025-W14 (24 mar 2025 – 6 avr 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w13-w14
+
+- [ ] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP C0NS (selon Chris, pas Zoé hein) !!
+- [ ] Faut-il INTERNER TIBO INSHAPE en PSYCHIATRIE ? Ce PSYCHIATRE RÉPOND !! (@pasduhring)
+- [ ] Cet INGÉNIEUR MENTAL croit DÉBUNKER le GRAPHIQUE : ÇA TOURNE MAL !! (Chris X @pasduhring)
+- [ ] RACISME ANTI-ASIATIQUE : AYMERIC LOMPRET DÉRAPE, l'ANALYSE de LINH LAN DAO !!
+- [ ] Les ÉTUDIANTS sont EN COLÈRE : VOICI POURQUOI !! (avec l'UNION PIRATE et SOLIDAIRES ÉTUDIANT.E.S)
+- [ ] MARINE LE PEN INÉLIGIBLE POUR 2027 : QUELLES CONSÉQUENCES ? (@Dr_Zoé_YT x @pasduhring)
+- [ ] LE PEN CONDAMNÉE, MÉLENCHON SCANDALISÉ (et il a raison) !? (@pasduhring X Chris de Positions Revue)
+- [ ] MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !!
+- [ ] PAYE TON DROITARD #8 : VALEK, de PUCIX de JVC à COACH LIBERTARIEN !! ( @Dr_Zoé_YT  x Padu)
+- [ ] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN !! (x @Dr_Zoé_YT et Chris)
+
+---
+## Batch 13 — Semaines 2025-W15 à 2025-W16 (7 avr 2025 – 20 avr 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w15-w16
+
+- [ ] LFI envoie les MÉDECINS aux CHAMPS ?! (@Dr_Zoé_YT X @pasduhring)
+- [ ] Le DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS !! (@pasduhring X Chris)
+- [ ] FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE ! (@Dr_Zoé_YT x @pasduhring)
+- [ ] FROM TROTSKISTE TO RAC!STE, il se CONFIE à VA (@Dr_Zoé_YT x Chris)
+- [ ] THAÏS et VALEK nous APPRENNENT à BAI$ER !! (@Dr_Zoé_YT x @pasduhring)
+- [ ] FRANCE INTER et LE POINT reprennent MON CONCEPT : c'est CATA !! (@pasduhring X Chris)
+- [ ] CHRIS DÉVOILE COMMENT MÉLENCHON va GAGNER en 2027 !! (@pasduhring x Chris)
+- [ ] Les LIVREURS-UBER : + BOURGEOIS que les MÉDECINS ? (@pasduhring X Chris)
+- [ ] D'ADO GAUCHISTE à INGÉNIEUR NIETZSCHÉEN : ce SURHOMME raconte son HISTOIRE !! (Zoé X Padu)
+- [ ] NICOLAS DEMORAND AVOUE ÊTRE MALADE MENTAL !?
+- [ ] MARIANNE : le journal NÉGA-SIONNISTE !?
+
+---
+## Batch 14 — Semaines 2025-W17 à 2025-W18 (21 avr 2025 – 4 mai 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w17-w18
+
+- [ ] JULIA DE FUNÈS : LA BOURGEOISE LA + INSUPPORTABLE ? (@Dr_Zoé_YT X Chris)
+- [ ] Les CHEMINOTS PRENNENT EN 0TAGE SARAH SALDMANN : CHRIS et ZOÉ sont HORRIFIÉS !!
+- [ ] MACRON NOUS MENT POUR TUER LA SÉCU ( @Dr_Zoé_YT  X Chris)
+- [ ] MÉLENCHON LÂCHE une MASTERCLASS CONTRE TRUMP au QUÉBEC !! (@pasduhring)
+- [ ] AGRICULTEURS = ESCLAVAGISTES MODERNES ? (analyse MARXISTE avec Chris et @pasduhring)
+- [ ] COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR !! (Chris x Padu x Le Saint Graphique)
+- [ ] GARRIDO, CORBIÈRE et GUEDJ DIABOLISENT MÉLENCHON (Zoé x Chris)
+- [ ] CAUET : ENCORE UNE VICTIME DE LA CANCEL CULTURE  (@Dr_Zoé_YT X @pasduhring)
+- [ ] AFFAIRE QUATENNENS : L'ERREUR DE MÉLENCHON (@Dr_Zoé_YT X Chris)
+- [ ] ZOÉ et CHRIS sont NOSTALGIQUES de TITO ?!
+- [ ] M0RT d'ABOUBAKAR CISSÉ : MÉLENCHON EN LARMES !! (@pasduhring x Chris)
+- [ ] Le MARXISME, un TRUC de BLANC ? (@pasduhring X Chris de Positions Revue)
+
+---
+## Batch 15 — Semaines 2025-W19 à 2025-W20 (5 mai 2025 – 18 mai 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w19-w20
+
+- [ ] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES ? (@Dr_Zoé_YT x @pasduhring)
+- [ ] Ces PDG se font DÉTRUIRE par ce SÉNATEUR COMMUNISTE ! ( @Dr_Zoé_YT X @pasduhring)
+- [ ] SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhringx Chris)
+- [ ] RETAILLEAU DISSOUT la JEUNE GARDE et URGENCE PALESTINE !! (avec Cem Yoldas)
+- [ ] JAKUBOWICZ COMPARE MÉLENCHON à G0EBBELS !? (@pasduhring x Chris de Positions Revue)
+- [ ] Les MILITANTS de L'APRÈS et les PRO-ROUSSEL sont CATASTROPHIQUES !! (@cathedrale_osseuse)
+- [ ] BOMPARD DÉTRUIT la CARRIÈRE de WAUQUIEZ sur BFMTV !! (@pasduhring X Chris)
+- [ ] AFFAIRE DANY : COMMENT la ZAWAPROD a MANIPULÉ TOUT LE MONDE !? (@Dr_Zoé_YT x @pasduhring x Chris)
+- [ ] Faut-il ENVOYER les STREAMERS au G0ULAG ? (@pasduhring x Chris)
+- [ ] LOUIS SARKOZY : LE + GROS DÉBILE DU MOMENT ? (@pasduhring x Chris)
+
+---
+## Batch 16 — Semaines 2025-W21 à 2025-W22 (19 mai 2025 – 1 jun 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w21-w22
+
+- [ ] RETAILLEAU MET FIN au WAUQUISME !! (@pasduhring X Chris)
+- [ ] BÉGAUDEAU : "WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL"
+- [ ] EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ? (@Dr_Zoé_YT X @pasduhring)
+- [ ] CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!
+- [ ] LÉNA SITUATIONS et JEAN-FRANÇOIS COPÉ sont-ils VRAIMENT FRÉRISTES ?
+- [ ] GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE !!
+- [ ] KARIM BOUAMRANE (PS) : "on va DÉFONCER ÉRIC COQUEREL et la FI" !!
+- [ ] NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!
+- [ ] CHLOÉ RIDEL (PS) à BACKSEAT : le SI0NISME S'INFILTRE à GAUCHE ?
+- [ ] TRUMP en GUERRE contre la CHINE : VOICI POURQUOI !! (analyse MARXISTE)
+
+---
+## Batch 17 — Semaines 2025-W23 à 2025-W24 (2 jun 2025 – 15 jun 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w23-w24
+
+- [ ] LE PEN DÉCLARE la GUERRE à BARDELLA !!
+- [ ] Les INCELS ont ENFIN leur SAINT GRAPHIQUE !!
+- [ ] LINGUISTICAE en CONCURRENCE avec les ENFANTS GAZAOUIS !!
+- [ ] CHRIS DÉRAPE sur LINGUISTICAE : "T'AS QU'À ALLER BOSSER EN INTÉRIM" !!
+- [ ] MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!
+- [ ] FLOTTILLE de la LIBERTÉ : MEYER HABIB et CAROLINE FOUREST en ROUE LIBRE
+- [ ] ROUSSEL trouve RETAILLEAU TROP MOU
+- [ ] NATACHA POLONY veut PLUS DE VIOLENCE à L'ÉCOLE ?
+- [ ] RÉVOLTES à LOS ANGELES : VERS une RÉPUBLIQUE SOVIÉTIQUE de CALIFORNIE ?
+- [ ] Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN ?
+
+---
+## Batch 18 — Semaines 2025-W25 à 2025-W26 (16 jun 2025 – 29 jun 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w25-w26
+
+- [ ] GUEDJ au CONGRÈS du PS : "MÉLENCHON EST UN SAL0PARD ANT!SEMITE" !!
+- [ ] FAURE VEUT FAIRE DU MÉLENCHON SOFT !!
+- [ ] Les DERNIERS JOURS de l'IRAN des MOLLAH ? (analyse MARXISTE)
+- [ ] USUL ATTAQUÉ par le PIRE MAIRE PS de FRANCE !!
+- [ ] RETAILLEAU TRAQUE LES SANS-PAPIERS et veut "S'INSPIRER DES ALLEMANDS"
+- [ ] THAÏS : les VSS l'ont rendue NAZIE !?
+- [ ] Les CHÔMEURS sont-ils VRAIMENT des ASSISTÉS ?
+- [ ] PAYE TON DROITARD #9 : JULIEN ROCHEDY, de SURHOMME à PAPA DÉCONSTRUIT
+- [ ] SARAH SALDMANN explique LA LUTTE DES CLASSES à PASCAL PRAUD
+- [ ] MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES !!
+- [ ] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
+- [ ] HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM
+
+---
+## Batch 19 — Semaines 2025-W27 à 2025-W28 (30 jun 2025 – 13 jul 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w27-w28
+
+- [ ] Comment AIDER CONCRÈTEMENT le PEUPLE PALESTINIEN ? (avec Résistance et Solidarité)
+- [ ] RUFFIN lance son PARTI pour DOUBLER MÉLENCHON !!
+- [ ] VILLEPIN lance SON PARTI : il SE PREND pour DE GAULLE !!
+- [ ] LUCIEN SÈVE : une PSYCHOLOGIE MARXISTE est-elle POSSIBLE ? (Éditions Sociales X Benoit Lepinat)
+- [ ] JULIEN DRAY a des RÉVÉLATIONS sur LE PASSÉ DE MÉLENCHON 
+- [ ] LES CANDIDATS LES + RIDICULES POUR 2027
+- [ ] ROCHEDY CATASTROPHIQUE sur L'ÉCONOMIE !!
+- [ ] La VÉRITÉ sur NICOLAS QUI PAYE
+- [ ] BARDELLA TRAHIT MARINE ET DINE AVEC SARKOZY
+- [ ] MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037
+- [ ] LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE
+
+---
+## Batch 20 — Semaines 2025-W29 à 2025-W30 (14 jul 2025 – 27 jul 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w29-w30
+
+- [ ] GLUCKSMANN ne CHOISIT PAS entre MÉLENCHON et LE PEN !
+- [ ] GARRIDO VIRE ce STREAMER du CONGRÈS de L'APRÈS !!
+- [ ] ANNONCES DE BAYROU : IL VEUT METTRE LE FEU AU PAYS !!
+- [ ] BOMPARD ou FAURE : QUELLE STRATÉGIE contre BAYROU pour la GAUCHE ?
+- [ ] GEORGES IBRAHIM ABDALLAH enfin LIBRE ! (Entretien avec SAÏD BOUAMAMA)
+- [ ] L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE
+- [ ] ROUSSEL est il le FRANK DUBOSC de la POLITIQUE ?
+- [ ] PURGÉS pour ISLAMO-GAUCHISME ? ÇA BOUGE CHEZ les JEUNESSES COMMUNISTES !!
+- [ ] LAGASNERIE : REBELLE GÉNIAL OU ADOLESCENT BOURGEOIS RONCHON ?
+- [ ] ASTRID PANOSYAN : LA PIRE MINISTRE MACRONISTE ?
+- [ ] GEORGES IBRAHIM ABDALLAH : "ISRAËL VIT SES DERNIERS INSTANTS" !!
+- [ ] 10 LIVRES pour PRÉPARER la RENTRÉE SOCIALE !!
+
+---
+## Batch 21 — Semaines 2025-W31 à 2025-W32 (28 jul 2025 – 10 aoû 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w31-w32
+
+- [ ] SARAH SALDMANN DÉGOMME LES DÉPUTÉS !
+- [ ] VALEK ACCUSE ZOÉ d'être COMPLICE des PÉD0CRIMINELS ?
+- [ ] 10 SEPTEMBRE : ON NE VEUT PLUS ! 
+- [ ] NICOLAS QUI PAYE : SOUMIS À MACRON ET SON PATRON?
+- [ ] La PADUTEAM HOM0PHOBES envers LAGASNERIE ? @echaarpe  nous RECADRE !
+- [ ] Le DROITARD le + PANIQUÉ sur la SÉCURITÉ !!
+- [ ] ACCORD TRUMP : VON DER LEYEN soumet L'UE aux USA
+- [ ] BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?
+- [ ] LORDON : MÉLENCHON peut GAGNER en 2027
+- [ ] La MASTERCLASS de MÉLENCHON sur le 10 SEPTEMBRE !!
+- [ ] Ce MILLIARDAIRE veut des BÉBÉS BLANCS CATHOLIQUES (STÉRIN)
+
+---
+## Batch 22 — Semaines 2025-W33 à 2025-W34 (11 aoû 2025 – 24 aoû 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w33-w34
+
+- [ ] CE DROITARD ADORE LES GÈNES DE SYDNEY SWEENEY
+- [ ] PARTI SOCIALISTE : leur PLAN ANTI-MÉLENCHON ENFIN DÉVOILÉ !!
+- [ ] POUTOU : D'OUVRIER RÉVOLUTIONNAIRE À LIBRAIRE INSOUMIS !
+- [ ] JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !!
+- [ ] CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE (elles parlent de TRAVAIL)
+- [ ] NAULLEAU en PANIQUE devant "LE COMPLOT ISLAMIQUE à la FRANCE INSOUMISE"
+- [ ] La VÉRITÉ sur la mort de "JEAN PORMANOVE" : T0RTURES, EMPRISE et VALIDISME
+- [ ] PROPAGANDE ANTI-MACRON : ON PEUT TOUS S'Y METTRE #10septembre 
+- [ ] CHARLES CONSIGNY VEUT + D'ESCLAVES POUR LES VENDANGES !!
+
+---
+## Batch 23 — Semaines 2025-W35 à 2025-W36 (25 aoû 2025 – 7 sep 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w35-w36
+
+- [ ] PADU GÂCHE l'HOMMAGE à TROTSKI pour les 85 ANS de sa MORT !!
+- [ ] BAYROU ANNONCE SA DÉMISSION LE 8 SEPTEMBRE !?
+- [ ] MÉLENCHON APPELLE à la GRÈVE GÉNÉRALE le 10 SEPTEMBRE !!
+- [ ] SALOMÉ SAQUÉ N’EST PLUS DE GAUCHE ?
+- [ ] LFI : ILS FONT PLEURER LES JOURNALISTES 
+- [ ] GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE !?
+- [ ] Le RN et la DROITE ATTAQUENT les COMMUNISTES et leurs 100 MILLIARDS de M0RTS !!
+- [ ] CÉCILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES
+- [ ] FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!
+- [ ] 10 SEPTEMBRE : COMMENT ne PAS REPRODUIRE les ERREURS des GILETS JAUNES ? (@OnNeVeutPlus)
+- [ ] DERNIERS JOURS DE BAYROU : IL SE LÂCHE 
+- [ ] TONDELIER : + CRINGE que FRANÇOIS RUFFIN ?
+
+---
+## Batch 24 — Semaines 2025-W37 à 2025-W38 (8 sep 2025 – 21 sep 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w37-w38
+
+- [ ] LEGRAND et COHEN COMPLOTENT pour placer GLUCKSMANN !!
+- [ ] DÉPART DE BAYROU : AIDONS MACRON à FAIRE SES CARTONS
+- [ ] AU CŒUR DU 10 SEPTEMBRE : ANALYSES À CHAUD !!
+- [ ] Ces BOURGEOIS SONT EN SUEUR devant le 10 SEPTEMBRE (RETAILLEAU, WAUQUIEZ, PS) !!
+- [ ] 10 SEPTEMBRE : LES GRANDES GUEULES FONT LES CHIENS DE GARDE !
+- [ ] Les GRANDES GUEULES : PORMANOVE a été VICTIME de L'ISLAM !?
+- [ ] LE 18 SEPTEMBRE : TOUS EN GRÈVE ! LE 21 SEPTEMBRE : TOUS ENSEMBLE !
+- [ ] La POLICE de RETAILLEAU MALTRAITE une JEUNE FEMME suite au 10 SEPTEMBRE !
+- [ ] Le MEDEF PLEURE... et veut FAIRE GRÈVE  (c’est pas une blague)
+- [ ] 18 SEPTEMBRE : ON EST LÀ !!!
+- [ ] L’ALLIANCE MÉLENCHON-GLUCKSMANN : FAUSSE BONNE IDÉE ?
+
+---
+## Batch 25 — Semaines 2025-W39 à 2025-W40 (22 sep 2025 – 5 oct 2025)
+
+<!-- ⚠ batch dense : 13 vidéos -->
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w39-w40
+
+- [ ] MACRON, HIDALGO, etc. : ILS RECONNAISSENT LA PALESTINE après 2 ANS DE GEN0C1DE
+- [ ] TAXE ZUCMAN : 2% C’EST DÉJÀ TROP POUR BERNARD ARNAULT
+- [ ] LA PIRE HUMILIATION DEVANT DES PATRONS : LE DÉFILÉ DES PAUVRES
+- [ ] MARION MARÉCHAL FURIEUSE : ELLE VEUT TERRASSER LA GAUCHE
+- [ ] SARKOZY CONDAMNÉ À 5 ANS DE PRISON FERME !!
+- [ ] CNEWS PLEURE POUR UN CRIMINEL !!
+- [ ] GABRIEL ATTAL DÉMOLIT MACRON : "MACRON C'EST LE CHAOS !"
+- [ ] La MASTERCLASS du CAMARADE SARKOZY sur les RETRAITES !
+- [ ] GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!
+- [ ] SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP !?
+- [ ] LES SYNDICATS EMPÊCHENT LA RÉVOLUTION EN FRANCE !?
+- [ ] PADUTEAM C'EST FINI !?
+- [ ] GIULIA SARKOZY TRAITÉE DE POUFFE PAR MARIANNE ???!!!
+
+---
+## Batch 26 — Semaines 2025-W41 à 2025-W42 (6 oct 2025 – 19 oct 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w41-w42
+
+- [ ] LA GUERRE AU RN EST DÉCLARÉE ?!
+- [ ] GAZA : 2 ANS APRÈS LE 7 OCTOBRE- STOP AU GEN0CIDE
+- [ ] DÉMISSION DE LECORNU : ÇA CHAUFFE DE + EN + POUR MACRON !
+- [ ] MACRON VA PARTIR ! LES BANQUIERS VONT LE DÉGAGER
+- [ ] SONDAGE ANTI-MÉLENCHON : LES MENSONGES DE L’IFOP VS LA VÉRITÉ DU SAINT GRAPHIQUE
+- [ ] INTERVIEW CATASTROPHIQUE DE SALOMÉ SAQUÉ ET LAURENT MAUDUIT : LES PATRONS DE GAUCHE
+- [ ] LECORNU DÉJÀ CENSURÉ ?
+- [ ] FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MÉLENCHON !
+- [ ] LE PS A TRAHI !  (ÉPISODE 24873)
+- [ ] MÉLENCHON DIABOLISÉ : IL HUMILIE BENJAMIN DUHAMEL?
+- [ ] MAGALI BERDAH : LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL
+- [ ] TONDELIER, CORBIÈRES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !
+
+---
+## Batch 27 — Semaines 2025-W43 à 2025-W44 (20 oct 2025 – 2 nov 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w43-w44
+
+- [ ] EXPLOSION DES DROITES : LE RN ET LR AU BORD DE LA SCISSION !?
+- [ ] Cet INCEL LIBERTARIEN nous CLASHE : ON le RÉÉDUQUE sur la SCIENCE (réponse à Mos Majorum)
+- [ ] ALLIANCE PS-MACRONISTE-LR : LES ASSASS!NS DE LA SANTÉ
+- [ ] RÉÉDUCATION DE L’INCEL LIBERTARIEN : ON FINIT LE TRAVAIL
+- [ ] JORDAN FLORENTIN nous explique LE FASCISME DE LFI : ÇA TOURNE MAL !!!
+- [ ] PLENEL CIRE LES POMPES DU PS : IL VEUT NOUS VENDRE FAURE
+- [ ] VIKTOROVITCH VS PADUTEAM : QUI ANALYSE MIEUX LA MONTÉE DU FASCISME ?
+- [ ] USUL CANCEL un CAMARADE qui rit à L'HUMOUR DE DROITE
+- [ ] TONDELIER CANDIDATE À LA PRÉSIDENTIELLE : ON ANALYSE LA REINE DES NOISETTES
+- [ ] VILLEPIN DÉRAPE sur ZYED et BOUNA !!
+- [ ] SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRÉS (et c’est catastrophique) !
+
+---
+## Batch 28 — Semaines 2025-W45 à 2025-W46 (3 nov 2025 – 16 nov 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w45-w46
+
+- [ ] LA STRATÉGIE RUFFIN : UN AUTRE GLUCKSMAN EST POSSIBLE
+- [ ] L’ARME DU PS POUR BATTRE LFI : LA TAXE ZUCMAN
+- [ ] NATHALIE SAINT-CRICQ nous parle de la SÉCU : c'est CATASTROPHIQUE !
+- [ ] LÉAUMENT EN SUEUR CONTRE LA CORPO MÉDICALE : ZOÉ LE COACH
+- [ ] NEW YORK BASCULE DANS L’ISLAMO-GAUCHISME? COMMENT ZOHRAN MAMDANI A GAGNÉ
+- [ ] MAMDANI : À GAUCHE DE MÉLENCHON ?
+- [ ] MÉLENCHON vs LE PEN 2027 : les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE !
+- [ ] ATOMISATION du BRAS DROIT de BENOIT HAMON par un PETIT-BOURGEOIS en DIRECT !!
+- [ ] TONDELIER : FEMME SANDWICH POUR LE CAPITALISME VERT
+- [ ] 17 700€/MOIS MAIS PRIS À LA GORGE : les RADIOLOGUES font GRÈVE !!
+- [ ] SONDAGES DE PROPAGANDE SUR FRANCE INFO : ÇA DEVIENT N’IMPORTE QUOI !
+- [ ] JDG (Joueur du Grenier) ANTI CAPITALISTE !?! IL A COMPRIS LE PROBLÈME, ON LUI DONNE LES SOLUTIONS !
+
+---
+## Batch 29 — Semaines 2025-W47 à 2025-W48 (17 nov 2025 – 30 nov 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w47-w48
+
+- [ ] SAUCISSON - BÉRET - SARDOU : LES FÊTES DE DROITE HORS DE PRIX DU CANON FRANÇAIS
+- [ ] ELLE A CHOQUÉ LCI  UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS
+- [ ] PRIMAIRE DE LA GAUCHE NOISETTE : LE FLOP ANNONCÉ POUR 2026 !
+- [ ] IL MET L’EXTRÊME DROITE EN PLS : CEM YOLDAS, LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHÈRE !
+- [ ] NICOLAS FRAMONT EST-IL ANTICOMMUNISTE ?
+- [ ] HELYDIA/FUGU : COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES !
+- [ ] GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS !
+- [ ] AYMERIC CARON PURGÉ DE LFI ?! ON FAIT LE POINT !
+- [ ] GLUCKSMANN EST DÉJÀ FINITO : VOICI POURQUOI !
+- [ ] SONDAGE MÉLENCHON - BARDELLA : C’EST PIRE QUE CE QUE VOUS CROYEZ !!
+- [ ] On ANALYSE le PIRE PHILOSOPHE dans un TEAM BUILDING de MANAGERS !
+- [ ] "ACCEPTER DE PERDRE SES ENFANTS" : MACRON et GLUCKSMANN VEULENT LA GUERRE !?
+
+---
+## Batch 30 — Semaines 2025-W49 à 2025-W50 (1 déc 2025 – 14 déc 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w49-w50
+
+- [ ] CETTE INFLUENCEUSE à DUBAÏ se JUSTIFIE D'AVOIR UNE DOMESTIQUE
+- [ ] HOLLANDE prépare t-il SON RETOUR ?
+- [ ] USUL REJOINT GLUCKSMANN? SON AVIS CATASTROPHIQUE SUR LA GUERRE
+- [ ] LA PORTE-PAROLE DU PCF DÉRAPE SUR LE VOILE ?!
+- [ ] SURPRISE : LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES 
+- [ ] On ÉDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME, la VALEUR et la MONNAIE !!
+- [ ] BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES? (130 000€ POUR APPRENDRE À SOURIRE)
+- [ ] LE PCF rejoint SARKOZY sur la "VALEUR TRAVAIL" ?!
+- [ ] COMMISSION MÉLENCHON : LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS !!
+- [ ] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
+- [ ] LE PS et LES ÉCOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON
+- [ ] BÉGAUDEAU se RIDICULISE sur le DÉTERMINISME et le MARXISME !!
+
+---
+## Batch 31 — Semaines 2025-W51 à 2025-W52 (15 déc 2025 – 28 déc 2025)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2025-w51-w52
+
+- [ ] MÉLENCHON nous DÉVOILE sa MATRICE IDÉOLOGIQUE
+- [ ] TONDELIER se JUSTIFIE sur la TRAHISON DES ÉCOLOS
+- [ ] Le PCF devient LIBERTARIEN ? La CATASTROPHE CONTINUE !
+- [ ] "LFI = RN" : POURQUOI LES MÉDIAS ont 10 ANS DE RETARD sur le "POPULISME" ?
+- [ ] SANDRINE ROUSSEAU DÉNONCE LA TRAHISON DES ÉCOLOGISTES !
+- [ ] ZOÉ veut FORCER cet INGÉNIEUR LIBÉRAL à VRAIMENT TRAVAILLER !!
+- [ ] NAULLEAU et son COMPLOTISME ANTI LFI !! - RECETTE DE NOEL #1
+- [ ] ROCHEDY : LE DICTATEUR QUI VEUT DU MAL À VOS ENFANTS !! - RECETTE DE NOEL #2
+- [ ] ROCHEDY VEUT DÉTRUIRE LA FRANCE : VOICI COMMENT ! - RECETTE DE NOEL #2.1
+- [ ] La PORTE-PAROLE du PCF a appris le MARXISME CHEZ les GRANDES GUEULES ?!
+- [ ] LES PAYSANS SONT-ILS NOS CAMARADES ?
+
+---
+## Batch 32 — Semaines 2026-W01 à 2026-W02 (29 déc 2025 – 11 jan 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w01-w02
+
+- [ ] SURPRISE (non) : le PCF S'ALLIE au PS pour TUER LFI !!
+- [ ] USUL : CETTE GAUCHE qui VEUT NOUS EMMENER à la GUERRE
+- [ ] DES ÉCOLOS D’EXTRÊME DROITE ? (Anti-Tech Résistance) #1
+- [ ] Les SEIGNEURS des NOISETTES ( Vol. 1, 2 & 3)
+- [ ] On DÉCOUVRE les PROJETS DÉSASTREUX de ces STARTUPPERS pour NOS ENFANTS !!
+- [ ] DÉCRYPTAGE : TRUMP BOMBARDE le VENEZUELA et KIDNAPPE MADURO !
+- [ ] MACR0N, SERPILLÈRE des ÉTATS-UNIS après l'AGRESSI0N du VENEZUELA
+- [ ] 1000 CAPSULE : ON FAIT LE PROCÈS DU MINIATURISTE (feat. le miniaturiste)
+- [ ] ANASSE KAZIB ATOMISE MADURO : "C'EST UN DlCTATEUR 100% ANTI-OUVRIER" !
+- [ ] TRUMP VEUT ANNEXER LE GROENLAND 
+- [ ] PROCÈS CHIKIROU : JUSTICE OU MANIPULATION ?
+- [ ] ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE : LE VRAI VISAGE D'ANTITECH RESISTANCE #2
+
+---
+## Batch 33 — Semaines 2026-W03 à 2026-W04 (12 jan 2026 – 25 jan 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w03-w04
+
+- [ ] MATHILDE PANOT REFUSE DE CONDAMNER MADURO SUR BFMTV !!
+- [ ] La PRIMAIRE des NOISETTES TOURNE à la CATASTROPHE !
+- [ ] L'IRAN, L'EMPIRE, LES IRANIENS. (analyse MARXISTE)
+- [ ] SARAH KNAFO : PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN?
+- [ ] VENEZUELA : le COMPLOTISME AUTORISÉ des FACTCHECKERS !
+- [ ] MÉLENCHON DRAGUE LES PETITS PATRONS !?
+- [ ] MUNICIPALES : PHILIPPE MARTINEZ SOUTIENT LE PS FACE À LFI !!
+- [ ] GARRIDO : SES MÉTHODES HONTEUSES POUR RÉGLER SES COMPTES AVEC LFI !!
+- [ ] LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE
+- [ ] LE VENEZUELA S’EST VENDU À TRUMP ET LA CIA ?
+- [ ] MACRON FAIT une MASTERCLASS ANTI-TRUMP à DAVOS (c’est pas une blague)
+- [ ] GRÈVE DES MÉDECINS : CAPRICE DE RICHES OU LUTTE LÉGITIME ?
+
+---
+## Batch 34 — Semaines 2026-W05 à 2026-W06 (26 jan 2026 – 8 fév 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w05-w06
+
+- [ ] RETAILLEAU : LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRÉSIDENTIELLE
+- [ ] PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE !
+- [ ] BARDELLA S’APLATIT DEVANT TRUMP !! (c’est gênant)
+- [ ] RUFFIN : UN PRÉSIDENT ÉCO + EST POSSIBLE !
+- [ ] TONDELIER VA À DES DÎNERS DE BOURGEOIS D’EXTRÊME DROITE !? (c'est pire que vous croyez...)
+- [ ] LE PLAN MEDIAPART POUR EMPÊCHER MÉLENCHON EN 2027 !
+- [ ] TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES ! (même Zoé est choquée )
+- [ ] FAURE ET SA PRIMAIRE ASSASSINÉS PAR LE PS DE FRANÇOIS HOLLANDE !!
+- [ ] KNAFO : LA CATASTROPHE CONTINUE! (Ses solutions pour la sécurité vont vous étonner)
+- [ ] LOÏC CHAIGNEAU REVIENT pour CASSER du W0KE et du DR0GUÉ !?
+- [ ] ALAIN DUHAMEL DÉCRYPTE GLUCKSMANN, MÉLENCHON ET BARDELLA !! (et c'est cata)
+- [ ] MÉLENCHON, TONDELIER, HOLLANDE, ON CONTINUE L’ANALYSE CLAQUÉE DE DUHAMEL !!
+
+---
+## Batch 35 — Semaines 2026-W07 à 2026-W08 (9 fév 2026 – 22 fév 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w07-w08
+
+- [ ] SANDRINE ROUSSEAU PRIVÉE DE PRIMAIRE DES NOISETTES PAR TONDELIER !
+- [ ] CLÉMENT VIKTOROVITCH : LE MEILLEUR MILITANT ANTI-LFI ?
+- [ ] GUEDJ CANDIDAT À LA PRÉSIDENTIELLE - LE PLAN DE HOLLANDE SE DÉROULE
+- [ ] BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES
+- [ ] TODD DÉSASTREUX SUR LA NATALITÉ ? IL ACCUSE LE FÉMINISME
+- [ ] MENSONGES PRO-PS CHEZ BACKSEAT : "LES PROLOS BLANCS VOTENT PS" !!
+- [ ] RETAILLEAU PRÉSENTE SON PROJET POUR LA FRANCE
+- [ ] SARAH KNAFO : LA BOURGEOISE HORS SOL S’ENFONCE DANS LE RIDICULE
+- [ ] QUI A VRAIMENT TUÉ QUENTIN DERANQUE ?
+- [ ] GLUCKSMANN, MACRON GARRIDO : QUI VEUT TUER LA FI ?
+- [ ] CHAPOUTOT DÉTRUIT MARIANNE EN LIVE : ILS SE VENGENT !!
+- [ ] LUCBERT et LORDON PSYCHANALYSENT TRUMP : ÇA TOURNE au CACA !!
+
+---
+## Batch 36 — Semaines 2026-W09 à 2026-W10 (23 fév 2026 – 8 mar 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w09-w10
+
+- [ ] HOLLANDE CONTRE-ATTAQUE : "MÉLENCHON NE SERA PAS AU 2ÈME TOUR" !!
+- [ ] ONFRAY DÉBUNK DÉFINITIVEMENT LE COMMUNISME !!
+- [ ] TRUMP N'IRA PAS AU BOUT DE SON MANDAT : VOICI POURQUOI !
+- [ ] PRAUD ET MÉNARD EN SUEUR : LEURS ENFANTS VOTENT MÉLENCHON !!
+- [ ] TRUMP et RUBIO REGRETTENT le TEMPS BÉNI des COLONIES !!
+- [ ] HOLLANDE vs MÉLENCHON au 2ÈME TOUR : la PROPHÉTIE INTERDITE !!
+- [ ] MÉLENCHON LE STALINIEN TRIE LES MÉDIAS !
+- [ ] AURORE BERGÉ FAIT BARRAGE A LFI EN S’ALLIANT AU RN ???!!!
+- [ ] EDWY PLENEL EN OPÉRATION CIA CONTRE MÉLENCHON !!
+- [ ] IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)
+- [ ] NÉMÉSIS A MENTI : LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE QUENTIN DERANQUE !
+- [ ] HARCELÉ par la MEUTE LFI : LYES LOUFFOK TRAITRE ou VICTIME ?
+
+---
+## Batch 37 — Semaines 2026-W11 à 2026-W12 (9 mar 2026 – 22 mar 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w11-w12
+
+- [ ] HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?
+- [ ] SONDAGE ANTI-MÉLENCHON : L’IFOP MET L’EXTRÊME DROITE À 62% AU 1ER TOUR 
+- [ ] TRUMP PREND UNE FESSÉE EN IRAN : ON AVAIT TOUT PRÉVU !!!!
+- [ ] POUTOU SOUTIENT MELENCHON : LA PIRE STRATÉGIE POSSIBLE !!
+- [ ] LES PIRES ET LES MEILLEURES VILLES DE FRANCE : COMMENT VOTER STRATÉGIQUEMENT AU MUNICIPALES
+- [ ] La FACE CACHÉE de QUENTIN DÉRANQUE va vous ÉTONNER ! (ou pas )
+- [ ] MUNICIPALES : LFI PERCE, LE CENTRE EST MORT, LE RN STAGNE !
+- [ ] TONDELIER RIDICULE, GARRIDO HYPOCRITE, HOLLANDE LE PATRON : LES CONSÉQUENCES MUNICIPALES !!
+- [ ] Ces INSOUMISES FONT EXPLOSER les ÉCOLOGISTES !! (CHIKIROU, LAHOUARIA ADDOUCHE et CO)
+- [ ] Ces BOURGEOIS PANIQUÉS face à LA MONTÉE de LFI !
+- [ ] BARDELLA est-il le MAILLON FAIBLE du RN ? (Blocage des prix, Trump, etc...)
+
+---
+## Batch 38 — Semaines 2026-W13 à 2026-W14 (23 mar 2026 – 5 avr 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w13-w14
+
+- [ ] ALICE COFFIN DÉVOILE L'ENFER DU SYSTÈME EMMANUEL GRÉGOIRE !!
+- [ ] MUNICIPALES : CE QU'IL FAUT RETENIR !
+- [ ] BALLY BAGAYOKO : LE MAIRE QUI FAIT PLEURER LES RAC!STES
+- [ ] LE PS et les NOISETTES EN LARMES après LES MUNICIPALES !!
+- [ ] RUFFIN VEUT QUE LA GAUCHE "ARRÊTE DE DÉCONNER" !!
+- [ ] BACKSEAT vs PADUTEAM : COMMENT EMPÊCHER LE RN EN RURALITÉ ?!
+- [ ] BORIS VALLAUD N'A PAS DIT SON DERNIER MOT !
+- [ ] MADURO KIDNAPPÉ ET T0RTURÉ PAR LES USA : LE SCANDALE DONT PERSONNE NE PARLE !
+- [ ] CUBA SAUVÉE PAR POUTINE !?
+- [ ] VIKTOROVITCH : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !?
+- [ ] GUERRE TONDELIER/ROUSSEAU/JADOT : LES VERTS AU BORD DE L’EXPLOSION !
+- [ ] LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !
+
+---
+## Batch 39 — Semaines 2026-W15 à 2026-W16 (6 avr 2026 – 19 avr 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w15-w16
+
+- [ ] RIMA HASSAN : DR0GUE, GARDE À VUE, LOI YADAN !
+- [ ] DÉBAT LORDON vs MÉLENCHON : GÉNIAL ou DÉCEVANT ?
+- [ ] TONDELIER RETOURNE (encore) SA VESTE !
+- [ ] GLUCKSMANN, DELGA, GUEDJ : LA TEAM CASSOULET FAIT BLOC CONTRE MÉLENCHON !
+- [ ] JEUNES ENTREPRENEURS : LEURS BUSINESS INSUPPORTABLES !
+- [ ] GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ?
+- [ ] La FEMME de BERNARD ARNAULT EXPLIQUE la PAUVRETÉ à LÉA SALAMÉ !!
+- [ ] ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES
+- [ ] BARDELLA et LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS
+- [ ] DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ?
+- [ ] TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !
+
+---
+## Batch 40 — Semaine 2026-W17 (20 avr 2026)
+
+Statut : ⏳ en attente
+Slug branche : ingest-batch/paduteam-2026-w17
+
+- [ ] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
+
+---

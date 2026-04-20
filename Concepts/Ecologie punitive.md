@@ -23,7 +23,7 @@ Au lieu de planifier la transformation de l'appareil productif, l'écologie puni
 ## Exemple concret : les ZFE
 Les Zones à Faible Émission (ZFE) interdisent la circulation des vieux véhicules polluants. Pour la PaduTeam : c'est [[Condescendance de classe]]. Un ouvrier rural à 1300€/mois qui travaille à 40 km de chez lui **n'a pas le choix** de sa voiture. Sa vieille diesel n'est pas un "choix" à corriger par une incitation — c'est une nécessité matérielle produite par l'organisation capitaliste du territoire (grande distribution centralisée, services publics délocalisés, pas de transport en commun rural).
 
-Chris : "La voiture c'est pas simplement le moyen de se déplacer, c'est la taille utile." L'organisation spatiale du capitalisme (concentration de la grande distribution, absence de services locaux) rend la voiture nécessaire — et ce n'est pas une décision individuelle.
+La PaduTeam : "La voiture c'est pas simplement le moyen de se déplacer, c'est la taille utile." L'organisation spatiale du capitalisme (concentration de la grande distribution, absence de services locaux) rend la voiture nécessaire — et ce n'est pas une décision individuelle.
 
 ## La logique malthusienne
 L'écologie punitive part d'un présupposé de pénurie volontaire : "il faut moins produire". Pour la PaduTeam c'est faux : le problème n'est pas la surproduction en général, c'est la surproduction de marchandises inutiles (pour l'accumulation du capital) et la sous-production de ce qui est nécessaire (logement, soins, alimentation de qualité). La solution n'est pas de réduire mais de planifier.
@@ -38,14 +38,14 @@ Mouvement parti de l'écologie punitive (hausse de la taxe carbone sur le carbur
 
 ## La pénurie volontaire EELV vs la pénurie capitaliste
 
-Les [[Europe Ecologie Les Verts|Verts]] ajoutent une couche supplémentaire : face à la pénurie capitaliste, ils veulent une pénurie écologique volontaire ("il y en a trop, il faut moins"). Chris : leur logique est de "faire accepter la pénurie" et de dire que c'est une opportunité — moins consommer, moins produire. La PaduTeam s'y oppose : la surproduction capitaliste est une surproduction de marchandises **inutiles** (pour l'accumulation du capital) et une sous-production de ce qui est **nécessaire** (logement, alimentation de qualité, soins, transports). Le prolétariat surproduit et sous-consomme — l'objectif doit être de produire plus de ce qui répond aux besoins.
+Les [[Europe Ecologie Les Verts|Verts]] ajoutent une couche supplémentaire : face à la pénurie capitaliste, ils veulent une pénurie écologique volontaire ("il y en a trop, il faut moins"). La PaduTeam : leur logique est de "faire accepter la pénurie" et de dire que c'est une opportunité — moins consommer, moins produire. La PaduTeam s'y oppose : la surproduction capitaliste est une surproduction de marchandises **inutiles** (pour l'accumulation du capital) et une sous-production de ce qui est **nécessaire** (logement, alimentation de qualité, soins, transports). Le prolétariat surproduit et sous-consomme — l'objectif doit être de produire plus de ce qui répond aux besoins.
 
 ## Vote des crédits de guerre (2024-2025)
-Les [[Europe Ecologie Les Verts|Verts]] ont voté des crédits de guerre massifs tout en prônant l'écologie punitive. Contradiction flagrante : on ne peut pas prétendre se soucier de la planète tout en finançant l'industrie de l'armement à grande échelle. Padu : "ils vont vouloir faire de l'écologie punitive... et à côté de ça voter des crédits de guerre monstrueux."
+Les [[Europe Ecologie Les Verts|Verts]] ont voté des crédits de guerre massifs tout en prônant l'écologie punitive. Contradiction flagrante : on ne peut pas prétendre se soucier de la planète tout en finançant l'industrie de l'armement à grande échelle. La PaduTeam : "ils vont vouloir faire de l'écologie punitive... et à côté de ça voter des crédits de guerre monstrueux."
 
 ## Logistique capitaliste du territoire : pourquoi la voiture n'est pas un choix
 
-Chris développe une analyse marxiste de l'organisation spatiale :
+La PaduTeam développe une analyse marxiste de l'organisation spatiale :
 - Dans les années 50-60, la production de masse capitaliste s'est organisée autour de **grandes surfaces centralisées** (supermarché ≠ marché local diffus), nécessitant la voiture pour s'approvisionner.
 - Cette logistique s'est imposée sur tout le territoire : 15-20 km pour la grande surface la plus proche en zone rurale.
 - Le néolibéralisme depuis les années 80 a **désertifié** les espaces ruraux (plus de boulangerie, plus d'épicerie, cabinet médical qui s'installe près du supermarché pour "capter" les gens).
@@ -55,7 +55,7 @@ Référence théorique : Henri Lefebvre sur les modes de logistique capitaliste 
 
 ## Anti-matérialisme comme problème de fond
 
-L'[[Ecologie punitive]] est anti-matérialiste : elle croit que les comportements individuels (acheter une vieille diesel, ne pas acheter une voiture électrique à 18 000€) sont des "choix conscients et rationnels" qu'on peut réorienter par des incitations. C'est faux : ces comportements sont déterminés par les conditions matérielles d'existence. Chris : "Une analyse anti-matérialiste, anti-lutte des classes, et donc anti-marxiste."
+L'[[Ecologie punitive]] est anti-matérialiste : elle croit que les comportements individuels (acheter une vieille diesel, ne pas acheter une voiture électrique à 18 000€) sont des "choix conscients et rationnels" qu'on peut réorienter par des incitations. C'est faux : ces comportements sont déterminés par les conditions matérielles d'existence. La PaduTeam : "Une analyse anti-matérialiste, anti-lutte des classes, et donc anti-marxiste."
 
 ## Vidéos où le concept est développé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Développé longuement face à Tondelier, ZFE, Gilets Jaunes, organisation logistique du capitalisme

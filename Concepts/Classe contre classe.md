@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [marxisme, histoire-longue]
 aliases: [stratégie classe contre classe, classe-contre-classe]
 date created: Thursday, April 2nd 2026, 3:19:11 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/théorie #thème/marxisme #thème/histoire-longue
 
@@ -24,12 +24,12 @@ La sortie de cette stratégie se fait avec l'arrivée du fascisme et le Congrès
 2. Elle désigne une période précise (1926-1935) et un contexte précis (protéger l'URSS), pas une loi générale.
 3. Clouscard ne traite pas de "classe contre classe" dans *Les métamorphoses des classes* — c'est un concept du tout Soral.
 
-Padu : "faire croire que le 'classe contre classe' c'était une époque où le prolétariat était assez fort pour prendre le pouvoir tout seul — faut vraiment rien comprendre à l'histoire de l'Internationale communiste."
+La PaduTeam : "faire croire que le 'classe contre classe' c'était une époque où le prolétariat était assez fort pour prendre le pouvoir tout seul — faut vraiment rien comprendre à l'histoire de l'Internationale communiste."
 
 ## Lien avec la période réelle (1840-1870)
 La période souvent idéalisée comme "classe contre classe" (Marx, Commune de Paris...) est en réalité une période d'**échec des révolutions ouvrières** par faiblesse du prolétariat face aux classes intermédiaires et à la paysannerie. Ce n'était pas une période bénie de la lutte de classe — c'était une période de défaite.
 
-Padu : "nous faire croire que ça était une période bénie sur laquelle on considérait que les ouvriers pouvaient mener un travail de classe contre classe, alors que c'était une période de défaite."
+La PaduTeam : "nous faire croire que ça était une période bénie sur laquelle on considérait que les ouvriers pouvaient mener un travail de classe contre classe, alors que c'était une période de défaite."
 
 ## Vidéos où le concept est développé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Correction de l'usage soralien ; histoire du Komintern ; Dimitrov et les fronts populaires

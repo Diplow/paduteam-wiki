@@ -3,7 +3,7 @@ type: individu
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
 date created: Wednesday, April 1st 2026, 10:47:07 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:58 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme
@@ -51,9 +51,9 @@ Deux jours après l'exfiltration de [[Nicolas Maduro]], la Maison Blanche relanc
 
 Chronologie d'appareil : Trump formule la revendication dès 2019, la réitère en décembre 2024 en n'excluant pas « l'usage de la force armée », et en août 2025 le Danemark convoque un chargé d'affaires américain pour « tentatives d'ingérence » (entrisme pour fissurer les relations entre le Groenland et Copenhague). Le dossier est porté dans l'appareil par [[Caty Miller]] (conseillère politique, tweet « soon ») et son mari [[Stephen Miller]] (directeur de cabinet adjoint de la Maison Blanche).
 
-Mécanisme matériel restitué par Chris : terres rares + pétrole + gaz + nickel + sable (le Groenland fait la taille du Mexique, largement sous-estimé par les planisphères) → découplage industriel avec la Chine (complément arctique des droits de douane) → pivot géostratégique arctique (position polaire face à Russie et Chine) → accès aux ressources que le dérèglement climatique rend exploitables. Corollaire : après le Groenland viendront l'Antarctique puis la Lune et Mars ([[Elon Musk]]) dans la même logique extractive.
+Mécanisme matériel restitué par la PaduTeam : terres rares + pétrole + gaz + nickel + sable (le Groenland fait la taille du Mexique, largement sous-estimé par les planisphères) → découplage industriel avec la Chine (complément arctique des droits de douane) → pivot géostratégique arctique (position polaire face à Russie et Chine) → accès aux ressources que le dérèglement climatique rend exploitables. Corollaire : après le Groenland viendront l'Antarctique puis la Lune et Mars ([[Elon Musk]]) dans la même logique extractive.
 
-Thèse économique de Chris : « l'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable »[^groen1]. C'est le cadre général de la fin du [[Protectionnisme anachronique|protectionnisme]] (invalidation par la Cour suprême) : privé du levier tarifaire, Trump bascule sur le levier territorial. Sortie explicite du néoconservatisme — plus de « mission civilisatrice » ni de « contre le grand Satan » : « Non, nous on veut du pétrole, on veut notre sécurité »[^groen2]. C'est la [[Doctrine Monroe 2.0]] étendue à l'Arctique.
+Thèse économique de la PaduTeam : « l'économie américaine, si elle veut redevenir hégémonique, doit passer par la guerre, sinon sa chute est inévitable »[^groen1]. C'est le cadre général de la fin du [[Protectionnisme anachronique|protectionnisme]] (invalidation par la Cour suprême) : privé du levier tarifaire, Trump bascule sur le levier territorial. Sortie explicite du néoconservatisme — plus de « mission civilisatrice » ni de « contre le grand Satan » : « Non, nous on veut du pétrole, on veut notre sécurité »[^groen2]. C'est la [[Doctrine Monroe 2.0]] étendue à l'Arctique.
 
 L'épisode Groenland retourne [[OTAN|l'OTAN]] comme un gant : l'instrument « protecteur » (80% de l'addition payée par les USA) s'avère être le mécanisme de la vassalisation, qui se révèle dès que Washington revendique un territoire allié. Naïveté totale de la première ministre [[Mette Frederiksen]] qui invoque la « garantie de sécurité collective » de l'OTAN contre les USA. La PaduTeam : « le Danemark croit qu'il est encore dans les années 90 » — il « n'a pas compris le changement de phase du libéralisme avec Trump [...] On revient à du libéralisme concurrentiel, plus entre nations, mais entre empires »[^groen3].
 

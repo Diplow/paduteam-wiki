@@ -18,7 +18,7 @@ Selon la PaduTeam, l'industrie du "coach en séduction" (pick-up artistry, PUA) 
 ## Mécanisme
 
 **1. Le marché de la frustration**
-L'industrie cible des hommes en difficulté relationnelle (souvent aussi en difficulté sociale et économique) et leur vend une solution capitaliste : des techniques codifiées pour "obtenir" des femmes. La frustration n'est pas résolue — elle est exploitée commercialement. Padu sur Valek : "le gars il est passé de trucs JVC à scammer le public en se disant j'ai fait un suicide social en balançant des théories racistes, il faut maintenant que je commence à gagner ma vie avec ça."
+L'industrie cible des hommes en difficulté relationnelle (souvent aussi en difficulté sociale et économique) et leur vend une solution capitaliste : des techniques codifiées pour "obtenir" des femmes. La frustration n'est pas résolue — elle est exploitée commercialement. La PaduTeam sur Valek : "le gars il est passé de trucs JVC à scammer le public en se disant j'ai fait un suicide social en balançant des théories racistes, il faut maintenant que je commence à gagner ma vie avec ça."
 
 **2. La réification de la femme**
 Le vocabulaire du coaching en séduction traite les femmes comme des cibles à acquérir, des obstacles à surmonter, des marchandises à optimiser. Hiérarchie alpha/sigma/beta (Killian), bodycount comme critère de valeur (Alex Hitchens), "techniques de salle de bain" pour entraîner une femme à l'isolement (Fabrice Julien).

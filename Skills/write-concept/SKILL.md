@@ -6,7 +6,7 @@ description: >
   de la PaduTeam mérite sa fiche. Être ambitieux dans la création.
   Appelée par ingest-video pour chaque concept analytique identifié dans un transcript.
 date created: Sunday, April 12th 2026, 7:00:00 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 
 # Skill : Write Concept

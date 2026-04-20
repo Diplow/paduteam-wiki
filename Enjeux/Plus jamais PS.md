@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
 skill_version: write-enjeu-2026-04-19
 date created: Thursday, April 2nd 2026, 12:05:46 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/États-Unis
 # Plus jamais PS
@@ -44,7 +44,7 @@ Cas Hollande/Tulle : Hollande appelle à l'union avec LFI dans sa propre ville, 
 
 ## Extension : Roussel comme variante PCF du même problème
 
-La PaduTeam étend parfois la critique au-delà du PS pour viser toute organisation qui joue le jeu de la droite depuis la gauche. [[Fabien Roussel]] est analysé comme une variante PCF du même mécanisme : il "fait le jeu de la droite" en allant sur CNews défendre le racisme antiblanc et comparer le voile au salut nazi. Padu : "Il fait exactement le jeu de la droite — et pire, chez les pires droitards." Roussel n'est pas le PS (il n'a ni le poids électoral ni la trahison de gouvernement), mais il incarne la même logique de réassurance de l'électorat de droite depuis la gauche.
+La PaduTeam étend parfois la critique au-delà du PS pour viser toute organisation qui joue le jeu de la droite depuis la gauche. [[Fabien Roussel]] est analysé comme une variante PCF du même mécanisme : il "fait le jeu de la droite" en allant sur CNews défendre le racisme antiblanc et comparer le voile au salut nazi. La PaduTeam : "Il fait exactement le jeu de la droite — et pire, chez les pires droitards." Roussel n'est pas le PS (il n'a ni le poids électoral ni la trahison de gouvernement), mais il incarne la même logique de réassurance de l'électorat de droite depuis la gauche.
 
 La PaduTeam distingue cependant Roussel du PS : "Le PS a au moins la dignité de fermer sa gueule. On ne voit pas Faure aller sur CNews dire le racisme antiblanc."
 

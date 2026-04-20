@@ -5,7 +5,7 @@ description: >
   Gère les deux types d'entités — les templates sont proches, la logique de création/enrichissement est identique.
   Appelée par ingest-video pour chaque entité significative identifiée dans un transcript.
 date created: Sunday, April 12th 2026, 7:00:00 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 
 # Skill : Write Entity (Individus + Organisations)

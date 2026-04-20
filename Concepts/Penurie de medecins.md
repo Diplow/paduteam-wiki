@@ -33,7 +33,7 @@ Main dans la main avec des gouvernements néolibéraux soucieux de "maîtrise de
 Les effets se font sentir avec 30-40 ans de décalage (durée des études + temps d'exercice). En 2024-2025 :
 - **87% du territoire français désertifié** (manque de médecins généralistes)
 - **96% de l'Île-de-France** désertifiée — le premier désert médical est à Paris[^3]
-- Urgences en plan blanc plusieurs semaines par hiver (hôpital local de Zoé : 1,5 mois de plan blanc en 2025)
+- Urgences en plan blanc plusieurs semaines par hiver (1,5 mois de plan blanc en 2025)
 - Patients sans médecin traitant dans des proportions massives
 - 1 suicide d'interne en médecine tous les 18 jours
 

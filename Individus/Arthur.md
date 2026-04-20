@@ -24,22 +24,22 @@ Arthur aurait utilisé ses réseaux professionnels pour mettre pression sur TV5 
 
 ## Émission "À prendre ou à laisser" — domination de classe et de genre
 
-Arthur anime pendant des années l'émission *À prendre ou à laisser* sur TF1 : des candidats dans la galère financière ouvrent des boîtes (contenant entre une brosse à dents et 500 000 €). Le "plaisir" du jeu consiste à regarder des gens pauvres stresser. Padu et Zoé (qui analysent des extraits) documentent :
+Arthur anime pendant des années l'émission *À prendre ou à laisser* sur TF1 : des candidats dans la galère financière ouvrent des boîtes (contenant entre une brosse à dents et 500 000 €). Le "plaisir" du jeu consiste à regarder des gens pauvres stresser. La PaduTeam (qui analyse des extraits) documente :
 
 - **Tactilité systématique** : Arthur touche, frôle, embrasse dans le cou sans consentement, fait semblant de "fouetter" les fesses, met les mains à proximité de la poitrine. Ludivine Bantigny qualifie certains de ces gestes de "comportement systématiquement répugnant" et d'"agressions sexuelles" au sens juridique (article 226-3-1 du code pénal pour les vêtements soulevés sans consentement).
 - **Remarques sexualisantes** : "j'aime les femmes qui me résistent", commentaires sur les corps, déshabillage commenté ("j'adore que tu aies pris une taille en dessous").
-- **Sélection des candidates** : les femmes qui subissent le plus sont jeunes et dans le besoin — Padu soupçonne une sélection consciente selon la précarité financière, qui rend les candidates "plus manipulables".
+- **Sélection des candidates** : les femmes qui subissent le plus sont jeunes et dans le besoin — la PaduTeam soupçonne une sélection consciente selon la précarité financière, qui rend les candidates "plus manipulables".
 - **Normalisation** : à force, les candidates "rentrent dans le jeu" pour ne pas passer pour des "meufs relou". C'est la fonction de la normalisation du geste — faire de la protestation un problème plutôt que du geste.
 
-Arthur a déclaré publiquement que "ce qu'il faisait à l'époque ne passerait plus". Zoé : "les meufs ne vivaient pas bien à l'époque non plus — elles avaient juste pas les moyens de t'envoyer chier."
+Arthur a déclaré publiquement que "ce qu'il faisait à l'époque ne passerait plus". La PaduTeam : "les meufs ne vivaient pas bien à l'époque non plus — elles avaient juste pas les moyens de t'envoyer chier."
 
-Moment révélateur sur scène avec [[Sophia Aram]] (prix LICRA) : Arthur ne lui fait aucun bisou dans le cou, aucun geste tactile. Padu : "C'est intéressant de voir que les dominants se comportent pas pareil selon le statut social des femmes."
+Moment révélateur sur scène avec [[Sophia Aram]] (prix LICRA) : Arthur ne lui fait aucun bisou dans le cou, aucun geste tactile. La PaduTeam : "C'est intéressant de voir que les dominants se comportent pas pareil selon le statut social des femmes."
 
 ## Censure de la vidéo PaduTeam
 
-Arthur (600 M€ de fortune) utilise les droits d'auteur pour censurer la vidéo PaduTeam sur son émission : les extraits commentés (environ 3 minutes sur 1h04) sont retirés. Padu estime que l'usage rentrait dans le "fair use" mais ne veut pas risquer un strike ou un procès face à une telle fortune. La version complète reste sur Odysée. Zoé : "il ne veut pas qu'on parle, donc on continuera à parler."
+Arthur (600 M€ de fortune) utilise les droits d'auteur pour censurer la vidéo PaduTeam sur son émission : les extraits commentés (environ 3 minutes sur 1h04) sont retirés. La PaduTeam estime que l'usage rentrait dans le "fair use" mais ne veut pas risquer un strike ou un procès face à une telle fortune. La version complète reste sur Odysée. La PaduTeam : "il ne veut pas qu'on parle, donc on continuera à parler."
 
-Padu : "Ce qui est le plus hallucinant c'est que son émission est diffusée publiquement sur YouTube — vous pouvez aller voir les épisodes — mais prendre des extraits de 20 secondes pour les analyser marxistement et féministement, ça, c'est plus possible."
+La PaduTeam ajoute : "Ce qui est le plus hallucinant c'est que son émission est diffusée publiquement sur YouTube — vous pouvez aller voir les épisodes — mais prendre des extraits de 20 secondes pour les analyser marxistement et féministement, ça, c'est plus possible."
 
 ## Dans l'analyse PaduTeam
 Arthur est l'exemple de ce que la PaduTeam appelle la "vraie cancel culture" : utiliser une audience massive et des réseaux dans l'industrie pour détruire professionnellement une militante. Pas au sens d'un débat d'idées, mais d'une pression opaque sur des employeurs, combinée à une diabolisation publique. "Ce qui est dégueulasse c'est qu'il a vraiment le bras long [...] elle elle ne peut pas faire quoi."
@@ -53,11 +53,11 @@ Il est aussi l'exemple de la triple domination : domination de genre (gestes sex
 ## Prix LICRA (Macron, avril 2025)
 Macron remet à Arthur le prix Jean-Pierre Bloch de la LICRA "contre le racisme et l'antisémitisme", aux côtés de [[Sophia Aram]]. Son discours de réception : "Je reçois ce prix et je ne sais pas comment l'accepter, parce qu'en France en 2025, on récompense quelqu'un juste pour avoir dit que l'antisémitisme était inacceptable."
 
-Padu : "Le discours de Arthur fait monter l'antisémitisme parce qu'il y a une guerre des civilisations portée. Il est unilatéral, totalement aveugle sur le génocide en Palestine et encourage des politiques islamophobes." La mécanique : défendre les juifs en ciblant les musulmans et les militants pro-Palestine crée mécaniquement du ressentiment et de l'antisémitisme par amalgame. "La seule chose qui peut nous sauver de ça, c'est une critique franche de l'antisémitisme ET de l'islamophobie."
+La PaduTeam : "Le discours de Arthur fait monter l'antisémitisme parce qu'il y a une guerre des civilisations portée. Il est unilatéral, totalement aveugle sur le génocide en Palestine et encourage des politiques islamophobes." La mécanique : défendre les juifs en ciblant les musulmans et les militants pro-Palestine crée mécaniquement du ressentiment et de l'antisémitisme par amalgame. "La seule chose qui peut nous sauver de ça, c'est une critique franche de l'antisémitisme ET de l'islamophobie."
 
-Padu note cependant que la peur d'Arthur est sincère : "Je pense qu'Arthur a peur pour lui et pour ses enfants. Je peux le comprendre sincèrement. Mais son discours ne résout rien, il met de l'huile sur le feu."
+La PaduTeam note cependant que la peur d'Arthur est sincère : "Je pense qu'Arthur a peur pour lui et pour ses enfants. Je peux le comprendre sincèrement. Mais son discours ne résout rien, il met de l'huile sur le feu."
 
-Moment révélateur : sur scène avec Sophia Aram, Arthur ne lui prend pas le bras, ne lui fait pas de bisous dans le cou — contrairement à ses habitudes avec les candidates de son émission. Padu : "C'est intéressant de voir que les dominants se comportent pas pareil selon le statut social des femmes."
+Moment révélateur : sur scène avec Sophia Aram, Arthur ne lui prend pas le bras, ne lui fait pas de bisous dans le cou — contrairement à ses habitudes avec les candidates de son émission. La PaduTeam : "C'est intéressant de voir que les dominants se comportent pas pareil selon le statut social des femmes."
 
 ## Vidéos où Arthur est analysé
 - [[RIMA HASSAN PORTE PLAINTE CONTRE ARTHUR]] — Analyse complète de l'affaire Forbes

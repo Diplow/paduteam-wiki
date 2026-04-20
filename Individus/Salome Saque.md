@@ -17,9 +17,9 @@ Journaliste française, passée par [[Blast]] et [[France Inter]]. Citée par la
 Haut-droite — "neutralité" affichée qui cache un positionnement de classe (voir émission "Vive la crise" des années 80 sur France Inter pour la continuité historique). Journalisme "gentiment de gauche" qui ne remet pas en cause les rapports de production.
 
 ## Stratégie et trajectoire
-La PaduTeam a réalisé une émission avec [[Zoé]] pour critiquer son positionnement. Salomé Saqué incarne le type de journalisme qui dit "Attention, nous on est dans la neutralité, l'objectivité" tandis que "l'extrême droite nous attaque justement pour ça parce qu'il nous traite de gauche" — alors que France Inter porte bien un agenda de classe.
+La PaduTeam a réalisé une émission pour critiquer son positionnement. Salomé Saqué incarne le type de journalisme qui dit "Attention, nous on est dans la neutralité, l'objectivité" tandis que "l'extrême droite nous attaque justement pour ça parce qu'il nous traite de gauche" — alors que France Inter porte bien un agenda de classe.
 
-Selon Chris : Saqué souffre d'une "inculture politique" qui lui fait laisser dérouler un discours réformiste complaisant avec le patronat sans le contredire. Son interview avec [[Laurent Mauduit]] est qualifiée de "catastrophique" — elle légitime l'idée qu'il existe des "patrons de gauche" (Laurence Parisot présentée comme résistante à l'extrême droite), préparant selon la PaduTeam le terrain à une alliance de classe traîtresse avec le patronat.
+Selon la PaduTeam : Saqué souffre d'une "inculture politique" qui lui fait laisser dérouler un discours réformiste complaisant avec le patronat sans le contredire. Son interview avec [[Laurent Mauduit]] est qualifiée de "catastrophique" — elle légitime l'idée qu'il existe des "patrons de gauche" (Laurence Parisot présentée comme résistante à l'extrême droite), préparant selon la PaduTeam le terrain à une alliance de classe traîtresse avec le patronat.
 
 ## Relations
 - [[France Inter]] — employeur

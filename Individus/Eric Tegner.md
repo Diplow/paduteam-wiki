@@ -31,8 +31,8 @@ Plusieurs personnes ayant travaillé avec Tegner ont porté plainte ou témoign�
 La PaduTeam commente ces faits rapportés en précisant qu'ils ne font que commenter des articles de presse et que les affaires sont en cours.
 
 ## Lien avec C'est Nicolas qui paye
-Tegner est propriétaire du compte/collectif [[C'est Nicolas qui paye]], collectif antitax qui a tenté de récupérer le mouvement du 10 septembre 2024. Padu : "c'est pas le gars dont les collaboratrices disent 'je dormais dans une chambre d'hôtel et le mec est venu me toucher les pieds pendant la nuit' — voilà c'est le niveau de Saint Nicolas qui paye."
+Tegner est propriétaire du compte/collectif [[C'est Nicolas qui paye]], collectif antitax qui a tenté de récupérer le mouvement du 10 septembre 2024. La PaduTeam : "c'est pas le gars dont les collaboratrices disent 'je dormais dans une chambre d'hôtel et le mec est venu me toucher les pieds pendant la nuit' — voilà c'est le niveau de Saint Nicolas qui paye."
 
 ## Regard de la PaduTeam
 
-Zoé : "Éric s'y connaît mieux en pied qu'en mouvement de gauche." La PaduTeam utilise Tegner comme figure synthétisant l'incapacité analytique de l'extrême droite et sa violence interne envers les femmes — un personnage qui "pose des questions qui dérangent" sur l'immigration tout en étant lui-même accusé de comportements prédateurs.
+La PaduTeam : "Éric s'y connaît mieux en pied qu'en mouvement de gauche." La PaduTeam utilise Tegner comme figure synthétisant l'incapacité analytique de l'extrême droite et sa violence interne envers les femmes — un personnage qui "pose des questions qui dérangent" sur l'immigration tout en étant lui-même accusé de comportements prédateurs.

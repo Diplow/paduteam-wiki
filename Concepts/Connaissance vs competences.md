@@ -34,7 +34,7 @@ Les "compétences" ne sont pas neutres : ce sont des **compétences exploitables
 ## Exemples
 - Laurent Alexandre : "Ne faites plus d'études" — mesure la valeur de l'éducation à sa rentabilité financière
 - Les startuppers critiquent Marx à l'école sans avoir lu Marx ; veulent Bloomberg en direct plutôt que de la compta sur papier
-- Chris note l'ironie : Keynes et Schumpeter (et même Marx) sont au programme de terminale — les startuppers ne le savent pas
+- La PaduTeam note l'ironie : Keynes et Schumpeter (et même Marx) sont au programme de terminale — les startuppers ne le savent pas
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Thème central ; Padu et Chris formulent la distinction explicitement
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Thème central ; la PaduTeam formule la distinction explicitement

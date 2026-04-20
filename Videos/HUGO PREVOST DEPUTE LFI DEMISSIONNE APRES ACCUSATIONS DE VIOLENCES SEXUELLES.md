@@ -29,7 +29,7 @@ Hugo Prévost, 24 ans, député NFP/LFI en Isère (il a sorti Olivier Véran), e
 
 4. **La réponse punitiviste est insuffisante.** Référence au livre d'[[Elsa Deck Marceau]], *Faire justice — moralisme progressiste et pratique punitive dans la lutte contre les violences sexistes*, éd. La Fabrique : comment gérer les VSS en milieu militant sans réduire à la sanction individuelle ni à la protection de l'organisation.
 
-5. **Critique de la structure gazeuse de LFI.** Padu : "Sophia Chikirou peut avoir un management toxique, on n'en parle pas parce que c'est attaquer la FI. Puis le jour où ça va trop loin, on crucifie le mec. Il y a aucune pensée entre les deux." La structure LFI permet la montée de profils autoritaires parce qu'elle valorise les réseaux au détriment de l'ancrage militant local.
+5. **Critique de la structure gazeuse de LFI.** La PaduTeam : "Sophia Chikirou peut avoir un management toxique, on n'en parle pas parce que c'est attaquer la FI. Puis le jour où ça va trop loin, on crucifie le mec. Il y a aucune pensée entre les deux." La structure LFI permet la montée de profils autoritaires parce qu'elle valorise les réseaux au détriment de l'ancrage militant local.
 
 6. **Des candidatures positives existent.** À côté des erreurs de casting : [[Lyas Loufok]] (militant pour les droits des enfants, passé par l'ASE), [[Amal Bentounsi]] (fondatrice d'Urgence Notre Police Assassine), [[Sabrina Alibay]]. Ces profils sont possibles — mais leur sélection dépend de la "bonne volonté" de Mélenchon, pas d'une structure systémique.
 

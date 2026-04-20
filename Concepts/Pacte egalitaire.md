@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: []
 aliases: [pacte égalitaire, projet égalitaire, pacte social égalitaire, Pacte égalitaire]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/politique-intérieure
 # Pacte égalitaire

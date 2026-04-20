@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Députée [[France Insoumise|LFI]] de Paris. Figure du courant insoumis sur les questions de programme et de positionnement stratégique.
 
 ## Analyse PaduTeam
-Sarah Legrain est mentionnée pour avoir utilisé le terme [[Moisation|moïsation]] lors d'un débat sur [[Mediapart]]. Sur le plateau, elle défend la nécessité de maintenir un programme radical plutôt que de "mettre de l'eau dans le vin" pour convaincre les électeurs du bloc macroniste. Padu : "C'est vrai que c'est un peu l'analyse qu'on fait avec la moïsation, mais c'est l'analyse que partage aussi Jean-Luc Mélenchon." L'incident illustre que la moïsation est devenue un terme circulant dans les cercles LFI — même si son origine est la PaduTeam. La PaduTeam précise que Legrain dit peut-être "mobilisation" et non "moïsation" — ambiguïté sémantique qui crée l'épisode.
+Sarah Legrain est mentionnée pour avoir utilisé le terme [[Moisation|moïsation]] lors d'un débat sur [[Mediapart]]. Sur le plateau, elle défend la nécessité de maintenir un programme radical plutôt que de "mettre de l'eau dans le vin" pour convaincre les électeurs du bloc macroniste. La PaduTeam : "C'est vrai que c'est un peu l'analyse qu'on fait avec la moïsation, mais c'est l'analyse que partage aussi Jean-Luc Mélenchon." L'incident illustre que la moïsation est devenue un terme circulant dans les cercles LFI — même si son origine est la PaduTeam. La PaduTeam précise que Legrain dit peut-être "mobilisation" et non "moïsation" — ambiguïté sémantique qui crée l'épisode.
 
 ## Note orthographique
 Transcript automatique : "Sarah Lin", "Sarah Leograph", "Sarah le grain". Identifiée comme Sarah Legrain, députée LFI de Paris.

@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Cadre économique dominant, positionné en haut-droite dans le [[Graphique]]. C'est le système que [[Jean-Luc Melenchon]] et la [[France Insoumise]] cherchent à rompre.
 
 ## Origine historique : le [[Congres Lippmann]]
-Padu redéfinit le néolibéralisme dans une perspective historique longue : il naît avec le **[[Congres Lippmann]]** (Paris, 1938), comme réponse à l'échec du libéralisme classique après la crise de 1929. Contrairement au libéralisme (laisser-faire), le néolibéralisme utilise **la puissance étatique pour fabriquer, normer et construire du marché**. Ce n'est pas l'absence d'État — c'est un État orienté vers la performance du marché.
+La PaduTeam redéfinit le néolibéralisme dans une perspective historique longue : il naît avec le **[[Congres Lippmann]]** (Paris, 1938), comme réponse à l'échec du libéralisme classique après la crise de 1929. Contrairement au libéralisme (laisser-faire), le néolibéralisme utilise **la puissance étatique pour fabriquer, normer et construire du marché**. Ce n'est pas l'absence d'État — c'est un État orienté vers la performance du marché.
 
 Cette définition permet de requalifier le gaullisme comme forme de néolibéralisme (néolibéralisme technocratique/dirigiste) plutôt que comme alternative à lui. Le gaullisme n'est pas en rupture avec le néolibéralisme — il en est une phase. De même, l'ordo-libéralisme allemand et le welfare state américain font partie du même moment historique.
 
@@ -23,7 +23,7 @@ Cette définition permet de requalifier le gaullisme comme forme de néolibéral
 - [[Les Republicains]] dans leur version libérale classique (Madelin, Pécresse)
 
 ## Désocialisation néolibérale
-Chris définit le néolibéralisme comme un processus de désocialisation : il inverse la dynamique de [[Socialisation des moyens de production]] que le capitalisme avait mise en place. Concrètement : ubérisation, destruction du salariat, auto-entrepreneuriat, destruction des syndicats, tâcheronnage. L'exemple du faux marché de l'électricité (EDF face aux opérateurs privés) ou des cliniques privées face à l'hôpital public illustre comment le néolibéralisme biaise le marché en faveur du privé pour permettre la désocialisation.
+La PaduTeam définit le néolibéralisme comme un processus de désocialisation : il inverse la dynamique de [[Socialisation des moyens de production]] que le capitalisme avait mise en place. Concrètement : ubérisation, destruction du salariat, auto-entrepreneuriat, destruction des syndicats, tâcheronnage. L'exemple du faux marché de l'électricité (EDF face aux opérateurs privés) ou des cliniques privées face à l'hôpital public illustre comment le néolibéralisme biaise le marché en faveur du privé pour permettre la désocialisation.
 
 ## Retour au [[Salariat archaique]]
 Le néolibéralisme détruit le salariat organisé, syndicalisé, collectivisé — fruit de conquêtes ouvrières — pour revenir au "tâcheronnage" d'avant les conquêtes sociales. Les livreurs Uber en sont l'exemple emblématique : ils arrivent avec leur équipement, demandent combien d'heures ils peuvent faire, et n'ont aucun droit. Le statut d'auto-entrepreneur sert de véhicule juridique à cette régression, masquant un rapport de subordination réel sous une apparence d'indépendance.

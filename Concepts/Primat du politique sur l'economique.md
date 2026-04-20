@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Primat du politique sur l'économique
 
 ## Définition
-Principe marxiste selon lequel la sphère politique doit diriger et subordonner la sphère économique — contrairement au capitalisme bourgeois où ces deux sphères sont formellement séparées. Pour la PaduTeam (surtout Chris), c'est le critère qui distingue la Chine d'un pays capitaliste classique : en Chine, le Parti communiste contrôle les acteurs économiques. Il faut que le monde s'adapte à ça.
+Principe marxiste selon lequel la sphère politique doit diriger et subordonner la sphère économique — contrairement au capitalisme bourgeois où ces deux sphères sont formellement séparées. Pour la PaduTeam, c'est le critère qui distingue la Chine d'un pays capitaliste classique : en Chine, le Parti communiste contrôle les acteurs économiques. Il faut que le monde s'adapte à ça.
 
 ## Mécanisme
 - Marx : le fond du monde capitaliste bourgeois = séparation de la sphère politique et économique
@@ -36,4 +36,4 @@ Financer les besoins réels par la production monétaire (voir [[Theorie moderne
 [[Theorie moderne de la monnaie]], [[Grande bifurcation]], [[Vassalisation de la France]], [[Atlantisme]]
 
 ## Vidéos où le concept est développé
-- [[BARDELLA S'APLATIT DEVANT TRUMP]] — Chris développe le principe en opposition au programme économique de Bardella
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — la PaduTeam développe le principe en opposition au programme économique de Bardella

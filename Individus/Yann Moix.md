@@ -23,24 +23,24 @@ En décembre 2023, Complément d'enquête diffuse des images de Moix accompagnan
 - Depardieu avançant vers la traductrice, la collant contre le mur, multipliant les contacts non sollicités
 - Moix qui savait et n'a pas dit
 
-La défense de Moix via son avocat Jérémy Assous : "c'est une œuvre de fiction, ils surjouent". Padu et Zoé demolissent l'argument : la traductrice nord-coréenne avait-elle eu le scénario en main ? Le truc de dire "c'est de la fiction" dès qu'on est dans la sauce, c'est la même défense que le forum où Bodo écrivait des trucs misogynes ("c'est mon personnage, une œuvre d'art").
+La défense de Moix via son avocat Jérémy Assous : "c'est une œuvre de fiction, ils surjouent". La PaduTeam démolit l'argument : la traductrice nord-coréenne avait-elle eu le scénario en main ? Le truc de dire "c'est de la fiction" dès qu'on est dans la sauce, c'est la même défense que le forum où Bodo écrivait des trucs misogynes ("c'est mon personnage, une œuvre d'art").
 
 ## Trajectoire problématique
 
 - Propos antisémites dans une publication d'extrême droite — présentés comme "personnage" éditorial
-- Déclaration que son "type de femme" est les très jeunes femmes asiatiques (moins de 25 ans, lui plus de 50) — fétichisme analysé par Zoé comme signifiant une recherche d'emprise, pas d'attraction
+- Déclaration que son "type de femme" est les très jeunes femmes asiatiques (moins de 25 ans, lui plus de 50) — fétichisme analysé par la PaduTeam comme signifiant une recherche d'emprise, pas d'attraction
 - Présence durable sur les plateaux malgré tout ça — "il bouffe à tous les râteliers, il a le bras long dans le showbiz"
 
 ## Dans l'analyse PaduTeam
 
 Moix illustre un mécanisme spécifique : l'homme de médias qui accompagne, documente, et finalement légitime la violence, tout en cultivant une image de témoin critique. Son maintien "sur tous les plateaux" alors que son rapport aux femmes est clairement fétichiste et que sa complaisance avec Depardieu est documentée démontre que les réseaux du showbiz protègent leurs membres.
 
-Padu : "Comment ça se fait qu'il soit pas autant dans la sauce que Depardieu ? Je veux dire, le mec va le filmer, il est hyper problématique depuis 30 ans, et il arrive à faire croire que non mais c'est juste pour le côté artistique."
+La PaduTeam : "Comment ça se fait qu'il soit pas autant dans la sauce que Depardieu ? Je veux dire, le mec va le filmer, il est hyper problématique depuis 30 ans, et il arrive à faire croire que non mais c'est juste pour le côté artistique."
 
 ## Relations
 
 - [[Gerard Depardieu]] — l'a accompagné et filmé en Corée du Nord, complice documenté de ses comportements
-- [[Dr Zoe]] — analyse son fétichisme et sa complaisance
+- [[La Breche]] — analyse son fétichisme et sa complaisance
 
 ## Vidéos où Yann Moix est analysé
 

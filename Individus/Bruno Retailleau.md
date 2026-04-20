@@ -18,7 +18,7 @@ Espace classique Pécresse/Sarkozy — droite système. Renforcé par l'apport B
 ## Ascension à la tête de LR
 
 ### Le parallèle Sarkozy 2005-2007
-Chris compare Retailleau à [[Nicolas Sarkozy]] ministre de l'intérieur de Chirac en 2005. Comme Sarkozy, il est dans le dispositif gouvernemental (gouvernement Barnier puis Bayrou) tout en paraissant oppositionnel. Il a compris la [[Moisation|moïsation]] : pour profiter de la fin du macronisme, il faut partir de l'intérieur du pouvoir. Paradoxalement, Wauquiez — resté en dehors du gouvernement — paraissait plus macroniste que Retailleau qui y participait.
+La PaduTeam compare Retailleau à [[Nicolas Sarkozy]] ministre de l'intérieur de Chirac en 2005. Comme Sarkozy, il est dans le dispositif gouvernemental (gouvernement Barnier puis Bayrou) tout en paraissant oppositionnel. Il a compris la [[Moisation|moïsation]] : pour profiter de la fin du macronisme, il faut partir de l'intérieur du pouvoir. Paradoxalement, Wauquiez — resté en dehors du gouvernement — paraissait plus macroniste que Retailleau qui y participait.
 
 ### Victoire sur Wauquiez
 76% contre 25%. Les adhérents LR ont préféré "l'original à la copie" : Retailleau déjà installé dans une posture d'extrême droite plutôt que Wauquiez essayant tardivement de se radicaliser. La marque Retailleau est celle d'un homme indépendant du macronisme, dans la sphère RN plutôt que dans la sphère Macron.
@@ -53,13 +53,13 @@ Scénario si Wauquiez gagne quand même le congrès : s'effondre dans les sondag
 Présent à la soirée des Jeunes Républicains en décembre 2024 pour soutenir l'engagement politique de [[Louis Sarkozy]]. Cité ironiquement par la PaduTeam comme faisant partie de la "fine équipe" qui l'adoube — avec [[David Lisnard]] et [[Florence Portelli]].
 
 ## Loi sur le hijab sportif et sorties scolaires
-Mentionné dans [[FROM TROTSKISTE TO RACISTE]] : Retailleau porte une loi interdisant aux femmes musulmanes de couvrir leurs cheveux pendant des compétitions sportives. Dans [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]], Padu cite qu'il veut aussi "interdire aux femmes voilées les sorties scolaires" — empêcher une maman voilée d'accompagner son enfant à la piscine ou en sortie scolaire. Zoé le classe dans la "deuxième matrice de l'islamophobie" (laïcité culturaliste) : imposer une tenue, c'est adopter la même posture que l'État iranien qui impose le voile — c'est l'État qui décide comment les femmes doivent s'habiller.
+Mentionné dans [[FROM TROTSKISTE TO RACISTE]] : Retailleau porte une loi interdisant aux femmes musulmanes de couvrir leurs cheveux pendant des compétitions sportives. Dans [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]], la PaduTeam cite qu'il veut aussi "interdire aux femmes voilées les sorties scolaires" — empêcher une maman voilée d'accompagner son enfant à la piscine ou en sortie scolaire. La PaduTeam le classe dans la "deuxième matrice de l'islamophobie" (laïcité culturaliste) : imposer une tenue, c'est adopter la même posture que l'État iranien qui impose le voile — c'est l'État qui décide comment les femmes doivent s'habiller.
 
 ## Scénario post-condamnation Le Pen (mars 2026)
 
 La condamnation de [[Marine Le Pen]] ouvre le scénario que la PaduTeam qualifie de "pire configuration pour la gauche" : un Retailleau candidat porté par une alliance avec [[Jordan Bardella]] et tout l'électorat du bloc raciste consolidé.
 
-Padu : "Une présidentielle anticipée avec un Retailleau candidat du bloc bourgeois un peu à la Fillon 2017 [...] face à un Bardella... moi je donne pas cher de la peau de Bardella." Et si Retailleau gagne : "Entre un Retailleau président et Marine Le Pen présidente, la bourgeoisie fait son choix tout de suite."
+La PaduTeam : "Une présidentielle anticipée avec un Retailleau candidat du bloc bourgeois un peu à la Fillon 2017 [...] face à un Bardella... moi je donne pas cher de la peau de Bardella." Et si Retailleau gagne : "Entre un Retailleau président et Marine Le Pen présidente, la bourgeoisie fait son choix tout de suite."
 
 Scénario long terme : si Retailleau arrive au pouvoir avec une ligne libérale-raciste + réindustrialisation pseudo-souverainiste, il peut refonder une droite stable. Risque à 10 ans : une recomposition non pas "eux vs nous" (Mélenchon) mais "républicains vs trumpisme" (Retailleau vs Glucksmann), réplication du schéma américain Démocrates/Républicains.
 
@@ -73,7 +73,7 @@ Quelques jours après le meurtre d'Abouakar (tué parce que musulman), Retaillea
 
 Cem Yoldas (Jeune Garde) décrit le lien entre Retailleau et l'extrême droite violente : [[Collectif Nemesis|Némésis]], groupe identitaire qui a attaqué des manifestations du 8 mars et du 22 novembre, a ses entrées au ministère via sa porte-parole Alice Cordier. C'est elle qui a initié la campagne de dissolution auprès de Retailleau.
 
-Padu et Yoldas établissent la trajectoire : libéralisme autoritaire → extrême droitisation assumée. "On est vraiment sur une pente glissante."
+La PaduTeam et Yoldas établissent la trajectoire : libéralisme autoritaire → extrême droitisation assumée. "On est vraiment sur une pente glissante."
 
 ## Vidéos où Retailleau est analysé
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel

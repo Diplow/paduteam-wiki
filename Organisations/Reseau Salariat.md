@@ -16,7 +16,7 @@ Non précisée.
 ## Dynamique
 Structure fondée par [[Bernard Friot]] autour de son concept de "sécurité-emploi-formation" (SEF). C'est une organisation intellectuelle et militante distincte du [[Parti Communiste Francais|PCF]] — Friot n'a pas de pouvoir interne au PCF, pas de tendance, pas d'appareil. Il est un intellectuel influent mais sans prise institutionnelle.
 
-Chris : "Friot est extrêmement intéressant mais il n'a pas de pouvoir en réalité dans le PCF. Il a une structure annexe. C'est pas quelqu'un qui a une ligne et qui a un appareil derrière lui."
+La PaduTeam : "Friot est extrêmement intéressant mais il n'a pas de pouvoir en réalité dans le PCF. Il a une structure annexe. C'est pas quelqu'un qui a une ligne et qui a un appareil derrière lui."
 
 Distinction importante : le Réseau Salariat produit des propositions de transformation du mode de production (cotisation salariale, qualification, grille Parodi, etc.) qui intéressent la gauche de rupture — mais sans l'implantation militante nécessaire pour peser dans le rapport de forces réel.
 

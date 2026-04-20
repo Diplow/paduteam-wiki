@@ -13,7 +13,7 @@ skill_version: ingest-batch-2026-04-13
 ## Position dans l'analyse PaduTeam
 Institution juridique internationale basée à La Haye, chargée de poursuivre les crimes contre l'humanité, les crimes de guerre et les génocides. Pour la PaduTeam, la CPI est mobilisée à double titre :
 
-1. **Comme autorité juridique légitime** — le seul lieu où [[Benjamin Netanyahu]] devrait être interrogé, selon la formule de Chris : « il n'y a qu'un seul endroit au monde où il faut interroger monsieur Benjamin Netanyahu, c'est dans la salle d'un tribunal pénal international pour qu'il réponde de ses crimes ».
+1. **Comme autorité juridique légitime** — le seul lieu où [[Benjamin Netanyahu]] devrait être interrogé, selon la formule de la PaduTeam : « il n'y a qu'un seul endroit au monde où il faut interroger monsieur Benjamin Netanyahu, c'est dans la salle d'un tribunal pénal international pour qu'il réponde de ses crimes ».
 
 2. **Comme illustration de l'[[Impunite absolue]]** — la CPI a émis des mandats d'arrêt contre Netanyahu et Yoav Gallant, mais aucun État occidental ne les exécute. La France laisse son espace aérien ouvert à Netanyahu. TF1 le platforme en prime time. Les mandats existent sur papier mais n'ont aucun effet concret.
 

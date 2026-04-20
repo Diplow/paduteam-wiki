@@ -7,7 +7,7 @@ enjeux: [plus-jamais-PS, union-populaire, anti-impérialisme]
 date: 2025-11-06
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire #enjeu/anti-impérialisme
 
@@ -15,7 +15,6 @@ date modified: Sunday, April 19th 2026, 9:00:00 pm
 
 # MAMDANI A GAUCHE DE MELENCHON
 
-**Avec** : [[Padu]], [[Chris]]
 **Date** : 5-6 novembre 2025 (lendemain de la victoire Mamdani)
 
 ## Résumé
@@ -95,26 +94,26 @@ C'est la leçon stratégique centrale : avoir le bon programme ne suffit pas, il
 
 ### 6. Le risque de droitisation au pouvoir — l'analogie Front Populaire 1936
 
-La PaduTeam pose la question à Chris : Mamdani va-t-il vraiment mettre en place une politique de rupture, ou va-t-il se droitiser une fois au pouvoir ? Chris reconnaît qu'en fin de campagne, Mamdani a « donné un peu de lest » et « recentré » un peu sur Israël — sous pression colossale, le pays étant « le plus soutien d'Israël, le plus impérialiste » — mais crucialement, « il n'a pas commencé à revenir sur ses propositions »[^9]. Ne pas céder sur le *programme* même quand on ajuste le *discours* est la ligne à tenir.
+La PaduTeam se pose la question : Mamdani va-t-il vraiment mettre en place une politique de rupture, ou va-t-il se droitiser une fois au pouvoir ? La PaduTeam reconnaît qu'en fin de campagne, Mamdani a « donné un peu de lest » et « recentré » un peu sur Israël — sous pression colossale, le pays étant « le plus soutien d'Israël, le plus impérialiste » — mais crucialement, « il n'a pas commencé à revenir sur ses propositions »[^9]. Ne pas céder sur le *programme* même quand on ajuste le *discours* est la ligne à tenir.
 
 **Le vrai risque**, c'est le post-élection : « il n'y a pas d'assentiment de masse populaire derrière Mamdani, derrière DSA, derrière les votes démocrates [...] pas appuyés par des syndicats massifs, ni par des partis de masse comme on l'a dit »[^10]. Sans cette base, l'élu seul cède sous les pressions du capital.
 
-**L'analogie stratégique** : le Front Populaire de juin 1936. Padu rappelle que « les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36 — ce sont les grèves de juin 36 qui les imposent »[^11]. Le programme n'est un levier que si la rue maintient la pression *après* la victoire électorale. Les 20 millions dépensés pour empêcher Mamdani (campagne adverse) seront « 10 ou 15 fois plus » une fois au pouvoir[^11]. Sans grève, sans manifestation, sans blocage, Mamdani sera contenu — *ce qui ne signifie pas que Mamdani n'en avait pas l'intention, simplement que le rapport de forces ne lui permettra pas*.
+**L'analogie stratégique** : le Front Populaire de juin 1936. La PaduTeam rappelle que « les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36 — ce sont les grèves de juin 36 qui les imposent »[^11]. Le programme n'est un levier que si la rue maintient la pression *après* la victoire électorale. Les 20 millions dépensés pour empêcher Mamdani (campagne adverse) seront « 10 ou 15 fois plus » une fois au pouvoir[^11]. Sans grève, sans manifestation, sans blocage, Mamdani sera contenu — *ce qui ne signifie pas que Mamdani n'en avait pas l'intention, simplement que le rapport de forces ne lui permettra pas*.
 
 ### 7. La bataille culturelle inversée — l'extrême droite fait campagne pour Mamdani en le citant
 
 Séquence d'énumérations par les droites française et libertarienne, lues par la PaduTeam avec délectation :
 - **[[Marion Marechal]]** : « 24 ans après le 11 septembre, il vient d'être élu maire de New York avec le programme de ruine économique que celui de la France Insoumise. La métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert. »[^12]
-- **Céline Pina** : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra. »[^13]. Visuel tweeté : World Trade Center 2001 / Zohran Mamdani 2025, slogan « we forgot ». Padu : « elle veut se présenter au championnat du monde du racisme. »[^13]
+- **Céline Pina** : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra. »[^13]. Visuel tweeté : World Trade Center 2001 / Zohran Mamdani 2025, slogan « we forgot ». La PaduTeam : « elle veut se présenter au championnat du monde du racisme. »[^13]
 - **Parti Miléiste français** (compte Twitter libertarien) énumère le programme Mamdani : impôt sur les ultra-riches, crèches, bus, épiceries municipales à prix coûtant, doublement du SMIC, logements sociaux, réforme de la police — conclusion : « la recette parfaite d'un désastre annoncé »[^14].
 
-**Mécanisme** formulé par Chris[^15] : en « énumérant le programme » pour dire « c'est très grave, ils sont fous », la droite et l'extrême droite font exactement ce que la gauche « molle » a fait à l'envers pour elles depuis vingt ans (« oui il faut contrôler les frontières, oui il faut contrôler les immigrés »). À l'époque, ça a fait monter l'extrême droite en légitimant son vocabulaire. **Ici, ça fait monter la gauche** en validant son programme auprès d'un public qui commence à se dire « en fait ce n'est pas si mal, vu la crise ». La droite est en panique *et* travaille contre elle-même.
+**Mécanisme** formulé par la PaduTeam[^15] : en « énumérant le programme » pour dire « c'est très grave, ils sont fous », la droite et l'extrême droite font exactement ce que la gauche « molle » a fait à l'envers pour elles depuis vingt ans (« oui il faut contrôler les frontières, oui il faut contrôler les immigrés »). À l'époque, ça a fait monter l'extrême droite en légitimant son vocabulaire. **Ici, ça fait monter la gauche** en validant son programme auprès d'un public qui commence à se dire « en fait ce n'est pas si mal, vu la crise ». La droite est en panique *et* travaille contre elle-même.
 
 ### 8. La récupération PS par Faure — la « danse du ventre au centre »
 
 Séquence Olivier Faure[^16], démontée phrase par phrase :
-- Faure sur Mamdani : « il suffit de regarder son programme [...] il se revendique socialiste » — Padu : « Lénine aussi était au Parti socialiste démocrate ouvrier de Russie. Je suis pas sûr que ça fonctionne quoi. »[^16]
-- Faure : « il veut faire le blocage des loyers dans une zone tendue » — Padu : « Ça vous rappelle rien ? C'est sous François Hollande que ça s'est passé. On est classé François Hollande à l'extrême gauche. »[^16]
+- Faure sur Mamdani : « il suffit de regarder son programme [...] il se revendique socialiste » — La PaduTeam : « Lénine aussi était au Parti socialiste démocrate ouvrier de Russie. Je suis pas sûr que ça fonctionne quoi. »[^16]
+- Faure : « il veut faire le blocage des loyers dans une zone tendue » — La PaduTeam : « Ça vous rappelle rien ? C'est sous François Hollande que ça s'est passé. On est classé François Hollande à l'extrême gauche. »[^16]
 - Faure : « il veut des services publics qui fonctionnent [...] regardez en France quelles sont les villes [...] ce sont toutes des communes socialistes. »[^16]
 
 Formulation PaduTeam[^17] de la bataille à mener : « Ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme *plus à gauche* que le NFP. Dites : le NFP était un programme de consensus avec des socialistes qui sont très à droite — vous, vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris. C'est le programme DSA, c'est qu'ils sont inclus là-dedans. »

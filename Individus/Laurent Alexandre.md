@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [travail, médias-propagande]
 aliases: [Dr Laurent Alexandre, Laurent Alexandre chirurgien]
 date created: Thursday, April 2nd 2026, 12:51:30 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:57 pm
 ---
 #domaine/société #thème/travail #thème/médias-propagande
 

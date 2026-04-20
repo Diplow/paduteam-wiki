@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Critique du concept bourgeois de "liberté" : tout discours sur la liberté qui ne nomme pas les rapports de domination existants est en réalité un plaidoyer pour la liberté des dominants de continuer à dominer sans entrave. La liberté abstraite, non-située, non-matérialiste sert toujours les intérêts de ceux qui ont déjà le pouvoir.
 
 ## Formulation PaduTeam
-Zoé : "Toute personne qui te parle de liberté sans te parler des rapports de domination, c'est quelqu'un qui veut la liberté des dominants de dominer tranquille. 100 % du temps."
+La PaduTeam : "Toute personne qui te parle de liberté sans te parler des rapports de domination, c'est quelqu'un qui veut la liberté des dominants de dominer tranquille. 100 % du temps."
 
 C'est "la liberté, c'est vraiment le concept mobilisé par des énormes droitards pour justifier toutes les oppressions."
 
@@ -32,7 +32,7 @@ Quand un dominant parle de liberté :
 - Libertarianisme économique : pas de sécu, pas de chômage = "liberté" des patrons, précarité des travailleurs
 
 ## Distinction importante
-La liberté situated (Zoé) : vraie liberté = contrôle des naissances (contraception, IVG), qui permet aux femmes de ne pas subir 20 grossesses en 20 ans. C'est une liberté émancipatrice parce qu'elle libère concrètement les dominé·es, pas les dominants.
+La liberté situated : vraie liberté = contrôle des naissances (contraception, IVG), qui permet aux femmes de ne pas subir 20 grossesses en 20 ans. C'est une liberté émancipatrice parce qu'elle libère concrètement les dominé·es, pas les dominants.
 
 ## Vidéos où le concept est développé
-- [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — formulation explicite par Zoé à propos du masculinisme et de la "liberté sexuelle"
+- [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — formulation explicite à propos du masculinisme et de la "liberté sexuelle"

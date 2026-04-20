@@ -26,4 +26,4 @@ Chaque PCS n'est pas un bloc homogène. À l'intérieur d'un même rond :
 - L'antiracisme est **incontournable** dans les classes populaires, inutile dans les classes dominantes blanches où le clivage racial n'existe pas.
 
 ## Développements annoncés
-Chris annonce l'ajout de "sélecteurs de dimension tierce" dans le graphique : des filtres permettant de colorer les ronds par proportion genrée ou racisée, visualisant ainsi ces dimensions s
+La PaduTeam annonce l'ajout de "sélecteurs de dimension tierce" dans le graphique : des filtres permettant de colorer les ronds par proportion genrée ou racisée, visualisant ainsi ces dimensions s

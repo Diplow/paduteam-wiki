@@ -20,9 +20,9 @@ La PaduTeam démonte cet argument :
 2. **Dati n'est pas "Hitler qui défile sur les Champs-Élysées"** — la mairie PS a viré des mineurs isolés de la cité lyrique, n'a rien fait pour les migrants pendant les JO. C'est le centre contre le centre-droit, pas la démocratie contre le fascisme.
 3. **LFI perd des conseillers municipaux** à cause de ces stratégies — si Chikirou avait passé les 10%, ça doublait les conseillers.
 
-Padu : "Force à Sophia et bravo à toutes ces équipes pour ce qu'ils ont fait, de se maintenir au second tour malgré la lâcheté de tous ces gens-là."
+La PaduTeam : "Force à Sophia et bravo à toutes ces équipes pour ce qu'ils ont fait, de se maintenir au second tour malgré la lâcheté de tous ces gens-là."
 
-La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des municipales" par Padu.
+La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des municipales" par la PaduTeam.
 
 ## Relations
 - [[Emmanuel Gregoire]] — adversaire PS à Paris

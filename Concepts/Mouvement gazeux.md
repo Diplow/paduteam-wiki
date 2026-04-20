@@ -31,17 +31,17 @@ La Brèche et le projet de fédération qu'elle porte sont explicitement conçus
 
 ## Le PTB comme anti-modèle de mouvement gazeux
 
-[[PTB|Le PTB]] belge est présenté comme la preuve que le "mouvement non gazeux" est possible à gauche. Il a atteint 20% en Belgique avec une structuration locale sérieuse : permanents, locaux, implantation dans les milieux syndicaux. Chris : "Si demain [[Raoul Hedebouw]] nous quitte, je suis sûr que le PTB fera toujours 20%. Je suis pas persuadé de la même chose pour la France insoumise."
+[[PTB|Le PTB]] belge est présenté comme la preuve que le "mouvement non gazeux" est possible à gauche. Il a atteint 20% en Belgique avec une structuration locale sérieuse : permanents, locaux, implantation dans les milieux syndicaux. La PaduTeam : "Si demain [[Raoul Hedebouw]] nous quitte, je suis sûr que le PTB fera toujours 20%. Je suis pas persuadé de la même chose pour la France insoumise."
 
 Le critère de solidité d'un parti : est-ce qu'il survivrait au départ de son leader ? La FI est identifiée à Mélenchon — question ouverte après 2032. Le PTB est identifié à une structure — plus robuste.
 
 ## Financement public comme cause de la gazéification
 
-Chris avance une hypothèse institutionnelle : le financement public des partis (depuis les lois des années 80-90) a rendu inutile l'implantation locale. Un bon score électorale financé directement l'appareil central — plus besoin de vendre des cartes, d'avoir des locaux, de former des militants. "Les trois grands partis présidentiels sont des partis sans militants, sans action de terrain : LREM, le RN et la FI." Tous financés par leurs scores, tous gazeux.
+La PaduTeam avance une hypothèse institutionnelle : le financement public des partis (depuis les lois des années 80-90) a rendu inutile l'implantation locale. Un bon score électorale financé directement l'appareil central — plus besoin de vendre des cartes, d'avoir des locaux, de former des militants. "Les trois grands partis présidentiels sont des partis sans militants, sans action de terrain : LREM, le RN et la FI." Tous financés par leurs scores, tous gazeux.
 
 ## La FI n'est pas "jeune" — c'est un choix stratégique
 
-Contre l'argument "la FI est un mouvement jeune, ça viendra", Chris répond : le PG/FI a 16 ans (depuis le congrès de l'Imbre Brevan de 2009). Le PCF en 1936, 16 ans après le Congrès de Tours (1920), avait une implantation incomparable. "Ce sont des choix stratégiques, pas une question de jeunesse."
+Contre l'argument "la FI est un mouvement jeune, ça viendra", la PaduTeam répond : le PG/FI a 16 ans (depuis le congrès de l'Imbre Brevan de 2009). Le PCF en 1936, 16 ans après le Congrès de Tours (1920), avait une implantation incomparable. "Ce sont des choix stratégiques, pas une question de jeunesse."
 
 ## Que faire concrètement : les pistes de Stathis (2024)
 

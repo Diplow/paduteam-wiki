@@ -26,7 +26,7 @@ Helydia publie le 17 octobre 2024 un communiqué annonçant sa plainte contre Fu
 
 ## La contre-attaque : vidéo de 50 minutes
 
-Quelques jours après, Fugu publie une vidéo de 50 minutes (3 millions de vues) intitulée "Mon histoire — violence conjugale, jalousie maladive, chantage sexuel, mensonge et manipulation". Zoé analyse cette vidéo comme un cas d'école du playbook masculin :
+Quelques jours après, Fugu publie une vidéo de 50 minutes (3 millions de vues) intitulée "Mon histoire — violence conjugale, jalousie maladive, chantage sexuel, mensonge et manipulation". La PaduTeam analyse cette vidéo comme un cas d'école du playbook masculin :
 
 1. **Exposition de l'intimité** : vocaux de 1h20 d'Helydia, messages révélant sa santé mentale ("je suis en dépression, je peux plus me toucher"), conversations privées avec des amies — éléments que seule lui possède, pas elle.
 2. **Organisation de l'isolement** : rapporte des "paroles négatives" d'Helydia sur sa mère, ses amies streamers, d'autres personnes proches. Mécanisme : faire en sorte que les réseaux d'Helydia se retournent contre elle.
@@ -35,7 +35,7 @@ Quelques jours après, Fugu publie une vidéo de 50 minutes (3 millions de vues)
 5. **Chaud-froid** : "Tu as beaucoup de défauts mais je t'aurais mariée sans problème si tu étais moins chiante." Techniques classiques de manipulation : rabaisser puis valoriser pour maintenir l'emprise.
 6. **Mise en scène de la spontanéité** : filmé dans sa voiture "comme ça", mais la vidéo est montée avec énormément de captures d'écran — le montage était soigné.
 
-Zoé : "Moi, quand je regarde ça, j'ai des drapeaux rouges qui se lèvent à peu près toutes les 30 secondes. Et je suis toujours aussi choquée de voir à quel point ça marche comme discours."
+La PaduTeam : "Moi, quand je regarde ça, j'ai des drapeaux rouges qui se lèvent à peu près toutes les 30 secondes. Et je suis toujours aussi choquée de voir à quel point ça marche comme discours."
 
 ## L'effet de masse
 
@@ -48,8 +48,7 @@ L'affaire Helydiafugu n'est pas une dispute de couple — c'est la démonstratio
 ## Relations
 
 - [[Helydia]] — son ex-compagne, a porté plainte contre lui
-- [[Dr Zoe]] — analyse sa stratégie de défense en détail
-- [[Chris]] — co-analyse avec Zoé
+- [[La Breche]] — analyse sa stratégie de défense en détail
 
 ## Vidéos où Fugu est analysé
 

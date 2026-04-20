@@ -15,7 +15,7 @@ Leader du MoDem, centriste historique. Candidat à la présidentielle en 2007 (~
 
 ## Municipales 2026 : défaite à Pau
 
-Bayrou perd à Pau face à une liste PS+gauche. Analyse PaduTeam : ironique — c'est ici l'union des gauches qui fait gagner contre le centre. Chris : "On voit le centre qui disparaît progressivement, et là l'incarnation, bah c'est cet ancien premier ministre François Bayrou du centre qui a fait n'importe quoi, au profit du PS." Ces anciens électeurs centristes trovuent que "un PS qui se républicanise et qui tape sur Mélenchon et la FI, c'est un super débouché politique."
+Bayrou perd à Pau face à une liste PS+gauche. Analyse PaduTeam : ironique — c'est ici l'union des gauches qui fait gagner contre le centre. La PaduTeam : "On voit le centre qui disparaît progressivement, et là l'incarnation, bah c'est cet ancien premier ministre François Bayrou du centre qui a fait n'importe quoi, au profit du PS." Ces anciens électeurs centristes trovuent que "un PS qui se républicanise et qui tape sur Mélenchon et la FI, c'est un super débouché politique."
 
 ## Censure du 10 septembre 2025
 
@@ -27,7 +27,7 @@ Bayrou a lui-même dit avoir "5% de chances" de s'en sortir. Selon le [[Graphiqu
 
 ## Bayrou comme [[Medvedevron]] de Macron (juillet 2025)
 
-Chris et Padu développent la thèse que Bayrou est le [[Medvedevron]] parfait de [[Emmanuel Macron]] : plus vieux (ne se représentera pas), pas de charisme menaçant, convaincu d'avoir "un destin avec la France" (le rend corvéable à merci), et contrairement à [[Gabriel Attal]], incapable de "trahir" Macron.
+La PaduTeam développe la thèse que Bayrou est le [[Medvedevron]] parfait de [[Emmanuel Macron]] : plus vieux (ne se représentera pas), pas de charisme menaçant, convaincu d'avoir "un destin avec la France" (le rend corvéable à merci), et contrairement à [[Gabriel Attal]], incapable de "trahir" Macron.
 
 Bayrou incarne depuis 2007 la prophétie du centre mais n'a jamais réussi à l'accomplir. Macron l'a accomplie à sa place. Bayrou a "fait le faiseur de roi" en 2017 (il ne s'est pas présenté, a soutenu Macron), ce qui lui a valu d'être recyclé comme premier ministre décennie plus tard.
 
@@ -43,9 +43,9 @@ Timeline des alertes ignorées par Bayrou :
 - **2000** : la journaliste Dominique Conil publie une enquête mentionnant que des parents ont écrit à Bayrou sans réponse.
 - **2024** : Bayrou jure au Parisien qu'il "ignorait tout". Démenti par archives, témoignages et sa propre rencontre avec le juge.
 
-Padu : "Il était pas au courant le gars, il avait oublié qu'il était allé rencontrer le juge en charge de l'enquête."
+La PaduTeam : "Il était pas au courant le gars, il avait oublié qu'il était allé rencontrer le juge en charge de l'enquête."
 
-Zoé ne l'accuse pas directement de pédocriminalité, mais formule une thèse de complicité passive : "par le fait d'aller rencontrer le juge, de recevoir plein de signalements et de ne rien faire et de venir 30 ans après dire 'moi je suis pas au courant' — il y a une forme de complicité là-dedans."
+La PaduTeam ne l'accuse pas directement de pédocriminalité, mais formule une thèse de complicité passive : "par le fait d'aller rencontrer le juge, de recevoir plein de signalements et de ne rien faire et de venir 30 ans après dire 'moi je suis pas au courant' — il y a une forme de complicité là-dedans."
 
 ## Vidéos où l'individu est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Référence historique au Graphique 2012

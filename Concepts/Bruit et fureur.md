@@ -17,9 +17,9 @@ Expression utilisée par [[Jean-Luc Melenchon|Mélenchon]] lui-même (et reprise
 Face à une presse majoritairement hostile et à des médias Boloré qui cherchent à ignorer ou caricaturer la gauche radicale, Mélenchon choisit de générer du bruit pour exister dans l'espace médiatique. L'objectif est d'imposer ses thèmes et de parler directement à son électorat malgré le filtre médiatique.
 
 ## Analyse PaduTeam
-Padu rejette la comparaison Mélenchon=Trump : "Quand on est dans un parti communiste on est dans une forme de radicalité. Lénine, Maurice Thorez — ils pouvaient paraître violent dans leurs discours." La radicalité dans la communication correspond à la radicalité du programme. Utiliser une forme douce (codes bourgeois de la respectabilité) avec un programme radical crée une dissonance — c'est précisément le problème de Roussel.
+La PaduTeam rejette la comparaison Mélenchon=Trump : "Quand on est dans un parti communiste on est dans une forme de radicalité. Lénine, Maurice Thorez — ils pouvaient paraître violent dans leurs discours." La radicalité dans la communication correspond à la radicalité du programme. Utiliser une forme douce (codes bourgeois de la respectabilité) avec un programme radical crée une dissonance — c'est précisément le problème de Roussel.
 
-Padu : "Si tu voulais suivre ton programme, il faudrait avoir une forme similaire à celle de Mélenchon. C'est pour ça que tu fais 2%." Les classes populaires qui subissent l'exploitation n'ont pas peur d'un discours radical sur l'exploitation — elles ont peur quand tu essaies de faire plaisir à BFM TV.
+La PaduTeam : "Si tu voulais suivre ton programme, il faudrait avoir une forme similaire à celle de Mélenchon. C'est pour ça que tu fais 2%." Les classes populaires qui subissent l'exploitation n'ont pas peur d'un discours radical sur l'exploitation — elles ont peur quand tu essaies de faire plaisir à BFM TV.
 
 ## Vidéos où le concept est développé
-- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Roussel accuse Mélenchon de faire du Trump ; Padu défend la légitimité de la radicalité communicationnelle pour un parti communiste
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Roussel accuse Mélenchon de faire du Trump ; la PaduTeam défend la légitimité de la radicalité communicationnelle pour un parti communiste

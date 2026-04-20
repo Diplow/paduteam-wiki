@@ -12,7 +12,7 @@ skill_version: ingest-batch-2026-04-13
 # Émeric Caron
 
 ## Profil synthétique
-Journaliste, auteur et militant écologiste. Fondateur et figure centrale de [[Revolution Ecologique pour le Vivant]] (La Rêve), parti écologiste de gauche. Député depuis 2022. Pas la gauche marxiste, selon Padu — "une certaine bourgeoisie de gauche, un peu molassonne" — mais "basé" sur la question palestinienne : vient avec les sources, ne lâche pas.
+Journaliste, auteur et militant écologiste. Fondateur et figure centrale de [[Revolution Ecologique pour le Vivant]] (La Rêve), parti écologiste de gauche. Député depuis 2022. Pas la gauche marxiste, selon la PaduTeam — "une certaine bourgeoisie de gauche, un peu molassonne" — mais "basé" sur la question palestinienne : vient avec les sources, ne lâche pas.
 
 ## L'interrogatoire de CNews : modèle de clash médiatique
 Aymeric Caron interroge le directeur de rédaction de [[CNews]] ([[Philippe Njar]]) devant une commission parlementaire après une saisine de l'ARCOM. La méthode : préparer les sources (Libération en Une avec les 30 000 morts), poser des questions fermées, ne pas lâcher.
@@ -25,7 +25,7 @@ Questions posées, une par une :
 
 Le directeur répond "je condamne l'assassinat de tous les êtres humains" — formule qui évite de nommer Israël comme auteur. Sur la censure israélienne, il bégaie[^caron1].
 
-Padu : "Caron qui est assez basé en ce moment. [...] quand il a les sources, il est imbaisable."
+La PaduTeam : "Caron qui est assez basé en ce moment. [...] quand il a les sources, il est imbaisable."
 
 ## Stratégie et trajectoire
 Son parti (La Rêve) est mis en cause pour avoir menacé de poursuites en diffamation l'[[Organisation Solidarite Trans]] après qu'une élue du parti a dénoncé des injures transphobes internes. Selon la PaduTeam, c'est un exemple de la gauche qui bâillonne les victimes de discriminations pour protéger sa réputation.

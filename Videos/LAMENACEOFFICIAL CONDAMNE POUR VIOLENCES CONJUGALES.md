@@ -15,17 +15,17 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Capsule de la chaîne "Pas du stream". Padu commente la condamnation du youtubeur [[La Menace]] (Maxime Alexandrov, 400 000 abonnés) pour violences conjugales le **8 mars 2023** par le tribunal correctionnel de Bordeaux. Ironie maximale : La Menace prônait le "couple à l'ancienne" tout en menaçant sa compagne de 20 ans avec un cran d'arrêt et un fusil d'assaut.
+Capsule de la chaîne "Pas du stream". La PaduTeam commente la condamnation du youtubeur [[La Menace]] (Maxime Alexandrov, 400 000 abonnés) pour violences conjugales le **8 mars 2023** par le tribunal correctionnel de Bordeaux. Ironie maximale : La Menace prônait le "couple à l'ancienne" tout en menaçant sa compagne de 20 ans avec un cran d'arrêt et un fusil d'assaut.
 
 ## Thèses et analyses clés
 
-1. **La contradiction alpha** : La Menace vendait des formations "Alpha" pour "fabriquer des hommes que le système déteste", en prônant le "couple à l'ancienne" (l'homme fort, la femme soumise). En réalité il avait exhibé un fusil d'assaut et proféré des menaces de mort contre sa compagne. Padu : "Quelle est la différence entre ce gars et un ultra-intégriste religieux violent ?"
+1. **La contradiction alpha** : La Menace vendait des formations "Alpha" pour "fabriquer des hommes que le système déteste", en prônant le "couple à l'ancienne" (l'homme fort, la femme soumise). En réalité il avait exhibé un fusil d'assaut et proféré des menaces de mort contre sa compagne. La PaduTeam : "Quelle est la différence entre ce gars et un ultra-intégriste religieux violent ?"
 
-2. **La brutalisation comme fausse solution** : La Menace affirmait que la violence répressive (à la russe) rendrait les gens "sages". Padu contre-argue : la Russie a 10 homicides pour 100 000 habitants contre 1,4 en France. La violence engendre la violence (brutalisation) — pas l'obéissance.
+2. **La brutalisation comme fausse solution** : La Menace affirmait que la violence répressive (à la russe) rendrait les gens "sages". La PaduTeam contre-argue : la Russie a 10 homicides pour 100 000 habitants contre 1,4 en France. La violence engendre la violence (brutalisation) — pas l'obéissance.
 
 3. **Le discours vs la pratique** : "Mon couple à l'ancienne fonctionne uniquement sur les réseaux sociaux et via du BDSM" dit son avocate. Padu : ce couple-là ne ressemble en rien à ce que La Menace prêchait.
 
-4. **La virilité selon Brassens** : Padu convoque Georges Brassens comme contre-modèle de la vraie maturité virile — un homme qui n'a pas besoin de soumettre sa compagne, qui lui laisse sa liberté, qui regarde la mort en face sans bégayer. "Gravons nos noms au bas d'un serment" plutôt que d'exhiber un fusil.
+4. **La virilité selon Brassens** : La PaduTeam convoque Georges Brassens comme contre-modèle de la vraie maturité virile — un homme qui n'a pas besoin de soumettre sa compagne, qui lui laisse sa liberté, qui regarde la mort en face sans bégayer. "Gravons nos noms au bas d'un serment" plutôt que d'exhiber un fusil.
 
 ## Individus mentionnés
 

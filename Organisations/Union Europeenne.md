@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, États-Unis]
 aliases: [UE, European Union]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 3:00:00 pm
-date modified: Saturday, April 19th 2026, 3:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:55 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/États-Unis
 

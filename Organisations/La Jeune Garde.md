@@ -36,7 +36,7 @@ Organisation antifasciste présente à Lyon, Marseille, Aix-en-Provence, Montpel
 ## Thèse centrale sur la dissolution
 La dissolution cible les organisations **organisées et efficaces**. Les petits groupuscules non organisés ne sont pas dissous. Ce qui effraie la bourgeoisie, c'est le maillage de terrain concret — les réseaux locaux que ni la répression médiatique ni la dissolution formelle ne peuvent neutraliser.
 
-Padu : "On essaie pas de dissoudre des organisations qui servent à rien. Très clairement, les gens qui ont été attaqués, ils ont été ciblés."
+La PaduTeam : "On essaie pas de dissoudre des organisations qui servent à rien. Très clairement, les gens qui ont été attaqués, ils ont été ciblés."
 
 ## Figures clés
 - [[Raphael Arnaud]] — ex-porte-parole, devenu député LFI

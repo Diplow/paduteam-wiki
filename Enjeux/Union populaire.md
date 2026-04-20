@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis]
 skill_version: write-enjeu-2026-04-19
 date created: Thursday, April 2nd 2026, 1:07:41 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/États-Unis
 # Union populaire

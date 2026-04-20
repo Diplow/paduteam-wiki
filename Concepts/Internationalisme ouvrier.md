@@ -13,7 +13,7 @@ Position centrale de la PaduTeam : les droits du travail doivent être universel
 
 ## La thèse
 
-"La dignité du mouvement ouvrier et internationaliste, c'est toujours de dire : les droits les plus absolus, les plus avantageux doivent être donnés à tous. Que vous soyez arrivé hier, avant-hier, aujourd'hui." ([[Chris]])
+"La dignité du mouvement ouvrier et internationaliste, c'est toujours de dire : les droits les plus absolus, les plus avantageux doivent être donnés à tous. Que vous soyez arrivé hier, avant-hier, aujourd'hui." (La PaduTeam)
 
 Quelqu'un qui arrive à la nage entre Lampedusa et la France devrait avoir le droit de vote, les cotisations sociales et l'assurance maladie dès le lendemain. Peu importe la langue, la religion, les habitudes culturelles.
 
@@ -23,7 +23,7 @@ Quelqu'un qui arrive à la nage entre Lampedusa et la France devrait avoir le dr
 
 [[Francois Ruffin]], [[Fabien Roussel]] et les tenants d'une gauche national-populaire sont critiqués pour avoir adopté le "logiciel assimilationniste" : conditionner les droits ou la solidarité à des critères d'assimilation culturelle ou à l'appartenance nationale. Ce faisant, ils mettent dans le même panier l'ouvrière agricole française et le grand exploitant agricole (le "gros agriculteur en bas à droite du [[Graphique|Graphique]]") — au lieu de construire la solidarité de classe transnationale.
 
-"Tous les gens qui vous disent qu'il y a trop d'immigrés, qu'il faut faire gaffe aux frontières — tous ces gens-là sont des traîtres à la classe." ([[Chris]])
+"Tous les gens qui vous disent qu'il y a trop d'immigrés, qu'il faut faire gaffe aux frontières — tous ces gens-là sont des traîtres à la classe." (La PaduTeam)
 
 ## L'assimilation comme outil bourgeois
 

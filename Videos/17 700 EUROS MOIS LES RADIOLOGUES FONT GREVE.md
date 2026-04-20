@@ -18,7 +18,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Lundi 10 novembre 2024 : les radiologues privés font grève à plus de 80% pour protester contre un projet de baisse de leurs tarifs (environ 300 millions d'euros d'économies, soit 0,1% du budget de la Sécurité Sociale). [[Padu]] et [[Dr Zoe]] analysent l'affaire à travers le rapport Ligas de l'[[Assurance Maladie]] : les radiologues gagnent en moyenne 212 700€/an (radiothérapeutes 417 500€/an) grâce à des forfaits techniques qui couvrent 163% du coût réel des machines. Le vrai sujet : la [[Tarification a l acte|tarification à l'acte]] comme système structurellement inflationniste financé par l'argent public.
+Lundi 10 novembre 2024 : les radiologues privés font grève à plus de 80% pour protester contre un projet de baisse de leurs tarifs (environ 300 millions d'euros d'économies, soit 0,1% du budget de la Sécurité Sociale). La PaduTeam analyse l'affaire à travers le rapport Ligas de l'[[Assurance Maladie]] : les radiologues gagnent en moyenne 212 700€/an (radiothérapeutes 417 500€/an) grâce à des forfaits techniques qui couvrent 163% du coût réel des machines. Le vrai sujet : la [[Tarification a l acte|tarification à l'acte]] comme système structurellement inflationniste financé par l'argent public.
 
 ## Intervenants
 
@@ -31,7 +31,7 @@ Lundi 10 novembre 2024 : les radiologues privés font grève à plus de 80% pour
 
 ### La grève de droite des radiologues
 
-Les radiologues font grève à 80% — taux record — pour défendre leurs revenus face à une baisse de 15% des tarifs proposée par l'[[Assurance Maladie]]. [[Dr Zoe]] accueille d'abord la grève avec ironie enthousiaste ("enfin une grève générale !"), puis déconstruit : c'est une grève de **rentiers qui défendent leur rente**, pas une mobilisation sociale progressive.[^1]
+Les radiologues font grève à 80% — taux record — pour défendre leurs revenus face à une baisse de 15% des tarifs proposée par l'[[Assurance Maladie]]. La PaduTeam accueille d'abord la grève avec ironie enthousiaste ("enfin une grève générale !"), puis déconstruit : c'est une grève de **rentiers qui défendent leur rente**, pas une mobilisation sociale progressive.[^1]
 
 Le chiffre 17 700€/mois vient des revenus nets moyens des radiologues libéraux. La revendication : ne pas subir de baisse de 15%, soit environ 300 millions d'euros au total — 0,1% du budget de la Sécurité Sociale.
 
@@ -51,7 +51,7 @@ La PaduTeam souligne que la grève des radiologues est un symptôme du système,
 
 ### Conscience de classe corporatiste
 
-[[Dr Zoe]] note la puissance mobilisatrice de la corporation : 80% de grève, organisation syndicale efficace, rapport de force avec l'État. Ironiquement, cette "conscience de classe de zinzin" ne s'active que pour défendre des intérêts corporatistes, jamais pour des causes progressistes.[^5]
+La PaduTeam note la puissance mobilisatrice de la corporation : 80% de grève, organisation syndicale efficace, rapport de force avec l'État. Ironiquement, cette "conscience de classe de zinzin" ne s'active que pour défendre des intérêts corporatistes, jamais pour des causes progressistes.[^5]
 
 Comparaison : zéro mobilisation médicale pour les suicides d'internes (1 tous les 18 jours), la [[Penurie de medecins|pénurie de médecins]], les urgences en plan blanc.
 
@@ -61,7 +61,7 @@ L'amendement de [[Sandrine Runel]] (PS), adopté à l'Assemblée nationale, conf
 
 ## Citations clés
 
-[^1]: [0:31](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=31) — "moi quand j'ai vu que les radiologues se mettaient en grève, je me suis dit enfin enfin parce que là il y a des attaques contre les ALD, il y a des attaques contre les arrêts de travail... Mais j'espère que c'est pour ça qu'ils font la grève" (Dr Zoé)
+[^1]: [0:31](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=31) — "moi quand j'ai vu que les radiologues se mettaient en grève, je me suis dit enfin enfin parce que là il y a des attaques contre les ALD, il y a des attaques contre les arrêts de travail... Mais j'espère que c'est pour ça qu'ils font la grève"
 [^2]: [28:39](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=1719) — "les forfaits techniques surrémunèrent l'investissement et conduisent à une gestion inflationniste des équipements... le forfait technique couvre en moyenne 163 % des coûts liés aux machines"
 [^3]: [37:52](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=2272) — "Thomas Fatô, le directeur de l'assurance maladie, a dit que c'était des rentiers"
 [^4]: [8:14](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=494) — "le fond du problème c'est la tarification à l'acte. Le soin ne devrait pas être tarifé à l'acte. Il devrait y avoir des investissements qui sont des investissements publics"

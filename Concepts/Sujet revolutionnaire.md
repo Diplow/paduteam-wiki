@@ -5,7 +5,7 @@ thèmes: [féminisme, théorie-marxiste]
 aliases: [Sujet révolutionnaire, sujet révolutionnaire, sujets révolutionnaires]
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/théorie #thème/féminisme
 
@@ -13,17 +13,17 @@ date modified: Sunday, April 19th 2026, 9:00:00 pm
 
 ## Définition
 
-Un sujet révolutionnaire est un groupe social dont la lutte pour ses conditions d'existence transforme le monde matériellement — pousse les limites de ce qui est possible pour l'humanité. Chris (ATR #2) : "Un sujet collectif naît dans certaines conditions matérielles. Il s'impose sur l'histoire de manière non déterminée en fonction de ses luttes."
+Un sujet révolutionnaire est un groupe social dont la lutte pour ses conditions d'existence transforme le monde matériellement — pousse les limites de ce qui est possible pour l'humanité. La PaduTeam : "Un sujet collectif naît dans certaines conditions matérielles. Il s'impose sur l'histoire de manière non déterminée en fonction de ses luttes."
 
 Ce n'est pas une position automatique : les conditions matérielles créent la possibilité du sujet révolutionnaire, mais ce sujet doit s'organiser, lutter, pour que cette possibilité devienne réalité.
 
 ## Femmes et personnes trans comme sujets révolutionnaires
 
-Pour Chris (ATR #2), les femmes et les personnes trans constituent aujourd'hui des sujets révolutionnaires parce qu'elles luttent toutes deux contre **la détermination naturelle des corps** :
+Pour la PaduTeam, les femmes et les personnes trans constituent aujourd'hui des sujets révolutionnaires parce qu'elles luttent toutes deux contre **la détermination naturelle des corps** :
 
 **Les femmes** : la domination patriarcale repose sur la dissymétrie corporelle (capacité de grossesse, vulnérabilité obstétricale, rapport à l'allaitement). Cette dissymétrie *préconsciente* — antérieure à la société — a servi de base matérielle à l'organisation patriarcale. La contraception, l'IVG, l'obstétrique moderne ont fait reculer cette détermination naturelle. C'est pour ça que l'extrême droite attaque ces techniques : elles sont le fondement matériel de l'émancipation.
 
-**Les personnes trans** : "Les gens trans sont un sujet révolutionnaire. Ils font en sorte de faire avancer les possibilités de l'humanité de s'extirper de conditions naturelles." Elles poussent les limites du possible en matière de genre, d'identité, de rapport au corps — ce que Chris appelle "travailler contre l'état naturel, contre l'ordre dominant."
+**Les personnes trans** : "Les gens trans sont un sujet révolutionnaire. Ils font en sorte de faire avancer les possibilités de l'humanité de s'extirper de conditions naturelles." Elles poussent les limites du possible en matière de genre, d'identité, de rapport au corps — ce que la PaduTeam appelle "travailler contre l'état naturel, contre l'ordre dominant."
 
 ## Pourquoi la réaction les attaque
 

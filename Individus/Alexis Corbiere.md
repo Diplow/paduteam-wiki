@@ -18,7 +18,7 @@ Ancien député [[France Insoumise]], évoqué parmi les candidats possibles à 
 - [[France Insoumise]] — ancienne appartenance
 
 ## Rôle dans L'Après et trajectoire générationnelle
-Avec [[Raquel Garrido]] et [[Daniel Simonet]], représente la "2e génération" de la gauche de rupture (génération entre Mélenchon et les "quatre de la FI" — Bompard, Panot). Était au PS avec Mélenchon, au Parti de Gauche originel. Chris : "Il y avait Raquel Garido et Alexis Corbière qui eux en ont vraiment fait partie [du PG]."
+Avec [[Raquel Garrido]] et [[Daniel Simonet]], représente la "2e génération" de la gauche de rupture (génération entre Mélenchon et les "quatre de la FI" — Bompard, Panot). Était au PS avec Mélenchon, au Parti de Gauche originel. La PaduTeam : "Il y avait Raquel Garido et Alexis Corbière qui eux en ont vraiment fait partie [du PG]."
 
 Cette génération a "toujours voulu à un moment donné prendre la place de Mélenchon pour des raisons purement matérielles." Les clivages de ligne, de place et générationnels ont fini par éclater en 2024 quand la FI a distribué les postes de sa coordination à la 3e génération. Co-fondateur de [[L'Apres]], désormais exilé dans la "maison Renéga."
 

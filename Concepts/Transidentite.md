@@ -36,7 +36,7 @@ Le corps médical a été historiquement conservateur sur ces questions — comm
 
 ## Autosupport et autogestion
 
-Face aux barrières médicales et à la formation insuffisante des soignants (Dr Zoé : "on m'a dit zéro sur la transidentité en médecine"), les personnes trans ont développé un savoir communautaire autonome — serveurs Discord, réseaux d'entraide, DIY (accès aux traitements sans prescription). L'[[Organisation Solidarite Trans|OST]] formalise cet autosupport : cartographie des médecins "safe", formation des soignants, aide aux démarches administratives.
+Face aux barrières médicales et à la formation insuffisante des soignants (la PaduTeam : "on m'a dit zéro sur la transidentité en médecine"), les personnes trans ont développé un savoir communautaire autonome — serveurs Discord, réseaux d'entraide, DIY (accès aux traitements sans prescription). L'[[Organisation Solidarite Trans|OST]] formalise cet autosupport : cartographie des médecins "safe", formation des soignants, aide aux démarches administratives.
 
 ## Vidéos associées
 

@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, Venezuela, États-Unis, Amérique-latine]
 aliases: [Monroe 2.0, doctrine Monroe trumpiste]
 skill_version: write-concept-2026-04-14
 date created: Tuesday, April 14th 2026, 12:19:58 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis #thème/Amérique-latine
 

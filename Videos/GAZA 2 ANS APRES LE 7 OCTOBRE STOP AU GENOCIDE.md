@@ -15,7 +15,7 @@ skill_version: ingest-batch-2026-04-13
 ![](https://www.youtube.com/watch?v=-LNzH33Rhck)
 
 ## Résumé
-[[Chris]] et [[Dr Zoe]] produisent un bilan systématique des deux ans écoulés depuis le 7 octobre 2023, à la veille de l'anniversaire. La vidéo refuse la narration occidentale qui commence au 7-10 et insiste sur le **continuum colonial de 80 ans** depuis la [[Nakba]]. Elle déploie l'analyse du projet génocidaire annoncé dès le 8 octobre (« animaux humains »), théorise [[Benjamin Netanyahu]] comme « [[Pointe avancee du nationalisme ethnique|pointe avancée du nationalisme ethnique]] » mondial, dénonce la répression française contre la parole pro-Palestine, analyse le plan Trump-Blair comme occupation par intermédiaire, et conclut sur la dignité générationnelle (« c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte » — leçon de [[Georges Ibrahim Abdallah]]).
+La PaduTeam produit un bilan systématique des deux ans écoulés depuis le 7 octobre 2023, à la veille de l'anniversaire. La vidéo refuse la narration occidentale qui commence au 7-10 et insiste sur le **continuum colonial de 80 ans** depuis la [[Nakba]]. Elle déploie l'analyse du projet génocidaire annoncé dès le 8 octobre (« animaux humains »), théorise [[Benjamin Netanyahu]] comme « [[Pointe avancee du nationalisme ethnique|pointe avancée du nationalisme ethnique]] » mondial, dénonce la répression française contre la parole pro-Palestine, analyse le plan Trump-Blair comme occupation par intermédiaire, et conclut sur la dignité générationnelle (« c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte » — leçon de [[Georges Ibrahim Abdallah]]).
 
 ## Thèses et analyses clés
 
@@ -23,7 +23,7 @@ skill_version: ingest-batch-2026-04-13
 
 2. **Projet génocidaire annoncé dès le 8 octobre 2023.** Le ministre israélien de la Défense [[Yoav Gallant]] déclare « ces gens sont des animaux humains et nous allons les traiter comme tel » le lendemain du 7 octobre. Objectif déclaré du Grand Israël : « ne pas laisser un m² aux Palestiniens », récupérer le territoire antérieur à 1947.
 
-3. **Le 7 octobre comme acte de résistance coloniale (qualification ONU).** Chris : « l'ONU considère que les actes de guerre en situation coloniale sont des actes de résistance à la colonisation. » Cette qualification juridique rigoureuse n'exonère pas des moyens critiquables (victimes civiles au festival musical notamment), mais elle interdit l'équivalence morale Hamas/Israël qui met colonisateur et colonisé sur le même plan.
+3. **Le 7 octobre comme acte de résistance coloniale (qualification ONU).** La PaduTeam : « l'ONU considère que les actes de guerre en situation coloniale sont des actes de résistance à la colonisation. » Cette qualification juridique rigoureuse n'exonère pas des moyens critiquables (victimes civiles au festival musical notamment), mais elle interdit l'équivalence morale Hamas/Israël qui met colonisateur et colonisé sur le même plan.
 
 4. **Matérialité du rapport de forces inégal.** Gaza réduit à « quelques kilomètres carrés » avec 2 millions d'habitants (une des plus fortes densités au monde), blocus total depuis 2005-2006 empêchant l'accès à la nourriture, l'eau, les médicaments. Les chiffres : ~1 200 morts israéliens le 7-10 (800 civils) vs. plusieurs dizaines de milliers de morts palestiniens en 2 ans (majorité femmes et enfants).
 
@@ -33,7 +33,7 @@ skill_version: ingest-batch-2026-04-13
 
 7. **Répression interne française massive.** Entre octobre 2023 et décembre 2023, impossibilité physique et légale de dire « génocide » ou « résistance palestinienne » dans l'espace public français. Condamnation de [[Jean-Paul Escuro]] (secrétaire général UDCGT Nord) en avril 2024 pour apologie du terrorisme pour un tract mentionnant « la résistance palestinienne ». [[Anasse Kazib]] et camarades mis en examen. Dissolution d'Urgence Palestine (à venir). Propagande réussie empêchant « le nécessaire soulèvement des peuples ».
 
-8. **Instrumentalisation de l'antisémitisme prend les juifs mondiaux en otage.** La fusion juif-israélien-soutien génocide opérée par [[Benjamin Netanyahu]] met objectivement en danger les juifs français et mondiaux en les associant à un projet génocidaire. Existence de la résistance juive anti-sioniste : [[UJFP]], rabbins critiques, journalistes israéliens comme Gideon Levy. Padu insiste : ne pas tomber dans l'essentialisation inverse.
+8. **Instrumentalisation de l'antisémitisme prend les juifs mondiaux en otage.** La fusion juif-israélien-soutien génocide opérée par [[Benjamin Netanyahu]] met objectivement en danger les juifs français et mondiaux en les associant à un projet génocidaire. Existence de la résistance juive anti-sioniste : [[UJFP]], rabbins critiques, journalistes israéliens comme Gideon Levy. La PaduTeam insiste : ne pas tomber dans l'essentialisation inverse.
 
 9. **Responsabilité occidentale structurelle.** L'ONU (Société des Nations) a décidé la partition de la Palestine en 1947 — le conflit n'est pas indigène, il est un produit de la construction impérialiste post-WWII. La Shoah et sa centralité dans la mémoire européenne ne peuvent pas masquer indéfiniment cette responsabilité. Nouvelles générations doivent réinterroger ce cadre.
 

@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ## Définition
 La **conscience** est le pont entre l'entité matérielle individuelle et les sujets collectifs (classes, groupes). C'est la capacité spécifique de l'espèce humaine — produit de l'évolution biologique et de l'organisation sociale — qui permet à l'individu de porter en lui les structures mentales de son groupe de classe et d'agir à partir d'elles.
 
-## Mécanisme (selon la PaduTeam, Padu + Chris)
+## Mécanisme (selon la PaduTeam)
 
 **Niveau ontologique** : seuls les individus ont une réalité matérielle (un corps, une conscience). Les sujets collectifs (classes, nations) n'ont pas de corporalité propre.
 
@@ -25,7 +25,7 @@ La **conscience** est le pont entre l'entité matérielle individuelle et les su
 
 Ce que l'individu fait de politiquement signifiant vient de son insertion dans un sujet collectif — pas de sa biographie.
 
-**Formule de Chris** : "Les sujets collectifs agissent mais ne s'expriment jamais. Les sujets individuels s'expriment mais n'agissent jamais." Le pont entre les deux, ce sont les grandes figures politiques ou culturelles (Fidel Castro cristallisant la volonté anti-impérialiste cubaine, Rousseau exprimant la vision du monde de la bourgeoisie progressiste).
+La PaduTeam formule : "Les sujets collectifs agissent mais ne s'expriment jamais. Les sujets individuels s'expriment mais n'agissent jamais." Le pont entre les deux, ce sont les grandes figures politiques ou culturelles (Fidel Castro cristallisant la volonté anti-impérialiste cubaine, Rousseau exprimant la vision du monde de la bourgeoisie progressiste).
 
 ## Contre la psychanalyse
 La psychanalyse réduit les comportements politiques à la biographie individuelle. Pour la PaduTeam, c'est inverser la hiérarchie : le biographique est anecdotique ; ce qui est politiquement déterminant, c'est l'insertion dans les sujets collectifs. Voir [[Adultomorphisme]].

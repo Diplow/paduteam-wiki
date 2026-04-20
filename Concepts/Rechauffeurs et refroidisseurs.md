@@ -44,4 +44,4 @@ Analogie : "C'est le gars qui fait aucun compromis pendant 5 ans — politique d
 
 ## Vidéos où le concept est développé
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Application directe : PS comme refroidisseur dans le moment du 10 septembre. L'expression de l'oiseau et du sel. "Tous ces gens-là sont des traîtres et des refroidisseurs de l'histoire."
-- [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Glucksmann et Cohn-Bendit comme refroidisseurs coordonnés : opposition au 10 septembre, appel aux compromis institutionnels, discours "pas de chaos". Padu : "Ce qu'ils essayent de faire c'est d'éteindre la colère sociale."
+- [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Glucksmann et Cohn-Bendit comme refroidisseurs coordonnés : opposition au 10 septembre, appel aux compromis institutionnels, discours "pas de chaos". La PaduTeam : "Ce qu'ils essayent de faire c'est d'éteindre la colère sociale."

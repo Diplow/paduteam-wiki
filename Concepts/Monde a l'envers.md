@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Monde à l'envers
 
 ## Définition
-Image forte de Marx peu utilisée selon Chris : dans le capitalisme, l'activité humaine n'est plus faite pour les besoins humains, mais pour une valeur fétichisée abstraite (l'argent). Le monde est "renversé" parce que les moyens (l'argent, la production) sont devenus les fins, et les fins réelles (satisfaire des besoins humains) sont devenues des moyens ou sont oubliées.
+Image forte de Marx : dans le capitalisme, l'activité humaine n'est plus faite pour les besoins humains, mais pour une valeur fétichisée abstraite (l'argent). Le monde est "renversé" parce que les moyens (l'argent, la production) sont devenus les fins, et les fins réelles (satisfaire des besoins humains) sont devenues des moyens ou sont oubliées.
 
 ## Mécanisme
 L'exemple le plus direct : des entrepreneurs invités à parler d'éducation ne parlent que d'argent. L'éducation — censée être la finalité — n'est plus qu'un prétexte pour accumuler de la valeur d'échange. Les besoins humains concrets (apprendre, développer l'esprit critique) sont des déchets du processus, pas son but.
@@ -26,4 +26,4 @@ Le monde à l'envers est l'effet global du fétichisme de la marchandise : la f�
 - Laurent Alexandre recommande de "ne plus faire d'études" car ça ne rapporte pas d'argent — il mesure la valeur de l'éducation uniquement par la valeur d'échange qu'elle produit.
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Chris invoque explicitement "le monde à l'envers de Marx" pour décrire les startuppers de l'éducation
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — invocation explicite du "monde à l'envers de Marx" pour décrire les startuppers de l'éducation

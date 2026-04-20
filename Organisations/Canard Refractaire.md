@@ -12,7 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Canard Refractaire
 
 ## Présentation
-Média indépendant participatif né du mouvement des [[Gilets Jaunes]]. Considéré par la PaduTeam comme la **plus grande œuvre résiduelle** des GJ en matière d'infrastructure médiatique militante : "il y a sûrement la plus grande œuvre des gilets jaunes aujourd'hui, d'avoir un média comme ça indépendant, totalement participatif" (Chris). Il est cité comme référence modèle pour la future chaîne YouTube [[On ne veut plus]], pensée comme son équivalent marxiste-léniniste.
+Média indépendant participatif né du mouvement des [[Gilets Jaunes]]. Considéré par la PaduTeam comme la **plus grande œuvre résiduelle** des GJ en matière d'infrastructure médiatique militante : "il y a sûrement la plus grande œuvre des gilets jaunes aujourd'hui, d'avoir un média comme ça indépendant, totalement participatif". Il est cité comme référence modèle pour la future chaîne YouTube [[On ne veut plus]], pensée comme son équivalent marxiste-léniniste.
 
 ## Rôle dans la stratégie PaduTeam
 Le Canard Réfractaire sert de **preuve par l'exemple** dans la lecture PaduTeam des Gilets Jaunes : le mouvement a échoué à cristalliser une organisation militante de masse, mais il a laissé des infrastructures médiatiques qui, elles, ont tenu. La PaduTeam recommande explicitement de regarder ses vidéos sur le 10 septembre pour comprendre les modes d'organisation qui remontent du terrain.

@@ -43,7 +43,7 @@ Némésis a contesté l'article dans un communiqué en disant que les conversati
 
 ## Idéologie précisée
 
-Némésis se définit comme "engagé pour la défense des femmes françaises et européennes face aux violences importées et à l'insécurité." Chris : ce n'est pas du [[Femonationalisme]] au sens de Sara Farris (outil de l'impérialisme centriste), c'est du **[[Feminisme raciste]]** : une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés. Le patriarcat blanc — Calixy, Morandini — n'est pas leur sujet.
+Némésis se définit comme "engagé pour la défense des femmes françaises et européennes face aux violences importées et à l'insécurité." La PaduTeam : ce n'est pas du [[Femonationalisme]] au sens de Sara Farris (outil de l'impérialisme centriste), c'est du **[[Feminisme raciste]]** : une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés. Le patriarcat blanc — Calixy, Morandini — n'est pas leur sujet.
 
 ## Vidéos où le Collectif Némésis est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]

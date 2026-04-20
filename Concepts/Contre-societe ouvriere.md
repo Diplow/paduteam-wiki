@@ -16,17 +16,17 @@ Réseau dense d'organisations militantes (partis, syndicats, caisses de solidari
 ## Mécanisme
 La contre-société ouvrière a trois fonctions simultanées : outil de lutte politique, réseau de solidarité matérielle (aide aux familles, caisse commune, éducation), et espace de contre-propagande. Quand un collègue sur deux est au PCF, la propagande patronale n'a pas de prise — il y a un Robert à côté pour la démentir par sa simple présence.
 
-Chris : "Le prolétariat au 19e siècle crée des organisations qui ne sont pas simplement des outils de lutte politique — c'est aussi des contre-sociétés. C'est là-dessus qu'on commence à penser l'éducation populaire, à penser la solidarité, à penser les caisses communes."
+La PaduTeam : "Le prolétariat au 19e siècle crée des organisations qui ne sont pas simplement des outils de lutte politique — c'est aussi des contre-sociétés. C'est là-dessus qu'on commence à penser l'éducation populaire, à penser la solidarité, à penser les caisses communes."
 
 ## Le néolibéralisme comme destruction de la contre-société
 
-Le néolibéralisme n'est pas seulement une politique économique — c'est un processus de "désocialisation". Il a détruit successivement : les structures étatiques, les entreprises publiques, les services publics, les syndicats, les partis. Le résultat : une socialisation beaucoup plus limitée qu'en 1970. Chris : "On revient à un état de socialisation presque au milieu du 19e siècle."
+Le néolibéralisme n'est pas seulement une politique économique — c'est un processus de "désocialisation". Il a détruit successivement : les structures étatiques, les entreprises publiques, les services publics, les syndicats, les partis. Le résultat : une socialisation beaucoup plus limitée qu'en 1970. La PaduTeam : "On revient à un état de socialisation presque au milieu du 19e siècle."
 
 La crise du fordisme a révélé qu'il y avait "trop de socialisation" — le néolibéralisme a libéralisé, désocialisé, détruit. Mais aujourd'hui le néolibéralisme lui-même est en crise, et on va se retrouver dans une nécessité de reconstruire des structures — "presque comme au milieu du 19e siècle."
 
 ## La contre-société comme survie, pas juste stratégie
 
-Chris insiste : la reconstruction de structures militantes concrètes n'est pas qu'une question de stratégie politique. "Je pense que c'est une stratégie d'existence même du salariat. Sans ça, on n'y arrivera pas." La contre-société est un moyen de survie pour les classes populaires face à la désocialisation néolibérale.
+La PaduTeam insiste : la reconstruction de structures militantes concrètes n'est pas qu'une question de stratégie politique. "Je pense que c'est une stratégie d'existence même du salariat. Sans ça, on n'y arrivera pas." La contre-société est un moyen de survie pour les classes populaires face à la désocialisation néolibérale.
 
 Exemples de contre-sociétés qui émergent : l'[[Organisation Solidarite Trans|OST]] (Organisation de Solidarité Trans) qui s'organise pour aider les trans exclus de leur famille — modèle du 19e siècle réactivé pour une population discriminée.
 

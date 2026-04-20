@@ -7,7 +7,7 @@ enjeux: [anti-imperialisme]
 date: 2026-06
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/anti-impérialisme #thème/racisme-antiracisme #enjeu/anti-imperialisme
 
@@ -15,7 +15,6 @@ date modified: Sunday, April 19th 2026, 9:00:00 pm
 
 # RÉVOLTES À LOS ANGELES VERS UNE RÉPUBLIQUE SOVIÉTIQUE DE CALIFORNIE
 
-**Avec** : [[Padu]] (Zoé), [[Chris]]
 **Date** : juin 2026 (émeutes de Los Angeles)
 
 ## Résumé
@@ -59,7 +58,7 @@ C'est le chaînage complet qui fait le concept : à chaque étape, le refus cali
 
 ### 4. Le pacte racial hispanique — distinctions Cuba / Portoricains / Mexique
 
-La PaduTeam raffine le [[Pacte raciste]] au cas américain sans l'aplatir. Les Hispaniques sont passés de 29% pour Trump en 2016 à un **vote « moitié-moitié » en 2024** (graphique sortie d'urne CNN à l'écran)[^12]. **Mécanisme** (Chris) : « les immigrés d'origine hispanique aujourd'hui qui ont la nationalité américaine vont être très pro-Trump justement parce que c'est vraiment le pacte racial — eux maintenant sont américains, même s'ils sont d'origine hispanique ils ne veulent pas des derniers arrivés »[^13]. Logique strictement parallèle au « vote arabo-musulman pour Marine Le Pen » hypothétique en France — mais qui ne s'est *pas encore* produit parce que « l'islamophobie fait rempart ». Trump, lui, **n'a pas d'anti-catholicisme** ni d'hostilité culturelle aux Hispaniques — il peut donc absorber leur vote sans friction[^13].
+La PaduTeam raffine le [[Pacte raciste]] au cas américain sans l'aplatir. Les Hispaniques sont passés de 29% pour Trump en 2016 à un **vote « moitié-moitié » en 2024** (graphique sortie d'urne CNN à l'écran)[^12]. **Mécanisme** : « les immigrés d'origine hispanique aujourd'hui qui ont la nationalité américaine vont être très pro-Trump justement parce que c'est vraiment le pacte racial — eux maintenant sont américains, même s'ils sont d'origine hispanique ils ne veulent pas des derniers arrivés »[^13]. Logique strictement parallèle au « vote arabo-musulman pour Marine Le Pen » hypothétique en France — mais qui ne s'est *pas encore* produit parce que « l'islamophobie fait rempart ». Trump, lui, **n'a pas d'anti-catholicisme** ni d'hostilité culturelle aux Hispaniques — il peut donc absorber leur vote sans friction[^13].
 
 **Distinctions historiques cruciales** (contre-lecture anti-essentialiste) :
 
@@ -73,13 +72,13 @@ La PaduTeam raffine le [[Pacte raciste]] au cas américain sans l'aplatir. Les H
 
 À la suite d'une interpellation du chat, Padu et Chris creusent explicitement la **fracture Latinos / Afro-Américains**. Il ne s'agit *pas* du même mécanisme : « **il y a un fait noir négrophobe spécifique aux États-Unis — c'est pas une hiérarchie des immigrés contre les non-immigrés, il y a un fait noir** »[^16]. Les Afro-Américains sont « descendants d'esclaves » et « les populations avec le moins de capital en moyenne aux USA » — ils ne partagent pas l'histoire de l'immigration de travail qui a structuré le pacte racial hispanique (ou polonais, irlandais, allemand avant). Leur vote démocrate massif n'est donc pas un miroir inverse du vote hispanique — c'est une autre **position de classe et de race dans la hiérarchie américaine**.
 
-**Affinage sur le classement statistique** (précision du chat confirmée par Chris) : les catégories américaines agrègent indûment des populations hétérogènes. « Il y a des blancs qui sont classés dans les hispaniques » et « des gens noirs qui viennent d'un pays sud-américain qui seront classés comme immigrants hispaniques et renvoyés à la frontière ». Les Latinos blancs votent Trump, les Latinos noirs et natifs sont victimes de l'ICE — **« fracture complète entre les deux »**[^17]. Le **« vote hispanique » est une construction statistique sans sens matériel** ; il faut **désagréger par classe, par couleur, par citoyenneté**. Trump utilise l'agrégat **comme alibi** : « Voyez je suis pas antihispanique, il y a des Hispaniques qui votent pour moi » — pendant qu'il expulse « les derniers arrivés ».
+**Affinage sur le classement statistique** (précision du chat confirmée) : les catégories américaines agrègent indûment des populations hétérogènes. « Il y a des blancs qui sont classés dans les hispaniques » et « des gens noirs qui viennent d'un pays sud-américain qui seront classés comme immigrants hispaniques et renvoyés à la frontière ». Les Latinos blancs votent Trump, les Latinos noirs et natifs sont victimes de l'ICE — **« fracture complète entre les deux »**[^17]. Le **« vote hispanique » est une construction statistique sans sens matériel** ; il faut **désagréger par classe, par couleur, par citoyenneté**. Trump utilise l'agrégat **comme alibi** : « Voyez je suis pas antihispanique, il y a des Hispaniques qui votent pour moi » — pendant qu'il expulse « les derniers arrivés ».
 
 ### 6. Newsom macroniste mais objectivement progressiste — analogie Marx-Engels 1840
 
-Padu anticipe l'objection (visible dans le chat) : Newsom est « un peu macroniste ». Chris et Padu assument sans ambiguïté : les USA ont « une gauche de droite et une droite d'extrême droite »[^18] — il n'y a pas de politique US « en vue au pouvoir qui soit de notre assentiment à nous ». Mais **l'analyse matérialiste exige de lire un corpus d'idées dans sa dynamique historique** : « un bourgeois égalitariste et libéral aujourd'hui est un conservateur voire un réactionnaire — le même au 15ᵉ siècle c'était un révolutionnaire »[^19].
+La PaduTeam anticipe l'objection (visible dans le chat) : Newsom est « un peu macroniste ». La PaduTeam assume sans ambiguïté : les USA ont « une gauche de droite et une droite d'extrême droite »[^18] — il n'y a pas de politique US « en vue au pouvoir qui soit de notre assentiment à nous ». Mais **l'analyse matérialiste exige de lire un corpus d'idées dans sa dynamique historique** : « un bourgeois égalitariste et libéral aujourd'hui est un conservateur voire un réactionnaire — le même au 15ᵉ siècle c'était un révolutionnaire »[^19].
 
-**Analogie mobilisée** : Marx et Engels dans les années 1840 considéraient les nationalismes progressistes contre l'empire austro-hongrois en déliquescence comme des « forces possibles révolutionnaires »[^20]. Newsom sur son corpus est macroniste, mais « inséré face à Trump, il devient un possible progressiste, en tout cas un pas en avant dans la destruction de l'empire américain qui est une nécessité pour la planète ». Chris insiste : **« la destruction de cet empire qui pèse énormément sur la vie de l'humanité tout entière est une nécessité pour le progrès de l'humanité concrète »**[^20]. La matrice est [[Campisme|campiste]], non pas au sens d'un alignement sur Newsom, mais au sens d'un choix de camp dans le rapport de force objectif.
+**Analogie mobilisée** : Marx et Engels dans les années 1840 considéraient les nationalismes progressistes contre l'empire austro-hongrois en déliquescence comme des « forces possibles révolutionnaires »[^20]. Newsom sur son corpus est macroniste, mais « inséré face à Trump, il devient un possible progressiste, en tout cas un pas en avant dans la destruction de l'empire américain qui est une nécessité pour la planète ». La PaduTeam insiste : **« la destruction de cet empire qui pèse énormément sur la vie de l'humanité tout entière est une nécessité pour le progrès de l'humanité concrète »**[^20]. La matrice est [[Campisme|campiste]], non pas au sens d'un alignement sur Newsom, mais au sens d'un choix de camp dans le rapport de force objectif.
 
 ### 7. « La Chine surveille de très près » — 20% d'exports via la Californie
 

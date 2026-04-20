@@ -12,10 +12,10 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!
 
-*(Titre EN doublon — titre de capsule FR annoncé par Padu : "Glucksmann supérieur à Ruffin")*
+*(Titre EN doublon — titre de capsule FR : "Glucksmann supérieur à Ruffin")*
 
 ## Résumé
-Padu et Chris analysent le débat sur la primaire à gauche en 2025. Ruffin est démontré comme un opportuniste structurel : il utilise Mélenchon au 1er tour et Bayrou au 2e — c'est "l'imposteur de la politique". Glucksmann, lui, est reconnu comme ayant une ligne cohérente en refusant la primaire ("pas la même vision du monde"). Le [[Graphique]] prédit que les primaires mobilisent le haut-droite, pas les classes populaires — et que les noisettes se feront broyer entre les deux blocs.
+La PaduTeam analyse le débat sur la primaire à gauche en 2025. Ruffin est démontré comme un opportuniste structurel : il utilise Mélenchon au 1er tour et Bayrou au 2e — c'est "l'imposteur de la politique". Glucksmann, lui, est reconnu comme ayant une ligne cohérente en refusant la primaire ("pas la même vision du monde"). Le [[Graphique]] prédit que les primaires mobilisent le haut-droite, pas les classes populaires — et que les noisettes se feront broyer entre les deux blocs.
 
 ## Thèses et analyses clés
 

@@ -12,7 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 ## Définition
 
-Concept utilisé par [[Chris]] et [[Padu]] pour décrire la stratégie de la droite envers [[France Insoumise|la France insoumise]] : faire monter LFI médiatiquement tout en la diabolisant pour empêcher l'union de la gauche. Miroir exact de ce que Mitterrand avait fait avec le Front National dans les années 1980.
+Concept utilisé par la PaduTeam pour décrire la stratégie de la droite envers [[France Insoumise|la France insoumise]] : faire monter LFI médiatiquement tout en la diabolisant pour empêcher l'union de la gauche. Miroir exact de ce que Mitterrand avait fait avec le Front National dans les années 1980.
 
 ## Le précédent Mitterrand (1981-2002)
 
@@ -24,7 +24,7 @@ En 1986, Mitterrand a changé le mode de scrutin pour introduire la proportionne
 
 ## Paradoxe productif pour LFI
 
-Chris et Padu notent que cette stratégie profite paradoxalement à [[Jean-Luc Melenchon|Mélenchon]]. Quand l'extrême droite désigne Mélenchon comme son ennemi principal, cela valide son statut de seule opposition crédible. Pour un électeur de gauche hésitant, voir la droite ne taper que sur Mélenchon donne envie de voter pour lui — exactement comme des droitards se disaient en voyant la gauche cibler Le Pen que c'était lui "l'antisystème".
+La PaduTeam note que cette stratégie profite paradoxalement à [[Jean-Luc Melenchon|Mélenchon]]. Quand l'extrême droite désigne Mélenchon comme son ennemi principal, cela valide son statut de seule opposition crédible. Pour un électeur de gauche hésitant, voir la droite ne taper que sur Mélenchon donne envie de voter pour lui — exactement comme des droitards se disaient en voyant la gauche cibler Le Pen que c'était lui "l'antisystème".
 
 ## Même causes, mêmes effets
 

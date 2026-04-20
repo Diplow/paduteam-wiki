@@ -49,14 +49,14 @@ Cette méthode est documentée par des conversations internes révélées par L'
 
 Si Némésis et Thaïs d'Escufon représentent l'antiféminisme *racialiste* (les femmes blanches à protéger des hommes racisés), un second axe de l'antiféminisme identitaire est l'antiféminisme *naturaliste* — dont [[Antitech Resistance]] (ATR) est l'exemple analysé par la PaduTeam.
 
-ATR ne prétend pas défendre les femmes contre les hommes racisés. Il prétend défendre la nature contre la technique. Mais ses conséquences pratiques sont identiques : refus de l'industrie pharmaceutique → plus de contraception, plus d'IVG, plus d'hormones de transition. Zoé (ATR #2) : "Être contre les conditions concrètes matérielles pour que les femmes aient accès à leurs droits, c'est être contre les droits des femmes. Il n'y a pas de dichotomie entre les deux."
+ATR ne prétend pas défendre les femmes contre les hommes racisés. Il prétend défendre la nature contre la technique. Mais ses conséquences pratiques sont identiques : refus de l'industrie pharmaceutique → plus de contraception, plus d'IVG, plus d'hormones de transition. La PaduTeam (ATR #2) : "Être contre les conditions concrètes matérielles pour que les femmes aient accès à leurs droits, c'est être contre les droits des femmes. Il n'y a pas de dichotomie entre les deux."
 
 L'axe transphobe est structurant dans les deux cas :
 - **ATR** (Mano, militant) : "Le transactivisme est un outil antiféministe qui vise à invisibiliser les femmes." Argument TERF classique, situé dans une critique antitech plus large.
 - **Psyhodelik** (youtuber droitier) : "Le vrai problème, c'est pas les gays, c'est les trans." Ciblage stratégique des trans dans un écosystème qui prétend ne s'en prendre qu'aux "excès" LGBT.
 - **Marguerite Stern** (ancienne Femen, militante transphobe) : production de fake news transphobes (carnaval espagnol présenté comme mise en scène pédophile LGBT). Pipeline : Stern → Psyhodelik → audience large → préjudice concret sur les personnes trans.
 
-**La désinformation transphobe comme arme** : la vidéo Psyhodelik/Stern documente une mécanique précise — une vidéo non vérifiée de 30 secondes produite par une source à fake news avérées est reprise comme fait par un influenceur à grande audience, sans vérification. Padu : "S'il vérifiait, il ne serait pas d'extrême droite." La fake news n'est pas un accident — elle est fonctionnelle : elle permet de désigner les trans comme menace sans avoir à défendre cette position à visage découvert.
+**La désinformation transphobe comme arme** : la vidéo Psyhodelik/Stern documente une mécanique précise — une vidéo non vérifiée de 30 secondes produite par une source à fake news avérées est reprise comme fait par un influenceur à grande audience, sans vérification. La PaduTeam : "S'il vérifiait, il ne serait pas d'extrême droite." La fake news n'est pas un accident — elle est fonctionnelle : elle permet de désigner les trans comme menace sans avoir à défendre cette position à visage découvert.
 
 ## Adversaires identifiés
 
@@ -67,10 +67,10 @@ L'axe transphobe est structurant dans les deux cas :
 
 ## Réponse PaduTeam
 
-1. Nommer les choses : "féminisme raciste", pas "fémonationalisme" (distinction conceptuelle de Chris : le fémonationalisme est un concept d'économie politique impérialiste, Némésis c'est du racisme tout court)
+1. Nommer les choses : "féminisme raciste", pas "fémonationalisme" (distinction conceptuelle de la PaduTeam : le fémonationalisme est un concept d'économie politique impérialiste, Némésis c'est du racisme tout court)
 2. Avoir des services d'ordre efficaces dans les manifs de gauche — pas pour violenter, mais pour exfiltrer proprement
 3. Occupy the field : si la gauche ne parle pas de féminisme, l'extrême droite l'instrumentalise
-4. Ne pas répondre aux arguments misogynes (Zoé : critiquer des femmes d'extrême droite sur leur corps ou leur sexualité, c'est contre-productif et sexiste — les attaquer sur leur projet politique)
+4. Ne pas répondre aux arguments misogynes (la PaduTeam : critiquer des femmes d'extrême droite sur leur corps ou leur sexualité, c'est contre-productif et sexiste — les attaquer sur leur projet politique)
 
 ## Vidéos associées
 

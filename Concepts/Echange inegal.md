@@ -28,13 +28,13 @@ Mécanisme par lequel les pays riches (Occident, USA) extraient de la plus-value
 - La part de la Chine dans la production industrielle mondiale : montée continue depuis 2000, pendant que USA et UE baissent
 
 ## Origines théoriques
-Chris cite [[Samir Amin]] et *La Crise de l'impérialisme* (années 70) comme source théorique. La pensée marxiste du sud global a reconfiguré les catégories de [[Lenine]] sur l'impérialisme : au lieu de chercher de nouveaux débouchés à l'extérieur, le capitalisme prolétarise le sud global pour déprolétariser le centre. Les délocalisations ne commencent pas dans les années 80 — la tendance existe dès les années 60, avec la crise du taux de profit.
+La PaduTeam cite [[Samir Amin]] et *La Crise de l'impérialisme* (années 70) comme source théorique. La pensée marxiste du sud global a reconfiguré les catégories de [[Lenine]] sur l'impérialisme : au lieu de chercher de nouveaux débouchés à l'extérieur, le capitalisme prolétarise le sud global pour déprolétariser le centre. Les délocalisations ne commencent pas dans les années 80 — la tendance existe dès les années 60, avec la crise du taux de profit.
 
-Chris ajoute que la chute de l'URSS a temporairement retardé cette crise en ouvrant de nouveaux marchés à piller (ex-pays soviétiques), donnant "20-30 ans de regain" au capitalisme — mais la crise revient "de plus belle" en 2025.
+La PaduTeam ajoute que la chute de l'URSS a temporairement retardé cette crise en ouvrant de nouveaux marchés à piller (ex-pays soviétiques), donnant "20-30 ans de regain" au capitalisme — mais la crise revient "de plus belle" en 2025.
 
 ## Concepts liés
 [[Protectionnisme anachronique]], [[Baisse tendancielle du taux de profit]], [[Néolibéralisme]], [[Crise de l'hegemonie americaine]], [[Femonationalisme]]
 
 ## Vidéos où le concept est développé
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
-- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris explique les origines théoriques avec Samir Amin
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — la PaduTeam explique les origines théoriques avec Samir Amin

@@ -7,7 +7,7 @@ date: 2025-11-05
 youtube_id: 1vgv1fRXUIA
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/États-Unis #thème/élections #thème/anti-impérialisme #thème/féminisme #thème/guerre-des-gauches #enjeu/plus-jamais-PS #enjeu/union-populaire
 

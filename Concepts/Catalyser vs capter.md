@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Catalyser vs capter
 
 ## Définition
-Distinction posée par [[Padu]] pour qualifier l'attitude de [[La Breche]] face à un mouvement populaire en germe. **Capter** un mouvement sent la récupération : le militant arrive avec sa ligne et son appareil, s'en empare, le digère. **Catalyser** un mouvement consiste à lui fournir ce qui lui manque pour se multiplier et se solidifier, sans prétendre en être le propriétaire. C'est le modèle posé pour l'action de La Brèche dans le mouvement [[On ne veut plus]].
+Distinction posée par la PaduTeam pour qualifier l'attitude de [[La Breche]] face à un mouvement populaire en germe. **Capter** un mouvement sent la récupération : le militant arrive avec sa ligne et son appareil, s'en empare, le digère. **Catalyser** un mouvement consiste à lui fournir ce qui lui manque pour se multiplier et se solidifier, sans prétendre en être le propriétaire. C'est le modèle posé pour l'action de La Brèche dans le mouvement [[On ne veut plus]].
 
 ## Mécanisme
 La catalyse suppose une asymétrie claire entre ce que l'organisation militante fournit et ce qu'elle ne fournit pas :
@@ -20,7 +20,7 @@ La catalyse suppose une asymétrie claire entre ce que l'organisation militante 
 
 **Non fournis** : les décisions locales d'action ("c'est pas à La Brèche de choisir les actions, on n'a même pas conscience des problématiques locales"), la ligne politique fine (le dispositif est [[Noisettes|transpartisan]] et accepte des divergences), la présence physique sur le terrain.
 
-Ce qui est catalysé, c'est ce qui est **déjà là mais ne parvient pas à se concentrer** : des AG locales qui se forment spontanément, des militants sans lien mail entre eux, des idées d'action sans matériel pour les porter. Padu : "qu'est-ce qui pourrait concentrer et faire se multiplier ce qui est déjà là, ce qui est en germe, mais ce qui n'arrive pas à... il faudrait un petit peu aider à catalyser le truc qui pourrait aussi s'éparpiller."
+Ce qui est catalysé, c'est ce qui est **déjà là mais ne parvient pas à se concentrer** : des AG locales qui se forment spontanément, des militants sans lien mail entre eux, des idées d'action sans matériel pour les porter. La PaduTeam : "qu'est-ce qui pourrait concentrer et faire se multiplier ce qui est déjà là, ce qui est en germe, mais ce qui n'arrive pas à... il faudrait un petit peu aider à catalyser le truc qui pourrait aussi s'éparpiller."
 
 La catalyse se distingue de la simple neutralité bienveillante : La Brèche fait une part énorme du travail (financement, conception, impression, logistique) — mais ne la monnaie pas contre un contrôle politique. C'est une forme de dépense militante à fonds perdus, compensée par le fait que le mouvement catalysé laisse une infrastructure résiduelle (réseaux, militants formés) qui survivra à la campagne.
 

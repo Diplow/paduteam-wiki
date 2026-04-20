@@ -21,15 +21,15 @@ Alex Hitchens anime un format d'entretien où il invite des femmes issues du tra
 
 **Le rituel du bodycount** : faire dire le nombre de partenaires sexuels passés, laisser des silences gênants pour que la femme se sente jugée, réagir avec une expression de fausse consternation pour maximiser la honte.
 
-**La métaphore de la voiture d'occasion** : la valeur d'une femme baisse avec le nombre de raptenaires. Une femme avec beaucoup de partenaires est une "voiture d'occasion" — sa "valeur marchande" sur le marché conjugal est dégradée. Padu : "ils ont vraiment cette vision des femmes, c'est une marchandise."
+**La métaphore de la voiture d'occasion** : la valeur d'une femme baisse avec le nombre de raptenaires. Une femme avec beaucoup de partenaires est une "voiture d'occasion" — sa "valeur marchande" sur le marché conjugal est dégradée. La PaduTeam : "ils ont vraiment cette vision des femmes, c'est une marchandise."
 
 **Le dénigrement déguisé en compliment** : "tu parles bien pour une [terme dégradant]" — technique de manipulation classique (backhanded compliment) qui humilie tout en paraissant flatter.
 
-**La jubilation face à la contrainte économique** : quand Carla Vyx explique qu'elle est entrée dans le travail du sexe parce qu'elle avait besoin d'argent, Hitchens jubile — la contrainte économique la "dégrade" davantage que si elle avait choisi librement. Padu : "c'est quoi ce gars en fait."
+**La jubilation face à la contrainte économique** : quand Carla Vyx explique qu'elle est entrée dans le travail du sexe parce qu'elle avait besoin d'argent, Hitchens jubile — la contrainte économique la "dégrade" davantage que si elle avait choisi librement. La PaduTeam : "c'est quoi ce gars en fait."
 
 **Ce qu'il ne fait pas** : face au récit de Carla Vyx qui évoque des soirées libertines "les plus grosses erreurs de ma vie", avec des gens "de plus en plus malsins" — Alex ne lui demande pas si elle va bien. Il se concentre sur pourquoi elle est retournée une deuxième fois.
 
-Zoé, visiblement affectée : "je suis désolée mais elle parle de viol là en fait. [...] si tu l'as mal vécu c'est peut-être qu'en fait on t'a contrainte à des choses que tu ne voulais pas faire. Cette personne là à côté de toi ne te veut pas du bien."
+La PaduTeam, visiblement affectée : "je suis désolée mais elle parle de viol là en fait. [...] si tu l'as mal vécu c'est peut-être qu'en fait on t'a contrainte à des choses que tu ne voulais pas faire. Cette personne là à côté de toi ne te veut pas du bien."
 
 ## Relations
 - [[Carla Vyx]] — sujet de l'émission analysée

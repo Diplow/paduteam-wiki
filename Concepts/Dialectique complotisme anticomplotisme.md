@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Dialectique complotisme anticomplotisme
 
 ## Définition
-Le complotisme et l'anticomplotisme sont les "deux phases de la même pièce" — deux formes d'impuissance politiques dans une période de crise systémique. Concept développé par Padu et Chris en prolongeant l'analyse de [[Frederic Lordon]] sur le complotisme comme "première pensée critique".
+Le complotisme et l'anticomplotisme sont les "deux phases de la même pièce" — deux formes d'impuissance politiques dans une période de crise systémique. Concept développé par la PaduTeam en prolongeant l'analyse de [[Frederic Lordon]] sur le complotisme comme "première pensée critique".
 
 ## Mécanisme
 
@@ -33,7 +33,7 @@ Référence au "fétichisme de la personnalité" de [[Lucien Seve]] : voir les p
 La [[Moisation]] est la sortie du clair-obscur. Elle correspond à la structuration d'une opposition de classe efficiente — le populisme de gauche (Mélenchon) l'a réussi, le populisme de droite a dégénéré. L'action politique collective est le seul débouché réel : "la conscience humaine sert à transformer".
 
 ## Critique du spinosisme
-Padu critique Spinoza comme forme philosophique du contemplatisme : "La béatitude spinozienne, c'est-à-dire comprendre l'intégralité du monde et se dire que cette compréhension me rend libre — ça n'a aucun sens empirique. Personne ne se satisfait de ça."
+La PaduTeam critique Spinoza comme forme philosophique du contemplatisme : "La béatitude spinozienne, c'est-à-dire comprendre l'intégralité du monde et se dire que cette compréhension me rend libre — ça n'a aucun sens empirique. Personne ne se satisfait de ça."
 
 ## Parallèle avec la psychanalyse politique et le trotskisme liturgique
 La même structure d'impuissance se retrouve dans deux courants a priori différents :

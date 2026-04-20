@@ -19,14 +19,14 @@ Attitude des classes intermédiaires bourgeoises qui, tout en prétendant défen
 3. Elle se positionne comme intermédiaire bienveillant entre les élites et le peuple — au lieu de mobiliser le peuple contre les élites.
 4. Résultat : les classes populaires sont maintenues dans une position d'objets de la politique plutôt que sujets.
 
-Pour Zoé : "L'éducation populaire, la formation des gens, c'est ça qui est jeté sous le bus — soit-disant par empathie envers eux mais c'est pire que de l'antipathie."
+Pour la PaduTeam : "L'éducation populaire, la formation des gens, c'est ça qui est jeté sous le bus — soit-disant par empathie envers eux mais c'est pire que de l'antipathie."
 
 ## Distinction avec le paternalisme
 Proche du paternalisme mais plus précis : la condescendance de classe implique une conscience (ou inconscience) de sa propre position de classe supérieure. Ce n'est pas de la méchanceté — c'est de la gentillesse bougeoise ("je veux être gentil avec les pauvres au lieu de vouloir qu'il n'y ait plus de pauvres").
 
 ## Exemples
 - [[Marine Tondelier]] à l'Humanité : dit qu'il faut "parler du vrai, du sensible, des affects du quotidien" au lieu de concepts comme "mode de production" → présuppose que les ouvriers sont plus bêtes qu'elle
-- [[Francois Ruffin]] au lancement de [[Debout]] : "le parti des gens qui puent un peu sous les bras" — stéréotype imprécis (les prolos surinvestissent les déo Axe/Rexona, c'est la petite bourgeoisie écolo qui refuse le déo), cosplay Audiard plaqué sur les années 60, opposition "bours et tours" qui maintient l'hégémonie conservatrice. Padu : "Ce qui pue sous les bras de Ruffin, c'est le fake." Comparé aux blancs qui se croient antiracistes en disant "j'adore le zouk" — même mécanisme de stéréotypisation positive qui maintient la domination. Opposé à [[Jean-Luc Melenchon]] qui part de l'intelligence des gens, et à [[Anasse Kazib]] / Friot qui partent de la force du prolétariat
+- [[Francois Ruffin]] au lancement de [[Debout]] : "le parti des gens qui puent un peu sous les bras" — stéréotype imprécis (les prolos surinvestissent les déo Axe/Rexona, c'est la petite bourgeoisie écolo qui refuse le déo), cosplay Audiard plaqué sur les années 60, opposition "bours et tours" qui maintient l'hégémonie conservatrice. La PaduTeam : "Ce qui pue sous les bras de Ruffin, c'est le fake." Comparé aux blancs qui se croient antiracistes en disant "j'adore le zouk" — même mécanisme de stéréotypisation positive qui maintient la domination. Opposé à [[Jean-Luc Melenchon]] qui part de l'intelligence des gens, et à [[Anasse Kazib]] / Friot qui partent de la force du prolétariat
 - La pauvrophobie progressiste : "le problème des pauvres c'est qu'on est pas assez gentil avec eux"
 
 ## Lien avec le [[Graphique]]

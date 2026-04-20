@@ -15,7 +15,7 @@ Discrimination et stigmatisation systémiques des musulmans. La PaduTeam la trai
 
 ## Les deux matrices historiques
 
-Chris développe un cadre analytique à deux matrices dans [[FROM TROTSKISTE TO RACISTE]] :
+La PaduTeam développe un cadre analytique à deux matrices dans [[FROM TROTSKISTE TO RACISTE]] :
 
 ### Matrice 1 : La droite réactionnaire historique
 Issue de l'antisémitisme bourgeois catholique français du XIXe-XXe siècle — Barrès, [[Charles Maurras]], Drumont. Ce courant voyait les Juifs comme "une nation dans la nation" qui "gangrenait" la France. Ce même discours se reporte aujourd'hui sur les musulmans : grand remplacement, frérisme infiltrant partout, khalifat imminent. C'est le complotisme racial traditionnel de l'extrême droite.
@@ -29,7 +29,7 @@ Ces deux matrices convergent pour "taper sur les musulmans" en 2024-2025 : loi s
 ## Mécanisme : islamophobie et lutte des classes
 L'islamophobie est le mécanisme central du **pacte racial** bourgeois : elle permet de créer une alliance entre le prolétariat blanc (rendu islamophobe) et les classes supérieures (naturellement islamophobes) contre la fraction musulmane des classes populaires. Cela brise l'unité de la classe ouvrière et empêche toute coalition révolutionnaire.
 
-Chris : "toute personne qui tape sur quelqu'un de musulman dans sa liberté d'exercer sa foi est un ennemi de la classe ouvrière."
+La PaduTeam : "toute personne qui tape sur quelqu'un de musulman dans sa liberté d'exercer sa foi est un ennemi de la classe ouvrière."
 
 ## Exemples concrets
 - Loi 2004 : interdiction du voile à l'école (ciblée sur les jeunes filles arabes/noires, pas les autres)
@@ -39,11 +39,11 @@ Chris : "toute personne qui tape sur quelqu'un de musulman dans sa liberté d'ex
 - La "tenue républicaine" (injonction à montrer ses formes mais pas trop)
 
 ## Analogie historique
-Chris compare la situation des musulmans aujourd'hui à celle des Juifs sous l'Affaire Dreyfus : stigmatisés comme "nation dans la nation", accusés de trahison potentielle, victimes d'un fond complotiste raciste. Les mêmes matrices discursives (Dreyfus = espion potentiel parce que Juif ; musulman = frériste potentiel parce que musulman).
+La PaduTeam compare la situation des musulmans aujourd'hui à celle des Juifs sous l'Affaire Dreyfus : stigmatisés comme "nation dans la nation", accusés de trahison potentielle, victimes d'un fond complotiste raciste. Les mêmes matrices discursives (Dreyfus = espion potentiel parce que Juif ; musulman = frériste potentiel parce que musulman).
 
 ## "Islamophobie" vs "racisme antimusulman" : enjeu terminologique
 
-Au dernier congrès du [[Parti Communiste Francais|PCF]], les militants de la [[MJCF]] ont demandé que le parti utilise le terme "islamophobie" dans ses textes. La direction Roussel a imposé "racisme antimusulman" à la place. Ce choix terminologique est analysé par la PaduTeam comme symptomatique de la ligne droitière : refuser de nommer l'islamophobie pour ne pas effaroucher un électorat proche de CNews. Padu : "C'est le discours du Printemps Républicain — on ne dit pas islamophobie."
+Au dernier congrès du [[Parti Communiste Francais|PCF]], les militants de la [[MJCF]] ont demandé que le parti utilise le terme "islamophobie" dans ses textes. La direction Roussel a imposé "racisme antimusulman" à la place. Ce choix terminologique est analysé par la PaduTeam comme symptomatique de la ligne droitière : refuser de nommer l'islamophobie pour ne pas effaroucher un électorat proche de CNews. La PaduTeam : "C'est le discours du Printemps Républicain — on ne dit pas islamophobie."
 
 ## Roussel : "religion et politique hors du sport"
 

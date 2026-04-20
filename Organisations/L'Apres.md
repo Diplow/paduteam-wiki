@@ -29,11 +29,11 @@ Rejoint par [[Gérard Filoche]] (exclu du PS pour antisémitisme). L'incident du
 - Gauche du PS : [[Gérard Filoche]] (GDS), [[Clémentine Autain]] (venue d'Ensemble)
 
 ## Universités d'été communes
-[[Francois Ruffin]] annonce des universités d'été en commun entre [[Debout]], L'Après et Génération. Padu : "Tu sais c'est le même bande de bâtards. Tu as Ruffin, Filoche, Corbière, Garrido, Génération — que des losers noisettes."
+[[Francois Ruffin]] annonce des universités d'été en commun entre [[Debout]], L'Après et Génération. La PaduTeam : "Tu sais c'est le même bande de bâtards. Tu as Ruffin, Filoche, Corbière, Garrido, Génération — que des losers noisettes."
 
 ## Critique de la "démocratie interne" réclamée
 
-Padu : "La démocratie interne, ça se fait quand tu as aussi des militants de terrain qui ont une formation politique solide." La demande de démocratisation de L'Après est creuse car elle ne propose pas de reconstruire des structures militantes avec cotisations, formation et rotation des cadres — elle propose juste de changer les chefs (Mélenchon → Corbière/Garrido). "Refaire une ième France insoumise noyautée par deux ou trois arrivistes" ne résout rien structurellement. La vraie alternative serait de reconstruire un parti communiste avec une base sociale.
+La PaduTeam : "La démocratie interne, ça se fait quand tu as aussi des militants de terrain qui ont une formation politique solide." La demande de démocratisation de L'Après est creuse car elle ne propose pas de reconstruire des structures militantes avec cotisations, formation et rotation des cadres — elle propose juste de changer les chefs (Mélenchon → Corbière/Garrido). "Refaire une ième France insoumise noyautée par deux ou trois arrivistes" ne résout rien structurellement. La vraie alternative serait de reconstruire un parti communiste avec une base sociale.
 
 La "démocratie pour eux" ne signifie pas tirage au sort ou rotation des mandats de député tous les 5 ans — ça signifie garder leurs postes à eux. "Ça ne se fera pas en évinçant Garrido, Corbière auprès des postes, en les mettant militants de terrain et en faisant tourner les gens qui sont députés."
 

@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [travail, anti-impérialisme]
 aliases: [Alain Bihr]
 date created: Wednesday, April 1st 2026, 5:03:58 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/théorie #thème/travail #thème/le-Graphique #thème/anti-impérialisme

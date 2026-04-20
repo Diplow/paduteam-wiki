@@ -18,15 +18,15 @@ Navigue entre les blocs, concurrent de [[Dominique de Villepin]] sur un espace s
 N'a pas intérêt à se ranger derrière [[France Insoumise]] ou [[Parti Socialiste]] dans la configuration divisée de 2027.
 
 ## Responsabilité 2022
-Chris prédit le PCF à ~7% pour 2022 (résultat réel ~2,28%). Les voix PCF manquantes sont allées vers Zemmour, Le Pen et Macron — c'est selon Chris la cause directe de l'échec de [[Jean-Luc Melenchon]] à passer au second tour (400 000 voix d'écart). "La faiblesse du PCF qui a fait que Mélenchon n'est pas au second tour de 2022."
+La PaduTeam prédit le PCF à ~7% pour 2022 (résultat réel ~2,28%). Les voix PCF manquantes sont allées vers Zemmour, Le Pen et Macron — c'est selon la PaduTeam la cause directe de l'échec de [[Jean-Luc Melenchon]] à passer au second tour (400 000 voix d'écart). "La faiblesse du PCF qui a fait que Mélenchon n'est pas au second tour de 2022."
 
 ## Position sur le cannabis et les drogues
 Sur le [[Graphique]], Roussel se retrouve du côté du "oui" à la pénalisation des consommateurs de cannabis — mais ne recouvre même pas la masse sociale qui porte cette position (retraités populaires). Il est trop cadre supérieur pour eux et trop réactionnaire pour les actifs. La PCS la plus proche de Roussel sur cette question : les policiers. Sa position prohibitionniste est sociologiquement inadéquate — elle ne correspond ni à un clivage de classe, ni à un clivage générationnel exploitable électoralement. C'est une position idéologique sans base sociale.
 
 ## La maison Saucisson 2025 : de la tragédie à la farce
-Bilan 2025 par Chris : "Bilan globalement négatif." (parodie de Marchais qui disait "bilan globalement positif"). Continuité de la stratégie depuis 2018 — nostalgie "PC is back", valeur travail, sécurité, anti-LFI systématique.
+Bilan 2025 : "Bilan globalement négatif." (parodie de Marchais qui disait "bilan globalement positif"). Continuité de la stratégie depuis 2018 — nostalgie "PC is back", valeur travail, sécurité, anti-LFI systématique.
 
-A défilé avec Zemmour devant des policiers scandant que "le problème de la police c'est la justice qui les empêche." Propose une "fédération de chasse communiste" — Zoé décortique l'absurdité : les classes révolutionnaires sont jeunes, féminisées, racisées ; la chasse c'est quasiment que des vieux hommes blancs. Roussel parle aux mêmes PCS que [[Eric Zemmour]] sur le [[Graphique]] (vieux retraités propriétaires) — "il règle les problèmes de gens vieux, un peu propriétaires, un peu dans le confort."
+A défilé avec Zemmour devant des policiers scandant que "le problème de la police c'est la justice qui les empêche." Propose une "fédération de chasse communiste" — la PaduTeam décortique l'absurdité : les classes révolutionnaires sont jeunes, féminisées, racisées ; la chasse c'est quasiment que des vieux hommes blancs. Roussel parle aux mêmes PCS que [[Eric Zemmour]] sur le [[Graphique]] (vieux retraités propriétaires) — "il règle les problèmes de gens vieux, un peu propriétaires, un peu dans le confort."
 
 La PaduTeam distingue la tragédie (glorieuse histoire : résistance, reconstruction) de la farce actuelle : "Ils pouvaient pas gagner et ne pouvaient gagner [avant]. Aujourd'hui, ils peuvent gagner et font n'importe quoi." Le PCF est destiné à être un parti de noisette ou à disparaître. Pour reconstruire un vrai communisme, il faut "que cette lentagonie se termine" pour reconstruire avec des "camarades sincères."
 
@@ -40,11 +40,11 @@ Cette théorie du "grand moment républicain national de gauche de 2017" est aus
 ## Festival de la Noisette de Bram (2026)
 Sur l'affiche du rassemblement organisé par [[Carole Delga]] mais **absent** le jour J — [[Yann Brossat]] est venu à sa place. "On pense que c'est peut-être sa recette de couscous qui a été utilisée" (Chris) — ironie sur le cassoulet porc-canard qui ressemble au couscous avec saucisses de porc. Sa position à l'affiche sans venir est "très significatif" : Roussel essaie d'apparaître unioniste sans se compromettre. Pour la PaduTeam, c'est aussi un signe de la lutte interne au PCF entre Roussel (ligne identitaire) et Brossat (ligne unioniste). Le 40e congrès PCF (été 2026) devrait trancher entre leurs lignes.
 
-Paradoxe central : Roussel a cassé les pieds à tout le monde pour dire que le PCF est un "parti indépendant" qui ne soutiendra pas Mélenchon, mais se retrouve dans des trucs à côté de gens à droite de Mélenchon. "Si c'est pour faire 2% à droite de la France insoumise, autant faire 2% à gauche." (Padu)
+Paradoxe central : Roussel a cassé les pieds à tout le monde pour dire que le PCF est un "parti indépendant" qui ne soutiendra pas Mélenchon, mais se retrouve dans des trucs à côté de gens à droite de Mélenchon. "Si c'est pour faire 2% à droite de la France insoumise, autant faire 2% à gauche."
 
 ## Municipales 2026 : le PCF s'en tire
 
-Padu : "Ils ont joué en filoutant et c'est pas mal joué." Le PCF a adopté un profil bas pendant la campagne — les "feux" étaient sur Tondelier et Fort, pas sur le PCF. Résultat : des victoires notables.
+La PaduTeam : "Ils ont joué en filoutant et c'est pas mal joué." Le PCF a adopté un profil bas pendant la campagne — les "feux" étaient sur Tondelier et Fort, pas sur le PCF. Résultat : des victoires notables.
 
 **Gains :** Nîmes (150 000 habitants, face au RN dans le Sud — victoire significative), Martigues, Auagne, plusieurs banlieues parisiennes parfois en alliance avec le PS ou LFI.
 
@@ -56,30 +56,30 @@ Roussel sort de ces municipales renforcé pour son congrès interne, contraireme
 
 LFI publie une affiche représentant [[Cyril Hanouna]] avec des codes visuels antisémites des années 30. LFI la retire, [[Manuel Bompard]] reconnaît que c'était une erreur. Roussel va alors sur BFM TV à une heure de grande écoute pour qualifier l'affiche d'"ignoble", parler d'"honte antisémite" et comparer la stratégie de Mélenchon à celle de Trump (voir [[Bruit et fureur]]). Il le fait **une fois que tout le monde a déjà tapé dessus** — "il met un petit coup de pied une fois que les gens sont au sol."
 
-Padu : "C'est honteux. La lutte à Roussel c'est la lutte contre Mélenchon. Il faut qu'on ne voit plus que lui — comme Monsieur Trump. Et il ne veut pas se coucher devant l'atmosphère réac conservatrice libérale... mais lui il se couche tout le temps."
+La PaduTeam : "C'est honteux. La lutte à Roussel c'est la lutte contre Mélenchon. Il faut qu'on ne voit plus que lui — comme Monsieur Trump. Et il ne veut pas se coucher devant l'atmosphère réac conservatrice libérale... mais lui il se couche tout le temps."
 
 Sans jamais nuancer : "Si c'était un camarade il dirait — bon ils ont fait ça, ils l'ont enlevé, c'est pas grave, on passe à autre chose." Il ne le fait pas.
 
-Padu partage l'avis que l'affiche pose effectivement un problème de représentation antisémite (argument color blind invalide), mais que l'exploiter politiquement contre son allié de gauche est une trahison.
+La PaduTeam partage l'avis que l'affiche pose effectivement un problème de représentation antisémite (argument color blind invalide), mais que l'exploiter politiquement contre son allié de gauche est une trahison.
 
 ## Roussel et la recomposition 2027
 
-[[Raphael Glucksmann|Glucksmann]] construit un pôle centre-gauche (PS + [[Europe Ecologie Les Verts|ELV]]) explicitement sans Mélenchon ni LFI. Roussel se retrouve coincé : il ne peut pas s'allier à Glucksmann (pas assez atlantiste, programme PCF incompatible) ni à Mélenchon (trop d'attaques accumulées). Padu prédit **2%** sans alliance viable.
+[[Raphael Glucksmann|Glucksmann]] construit un pôle centre-gauche (PS + [[Europe Ecologie Les Verts|ELV]]) explicitement sans Mélenchon ni LFI. Roussel se retrouve coincé : il ne peut pas s'allier à Glucksmann (pas assez atlantiste, programme PCF incompatible) ni à Mélenchon (trop d'attaques accumulées). La PaduTeam prédit **2%** sans alliance viable.
 
-Solution intelligente selon Padu : **refaire le Front de Gauche** en négociant avec LFI une alliance où le PCF gagne des députés et une vraie place — "Le PCF a quasiment le même programme que LFI voire plus à gauche. S'il était intelligent, il faudrait qu'il refasse le Front de Gauche."
+Solution intelligente selon la PaduTeam : **refaire le Front de Gauche** en négociant avec LFI une alliance où le PCF gagne des députés et une vraie place — "Le PCF a quasiment le même programme que LFI voire plus à gauche. S'il était intelligent, il faudrait qu'il refasse le Front de Gauche."
 
 ## Gaullocommunisme
 Roussel est épinglé dans [[FROM TROTSKISTE TO RACISTE]] pour surfer sur le mythe du [[Gaullocommunisme]] — l'idée d'une convergence historique entre gaullisme et PCF. La PaduTeam : "tout tenant du gaullocommunisme est un chien" (variation sartrienne). Surfer sur ce mythe, c'est être anticommuniste sous couvert de patriotisme.
 
 ## Sur CNews : racisme antiblanc, voile = salut nazi
 
-Dans l'émission Punchline de [[Laurence Ferrari]], Roussel valide l'existence du racisme antiblanc (c'est lui qui a lancé le sujet, pas Ferrari), et compare le port du voile au salut nazi. Chris : "Ce n'est pas Ferrari qui lui force la main — c'est lui qui a lancé le thème du racisme antiblanc." Tibo Inshape est qualifié "à gauche de Roussel" sur la question du voile dans le sport.
+Dans l'émission Punchline de [[Laurence Ferrari]], Roussel valide l'existence du racisme antiblanc (c'est lui qui a lancé le sujet, pas Ferrari), et compare le port du voile au salut nazi. La PaduTeam : "Ce n'est pas Ferrari qui lui force la main — c'est lui qui a lancé le thème du racisme antiblanc." Tibo Inshape est qualifié "à gauche de Roussel" sur la question du voile dans le sport.
 
 Sur la Charte olympique : Roussel veut inscrire dans la loi les principes de la Charte olympique — ce qui interdit "religion et politique dans le sport". Or la Charte olympique autorise précisément le voile. Il a aussi appelé l'équipe de France de foot à voter NFP pendant les législatives — donc le sport doit être politique quand ça l'arrange, pas pour le voile.
 
 ## Contre-société et opportunisme post-Mélenchon
 
-Chris analyse la stratégie PCF comme une attente opportuniste : Roussel espère "ramasser" après Mélenchon. Erreur fatale — avec sa ligne droitière, il ne peut capter ni les MJCF (qui "détestent" Roussel), ni les étudiants, ni les ouvriers. Le PCF a une vraie implantation locale (permanents, réunions intersyndicales) que la FI n'a pas — mais Roussel gâche cet avantage par une ligne politique inadéquate. S'il tenait la ligne Front de Gauche, "il pourrait tellement ramasser quand Mélenchon sera plus là."
+La PaduTeam analyse la stratégie PCF comme une attente opportuniste : Roussel espère "ramasser" après Mélenchon. Erreur fatale — avec sa ligne droitière, il ne peut capter ni les MJCF (qui "détestent" Roussel), ni les étudiants, ni les ouvriers. Le PCF a une vraie implantation locale (permanents, réunions intersyndicales) que la FI n'a pas — mais Roussel gâche cet avantage par une ligne politique inadéquate. S'il tenait la ligne Front de Gauche, "il pourrait tellement ramasser quand Mélenchon sera plus là."
 
 Roussel est destiné à être "le communiste préféré des fachots" : Boloré pourrait le remercier, des patrons pourraient prendre la carte du PCF.
 
@@ -93,20 +93,20 @@ Débat interne au PCF lors du dernier congrès : les MJCF voulaient que le parti
 
 ## Stratégie de la respectabilité et décrochage de la ligne (2024)
 
-[[Stathis Kouvelakis]] et [[Dr Zoe|Zoé]] résument la contradiction Roussel en 2024 : son programme économique est parfois plus à gauche que LFI, mais il passe son temps à "bégayer" dans les médias sur des sujets où il est censé être solide (régularisation des travailleurs sans papier), à être "complaisant vis-à-vis du consensus islamophobe", à se taire sur les violences policières. Résultat : il est "le communiste préféré des médias et des électeurs de droite" — ce qui est, pour la PaduTeam, le pire signal possible.
+[[Stathis Kouvelakis]] et la PaduTeam résument la contradiction Roussel en 2024 : son programme économique est parfois plus à gauche que LFI, mais il passe son temps à "bégayer" dans les médias sur des sujets où il est censé être solide (régularisation des travailleurs sans papier), à être "complaisant vis-à-vis du consensus islamophobe", à se taire sur les violences policières. Résultat : il est "le communiste préféré des médias et des électeurs de droite" — ce qui est, pour la PaduTeam, le pire signal possible.
 
 La [[Strategie de la respectabilite]] n'est pas payante : les résultats électoraux sous Roussel reculent dans les circonscriptions difficiles, y compris pour des candidats qui s'étaient distingués en évitant la ligne islamophobe de Roussel. Les ajustements discursifs ne récupèrent pas l'électorat RN — ces électeurs ne viendront pas voter PCF pour autant.
 
 ## Graphique : confirmé "haut à droite" en micro-trottoir
 
-Lors d'un micro-trottoir du 1er mai filmé par [[Cathedrale Osseuse]], ce dernier pose directement la question à une militante JC rousselliste : "comment ça se fait que Roussell soit en haut à droite dans le graphique ?" La question reste sans réponse convaincante. Padu commente : l'électorat du PCF n'est pas composé de prolétaires — ce sont des classes intermédiaires. Les gens qui gagnent 800€ par mois n'hésitent pas entre Roussell et Mélenchon. Ce sont des électorats structurellement distincts parce que les stratégies militantes et médiatiques ne s'adressent pas aux mêmes personnes. Roussell parle à des retraités propriétaires blancs, pas aux classes populaires.
+Lors d'un micro-trottoir du 1er mai filmé par [[Cathedrale Osseuse]], ce dernier pose directement la question à une militante JC rousselliste : "comment ça se fait que Roussell soit en haut à droite dans le graphique ?" La question reste sans réponse convaincante. La PaduTeam commente : l'électorat du PCF n'est pas composé de prolétaires — ce sont des classes intermédiaires. Les gens qui gagnent 800€ par mois n'hésitent pas entre Roussell et Mélenchon. Ce sont des électorats structurellement distincts parce que les stratégies militantes et médiatiques ne s'adressent pas aux mêmes personnes. Roussell parle à des retraités propriétaires blancs, pas aux classes populaires.
 
 ## "Être large" comme catastrophe stratégique
 
-La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême droite, ne pas mettre en avant l'antiracisme) est décrite par Padu comme le mécanisme exact qui a provoqué la perte du vote populaire par le PCF dans les années 80 avec Mitterrand. C'est aussi ce qui a fait perdre Ruffin ses élections législatives (alliance avec le centre). La [[Division raciale du proletariat]] ne se combat pas en "étant large" — elle se combat avec un projet antiraciste et égalitaire clair.
+La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême droite, ne pas mettre en avant l'antiracisme) est décrite par la PaduTeam comme le mécanisme exact qui a provoqué la perte du vote populaire par le PCF dans les années 80 avec Mitterrand. C'est aussi ce qui a fait perdre Ruffin ses élections législatives (alliance avec le centre). La [[Division raciale du proletariat]] ne se combat pas en "étant large" — elle se combat avec un projet antiraciste et égalitaire clair.
 
 ## Vidéos où Roussel est analysé
-- [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de Zoé et Chris sur l'hypothèse d'un communiste votant Bardella au 2nd tour
+- [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse sur le vote 2017, absent au Festival de la Noisette de Bram (Brossat venu à sa place)
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sur l'affiche de Bram mais absent ; paradoxe de sa position anti-LFI mais dans la coalition noisette ; 40e congrès PCF été 2026 comme moment de résolution.

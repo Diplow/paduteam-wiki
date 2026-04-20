@@ -19,7 +19,7 @@ Principe fondamental de l'analyse PaduTeam : on ne peut pas simplement additionn
 
 Les personnes qui ont subi le racisme, la déchéance de nationalité, les violences policières sous le [[Parti Socialiste]] ont de très bonnes raisons de ne pas voter PS, quelle que soit l'instruction de vote des partis.
 
-**Tulle 2026** : [[Francois Hollande]] conseille paradoxalement une union LFI-PS à Tulle (son fief) alors qu'il passe sur tous les plateaux contre cette alliance. La gauche perd : 54.25% pour la droite. Padu : "En perdant Tulle, il démontre qu'il a raison. Voilà, la dynamique derrière, ça faut l'extraire."
+**Tulle 2026** : [[Francois Hollande]] conseille paradoxalement une union LFI-PS à Tulle (son fief) alors qu'il passe sur tous les plateaux contre cette alliance. La gauche perd : 54.25% pour la droite. La PaduTeam : "En perdant Tulle, il démontre qu'il a raison. Voilà, la dynamique derrière, ça faut l'extraire."
 
 **Paris 2026** : [[Emmanuel Gregoire]] aurait peut-être fait moins de voix si [[Sophia Chikirou]] lui avait fusionné — les centristes auraient fui vers [[Rachida Dati]]. Grégoire gagne largement sans la fusion. Non seulement on ne peut pas additionner les voix, mais l'addition peut produire une soustraction.
 
@@ -33,4 +33,4 @@ Plus fondamentalement, une candidature unique à gauche perd une partie des éle
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Développement théorique complet : candidature unique = perte d'une frange + débat du 1er tour sur la droite ; deux candidats à gauche = débat de gauche au 1er tour + meilleur report au 2e tour
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toulouse (5 000 voix manquantes), Tulle (perd avec LFI), Paris (Grégoire gagne sans LFI), Nantes (Roland gagne à peine avec LFI), Marseille (De Logu se désiste). Cas d'école multiples du même principe.
-- [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — [[Marine Tondelier]] présente l'union comme une somme de pourcentages. Padu : "si vous allez chercher certains électeurs sur certains projets politiques, vous allez en perdre d'autres qui n'ont pas les mêmes intérêts de classe, la même vision du monde." Deux candidats à gauche au 1er tour = débat sur la retraite à 60 ans, Palestine, nationalisations, créant une dynamique de second tour que l'union arithmétique ne produit pas.
+- [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — [[Marine Tondelier]] présente l'union comme une somme de pourcentages. La PaduTeam : "si vous allez chercher certains électeurs sur certains projets politiques, vous allez en perdre d'autres qui n'ont pas les mêmes intérêts de classe, la même vision du monde." Deux candidats à gauche au 1er tour = débat sur la retraite à 60 ans, Palestine, nationalisations, créant une dynamique de second tour que l'union arithmétique ne produit pas.

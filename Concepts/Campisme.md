@@ -3,7 +3,7 @@ type: concept
 domaine: ['géopolitique']
 thèmes: ['anti-impérialisme']
 date created: Tuesday, March 31st 2026, 9:53:06 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme
 # Campisme

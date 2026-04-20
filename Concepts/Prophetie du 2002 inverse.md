@@ -10,7 +10,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Prophétie du 2002 inversé
 
 ## Définition
-Variante de la prophétie du [[Graphique]] pour 2027, introduite par [[Chris]] et [[Padu]]. Là où la prophétie initiale ([[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]) prévoyait un second tour [[Jean-Luc Melenchon]] vs [[Marine Le Pen]] (la "diabolisation d'un extrême" comme en 2002 mais inversée), la prophétie du 2002 inversé complet envisage un second tour [[Francois Hollande]] vs [[Jean-Luc Melenchon]].
+Variante de la prophétie du [[Graphique]] pour 2027, introduite par la PaduTeam. Là où la prophétie initiale ([[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]) prévoyait un second tour [[Jean-Luc Melenchon]] vs [[Marine Le Pen]] (la "diabolisation d'un extrême" comme en 2002 mais inversée), la prophétie du 2002 inversé complet envisage un second tour [[Francois Hollande]] vs [[Jean-Luc Melenchon]].
 
 ## Le parallèle avec 2002
 En 2002, la gauche était explosée (Jospin, Laguiller, Besancenot, Hue, Taubira, Chevènement, Mamère, Gluckstein — huit candidats dans le même espace sociologique) tandis que Chirac occupait seul un espace de droite modérée sans concurrence directe. Résultat : Chirac 1er, Le Pen 2e, Jospin éliminé.
@@ -34,7 +34,7 @@ Le 2e tour Hollande/Mélenchon serait fondamentalement différent d'un Chirac/Le
 - Les classes populaires qui ont voté Bardella au 1er tour peuvent basculer vers Mélenchon en se disant que l'égalité est possible
 
 ## Relation avec la prophétie initiale
-Les deux prophéties ne sont pas contradictoires — elles partagent le même socle ([[Moisation]], [[Eclatement du bloc central]], diabolisation de la gauche de rupture). La variable est l'identité du 2e qualifié : Le Pen ou Hollande. Chris et Padu considèrent les deux futurs comme possibles, le "multivers du graphique".
+Les deux prophéties ne sont pas contradictoires — elles partagent le même socle ([[Moisation]], [[Eclatement du bloc central]], diabolisation de la gauche de rupture). La variable est l'identité du 2e qualifié : Le Pen ou Hollande. La PaduTeam considère les deux futurs comme possibles, le "multivers du graphique".
 
 ## Diabolisation et vote caché (complément)
 La prophétie inclut un mécanisme de **vote caché** : Mélenchon est à 14,5% dans les sondages mais à 17-18% en réalité, parce que les gens ne déclarent pas leur intention de vote à cause de la diabolisation médiatique. Dans un scrutin fragmenté à 10+ candidats, ce 17-18% suffit à passer la barre du second tour. Les sondages sont "faits pour les badauds, pour leur faire croire que c'est impossible."
@@ -43,7 +43,7 @@ La diabolisation elle-même confirme la prophétie : s'ils diabolisent autant, c
 
 ## Confirmation par les municipales 2026
 
-Les municipales 2026 valident toutes les forces de la prophétie. Padu : "Vous voyez un truc intéressant, c'est que là, on a vraiment la force du PS, le centre qui se délite, le RN qui stagne, la droite qui se refait une santé d'Édouard Philippe à Retailleau."
+Les municipales 2026 valident toutes les forces de la prophétie. La PaduTeam : "Vous voyez un truc intéressant, c'est que là, on a vraiment la force du PS, le centre qui se délite, le RN qui stagne, la droite qui se refait une santé d'Édouard Philippe à Retailleau."
 
 - PS qui remonte par le centre ✓ (Strasbourg, Paris, Montpellier, Pau)
 - LFI qui s'installe dans les grandes villes et banlieues ✓ (Roubaix, Vénissieux, banlieues, La Réunion)
@@ -55,7 +55,7 @@ Scénarios 2027 post-municipales : "Vous pouvez avoir un deuxième tour Philippe
 
 ## Validation par Frédéric Lordon
 
-Dans [[LORDON MELENCHON peut GAGNER en 2027]], Padu et Chris réagissent à une interview de [[Frederic Lordon]] sur [[Blast]] où il déclare — sans nommer le Graphique — que "ça ne se présente pas si mal" pour la FI en 2027 "strictement sur les données électorales". Il identifie les mêmes mécanismes : éclatement du paysage institutionnel, la FI comme "seule incarnation d'une différence", la diabolisation médiatique comme facteur amplifiant. Pour la PaduTeam, c'est une confirmation que leur analyse n'est pas idiosyncratique — "l'esprit du temps converge".
+Dans [[LORDON MELENCHON peut GAGNER en 2027]], La PaduTeam réagit à une interview de [[Frederic Lordon]] sur [[Blast]] où il déclare — sans nommer le Graphique — que "ça ne se présente pas si mal" pour la FI en 2027 "strictement sur les données électorales". Il identifie les mêmes mécanismes : éclatement du paysage institutionnel, la FI comme "seule incarnation d'une différence", la diabolisation médiatique comme facteur amplifiant. Pour la PaduTeam, c'est une confirmation que leur analyse n'est pas idiosyncratique — "l'esprit du temps converge".
 
 ## Vidéos où le concept est analysé
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027

@@ -26,7 +26,7 @@ Le COJO annonce l'annulation de sa désignation comme porteur de la flamme : "d�
 
 ## Dans l'analyse PaduTeam
 
-Padu : "quand il y a plusieurs meufs, c'est un peu voilà. Si tu as cinq nanas qui disent 'ouais il m'a envoyé des messages quand j'avais 12 ans', c'est quand même chelou."
+La PaduTeam : "quand il y a plusieurs meufs, c'est un peu voilà. Si tu as cinq nanas qui disent 'ouais il m'a envoyé des messages quand j'avais 12 ans', c'est quand même chelou."
 
 La défense "j'envoyais ça à tous mes contacts sans vérifier les âges" est démontée : "à quel moment tu envoies des vidéos à caractère sexuel à tous tes contacts ?" Ce n'est pas une défense — c'est une aggravation.
 

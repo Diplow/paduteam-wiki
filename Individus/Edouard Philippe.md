@@ -30,11 +30,11 @@ Après sa défaite à la primaire LR face à [[Bruno Retailleau]], [[Xavier Bert
 
 ## Municipales 2026 : la droite se refait une santé
 
-Philippe fait partie des bénéficiaires indirects des municipales 2026. La droite se "refait une santé", de Philippe à Retailleau. Padu : "La droite qui se refait une santé d'Édouard Philippe à Retailleau." Les candidats de droite classique bénéficient du vote de barrage et des reports centristes sans pour autant être en position d'aller au second tour de la présidentielle. Jean-François Copé : "Le grand gagnant c'est la droite républicaine" — mais la PaduTeam répond qu'ils ne seront probablement pas au second tour de la présidentielle, où ce sera Bardella ou Mélenchon.
+Philippe fait partie des bénéficiaires indirects des municipales 2026. La droite se "refait une santé", de Philippe à Retailleau. La PaduTeam : "La droite qui se refait une santé d'Édouard Philippe à Retailleau." Les candidats de droite classique bénéficient du vote de barrage et des reports centristes sans pour autant être en position d'aller au second tour de la présidentielle. Jean-François Copé : "Le grand gagnant c'est la droite républicaine" — mais la PaduTeam répond qu'ils ne seront probablement pas au second tour de la présidentielle, où ce sera Bardella ou Mélenchon.
 
 ## Le post-macronisme de droite
 
-Chris identifie Philippe comme "le post-macronisme de droite" (vs [[Gabriel Attal]] "post-macronisme de gauche"). Philippe vient de [[Les Republicains|LR]], pas du même parti qu'Attal (qui vient du PS) — malgré leur passage commun chez Macron. Philippe est "beaucoup plus libéral" qu'Attal : retraite à 67 ans, opposition au budget de la Sécu en disant "c'est pas assez libéral" (l'inverse de la gauche). Son espace électoral est clair : la droite qui ne veut pas l'extrême droite et veut récupérer le libéralisme macronien. Attal, lui, n'a "aucun espace" entre Philippe et le PS.
+La PaduTeam identifie Philippe comme "le post-macronisme de droite" (vs [[Gabriel Attal]] "post-macronisme de gauche"). Philippe vient de [[Les Republicains|LR]], pas du même parti qu'Attal (qui vient du PS) — malgré leur passage commun chez Macron. Philippe est "beaucoup plus libéral" qu'Attal : retraite à 67 ans, opposition au budget de la Sécu en disant "c'est pas assez libéral" (l'inverse de la gauche). Son espace électoral est clair : la droite qui ne veut pas l'extrême droite et veut récupérer le libéralisme macronien. Attal, lui, n'a "aucun espace" entre Philippe et le PS.
 
 ## Vidéos
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de l'impossibilité d'alliance avec Retailleau

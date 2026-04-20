@@ -19,7 +19,7 @@ Confronté à [[Emeric Caron]] lors de l'audition. Njar ne connaît pas le nombr
 
 Sur la censure du gouvernement israélien qui interdit aux journalistes étrangers de couvrir Gaza : "je n'ai pas de réponse supplémentaire à donner."
 
-Padu : "c'est là sûr prendre parti sur quelque chose." Il suffirait de répondre oui. Le fait qu'il ne peut pas répondre révèle la position editoriale de CNews sur Gaza.
+La PaduTeam : "c'est là sûr prendre parti sur quelque chose." Il suffirait de répondre oui. Le fait qu'il ne peut pas répondre révèle la position editoriale de CNews sur Gaza.
 
 ## Vidéos où Njar est mentionné
 - [[AYMERIC CARON ECRABOUILLE CNEWS SUR GAZA]] — L'audition parlementaire ; refus de condamner les assassinats de journalistes

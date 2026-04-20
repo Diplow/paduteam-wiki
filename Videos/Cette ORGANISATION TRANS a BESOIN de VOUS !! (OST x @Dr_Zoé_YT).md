@@ -23,7 +23,7 @@ Long format (35-40 min). [[Dr Zoe]] reçoit [[Lou Girard]], porte-parole de l'[[
 
 **Les personnes trans sont prolétaires** : avant transition, travailleurs. Après, souvent déclassés (rejet familial, discrimination emploi, coût médical). Lou Girard : "Je connais extrêmement peu de personnes qui étaient bourgeoises avant leur transition." La [[Transidentite|transidentité]] n'est pas un "problème de bourgeois qui s'ennuient" — c'est le narratif des années 2010 sur Internet hégémonisé par la droite.
 
-**Le savoir médical communautaire** : formation médicale sur la transidentité quasi nulle (Dr Zoé : "zéro, rien du tout" — son chef de service d'endocrinologie : "je ne vous formerai pas là-dessus, ça ne devrait pas exister"). Résultat : les personnes trans sont souvent mieux formées que leurs médecins sur leurs propres traitements. L'OST formalise ce contre-savoir : cartographie des médecins safe, formation des soignants, DIY (accès aux traitements sans ordonnance).
+**Le savoir médical communautaire** : formation médicale sur la transidentité quasi nulle (La PaduTeam : "zéro, rien du tout" — un chef de service d'endocrinologie : "je ne vous formerai pas là-dessus, ça ne devrait pas exister"). Résultat : les personnes trans sont souvent mieux formées que leurs médecins sur leurs propres traitements. L'OST formalise ce contre-savoir : cartographie des médecins safe, formation des soignants, DIY (accès aux traitements sans ordonnance).
 
 **La psychiatrisation comme violence** : des CPAM exigent des certificats psychiatriques pour accéder aux remboursements. "Test de la vie réelle" : on impose à la personne de vivre en genre cible sans hormones — c'est vivre la transphobie de manière violente avant d'avoir les moyens physiologiques de transition. Lou Girard : "Une pure humiliation."
 
@@ -35,7 +35,7 @@ Long format (35-40 min). [[Dr Zoe]] reçoit [[Lou Girard]], porte-parole de l'[[
 
 ## Point notable
 
-Dr Zoé soulève la question des enfants intersexes mutilés génitalement par le corps médical — "le seul type d'enfants réellement mutilé génitalement en France par le corps médical" — en contraste avec la "panique morale" fabriquée sur les "enfants trans".
+La PaduTeam soulève la question des enfants intersexes mutilés génitalement par le corps médical — "le seul type d'enfants réellement mutilé génitalement en France par le corps médical" — en contraste avec la "panique morale" fabriquée sur les "enfants trans".
 
 ## Entités citées
 

@@ -17,7 +17,7 @@ Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformis
 
 ## Thèses et analyses clés
 
-1. **Glucksmann cite Mitterrand contre le PC** — Glucksmann rappelle que Mitterrand n'a pas été élu grâce à une union avec le PC, mais en battant le PC. Il lit donc sa propre stratégie dans l'histoire. Padu et Chris reconnaissent qu'il a raison sur le mécanisme — mais soulignent qu'il sera dans la position de Marchais, pas dans celle de Mitterrand. [[Jean-Luc Melenchon]] est le Mitterrand de 2027. Voir [[Stratégie Mitterrand inversée]].
+1. **Glucksmann cite Mitterrand contre le PC** — Glucksmann rappelle que Mitterrand n'a pas été élu grâce à une union avec le PC, mais en battant le PC. Il lit donc sa propre stratégie dans l'histoire. La PaduTeam reconnaît qu'il a raison sur le mécanisme — mais soulignent qu'il sera dans la position de Marchais, pas dans celle de Mitterrand. [[Jean-Luc Melenchon]] est le Mitterrand de 2027. Voir [[Stratégie Mitterrand inversée]].
 
 2. **Tondelier = déléguée de classe** — Tondelier appelle Glucksmann et Mélenchon par leurs prénoms ("Raphaël", "Jean-Luc") comme une prof qui réprimande deux élèves. Pour la PaduTeam c'est insupportable et révélateur : elle traite un conflit politique structurel de ligne comme un conflit de personnalités à réconcilier. Voir [[Condescendance de classe]].
 
@@ -31,7 +31,7 @@ Analyse du Festival de la Noisette de Bram, rassemblement de la gauche réformis
 
 7. **Le [[Graphique]] prédit qui vote aux primaires** — Les classes populaires (bas-gauche sur le graphique) ne votent pas aux primaires. Seuls les militants (hauts du graphique, professions intellectuelles, cadres pro-valeurs) participent. Donc le score de primaire ne reflète pas les masses : une primaire donne la victoire au représentant des classes supérieures de gauche, pas à celui qui peut conquérir les abstentionnistes et les classes populaires.
 
-8. **Glucksmann = CIA** — Ses mots-clés ("combat pour la démocratie", "démocrates de combat", "menace sur la République") sont la rhétorique atlantiste typique. Padu : "c'est vraiment le truc de la CIA." Sa femme [[Lea Salame]] au 20h de France 2 est son pire handicap — "trop gros" comme conflit d'intérêt médiatique.
+8. **Glucksmann = CIA** — Ses mots-clés ("combat pour la démocratie", "démocrates de combat", "menace sur la République") sont la rhétorique atlantiste typique. La PaduTeam : "c'est vraiment le truc de la CIA." Sa femme [[Lea Salame]] au 20h de France 2 est son pire handicap — "trop gros" comme conflit d'intérêt médiatique.
 
 9. **Mélenchon réagit : "insipide, creuse et ennuyeuse"** — Sur son blog, Mélenchon décrit la réunion de Bram comme un "ramassi de vieux sectares cassoulés." Il souligne l'absurdité de la présence de Tondelier et du PCF aux côtés de Delga qui voulait interdire les manifs pro-palestiniennes et défend l'A69. Conclusion : Glucksmann a réussi à imposer sa ligne — il y aura toujours une candidature Place Publique face à LFI. Le PS sortira à terme pour son propre compte.
 

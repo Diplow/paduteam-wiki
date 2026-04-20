@@ -3,7 +3,7 @@ type: concept
 domaine: ['politique-intérieure']
 thèmes: ['guerre-des-gauches', 'élections']
 date created: Tuesday, March 31st 2026, 10:41:35 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 # Guerre des gauches

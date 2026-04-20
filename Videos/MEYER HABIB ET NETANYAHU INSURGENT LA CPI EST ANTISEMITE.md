@@ -20,19 +20,19 @@ La Cour Pénale Internationale émet des mandats d'arrêt contre [[Benjamin Neta
 
 ## Thèses et analyses clés
 
-1. **La décision CPI est équilibrée — mais présentée comme antisémite.** La CPI émet des mandats d'arrêt contre Netanyahu et Gallant (crimes contre l'humanité, crimes de guerre à Gaza) ET contre Mohamed Deif (crimes du 7 octobre). Les deux parties. Padu : "je trouve que sur cette info on devrait trouver que c'est plutôt équilibré."[^1] Habib et Netanyahu ne retiennent que la partie qui les vise et crient à l'antisémitisme.
+1. **La décision CPI est équilibrée — mais présentée comme antisémite.** La CPI émet des mandats d'arrêt contre Netanyahu et Gallant (crimes contre l'humanité, crimes de guerre à Gaza) ET contre Mohamed Deif (crimes du 7 octobre). Les deux parties. La PaduTeam : "je trouve que sur cette info on devrait trouver que c'est plutôt équilibré."[^1] Habib et Netanyahu ne retiennent que la partie qui les vise et crient à l'antisémitisme.
 
-2. **Netanyahu : "le nouvel antisémitisme s'est étendu des campus vers la CPI."** Discours de suprémisme selon Padu : "le gars on lui dit ouais tu es en train de faire un crime contre l'humanité, il dit ah ouais non mais c'est de l'antisémitisme, je ne reculerai de rien. C'est super flippant."[^2]
+2. **Netanyahu : "le nouvel antisémitisme s'est étendu des campus vers la CPI."** Discours de suprémisme selon la PaduTeam : "le gars on lui dit ouais tu es en train de faire un crime contre l'humanité, il dit ah ouais non mais c'est de l'antisémitisme, je ne reculerai de rien. C'est super flippant."[^2]
 
-3. **Goldnadel s'étonne de l'absence de mandat contre Churchill.** Goldnadel : pourquoi Churchill et Roosevelt n'ont-ils pas eu de mandats d'arrêt pendant la Seconde Guerre mondiale ? La note communautaire Twitter répond : "La CPI existe depuis 2002 — elle n'était pas en mesure de se prononcer sur Churchill durant la Seconde Guerre mondiale." Padu apprécie l'ironie.
+3. **Goldnadel s'étonne de l'absence de mandat contre Churchill.** Goldnadel : pourquoi Churchill et Roosevelt n'ont-ils pas eu de mandats d'arrêt pendant la Seconde Guerre mondiale ? La note communautaire Twitter répond : "La CPI existe depuis 2002 — elle n'était pas en mesure de se prononcer sur Churchill durant la Seconde Guerre mondiale." La PaduTeam apprécie l'ironie.
 
-4. **Habib : "scandale judiciaire, la CPI est antisémite."** Habib ajoute que la CPI "encourage les terroristes et la barbarie" en poursuivant Israël. Padu : "donc pour lui, condamner un pays qui est en train de faire un génocide ou un nettoyage ethnique c'est encourager la barbarie quoi."[^3]
+4. **Habib : "scandale judiciaire, la CPI est antisémite."** Habib ajoute que la CPI "encourage les terroristes et la barbarie" en poursuivant Israël. La PaduTeam : "donc pour lui, condamner un pays qui est en train de faire un génocide ou un nettoyage ethnique c'est encourager la barbarie quoi."[^3]
 
-5. **La France insoumise avait raison.** La décision CPI valide la ligne FI depuis le début. Alma Dufour (LFI) tweete en saluant la décision — pour laquelle elle avait milité. Padu : "la France insoumise avait une posture relativement équilibrée depuis le début et on les a fait passer pour des proterroristes, de l'islamo-gauchisme, de l'extrême gauche."[^4]
+5. **La France insoumise avait raison.** La décision CPI valide la ligne FI depuis le début. Alma Dufour (LFI) tweete en saluant la décision — pour laquelle elle avait milité. La PaduTeam : "la France insoumise avait une posture relativement équilibrée depuis le début et on les a fait passer pour des proterroristes, de l'islamo-gauchisme, de l'extrême gauche."[^4]
 
-6. **Biden et les USA font pression.** Les États-Unis disent que la décision est "honteuse." Padu : "tous les alliés d'Israël évidemment font le jeu d'Israël." Même analyse que pour le soutien incondititionnel militaire.
+6. **Biden et les USA font pression.** Les États-Unis disent que la décision est "honteuse." La PaduTeam : "tous les alliés d'Israël évidemment font le jeu d'Israël." Même analyse que pour le soutien incondititionnel militaire.
 
-7. **L'accusation d'"État démocratique" comme argument.** Habib : "Pour la première fois dans l'histoire, les dirigeants d'un État démocratique sont visés." Padu démonte : un État démocratique peut faire des trucs dégueulasses (colonisation, vote des pleins pouvoirs à Pétain), la démocratie n'exempte pas des crimes.
+7. **L'accusation d'"État démocratique" comme argument.** Habib : "Pour la première fois dans l'histoire, les dirigeants d'un État démocratique sont visés." La PaduTeam démonte : un État démocratique peut faire des trucs dégueulasses (colonisation, vote des pleins pouvoirs à Pétain), la démocratie n'exempte pas des crimes.
 
 ## Individus mentionnés
 [[Benjamin Netanyahu]], [[Meyer Habib]], [[Gilles-William Goldnadel]], [[Alma Dufour]], [[Joe Biden]]

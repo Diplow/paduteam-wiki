@@ -19,7 +19,7 @@ Giselle Pelicot est la victime principale de l'affaire Mazan. Son mari, Dominiqu
 
 Giselle Pelicot a refusé le huis clos que les accusés demandaient. Elle a dit : "il faut que la honte change de camp." La PaduTeam reprend cette formulation comme mot d'ordre : en rendant public ce qui lui est arrivé, elle a transformé une histoire personnelle en levier de transformation sociale. Le procès a duré 3,5 mois et a été suivi par des médias du monde entier.
 
-Son acte est décrit comme "force[ant] le respect" par Zoé : "c'est une partie extrêmement violente et intime de sa vie qui a été étalée à l'international pendant des mois."
+Son acte est décrit comme "force[ant] le respect" par la PaduTeam : "c'est une partie extrêmement violente et intime de sa vie qui a été étalée à l'international pendant des mois."
 
 ## Ce que le procès a révélé
 

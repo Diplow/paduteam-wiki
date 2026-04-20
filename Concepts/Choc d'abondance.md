@@ -23,7 +23,7 @@ Programme économique de rupture proposé par la [[PaduTeam]] comme seul antidot
 Le discours de gauche sur "taxer les riches" reste dans la logique de pénurie et ne suffit pas à battre le [[Pacte raciste]]. Les mesures isolées (80% des Français d'accord pour taxer les patrimoines) ne font pas un projet politique. Il faut une vision globale de transformation qui propose l'abondance réelle.
 
 ## Parallèle historique
-Chris compare la situation actuelle à l'après-guerre : 40 ans de guerre néolibérale larvée, tout est à reconstruire. En 1945, la France a créé de la monnaie, repris la souveraineté, construit en masse, inventé le nucléaire. Le même effort est nécessaire.
+La PaduTeam compare la situation actuelle à l'après-guerre : 40 ans de guerre néolibérale larvée, tout est à reconstruire. En 1945, la France a créé de la monnaie, repris la souveraineté, construit en masse, inventé le nucléaire. Le même effort est nécessaire.
 
 ## Contre la pensée écologiste de la pénurie
 La PaduTeam critique certaines pensées écologistes qui tiennent un discours de "on consomme trop" — inaudible pour des intérimaires qui n'arrivent pas à payer leur essence. Ce discours empêche de penser l'abondance collective.

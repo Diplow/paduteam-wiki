@@ -40,7 +40,7 @@ Bardella est coincé : rester derrière Le Pen, c'est 20 ans d'attente (elle a 5
 
 ### La stratégie Chirac 74
 
-Chris analyse que la stratégie optimale de Bardella serait de reproduire Chirac en 1974 : trahir son camp (comme Chirac trahissant Chaban-Delmas), amener une partie de l'appareil RN à [[Bruno Retailleau]], devenir premier ministre. C'est le seul chemin vers une carrière présidentielle — risqué (il peut finir absorbé comme Bruno Le Maire devenu macroniste) mais nécessaire s'il a une ambition présidentielle.
+La PaduTeam analyse que la stratégie optimale de Bardella serait de reproduire Chirac en 1974 : trahir son camp (comme Chirac trahissant Chaban-Delmas), amener une partie de l'appareil RN à [[Bruno Retailleau]], devenir premier ministre. C'est le seul chemin vers une carrière présidentielle — risqué (il peut finir absorbé comme Bruno Le Maire devenu macroniste) mais nécessaire s'il a une ambition présidentielle.
 
 ## Cordon sanitaire inversé (février 2025)
 Quand [[Aurore Bergé]] lui tend la main pour un cordon sanitaire contre LFI, il organise une conférence de presse en répétant "cordon sanitaire" 20 fois à propos de la FI. Il a saisi l'opportunité politique mais la PaduTeam souligne qu'il ne captera pas l'électorat RN vers les macronistes — ses propres électeurs ont autant de détestation pour Bergé que pour Mélenchon, voire plus.
@@ -74,7 +74,7 @@ Dans la vidéo Louis Sarkozy, la PaduTeam distingue les deux : Bardella "a au mo
 
 ## Post-condamnation Le Pen (mars 2026)
 
-Avec [[Marine Le Pen]] condamnée et inéligible immédiatement (mars 2026), Bardella hérite du dilemme dans une configuration encore plus exposée. Chris développe l'analyse :
+Avec [[Marine Le Pen]] condamnée et inéligible immédiatement (mars 2026), Bardella hérite du dilemme dans une configuration encore plus exposée. La PaduTeam développe l'analyse :
 
 - **S'il reste dans l'espace Le Pen** : sans l'aura populiste de Le Pen, sans la confiance interne du parti, et sous pression des gens du bloc bourgeois qui veulent qu'il soit "libéral raciste pur" — il va rater. Il peut tenter de reprendre la ligne Le Pen une fois qu'elle est partie, mais Chris n'y croit pas : "justement la ligne de Le Pen quelque part, c'est aussi l'espace du graphique est un empêchement d'accès au pouvoir pour cette caste là."
 
@@ -82,7 +82,7 @@ Avec [[Marine Le Pen]] condamnée et inéligible immédiatement (mars 2026), Bar
 
 **La pire configuration pour la gauche** : Bardella + Retailleau + Zemmour forment un bloc droite-extrême droite "cohérent" qui reproduit l'espace Sarkozy 2007 — vote populaire de droite + retraités + "gros racistes" = 30-35% au 1er tour. Dans ce scénario, le deuxième tour pourrait être Retailleau vs [[Edouard Philippe]], "et là ça fait très très mal."
 
-Chris : "Bardella, ça aucun intérêt pour lui trahir... il va juste partir avec quelques classiques du RN pour faire une union des droites avec Retailleau. Il sera accueilli les bras ouverts. Il sera accueilli comme un prince."
+La PaduTeam : "Bardella, ça aucun intérêt pour lui trahir... il va juste partir avec quelques classiques du RN pour faire une union des droites avec Retailleau. Il sera accueilli les bras ouverts. Il sera accueilli comme un prince."
 
 ## Vidéos
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy

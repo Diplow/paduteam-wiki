@@ -31,7 +31,7 @@ Saint-Cricq promeut sur France Télévision (dont elle dirige les rédactions) l
 
 La PaduTeam identifie la mécanique : cela *paraît* de gauche ("les riches paient leur cancer, les pauvres sont aidés"), mais c'est en réalité le modèle américain : une médecine publique dégradée pour les pauvres et des cliniques privées de luxe pour les riches. Les riches, libérés de l'obligation de cotiser pour un système universel, cesseraient de le financer — et le système s'effondrerait pour tous.[^2]
 
-Le mot-clé de son discours est "tabou" : présenter l'universalité de la Sécu comme un tabou irrationnel à lever. Pour Chris : "à chaque fois que des gens comme Nathalie Saint-Cricq parlent de tabous, préparez-vous parce que c'est souvent des trucs absolument dégueulasses."
+Le mot-clé de son discours est "tabou" : présenter l'universalité de la Sécu comme un tabou irrationnel à lever. Pour la PaduTeam : "à chaque fois que des gens comme Nathalie Saint-Cricq parlent de tabous, préparez-vous parce que c'est souvent des trucs absolument dégueulasses."
 
 ## Conflit d'intérêts structurel
 

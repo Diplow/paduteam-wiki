@@ -24,4 +24,4 @@ Poids estimé : 10-15% de l'électorat. C'est le seul réservoir potentiel de Gl
 Dans le dîner Legrand-Cohen-Jouvet, [[Thomas Legrand]] évoque le Marais comme potentiellement mobilisable pour Glucksmann — la PaduTeam rétorque que ces gens "sont insonorisés" (ils écoutent France Inter massivement mais ne bougent pas).
 
 ## Vidéos où le concept est développé
-- [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — Padu explique la référence historique et le poids réel du Marais
+- [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — la PaduTeam explique la référence historique et le poids réel du Marais

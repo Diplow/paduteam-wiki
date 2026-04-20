@@ -7,7 +7,7 @@ description: >
   Déclencher quand une skill d'écriture va être lancée, ou quand l'utilisateur demande
   "quel contexte on a sur X", "qu'est-ce qu'on sait de X", "rassemble les infos sur X".
 date created: Sunday, April 12th 2026, 6:45:00 pm
-date modified: Sunday, April 19th 2026, 2:30:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 
 # Skill : Gather Context

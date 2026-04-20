@@ -9,7 +9,7 @@ description: >
   "batch ingest", ou fournit explicitement un fichier de suivi pointant vers un sous-batch non
   réalisé.
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 2:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 skill_version: ingest-batch-2026-04-19
 ---
 

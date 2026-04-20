@@ -34,4 +34,4 @@ La famille nucléaire patriarcale est la structure familiale du capitalisme ford
 
 ## Vidéos où le concept est développé
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
-- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Padu analyse la famille nucléaire capitaliste chez les libertariens : le père "exemplaire mais absent" transmet son patrimoine via le rôle model ; réactionnaires sur la famille parce qu'ils ont besoin de ce vecteur de transmission du capital
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — la PaduTeam analyse la famille nucléaire capitaliste chez les libertariens : le père "exemplaire mais absent" transmet son patrimoine via le rôle model ; réactionnaires sur la famille parce qu'ils ont besoin de ce vecteur de transmission du capital

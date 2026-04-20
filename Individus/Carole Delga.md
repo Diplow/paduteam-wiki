@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Présidente de la région Occitanie, figure du [[Parti Socialiste]] sur la ligne "droite" (centre-gauche libéral). Organisatrice du Festival de la Noisette de Bram (Aude) en 2026 — rassemblement de la gauche réformiste non-LFI.
 
 ## Position dans le [[Graphique]]
-"La noisette du Sud" selon Chris. Sur la ligne de droite du PS — plus à droite que [[Boris Vallaud]], plus proche de [[François Hollande]] et [[Raphael Glucksmann]]. Pour la PaduTeam elle se voit en "Boris Vallaud du sud" mais n'en a pas l'envergure.
+"La noisette du Sud" selon la PaduTeam. Sur la ligne de droite du PS — plus à droite que [[Boris Vallaud]], plus proche de [[François Hollande]] et [[Raphael Glucksmann]]. Pour la PaduTeam elle se voit en "Boris Vallaud du sud" mais n'en a pas l'envergure.
 
 ## Stratégie 2027
 Construit son récit à la primaire des noisettes en se faisant photographier à côté de tout le monde : Hollande, Glucksmann, Olivier Fort, Boris Vallaud. "À la fin elle dira 'Ah tu vois on était ensemble'" — stratégie de positionnement post-hoc. Candidate probable à la [[Primaire des noisettes]].
@@ -25,7 +25,7 @@ Construit son récit à la primaire des noisettes en se faisant photographier à
 - [[Karim Bouamrane]] — présent à Bram
 
 ## Responsabilité dans la montée du RN
-Analyse PaduTeam : Carole Delga a augmenté de 10 députés le score RN en 2022 par son refus des alliances NUPES et NFP dans sa région. Elle a fait élire des triangulaires favorables au RN. "C'est la seule personne concrètement responsable de 10 députés RN de plus" (Padu). Avait dit qu'il fallait interdire les manifes pro-palestiniennes. Soutient le projet A69. "Vraiment plutôt le Front populaire... non, plutôt Hitler que le Front populaire" (Padu).
+Analyse PaduTeam : Carole Delga a augmenté de 10 députés le score RN en 2022 par son refus des alliances NUPES et NFP dans sa région. Elle a fait élire des triangulaires favorables au RN. "C'est la seule personne concrètement responsable de 10 députés RN de plus." Avait dit qu'il fallait interdire les manifes pro-palestiniennes. Soutient le projet A69. "Vraiment plutôt le Front populaire... non, plutôt Hitler que le Front populaire."
 
 ## Vidéos où Delga est analysée
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Organisatrice du Festival de la Noisette de Bram, analyse de sa stratégie 2027

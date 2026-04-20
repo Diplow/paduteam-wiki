@@ -15,7 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)
 
-Capsule enregistrée le 4 mars 2026, une semaine après les frappes américano-israéliennes sur l'Iran (27 février 2026). Zoé et Chris font le point sur la propagande de guerre, décortiquent les vraies raisons de l'attaque (pétrodollar), et critiquent les réactions de membres de LFI.
+Capsule enregistrée le 4 mars 2026, une semaine après les frappes américano-israéliennes sur l'Iran (27 février 2026). La PaduTeam fait le point sur la propagande de guerre, décortique les vraies raisons de l'attaque (pétrodollar), et critique les réactions de membres de LFI.
 
 ## Résumé
 
@@ -39,19 +39,15 @@ L'Iran s'est préparé à cette guerre depuis 30 ans. Sa [[Défense mosaïque d�
 
 **[[Thomas Portes]]** (LFI) : publie un post Instagram qualifiant Khamenei de "dictateur sanguinaire", exprimant ses "pensées pour les Iraniennes privées de droits", laissant entendre que le problème est la méthode. Pour la PaduTeam, c'est "absolument honteux" et "motif de sanction" — relayer la propagande trumpiste depuis la gauche fabrique du consentement passif à la guerre[^5].
 
-**[[Manon Aubry]]** (LFI) : "ni Mola ni Shah ni USA" — position ni-niste qui, depuis le centre impérialiste, sert objectivement l'agenda américain. "Moi je vois pas la différence entre Shah et USA. Autant dire ni Mola ni USA."[^6]
+**[[Manon Aubry]]** (LFI) : "ni Mola ni Shah ni USA" — position ni-niste qui, depuis le centre impérialiste, sert objectivement l'agenda américain. La PaduTeam : "Moi je vois pas la différence entre Shah et USA. Autant dire ni Mola ni USA."[^6]
 
 **[[Jean-Luc Melenchon]]** : "plutôt sobre mais reste dans une logique de dire que le régime est un problème."
 
 ### La propagande sexiste et orientaliste
 
-Sur les réseaux sociaux français, mise en scène récurrente de jeunes femmes iraniennes sélectionnées selon des critères de désirabilité occidentaux, drapeaux du Shah en fond. Commentaires masculins occidentaux : "Les iraniennes sont les latinas du Moyen-Orient." — Zoé : "la colonialité, c'est-à-dire le pouvoir de certaines personnes sur les femmes."
+Sur les réseaux sociaux français, mise en scène récurrente de jeunes femmes iraniennes sélectionnées selon des critères de désirabilité occidentaux, drapeaux du Shah en fond. Commentaires masculins occidentaux : "Les iraniennes sont les latinas du Moyen-Orient." — La PaduTeam : "la colonialité, c'est-à-dire le pouvoir de certaines personnes sur les femmes."
 
 Mise en parallèle avec Gal Gadot (actrice israélienne, "super woman", humanise une armée qui bombarde des enfants) : même logique de marchandisation du corps des femmes au service de la guerre[^7].
-
-## Intervenants
-- **Zoé** — co-animation, critique féministe de la propagande
-- **Chris** — analyse géopolitique et économique (prix du baril, pétrodollar)
 
 ## Liens
 - [[Ali Khamenei]] — tué dans les frappes

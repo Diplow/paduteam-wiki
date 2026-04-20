@@ -18,8 +18,8 @@ Concept développé par le philosophe camerounais Achille Mbembe. La nécropolit
 La nécropolitique ne punit pas le crime : elle fabrique des conditions dans lesquelles certaines populations sont exposées à la mort comme politique d'État. La Méditerranée comme cimetière de migrants, le blocus de Gaza comme famine organisée, la politique de colonisation israélienne comme destruction progressive — tous sont des exemples de nécropolitique en actes.
 
 ## Exemples
-- La Méditerranée : frontière la plus meurtrière du monde, des dizaines de milliers de morts par noyade. Chris (dans la vidéo sur la flottille) : "la nécropolitique, vraiment la fabrication d'une politique de la mort."
+- La Méditerranée : frontière la plus meurtrière du monde, des dizaines de milliers de morts par noyade. La PaduTeam (dans la vidéo sur la flottille) : "la nécropolitique, vraiment la fabrication d'une politique de la mort."
 - Le blocus de Gaza : empêchement systématique de l'aide humanitaire, ciblage des systèmes de production alimentaire (minoteries, boulangeries, tir sur pêcheurs).
 
 ## Vidéos où le concept est développé
-- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Chris nomme le concept en parlant de la Méditerranée comme frontière mortifère
+- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — la PaduTeam nomme le concept en parlant de la Méditerranée comme frontière mortifère

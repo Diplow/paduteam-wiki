@@ -19,7 +19,7 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 
 **Architecte du projet « Grand Israël ».** Sa ligne est l'expansion coloniale assumée : colonies de peuplement progressives en Cisjordanie, loi constitutionnelle de 2018 hiérarchisant juridiquement les ethnies, déclarations ministérielles ouvertement génocidaires tolérées (Gallant « animaux humains », Regev « fière des ruines »), opération « Muraille de Fer » dont le nom reprend explicitement l'ouvrage fasciste de [[Vladimir Jabotinski]] (1923).
 
-**Instrumentalisateur de l'antisémitisme.** Sa stratégie de communication internationale : toute critique d'Israël = antisémitisme. [[Instrumentalisation de l'antisemitisme]]. Double conséquence : faire taire + mettre en danger les juifs mondiaux par l'association à son projet. Chris : « Netanyahu prend les juifs mondiaux en otage politique ».
+**Instrumentalisateur de l'antisémitisme.** Sa stratégie de communication internationale : toute critique d'Israël = antisémitisme. [[Instrumentalisation de l'antisemitisme]]. Double conséquence : faire taire + mettre en danger les juifs mondiaux par l'association à son projet. La PaduTeam : « Netanyahu prend les juifs mondiaux en otage politique ».
 
 **Rhéteur obscène.** Dans son interview sur TF1/LCI à [[Darius Rochebin]] ([[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]]), Netanyahu compare l'assaut sur Rafah au **débarquement en Normandie**, refuse l'illégalité des colonies (« 2-3 % de la construction, territoire national »), soutient qu'Israël a « quitté Gaza » (en maintenant le blocus total), accuse 100 000 manifestants d'antisémites. Position PaduTeam : « il n'y a qu'un seul endroit au monde où il faut interroger Netanyahu, c'est dans la salle d'un tribunal pénal international ».
 
@@ -47,5 +47,5 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]]
 - [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — L'assaut sur Rafah que Netanyahu et Habib avaient annoncé
-- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon Padu
+- [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon la PaduTeam
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI

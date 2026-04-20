@@ -15,7 +15,7 @@ Système par lequel le pétrole mondial ne peut être acheté qu'en dollars amé
 
 ## Pourquoi c'est le vrai moteur des guerres impérialistes
 
-Pour la PaduTeam (Chris en particulier), le pétrodollar est la clé de lecture de la stratégie militaire de Trump en Iran :
+Pour la PaduTeam, le pétrodollar est la clé de lecture de la stratégie militaire de Trump en Iran :
 
 1. Le dollar baisse à mesure que la politique économique de Trump (droits de douane, déficit) dégrade la confiance dans l'économie US
 2. Trump attaque un pays pétrolier pour faire monter le prix du baril
@@ -24,9 +24,9 @@ Pour la PaduTeam (Chris en particulier), le pétrodollar est la clé de lecture 
 
 La séquence Venezuela → Iran illustre ce mécanisme : le Venezuela ne représente que 5% des réserves mondiales (impact limité), l'Iran en représente 30%. D'où l'escalade[^1].
 
-## La mécanique du prix du baril (Chris, prixdubaril.com)
+## La mécanique du prix du baril (prixdubaril.com)
 
-Chris suit quotidiennement le prix du baril. Dès que le prix descend vers 60$/baril (seuil de rentabilité du gaz de schiste américain), une intervention militaire suit. Le schéma est systématique :
+La PaduTeam suit quotidiennement le prix du baril. Dès que le prix descend vers 60$/baril (seuil de rentabilité du gaz de schiste américain), une intervention militaire suit. Le schéma est systématique :
 - Juin 2025 : Israël frappe l'Iran → baril monte ponctuellement → retombe (pas de surconsommation mondiale)
 - Février-mars 2026 : Trump frappe l'Iran → baril monte à 120$ → retombe à 83$ car pas de demande mondiale supplémentaire[^2]
 
