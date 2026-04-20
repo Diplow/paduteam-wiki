@@ -77,7 +77,7 @@ La PaduTeam déploie un [[Protectionnisme anachronique|mécanisme en quatre cran
 
 1. **Les USA sont structurellement consommateurs, plus producteurs.** « Une nation qui ne sait plus produire. Les rares outils industriels qui restent se cachent derrière soit les fers de lance de la conception (Silicon Valley, mais la fabrication est externalisée), soit l'agroalimentaire (Pepsi, Kellogg's, Coca — extrêmement arriérés sur le plan du développement productif) »[^18].
 2. **[[Baisse tendancielle du taux de profit|Baisse tendancielle du taux de profit]]** en raison de l'absence de hausse de productivité — revendication marxiste explicite : « je refais mon marxiste rabouri »[^19].
-3. **Il faudrait des investissements publics colossaux** — « mettre en jeu des milliards et des milliards d'investissements publics, ce qui va être contradictoire avec la vision libérale »[^20]. Même le [[Neokeynesianisme de Biden|néokeynésianisme de Biden]] "n'a pas été assez loin".
+3. **Il faudrait des investissements publics colossaux** — « mettre en jeu des milliards et des milliards d'investissements publics, ce qui va être contradictoire avec la vision libérale »[^20]. Même le [[Neokeynesianisme|néokeynésianisme de Biden]] "n'a pas été assez loin".
 4. **Piège de la déception matérielle** : « Trump va créer une forme de déception sur le plan matériel concret pour les gens qui l'ont élu — parce qu'il n'a pas les leviers ni les structures mentales pour pouvoir satisfaire les gens qui l'ont élu. Le côté "j'emmerde les médias, je suis votre tribun de Twitter" ne marchera plus. »[^21]. La PaduTeam précise que « même Biden n'a pas été assez loin dans le [[Neokeynesianisme|néokeynésianisme]] pour satisfaire les gens qui ont élu Trump ».
 
 ### 8. Prévision : non-isolationnisme, avant-garde du monde vs gendarme du monde
@@ -103,7 +103,7 @@ Contre Emmanuel Todd qui ne parle que de "retrait" de la scène internationale, 
 Thèse politique finale (et formulation militante explicite) : l'élection de Trump en 2016 a favorisé Macron en 2017 comme **populisme bourgeois** — un confusionnisme techniciste ("élire un directeur général de Renault ou un DRH à la présidence") qui s'affranchit du clivage droite/gauche *parce que* le trumpisme avait rendu la droite assumée inassimilable (Marine Le Pen = populisme raciste, donc "en face" un populisme bourgeois acceptable). **Mais en 2024** :
 
 - Le populisme bourgeois "ne peut plus fonctionner" — "ces Hollande-bis non plus"
-- La France a « la plus grosse gauche radicale d'Europe » ; c'est elle qui doit capitaliser sur le bis repetita (« tragique en 2016, farce en 2024 »)
+- La France a « la plus grosse gauche radicale d'Europe » ; c'est elle qui doit capitaliser sur le bis repetita ([[Tragedie et farce|« tragique en 2016, farce en 2024 »]])
 - Message militant direct : « Vous avez fait l'essai pour ne pas avoir le trumpisme — et ces zzats européens du contrat racial, du populisme bourgeois, et cette espèce de gauche de droite Glucksmann, pour être mis là-dedans — vous voyez que ça ne fonctionne pas. La voie c'est un progressisme, une remise en question beaucoup plus radicale des structures capitalistes et des structures racistes »[^27]
 
 ## Résultats / chiffres clés
@@ -123,7 +123,7 @@ Thèse politique finale (et formulation militante explicite) : l'élection de Tr
 [[Parti Democrate]], [[Positions Revue]], [[Mediapart]], [[Parti Socialiste]], [[France Insoumise]], [[Rassemblement National]]
 
 ## Concepts mobilisés
-[[Gauche de droite]], [[Moisation]], [[Graphique]], [[Desagregation de l empire americain]], [[Protectionnisme anachronique]], [[Pacte raciste]], [[Contrat racial]], [[Pacte egalitaire]], [[Populisme bourgeois]], [[Baisse tendancielle du taux de profit]], [[Neokeynesianisme]], [[Crise de l'hegemonie americaine]]
+[[Gauche de droite]], [[Moisation]], [[Graphique]], [[Desagregation de l empire americain]], [[Protectionnisme anachronique]], [[Pacte raciste]], [[Contrat racial]], [[Pacte egalitaire]], [[Populisme bourgeois]], [[Baisse tendancielle du taux de profit]], [[Neokeynesianisme]], [[Crise de l'hegemonie americaine]], [[Tragedie et farce]]
 
 ## Enjeux avancés
 

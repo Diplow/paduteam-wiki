@@ -29,12 +29,13 @@ Fiches créées : [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE
 ---
 ## Batch 02 — Semaines 2024-W45 à 2024-W46 (4 nov 2024 – 17 nov 2024)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2024-w45-w46
+Fiches créées : [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]], [[Guillaume Kasbarian]], [[Ratchet droitier sur les droits du travail]] + enrichissements Trump, Thaïs 4.1, Enjeux
 
-- [ ] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec @Positions_revue )
-- [ ] GUILLAUME KASBARIAN le MINISTRE qui DÉTESTE les FONCTIONNAIRES ?  (avec @Dr_Zoé_YT)
-- [ ] PAYE TA DROITARDE #4.1 : THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS (x @Dr_Zoé_YT)
+- [x] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec @Positions_revue )
+- [x] GUILLAUME KASBARIAN le MINISTRE qui DÉTESTE les FONCTIONNAIRES ?  (avec @Dr_Zoé_YT)
+- [x] PAYE TA DROITARDE #4.1 : THAÏS D'ESCUFON, L'IDENTITAIRE qui DÉTESTE les BÉBÉS NOIRS (x @Dr_Zoé_YT)
 
 ---
 ## Batch 03 — Semaines 2024-W47 à 2024-W48 (18 nov 2024 – 1 déc 2024)

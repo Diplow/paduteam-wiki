@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: ingest-batch-2026-04-14
+skill_version: write-enjeu-2026-04-20-enrichi
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
@@ -14,6 +14,14 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ## La thèse centrale
 
 La Sécurité Sociale est sous attaque délibérée d'une coalition de classes dirigeantes qui cherchent à la privatiser. Ce n'est pas un problème de gestion ni de déficit structurel — c'est un choix politique de classe. La PaduTeam appelle à nommer cette offensive pour ce qu'elle est : un assassinat organisé du système de solidarité issu de la Libération.[^1]
+
+## Le ratchet droitier comme mécanisme structurel
+
+La PaduTeam, en analysant la mesure Kasbarian sur les jours de carence, formule le mécanisme général de l'offensive néolibérale contre les droits sociaux : le **[[Ratchet droitier sur les droits du travail]]**. Ce n'est pas une série de mesures isolées — c'est un mécanisme itératif délibéré. On enlève des droits au privé, puis on pointe l'asymétrie public/privé pour attaquer le public ("c'est honteux, le public a plus de droits"), puis on utilise la parité résultante pour attaquer à nouveau le privé en comparaison européenne. Et on recommence. Chaque tour de vis légitime le suivant.
+
+L'enjeu est double. Il y a l'argument gestionnaire en surface (lutter contre l'absentéisme), mais la PaduTeam insiste sur la finalité réelle : **soumettre**. L'objectif n'est pas la rentabilité — la mesure Kasbarian est même économiquement contre-productive (les données DARES montrent que supprimer la compensation des jours de carence allonge les arrêts sans en réduire le nombre). L'objectif est d'asseoir la domination de classe, de faire sentir aux travailleurs qu'ils sont "corps vénale à merci". La PaduTeam mobilise explicitement le marxisme dialectique : la superstructure idéologique (idéologie du petit chef, carotte-et-bâton) a une indépendance relative par rapport à l'infrastructure capitaliste — elle continue à produire des effets même quand ils contredisent les intérêts du capital à court terme.
+
+Ce mécanisme s'applique au-delà des jours de carence : il structure toute l'offensive contre la Sécurité Sociale.
 
 ## Les vecteurs d'attaque
 
@@ -70,6 +78,7 @@ La Sécu issue de 1945 (Ambroise Croizat, CGT) a été déjà largement dévoyé
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — attaque sur l'universalité
+- [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]] — le [[Ratchet droitier sur les droits du travail|ratchet droitier]] comme mécanisme itératif formulé explicitement dès l'introduction ; démontage médical et statistique par Zoé (données DARES, taux d'arrêt par corps de métier, artefact Covid) ; thèse de la soumission comme finalité réelle de la mesure au-delà de l'argument gestionnaire
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"
 [^2]: [11:24](https://www.youtube.com/watch?v=jtDb2meKMn8&t=684) — "la fraude massive qui existe en France qui est estimée entre 80 et 100 milliards d'euros par an, c'est la fraude fiscale"
