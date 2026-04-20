@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Politicien membre de [[Generation.s]], le parti de [[Benoît Hamon]]. Qualifié de "bras droit de Hamon" par la PaduTeam. Interlocuteur dans l'extrait BFM TV analysé dans la vidéo.
 
 ## Analyse PaduTeam
-Lucas représente la gauche molle, déconnectée du monde ouvrier. Dans l'extrait BFM TV, il se fait "atomiser" par un artisan du BTP sans savoir lui répondre — symptôme d'une gauche composée de fonctionnaires et d'universitaires qui ne fréquentent pas les classes populaires réelles et ne savent pas leur parler. Padu : "il aurait pas dit ça à Maurice Torres" (ouvrier). Lucas se disqualifie en répondant qu'il "admire son ami prof de l'éducation nationale" — réponse jugée catastrophiquement déplacée face à un discours de classe.
+Lucas représente la gauche molle, déconnectée du monde ouvrier. Dans l'extrait BFM TV, il se fait "atomiser" par un artisan du BTP sans savoir lui répondre — symptôme d'une gauche composée de fonctionnaires et d'universitaires qui ne fréquentent pas les classes populaires réelles et ne savent pas leur parler. La PaduTeam : "il aurait pas dit ça à Maurice Torres" (ouvrier). Lucas se disqualifie en répondant qu'il "admire son ami prof de l'éducation nationale" — réponse jugée catastrophiquement déplacée face à un discours de classe.
 
 ## Position dans le [[Graphique]]
 Non explicitement positionnée. Profil universitaire-fonctionnaire typique de la gauche molle : fort capital scolaire, position économique modeste, côté gauche-haut du Graphique.

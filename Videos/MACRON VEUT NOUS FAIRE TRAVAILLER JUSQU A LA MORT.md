@@ -17,11 +17,11 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Padu et Chris démontent les déclarations de Maud Brégeon (macroniste) sur les arrêts de travail et les ALD (Affections de Longue Durée). Zoé (médecin généraliste) intervient depuis l'intérieur du système : les gens ne "se mettent" pas en arrêt de travail, ils y sont mis par un médecin. Les trois principales raisons de refuser un arrêt : les jours de carence, la honte, et ne pas vouloir laisser les collègues dans la merde.
+La PaduTeam démonte les déclarations de Maud Brégeon (macroniste) sur les arrêts de travail et les ALD (Affections de Longue Durée), en faisant intervenir un médecin généraliste depuis l'intérieur du système : les gens ne "se mettent" pas en arrêt de travail, ils y sont mis par un médecin. Les trois principales raisons de refuser un arrêt : les jours de carence, la honte, et ne pas vouloir laisser les collègues dans la merde.
 
 ## Thèses et analyses clés
 
-1. **Le mythe des "faux arrêts"** : Brégeon invoque la hausse de 25% des arrêts depuis 2019 sans se demander pourquoi. Zoé : les conditions de travail se sont dégradées, les collectifs sont à bout. Les médecins proposent plus souvent des arrêts que les gens n'en demandent.
+1. **Le mythe des "faux arrêts"** : Brégeon invoque la hausse de 25% des arrêts depuis 2019 sans se demander pourquoi. La PaduTeam : les conditions de travail se sont dégradées, les collectifs sont à bout. Les médecins proposent plus souvent des arrêts que les gens n'en demandent.
 
 2. **Les [[Jours de carence]] sont contre-productifs** : 3 jours = 15% du salaire mensuel. Résultat : gens qui retournent au travail malades → arrêts plus longs, contagion, accidents de travail, baisse de productivité. Données DARES.
 
@@ -42,7 +42,6 @@ Padu et Chris démontent les déclarations de Maud Brégeon (macroniste) sur les
 
 ## Individus mentionnés
 - [[Maud Bregeon]] — sujet du démontage
-- [[Dr Zoe]] — médecin généraliste, témoignage de l'intérieur
 
 ## Concepts mobilisés
 - [[Jours de carence]]

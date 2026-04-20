@@ -16,7 +16,7 @@ Terme utilisé par la [[PaduTeam]] pour désigner un groupe social identifiable 
 ## Dans le Graphique
 Le sujet collectif occupe un espace intermédiaire dans le [[Graphique]] — ni tout en bas à gauche (précariat), ni en haut à droite (bourgeoisie). C'est un espace contesté : l'[[IFOP]] place 40% des professions intermédiaires chez [[Jordan Bardella]] dans ses sondages 2026, ce que la PaduTeam considère comme aberrant car ces professions votent historiquement à gauche.
 
-## Définition philosophique (Padu + Chris)
+## Définition philosophique
 Dans une discussion théorique plus approfondie, la PaduTeam précise la définition philosophique :
 
 **Les sujets collectifs agissent mais ne s'expriment jamais.** Les individus s'expriment mais n'agissent jamais (seuls). Ce sont les grandes figures politiques ou culturelles qui font le pont — ils sont à l'intersection de leur sujet individuel et du sujet collectif qu'ils représentent. Fidel Castro a cristallisé la volonté anti-impérialiste communiste du peuple cubain. Rousseau a cristallisé la vision de la bourgeoisie progressiste française.

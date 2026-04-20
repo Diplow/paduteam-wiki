@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # Les INCELS ont ENFIN leur SAINT GRAPHIQUE !!
 
 ## Résumé
-Padu et Zoé réagissent au "calculateur de la passe maritale" créé par [[Marc]], un YouTubeur masculiniste expat en Thaïlande (chaîne "Terre des hommes libres"). L'outil calcule le "coût" de chaque rapport sexuel avec sa femme en divisant les dépenses du couple par le nombre de passes. La vidéo est prétexte à une analyse du [[Masculinisme individualiste]] et de la transition du patriarcat classique vers le [[Capitalisme masculiniste]].
+La PaduTeam réagit au "calculateur de la passe maritale" créé par [[Marc]], un YouTubeur masculiniste expat en Thaïlande (chaîne "Terre des hommes libres"). L'outil calcule le "coût" de chaque rapport sexuel avec sa femme en divisant les dépenses du couple par le nombre de passes. La vidéo est prétexte à une analyse du [[Masculinisme individualiste]] et de la transition du patriarcat classique vers le [[Capitalisme masculiniste]].
 
 ## Thèses et analyses clés
 
@@ -25,7 +25,7 @@ Padu et Zoé réagissent au "calculateur de la passe maritale" créé par [[Marc
 
 4. Le mariage est ambivalent : à la fois outil d'oppression patriarcale ET protection précaire pour les femmes dans une société sans filet collectif. Le problème n'est pas le mariage en soi, c'est le système de domination masculine et capitaliste derrière.
 
-5. La "liberté sexuelle" bourgeoise (des années 1970 aux masculinistes d'aujourd'hui) ne profite qu'aux dominants : [[Liberte des dominants]]. Zoé : "toute personne qui te parle de liberté sans te parler des rapports de domination, c'est quelqu'un qui veut la liberté des dominants de dominer tranquille."
+5. La "liberté sexuelle" bourgeoise (des années 1970 aux masculinistes d'aujourd'hui) ne profite qu'aux dominants : [[Liberte des dominants]]. La PaduTeam : "toute personne qui te parle de liberté sans te parler des rapports de domination, c'est quelqu'un qui veut la liberté des dominants de dominer tranquille."
 
 6. Les inégalités de revenus femmes/hommes persistent même chez les médecins (écart 25-30% selon les données CNAM), produit direct de la charge inégale des soins aux enfants et des choix de temps partiel contraints.
 
@@ -33,7 +33,7 @@ Padu et Zoé réagissent au "calculateur de la passe maritale" créé par [[Marc
 Le "saint graphique des incels" : [[Marc]] a créé sa propre matrice (tableur Excel avec courbes de rentabilité des "passes"), parodie involontaire du [[Graphique]] PaduTeam. D'où le titre.
 
 ## Individus mentionnés
-[[Marc]], [[Padu]], [[Dr Zoe]]
+[[Marc]], [[Dr Zoe]]
 
 ## Concepts mobilisés
 [[Trois systèmes de domination]], [[Masculinisme individualiste]], [[Capitalisme masculiniste]], [[Liberte des dominants]], [[Graphique]]

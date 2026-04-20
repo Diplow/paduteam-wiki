@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Feminisme pas assez communiste
 
 ## Définition
-Thèse de [[Zoé]] : le mouvement féministe des 50 dernières années a correctement identifié et fait exploser les structures patriarcales oppressives, mais a failli en ne proposant pas de structures communistes pour les remplacer. Cette absence explique en grande partie la crise de natalité et la précarisation des femmes.
+Thèse de la PaduTeam : le mouvement féministe des 50 dernières années a correctement identifié et fait exploser les structures patriarcales oppressives, mais a failli en ne proposant pas de structures communistes pour les remplacer. Cette absence explique en grande partie la crise de natalité et la précarisation des femmes.
 
 ## Mécanisme
 

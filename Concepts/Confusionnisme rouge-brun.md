@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [trajectoires-politiques, racisme-antiracisme]
 aliases: [rouge-brun, confusionnisme, tiers-voiisme, troisième voie]
 date created: Thursday, April 2nd 2026, 8:19:15 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/trajectoires-politiques #thème/racisme-antiracisme
 
@@ -21,7 +21,7 @@ Le confusionnisme rouge-brun opère en plusieurs étapes :
 3. **Alliance de fait** : critiquer ensemble Hollande et Sarkozy, rejoindre [[Etienne Chouard]] dans son "ni droite ni gauche, tous autour d'une table."
 4. **Glissement** : les "valeurs" en question sont toujours antiféministes, anti-LGBT, racistes ou antisémites déguisés en anticommunautarisme.
 
-Chris : "c'est toujours ça le fascisme — une révolution réactionnaire. Ça se donne l'apparence des révolutionnaires mais pour revenir en arrière, pas pour faire progresser la société."
+La PaduTeam : "c'est toujours ça le fascisme — une révolution réactionnaire. Ça se donne l'apparence des révolutionnaires mais pour revenir en arrière, pas pour faire progresser la société."
 
 ## Le tiers-voiisme historique
 La PaduTeam inscrit le confusionnisme dans la tradition des "troisièmes voies" fascistes historiques : le cercle Proudhon (alliance Action française + syndicalisme révolutionnaire au début du 20e siècle), [[Doriot]] (du PCF au fascisme), etc. Ces alliances de "la carpe et du lapin" sont insignifiantes en période normale, mais peuvent prendre de l'ampleur en période de crise.
@@ -29,10 +29,10 @@ La PaduTeam inscrit le confusionnisme dans la tradition des "troisièmes voies" 
 ## Pourquoi ça marche (et pourquoi ça déstructure)
 Soral a eu une audience réelle parce qu'il démolissait l'arnaque du PS (SOS Racisme, antiracisme d'État) en période où la gauche médiatique était représentée par des figures inoffensives type [[Isabelle Alonso]]. Mais il **déstructurait** plutôt qu'il ne structurait : pas de mouvement viable, pas d'organisation capable d'action collective, juste de la critique nihiliste de l'Ancien Monde.
 
-Chris : "Égalité & Réconciliation n'a pas eu l'effet d'un parti fasciste parce qu'en France à cette époque on était encore structuré, et on a eu un espace populiste plus normalisé avec Mélenchon qui a canalisé ces potentialités."
+La PaduTeam : "Égalité & Réconciliation n'a pas eu l'effet d'un parti fasciste parce qu'en France à cette époque on était encore structuré, et on a eu un espace populiste plus normalisé avec Mélenchon qui a canalisé ces potentialités."
 
 ## La sortie du confusionnisme : la moïsation
-Le moment où le clivage redevient lisible (pacte égalitaire vs arc réactionnaire) correspond à ce que la PaduTeam appelle la [[Moisation|moïsation]]. Pour Padu, ce sera le tournant 2017 (sujet de la partie 2 de la vidéo).
+Le moment où le clivage redevient lisible (pacte égalitaire vs arc réactionnaire) correspond à ce que la PaduTeam appelle la [[Moisation|moïsation]]. Pour la PaduTeam, ce sera le tournant 2017 (sujet de la partie 2 de la vidéo).
 
 ## Exemples dans le vault
 - [[Alain Soral]] — incarnation principale en France

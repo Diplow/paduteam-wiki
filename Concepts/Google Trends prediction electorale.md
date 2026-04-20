@@ -10,7 +10,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Google Trends prédiction électorale
 
 ## Définition
-Méthode développée par [[Chris]] pour prédire les scores électoraux à partir des tendances de recherche Google pendant les campagnes présidentielles, croisées avec le [[Graphique]].
+Méthode développée par la PaduTeam pour prédire les scores électoraux à partir des tendances de recherche Google pendant les campagnes présidentielles, croisées avec le [[Graphique]].
 
 ## Mécanisme
 1. Analyser les mots les plus recherchés sur Google en France pendant la campagne (Google Trends)

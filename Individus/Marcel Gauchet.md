@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [médias-propagande, guerre-des-gauches]
 aliases: [Gauchet]
 date created: Thursday, April 2nd 2026, 3:19:13 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:27:57 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/médias-propagande #thème/guerre-des-gauches
 

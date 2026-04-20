@@ -16,7 +16,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # AYMERIC CARON ÉCRABOUILLE CNEWS SUR GAZA !!
 
 ## Résumé
-Suite à une saisine de l'ARCOM sur la couverture de Gaza par [[CNews]], une audition parlementaire a lieu. [[Emeric Caron|Aymeric Caron]] interroge [[Philippe Njar]], directeur de rédaction de CNews. Padu commente l'échange en direct.
+Suite à une saisine de l'ARCOM sur la couverture de Gaza par [[CNews]], une audition parlementaire a lieu. [[Emeric Caron|Aymeric Caron]] interroge [[Philippe Njar]], directeur de rédaction de CNews. La PaduTeam commente l'échange en direct.
 
 ## Le clash : méthode et résultats
 
@@ -34,7 +34,7 @@ Njar : "je condamne l'assassinat de tous les êtres humains et au-delà des jour
 **Question 4** : Condamnez-vous la censure du gouvernement israélien qui interdit aux journalistes étrangers de couvrir Gaza ?
 Njar bégaie. Finit par dire : "je n'ai pas de réponse supplémentaire à donner[^2]."
 
-Padu : "c'est là sûr prendre parti sur quelque chose. Il suffirait de répondre oui. [...] il y a un directeur de rédaction d'une chaîne d'information qui n'est pas capable de condamner les meurtres de journalistes."
+La PaduTeam : "c'est là sûr prendre parti sur quelque chose. Il suffirait de répondre oui. [...] il y a un directeur de rédaction d'une chaîne d'information qui n'est pas capable de condamner les meurtres de journalistes."
 
 ## Les chiffres et le contexte
 - 30 000+ morts palestiniens à la date de l'audition (chiffre officiel — ne comptabilise pas les victimes indirectes ni les disparus)
@@ -44,7 +44,7 @@ Padu : "c'est là sûr prendre parti sur quelque chose. Il suffirait de répondr
 
 Caron tweet : "les massacres perpétrés par la misraien se poursuivent [...] tirer sur une population qui fait la queue lors d'une distribution alimentaire dans une situation de famine généralisée, peut-on faire plus ignoble[^3] ?"
 
-## Padu sur Caron
+## La PaduTeam sur Caron
 "C'est pas la gauche marxiste d'où je viens. [...] c'est pas la gauche radicale Caron quoi." Mais : "quand il a les sources, il est imbaisable." Le fait que Caron ne soit pas la gauche radicale donne paradoxalement plus de force à l'attaque : Njar ne peut pas le disqualifier comme "vieux communiste."
 
 ## Concepts

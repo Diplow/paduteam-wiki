@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [populisme bourgeois, populisme d'en haut, populisme des classes supérieures]
 date created: Thursday, April 2nd 2026, 12:12:16 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 

@@ -16,13 +16,13 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Capsule de Padu (de retour de vacances, pendant les JO de Paris 2024). Déconstruction de la campagne transphobe internationale contre la boxeuse algérienne [[Imane Khelif]], qui a battu l'Italienne Angela Carini en huitième de finale (abandon après deux droites). La vidéo démonte l'accusation d'"homme biologique" et pointe la dimension raciste des attaques.
+Capsule de la PaduTeam (de retour de vacances, pendant les JO de Paris 2024). Déconstruction de la campagne transphobe internationale contre la boxeuse algérienne [[Imane Khelif]], qui a battu l'Italienne Angela Carini en huitième de finale (abandon après deux droites). La vidéo démonte l'accusation d'"homme biologique" et pointe la dimension raciste des attaques.
 
 ## Thèses principales
 
 **Khelif n'est pas trans — elle est intersexe**. Elle présente une hyperandrogénie naturelle. Elle a toujours été assignée femme, reconnue comme femme par sa famille, son pays, le CIO. La confusion délibérée [[Intersexualite|intersexualité]]/[[Transidentite|transidentité]] est le mécanisme de la propagande.
 
-**L'abandon de la Carini n'est pas une preuve de puissance anormale**. Analyse sportive : la Carini a baissé sa garde, a pris une droite — c'est de la "mauvaise boxe", pas une superpuissance. Padu : "Elle abandonne parce qu'elle se sait inférieure et joue la carte — essayons de la faire exclure."
+**L'abandon de la Carini n'est pas une preuve de puissance anormale**. Analyse sportive : la Carini a baissé sa garde, a pris une droite — c'est de la "mauvaise boxe", pas une superpuissance. La PaduTeam : "Elle abandonne parce qu'elle se sait inférieure et joue la carte — essayons de la faire exclure."
 
 **L'IBA était hors-jeu**. L'IBA n'est plus reconnue par le CIO depuis 2023 (suspension en 2019). Sa disqualification de Khelif aux Championnats du monde 2023 était "sans procédure régulière" selon le CIO. Le CIO a défendu Khelif aux JO 2024.
 
@@ -32,7 +32,7 @@ Capsule de Padu (de retour de vacances, pendant les JO de Paris 2024). Déconstr
 
 ## Contexte
 
-Padu annonce dans cette capsule un épisode spécial avec Positions Revue, Dr Zoé et Stéphane (Foualiier) sur les JO dans leur dimension politique — tourné le jour même.
+La PaduTeam annonce dans cette capsule un épisode spécial avec Positions Revue et Stéphane (Foualiier) sur les JO dans leur dimension politique — tourné le jour même.
 
 ## Entités citées
 

@@ -4,7 +4,7 @@ domaine: [théorie, géopolitique]
 thèmes: [anti-impérialisme]
 aliases: [Samir Amine]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:56 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/théorie #domaine/géopolitique #thème/anti-impérialisme

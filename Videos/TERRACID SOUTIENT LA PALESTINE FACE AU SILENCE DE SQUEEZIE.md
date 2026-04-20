@@ -16,19 +16,19 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE ASSOURDISSANT DE SQUEEZIE !!
 
 ## Résumé
-Padu commente un clash Twitter entre un compte qui tente de piéger des jeunes en leur demandant de situer la Palestine sur une carte, et [[Terracid]] qui répond brillamment. Observation sur la "moisation" des influenceurs — ceux qui se positionnent (Terracid, [[Polska]], Lena Situations) vs ceux qui gardent le silence ([[Squeezie]]). Défense de Polska contre la misogynie.
+La PaduTeam commente un clash Twitter entre un compte qui tente de piéger des jeunes en leur demandant de situer la Palestine sur une carte, et [[Terracid]] qui répond brillamment. Observation sur la "moisation" des influenceurs — ceux qui se positionnent (Terracid, [[Polska]], Lena Situations) vs ceux qui gardent le silence ([[Squeezie]]). Défense de Polska contre la misogynie.
 
 ## L'argument de la carte : démoli par Terracid
 Un jeune, filmé en caméra cachée, dit soutenir les Palestiniens. L'interviewer lui demande de situer la Palestine sur une carte — il galère. L'objectif : prouver que les pro-palestiniens ne savent pas de quoi ils parlent.
 
 Terracid répond sur Twitter : "si demain j'apprends qu'à Perpignan un homme est rentré par effraction dans une maison pour tuer toute une famille de sang-froid, est-ce que je peux m'en indigner sans pour autant situer la ville sur la carte de France[^1] ?"
 
-Padu : "Il a raison. Le mec là qui s'indigne, il a peut-être vu les vidéos, il a peut-être vu des gens morts et tout, il sait pas forcément où c'est. Et qu'est-ce qu'on en a à faire quel rapport en fait avec la question posée, est-ce que tu soutiens ou pas ?"
+La PaduTeam : "Il a raison. Le mec là qui s'indigne, il a peut-être vu les vidéos, il a peut-être vu des gens morts et tout, il sait pas forcément où c'est. Et qu'est-ce qu'on en a à faire quel rapport en fait avec la question posée, est-ce que tu soutiens ou pas ?"
 
 La cohérence de l'argument : même pour la Seconde Guerre mondiale, les gens qui soutenaient la résistance française ne connaissaient pas nécessairement les frontières exactes de l'Allemagne. L'indignation morale ne dépend pas de la connaissance cartographique.
 
 ## La scission des influenceurs : courage vs autocensure
-Padu théorise une "moisation" : la séparation de plus en plus nette entre influenceurs qui se positionnent et influenceurs qui se taisent[^2].
+La PaduTeam théorise une "moisation" : la séparation de plus en plus nette entre influenceurs qui se positionnent et influenceurs qui se taisent[^2].
 
 **Ceux qui se mouillent** : Terracid (Palestine, violences policières, Mélenchon présidentielle), Polska (Palestine, retraites), Lena Situations (Palestine — avec bataille interne dans son équipe de conseillers), Xenogunenov, Marvel Fitness (sur la discrimination raciale).
 

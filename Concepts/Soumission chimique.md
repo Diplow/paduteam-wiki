@@ -17,7 +17,7 @@ La **soumission chimique** consiste à administrer une substance psychoactive à
 
 La **vulnérabilité chimique** est distincte : la personne a consommé volontairement la substance (alcool, etc.), mais on profite de son état altéré pour lui imposer des actes non consentis.
 
-Zoé (médecin et militante féministe) insiste sur le continuum entre les deux : certains cas sont entre les deux (weekend d'intégration, pression de groupe à boire). La question décisive n'est pas "soumission ou vulnérabilité ?" mais "y avait-il consentement ?" — dans le doute, s'abstenir.
+La PaduTeam insiste sur le continuum entre les deux : certains cas sont entre les deux (weekend d'intégration, pression de groupe à boire). La question décisive n'est pas "soumission ou vulnérabilité ?" mais "y avait-il consentement ?" — dans le doute, s'abstenir.
 
 ## Le mythe du GHB en boîte de nuit
 

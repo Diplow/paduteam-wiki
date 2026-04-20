@@ -15,7 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 React et analyse d'un documentaire [[Street Press]] sur l'exploitation de travailleurs saisonniers marocains sur une exploitation agricole de pommes dans le Lot-et-Garonne. L'exploitation appartient à [[Alain Aunac]], élu de la [[Coordination Rurale]].
 
-[[Padu]] et [[Chris]] développent une analyse marxiste du lien entre racisme et capitalisme : le racisme n'est pas une cause indépendante mais une fonctionnalité nécessaire du capitalisme pour permettre des niveaux d'exploitation extrêmes. Ils s'appuient sur [[CLR James]], [[Eric Williams]] et [[W.E.B. Du Bois]] pour démontrer que c'est l'esclavagisme comme mode de production qui a engendré le racisme moderne, et non l'inverse.
+La PaduTeam développe une analyse marxiste du lien entre racisme et capitalisme : le racisme n'est pas une cause indépendante mais une fonctionnalité nécessaire du capitalisme pour permettre des niveaux d'exploitation extrêmes. Ils s'appuient sur [[CLR James]], [[Eric Williams]] et [[W.E.B. Du Bois]] pour démontrer que c'est l'esclavagisme comme mode de production qui a engendré le racisme moderne, et non l'inverse.
 
 ## Thèses principales
 
@@ -23,7 +23,7 @@ React et analyse d'un documentaire [[Street Press]] sur l'exploitation de travai
 
 La bourgeoisie coloniale (15e-16e siècle) avait besoin d'une main d'œuvre que ni le servage (interdit par l'Église) ni le travail libre ne pouvaient fournir dans les colonies. Elle a réintroduit l'esclavage et construit la déshumanisation des peuples africains et amérindiens pour le justifier. La Controverse de Valladolid en est l'illustration : il fallait décider si les colonisés étaient humains, car s'ils l'étaient, on ne pouvait pas les traiter ainsi.
 
-Ce cadre s'oppose à [[Norman Ajari]] et aux théoriciens qui posent une forme d'absolu idéaliste de la suprématie blanche indépendante des forces productives — ce que la PaduTeam qualifie de pensée "idéaliste" et "réactionnaire" car elle ne permet pas de penser la transformation.
+Ce cadre s'oppose à [[Norman Ajari]] et aux théoriciens qui posent une forme d'absolu idéaliste de la suprématie blanche indépendante des forces productives — pensée qualifiée d'"idéaliste" et de "réactionnaire" car elle ne permet pas de penser la transformation.
 
 ### La déshumanisation comme outil d'exploitation
 
@@ -33,13 +33,13 @@ Le [[Racisme comme fonctionnalite du capitalisme|racisme n'est pas une idéologi
 
 ### Critique de l'idéalisme dans l'analyse du racisme
 
-[[Norman Ajari]] est critiqué pour avoir ajouté une dimension "jouissance" à l'exploitation coloniale, irréductible au marxisme. Chris répond que cette explication psychologisante ne dit rien sur la transformation politique possible. Le matérialisme dialectique reste supérieur car il identifie des causalités actionnables : comprendre les nécessités matérielles permet de devenir une "entrave" au racisme plutôt qu'un simple gestionnaire.
+[[Norman Ajari]] est critiqué pour avoir ajouté une dimension "jouissance" à l'exploitation coloniale, irréductible au marxisme. La PaduTeam répond que cette explication psychologisante ne dit rien sur la transformation politique possible. Le matérialisme dialectique reste supérieur car il identifie des causalités actionnables : comprendre les nécessités matérielles permet de devenir une "entrave" au racisme plutôt qu'un simple gestionnaire.
 
 ### Internationalisme ouvrier contre nationalisme
 
 La nationalité est un "[[Nationalite comme privilege feodal|privilège féodal]]" qui sert à diviser les travailleurs. Les droits du travail doivent être universels, indépendants de la nationalité, de la langue, de la religion, de l'assimilation culturelle. Critique directe de [[Francois Ruffin]] et [[Fabien Roussel]] qui agitent le drapeau national et l'assimilation : c'est "se tirer une balle dans le pied" et reconstruire un "logiciel assimilationniste".
 
-Padu développe la distinction : le patriotisme est un sentiment légitime (comme l'amour de sa mère) mais ne peut pas être un programme politique sans devenir violence envers autrui. Albert Camus en est l'exemple : "Entre la justice et ma mère, je choisis ma mère" en a fait "un crétin politique" incapable de comprendre le colonialisme.
+La PaduTeam développe la distinction : le patriotisme est un sentiment légitime (comme l'amour de sa mère) mais ne peut pas être un programme politique sans devenir violence envers autrui. Albert Camus en est l'exemple : "Entre la justice et ma mère, je choisis ma mère" en a fait "un crétin politique" incapable de comprendre le colonialisme.
 
 ### La Coordination Rurale comme petite bourgeoisie exploiteuse
 

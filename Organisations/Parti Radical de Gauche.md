@@ -23,4 +23,4 @@ Présent au Festival de la Noisette de Bram (2026) aux côtés du PCF, Glucksman
 
 ## Vidéos où le PRG est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Présent à Bram, analyse de son positionnement (plus à droite que Glucksmann), histoire du parti
-- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Padu et Chris découvrent que le PRG existe encore en direct ; retour historique sur sa naissance dans les années 70 (scission du parti radical) ; Christiane Taubira ancienne grande figure ; Guillaume Lacroix président actuel
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — La PaduTeam découvre que le PRG existe encore en direct ; retour historique sur sa naissance dans les années 70 (scission du parti radical) ; Christiane Taubira ancienne grande figure ; Guillaume Lacroix président actuel

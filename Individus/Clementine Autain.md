@@ -29,18 +29,18 @@ Le graphique prédit qu'elle perdra la primaire de la gauche-noisette face à [[
 - [[Aurore Berge]] — comparées ensemble comme "collectionneuses de cartes d'adhérent"
 
 ## Trajectoire complète selon les Seigneurs des Noisettes
-PC → Ensemble (cofondé avec elle dans le Front de Gauche) → FI → L'Après. Chris : "l'opportuniste aventurière absolue de la gauche depuis toujours." Débuts sur les plateaux télé face à Soral en tant que féministe — "s'était fait rouler dessus" par Soral qui l'avait appelée "petite jeune fille."
+PC → Ensemble (cofondé avec elle dans le Front de Gauche) → FI → L'Après. La PaduTeam : "l'opportuniste aventurière absolue de la gauche depuis toujours." Débuts sur les plateaux télé face à Soral en tant que féministe — "s'était fait rouler dessus" par Soral qui l'avait appelée "petite jeune fille."
 
 À la primaire noisette, elle a "presque plus d'avantage que Ruffin" car l'espace de la primaire (aile gauche PS + aile droite FI) est plus proche de son profil. Mais sa rivale principale sera [[Marine Tondelier]].
 
 ## La "traîtresse en chef" de 2017
-En 2017, quand Mélenchon s'était rapproché du 2e tour et que des rumeurs d'alliance bolivarienne circulaient, Autain avait dit "Ah non, là c'est pas possible." — trahissant à chaque moment décisif. Padu : "Déjà elle trahit à chaque fois. Dès en 2017, elle a dit 'Ah non, là c'est pas possible.'" Ça va se reproduire en 2027.
+En 2017, quand Mélenchon s'était rapproché du 2e tour et que des rumeurs d'alliance bolivarienne circulaient, Autain avait dit "Ah non, là c'est pas possible." — trahissant à chaque moment décisif. La PaduTeam : "Déjà elle trahit à chaque fois. Dès en 2017, elle a dit 'Ah non, là c'est pas possible.'" Ça va se reproduire en 2027.
 
 ## La théorie des lucioles (juillet 2025)
 
-À la conférence [[Front Populaire 2027]] du 2 juillet 2025, Autain déclare un "moment historique" et développe une longue métaphore sur "la sympathie des horloges" (découverte du XVIIe siècle) et les lucioles qui finissent par clignoter ensemble. La PaduTeam : "dépolitisant, con, chiant, long." Chris : "on dirait Édouard Baer dans Astérix Mission Cléopâtre." Padu : "le mec a bossé ça à l'entraînement."
+À la conférence [[Front Populaire 2027]] du 2 juillet 2025, Autain déclare un "moment historique" et développe une longue métaphore sur "la sympathie des horloges" (découverte du XVIIe siècle) et les lucioles qui finissent par clignoter ensemble. La PaduTeam : "dépolitisant, con, chiant, long." La PaduTeam ironise : "on dirait Édouard Baer dans Astérix Mission Cléopâtre." et "le mec a bossé ça à l'entraînement."
 
-Autain appuie sur la pression envers la FI absente : "C'est sur eux que pèse la responsabilité." Pour Padu : "Ils s'en battent les couilles de votre gueule Clémentine, parce qu'ils vont faire 20 et vous 4."
+Autain appuie sur la pression envers la FI absente : "C'est sur eux que pèse la responsabilité." Pour la PaduTeam : "Ils s'en battent les couilles de votre gueule Clémentine, parce qu'ils vont faire 20 et vous 4."
 
 ## Vidéos où Autain est analysée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]

@@ -19,7 +19,7 @@ La PaduTeam critique cette position comme scientifiquement fausse (caricature de
 
 ## MJCF contre Roussel : la contradiction interne au PCF
 
-La PaduTeam voit les MJCF comme la partie la plus adéquate du PCF — ceux qui comprennent les transformations sociales (antiracisme, féminisme, islamophobie) contrairement à l'appareil Roussel. Chris : "S'il y a aujourd'hui une orga satellite qui est puissante et intéressante et adéquate à la situation concrète, c'est beaucoup plus les MJCF que le PCF aujourd'hui."
+La PaduTeam voit les MJCF comme la partie la plus adéquate du PCF — ceux qui comprennent les transformations sociales (antiracisme, féminisme, islamophobie) contrairement à l'appareil Roussel. La PaduTeam : "S'il y a aujourd'hui une orga satellite qui est puissante et intéressante et adéquate à la situation concrète, c'est beaucoup plus les MJCF que le PCF aujourd'hui."
 
 Des sections MJCF (notamment la MJCF du Nord/59) ont publié des fils Twitter pour dénoncer les sorties de Roussel sur CNews. La jeunesse communiste déteste Roussel "en masse" — ce qui prive le PCF de son réservoir de militants futurs.
 
@@ -29,7 +29,7 @@ Au dernier congrès, les MJCF voulaient que le PCF utilise le terme "islamophobi
 
 La structure nationale des JC est "cadenassée" par le PCF et reste rousselliste — c'est la direction nationale qui parle au nom des JC, même quand les bases locales ne le sont pas. Les JC les plus radicales (JC Nord/59, JC Loire, JC Vienne entre autres) ont des lignes de rupture proches de celles de la PaduTeam — antiracisme, féminisme, soutien à LFI — mais n'arrivent pas à prendre le pouvoir au niveau national. Le vote représentant d'une JC peut être rousselliste même si la moitié de la section ne l'est pas.
 
-Padu distingue : "Vous allez avoir des JC assez radicales avec une ligne réellement communiste qui se rapproche de la mienne, et le national des JC qui est plutôt cadenassé par le PCF et qui est plutôt rousselliste."
+La PaduTeam distingue : "Vous allez avoir des JC assez radicales avec une ligne réellement communiste qui se rapproche de la mienne, et le national des JC qui est plutôt cadenassé par le PCF et qui est plutôt rousselliste."
 
 ## Vidéos où le MJCF est analysé
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique de la position prohibitionniste du MJCF

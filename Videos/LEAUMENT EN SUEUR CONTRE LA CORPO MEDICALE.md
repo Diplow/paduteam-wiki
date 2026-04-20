@@ -32,22 +32,22 @@ Dans le contexte du budget de la Sécurité Sociale (PLFSS automne 2025), [[Anto
 
 ### Léaument : bien, mais peut mieux faire
 
-[[Dr Zoe]] reconnaît que Léaument "répond plutôt bien" au médecin de droite mais aurait pu "y aller plus fort" sur plusieurs points. Position PaduTeam : un allié, mais insuffisamment radical. La vidéo est un "coaching en différé" pour lui donner les outils analytiques qu'il n'a pas pleinement mobilisés.[^1]
+La PaduTeam reconnaît que Léaument "répond plutôt bien" au médecin de droite mais aurait pu "y aller plus fort" sur plusieurs points. Position PaduTeam : un allié, mais insuffisamment radical. La vidéo est un "coaching en différé" pour lui donner les outils analytiques qu'il n'a pas pleinement mobilisés.[^1]
 
 ### Le [[Secteur 2]] : une médecine à deux vitesses
 
-Centre du débat : la FMF défend le secteur 2 comme liberté professionnelle. Zoé réplique en montrant l'absurde : la "différence" entre un médecin secteur 1 et secteur 2 n'existe pas en termes de qualité du soin. Elle existe uniquement comme **barrière tarifaire à l'accès**. Exemple concret : accès au bloc chirurgical dans 10 mois sans dépassements, 1,5 mois avec dépassements.[^2]
+Centre du débat : la FMF défend le secteur 2 comme liberté professionnelle. La PaduTeam réplique en montrant l'absurde : la "différence" entre un médecin secteur 1 et secteur 2 n'existe pas en termes de qualité du soin. Elle existe uniquement comme **barrière tarifaire à l'accès**. Exemple concret : accès au bloc chirurgical dans 10 mois sans dépassements, 1,5 mois avec dépassements.[^2]
 
 ### La [[100 pour cent Securite Sociale|100% Sécurité Sociale]] — le programme complet
 
-Présentation structurée par Zoé :
+Présentation structurée par la PaduTeam :
 - Supprimer les complémentaires santé et transférer leurs cotisations à la Sécurité Sociale
 - Économie immédiate de 5,4 milliards/an (frais de gestion : 3% à la Sécu vs 22% chez AXA)[^3]
 - Remboursement à 100% sans reste à charge — fin des inégalités d'accès liées à la couverture complémentaire
 
 ### La fonctionnarisation comme horizon de gauche
 
-Zoé va plus loin que l'interdiction des dépassements : "pour un projet de gauche, ça serait de mettre fin à la médecine libérale à terme". Salariat des médecins, rémunération indépendante du volume d'actes, planification publique de l'offre de soins selon les besoins territoriaux.[^4]
+La PaduTeam va plus loin que l'interdiction des dépassements : "pour un projet de gauche, ça serait de mettre fin à la médecine libérale à terme". Salariat des médecins, rémunération indépendante du volume d'actes, planification publique de l'offre de soins selon les besoins territoriaux.[^4]
 
 ### La santé comme bien commun
 
@@ -55,11 +55,11 @@ Formulation centrale de la vidéo : "La santé n'est pas une marchandise et ne d
 
 ### Appel aux médecins de gauche isolés
 
-Zoé mentionne le [[Syndicat de la Medecine Generale]] (SMG) — 40 adhérents — comme espace pour les médecins de gauche qui se sentent seuls dans leur exercice. "On pense bien à vous."
+La PaduTeam mentionne le [[Syndicat de la Medecine Generale]] (SMG) — 40 adhérents — comme espace pour les médecins de gauche qui se sentent seuls dans leur exercice. "On pense bien à vous."
 
 ## Citations clés
 
-[^1]: [1:32](https://www.youtube.com/watch?v=gMRUskGZPMw&t=92) — "moi j'attends ton coaching... autant il y a des fois je suis plutôt protagoniste dans les capsules, autant là je vais regarder un petit peu le coaching de Zoé auprès de Léaument" (Chris)
+[^1]: [1:32](https://www.youtube.com/watch?v=gMRUskGZPMw&t=92) — "moi j'attends ton coaching... autant il y a des fois je suis plutôt protagoniste dans les capsules, autant là je vais regarder un petit peu le coaching auprès de Léaument"
 [^2]: [20:04](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1204) — "le prochain créneau de bloc sans dépassement d'honoraire, c'est dans 10 mois. Par contre, avec dépassement d'honoraire, j'ai une place dans un mois et demi"
 [^3]: [30:52](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1852) — "chez AXA quand vous cotisez 100 € il y a 22 € qui partent dans les frais de gestion... 3 € d'un côté 22 € de l'autre c'est 7 fois plus cher"
 [^4]: [35:24](https://www.youtube.com/watch?v=gMRUskGZPMw&t=2124) — "pour un projet de gauche ça serait de mettre fin à la médecine libérale à terme"

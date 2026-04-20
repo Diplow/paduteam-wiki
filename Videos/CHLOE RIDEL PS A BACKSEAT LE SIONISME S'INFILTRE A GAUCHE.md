@@ -16,14 +16,14 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # CHLOÉ RIDEL PS À BACKSEAT : LE SIONISME S'INFILTRE À GAUCHE
 
 ## Résumé
-Padu et Zoé réagissent à l'invitation de Chloé Ridel (porte-parole PS, équipe Faure) sur Backseat. Analyse du retournement de veste PS sur Gaza ("on a toujours été clairs"), du double discours sur le génocide selon l'audience, et du positionnement au congrès PS. Zoé formule la sentence : "Je sais même pas quel parti est plus sioniste que le PS en France. Le RN est moins sioniste que le PS."
+La PaduTeam réagit à l'invitation de Chloé Ridel (porte-parole PS, équipe Faure) sur Backseat. Analyse du retournement de veste PS sur Gaza ("on a toujours été clairs"), du double discours sur le génocide selon l'audience, et du positionnement au congrès PS. Zoé formule la sentence : "Je sais même pas quel parti est plus sioniste que le PS en France. Le RN est moins sioniste que le PS."
 
 ## Thèses et analyses clés
-1. **Le retournement de veste** : le PS "refait le match" comme s'il avait toujours dénoncé le génocide. Zoé : "C'est toujours le même schéma — ça aurait été bien 18 mois plus tôt ou même 70 ans plus tôt. C'est très énervant de voir tout le monde se racheter une vertu." Backseat est complice en platefermant cette réécriture.
+1. **Le retournement de veste** : le PS "refait le match" comme s'il avait toujours dénoncé le génocide. La PaduTeam : "C'est toujours le même schéma — ça aurait été bien 18 mois plus tôt ou même 70 ans plus tôt. C'est très énervant de voir tout le monde se racheter une vertu." Backseat est complice en platefermant cette réécriture.
 2. **Le double discours selon l'audience** : Ridel dit "génocide" sur Backseat (audience jeune, à gauche). Dans ses tribunes de mars 2024, elle parlait de "risque de génocide". Sur BFM ou C8 : "elle aura plus de mal à dire génocide."
 3. **PS à la marche contre l'antisémitisme** : le PS a marché dans un cortège avec l'extrême droite, avec un parti fondé par des nazis, quand LFI était convoqué chez les flics. "Non seulement ne pas le voir, mais en plus participer — c'était une honte."
-4. **Zoé, sentence directe** : "Je le dis : le RN est moins sioniste que le Parti socialiste. LREM, peut-être, et même une partie des LR. Mais vraiment, que Ridel vienne nous jouer la carte de la militante pro-palestinienne, c'est une blague."
-5. **La noisette** : Chloé Ridel, côté Faure, prône une alliance à gauche sans LFI — une position de noisette, entre les deux blocs (Meyer-Rossignol vers Hollande/Glucksmann, LFI vers Mélenchon). Padu : "Tu peux pas faire la République sociale si tu fais un pacte avec Hollande, Glucksmann et Macron."
+4. **La sentence directe** : "Je le dis : le RN est moins sioniste que le Parti socialiste. LREM, peut-être, et même une partie des LR. Mais vraiment, que Ridel vienne nous jouer la carte de la militante pro-palestinienne, c'est une blague."
+5. **La noisette** : Chloé Ridel, côté Faure, prône une alliance à gauche sans LFI — une position de noisette, entre les deux blocs (Meyer-Rossignol vers Hollande/Glucksmann, LFI vers Mélenchon). La PaduTeam : "Tu peux pas faire la République sociale si tu fais un pacte avec Hollande, Glucksmann et Macron."
 6. **Congrès PS** : 42% Faure, 40% Meyer-Rossignol, 18% Vallaud. Vote final le 5 juin. Si Vallaud rejoint Meyer-Rossignol, le PS bascule.
 
 ## Individus mentionnés

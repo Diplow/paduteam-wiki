@@ -17,10 +17,10 @@ Méthode fondamentale du *Capital* de [[Karl Marx]], opposée à l'empirisme. Au
 Les premiers chapitres du *Capital* sont volontairement abstraits et difficiles (la marchandise, la valeur, le [[Fétichisme de la marchandise]]). Ce n'est pas un défaut : ces abstractions sont les clés qui permettent ensuite de comprendre les phénomènes concrets (prix, salaires, crises, accumulation). L'abstrait n'est pas le contraire du concret — il en est la condition d'intelligibilité.
 
 ## Opposition à l'empirisme
-Chris oppose cette méthode à celle d'[[Emmanuel Todd]], qualifié d'"esprit limité" et "médiocre" parce qu'il procède à l'inverse : accumulation de données empiriques (démographie, systèmes familiaux) sans cadre théorique, ce qui produit des interprétations "désastreuses" malgré des données parfois solides.
+La PaduTeam oppose cette méthode à celle d'[[Emmanuel Todd]], qualifié d'"esprit limité" et "médiocre" parce qu'il procède à l'inverse : accumulation de données empiriques (démographie, systèmes familiaux) sans cadre théorique, ce qui produit des interprétations "désastreuses" malgré des données parfois solides.
 
 ## Application PaduTeam
-[[Alain Bihr]] dans *La Logique méconnue du Capital* explicite cette méthode et en fait une clé de lecture pour rendre le *Capital* accessible. C'est pourquoi Chris le recommande comme "la meilleure intro" au Capital.
+[[Alain Bihr]] dans *La Logique méconnue du Capital* explicite cette méthode et en fait une clé de lecture pour rendre le *Capital* accessible. C'est pourquoi la PaduTeam le recommande comme "la meilleure intro" au Capital.
 
 ## Vidéos où le concept est développé
-- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris explique la méthode en recommandant Bihr et le Capital
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — la PaduTeam explique la méthode en recommandant Bihr et le Capital

@@ -21,7 +21,7 @@ Décryptage de trois moments d'impunité pro-israélienne, mis en contraste avec
 ## Arno Klarsfeld et les "rafles de musulmans"
 Sur un plateau, Klarsfeld lie la montée de l'antisémitisme à l'immigration depuis des "pays musulmans antisémites" et conclut : pour arrêter les "dizaines de milliers" de personnes, il faudrait "organiser des grandes rafles de musulmans" car "on peut pas expulser les gens"[^1].
 
-Padu : "La sémantique et logique nazie par Klarsfeld sont effroyables. Remplacez musulmans par juifs dans ses phrases et c'est un discours tout droit sorti du IIIe Reich." Personne ne poursuit Klarsfeld.
+La PaduTeam : "La sémantique et logique nazie par Klarsfeld sont effroyables. Remplacez musulmans par juifs dans ses phrases et c'est un discours tout droit sorti du IIIe Reich." Personne ne poursuit Klarsfeld.
 
 Ce que Klarsfeld omet dans son explication de la montée de l'antisémitisme : le rôle du génocide en cours. En fusionnant juif et sioniste, l'extrême droite israélienne produit elle-même l'antisémitisme qu'elle dénonce — des juifs français associés à Netanyahu = cibles potentielles d'une hostilité légitime retournée contre les mauvaises personnes.
 
@@ -30,17 +30,17 @@ Boujenah compare Gaza à Hiroshima et Berlin : "les Américains ont bombardé Be
 
 Puis : "s'ils sont d'accord avec le Hamas, il y a pas de dommages collatéraux." Traduction directe : tous les civils gazaouis qui soutiennent le Hamas peuvent être tués sans que cela constitue des "dommages collatéraux".
 
-Padu : "c'est complètement ouf comme truc hein [...] vous imaginez en sens inverse si vous avez un type qui soutenait daesh et qui disait qu'il fallait raser Israël ?"
+La PaduTeam : "c'est complètement ouf comme truc hein [...] vous imaginez en sens inverse si vous avez un type qui soutenait daesh et qui disait qu'il fallait raser Israël ?"
 
 ## Gérald Darmanin au barbecue Tsahal
 [[Gerald Darmanin]] est présent à un barbecue en soutien à Israël et déclare (en français, traduit) : "je voudrais vous dire à quel point vous êtes notre fierté, vous êtes notre honneur, sans vous on ne serait pas, vous faites vivre l'État d'Israël[^3]."
 
-Padu : "c'est ouf hein, c'est vraiment dingue." Aucune réaction des mêmes qui crieraient au scandale si un ministre saluait la résistance palestinienne.
+La PaduTeam : "c'est ouf hein, c'est vraiment dingue." Aucune réaction des mêmes qui crieraient au scandale si un ministre saluait la résistance palestinienne.
 
 ## La fresque de Poitiers effacée
 Pendant ce temps : une fresque murale à Poitiers — "75 ans de colonisation, stop génocide" avec des symboles de paix (peace and love) — est signalée par trois élus d'opposition au procureur de la République comme "provocation à la haine sous forme d'antisémitisme". La mairie fait effacer la fresque "dans un esprit d'apaisement"[^4].
 
-Padu : "c'est pas la faute des Juifs la colonisation, c'est la faute de l'impérialisme occidental et du sionisme. Expression purement politique." Et cet élu poitevin qui dit que "ça ni la reconnaissance d'Israël et implicitement veut sa destruction" — "le mec est en train de dire c'est la faute des Juifs la colonisation quoi."
+La PaduTeam : "c'est pas la faute des Juifs la colonisation, c'est la faute de l'impérialisme occidental et du sionisme. Expression purement politique." Et cet élu poitevin qui dit que "ça ni la reconnaissance d'Israël et implicitement veut sa destruction" — "le mec est en train de dire c'est la faute des Juifs la colonisation quoi."
 
 ## Le double mesure comme système
 Propos génocidaires impunis : Klarsfeld, Boujenah, Darmanin. Fresque politique effacée. C'est la définition opérationnelle du [[Double mesure]] : les standards ne s'appliquent pas aux mêmes selon leur position sur la question palestinienne.

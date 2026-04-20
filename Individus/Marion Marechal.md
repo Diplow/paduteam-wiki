@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: []
 aliases: [Marion Maréchal]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:57 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/politique-intérieure

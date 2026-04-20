@@ -27,7 +27,7 @@ La clé analytique : quand on accuse ce type de régime de "répression", il fau
 
 ## Exemples
 - [[Nicolas Maduro]] : accusé de dictature pour avoir réprimé des manifestants qui demandaient une intervention militaire américaine dans leur propre pays
-- Staline : cité par Chris pour montrer que même Trotski était "100000 fois plus répressif que Maduro" lorsque la révolution était attaquée de toute part
+- Staline : cité par la PaduTeam pour montrer que même Trotski était "100000 fois plus répressif que Maduro" lorsque la révolution était attaquée de toute part
 - La Révolution française : le Comité de Salut Public comme parallèle — l'urgence révolutionnaire justifie des mesures que la paix démocratique ne justifierait pas
 
 ## Vidéos où le concept est développé

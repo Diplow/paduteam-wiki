@@ -20,7 +20,7 @@ La confraternité médicale est le code déontologique non écrit (mais partiell
 
 Le cas le plus documenté par [[Dr Zoe]] : le risque de condamnation au [[Conseil de l'Ordre des Medecins]] pour **dénoncer** un confrère agresseur sexuel est structurellement plus élevé que pour **être** cet agresseur. La confraternité est invoquée pour poursuivre la victime/dénonciante qui a "porté atteinte à l'honneur de la profession", mais rarement pour sanctionner l'agresseur lui-même.[^2]
 
-Formulation cinglante de Zoé, répétée dans plusieurs vidéos : **"Il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre."**
+Formulation cinglante de la PaduTeam, répétée dans plusieurs vidéos : **"Il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre."**
 
 ## Origine : le Conseil de l'Ordre sous Vichy
 
@@ -39,17 +39,17 @@ La PaduTeam distingue :
 
 ## Parallèle avec d'autres institutions
 
-[[Dr Zoe]] compare explicitement le transfert de Nicolas W (externe agresseur) de Tours à Limoges aux transferts de prêtres pédophiles entre diocèses — même logique de protection institutionnelle, même minimisation du risque pour les victimes futures, même priorité donnée à la réputation de l'institution sur la sécurité des victimes potentielles.
+La PaduTeam compare explicitement le transfert de Nicolas W (externe agresseur) de Tours à Limoges aux transferts de prêtres pédophiles entre diocèses — même logique de protection institutionnelle, même minimisation du risque pour les victimes futures, même priorité donnée à la réputation de l'institution sur la sécurité des victimes potentielles.
 
 ## Impact sur le débat public médical
 
-La confraternité limite structurellement la capacité des médecins de gauche ou dissidents à prendre la parole. Padu (interne en psychiatrie) et Zoé (généraliste) mentionnent tous deux la pression sociale de la corporation — ne pas "se griller" professionnellement, maintenir des relations de travail dans un milieu petit et fermé. Cette auto-censure n'est pas que formelle : elle informe le ton plus prudent de certaines vidéos, les précautions rhétoriques ("bien sûr mon cher confrère est un excellent praticien...").
+La confraternité limite structurellement la capacité des médecins de gauche ou dissidents à prendre la parole. La PaduTeam mentionne la pression sociale de la corporation — ne pas "se griller" professionnellement, maintenir des relations de travail dans un milieu petit et fermé. Cette auto-censure n'est pas que formelle : elle informe le ton plus prudent de certaines vidéos, les précautions rhétoriques ("bien sûr mon cher confrère est un excellent praticien...").
 
 ## Vidéos clés
 
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — cas Nicolas W, confraternité vs dénonciation d'agression
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — "il vaut mieux agresser que dénoncer"
-- [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — Zoé sur la nécessité de "rester confraternelle" malgré le désaccord profond
+- [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — La PaduTeam sur la nécessité de "rester confraternelle" malgré le désaccord profond
 
 [^1]: [1:32](https://www.youtube.com/watch?v=V14W9I6sqjA&t=92) — "actuellement en médecine, il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en terme de risque de condamnation au conseil de l'ordre"
 [^2]: [28:34](https://www.youtube.com/watch?v=xrGePx2JwbM&t=1714) — "actuellement encore aujourd'hui il est beaucoup plus facile de faire condamner un confrère pour non respect de la confraternité parce qu'il a dénoncé les agissements d'un médecin agresseur"

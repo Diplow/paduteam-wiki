@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [anti-impérialisme, Palestine]
 aliases: [Biden]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:57 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Palestine

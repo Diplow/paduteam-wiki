@@ -2,9 +2,9 @@
 type: enjeu
 domaine: société
 thèmes: [féminisme, VSS]
-skill_version: ingest-batch-2026-04-13
+skill_version: write-enjeu-2026-04-20
 date created: Monday, April 13th 2026, 11:23:10 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 20th 2026, 12:00:00 pm
 ---
 
 #domaine/société #thème/féminisme #thème/VSS
@@ -17,11 +17,18 @@ Les violences sexistes et sexuelles (VSS) ne sont pas des actes de monstres isol
 
 ## Faits structurels répétés
 
-- 1 enfant sur 10 en CM2 est victime de violences sexuelles (immense majorité dans le cercle proche)
+- 1 enfant sur 10 en CM2 est victime de violences sexuelles (immense majorité dans le cercle proche) — les premiers agresseurs sont les pères et beaux-pères, puis grands-pères, cousins et frères
 - 94% des plaintes pour VSS sont classées sans suite (étude IEP sur 10 ans, >1 million de plaintes)
 - 75% des viols sont commis par des proches (États-Unis ; idem France selon enquête Virage 2015-2016)
+- Les étrangers représentent 11% des violeurs condamnés (enquête CVS, chiffres 2023) — légèrement supérieur à leur part dans la population, mais cet écart s'explique par le biais de classe dans les condamnations (précarité, absence de statut juridique stable, moins bien défendus), pas par une donnée raciale
 - Sous-déclaration massive : la plupart des victimes ne portent pas plainte — encore moins quand l'agresseur est un proche
 - Les VSS dans les milieux "civilisés" : Depardieu (1977 : "mon premier viol, c'est mon pote Jacky"), Benoît Jacot, viols collectifs dans les bandes des années 60-70 (article Mucchielli), weekends d'intégration des facs de médecine et écoles de commerce
+
+## Le continuum des VSS
+
+La PaduTeam insiste sur le [[Continuum des VSS]] : du harcèlement de rue au féminicide, en passant par le viol conjugal et les agressions intrafamiliales. L'extrême droite focalise sur le viol "de l'étranger" précisément pour esquiver tout ce continuum — le harcèlement quotidien, le viol conjugal, l'inceste, les agressions dans les milieux professionnels. Cette focalisation garantit que le problème ne sera jamais résolu.
+
+Le biais de classe dans les condamnations renforce le même angle mort : un agresseur bourgeois (médecin, personnalité publique, cadre) agresse dans son cercle de pouvoir où les victimes portent rarement plainte immédiatement. Il ne se fait attraper que quand il sort de ce cercle. [[Dominique Pelicot]] a été arrêté pour avoir filmé sous les jupes de femmes au supermarché — pas pour dix ans de viols conjugaux sur sa femme. [[Joël le Scouarnec]], chirurgien viscéral, pour des centaines de viols sur des enfants, n'a été découvert que tardivement pour la même raison.
 
 ## Mécanisme du système du silence
 
@@ -127,7 +134,8 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 
 ## Adversaires identifiés
 
-- [[Thais d'Escufon]] — "90% des accusations de viol sont fausses"
+- [[Thais d'Escufon]] — "90% des accusations de viol sont fausses" ; normalise le viol conjugal
+- [[Herga]] — droitarde qui focalise sur les viols par étrangers, défend Depardieu contre le reportage Corée du Nord, construit son discours sur un vécu subjectif non généralisable
 - Eric Zemmour — "la confiance règne" (à propos d'une agression sexuelle dans un bus)
 - Collectif [[Collectif Nemesis]] — sélection raciste des victimes, occultation de l'inceste et du viol conjugal
 - Les défenseurs de Gérard Depardieu ("chasse aux sorcières"), de [[Cauet]], d'[[Arthur]], de Morandini
@@ -137,6 +145,7 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 
 ## Vidéos associées
 
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — continuum des VSS vs focalisation sur le viol "de l'étranger" ; biais de classe dans les condamnations ; données CVS 2023 (11% d'étrangers condamnés) ; inceste (10% des enfants) ; Depardieu comme preuve que la violence sexuelle est française et blanche
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]

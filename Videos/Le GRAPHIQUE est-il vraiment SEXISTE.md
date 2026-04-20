@@ -10,7 +10,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # Le GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)
 
 ## Résumé
-Capsule où Padu interroge Chris sur la critique adressée au [[Graphique]] : manque-t-il une dimension de genre et de race ? Chris défend que non — genre et race ne sont pas absents du graphique mais lisibles à l'intérieur des ronds (PCS), via leur distribution genrée et racisée. Chris expose aussi sa méthode de prédiction électorale par [[Google Trends prediction electorale|Google Trends]].
+Capsule où la PaduTeam examine la critique adressée au [[Graphique]] : manque-t-il une dimension de genre et de race ? Chris défend que non — genre et race ne sont pas absents du graphique mais lisibles à l'intérieur des ronds (PCS), via leur distribution genrée et racisée. Chris expose aussi sa méthode de prédiction électorale par [[Google Trends prediction electorale|Google Trends]].
 
 ## Thèses et analyses clés
 
@@ -30,13 +30,13 @@ Capsule où Padu interroge Chris sur la critique adressée au [[Graphique]] : ma
 
 ## Résultats / projections
 
-| Candidat | Prédiction Chris (Google Trends 2022) | Résultat réel 2022 |
+| Candidat | Prédiction PaduTeam (Google Trends 2022) | Résultat réel 2022 |
 |---|---|---|
 | Jean-Luc Mélenchon | ~22% | 21,95% |
 | Éric Zemmour | 7-8% | ~7% |
 | PCF (Roussel) | ~7% | ~2,28% |
 
-Note: l'écart PCF (prédit 7%, réel ~2%) explique selon Chris pourquoi Mélenchon n'est pas au second tour. Les voix PCF sont allées vers Zemmour, Le Pen et Macron.
+Note: l'écart PCF (prédit 7%, réel ~2%) explique selon la PaduTeam pourquoi Mélenchon n'est pas au second tour. Les voix PCF sont allées vers Zemmour, Le Pen et Macron.
 
 ## Individus mentionnés
 [[Padu]], [[Chris]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[Francois Ruffin]], [[Leon Deffontaines]], [[Marion Marechal]], [[Eric Zemmour]], [[Fabien Roussel]], [[Dr Zoe]]

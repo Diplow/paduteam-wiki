@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: []
 date created: Tuesday, March 31st 2026, 10:38:47 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:57 pm
 ---
 #domaine/politique-intérieure
 # Olivier Faure

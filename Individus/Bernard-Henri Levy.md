@@ -4,7 +4,7 @@ domaine: [géopolitique, société]
 thèmes: [anti-impérialisme, médias-propagande]
 aliases: [BHL, Bernard Henri Lévy, Bernard-Henri Lévy]
 date created: Thursday, April 2nd 2026, 3:19:12 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/géopolitique #domaine/société #thème/anti-impérialisme #thème/médias-propagande
 

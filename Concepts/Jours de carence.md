@@ -29,7 +29,7 @@ La logique affichée : décourager les "faux" arrêts de travail. La réalité m
 
 ## La réalité des arrêts de travail
 
-La PaduTeam (Zoé médecin généraliste) le dit depuis l'intérieur du système :
+La PaduTeam le dit depuis l'intérieur du système médical :
 - Les gens se font **mettre** en arrêt de travail par un médecin — ils ne "se mettent" pas en arrêt
 - "C'est beaucoup plus fréquent que les gens refusent un arrêt plutôt que des gens me demandent un arrêt de travail alors que ça semble pas justifié"
 - Les 3 principales raisons de ne **pas** se mettre en arrêt : les jours de carence, **la honte** (idéologie du travailleur-feignant imposée), et ne pas vouloir laisser les collègues dans la merde[^2]
@@ -46,7 +46,7 @@ Les jours de carence ne sont pas une mesure d'économie. C'est une punition idé
 
 ## Accidents de travail : l'astuce cachée
 
-Un arrêt pour **accident de travail** ou maladie professionnelle n'a pas de jours de carence et est indemnisé à un taux supérieur. Zoé conseille : déclarer systématiquement les accidents et blessures survenus au travail — le cahier de soins est obligatoire, l'employeur n'a pas le droit de refuser la déclaration.[^5]
+Un arrêt pour **accident de travail** ou maladie professionnelle n'a pas de jours de carence et est indemnisé à un taux supérieur. La PaduTeam conseille : déclarer systématiquement les accidents et blessures survenus au travail — le cahier de soins est obligatoire, l'employeur n'a pas le droit de refuser la déclaration.[^5]
 
 ## Vidéos clés
 

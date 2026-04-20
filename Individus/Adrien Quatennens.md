@@ -19,9 +19,9 @@ Membre de LFI, positionné à gauche sur les questions économiques. Mais sa ges
 ## Stratégie et trajectoire
 La technique de la lettre publique de Quatennens est analysée comme le même mécanisme que le premier live de [[Dany Caligula]] : se confesser devant la communauté avant que les victimes ne parlent, pour obtenir le pardon collectif et maintenir sa position. Ce n'est pas de la justice réhabilitatrice — c'est « faute avouée, à moitié pardonnée ». Le fait qu'il soit député au moment de la gestion médiatique est central : c'est cette position qui lui donne les outils pour organiser son impunité.
 
-## L'interview BFM : le vrai problème selon Dr Zoé
+## L'interview BFM : le vrai problème
 
-Après la confession Twitter de Quatennens (une gifle, "agressivité mutuelle"), il passe plus d'une heure sur BFM TV à se défendre. Dr Zoé qualifie cette interview de "gravissime" — pas à l'échelle de son ex-femme, mais "à l'échelle politique et sociétale".
+Après la confession Twitter de Quatennens (une gifle, "agressivité mutuelle"), il passe plus d'une heure sur BFM TV à se défendre. La PaduTeam qualifie cette interview de "gravissime" — pas à l'échelle de son ex-femme, mais "à l'échelle politique et sociétale".
 
 **Ce qu'il a dit de scandaleux :** "Je continue à payer le loyer de l'appartement dans lequel elle vit avec notre fille, et comme c'est moi qui paye le loyer, c'est normal que je garde les clés et que je me pointe quand je veux. Et je suis sympa parce que je la préviens."
 

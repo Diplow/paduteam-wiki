@@ -23,7 +23,7 @@ Média d'extrême droite français, anciennement connu sous le nom de **Livre No
 
 La PaduTeam analyse cette carte comme typique du niveau analytique de l'extrême droite : travail bâclé au ChatGPT, classifications incohérentes (Thomas Piketty et Jean-Marc Rouillant dans la même catégorie, le Secours catholique et Emmaüs en "sans frontiériste"), et surtout une logique de **race sociale perçue** plutôt que d'analyse politique — les arabes vont en "islamogauchiste" et "décolonial", les noirs en "racialiste".
 
-La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", ce que Padu souligne comme révélateur de la confusion intellectuelle du média.
+La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", révélateur de la confusion intellectuelle du média selon la PaduTeam.
 
 ## Personnalités associées
 
@@ -44,4 +44,4 @@ La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé
 
 ## Regard de la PaduTeam
 
-"VA+, Frontière : l'extrême droite la plus ridicule de France" (Zoé). La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."
+"VA+, Frontière : l'extrême droite la plus ridicule de France." La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."

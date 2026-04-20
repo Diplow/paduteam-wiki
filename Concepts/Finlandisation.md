@@ -43,4 +43,4 @@ La Finlande a rejoint l'OTAN en 2023 — le modèle historique ne s'applique don
 [[Camp de la paix]], [[Anti-imperialisme]], [[Bellicisme social-democrate]], [[Atlantisme]]
 
 ## Vidéos où le concept est développé
-- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Analyse complète des deux scénarios (finlandisation vs partition), avec Chris
+- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Analyse complète des deux scénarios (finlandisation vs partition)

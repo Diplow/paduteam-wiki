@@ -24,7 +24,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 2. BFM TV propriété de Patrick Drahi : c'est un milliardaire franco-israélien. La ligne éditoriale n'est pas le résultat d'erreurs journalistiques isolées — elle est structurellement liée aux intérêts du propriétaire. "La mise en cause c'est la ligne de BFM TV qui est pas forcément dirigée par les pigistes."
 
-3. La stratégie de Rima Hassan : elle ne répond pas à la question sur les sifflets contre Macron — elle retourne le terrain en dénonçant le cadre de l'interview elle-même. Padu : "Faut jamais donner de directs à des adversaires politiques." Elle gagne le rapport de force en ne jouant pas leur jeu.[^2]
+3. La stratégie de Rima Hassan : elle ne répond pas à la question sur les sifflets contre Macron — elle retourne le terrain en dénonçant le cadre de l'interview elle-même. La PaduTeam : "Faut jamais donner de directs à des adversaires politiques." Elle gagne le rapport de force en ne jouant pas leur jeu.[^2]
 
 4. Le communiqué BFM TV comme aveu : en publiant un communiqué de défense, BFM TV prouve qu'elle prend au sérieux l'accusation. "Si ça avait été si faux que ça ils auraient laissé ça traîner." Un média réellement impartial aurait pu répondre facilement sur le fond.
 

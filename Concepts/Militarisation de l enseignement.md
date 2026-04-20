@@ -32,7 +32,7 @@ La même logique structurait les armées de 1914 : les officiers sortaient de Sa
 - Général Mandon dans les médias : "il faut accepter de perdre ses enfants" — discours sur la "grandeur" de la mort au combat, relayé sans contradiction
 
 ## Articulation avec la propagande de guerre
-La militarisation de l'enseignement n'est pas séparable de la [[Propagande de guerre]] plus large : elle prépare le terrain culturel (normalisation de la mort au combat, valorisation du service armé, dépolitisation des conflits) avant le terrain légal (vote du service militaire). C'est ce que [[Positions Revue]] (revue de Chris) appelle la "militarisation rampante de l'éducation."
+La militarisation de l'enseignement n'est pas séparable de la [[Propagande de guerre]] plus large : elle prépare le terrain culturel (normalisation de la mort au combat, valorisation du service armé, dépolitisation des conflits) avant le terrain légal (vote du service militaire). C'est ce que [[Positions Revue]] appelle la "militarisation rampante de l'éducation."
 
 ## Concepts associés
 [[Bellicisme social-democrate]], [[Propagande de guerre]], [[Camp de la paix]], [[Union sacree]]

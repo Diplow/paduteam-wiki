@@ -27,7 +27,7 @@ Discute potentiellement avec [[Yann Brossat]] (PCF) pour débaucher le [[Parti C
 ## Dîner avec Legrand et Cohen (septembre 2025)
 Filmé/photographié en train de dîner avec les journalistes [[Thomas Legrand]] et [[Patrick Cohen]] ([[France Inter]]) pour planifier la candidature de [[Raphael Glucksmann]] en 2027. Dans la conversation, donne à Glucksmann un score de 32-33% — ce que la PaduTeam analyse comme une déconnexion totale de la réalité sociologique.
 
-La PaduTeam note que Jouvet prédit "on sera tous derrière Glucksmann mais il fera 10 quand même" — puis dans un autre moment espère 32-33%. Interprétation Padu : le 33% est peut-être lu comme "le bloc gauche au premier tour en incluant Mélenchon", pas Glucksmann seul — auquel cas les mecs ne sont "pas aussi tebés".
+La PaduTeam note que Jouvet prédit "on sera tous derrière Glucksmann mais il fera 10 quand même" — puis dans un autre moment espère 32-33%. Interprétation de la PaduTeam : le 33% est peut-être lu comme "le bloc gauche au premier tour en incluant Mélenchon", pas Glucksmann seul — auquel cas les mecs ne sont "pas aussi tebés".
 
 ## Vidéos où Pierre Jouvet est analysé
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Congrès PS, bureau national post-municipales

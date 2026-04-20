@@ -47,7 +47,7 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 
 ## Adversaires de cette position (selon la PaduTeam)
 
-- **[[Fondation Medecins de France]]** (FMF) — syndicat libéral, "au pôle sud" selon Padu
+- **[[Fondation Medecins de France]]** (FMF) — syndicat libéral, "au pôle sud" selon la PaduTeam
 - **Collectifs "Médecins pour demain", "Médecin à 50€"** — se présentent comme apolitiques
 - **[[Conseil de l'Ordre des Medecins]]** — protège les agresseurs, censure les dissidents
 - **Vie de Carabin** — idéologue du mépris de classe envers les patients
@@ -71,9 +71,9 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 
 ## Évolution
 
-**2024** (MÉDECINS MENTENT, AUJOURD'HUI TON VILEUR, RADIOLOGUES) : Zoé construit patiemment l'argument sur la pénurie, la rémunération, les VSS. Ton analytique, parfois ironique. Marche sur des œufs juridiquement (confraternité). La critique est sanitaire : "ça va mal pour les soins".
+**2024** (MÉDECINS MENTENT, AUJOURD'HUI TON VILEUR, RADIOLOGUES) : La PaduTeam construit patiemment l'argument sur la pénurie, la rémunération, les VSS. Ton analytique, parfois ironique. Marche sur des œufs juridiquement (confraternité). La critique est sanitaire : "ça va mal pour les soins".
 
-**2025** (CARABIN, MANIFESTATIONS, LFI, LÉAUMENT) : Radicalisation visible. Zoé nomme franchement "la frange la plus réactionnaire de la corporation médicale" et son alliance avec le néolibéralisme. La critique devient **politique de classe** : "la pénurie est un choix, non une fatalité". Propose la fonctionnarisation et la fin de la médecine libérale comme horizon.
+**2025** (CARABIN, MANIFESTATIONS, LFI, LÉAUMENT) : Radicalisation visible. La PaduTeam nomme franchement "la frange la plus réactionnaire de la corporation médicale" et son alliance avec le néolibéralisme. La critique devient **politique de classe** : "la pénurie est un choix, non une fatalité". Propose la fonctionnarisation et la fin de la médecine libérale comme horizon.
 
 ## Vidéos clés
 

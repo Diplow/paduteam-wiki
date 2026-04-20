@@ -19,10 +19,10 @@ Nicolas croit qu'il "fait tourner le pays" tout seul. En réalité, Nicolas dép
 1. **Fétiche de la marchandise** — L'objet marchandise semble avoir une valeur intrinsèque, masquant le travail humain qui l'a produit
 2. **Fétiche de l'individu** — L'individu se croit autonome et auto-suffisant, masquant son insertion dans des rapports sociaux collectifs
 
-Ce double fétiche est "très libéral" selon Chris : il empêche la prise de conscience de classe.
+Ce double fétiche est "très libéral" selon la PaduTeam : il empêche la prise de conscience de classe.
 
 ## Lien avec l'[[Alienation de la bourgeoisie]]
-Le fétichisme de la marchandise alimente l'aliénation bourgeoise : l'obsession de "gagner plus" et de faire fructifier ses capitaux (bourse, locatif, entreprise) empêche de voir les rapports sociaux d'exploitation. Chris décrit la logique d'accumulation comme un casino : 100 → 200 → 500 → 1 000 → effondrement. "Sortir de ça — normaliser, planifier — c'est un moyen de sortir de ce fétichisme."
+Le fétichisme de la marchandise alimente l'aliénation bourgeoise : l'obsession de "gagner plus" et de faire fructifier ses capitaux (bourse, locatif, entreprise) empêche de voir les rapports sociaux d'exploitation. La PaduTeam décrit la logique d'accumulation comme un casino : 100 → 200 → 500 → 1 000 → effondrement. "Sortir de ça — normaliser, planifier — c'est un moyen de sortir de ce fétichisme."
 
 ## Développement avec Lukács
 [[Georg Lukács]] approfondit le fétichisme : "les premiers et les pires aliénés par le fétichisme de la marchandise, c'est les bourgeois." Ils n'ont pas besoin de comprendre la totalité du mode de production — ils ont besoin de croire que l'argent se valorise par lui-même. Cette "méconnaissance structurelle" est une condition de fonctionnement du capitalisme : si le capitaliste comprenait les crises, il ne réinvestirait pas. Sa non-conscience des limites systémiques est ce qui fait tourner la machine jusqu'à l'effondrement.
@@ -31,5 +31,5 @@ Le fétichisme de la marchandise alimente l'aliénation bourgeoise : l'obsession
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
 - [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Développement explicite avec Marx et Lukács ; fétichisme comme condition de fonctionnement du capitalisme ; les startuppers qui ne comprennent pas Marx illustrent leur propre aliénation
-- [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris explique que "le monde ne sera plus jamais aussi naturel" après avoir lu le Capital : Marx dénaturalise les rapports marchands comme Darwin a dénaturalisé l'évolution des espèces
-- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration parfaite du fétichisme de la marchandise : Yasuk possède des sacs Hermès à 10 000-50 000 € (40 mois de salaire de sa nanie) sans percevoir que la valeur d'un objet dépasse celle d'une vie humaine dans son imaginaire. Padu : "elle considère qu'un sac vaut plus que 4 ans de travail pour être avec ses enfants"
+- [[10 LIVRES POUR LA RENTREE SOCIALE]] — "le monde ne sera plus jamais aussi naturel" après avoir lu le Capital : Marx dénaturalise les rapports marchands comme Darwin a dénaturalisé l'évolution des espèces
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration parfaite du fétichisme de la marchandise : Yasuk possède des sacs Hermès à 10 000-50 000 € (40 mois de salaire de sa nanie) sans percevoir que la valeur d'un objet dépasse celle d'une vie humaine dans son imaginaire. La PaduTeam : "elle considère qu'un sac vaut plus que 4 ans de travail pour être avec ses enfants"

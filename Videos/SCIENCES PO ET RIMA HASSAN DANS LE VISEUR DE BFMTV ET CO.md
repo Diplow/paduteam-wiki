@@ -24,7 +24,7 @@ Occupation pro-Palestine à Sciences Po évacuée par les CRS le 26 avril 2024. 
 
 2. Déconstruction sociologique de Céline Pina : elle dénonce "l'entre-soi bourgeois de Sciences Po" et vante le mérite — mais elle est fille de dentiste (7700€ net), diplômée de Sciences Po Grenoble, jamais vraiment travaillé à part être sur les plateaux télé. Application du [[Graphique]] : elle est exactement là où sa position de classe l'a mise, et accuse les autres d'y être par reproduction sociale.[^2]
 
-3. Le tweet "soulèvement" traduit en arabe : [[Rima Hassan]] tweete en français. Des chroniqueurs proposent de traduire le mot en arabe pour y trouver "intifada". Padu : "Quand est-ce que vous allez l'appeler l'intifada si elle tweete en français ?" C'est du racisme structurel — les Arabes-Français voient leurs mots automatiquement passés au crible de la suspicion culturelle.[^3]
+3. Le tweet "soulèvement" traduit en arabe : [[Rima Hassan]] tweete en français. Des chroniqueurs proposent de traduire le mot en arabe pour y trouver "intifada". La PaduTeam : "Quand est-ce que vous allez l'appeler l'intifada si elle tweete en français ?" C'est du racisme structurel — les Arabes-Français voient leurs mots automatiquement passés au crible de la suspicion culturelle.[^3]
 
 4. La position pro-Palestine = position de Chirac : LFI est plus dans la continuité de la politique française traditionnelle (Chirac, Mitterrand, Villepin) que les gaullistes d'aujourd'hui alignés sur le bloc pro-israélien. "Les sionistes en général ont réussi à nous faire croire que la position classique de la France est devenue une position limite antisémite."
 

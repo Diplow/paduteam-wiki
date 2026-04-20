@@ -14,11 +14,11 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Homme politique français, Premier ministre sous François Hollande (2014-2016), puis candidat malheureux à la mairie de Barcelone. Figure emblématique de la droitisation du [[Parti Socialiste]].
 
 ## Analyse PaduTeam
-Mentionné dans le contexte de la trajectoire confusionniste de Padu : "l'image de Manuel Valls censé incarner la gauche mais '68, il est interdit d'interdire' qui finit par interdire le spectacle d'un humoriste" (Dieudonné). Cet épisode est cité par Padu adolescent comme confirmation que "la gauche et la droite se passent le pouvoir en chiant dessus allègrement."
+Mentionné dans les vidéos PaduTeam comme exemple de la trajectoire confusionniste : "l'image de Manuel Valls censé incarner la gauche mais '68, il est interdit d'interdire' qui finit par interdire le spectacle d'un humoriste" (Dieudonné). Cet épisode est cité comme confirmation que "la gauche et la droite se passent le pouvoir en chiant dessus allègrement."
 
 Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée : passage de la loi travail (El Khomri), discours sécuritaire, nationalisme républicain de façade.
 
-**"Fou de rage" du mandat d'arrêt CPI contre Netanyahu.** En novembre 2024, quand la CPI émet un mandat d'arrêt contre Netanyahu (et simultanément contre Mohamed Deif, côté Hamas), Valls réagit avec la même fureur que Habib : il qualifie la décision de "mascarade", de "honte", défend Netanyahu comme victime d'antisémitisme. Padu note l'union parfaite entre un sioniste de droite assumé (Habib) et un social-démocrate censé représenter "la gauche" (Valls) sur la défense d'un inculpé pour crimes contre l'humanité. Cette convergence confirme le diagnostic PaduTeam : le PS dans sa version Valls a objectivement rejoint le camp sioniste.
+**"Fou de rage" du mandat d'arrêt CPI contre Netanyahu.** En novembre 2024, quand la CPI émet un mandat d'arrêt contre Netanyahu (et simultanément contre Mohamed Deif, côté Hamas), Valls réagit avec la même fureur que Habib : il qualifie la décision de "mascarade", de "honte", défend Netanyahu comme victime d'antisémitisme. La PaduTeam note l'union parfaite entre un sioniste de droite assumé (Habib) et un social-démocrate censé représenter "la gauche" (Valls) sur la défense d'un inculpé pour crimes contre l'humanité. Cette convergence confirme le diagnostic PaduTeam : le PS dans sa version Valls a objectivement rejoint le camp sioniste.
 
 ## Relations
 - [[Meyer Habib]] — allié objectif dans la défense de Netanyahu face à la CPI

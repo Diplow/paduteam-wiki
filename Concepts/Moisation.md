@@ -4,7 +4,7 @@ domaine: ['théorie']
 thèmes: []
 aliases: [Moïsation]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/théorie
@@ -22,7 +22,7 @@ Terme utilisé par la [[PaduTeam]] pour décrire la période de consolidation de
 En 2002, on voit "le début de la période confuse avant la moïsation" — tout est éparpillé. L'espace en bas-gauche est vide (proto-espace entre Jospin, Laguiller et l'abstention) — c'est l'espace que Mélenchon va progressivement occuper et consolider.
 
 ## Origine du terme
-Métaphore de Moïse séparant la mer Rouge en deux. Conçu par [[Chris]] en discussion avec [[Padu]] pendant la [[Periode de confusion|période de confusion]] : la reconfiguration politique va prendre fin, les rouges-bruns vont se séparer en un pôle "vraiment brun sans rouge" et un pôle "vraiment rouge sans brun". Le nom joue sur le rouge (couleur politique) et la mer Rouge (récit biblique).
+Métaphore de Moïse séparant la mer Rouge en deux. Conçu par la PaduTeam pendant la [[Periode de confusion|période de confusion]] : la reconfiguration politique va prendre fin, les rouges-bruns vont se séparer en un pôle "vraiment brun sans rouge" et un pôle "vraiment rouge sans brun". Le nom joue sur le rouge (couleur politique) et la mer Rouge (récit biblique).
 
 ## Visualisation sur le Graphique (2017 → 2022)
 Dans [[GRAPHOMARXISME x Positions Revue]], la PaduTeam montre visuellement la moïsation : en 2017, Macron et Le Pen sont sur la [[Diagonale de pouvoir]] (moment populiste, haut vs bas). En 2022, les barycentres s'aplatissent — on passe d'un clivage diagonal à un clivage horizontal droite-gauche. Ce n'est plus "l'élite contre le peuple" mais "le front des classes progressistes contre le front des classes conservatrices et réactionnaires". Le fait que Mélenchon et Le Pen se superposent davantage (mais Le Pen plus basse, moins de diplômés) illustre la fin du moment populiste et l'installation de la [[Strategie de bloc social|stratégie de bloc social]].

@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Épistémologie marxiste
 
 ## Définition
-Le marxisme n'est ni un simple matérialisme (Spinoza, mécanisme déterministe) ni un idéalisme (Kant, Hegel). C'est le *dépassement dialectique* des deux — ce que l'on appelle "matérialisme dialectique", bien que Chris précise que ce terme (inventé après Marx) renvoie trop au matérialisme et trop à Hegel. Il préfère parler simplement de "marxisme" comme cadre épistémologique.
+Le marxisme n'est ni un simple matérialisme (Spinoza, mécanisme déterministe) ni un idéalisme (Kant, Hegel). C'est le *dépassement dialectique* des deux — ce que l'on appelle "matérialisme dialectique", bien que la PaduTeam précise que ce terme (inventé après Marx) renvoie trop au matérialisme et trop à Hegel. Elle préfère parler simplement de "marxisme" comme cadre épistémologique.
 
 ## Mécanisme
 
@@ -31,7 +31,7 @@ La particularité de l'épistémologie marxiste dans les sciences historico-soci
 Le marxisme peut et doit être enrichi par les apports des femmes ([[Silvia Federici]], [[Clara Zetkin]]) et des racisés ([[Black Panthers]], [[Claudia Jones]]) — mais dans le même cadre épistémologique. Analogie : Newton → Einstein ne change pas l'épistémologie de la physique, mais l'améliore.
 
 ## Exemples
-- Chris défend cette épistémologie contre [[Wissam Xelka]] qui veut y ajouter la psychanalyse pour comprendre le racisme
+- La PaduTeam défend cette épistémologie contre [[Wissam Xelka]] qui veut y ajouter la psychanalyse pour comprendre le racisme
 - Le [[Graphique]] est présenté comme l'application de cette épistémologie à l'analyse politique française
 
 ## Vidéos où ce concept est développé

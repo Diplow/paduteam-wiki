@@ -27,4 +27,4 @@ Selon la PaduTeam : la seule réponse réelle à l'extrême droite est une répo
 Macron a gagné deux seconds tours en jouant l'anti-Le Pen. S'arroger le capital symbolique antifasciste sans changer les conditions qui produisent le fascisme.
 
 ## Vidéos où le concept est développé
-- [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — Padu : "Ce ne sont pas des barrages, ce sont des écluses"
+- [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — La PaduTeam : "Ce ne sont pas des barrages, ce sont des écluses"

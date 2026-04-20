@@ -48,7 +48,7 @@ Le mode de sélection LFI — petit comité central choisissant les candidats pa
 1. **Sélection par les réseaux** : on choisit les gros carnets d'adresses (syndicalisme étudiant, influence internet) au détriment de l'ancrage militant local. Or ces réseaux se construisent parfois via des méthodes de management autoritaire.
 2. **Absence de critique interne** : dans une structure où le comité central choisit les élus, critiquer un cadre revient à risquer sa propre sélection. Résultat : management toxique toléré en interne, crucifié publiquement quand ça devient incontrôlable.
 
-Cas emblématiques : [[Hugo Prevost]] (harcèlement et violences sexuelles sur 4 ans dans l'Union Etudiante avant d'être candidat LFI), [[Sophia Chikirou]] (management potentiellement toxique que personne n'ose critiquer). Padu : "Ce qui m'énerve c'est qu'il y a aucune pensée entre les deux — rien dire et puis crucifier."
+Cas emblématiques : [[Hugo Prevost]] (harcèlement et violences sexuelles sur 4 ans dans l'Union Etudiante avant d'être candidat LFI), [[Sophia Chikirou]] (management potentiellement toxique que personne n'ose critiquer). La PaduTeam : "Ce qui m'énerve c'est qu'il y a aucune pensée entre les deux — rien dire et puis crucifier."
 
 Contre-exemples de bonnes sélections : [[Lyas Loufok]], [[Amal Bentounsi]], [[Sabrina Alibay]] — mais leur sélection dépend de la "bonne volonté" de Mélenchon, pas d'une structure systémique.
 

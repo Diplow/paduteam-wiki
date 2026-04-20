@@ -5,7 +5,7 @@ thèmes: [médias-propagande, Palestine, racisme-antiracisme]
 aliases: [Céline Pina]
 skill_version: ingest-batch-2026-04-19
 date created: Monday, April 13th 2026, 3:05:49 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:58 pm
 ---
 #domaine/société #domaine/géopolitique #thème/médias-propagande #thème/Palestine
 

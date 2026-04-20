@@ -35,7 +35,7 @@ Le [[Graphique]] prédit que Villepin se positionnerait dans l'espace de [[Rapha
 Seul intérêt : polariser à gauche des gens tentés par la fascisation, diviser l'espace droit/centre (prendre 2% au candidat macroniste), et forcer le débat médiatique sur la [[Centralite de la question palestinienne|question palestinienne]]. Scénario optimiste : Bardella-Mélenchon au 2e tour, Villepin appelle à voter Mélenchon.
 
 ## Lancement de La France Humaniste (2026)
-Villepin lance son mouvement "[[La France Humaniste]]" en mars 2026 sur [[France Inter]], présenté par [[Benoît Jiménez|le maire de Garges-les-Gonesse]]. Se positionne comme gaulliste "au-dessus des partis", "pas dans une démarche personnelle." La PaduTeam avait prédit ce positionnement et le nom "L'Idée de la France" (plus fidèle à de Gaulle selon Chris). Le vrai gaullisme requiert d'être de Gaulle — Villepin "c'est le gars qui a pas passé le CPE." Pronostic confirmé : 3-4%.
+Villepin lance son mouvement "[[La France Humaniste]]" en mars 2026 sur [[France Inter]], présenté par [[Benoît Jiménez|le maire de Garges-les-Gonesse]]. Se positionne comme gaulliste "au-dessus des partis", "pas dans une démarche personnelle." La PaduTeam avait prédit ce positionnement et le nom "L'Idée de la France" (plus fidèle à de Gaulle). Le vrai gaullisme requiert d'être de Gaulle — Villepin "c'est le gars qui a pas passé le CPE." Pronostic confirmé : 3-4%.
 
 L'adhésion gratuite à la France Humaniste signale l'absence de base militante réelle et un financement forcément extérieur (État ou milliardaires). Soutenu par [[Edwy Plenel]] depuis 2005-2007.
 

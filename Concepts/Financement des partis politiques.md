@@ -10,7 +10,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 # Financement des partis politiques
 
-## Thèse de Chris
+## Thèse de la PaduTeam
 
 Le financement des partis politiques par l'État a coupé la gauche de ses bases prolétariennes. Avant la loi sur le financement public, les partis de gauche vivaient de leurs cotisations militantes, ce qui les forçait à s'ancrer dans la classe ouvrière — à aller sur le terrain, à recruter des adhérents, à répondre aux problèmes concrets des travailleurs. C'était une contrainte structurante qui produisait un ancrage social réel.
 
@@ -28,7 +28,7 @@ Avec le financement public (loi de 1988), une "start-up politique" intelligente 
 
 La conséquence directe du financement public est le [[Syndrome Batman]] : les militants de gauche sont invisibles dans leur quotidien — ils n'ont ni locaux permanents, ni permanents salariés, ni réseau de solidarité visible. Ils apparaissent pendant les campagnes et disparaissent. Résultat : pas de contre-société, pas de contre-propagande permanente.
 
-Chris : "Aujourd'hui, regardez, les trois grands partis présidentiels sont des partis sans militants, sans action de terrain : celui de Macron, le RN et la FI." Tous financés par leurs scores. Le RTB ([[PTB]] belge) est l'exception — il a fait le choix inverse.
+La PaduTeam : "Aujourd'hui, regardez, les trois grands partis présidentiels sont des partis sans militants, sans action de terrain : celui de Macron, le RN et la FI." Tous financés par leurs scores. Le RTB ([[PTB]] belge) est l'exception — il a fait le choix inverse.
 
 ## Vidéos
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]

@@ -30,7 +30,7 @@ Notre-Dame de Bétharram : 112 plaintes, violence depuis les années 1950. Bayro
 Rapport Sauvé : 330 000 victimes de violences sexuelles dans les institutions catholiques françaises depuis les années 1950. Mécanismes identifiés : empathie pour l'agresseur, doute systématique sur la victime, déplacement des prêtres vers l'Afrique ou les communautés autochtones canadiennes pour continuer. Le père Caricar de Bétharram — mis en examen pour viol, exfiltré au Vatican, suicide. La protection de l'institution prime toujours sur la protection de l'enfant.
 
 **L'extrême droite ne veut pas résoudre le problème**
-FdeSouche instrumentalise la pédocriminalité (affaire Cotino/LFI) pour attaquer la gauche, pas pour protéger les enfants. Preuves : jamais un mot sur Bétharram, jamais un mot sur les 330 000 victimes de l'Église, jamais un mot sur les violences dans l'ASE. Par contre, chaque affaire avec un suspect à "consonance arabe" devient un étendard. Zoé : "ce qui les intéresse c'est pas la victime, c'est le profil des agresseurs."
+FdeSouche instrumentalise la pédocriminalité (affaire Cotino/LFI) pour attaquer la gauche, pas pour protéger les enfants. Preuves : jamais un mot sur Bétharram, jamais un mot sur les 330 000 victimes de l'Église, jamais un mot sur les violences dans l'ASE. Par contre, chaque affaire avec un suspect à "consonance arabe" devient un étendard. La PaduTeam : "ce qui les intéresse c'est pas la victime, c'est le profil des agresseurs."
 
 **Les vraies solutions sont structurelles**
 — Éducation relationnelle, affective et sexuelle à l'école (réforme constamment bloquée ou sabotée)
@@ -50,7 +50,7 @@ FdeSouche instrumentalise la pédocriminalité (affaire Cotino/LFI) pour attaque
 
 **Les notables locaux bourgeois** : Bayrou, les anciens élèves de Bétharram (Jean-Charles de Castelbajac, Michel Péricard), les avocats liés au réseau UDF/MoDem — ont constitué un mur de protection autour de l'établissement pendant des décennies.
 
-**La logique misandre de FdeSouche** : Pierre Sautarel suggère que l'ASE ne devrait pas placer d'enfants chez des "hommes seuls" — Zoé retourne l'argument : c'est une position misandre qui dit que les hommes ne peuvent pas s'occuper d'enfants, et qui revient à priver les pères séparés de la garde de leurs enfants.
+**La logique misandre de FdeSouche** : Pierre Sautarel suggère que l'ASE ne devrait pas placer d'enfants chez des "hommes seuls" — la PaduTeam retourne l'argument : c'est une position misandre qui dit que les hommes ne peuvent pas s'occuper d'enfants, et qui revient à priver les pères séparés de la garde de leurs enfants.
 
 ## Évolution
 

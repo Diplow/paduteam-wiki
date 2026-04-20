@@ -5,7 +5,7 @@ thèmes: [États-Unis, élections]
 aliases: [Parti Démocrate, Democratic Party, Démocrates américains]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:55 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/élections
 # Parti Democrate

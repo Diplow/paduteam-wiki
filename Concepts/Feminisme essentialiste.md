@@ -35,7 +35,7 @@ Ce raisonnement présuppose que toutes les femmes partagent une nature commune p
 
 La PaduTeam mobilise le terme "[[Karen (terme)|Karen]]" — issu du féminisme noir américain — comme correctif à l'essentialisme blanc. "Karen" désigne précisément des femmes blanches de classe intermédiaire-supérieure qui utilisent leur privilège racial comme outil de domination sur des personnes racisées en position sociale plus vulnérable.
 
-[[Zoé (Dr Zoé)]] : "Voir le féminisme comme 'toutes les femmes sont dominées et tous les hommes sont dominants', en fait c'est bien plus compliqué — pour des questions de classe sociale, de race sociale qui s'imbriquent."
+La PaduTeam : "Voir le féminisme comme 'toutes les femmes sont dominées et tous les hommes sont dominants', en fait c'est bien plus compliqué — pour des questions de classe sociale, de race sociale qui s'imbriquent."
 
 ## Figures associées
 - [[Sandrine Rousseau]] — féminisme essentialiste écologiste

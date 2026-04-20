@@ -26,7 +26,18 @@ En décembre 2023, un reportage révèle que [[Yann Moix]] accompagnait Depardie
 
 [[Lio]], chanteuse et témoin direct du milieu, confirme l'existence de listes informelles circulant dans le cinéma et la télévision. Depardieu agressait surtout des femmes de rang social inférieur (maquilleuses, figurantes) — sa propre sœur de Lio a refusé un tournage après qu'on l'a prévenue de ses comportements. Sophie Marceau avait dénoncé ses comportements lors du film de Pialat en 1985 — sans être entendue. "Il y avait mille choses à dire, elles n'ont pas été entendues."
 
+## Charlotte Arnoux — première plaignante pour viol
+
+[[Charlotte Arnoux]] est la première femme à avoir porté plainte pour viol contre Depardieu. Mise en examen confirmée fin 2024. Son témoignage s'inscrit dans la logique documentée par de nombreuses autres femmes : Depardieu ciblait spécifiquement les plus subordonnées (figurantes, maquilleuses, habilleuses) — pas les actrices principales.
+
+## Défendu par la droite identitaire
+
+Lors du react face à [[Herga]], la PaduTeam note que Herga défend Depardieu contre le reportage du Complément d'Enquête en parlant de "diffamation" — tout en tenant par ailleurs un discours sur les VSS commises par des étrangers. La PaduTeam : "quand c'est des blancs qui agressent tu en as rien à battre, mais c'est une dinguerie d'être comme ça"[^depardieu_herga].
+
+[^depardieu_herga]: [51:23](https://www.youtube.com/watch?v=CwbSH0oyCcY&t=3083) — "tu viens défendre de Pardieu, mais en fait tu es qu'une foutue... dès que c'est des blancs qui agressent tu en as rien à battre"
+
 ## Vidéos où Gérard Depardieu est mentionné
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]
 - [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]]
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]]

@@ -4,7 +4,7 @@ domaine: ['géopolitique']
 thèmes: ['Palestine', 'États-Unis', 'anti-impérialisme']
 aliases: [Génocide de peuplement, colonialisme de peuplement]
 date created: Tuesday, March 31st 2026, 10:59:47 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 skill_version: ingest-batch-2026-04-19
 ---
 #domaine/géopolitique #thème/Palestine #thème/États-Unis #thème/anti-impérialisme

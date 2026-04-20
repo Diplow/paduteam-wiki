@@ -5,7 +5,7 @@ thèmes: [médias-propagande, États-Unis]
 aliases: [Parti Miléiste Français, Les Miléistes, Compte Twitter Miléiste]
 skill_version: ingest-batch-2026-04-19
 date created: Saturday, April 19th 2026, 5:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:55 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/États-Unis
 

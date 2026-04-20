@@ -58,7 +58,7 @@ Suite à la mort de [[Quentin Deranque]], Macron, Glucksmann et Garrido l'attaqu
 
 Suite aux aveux de violences conjugales d'[[Adrien Quatennens]] (gifle + violences plus larges), Mélenchon tweete : "Je salue sa dignité et son courage. Je lui dis ma confiance et mon affection." Il utilise la formule "faute avouée à moitié pardonnée" dans sa défense.
 
-Dr Zoé qualifie ce tweet de catastrophique : il met à égalité Quatennens et son ex-femme, gomme l'asymétrie profonde (économique, psychologique) qui structure la violence conjugale. La formule "faute avouée à moitié pardonnée" présuppose que l'aveu seul suffit — sans dépositionnement ni transformation réelle.
+La PaduTeam qualifie ce tweet de catastrophique : il met à égalité Quatennens et son ex-femme, gomme l'asymétrie profonde (économique, psychologique) qui structure la violence conjugale. La formule "faute avouée à moitié pardonnée" présuppose que l'aveu seul suffit — sans dépositionnement ni transformation réelle.
 
 Position PaduTeam : "Je pense que c'est le meilleur candidat pour 2027 et s'il se présente je ferai sa campagne. Mais à chaque fois qu'il y aura une question de VSS, je vais fortement regarder comment il se positionne."
 
@@ -81,7 +81,7 @@ Si Bardella trahit et qu'un bloc droite-dure se forme autour de [[Bruno Retaille
 ## Accusation d'antisémitisme (2025) — affaire Bergé
 [[Aurore Bergé]] l'accuse d'antisémitisme pour avoir prononcé "Epstein" à l'allemande (stein = suffixe germanique standard). La PaduTeam démonte l'accusation : la prononciation allemande ne constitue pas un dog whistle, et "en-stein" et "n-stein" (yiddish proche de l'allemand) se prononcent pareil. Bergé emploie par ailleurs le terme "antifrance" pour qualifier LFI — vocable de l'[[Action Francaise]] de [[Charles Maurras]] désignant les Juifs, francs-maçons et métèques.
 
-[[Marine Tondelier]] et [[Lucy Castets]] reprennent la même accusation, qualifiées de [[Social-fascisme|social-fascistes]] par Padu.
+[[Marine Tondelier]] et [[Lucy Castets]] reprennent la même accusation, qualifiées de [[Social-fascisme|social-fascistes]] par la PaduTeam.
 
 ## Accusations d'antisémitisme dans l'enfance (juillet 2025) — affaire Dray
 [[Julien Dray]] sort un "dossier" affirmant que le Mélenchon enfant "persécutait des petits juifs" dans sa classe au Maroc. La PaduTeam juge ces accusations absurdes et fabriquées. L'analyse PaduTeam : cette diabolisation accumulative (si grotesque soit-elle) crée du [[Vote cache|vote caché]] — les cadres et classes moyennes qui soutiennent ses positions ne peuvent pas l'assumer et ne le déclarent pas dans les sondages. La diabolisation est ainsi auto-destructrice pour ses promoteurs : "L'homme qui criait au loup — si un vrai dossier sort, ça paraîtra random après ce niveau d'absurdité."
@@ -90,12 +90,12 @@ Si Bardella trahit et qu'un bloc droite-dure se forme autour de [[Bruno Retaille
 
 Les municipales 2026 valident point par point la grille PaduTeam. LFI gagne quand elle est seule : Roubaix, Vénissieux ([[Idir Boumertit]] bat le PCF de [[Michel Picard]]), Saint-Denis, Cergy, Sarcelles, plusieurs villes de banlieue parisienne et lyonnaise, ainsi que La Réunion (Saint-Paul, Le Tampon). À Montpellier seul, LFI fait 25%. À Lille seul, LFI fait 35%. LFI perd quand elle est en alliance (Toulouse avec [[Francois Piquemal]] : 5 000 voix manquantes par rapport à l'addition du premier tour).
 
-Paris ([[Sophia Chikirou]]) : la campagne "Plus jamais PS" se maintient malgré la pression des "castors". [[Emmanuel Gregoire]] gagne sans l'alliance avec LFI — ce qui prouve que l'alliance n'aurait rien apporté. Padu : "Voilà, les forces de la prophétie."
+Paris ([[Sophia Chikirou]]) : la campagne "Plus jamais PS" se maintient malgré la pression des "castors". [[Emmanuel Gregoire]] gagne sans l'alliance avec LFI — ce qui prouve que l'alliance n'aurait rien apporté. La PaduTeam : "Voilà, les forces de la prophétie."
 
 Perspectives 2027 : scénario probable Bardella/Mélenchon ou "prophétie interdite" Hollande/Mélenchon. "Vous pouvez avoir un deuxième tour Philippe/Bardella qu'un deuxième tour Hollande/Mélenchon qu'un deuxième tour Mélenchon/Philippe ou Mélenchon/Bardella ou Hollande/Bardella."
 
 ## Le tweet Wauquiez/Bompard décodé
-Après le débat [[Manuel Bompard]]/[[Laurent Wauquiez]] sur [[BFM TV]], JLM tweete : "Hélas, les LR ne vont pas le choisir. Cet homme est une bonne affaire pour nous." Padu et Chris décryptent : lire par la fin. "Wauquiez est une bonne affaire" = Retailleau est ce que Mélenchon veut. Message caché : pousser les électeurs LR à voter Retailleau au congrès en leur disant que c'est ce qui avantage Mélenchon — ce qui est paradoxalement aussi dans leur intérêt puisque Wauquiez ferait 4% et perdrait tout.
+Après le débat [[Manuel Bompard]]/[[Laurent Wauquiez]] sur [[BFM TV]], JLM tweete : "Hélas, les LR ne vont pas le choisir. Cet homme est une bonne affaire pour nous." La PaduTeam décrypte : lire par la fin. "Wauquiez est une bonne affaire" = Retailleau est ce que Mélenchon veut. Message caché : pousser les électeurs LR à voter Retailleau au congrès en leur disant que c'est ce qui avantage Mélenchon — ce qui est paradoxalement aussi dans leur intérêt puisque Wauquiez ferait 4% et perdrait tout.
 
 Second message dans le tweet : "Comment prétendre faire un cordon sanitaire contre LFI en venant discuter avec Bompard ?" → Félicite Retailleau qui lui maintient vraiment le cordon. Mélenchon dit en substance : le cordon sanitaire contre LFI lui est favorable — il confirme qu'il est "l'autre pôle" et qu'il a besoin d'être diabolisé pour passer au second tour.
 

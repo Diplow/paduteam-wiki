@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 ## Définition PaduTeam
 
-Terme introduit par Chris pour désigner précisément ce que fait [[Collectif Nemesis]] — et le distinguer du [[Femonationalisme]] théorisé par [[Sara Farris]].
+Terme introduit par la PaduTeam pour désigner précisément ce que fait [[Collectif Nemesis]] — et le distinguer du [[Femonationalisme]] théorisé par [[Sara Farris]].
 
 Le fémonationalisme (Farris) est un concept d'économie politique impérialiste : des États du "centre" utilisent les droits des femmes pour justifier des guerres coloniales et attirer une main-d'œuvre féminine subalterne du Sud global. Il peut être porté par des forces non d'extrême droite (la gauche libérale pro-guerre en Afghanistan, certaines féministes mainstream).
 

@@ -19,7 +19,7 @@ Stratégie rhétorique qui consiste à réduire des oppositions politiques de fo
 3. Le fond n'est jamais discuté. Le projet commun n'est jamais défini. L'union reste une coquille vide.
 
 ## Exemple principal : Tondelier sur France Inter
-[[Marine Tondelier]] appelle à l'union de la gauche en disant que [[Jean-Luc Melenchon]] et [[Raphael Glucksmann]] ne s'unissent pas à cause de leurs égos. Padu : "Pensez que les oppositions au sein d'un camp politique entre des personnes sont des oppositions d'ego, c'est gommer le fait qu'en réalité derrière les histoires de personnes, il y a des histoires de lignes."
+[[Marine Tondelier]] appelle à l'union de la gauche en disant que [[Jean-Luc Melenchon]] et [[Raphael Glucksmann]] ne s'unissent pas à cause de leurs égos. La PaduTeam : "Pensez que les oppositions au sein d'un camp politique entre des personnes sont des oppositions d'ego, c'est gommer le fait qu'en réalité derrière les histoires de personnes, il y a des histoires de lignes."
 
 Exemples de lignes réelles que Tondelier dissimule derrière "l'ego" :
 - La guerre : Glucksmann soutient l'Ukraine sans limite ; LFI est plus réservé
@@ -31,7 +31,7 @@ Exemples de lignes réelles que Tondelier dissimule derrière "l'ego" :
 Quand [[Alexis Corbière]], [[Raquel Garrido]] et [[Clémentine Autain]] ont quitté LFI, les médias ont présenté ça comme des "problèmes interpersonnels." La PaduTeam : c'était aussi un problème de ligne. La psychologisation sert à occulter le réel contenu politique des ruptures.
 
 ## Résultat : Tondelier plus dépolitisante que Glucksmann
-Padu : "Marine Tondelier est beaucoup plus dépolitisante que Raphaël Glucksmann." Non seulement elle ne veut pas parler de lignes, mais elle fait croire qu'il n'y a pas de lignes. Glucksmann, lui, assume au moins sa ligne (atlantiste, social-libérale). Tondelier dissout tout dans le sentiment.
+La PaduTeam : "Marine Tondelier est beaucoup plus dépolitisante que Raphaël Glucksmann." Non seulement elle ne veut pas parler de lignes, mais elle fait croire qu'il n'y a pas de lignes. Glucksmann, lui, assume au moins sa ligne (atlantiste, social-libérale). Tondelier dissout tout dans le sentiment.
 
 ## Concept associé
 [[Ecologie punitive]] — même mouvement de dépolitisation : réduire les problèmes structurels à des comportements individuels corrigibles.

@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Bloc de rupture
 
 ## Définition
-Catégorie analytique utilisée par Chris ([[Positions Revue]]) pour désigner les forces politiques de gauche qui portent un projet de rupture avec l'ordre néolibéral et ne se sont pas compromises dans la gestion sociale-libérale. Composé principalement de la [[France Insoumise]] et historiquement du [[Parti Communiste Français]] (depuis la création du Front de Gauche). Opposition au [[Bloc democrate]].
+Catégorie analytique utilisée par la PaduTeam ([[Positions Revue]]) pour désigner les forces politiques de gauche qui portent un projet de rupture avec l'ordre néolibéral et ne se sont pas compromises dans la gestion sociale-libérale. Composé principalement de la [[France Insoumise]] et historiquement du [[Parti Communiste Français]] (depuis la création du Front de Gauche). Opposition au [[Bloc democrate]].
 
 ## Mécanisme
 Le bloc de rupture est en progression constante au sein de la gauche :
@@ -27,7 +27,7 @@ Cette progression s'explique par la dynamique ascendante de LFI comme "pôle rad
 [[Stathis Kouvelakis]] : l'électorat LFI est jeune, trans-classe avec une polarisation populaire, "imperméable au social-libéralisme" — les électeurs Mélenchon qui ne reportent pas sur le NFP vont **vers le RN ou l'abstention, pas vers Macron**. Cela montre une rupture radicale avec le bloc central et l'impossibilité de récupérer ces électeurs par la stratégie de la respectabilité.
 
 ## La question du PCF
-Chris intègre le PCF dans le bloc de rupture depuis 2012 pour les données historiques, car le PCF avait un programme de rupture similaire à LFI et ils ont construit ensemble le Front de Gauche. Mais le PCF sous [[Fabien Roussel]] incarne un "paradoxe" : programme de rupture + comportement politique de "bloc démocrate". La "stratégie Roussel" vise à prendre le lead sur le bloc de rupture avec les attitudes et le langage du bloc démocrate — ce qui échoue.
+La PaduTeam intègre le PCF dans le bloc de rupture depuis 2012 pour les données historiques, car le PCF avait un programme de rupture similaire à LFI et ils ont construit ensemble le Front de Gauche. Mais le PCF sous [[Fabien Roussel]] incarne un "paradoxe" : programme de rupture + comportement politique de "bloc démocrate". La "stratégie Roussel" vise à prendre le lead sur le bloc de rupture avec les attitudes et le langage du bloc démocrate — ce qui échoue.
 
 ## Vidéos où le concept est développé
-- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation et données complètes par Chris, analysé avec Stathis
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation et données complètes par la PaduTeam, analysé avec Stathis

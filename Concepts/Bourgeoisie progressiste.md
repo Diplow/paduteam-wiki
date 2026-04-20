@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Bourgeoisie progressiste
 
 ## Définition
-Catégorie d'analyse utilisée par Chris pour situer [[Jean-Luc Melenchon]] dans l'histoire longue de la gauche française. La bourgeoisie progressiste désigne une fraction de la bourgeoisie (intermédiaire, pas grande bourgeoisie) qui, face à une crise systémique, porte des revendications de justice fiscale et d'égalité devant l'impôt — sans remettre en cause le régime de propriété.
+Catégorie d'analyse utilisée par la PaduTeam pour situer [[Jean-Luc Melenchon]] dans l'histoire longue de la gauche française. La bourgeoisie progressiste désigne une fraction de la bourgeoisie (intermédiaire, pas grande bourgeoisie) qui, face à une crise systémique, porte des revendications de justice fiscale et d'égalité devant l'impôt — sans remettre en cause le régime de propriété.
 
 ## Parallèle historique : 1789
 Le parallèle central est avec les députés montagnards du Tiers État pendant la Révolution française :
@@ -41,4 +41,4 @@ L'analyse "Tax the Rich" est jugée inadéquate pour plusieurs raisons :
 - [[Moisation]] — Processus qui pourrait pousser Mélenchon à se radicaliser au-delà de la position de bourgeoisie progressiste
 
 ## Vidéos
-- [[MELENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES]] — Concept développé par Chris à l'occasion du passage de Mélenchon aux GG
+- [[MELENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES]] — Concept développé par la PaduTeam à l'occasion du passage de Mélenchon aux GG

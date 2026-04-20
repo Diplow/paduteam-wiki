@@ -19,11 +19,11 @@ Capsule "Pas du stream". [[Baptiste Moireau]] (créateur viral "T'es pas net", 2
 
 ## Thèses et analyses clés
 
-1. **Le multiple comme signal** : Quand plusieurs femmes témoignent indépendamment, avec des captures d'écran, de messages similaires reçus alors qu'elles étaient mineures, l'argument "elle ment" s'effondre. Padu : "Quand il y a plusieurs meufs, c'est un peu grillé."
+1. **Le multiple comme signal** : Quand plusieurs femmes témoignent indépendamment, avec des captures d'écran, de messages similaires reçus alors qu'elles étaient mineures, l'argument "elle ment" s'effondre. La PaduTeam : "Quand il y a plusieurs meufs, c'est un peu grillé."
 
-2. **La défense absurde** : "J'envoyais des vidéos à caractère sexuel à tous mes contacts récents sans vérifier les âges." Padu : "À quel moment tu envoies des vidéos à caractère sexuel à tous tes contacts ? C'est ta défense ?"
+2. **La défense absurde** : "J'envoyais des vidéos à caractère sexuel à tous mes contacts récents sans vérifier les âges." La PaduTeam : "À quel moment tu envoies des vidéos à caractère sexuel à tous tes contacts ? C'est ta défense ?"
 
-3. **Le déclencheur de la parole** : La première victime (15 ans au moment du témoignage, 12 ans lors des messages) dit avoir voulu parler l'année précédente sans réponse. C'est la désignation comme porteur de la flamme qui l'a poussée à republier. Padu salue son courage : "15 ans pour dénoncer ça, c'est quand même jeune."
+3. **Le déclencheur de la parole** : La première victime (15 ans au moment du témoignage, 12 ans lors des messages) dit avoir voulu parler l'année précédente sans réponse. C'est la désignation comme porteur de la flamme qui l'a poussée à republier. La PaduTeam salue son courage : "15 ans pour dénoncer ça, c'est quand même jeune."
 
 4. **Les excuses insuffisantes** : Le communiqué Instagram de Baptiste Moireau est un template générique ("depuis que je suis devenu père j'ai pris conscience..."). Il nie dans le même temps dans ses stories. Les excuses sans reconnaissance des faits ne "calment pas la polémique".
 

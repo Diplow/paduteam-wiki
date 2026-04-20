@@ -25,7 +25,7 @@ Une fuite révèle un dîner entre les journalistes [[Thomas Legrand]] et [[Patr
 
 4. **Barrages = écluses** — le bloc central (France Inter, barragisme) ne freine pas l'extrême droite, il la prépare. Chaque jour il va sur les thèmes de la droite, il cède du terrain symbolique. Il fabrique l'extrême droite tout en s'arrogeant le capital symbolique antifasciste. Leur seul capital restant après avoir validé toutes les réformes néolibérales.
 
-5. **[[Boris Vallaud]] est la vraie clé de voûte** — Glucksmann est "une noisette". Vallaud n'en est pas une. Il n'est pas attaqué par la ligne Fort, ni par la ligne Mayer-Rossignol, ni mal vu par Attal. Chris : "Boris Vallaud se lebron gem sur les analyses de Chris."
+5. **[[Boris Vallaud]] est la vraie clé de voûte** — Glucksmann est "une noisette". Vallaud n'en est pas une. Il n'est pas attaqué par la ligne Fort, ni par la ligne Mayer-Rossignol, ni mal vu par Attal. La PaduTeam note que "Boris Vallaud se lebron gem sur les analyses de la PaduTeam."
 
 6. **[[Stratégie Chirac 1981|Billard à trois bandes]] de Retailleau** — comme Chirac en 1981 (qui a dit voter Giscard à titre personnel mais fait voter Mitterrand à ses militants pour tuer son adversaire), Retailleau pourrait avoir intérêt à faire élire Mélenchon pour tuer Marine Le Pen et s'imposer comme seule droite oppositionnelle.
 

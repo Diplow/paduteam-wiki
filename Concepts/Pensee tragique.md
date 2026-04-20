@@ -36,4 +36,4 @@ Résultat : contemplation du monde, descriptions précises de l'injustice, mais 
 [[Afropessimisme]], [[Epistemologie marxiste]], [[Conscience et sujets collectifs]], [[Integration du proletariat]]
 
 ## Vidéos où ce concept est développé
-- [[Le MARXISME, un TRUC de BLANC]] — développé longuement par Chris en comparant jansénisme, négritude, afropessimisme et romantisme allemand
+- [[Le MARXISME, un TRUC de BLANC]] — développé longuement par la PaduTeam en comparant jansénisme, négritude, afropessimisme et romantisme allemand

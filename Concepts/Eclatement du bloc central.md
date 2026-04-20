@@ -23,7 +23,7 @@ Dans la prophétie du 2002 inversé, l'éclatement de la droite et du centre en 
 
 ## Le post-macronisme double
 
-Chris pose les termes : [[Gabriel Attal]] est le "post-macronisme de gauche", [[Edouard Philippe]] le "post-macronisme de droite". Contrairement à ce que dit [[Clément Viktorovitch]], ils ne viennent pas du même parti : Attal vient du PS, Philippe de LR. Le macronisme était justement la formule "des traîtres de gauche et des traîtres de droite" (formule attribuée à [[Rachida Dati]]). Sans Macron, chacun retourne vers son pôle — mais Philippe a un espace (droite libérale non-extrême) alors qu'Attal n'en a aucun (coincé entre Philippe et le PS). Attal et Philippe ne se désisteront pas l'un pour l'autre : chacun a son appareil (Renaissance vs Horizon), "ils sont pas dans le même truc".
+La PaduTeam pose les termes : [[Gabriel Attal]] est le "post-macronisme de gauche", [[Edouard Philippe]] le "post-macronisme de droite". Contrairement à ce que dit [[Clément Viktorovitch]], ils ne viennent pas du même parti : Attal vient du PS, Philippe de LR. Le macronisme était justement la formule "des traîtres de gauche et des traîtres de droite" (formule attribuée à [[Rachida Dati]]). Sans Macron, chacun retourne vers son pôle — mais Philippe a un espace (droite libérale non-extrême) alors qu'Attal n'en a aucun (coincé entre Philippe et le PS). Attal et Philippe ne se désisteront pas l'un pour l'autre : chacun a son appareil (Renaissance vs Horizon), "ils sont pas dans le même truc".
 
 ## Vidéos
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]

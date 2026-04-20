@@ -21,7 +21,7 @@ La diabolisation fonctionne en deux temps selon la PaduTeam :
 La diabolisation est ainsi auto-destructrice pour ses promoteurs : en forçant le vote Mélenchon dans la clandestinité sondagière, elle "fabrique" un vote caché qui dépasse les prévisions le soir de l'élection.
 
 ## La diabolisation par l'absurde
-Phénomène observé à partir de juillet 2025 : les accusations deviennent si grotesques (enfant de 6 ans persécutant des juifs au Maroc) que la diabolisation atteint le point de rupture. Padu : "L'homme qui criait au loup" — si une vraie accusation sortait, plus personne ne la croirait. L'excès de diabolisation vide le discours médiatique de sa crédibilité.
+Phénomène observé à partir de juillet 2025 : les accusations deviennent si grotesques (enfant de 6 ans persécutant des juifs au Maroc) que la diabolisation atteint le point de rupture. La PaduTeam : "L'homme qui criait au loup" — si une vraie accusation sortait, plus personne ne la croirait. L'excès de diabolisation vide le discours médiatique de sa crédibilité.
 
 ## Parallèle historique
 En 2002, le vote [[Marine Le Pen|Jean-Marie Le Pen]] était un vote caché des ouvriers — les gens ne l'assumaient pas en public mais votaient pour lui dans l'isoloir. La diabolisation de Mélenchon produit le même mécanisme mais dans le sens inverse : ce sont les **cadres et classes moyennes** qui soutiennent ses positions (pro-palestiniennes, anti-américaines, antilibérales) sans pouvoir l'assumer dans leur milieu professionnel.

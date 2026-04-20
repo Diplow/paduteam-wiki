@@ -16,12 +16,12 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # SOPHIA ARAM LA PRO-ISRAËL LA + CRINGE
 
 ## Résumé
-Padu et Zoé analysent le discours de Sophia Aram aux Molières 2024 (printemps 2024), où elle affirmait qu'il y avait "un silence assourdissant autour du 7 octobre" et défendait une équivalence entre exiger le cessez-le-feu et exiger la libération des otages. Déconstruction de son [[Universalisme abstrait]] et de son complotisme anti-LFI.
+La PaduTeam analyse le discours de Sophia Aram aux Molières 2024 (printemps 2024), où elle affirmait qu'il y avait "un silence assourdissant autour du 7 octobre" et défendait une équivalence entre exiger le cessez-le-feu et exiger la libération des otages. Déconstruction de son [[Universalisme abstrait]] et de son complotisme anti-LFI.
 
 ## Thèses et analyses clés
-1. **Inversion de la réalité** : Sophia Aram prétend qu'il y a un "silence assourdissant" sur le 7 octobre alors qu'il y a eu des milliers de discours — mais un silence presque total sur les 45 000 morts palestiniens. Padu : "C'est une inversion totale de ce qui se passe."
-2. **[[Universalisme abstrait]] instrumentalisé** : "l'humanisme ne se divise pas" utilisé pour disqualifier le soutien à la résistance palestinienne. Derrière l'universalisme, une obsession contre le voile et les musulmans. Zoé : "Derrière son universalisme abstrait, il y a un suprémacisme concret."
-3. **Pensée complotiste** : Sophia Aram déclare ses contradicteurs "fous" et "délirants" — elle pense que des élus veulent lui nuire. Padu : "Elle est une complotiste qui pense que des élus de la République veulent lui nuire. C'est quand même incroyable pour quelqu'un qui se fout de la gueule des complotistes."
+1. **Inversion de la réalité** : Sophia Aram prétend qu'il y a un "silence assourdissant" sur le 7 octobre alors qu'il y a eu des milliers de discours — mais un silence presque total sur les 45 000 morts palestiniens. La PaduTeam : "C'est une inversion totale de ce qui se passe."
+2. **[[Universalisme abstrait]] instrumentalisé** : "l'humanisme ne se divise pas" utilisé pour disqualifier le soutien à la résistance palestinienne. Derrière l'universalisme, une obsession contre le voile et les musulmans. La PaduTeam : "Derrière son universalisme abstrait, il y a un suprémacisme concret."
+3. **Pensée complotiste** : Sophia Aram déclare ses contradicteurs "fous" et "délirants" — elle pense que des élus veulent lui nuire. La PaduTeam : "Elle est une complotiste qui pense que des élus de la République veulent lui nuire. C'est quand même incroyable pour quelqu'un qui se fout de la gueule des complotistes."
 4. **La salle des Molières** : un "parterre de bourgeois" qui applaudit. Révélateur du positionnement de classe de l'humoriste — elle parle à son public, pas contre lui.
 
 ## Individus mentionnés

@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Salariat archaïque
 
 ## Définition
-Terme utilisé par Chris pour décrire la condition des livreurs Uber et des travailleurs de plateforme. Forme de salariat antérieure aux conquêtes ouvrières (contrat, droits, syndicalisation), rappelant le "tâcheronnage" décrit par Steinbeck, Dickens et Balzac : on arrive avec ses outils, on demande combien d'heures on peut faire, on réclame son dû.
+Terme utilisé par la PaduTeam pour décrire la condition des livreurs Uber et des travailleurs de plateforme. Forme de salariat antérieure aux conquêtes ouvrières (contrat, droits, syndicalisation), rappelant le "tâcheronnage" décrit par Steinbeck, Dickens et Balzac : on arrive avec ses outils, on demande combien d'heures on peut faire, on réclame son dû.
 
 ## Mécanisme
 Le [[Neoliberalisme]] détruit le salariat organisé, syndicalisé, collectivisé — fruit de conquêtes ouvrières historiques — pour revenir à cette forme archaïque. Le statut d'auto-entrepreneur sert de véhicule juridique à ce retour en arrière, en masquant un rapport de subordination réel sous une apparence d'indépendance.
@@ -30,10 +30,10 @@ Un vrai auto-entrepreneur/artisan détient un capital qu'il peut faire fructifie
 
 ## Nuance : le chauffeur VTC vs l'Uber à vélo
 La PaduTeam distingue deux figures qui semblent proches mais occupent des positions différentes :
-- **Le chauffeur VTC avec voiture** : a du capital (son véhicule, sa clientèle potentielle, peut revendre son activité), structures mentales petite-bourgeoises. "Réactionnaire" selon Chris.
+- **Le chauffeur VTC avec voiture** : a du capital (son véhicule, sa clientèle potentielle, peut revendre son activité), structures mentales petite-bourgeoises. "Réactionnaire" selon la PaduTeam.
 - **Le livreur Uber Hit à vélo** (Uber Eats) : aucun capital, l'application est le moyen de production, salariat archaïque pur. "Le plus révolutionnaire, l'avant-garde du prolétariat."
 
-Padu (se reprenant) : "C'est pas un gars qui avait une entreprise de taxi et tout — c'est un peu différent."
+La PaduTeam : "C'est pas un gars qui avait une entreprise de taxi et tout — c'est un peu différent."
 
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Développement principal : distinction livreur Uber / vrai indépendant, l'application comme moyen de production, le tâcheronnage néolibéral

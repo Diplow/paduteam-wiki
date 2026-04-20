@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Venezuela, Amérique-latine, Ukraine, États-Unis]
 skill_version: write-enjeu-2026-04-19
 date created: Monday, April 13th 2026, 11:53:22 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/guerre-des-gauches #thème/Ukraine #thème/États-Unis
 # Campisme assumé

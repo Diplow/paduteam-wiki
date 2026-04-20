@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme]
 aliases: [Jules Ferry]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 10:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:56 pm
 ---
 #domaine/théorie #domaine/géopolitique #thème/anti-impérialisme
 

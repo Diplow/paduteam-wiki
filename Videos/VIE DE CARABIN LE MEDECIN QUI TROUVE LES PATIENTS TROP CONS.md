@@ -36,13 +36,13 @@ Les BD de Vie de Carabin mettent systématiquement en scène des patients qui vi
 
 [[Dr Zoe]] retourne chaque exemple : les patients ne viennent pas aux urgences "pour rien" — ils viennent parce qu'ils **n'ont pas d'alternative**. Pas de médecin généraliste disponible en soirée (pénurie), urgences comme seul point d'accès nocturne, méconnaissance des symptômes qui justifie une précaution. Ce qui ressemble à de la bêtise est de la débrouillardise dans un contexte de [[Penurie de medecins|pénurie médicale structurelle]].
 
-Contexte personnel de Zoé : son hôpital local a été en plan blanc 1,5 mois l'hiver 2025 à cause d'une épidémie de grippe — faute de places, pas de patients cons.[^2]
+Contexte personnel : l'hôpital local a été en plan blanc 1,5 mois l'hiver 2025 à cause d'une épidémie de grippe — faute de places, pas de patients cons.[^2]
 
 ### La confusion cause/symptôme
 
 Vie de Carabin diagnostique les urgences surchargées (symptôme) en les attribuant aux comportements des patients (fausse cause individuelle), alors que la cause est structurelle : absence d'amont (pas assez de médecins pour traiter en amont) + absence d'aval (pas assez de lits d'hospitalisation). Cette grille blâme la victime et innocente le système.
 
-Chris note l'absurde de la logique Carabin : "patients qui se plaignent d'attendre plusieurs heures aux urgences — s'ils sont toujours là pour le dire, c'est bien la preuve qu'ils n'avaient rien à faire aux urgences".[^3]
+La PaduTeam note l'absurde de la logique Carabin : "patients qui se plaignent d'attendre plusieurs heures aux urgences — s'ils sont toujours là pour le dire, c'est bien la preuve qu'ils n'avaient rien à faire aux urgences".[^3]
 
 ### La popularité comme révélateur politique
 
@@ -50,13 +50,13 @@ Chris note l'absurde de la logique Carabin : "patients qui se plaignent d'attend
 
 ### La [[Confraternite medicale]] en pratique
 
-Zoé doit "marcher sur des œufs" tout au long de la vidéo pour ne pas être vulnérable à une plainte pour non-confraternité. Elle formule ses critiques en termes d'"oppositions d'ordre politique" qui n'ont "strictement rien à voir avec la qualité de soignant de mon collègue". La contrainte institutionnelle s'impose même dans le cadre d'une analyse vidéo.
+La PaduTeam doit "marcher sur des œufs" tout au long de la vidéo pour ne pas être vulnérable à une plainte pour non-confraternité. Les critiques sont formulées en termes d'"oppositions d'ordre politique" qui n'ont "strictement rien à voir avec la qualité de soignant de mon collègue". La contrainte institutionnelle s'impose même dans le cadre d'une analyse vidéo.
 
 ## Citations clés
 
-[^1]: [1:02](https://www.youtube.com/watch?v=CI-C05V074k&t=62) — "c'est quelqu'un avec qui je suis d'accord sur à peu près tout qui fait très souvent des petites BD où il parle de son métier de médecin avec un truc assez récurrent de trouver que globalement le système de soin va mal parce que les gens sont cons" (Dr Zoé, ironiquement)
+[^1]: [1:02](https://www.youtube.com/watch?v=CI-C05V074k&t=62) — "c'est quelqu'un avec qui je suis d'accord sur à peu près tout qui fait très souvent des petites BD où il parle de son métier de médecin avec un truc assez récurrent de trouver que globalement le système de soin va mal parce que les gens sont cons" (ironiquement)
 [^2]: [8:52](https://www.youtube.com/watch?v=CI-C05V074k&t=532) — "l'hôpital de chez moi a été pendant un mois et demi en plan blanc parce qu'il n'y avait pas assez de place à l'hôpital, on a eu une épidémie de grippe qui était vraiment costaud cette année"
-[^3]: [4:13](https://www.youtube.com/watch?v=CI-C05V074k&t=253) — "patients qui se plaignent d'attendre plusieurs heures aux urgences — s'ils sont toujours là pour le dire, c'est bien la preuve qu'ils n'avaient rien à faire aux urgences" (Chris, ridiculisant la logique de Carabin)
+[^3]: [4:13](https://www.youtube.com/watch?v=CI-C05V074k&t=253) — "patients qui se plaignent d'attendre plusieurs heures aux urgences — s'ils sont toujours là pour le dire, c'est bien la preuve qu'ils n'avaient rien à faire aux urgences" (ridiculisant la logique de Carabin)
 
 ## Fiches associées
 

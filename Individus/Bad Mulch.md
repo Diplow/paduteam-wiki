@@ -20,12 +20,12 @@ Streamer/YouTubeur qui a réagi au [[Graphique]] de la [[PaduTeam]] dans une de 
 - Propose un programme idéaliste (impôt progressif, coopératives) sans analyser si les rapports de force permettent sa réalisation
 
 ## Critique PaduTeam
-Chris et Padu considèrent Bad Mulch comme représentatif de la [[Pensee idealiste vs materialiste|pensée idéaliste]] typique des cadres supérieurs : partir de ce qu'on aimerait pour en déduire le réel, plutôt que partir du réel pour imaginer le possible. Sa position dans le Graphique (cadre/ingénieur, haut dans la hiérarchie, peu de capital) explique sa vision du monde consensualiste et abstraite.
+La PaduTeam considère Bad Mulch comme représentative de la [[Pensee idealiste vs materialiste|pensée idéaliste]] typique des cadres supérieurs : partir de ce qu'on aimerait pour en déduire le réel, plutôt que partir du réel pour imaginer le possible. Sa position dans le Graphique (cadre/ingénieur, haut dans la hiérarchie, peu de capital) explique sa vision du monde consensualiste et abstraite.
 
 ## L'incident du bol de riz (2025)
 Bad Mulch s'est inscrit à [[L'Apres]] et s'est rendu à une réunion (invité par [[Gerard Filoche]]) pour observer la démocratie interne en direct. Il mangeait un bol de riz quand [[Raquel Garrido]] est arrivée et l'a fait expulser : "Sortez, sortez de la salle ou on appelle la sécurité" — "Et on vous nourrit en plus !" Alors qu'il avait payé sa cotisation. La PaduTeam commente : "Le meilleur move politique de Bad Mulch en 2025." Révélateur de la nature réelle de L'Après : peu de militants, culture de coteries, pas de vraie démocratie interne.
 
-Bad Mulch se serait également présenté à la primaire des noisettes. Padu : "Moi je suis team Badmulch tous les jours. Go Badmulch." La PaduTeam envisage même une "campagne Badmulch pendant la primaire avec nos ressources militantes et financières." Au premier tour de la présidentielle, pas de soutien ("au premier tour, on collera pas pour toi") — mais pour la primaire, "c'est pas impossible."
+Bad Mulch se serait également présenté à la primaire des noisettes. La PaduTeam : "Moi je suis team Badmulch tous les jours. Go Badmulch." La PaduTeam envisage même une "campagne Badmulch pendant la primaire avec nos ressources militantes et financières." Au premier tour de la présidentielle, pas de soutien ("au premier tour, on collera pas pour toi") — mais pour la primaire, "c'est pas impossible."
 
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]]

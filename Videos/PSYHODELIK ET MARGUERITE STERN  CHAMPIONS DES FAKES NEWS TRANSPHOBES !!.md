@@ -15,20 +15,20 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Courte capsule de Padu décryptant une fake news transphobe diffusée par [[Marguerite Stern]] et reprise par [[Psyhodelik]]. La vidéo documente une mécanique précise de désinformation et insiste sur les conséquences matérielles réelles pour les personnes trans.
+Courte capsule décryptant une fake news transphobe diffusée par [[Marguerite Stern]] et reprise par [[Psyhodelik]]. La vidéo documente une mécanique précise de désinformation et insiste sur les conséquences matérielles réelles pour les personnes trans.
 
 ## La fake news
 
 [[Marguerite Stern]] partage une vidéo de ~30 secondes : "Des enfants déguisés en poupées sexuelles LGBT dans un carnaval en Espagne. J'ai tellement mal au cœur." En réalité : costumes de l'atelier Alcantara pour la troupe Auadia, dans une commune à mairie de droite, caricaturant quatre partis politiques espagnols (PP, Vox, PSOE, Sumar). Fait tagué "affiliation fallacieuse" dès sa diffusion.
 
-[[Psyhodelik]] reprend : "La gauche woke LGBT met en scène des gamines en [pornographique]." Padu : "C'est plus cliquer de dire ça."
+[[Psyhodelik]] reprend : "La gauche woke LGBT met en scène des gamines en [pornographique]." La PaduTeam : "C'est plus cliquer de dire ça."
 
 ## La mécanique
 
 1. Source : Marguerite Stern, productrice avérée de fake news transphobes
 2. Reprise sans vérification par Psyhodelik auprès d'une audience plus large
 3. Titre fabriqué ("gauche woke", "gamines") qui réactive le narratif pédophobe-trans
-4. Aucune vérification — délibérée : "S'il vérifiait, il ne serait pas d'extrême droite."
+4. Aucune vérification — délibérée : "S'il vérifiait, il ne serait pas d'extrême droite." (La PaduTeam)
 
 ## Le ciblage stratégique des trans
 
@@ -36,7 +36,7 @@ Padu cite Psyhodelik : "Salut Guido. Mais c'est là que tu vois que le vrai prob
 
 ## Les conséquences matérielles
 
-Padu insiste sur la dimension concrète — contre une tendance à traiter les fake news comme "juste des erreurs" : "Ça va peut-être briser la vie de certaines personnes. Peut-être que ça va empêcher certaines personnes qui auraient pu être acceptées par leur famille. Peut-être qu'ils vont devoir cacher leur identité de genre."
+La PaduTeam insiste sur la dimension concrète — contre une tendance à traiter les fake news comme "juste des erreurs" : "Ça va peut-être briser la vie de certaines personnes. Peut-être que ça va empêcher certaines personnes qui auraient pu être acceptées par leur famille. Peut-être qu'ils vont devoir cacher leur identité de genre."
 
 ## Entités citées
 

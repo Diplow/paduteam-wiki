@@ -15,7 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 Les déterminants sociaux de santé désignent les conditions sociales, économiques et politiques qui influencent l'état de santé des individus : niveau de revenu, classe sociale, conditions de travail, logement, alimentation, accès aux soins. L'état de santé n'est pas une donnée naturelle ou génétique — il est le produit des rapports sociaux.
 
-En médecine, la notion a mis du temps à s'imposer : "un jour, on s'est rendu compte que quand tu fais vivre les gens dans des conditions de merde, avec de la bouffe de merde, des boulots qui détruisent leur corps et leur psyché, ça impacte leur état de santé." (Zoé, MASTERCLASS SARKOZY)
+En médecine, la notion a mis du temps à s'imposer : "un jour, on s'est rendu compte que quand tu fais vivre les gens dans des conditions de merde, avec de la bouffe de merde, des boulots qui détruisent leur corps et leur psyché, ça impacte leur état de santé." (PaduTeam, MASTERCLASS SARKOZY)
 
 ## Application politique : les retraites
 
@@ -25,4 +25,4 @@ Indexer l'âge de la retraite sur "l'espérance de vie" sans tenir compte des d�
 
 ## Vidéos clés
 
-- [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — Zoé explique les déterminants sociaux face au positivisme de Louis Sarkozy
+- [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — la PaduTeam explique les déterminants sociaux face au positivisme de Louis Sarkozy

@@ -10,10 +10,10 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Nicolas Framont
 
 ## Profil synthétique
-Interviewé par [[Padu]] dans un format original : ils marchent ensemble dans la ville, ce qui crée selon Padu une ambiance différente d'une interview classique en visio. Cette forme d'interview "en marchant" est citée comme exemple de ce que le format plateau/terrain peut apporter de plus par rapport au zoom.
+Interviewé par la PaduTeam dans un format original : ils marchent ensemble dans la ville, ce qui crée une ambiance différente d'une interview classique en visio. Cette forme d'interview "en marchant" est citée comme exemple de ce que le format plateau/terrain peut apporter de plus par rapport au zoom.
 
 ## Relations
-- Interviewé par [[Padu]]
+- Interviewé par la PaduTeam
 
 ## Vidéos où Nicolas Framont est mentionné
 - [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme exemple d'interview réussie en format marchant

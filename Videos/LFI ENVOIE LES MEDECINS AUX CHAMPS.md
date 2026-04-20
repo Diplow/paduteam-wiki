@@ -22,14 +22,13 @@ La loi sur la régulation de l'installation des médecins vient d'être votée, 
 
 ## Intervenants
 
-- [[Padu]] — co-animateur, interne en psychiatrie
-- [[Dr Zoe]] — analyste principale
+- La PaduTeam — un interne en psychiatrie (co-animateur) et une médecin généraliste (analyste principale)
 
 ## Thèses principales
 
 ### Histoire de la pénurie organisée — récit complet
 
-[[Dr Zoe]] retrace l'histoire en trois temps :
+La PaduTeam retrace l'histoire en trois temps :
 
 **Avant 1970** : peu de médecins mais pas de numerus clausus. Les années 68 ouvrent les études : nouveaux profils, "barbus", remise en cause de la hiérarchie.
 
@@ -41,7 +40,7 @@ La loi sur la régulation de l'installation des médecins vient d'être votée, 
 
 La loi impose que les médecins nouvellement diplômés s'installent dans des zones sous-dotées (ou à 5km d'une zone sans médecin). Réactions de la corporation : tolle, "bac+12 pour finir à Mulhouse", liberté professionnelle bafouée.
 
-Analyse Zoé : la loi est **politiquement juste** mais **pratiquement inefficace à court terme**. Avec seulement 13% du territoire médiqué, même une redistribution parfaite des médecins existants ne comble pas le manque. La loi sera utile dans 15-20 ans, quand le volume de médecins formés aura enfin rattrapé les besoins.
+Analyse de la PaduTeam : la loi est **politiquement juste** mais **pratiquement inefficace à court terme**. Avec seulement 13% du territoire médiqué, même une redistribution parfaite des médecins existants ne comble pas le manque. La loi sera utile dans 15-20 ans, quand le volume de médecins formés aura enfin rattrapé les besoins.
 
 Paradoxe : la corporation qui a organisé la pénurie dénonce maintenant les mesures visant à y remédier.
 
@@ -49,7 +48,7 @@ Paradoxe : la corporation qui a organisé la pénurie dénonce maintenant les me
 
 Même les médecins d'origine non bourgeoise développent une mentalité de petit entrepreneur libéral. La structure de la profession — exercice libéral, revenus à l'acte, clientèle propriété du praticien — impose cette mentalité indépendamment de l'origine sociale.[^3]
 
-Padu nuance : il y a une vraie reproduction sociale (majorité bourgeoise parmi les médecins) mais la structure corporatiste joue aussi sur les fils d'ouvriers.
+La PaduTeam nuance : il y a une vraie reproduction sociale (majorité bourgeoise parmi les médecins) mais la structure corporatiste joue aussi sur les fils d'ouvriers.
 
 ### Isolation des médecins de gauche
 

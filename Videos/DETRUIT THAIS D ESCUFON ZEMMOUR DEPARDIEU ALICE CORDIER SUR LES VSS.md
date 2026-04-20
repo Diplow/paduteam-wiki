@@ -18,7 +18,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Vidéo publiée le 29 mai 2024. [[Dr Zoe]] et [[Padu]] analysent les VSS (violences sexistes et sexuelles) comme fait social structurel, en réfutation des arguments de [[Thais d'Escufon]], [[Eric Zemmour|Zemmour]], [[Gerard Depardieu|Depardieu]] et [[Alice Cordier]]. Zoé mobilise les données épidémiologiques et son expérience de médecin rurale pour montrer que la culture française est saturée de culture du viol — et que "chercher les étrangers" comme explication principale, c'est du foutage de gueule.
+Vidéo publiée le 29 mai 2024. La PaduTeam analyse les VSS (violences sexistes et sexuelles) comme fait social structurel, en réfutation des arguments de [[Thais d'Escufon]], [[Eric Zemmour|Zemmour]], [[Gerard Depardieu|Depardieu]] et [[Alice Cordier]]. Les données épidémiologiques et l'expérience de médecin rurale sont mobilisées pour montrer que la culture française est saturée de culture du viol — et que "chercher les étrangers" comme explication principale, c'est du foutage de gueule.
 
 ## Thèses et analyses clés
 
@@ -30,7 +30,7 @@ Vidéo publiée le 29 mai 2024. [[Dr Zoe]] et [[Padu]] analysent les VSS (violen
 
 4. **Expérience médicale rurale comme contre-preuve** : Zoé reçoit dans son cabinet de campagne des femmes de 80 ans qui parlent de l'inceste de leur père pour la première fois. "Pas une seule histoire d'étranger dans ce cabinet." La réalité des VSS est autochtone, silencieuse, et quasi-totalement non poursuivie.
 
-5. **[[Alice Cordier]] sur le plateau de [[Morandini]]** : Alice Cordier dénonce des VSS sur un plateau animé par [[Jean-Marc Morandini]], lui-même mis en examen pour corruption de mineurs. Zoé : "la contradiction est tellement énorme qu'on dirait une fiction." C'est l'illustration de la sélectivité raciale du "féminisme" de Némésis.
+5. **[[Alice Cordier]] sur le plateau de [[Morandini]]** : Alice Cordier dénonce des VSS sur un plateau animé par [[Jean-Marc Morandini]], lui-même mis en examen pour corruption de mineurs. La PaduTeam : "la contradiction est tellement énorme qu'on dirait une fiction." C'est l'illustration de la sélectivité raciale du "féminisme" de Némésis.
 
 6. **Le voile comme question de contrôle masculin** : le débat sur le voile ne peut pas être analysé sans inclure Lourdes, sans inclure les mères irlandaises forcées à porter des tabliers. Le voile est un outil de contrôle masculin dans plusieurs traditions — mais la cibler exclusivement est du [[Feminisme raciste]].
 

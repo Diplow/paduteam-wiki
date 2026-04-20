@@ -4,7 +4,7 @@ domaine: [économie, géopolitique]
 thèmes: [États-Unis, anti-impérialisme]
 aliases: [Protectionnisme trumpiste, Protectionnisme néo-mercantile]
 date created: Wednesday, April 1st 2026, 10:38:47 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
 #domaine/économie #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme
 

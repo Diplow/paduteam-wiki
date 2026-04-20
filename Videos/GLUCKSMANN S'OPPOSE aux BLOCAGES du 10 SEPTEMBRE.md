@@ -6,7 +6,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]
 date created: Sunday, April 12th 2026, 5:25:28 pm
-date modified: Wednesday, April 15th 2026, 1:40:00 pm
+date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/plus-jamais-PS #enjeu/union-populaire
 

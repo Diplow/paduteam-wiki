@@ -31,6 +31,6 @@ La majorité des Gazaouis sont descendants de réfugiés de 1948 — ce que Trum
 - Les propos de ministres israéliens : « ces gens sont des animaux humains » (Gallant, 8 octobre 2023), « je suis personnellement fière des ruines de Gaza » (ministre de l'Égalité sociale), Herzog impliquant les civils comme « responsables »
 
 ## Vidéos où le concept est développé
-- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Zoé et Chris insistent sur le continuum historique : « ce n'est pas le 7 octobre qui a commencé, c'est 80 ans avant »
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — la PaduTeam insiste sur le continuum historique : « ce n'est pas le 7 octobre qui a commencé, c'est 80 ans avant »
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Paul Elek déploie l'analyse coloniale structurelle : 1948 = 800 000 exilés, reproduction à chaque étape, majorité des Gazaouis descendants de réfugiés
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Le droit de retour Nakba comme condition non-négociable d'une solution politique réelle

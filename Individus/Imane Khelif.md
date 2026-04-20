@@ -17,13 +17,13 @@ Boxeuse algérienne, 25 ans, native de Tiaret. Médaillée aux Jeux olympiques d
 
 ## Analyse PaduTeam
 
-La campagne contre Khelif est analysée par Padu comme une intersection de transphobie et de racisme :
+La campagne contre Khelif est analysée par la PaduTeam comme une intersection de transphobie et de racisme :
 
 **Transphobie** : la confusion délibérée entre intersexualité et transidentité pour prétendre que "des hommes" participent aux compétitions féminines. Or Khelif a toujours été assignée et reconnue femme, par sa famille, sa communauté, l'état algérien, le CIO.
 
-**Racisme** : Padu pointe que les athlètes accusées de "masculinité excessive" dans le sport sont quasi-systématiquement noires ou nord-africaines (Dutee Chand, Caster Semenya, Annette Negessa, Serena Williams — toutes racisées). Ce n'est pas un hasard : une littérature documentée associe depuis longtemps les corps noirs à une masculinité supposément excessive et incontrôlable.
+**Racisme** : la PaduTeam pointe que les athlètes accusées de "masculinité excessive" dans le sport sont quasi-systématiquement noires ou nord-africaines (Dutee Chand, Caster Semenya, Annette Negessa, Serena Williams — toutes racisées). Ce n'est pas un hasard : une littérature documentée associe depuis longtemps les corps noirs à une masculinité supposément excessive et incontrôlable.
 
-**L'abandon de la Carini** : l'Italienne Angela Carini a abandonné après deux coups droits. L'analyse sportive montre qu'elle avait ouvert sa garde — "c'est juste de la mauvaise boxe", pas une puissance extraordinaire. Padu : elle "abandonne parce qu'elle se sait inférieure et joue la carte 'essayons de la faire exclure'."
+**L'abandon de la Carini** : l'Italienne Angela Carini a abandonné après deux coups droits. L'analyse sportive montre qu'elle avait ouvert sa garde — "c'est juste de la mauvaise boxe", pas une puissance extraordinaire. La PaduTeam : elle "abandonne parce qu'elle se sait inférieure et joue la carte 'essayons de la faire exclure'."
 
 ## L'IBA vs le CIO
 

@@ -29,7 +29,7 @@ Illustration numérique :
 
 ## Pourquoi le déficit sert leur agenda
 
-Le mythe du déficit active la [[Logique penuriste|logique pénuriste]] : "il n'y en a pas assez pour tout le monde, il faut choisir." Cette logique permet ensuite de faire accepter l'inacceptable — rembourser selon les revenus, supprimer des soins pour les malades chroniques, augmenter les franchises. Chris le formule : le néolibéralisme capture même l'énergie anti-riche en la retournant contre la Sécu universelle.[^3]
+Le mythe du déficit active la [[Logique penuriste|logique pénuriste]] : "il n'y en a pas assez pour tout le monde, il faut choisir." Cette logique permet ensuite de faire accepter l'inacceptable — rembourser selon les revenus, supprimer des soins pour les malades chroniques, augmenter les franchises. La PaduTeam le formule : le néolibéralisme capture même l'énergie anti-riche en la retournant contre la Sécu universelle.[^3]
 
 La Sécu pose un problème fondamental au capitalisme : elle est un espace de mutualisation qui ne fabrique pas de plus-value. Comme les expériences autogestionnaires, elle échappe au marché — et c'est pour ça qu'elle est haïe. L'objectif n'est pas d'équilibrer les comptes. L'objectif est de privatiser.[^4]
 

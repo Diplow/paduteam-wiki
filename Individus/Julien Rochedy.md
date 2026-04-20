@@ -24,7 +24,7 @@ Pour la PaduTeam, Rochedy est le passeur entre l'extrême droite institutionnell
 
 Pendant le procès Mazan, Rochedy a posté un texte comparant ce que Dominique Pelicot avait fait à sa femme ("la droguer pour l'abrutir et l'endormir afin qu'elle se fasse violer") à ce que "tous les gouvernements font à la France depuis les années 70" — entendant : l'immigration. Le tweet a été supprimé.
 
-Selon Zoé : "Vous voyez à quel point c'est immonde. Je rappelle que la grande majorité plus des trois quarts des accusés sont des hommes blancs. Ils n'ont pas violé parce qu'ils sont blancs, ils n'ont pas violé parce qu'ils sont arabes, ils n'ont pas violé parce qu'ils sont noirs — ils l'ont violé parce que c'est des hommes qui prennent et qui se servent des corps des autres comme si c'était des objets."
+La PaduTeam : "Vous voyez à quel point c'est immonde. Je rappelle que la grande majorité plus des trois quarts des accusés sont des hommes blancs. Ils n'ont pas violé parce qu'ils sont blancs, ils n'ont pas violé parce qu'ils sont arabes, ils n'ont pas violé parce qu'ils sont noirs — ils l'ont violé parce que c'est des hommes qui prennent et qui se servent des corps des autres comme si c'était des objets."
 
 Illustration du [[Femonationalisme]] : instrumentaliser un viol pour en faire un argument anti-immigration.
 

@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 ## Définition
 
-Analogie proposée par Padu à partir d'"Hannah Arendt" et de la notion de "banalité du mal" : les violeurs ne sont pas des monstres exceptionnels — ils sont ordinaires. La violence sexuelle est commise par des gens qui peuvent paraître "très sympas dans la vraie vie". Leur capacité à commettre des actes de violence sexuelle n'est pas liée à une nature perverse mais à un environnement qui leur en donne "la carte".
+Analogie proposée par la PaduTeam à partir d'"Hannah Arendt" et de la notion de "banalité du mal" : les violeurs ne sont pas des monstres exceptionnels — ils sont ordinaires. La violence sexuelle est commise par des gens qui peuvent paraître "très sympas dans la vraie vie". Leur capacité à commettre des actes de violence sexuelle n'est pas liée à une nature perverse mais à un environnement qui leur en donne "la carte".
 
 ## Le procès Mazan comme révélation
 

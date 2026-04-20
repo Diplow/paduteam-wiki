@@ -24,7 +24,7 @@ C'est de là que naît le racisme moderne — non pas d'une xénophobie ou d'une
 
 Si le racisme a une cause matérielle, il a une fin matérielle possible. La tâche du progressiste n'est pas de "gérer" le racisme ou de promouvoir "l'égalité entre les races" — c'est d'**abolir la race**, de la même manière que le servage a été aboli quand ses conditions matérielles ont disparu.
 
-"Nous ne sommes pas pour la gestion du racisme. Nous sommes pour l'abolition de la race de la même manière que nous sommes pour l'abolition de la classe." ([[Chris]])
+"Nous ne sommes pas pour la gestion du racisme. Nous sommes pour l'abolition de la race de la même manière que nous sommes pour l'abolition de la classe." (La PaduTeam)
 
 ## Contre l'idéalisme
 

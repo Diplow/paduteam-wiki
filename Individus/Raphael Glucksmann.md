@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, anti-impérialisme]
 aliases: [Glucksmann, Raphaël G., Raphael Glucksmann, Raphaël Glucksmann]
 date created: Thursday, April 2nd 2026, 1:06:42 am
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:56 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme
 

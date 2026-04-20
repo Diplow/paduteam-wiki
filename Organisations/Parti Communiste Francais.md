@@ -28,7 +28,7 @@ Le PCF a une histoire glorieuse : résistance, libération, reconstruction. "Les
 
 La farce : "Avant, ils pouvaient pas gagner et ne pouvaient gagner. Aujourd'hui, ils peuvent gagner et font n'importe quoi." La sociologie du PCF actuel explique ses erreurs : reste des vieux cadres retraités qui tiennent les fédérations + étudiants hors rapport de production. Espace très limité dans le Graphique → idéalisme → propositions déconnectées des classes populaires actuelles.
 
-Zoé : "Vivement qu'ils terminent leur lentagonie là et qu'on puisse reconstruire pénard avec des camarades sincères."
+La PaduTeam : "Vivement qu'ils terminent leur lentagonie là et qu'on puisse reconstruire pénard avec des camarades sincères."
 
 ## Islamophobie vs "racisme antimusulman" : débat de congrès
 
@@ -40,7 +40,7 @@ Le PCF a des intellectuels sérieux (citant [[Bernard Friot]], [[Paul Boccara]],
 
 ## Contre-société et implantation : atout gaspillé
 
-Paradoxalement, le PCF a quelque chose que la [[France Insoumise]] n'a pas : une vraie implantation locale, des permanents, une présence dans les réunions intersyndicales. Chris : "Ils ont deux permanents. Ils sont à toutes les réunions, toutes les intersyndicales. Ils loupent rien." Mais cet avantage structurel est gâché par une ligne politique inadéquate (Roussel) qui empêche de capter les bonnes classes sociales.
+Paradoxalement, le PCF a quelque chose que la [[France Insoumise]] n'a pas : une vraie implantation locale, des permanents, une présence dans les réunions intersyndicales. La PaduTeam : "Ils ont deux permanents. Ils sont à toutes les réunions, toutes les intersyndicales. Ils loupent rien." Mais cet avantage structurel est gâché par une ligne politique inadéquate (Roussel) qui empêche de capter les bonnes classes sociales.
 
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]

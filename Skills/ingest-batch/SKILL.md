@@ -9,7 +9,7 @@ description: >
   "batch ingest", ou fournit explicitement un fichier de suivi pointant vers un sous-batch non
   réalisé.
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 2:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 skill_version: ingest-batch-2026-04-19
 ---
 
@@ -73,15 +73,10 @@ Ce fichier est **passé tel quel** à chaque subagent vidéo et au subagent fina
 
 ### Étape 3 — Branche git
 
-Le batch ne merge **pas** vers `develop` directement, mais vers une **branche thématique dédiée** qui agrège tous les sous-batches d'un même fichier de suivi. Cette branche thématique est elle-même mergée vers `develop` à la fin du travail global sur le thème (hors scope de cette skill).
-
-1. Déterminer le **slug thématique parent** à partir du nom du fichier de suivi : `FEMINISME.md` → `theme/feminisme`, `GAZA.md` → `theme/gaza`, etc.
-2. `git fetch origin`
-3. Vérifier si la branche parente existe :
-   - **Si oui** : `git checkout theme/<parent> && git pull origin theme/<parent>` (si suivi distant).
-   - **Si non** : la créer à partir de `develop` à jour — `git checkout develop && git pull origin develop && git checkout -b theme/<parent>` — et la pusher (`git push -u origin theme/<parent>`).
-4. Si le slug du sous-batch est déjà défini dans le fichier de suivi (champ `Slug branche`), l'utiliser tel quel. Sinon, générer un slug : minuscules, sans accents, tirets, ~40 chars max.
-5. Créer la branche de travail depuis la branche parente : `git checkout -b ingest-batch/<slug>` (à partir de `theme/<parent>`).
+1. `git fetch origin`
+2. Se positionner sur `develop` à jour : `git checkout develop && git pull origin develop`
+3. Si le slug du sous-batch est déjà défini dans le fichier de suivi (champ `Slug branche`), l'utiliser tel quel. Sinon, générer un slug : minuscules, sans accents, tirets, ~40 chars max.
+4. Créer la branche de travail depuis `develop` : `git checkout -b ingest-batch/<slug>`
 
 ### Étape 4 — Résoudre l'ordre de lancement
 
@@ -103,7 +98,7 @@ Pour **chaque vidéo** du batch, dans l'ordre chronologique, lancer un subagent 
 - Créer ou enrichir les fiches Individus/Organisations mentionnés en appelant `write-entity` par entité
 - Créer ou enrichir les fiches Concepts mobilisés en appelant `write-concept` par concept
 - **Ne jamais toucher aux fiches Enjeux** (dossier `Enjeux/`) — ce sera le rôle du subagent final
-- Ne pas committer, ne pas pusher, ne pas modifier l'Inventaire ni le fichier de suivi — se limiter aux fichiers dans `Videos/`, `Individus/`, `Organisations/`, `Concepts/`
+- Ne pas committer, ne pas pusher, **ne pas créer de branche git**, ne pas modifier l'Inventaire ni le fichier de suivi — se limiter aux fichiers dans `Videos/`, `Individus/`, `Organisations/`, `Concepts/`
 
 **Contenu du briefing à transmettre au subagent :**
 - Chemin du transcript à lire (unique)
@@ -153,7 +148,7 @@ Dans le fichier de suivi (ex. `FEMINISME.md`) : cocher chaque vidéo ingérée (
 
 **Note sur l'Inventaire** : `Sources/Inventaire PaduTeam.md` est une vue DataviewJS dynamique — l'appariement transcript ↔ fiche vidéo se fait automatiquement (via `youtube_id`, wikilink ou nom normalisé). Aucune édition manuelle n'y est nécessaire ; s'assurer seulement que chaque fiche vidéo créée porte bien son `youtube_id` dans le frontmatter (ce qui est déjà la forme par défaut produite par `write-video`).
 
-### Étape 10 — Commit et push
+### Étape 10 — Commit, merge dans develop et suppression de branche
 
 **Un seul commit pour tout le batch :**
 
@@ -173,10 +168,19 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
 ```
 
 1. `git add` fichier par fichier (pas `-A`)
-2. Commit avec le message ci-dessus
-3. `git push -u origin ingest-batch/<slug>`
-
-**Ne pas créer la PR** — l'utilisateur s'en charge manuellement à la fin. S'arrêter après le push et signaler la branche poussée dans le résumé de l'Étape 11.
+2. Commit avec le message ci-dessus sur la branche `ingest-batch/<slug>`
+3. Merger dans `develop` :
+   ```
+   git checkout develop
+   git pull origin develop
+   git merge --no-ff ingest-batch/<slug>
+   git push origin develop
+   ```
+4. Supprimer la branche de travail (locale et distante si elle a été poussée) :
+   ```
+   git branch -d ingest-batch/<slug>
+   git push origin --delete ingest-batch/<slug>  # ignorer l'erreur si non poussée
+   ```
 
 ### Étape 11 — Résumé à l'utilisateur
 
@@ -184,7 +188,7 @@ Présenter :
 - Nombre de vidéos ingérées et cohérence temporelle du batch
 - Enjeux créés/enrichis par le subagent final, avec la rationalité (pourquoi ces enjeux et pas d'autres)
 - Nombre de fiches créées vs enrichies par catégorie
-- Nom de la branche poussée (la PR sera créée manuellement par l'utilisateur)
+- Confirmation que `develop` est à jour et la branche supprimée
 
 ---
 
@@ -194,7 +198,7 @@ Présenter :
 - **Les Enjeux sont consolidés, jamais enrichis incrémentalement.** Un seul appel `write-enjeu` par enjeu, par le subagent final, à partir des fiches vidéo. Si un subagent vidéo tente d'écrire ou enrichir un Enjeu, c'est un bug.
 - **Le subagent final ne lit pas les transcripts.** Sa valeur tient précisément à travailler à la granularité « fiche vidéo » — sinon on recrée le problème de compaction initial.
 - **Ordre chronologique et séquentiel.** Les subagents vidéo sont lancés un par un, dans l'ordre chronologique, pour que l'évolution temporelle soit lisible et que chaque subagent voie les enrichissements précédents. Jamais en parallèle (conflits sur fiches partagées).
-- **Une seule PR.** Même si le batch couvre 10 vidéos, il produit 1 branche, 1 commit, 1 PR. C'est la cohérence thématique qu'on review, pas chaque vidéo isolément.
+- **Un seul commit, merge direct dans develop.** Même si le batch couvre 10 vidéos, il produit 1 branche, 1 commit, 1 merge `--no-ff` dans `develop`. La branche de travail est supprimée après le merge (locale + distante).
 - **Taille du batch.** 2-10 vidéos. Moins de 2, utiliser `ingest-video`. Plus de 10, scinder en sous-batches thématiques dans le fichier de suivi.
 - **Fichier de suivi obligatoire.** Cette skill ne travaille pas à partir d'un sujet libre, d'une liste ad-hoc ou d'un bloc temporel. Si l'utilisateur n'en a pas, lui demander d'en créer un (ou utiliser `ingest-video` pour une seule vidéo).
 - **Ne jamais référencer le « batch » dans les fiches.** Le découpage en batches est un artefact du workflow d'ingestion — les lecteurs des fiches (Concepts, Enjeux, Individus, Organisations, Vidéos) n'ont pas accès à cette information et ne peuvent pas comprendre des formulations comme « batch D », « ce batch », « le corpus batch », « cf. batch F », « apports du batch X ». Reformuler en nommant le sujet réel (« l'arc Rima Hassan », « le corpus Gaza », « les vidéos sur le sionisme de gauche », ou simplement supprimer la référence). Cette règle ne s'applique pas aux fichiers de suivi d'ingestion (ex: `GAZA.md`, `FEMINISME.md`) qui sont explicitement des fichiers de travail.

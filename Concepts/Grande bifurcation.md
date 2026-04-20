@@ -24,4 +24,4 @@ Duménil et Lévy montrent qu'une autre configuration est possible : l'alliance 
 La PaduTeam traduit cette thèse en stratégie électorale concrète : le programme de [[France Insoumise|LFI]] doit proposer aux cadres déclassés (Nicolas, Caroline, Mohamed) des mesures qui parlent à leur situation — 32 heures, propriété du logement principal, contrôle ouvrier — pour les détacher de l'alliance néolibérale et les rallier au [[Salariat generalise]].
 
 ## Vidéos
-- [[Nicolas qui paye]] — Chris cite explicitement Duménil et Lévy et la possibilité de changer l'alliance de classe des cadres
+- [[Nicolas qui paye]] — La PaduTeam cite explicitement Duménil et Lévy et la possibilité de changer l'alliance de classe des cadres

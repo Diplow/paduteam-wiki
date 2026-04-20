@@ -5,7 +5,7 @@ thèmes: [anti-impérialisme, États-Unis, Ukraine]
 aliases: [NATO, Alliance atlantique]
 skill_version: ingest-batch-2026-04-19
 date created: Tuesday, April 14th 2026, 1:18:40 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:55 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis
 

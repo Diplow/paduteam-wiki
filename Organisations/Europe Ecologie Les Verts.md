@@ -24,7 +24,7 @@ Haut milieu — vote de valeurs (écologie), en dehors de la lutte des classes. 
 ## Fin de l'espace écolo (analyse Seigneurs des Noisettes)
 L'écologie n'est pas un positionnement politique autonome, c'est un thème qui peut être traité de droite (écologie de l'extrême droite : Hugo Clément chez le RN, Brigitte Bardot et les animaux) ou de gauche. Un parti écologiste n'a de sens que quand l'écologie n'est pas un sujet politique — une fois que tous les partis de rupture anticapitaliste l'intègrent dans leur programme, l'espace EELV disparaît.
 
-Les Verts ont fait leur prime avec 16% aux européennes grâce à Daniel Cohn-Bendit (Chris : "Dani le rouge... version néolibérale bien conservateur bien anticommuniste, bien tout ce qu'on veut"). Depuis, le parti existe comme artifact de la [[Periode de confusion]]. En 2025, ses bases se séparent déjà entre les deux pinces du Casse-Noisette : ligne Jadot (proche PS) vs ligne plus proche de LFI.
+Les Verts ont fait leur prime avec 16% aux européennes grâce à Daniel Cohn-Bendit (la PaduTeam : "Dani le rouge... version néolibérale bien conservateur bien anticommuniste, bien tout ce qu'on veut"). Depuis, le parti existe comme artifact de la [[Periode de confusion]]. En 2025, ses bases se séparent déjà entre les deux pinces du Casse-Noisette : ligne Jadot (proche PS) vs ligne plus proche de LFI.
 
 ## Effondrement municipal 2026
 Les Verts perdent Bordeaux, Strasbourg ([[Jeanne Barseghian]] + LFI battue par [[Catherine Trautmann]] PS+Horizon), Poitiers ([[Leonore Moncond'huy]] + LFI battue par divers-centre). Gardent Lyon de justesse ([[Laurence Ruffin]]). Tondelier convoque une réunion de crise dès le lendemain du 2e tour.
@@ -37,7 +37,7 @@ PaduTeam : "Vous ne connaissez ni votre électorat, ni les rapports de force, vo
 EELV défend une [[Ecologie punitive]] qui n'interroge pas le mode de production capitaliste : bonus voitures électriques, ZFE, incitations marchandes. Pire : les Verts ont voté des crédits de guerre massifs tout en prônant l'écologie. Pour la PaduTeam, cette contradiction révèle une "petite classe bourgeoise violente, antipopulaire." Leur logique de pénurie volontaire ("il faut moins produire") est à l'opposé d'une écologie marxiste qui vise à planifier la production pour répondre aux besoins.
 
 ## Doublons doublons doublons : la noisette bio cherche ses alliés
-Tondelier sur France Inter en 2025 : elle lance des appels solennels à Mélenchon et Glucksmann ("les absents auront tort") qui ne viennent pas. Chris prédit : elle finira seule à 3-4%, l'appareil de parti a besoin de la candidature pour survivre financièrement (remboursements de campagne), même sans espoir de victoire.
+Tondelier sur France Inter en 2025 : elle lance des appels solennels à Mélenchon et Glucksmann ("les absents auront tort") qui ne viennent pas. La PaduTeam prédit : elle finira seule à 3-4%, l'appareil de parti a besoin de la candidature pour survivre financièrement (remboursements de campagne), même sans espoir de victoire.
 
 ## Vidéos où l'organisation est analysée
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS

@@ -1,12 +1,12 @@
 ---
 type: enjeu
 domaine: [géopolitique]
-thèmes: [Palestine, anti-impérialisme, États-Unis]
+thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
-skill_version: write-enjeu-2026-04-19
+date modified: Monday, April 20th 2026, 1:27:59 pm
+skill_version: ingest-batch-2026-04-13
 ---
-#domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #thème/États-Unis
+#domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 # Palestine libre
 
 ## Position PaduTeam
@@ -46,9 +46,9 @@ La question palestinienne est centrale pour toute gauche digne de ce nom. La Pal
 
 Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 
-- **[2024]** Bascule terminologique « nettoyage ethnique » → « génocide » ([[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]], format solo).
+- **[2024]** Bascule terminologique « nettoyage ethnique » → « génocide » ([[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]]).
 - **[2024]** Critique du platformage médiatique : TF1/LCI reçoivent Netanyahu en prime time ([[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]]) — l'analogie Normandie-Rafah comme obscénité historique.
-- **[2025]** Cadrage médical-éthique PaduTeam sur le ciblage systématique des soignants ([[GAZA LES SIONISTES TUENT DES MEDECINS]]), instrumentalisation de l'antisémitisme comme arme répressive contre les médecins pro-Palestine au Conseil de l'Ordre.
+- **[2025]** Cadrage médical-éthique : Dr Zoé sur le ciblage systématique des soignants ([[GAZA LES SIONISTES TUENT DES MEDECINS]]), instrumentalisation de l'antisémitisme comme arme répressive contre les médecins pro-Palestine au Conseil de l'Ordre.
 - **[2025]** Critique de la reconnaissance tardive Macron/Hidalgo ([[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]) — reconnaître l'État quand il est détruit, sans sanctions contre Netanyahu = théâtre bourgeois. Figure de la [[Recuperation posthume]].
 - **[octobre 2025]** Bilan 2 ans après le 7 octobre ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) — théorisation du continuum colonial 80 ans, refus de la narration qui commence le 7-10, appel à la dignité générationnelle, libération d'Abdallah comme preuve que la lutte paie.
 - **[janvier 2026]** Illusion du cessez-le-feu ([[GAZA L'ILLUSION DU CESSEZ-LE-FEU]], avec Paul Elek) — le cessez-le-feu comme houdna temporaire pendant que le front colonial continue, opération « Muraille de Fer » en Cisjordanie, accord Trump-Blair comme colonisation par intermédiaire.
@@ -63,9 +63,9 @@ Le sionisme de gauche enrichit cet enjeu d'une dimension spécifique : **le sion
 - [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne.
 - [[Bernard-Henri Levy|BHL]] (Beyrouth, octobre 2024) : qualifie le bombardement de Beyrouth de "libération" — le sionisme de gauche atlantiste soutient aussi l'extension de la guerre au Liban.
 - [[Chloé Ridel]] sur [[Backseat]] : retourne sa veste en 2025, prétend avoir "toujours dénoncé le génocide". Deux ans plus tôt, des sionistes passaient sans contradiction sur le même plateau pour établir le storytelling Hamas=terrorisme.
-- Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. Formulation PaduTeam : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
+- Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. La PaduTeam : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
 
-L'argument structurant : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. Formulation PaduTeam : "Le RN est moins sioniste que le Parti socialiste en France."
+L'argument structurant : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. La PaduTeam : "Le RN est moins sioniste que le Parti socialiste en France."
 
 ## Vidéos clés
 
@@ -96,44 +96,6 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 - [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — Rapport ONU sur les viols des femmes palestiniennes en détention israélienne, ignoré par Bergé
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
-
-## Mamdani, Rubio et le contrat racial impérial (corpus USA 2025-2026)
-
-Le corpus USA renforce la centralité palestinienne comme test de cohérence sur deux fronts articulés : d'un côté, la **validation internationale** du pro-palestinisme de gauche comme position électorale victorieuse avec [[Zohran Mamdani]] ; de l'autre, le **dévoilement** du contrat racial impérial pro-Israël dans le discours Rubio Munich.
-
-### Mamdani pro-Palestine avant le 7 octobre — étiquette « islamiste » comme arme répressive
-
-[[Zohran Mamdani]] est chiite, racisé, fils d'une réalisatrice et de l'anthropologue Mahmood Mamdani. Étudiant, il avait fondé des **collectifs militants pro-Palestine avant le 7 octobre**. Élu maire de NYC en nov 2025 (50% au 1ᵉʳ tour contre Cuomo soutenu par Trump), sa campagne a tenu la ligne pro-palestinienne sous pression : en fin de campagne, sous la pression du « pays le plus soutien d'Israël », il a « donné un peu de lest » sur le discours mais **n'est pas revenu sur ses propositions** (fermeture des bases militaires à l'étranger, fin de l'impérialisme US)[^mamdani_palestine].
-
-La droite et l'extrême droite ont joué l'islamophobie à fond. Rudy Giuliani qualifie Mamdani de **« croisement d'un extrémiste islamiste et d'un communiste »** — la PaduTeam explique le registre : « dans la bouche d'un républicain états-unien, *communiste* c'est à peu près aussi infamant que te traiter de Ben Laden. Les deux sont sur le même plan ».
-
-**Réception en France** : même registre, mêmes acteurs. [[Marion Marechal]] : « 24 ans après le 11 septembre, il vient d'être élu maire de New York avec le programme de ruine économique que celui de la France Insoumise. La métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». Céline Pina : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra » — avec visuel World Trade Center 2001 / Mamdani 2025 et slogan « we forgot ». Commentaire PaduTeam : « elle veut se présenter au championnat du monde du racisme »[^mamdani_islamisme].
-
-Pointe factuelle : les musulmans représentent **moins de 3% de la population new-yorkaise**, proportion inférieure à la France. L'étiquette « islamiste » n'a aucun lien avec une réalité démographique — c'est **un dispositif de criminalisation politique** importé transatlantiquement, visant à disqualifier tout soutien à la Palestine comme « pro-Hamas », exactement ce que la [[Repression des pro-Palestine|répression française des pro-Palestine]] a déjà documenté. Le titre même de la vidéo PaduTeam — « NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME » — est une ironie retournée contre ce dispositif.
-
-### Rubio assume la blanchité + foi chrétienne avec Netanyahu
-
-Le discours de [[Marco Rubio]] à Munich (14 fév 2026) articule explicitement la grammaire coloniale américaine à l'alliance avec Israël. Rubio invoque la « foi chrétienne » comme ciment transatlantique — la PaduTeam démonte : **« c'est n'importe quoi parce que tout ce qu'il dit, il pourrait le dire avec Israël mais il n'y a pas la foi chrétienne. Donc c'est juste la blanchité, un projet impérialiste »**[^rubio_israel]. L'identité du « nous » rubiesque n'est pas religieuse — elle est **raciale-impériale**. La foi chrétienne est un faux-nez ; le vrai lien est la blanchité comme contrat colonial, étendu à Israël comme pointe avancée du [[Colonialisme de peuplement]].
-
-Articulation concrète avec Gaza :
-- Trump avait proposé une **« Côte d'Azur » touristique à Gaza** comme nettoyage ethnique déclaré (cf. plan Trump-Blair)
-- Rubio revendique publiquement le **« leadership américain » à Gaza** et l'extraterritorialité de la justice US sur les dirigeants ennemis (Maduro « fugitif » dans son propre pays)
-- Les « hommes qui ont colonisé la nation où je suis né sont arrivés sur nos rivages en emportant la foi chrétienne de leur ancêtre comme un héritage sacré » — commentaire PaduTeam : « à part les Israéliens et les Américains, il y a personne qui a cette vision de se dire "je suis un colon" »
-
-**Les deux seuls peuples contemporains** où la conscience coloniale reste revendiquée en positif sont les Américains et les Israéliens — articulation théorique directe qui renforce la [[Centralite de la question palestinienne]] comme miroir grossissant du colonialisme mondial. Le [[Contrat racial]] de [[Charles Mills]] fournit l'ossature théorique : le « nous » occidental est un contrat racial, pas un contrat universaliste.
-
-### Le DSA formule « fin de l'impérialisme » dans son programme
-
-Le programme DSA que porte Mamdani inclut explicitement **« fin de l'impérialisme américain, fermeture des bases militaires à l'étranger »**. La PaduTeam qualifie cette mesure de « truc assez dingo » — reconnaissance implicite qu'**une gauche américaine radicale va plus loin sur l'anti-impérialisme que la gauche française radicale**. Pour le vault Palestine libre, c'est un point d'appui international : la position palestinienne n'est pas une position « exotique française », elle est formulée au centre même de l'empire comme rupture de programme. La défense de la Palestine et la critique de l'impérialisme US sont **inscrites dans le même geste programmatique** par Mamdani et la DSA.
-
-[^mamdani_palestine]: [14:30](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=870) — « Quand il était étudiant, Mamdani avait créé des collectifs étudiants militants pour la Palestine — déjà il y a longtemps, avant le 7 octobre ». [28:57](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1737) — « il s'est pas tant droitisé que ça [...] Surtout ce qu'il n'a pas fait, c'est qu'il n'a pas commencé à revenir sur ses propositions ».
-[^mamdani_islamisme]: [24:46](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1486) — Marion Maréchal citée : « il vient d'être élu maire de New York avec le programme de ruine économique [...] la métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». [15:33](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=933) — « À New York c'est moins de 3% des New-Yorkais qui se déclarent de confession musulmane [...] cette peur de l'islamisme [...] est encore plus ridicule là-bas qu'en France ».
-[^rubio_israel]: [26:47](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1607) — « c'est n'importe quoi parce que tout ce qu'il dit, il pourrait le dire avec Israël mais il y a pas la foi chrétienne. C'est juste la blanchité, un projet impérialiste ».
-
-## Vidéos clés (suite — corpus USA)
-- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Mamdani pro-Palestine avant le 7 octobre ; réception islamophobe transatlantique (Giuliani → Maréchal, Pina) ; moins de 3% de musulmans à NYC
-- [[MAMDANI A GAUCHE DE MELENCHON]] — Programme DSA inclut « fin de l'impérialisme + fermeture des bases militaires » ; Ruffin « imposteur » parce qu'a fait foot sur les manifs contre l'islamophobie
-- [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Blanchité + foi chrétienne comme contrat racial impérial pro-Israël ; USA et Israël comme seuls peuples revendiquant la conscience coloniale
 
 ## La bataille médiatique des clashs pro-Palestine
 

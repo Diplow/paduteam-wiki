@@ -24,19 +24,18 @@ Elle n'expose pas l'intimité de Fugu. Elle ne publie pas ses messages. Elle ne 
 
 La vidéo de réponse de Fugu — 50 minutes, 3 millions de vues — expose ses vocaux sur sa santé mentale, ses conversations avec ses proches, organise son isolement social. Le public gaming s'est massivement retourné contre elle.
 
-Padu et Zoé : la PaduTeam "apporte son soutien plein et entier à Helydia" et "fait le choix de croire les victimes en acte militant et politique." Chris : "Notre tâche à nous, c'est pas simplement d'être autodéclaratifs. C'est faire en sorte qu'elle soit mise en situation d'être crue."
+La PaduTeam "apporte son soutien plein et entier à Helydia" et "fait le choix de croire les victimes en acte militant et politique" : "Notre tâche à nous, c'est pas simplement d'être autodéclaratifs. C'est faire en sorte qu'elle soit mise en situation d'être crue."
 
 ## Dans l'analyse PaduTeam
 
-Helydia n'est pas seulement "une victime" — elle est quelqu'un qui a pris le risque de parler dans un contexte extrêmement défavorable. Padu note la difficulté particulière : milieu gaming = audience jeune et masculine, carrière en jeu, agresseur avec sa propre audience importante.
+Helydia n'est pas seulement "une victime" — elle est quelqu'un qui a pris le risque de parler dans un contexte extrêmement défavorable. La PaduTeam note la difficulté particulière : milieu gaming = audience jeune et masculine, carrière en jeu, agresseur avec sa propre audience importante.
 
 Ce qui arrive à Helydia après son témoignage (mass targeting par le public de Fugu) illustre pourquoi la plupart des victimes ne parlent pas : parler peut aggraver la situation.
 
 ## Relations
 
 - [[Fugu]] — ex-compagnon, accusé de violences conjugales
-- [[Dr Zoe]] — défend et analyse son cas
-- [[Chris]] — co-analyse
+- [[La Breche]] — défend et analyse son cas
 
 ## Vidéos
 

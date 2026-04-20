@@ -16,7 +16,7 @@ Projet de primaire de la gauche porté par [[Marine Tondelier]] ([[Europe Ecolog
 Sans [[France Insoumise]] et sans [[Parti Socialiste]] (pris par sa crise interne entre [[Olivier Faure]], [[Boris Vallaud]] et [[Nicolas Mayer-Rossignol]]), la primaire revient à "élire le président du groupe écologiste à l'Assemblée nationale". N'a pas la masse critique pour prétendre désigner le candidat de la gauche.
 
 ## Version Ruffin 2027
-Dans la version 2027 de la primaire noisette (prédite par le graphique), [[Francois Ruffin]] organise une primaire avec [[L'Apres]], [[Generation.s]] et autres petits partis. Candidats attendus : [[Clémentine Autain]], Ruffin, [[Alexis Corbière]], [[Lucy Castets]]. Chris : "Oh la primaire des enfers." Ruffin la gagnera, mais ne fera que 6% à la présidentielle — pas d'espace entre le bloc Mélenchon et le bloc Glucksmann-PS.
+Dans la version 2027 de la primaire noisette (prédite par le graphique), [[Francois Ruffin]] organise une primaire avec [[L'Apres]], [[Generation.s]] et autres petits partis. Candidats attendus : [[Clémentine Autain]], Ruffin, [[Alexis Corbière]], [[Lucy Castets]]. La PaduTeam : "Oh la primaire des enfers." Ruffin la gagnera, mais ne fera que 6% à la présidentielle — pas d'espace entre le bloc Mélenchon et le bloc Glucksmann-PS.
 
 ## Analyse 2025 (Seigneurs des Noisettes)
 En 2025, [[Marine Tondelier]] est la principale promotrice de la primaire, poussant même à y inclure [[Raphael Glucksmann]] ("peu importe si c'est Glucksmann ou Mélenchon, je me range derrière"). La PaduTeam y voit une stratégie purement personnelle : Tondelier a besoin de la primaire pour exister au-delà des 2-3% d'EELV. Elle fait des "petits arrangements" avec [[Olivier Faure]] (abstention au budget sécu) pour que la primaire se tienne.
@@ -33,7 +33,7 @@ Pour la PaduTeam c'est le "lancement officieux de la primaire des noisettes" —
 
 ## Mort de la primaire post-municipales 2026
 
-Les résultats des municipales confirment que la primaire des noisettes est morte. Tondelier convoque une réunion de crise le lendemain du second tour après la perte de Bordeaux, Strasbourg et Poitiers. Padu : "Là tout dit le contraire d'aller à la primaire." L'argument de la primaire était de maximiser les voix de gauche — les municipales montrent que les Verts ont un électorat bourgeois qui ne veut pas de la gauche de rupture. La primaire des noisettes ne peut pas rassembler quelque chose qui n'existe pas.
+Les résultats des municipales confirment que la primaire des noisettes est morte. Tondelier convoque une réunion de crise le lendemain du second tour après la perte de Bordeaux, Strasbourg et Poitiers. La PaduTeam : "Là tout dit le contraire d'aller à la primaire." L'argument de la primaire était de maximiser les voix de gauche — les municipales montrent que les Verts ont un électorat bourgeois qui ne veut pas de la gauche de rupture. La primaire des noisettes ne peut pas rassembler quelque chose qui n'existe pas.
 
 ## Annonce officielle de novembre 2025
 

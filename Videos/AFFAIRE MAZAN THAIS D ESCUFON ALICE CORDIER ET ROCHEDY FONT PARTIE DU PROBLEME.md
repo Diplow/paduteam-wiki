@@ -17,7 +17,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Deuxième capsule sur Mazan, toujours avec [[Dr Zoe|Zoé]], consacrée au retournement d'extrême droite : [[Alice Cordier]], [[Thais d'Escufon|Thaïs d'Escufon]] et Julien Rochedy instrumentalisent l'affaire pour en faire une histoire d'immigration et d'antiracisme, évitant soigneusement le fond (viol conjugal, soumission chimique, culture du viol). Démontage systématique de la narrative, avec la formulation centrale : l'extrême droite ne veut pas un monde sans violence sexuelle.
+Deuxième capsule sur Mazan, consacrée au retournement d'extrême droite : [[Alice Cordier]], [[Thais d'Escufon|Thaïs d'Escufon]] et Julien Rochedy instrumentalisent l'affaire pour en faire une histoire d'immigration et d'antiracisme, évitant soigneusement le fond (viol conjugal, soumission chimique, culture du viol). Démontage systématique de la narrative, avec la formulation centrale : l'extrême droite ne veut pas un monde sans violence sexuelle.
 
 ## Thèses et analyses clés
 
@@ -25,7 +25,7 @@ Deuxième capsule sur Mazan, toujours avec [[Dr Zoe|Zoé]], consacrée au retour
 
 2. **La vraie phrase de Pelicot**[^2] : Dominique Pelicot a dit qu'il était "excité par le contraste" — ce n'est pas de l'antiracisme, c'est du fétichisme racial, fondé sur des stéréotypes coloniaux (l'homme noir comme "bestialité sexuelle"). Ce que l'extrême droite présente comme preuve d'antiracisme est en réalité profondément raciste.
 
-3. **Le texte de Thaïs sur le viol conjugal**[^3] : "après son invention le concept de viol conjugal a été travestit par certaines femmes fourbes pour ne plus avoir à entretenir une intimité avec leur mari." Zoé : elle assume ce que l'idéologie masculine sous-entend normalement — que la femme doit au mari une intimité. C'est la normalisation de la contrainte sexuelle dans le couple.
+3. **Le texte de Thaïs sur le viol conjugal**[^3] : "après son invention le concept de viol conjugal a été travestit par certaines femmes fourbes pour ne plus avoir à entretenir une intimité avec leur mari." La PaduTeam souligne qu'elle assume ce que l'idéologie masculine sous-entend normalement — que la femme doit au mari une intimité. C'est la normalisation de la contrainte sexuelle dans le couple.
 
 4. **Alice Cordier, création médiatique**[^4] : son accusation de "discrétion féministe" est malhonnête — les féministes font des happenings pendant le procès, l'association Mémoire traumatique lutte contre la soumission chimique depuis des années. Cordier doit son existence à BFM TV et à Marlène Chapaz qui l'invitent pour se placer comme "plus progressiste qu'Alice Cordier".
 

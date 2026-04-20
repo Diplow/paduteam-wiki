@@ -15,7 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 
 La logique pénuriste est le cadre idéologique dominant qui présente la rareté des ressources comme une donnée naturelle et inévitable, justifiant des choix de répartition qui désavantagent systématiquement les classes populaires. "Il n'y en a pas assez pour tout le monde, il faut choisir."
 
-Pour la PaduTeam (Chris), c'est l'opposé du [[Choc d abondance|choc d'abondance]] : l'abondance existe, elle est captée par les plus riches. La pénurie perçue est construite par les choix politiques de classe, pas par une limite physique des ressources.
+Pour la PaduTeam, c'est l'opposé du [[Choc d abondance|choc d'abondance]] : l'abondance existe, elle est captée par les plus riches. La pénurie perçue est construite par les choix politiques de classe, pas par une limite physique des ressources.
 
 ## Fonction politique
 

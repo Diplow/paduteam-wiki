@@ -16,7 +16,7 @@ Ligne stratégique consistant à atténuer la radicalité du programme, à évit
 ## Mécanisme
 La théorie implicite : si on est "trop clivant" à cause de [[Jean-Luc Melenchon]] ou de certaines positions radicales, on perd des électeurs modérés. Il faut donc se démarquer de la ligne LFI sur la forme (ton moins "agressif") tout en gardant un programme similaire.
 
-**Pourquoi ça ne marche pas** (analyse [[Dr Zoe|Zoé]], [[Stathis Kouvelakis]]) :
+**Pourquoi ça ne marche pas** (analyse PaduTeam, [[Stathis Kouvelakis]]) :
 
 1. **Les médias bourgeois ne sont pas neutres** : ils sont "au service de la bourgeoisie" et ne trouveront jamais un dirigeant de gauche prêt à prendre le pouvoir respectable. "Si on est bien reçu dans les médias, il faut se poser la question si c'est bon signe en fait."
 
@@ -35,4 +35,4 @@ La PaduTeam défend une "conflictualité claire" assumée : accepter que le pouv
 - Ruffin : absence à la manifestation contre l'islamophobie, pas de prise de position sur le meurtre de Naël
 
 ## Vidéos où le concept est développé
-- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation centrale par Zoé et Stathis Kouvelakis
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation centrale par la PaduTeam et Stathis Kouvelakis

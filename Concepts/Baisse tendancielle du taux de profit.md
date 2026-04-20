@@ -4,7 +4,7 @@ domaine: [économie, théorie]
 thèmes: [travail]
 aliases: [baisse tendancielle du taux de profit, BTTP]
 date created: Wednesday, April 1st 2026, 7:18:17 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
 #domaine/économie #domaine/théorie #thème/travail
 # Baisse tendancielle du taux de profit

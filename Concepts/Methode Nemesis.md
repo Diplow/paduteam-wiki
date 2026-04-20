@@ -41,7 +41,7 @@ Des conversations internes entre Némésis (responsable lyonnaise "Ornela") et l
 - Exposer la méthode publiquement, pas se laisser piéger
 - Services d'ordre de gauche formés : exfiltrer proprement, sans violence, sans leur donner le clip dont elles ont besoin
 - "Ne les violentez pas — c'est ce qu'elles cherchent. Moquez-les."
-- Former les militants aux gestes d'urgence médicaux (Zoé : "quand on voit quelqu'un de blessé, on sait réagir")
+- Former les militants aux gestes d'urgence médicaux (la PaduTeam : "quand on voit quelqu'un de blessé, on sait réagir")
 
 ## Vidéos où le concept est développé
 

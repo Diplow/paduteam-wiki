@@ -20,7 +20,7 @@ Approche économique (Modern Monetary Theory, MMT) selon laquelle un État souve
 - Permet d'augmenter les salaires, financer la protection sociale et les nationalisations sans passer par des taxes ni par les marchés
 
 ## Limites et nuances
-La PaduTeam (Chris) évoque la MMT comme piste à développer, pas comme solution définitive. Reste à articuler avec la question du commerce international et de la sortie du dollar. Question de la cotisation vs taxe pour financer les augmentations de salaires des travailleurs du social.
+La PaduTeam évoque la MMT comme piste à développer, pas comme solution définitive. Reste à articuler avec la question du commerce international et de la sortie du dollar. Question de la cotisation vs taxe pour financer les augmentations de salaires des travailleurs du social.
 
 ## Liens avec la question monétaire internationale
 Sortir du dollar comme monnaie d'échange internationale = levier "de fou" pour les communistes. Permet de couper le mécanisme de pression des marchés financiers sur les politiques néolibérales. En articulation avec [[Primat du politique sur l'economique]].
@@ -29,4 +29,4 @@ Sortir du dollar comme monnaie d'échange internationale = levier "de fou" pour 
 [[Primat du politique sur l'economique]], [[Grande bifurcation]], [[Vassalisation de la France]]
 
 ## Vidéos où le concept est développé
-- [[BARDELLA S'APLATIT DEVANT TRUMP]] — évoquée par Chris comme voie du "communisme du 21e siècle"
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — évoquée comme voie du "communisme du 21e siècle"

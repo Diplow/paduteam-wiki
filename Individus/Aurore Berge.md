@@ -28,7 +28,7 @@ Analyse PaduTeam : elle croit créer une stratégie, mais les électeurs RN ont 
 ## L'accusation d'antisémitisme
 "Le nouvel antisémitisme en France s'écrit en trois lettres : L F I." Elle accuse Mélenchon de dog whistle antisémite pour sa prononciation "Epstein" (prononciation allemande standard : stein = suffixe germanique). Emploie le terme "antifrance" pour qualifier LFI — terme historiquement chargé : c'est le vocabulaire de l'[[Action Francaise]] et [[Charles Maurras]] pour désigner les ennemis de la "vraie France" (Juifs, métèques, protestants, francs-maçons).
 
-Padu : "De quel vagin es-tu sortie, Aurore Bergé ?" — établissant la généalogie Maurras → Bergé.
+La PaduTeam : "De quel vagin es-tu sortie, Aurore Bergé ?" — établissant la généalogie Maurras → Bergé.
 
 ## Demande de démantèlement d'Amnesty International
 Sur le plateau d'[[I24]], a demandé le démantèlement d'[[Amnesty International]] après son rapport qualifiant Israël d'apartheid. Défend "les valeurs d'Israël" en 2025 pendant le génocide à Gaza.
@@ -47,13 +47,13 @@ Entourée de courtisans qui lui disent "Aurore, c'est toi qui peut réconcilier 
 
 ## "Mélenchon est le nouveau Jean-Marie Le Pen" (mars 2026)
 
-Quelques jours avant la condamnation de [[Marine Le Pen]], Bergé déclare que "Jean-Luc Mélenchon est le nouveau [[Jean-Marie Le Pen]]". Chris reprend cette déclaration pour démontrer la logique du [[Lawfare]] qui guette [[Jean-Luc Melenchon]] : si Le Pen est interdite et que Mélenchon est désigné comme le "vrai" ennemi de la République, il devient la prochaine cible naturelle d'une condamnation politique. D'autant qu'une plainte pour détournement de fonds vient d'être déposée contre Mélenchon.
+Quelques jours avant la condamnation de [[Marine Le Pen]], Bergé déclare que "Jean-Luc Mélenchon est le nouveau [[Jean-Marie Le Pen]]". La PaduTeam reprend cette déclaration pour démontrer la logique du [[Lawfare]] qui guette [[Jean-Luc Melenchon]] : si Le Pen est interdite et que Mélenchon est désigné comme le "vrai" ennemi de la République, il devient la prochaine cible naturelle d'une condamnation politique. D'autant qu'une plainte pour détournement de fonds vient d'être déposée contre Mélenchon.
 
 ## Le féminisme sélectif sur la Palestine
 
 Bergé a martelé sur tous les plateaux que "si vous êtes vraiment féministe, forcément vous devez condamner" les viols du 7 octobre — au nom du féminisme universel et non-géométrique. Elle a menacé de couper les subventions aux féministes qui ne s'étaient "pas assez émues" des victimes israéliennes.
 
-Résultat : quand l'ONU publie un rapport documentant des viols de femmes palestiniennes en détention par les forces israéliennes (détention arbitraire, violences sexuelles multiples, femmes gardées en cage sous la pluie, soldats photographiés avec des sous-vêtements volés), Bergé est silencieuse. Padu : "on aimerait bien savoir pourquoi quand c'est des soldats franco-israéliens [...] qui font des exactions, là on entend plus trop parler[^berge1]."
+Résultat : quand l'ONU publie un rapport documentant des viols de femmes palestiniennes en détention par les forces israéliennes (détention arbitraire, violences sexuelles multiples, femmes gardées en cage sous la pluie, soldats photographiés avec des sous-vêtements volés), Bergé est silencieuse. La PaduTeam : "on aimerait bien savoir pourquoi quand c'est des soldats franco-israéliens [...] qui font des exactions, là on entend plus trop parler[^berge1]."
 
 Le double mesure est systémique : l'universalisme féministe s'applique aux victimes israéliennes, pas aux palestiniennes. Un soldat franco-israélien qui se photographie avec une arme et des sous-vêtements de femmes palestiniennes dans une maison dévastée "sera accueilli en héros à son retour en France" — pendant qu'on menace d'expulsion en 12h un imam pour des propos tronqués.
 

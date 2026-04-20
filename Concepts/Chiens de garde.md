@@ -25,7 +25,7 @@ Cas d'école analysé lors du 10 septembre 2024. L'émission a platéformé troi
 - Samir, chauffeur VTC (racisé + petit-bourgeois → "structures mentales qui échangent")
 - Loïc, expert-comptable, porte-parole de [[C'est Nicolas qui paye]]
 
-Tous trois identifiés instantanément par leur position dans le [[Graphique]]. Padu : "la sociologie est une science exacte, plus dure que les mathématiques."
+Tous trois identifiés instantanément par leur position dans le [[Graphique]]. La PaduTeam : "la sociologie est une science exacte, plus dure que les mathématiques."
 
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — démonstration live, lecture de Marx sur le socialisme petit-bourgeois

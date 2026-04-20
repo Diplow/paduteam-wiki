@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 # 10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE !
 
 ## Résumé
-Réaction aux extraits des Grandes Gueules (RMC) du lendemain du 10 septembre, journée de blocages et de grèves contre le budget Macron. Padu et Chris décortiquent en direct les appelants — artisans, VTC, expert-comptable — et démontrent que la sociologie de l'antenne confirme le [[Graphique]] : les Grandes Gueules sélectionnent des [[Petite bourgeoisie|petits-bourgeois]] pour jouer les chiens de garde de la bourgeoisie contre un mouvement populaire massif.
+Réaction aux extraits des Grandes Gueules (RMC) du lendemain du 10 septembre, journée de blocages et de grèves contre le budget Macron. La PaduTeam décortique en direct les appelants — artisans, VTC, expert-comptable — et démontre que la sociologie de l'antenne confirme le [[Graphique]] : les Grandes Gueules sélectionnent des [[Petite bourgeoisie|petits-bourgeois]] pour jouer les chiens de garde de la bourgeoisie contre un mouvement populaire massif.
 
 ## Thèses et analyses clés
 
@@ -21,7 +21,7 @@ Réaction aux extraits des Grandes Gueules (RMC) du lendemain du 10 septembre, j
 
 2. **Le [[Graphique]] comme science exacte** — lecture instantanée du profil des appelants à partir de leur doudoune sans manche, leur discours, leur métier. "La sociologie est une science exacte, plus dure que les mathématiques." Artisan menuisier, chauffeur VTC, expert-comptable : chacun tombe exactement à l'endroit prédit dans le graphique.
 
-3. **Le [[Socialisme petit-bourgeois]]** — Padu lit un passage du Manifeste communiste sur le "socialisme petit-bourgeois" : "rien ne va mais faut toucher à rien." La petite bourgeoisie perçoit les contradictions du capitalisme mais déteste toute révolution parce qu'elle a encore quelque chose à perdre dans les deux cas (bourgeoisie dominante ou prise du pouvoir par le prolétariat).
+3. **Le [[Socialisme petit-bourgeois]]** — La PaduTeam lit un passage du Manifeste communiste sur le "socialisme petit-bourgeois" : "rien ne va mais faut toucher à rien." La petite bourgeoisie perçoit les contradictions du capitalisme mais déteste toute révolution parce qu'elle a encore quelque chose à perdre dans les deux cas (bourgeoisie dominante ou prise du pouvoir par le prolétariat).
 
 4. **Le chauffeur VTC racisé et petit-bourgeois** — cas de Samir : "à la fois racisé et petit-bourgeois, tu as des intérêts matériels de petit bourgeois, tu aurais envie de voter à droite, mais les mecs de droite te pointent comme étant le problème." Pas de déboucher politique pour cette position contradictoire — haut-gauche et bas-droite sont les deux espaces de dynamique et de contradiction.
 

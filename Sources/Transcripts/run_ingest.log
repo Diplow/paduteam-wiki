@@ -1,0 +1,77 @@
+[2026-04-20 16:06:14] ============================================================
+[2026-04-20 16:06:14] INGESTION CHRONOLOGIQUE PADUTEAM
+[2026-04-20 16:06:14] ============================================================
+[2026-04-20 16:06:14] Batches total    : 40
+[2026-04-20 16:06:14] Déjà traités     : 0
+[2026-04-20 16:06:14] À traiter        : 1
+[2026-04-20 16:06:14] 
+============================================================
+[2026-04-20 16:06:14] [1/1] Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
+[2026-04-20 16:06:14]   Slug : ingest-batch/paduteam-2024-w43-w44
+[2026-04-20 16:06:14] ============================================================
+[2026-04-20 16:06:14] Lancement : claude --dangerouslySkipPermissions -p "..."
+[2026-04-20 16:06:14]   stderr: error: unknown option '--dangerouslySkipPermissions'
+[2026-04-20 16:06:14] ÉCHEC (code 1) — batch 01
+[2026-04-20 16:06:14] Échec (non rate-limit) sur batch 01 — passage au suivant.
+[2026-04-20 16:06:14] 
+============================================================
+[2026-04-20 16:06:14] TERMINÉ
+[2026-04-20 16:06:14]   Succès : 0
+[2026-04-20 16:06:14]   Échecs : 1
+[2026-04-20 16:06:14] ============================================================
+[2026-04-20 16:08:30] ============================================================
+[2026-04-20 16:08:30] INGESTION CHRONOLOGIQUE PADUTEAM
+[2026-04-20 16:08:30] ============================================================
+[2026-04-20 16:08:30] Batches total    : 40
+[2026-04-20 16:08:30] Déjà traités     : 0
+[2026-04-20 16:08:30] À traiter        : 1
+[2026-04-20 16:08:30] 
+============================================================
+[2026-04-20 16:08:30] [1/1] Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
+[2026-04-20 16:08:30]   Slug : ingest-batch/paduteam-2024-w43-w44
+[2026-04-20 16:08:30] ============================================================
+[2026-04-20 16:08:30] Lancement : claude --dangerouslySkipPermissions -p "..."
+[2026-04-20 16:08:30]   stderr: error: unknown option '--dangerouslySkipPermissions'
+[2026-04-20 16:08:30] ÉCHEC (code 1) — batch 01
+[2026-04-20 16:08:30] Échec (non rate-limit) sur batch 01 — passage au suivant.
+[2026-04-20 16:08:30] 
+============================================================
+[2026-04-20 16:08:30] TERMINÉ
+[2026-04-20 16:08:30]   Succès : 0
+[2026-04-20 16:08:30]   Échecs : 1
+[2026-04-20 16:08:30] ============================================================
+[2026-04-20 16:10:18] ============================================================
+[2026-04-20 16:10:18] INGESTION CHRONOLOGIQUE PADUTEAM
+[2026-04-20 16:10:18] ============================================================
+[2026-04-20 16:10:18] Batches total    : 40
+[2026-04-20 16:10:18] Déjà traités     : 0
+[2026-04-20 16:10:18] À traiter        : 1
+[2026-04-20 16:10:18] 
+============================================================
+[2026-04-20 16:10:18] [1/1] Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
+[2026-04-20 16:10:18]   Slug : ingest-batch/paduteam-2024-w43-w44
+[2026-04-20 16:10:18] ============================================================
+[2026-04-20 16:10:18] Lancement : claude --dangerously-skip-permissions -p "..."
+[2026-04-20 16:47:49]   stdout: **Batch 01 ingéré et poussé.** Voici le résumé :
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: ---
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: **Branche poussée** : `ingest-batch/paduteam-2024-w43-w44` → PR à créer vers `theme/paduteam-chronologique`
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: **3 vidéos ingérées (oct–nov 2024) :**
+[2026-04-20 16:47:49]   stdout: 1. **PNJ de droite / Hongrie** — masculinisme, insécurité fantasmée, fuite identitaire vers Orbán
+[2026-04-20 16:47:49]   stdout: 2. **Droitarde clashe Padu & Dr Zoé** — féminisme raciste (Némésis) vs féminisme matérialiste, VSS et biais de classe
+[2026-04-20 16:47:49]   stdout: 3. **La Brèche / Légalisation + Kerbrat** — prohibition = guerre de classe, nationalisation des psychotropes (avec Zoé Dubus), critique de LFI
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: **Fiches créées : 19** (2 vidéos, 7 individus dont Andy Kerbrat, 7 concepts dont *Continuum des VSS*, *Prohibition comme guerre de classe*, *Nationalisation des psychotropes*)
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: **Fiches enrichies : 12** (dont 3 enjeux : *Antiféminisme identitaire*, *VSS comme fait social*, *Féminisme matérialiste*)
+[2026-04-20 16:47:49]   stdout: 
+[2026-04-20 16:47:49]   stdout: **Note système** : un subagent a créé une branche parasite (`ingest/pnj-droite-quitte-france-misere-sexuelle`) malgré l'interdiction explicite — à surveiller pour les prochains batches. La convention "ne pas committer" doit être renforcée dans le briefing des subagents.
+[2026-04-20 16:47:49] ✓ Batch 01 terminé avec succès.
+[2026-04-20 16:47:49] 
+============================================================
+[2026-04-20 16:47:49] TERMINÉ
+[2026-04-20 16:47:49]   Succès : 1
+[2026-04-20 16:47:49]   Échecs : 0
+[2026-04-20 16:47:49] ============================================================

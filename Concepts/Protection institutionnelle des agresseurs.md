@@ -22,7 +22,7 @@ Trois conditions permettent à ce système de fonctionner :
 
 2. **Le "mythe du monstre" comme bouclier**. Tant que l'agresseur ne ressemble pas à la figure du prédateur (inconnu dans la ruelle, regard fou), son entourage — et parfois lui-même — refuse de voir. "Mais c'est un super père de famille, un super pote, un homme bien." Ce réflexe est documenté au procès Mazan (les proches des accusés), à Bétharram (Bayrou : "je ne peux pas croire ça"), dans le sport de haut niveau.
 
-3. **La culture de l'obéissance et de la rigueur légitimise la domination**. Les institutions qui valorisent l'obéissance absolue, la rigueur disciplinaire et la hiérarchie incontestée créent un continuum entre violence éducative/sportive/artistique et violence sexuelle. Zoé : "on peut se cacher derrière la soi-disant tâche au-dessus de tout qu'on a à réaliser pour se permettre d'être une sombre merde."
+3. **La culture de l'obéissance et de la rigueur légitimise la domination**. Les institutions qui valorisent l'obéissance absolue, la rigueur disciplinaire et la hiérarchie incontestée créent un continuum entre violence éducative/sportive/artistique et violence sexuelle. La PaduTeam : "on peut se cacher derrière la soi-disant tâche au-dessus de tout qu'on a à réaliser pour se permettre d'être une sombre merde."
 
 ## Exemples
 

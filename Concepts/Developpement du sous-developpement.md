@@ -28,4 +28,4 @@ Il n'y a jamais eu de révolution ouvrière sous le fascisme — les révolution
 [[Crise de l'hegemonie americaine]], [[Balcanisation imperialiste]], [[Anti-imperialisme]], [[Grande bifurcation]]
 
 ## Vidéos où le concept est développé
-- [[BARDELLA S'APLATIT DEVANT TRUMP]] — Chris l'évoque dans sa réflexion sur la stratégie communiste internationale
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — la PaduTeam l'évoque dans sa réflexion sur la stratégie communiste internationale

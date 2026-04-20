@@ -6,7 +6,7 @@ enjeux: [union-populaire]
 date: 2025-07-08
 youtube_id: TucnkB-bPBg
 date created: Sunday, April 12th 2026, 5:28:16 pm
-date modified: Wednesday, April 15th 2026, 1:40:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/union-populaire
 

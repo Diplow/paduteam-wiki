@@ -17,7 +17,7 @@ Maire de Marseille ([[Parti Socialiste]]). Réélu aux municipales 2026 face à 
 Centre-gauche — PS marseillais. La PaduTeam note qu'il pompe des voix à Vassal et aux listes centre-gauche, mais pas suffisamment aux classes populaires.
 
 ## Stratégie et trajectoire
-Sa victoire est "digne" selon Padu mais décevante : De Logu s'est retiré pour lui au 2e tour, or la PaduTeam estimait que De Logu pouvait se maintenir (3% de participation en plus au 2e tour montre que des abstentionnistes sont sortis pour faire barrage au RN). Payan capte des voix à Vassal et au centre, mais pas les classes populaires qui se seraient mobilisées derrière De Logu. Résultat : aucun élu LFI au conseil municipal de Marseille.
+Sa victoire est "digne" selon la PaduTeam mais décevante : De Logu s'est retiré pour lui au 2e tour, or la PaduTeam estimait que De Logu pouvait se maintenir (3% de participation en plus au 2e tour montre que des abstentionnistes sont sortis pour faire barrage au RN). Payan capte des voix à Vassal et au centre, mais pas les classes populaires qui se seraient mobilisées derrière De Logu. Résultat : aucun élu LFI au conseil municipal de Marseille.
 
 ## Relations
 - [[Parti Socialiste]] — appartenance

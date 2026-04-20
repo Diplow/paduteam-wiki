@@ -18,11 +18,11 @@ Ancienne militante Femen reconvertie en militante transphobe. Figure du mouvemen
 
 La PaduTeam analyse Marguerite Stern à travers le prisme de la fake news transphobe. Cas documenté : elle partage une vidéo de 30 secondes présentant des enfants "déguisés en poupées sexuelles LGBT dans un carnaval en Espagne", en écrivant "j'ai tellement mal au cœur". En réalité, il s'agit de costumes d'un atelier (Alcantara) pour une troupe satirique (Auadia) dans une commune à mairie de droite, caricaturant quatre partis politiques espagnols (PP, Vox, PSOE, Sumar).
 
-Padu : "Une vidéo de 30 secondes publiée par Marguerite Stern qui a déjà publié plusieurs fake news — il prend ça pour argent comptant." La désinformation n'est pas accidentelle : "S'il vérifiait, il ne serait pas d'extrême droite."
+La PaduTeam : "Une vidéo de 30 secondes publiée par Marguerite Stern qui a déjà publié plusieurs fake news — il prend ça pour argent comptant." La désinformation n'est pas accidentelle : "S'il vérifiait, il ne serait pas d'extrême droite."
 
 ## Conséquences matérielles
 
-Padu insiste sur la dimension concrète de cette désinformation : "Ça va peut-être briser la vie de certaines personnes. Peut-être que ça va empêcher certaines personnes qui auraient pu être acceptées par leur famille de ne pas être acceptées. Peut-être qu'ils vont devoir cacher leur identité de genre."
+La PaduTeam insiste sur la dimension concrète de cette désinformation : "Ça va peut-être briser la vie de certaines personnes. Peut-être que ça va empêcher certaines personnes qui auraient pu être acceptées par leur famille de ne pas être acceptées. Peut-être qu'ils vont devoir cacher leur identité de genre."
 
 ## Relations
 

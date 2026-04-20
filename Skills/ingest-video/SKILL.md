@@ -8,7 +8,7 @@ description: >
   Déclencher quand l'utilisateur dit "ingérer", "ajouter au vault", "créer les fiches",
   "analyser cette vidéo pour Obsidian", ou toute demande combinant un transcript PaduTeam et la base de connaissances.
 date created: Tuesday, March 31st 2026, 10:29:39 am
-date modified: Sunday, April 19th 2026, 2:30:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 skill_version: ingest-video-2026-04-19
 ---
 

@@ -20,7 +20,7 @@ Commentaire d'une archive de 2020 : Meyer Habib accuse Edgar Morin de "phraséol
 
 ## Thèses et analyses clés
 
-1. **L'absurde de l'accusation.** Habib traite Edgar Morin d'"ennemi juré du sionisme", accusé de "malveillance viscérale et permanente" contre les juifs. Padu : "à quel moment Edgar Morin c'est un ennemi juré du sionisme, genre Edgar Morin il est au Hamas ? [...] le mec est spinoziste, il a quitté le PC en 1951, ça fait 70 ans qu'il est plus communiste, il est un peu mou quoi Edgar Morin."[^1]
+1. **L'absurde de l'accusation.** Habib traite Edgar Morin d'"ennemi juré du sionisme", accusé de "malveillance viscérale et permanente" contre les juifs. La PaduTeam : "à quel moment Edgar Morin c'est un ennemi juré du sionisme, genre Edgar Morin il est au Hamas ? [...] le mec est spinoziste, il a quitté le PC en 1951, ça fait 70 ans qu'il est plus communiste, il est un peu mou quoi Edgar Morin."[^1]
 
 2. **La mécanique de l'accusation : le glissement.** Habib reproche à Morin : (1) d'avoir dit que l'existence d'Israël découle de la "culpabilité de l'Occident après la Shoah" — une affirmation historique courante ; (2) d'avoir utilisé l'expression "cancer israélo-palestinien" pour décrire le conflit — une métaphore qui inclut les deux parties ; (3) d'utiliser la "phraséologie nazie" en parlant de "peuple élu." En retenant l'expression "cancer" hors contexte, Habib fait dire à Morin ce qu'il n'a pas dit — exactement comme il l'avait fait avec d'autres.
 
@@ -28,7 +28,7 @@ Commentaire d'une archive de 2020 : Meyer Habib accuse Edgar Morin de "phraséol
 
 4. **Spinoza comme référence.** Morin : "Monsieur Spinoza a été vidé par la synagogue et moi je suis spinoziste — je ne fais pas partie du peuple élu, c'est mon droit de dire." La posture : un intellectuel juif qui a le droit de ne pas être sioniste sans être pour autant antisémite — une distinction que la rhétorique Habib rend impossible.
 
-5. **La conséquence structurelle.** Padu : "si n'importe quelle critique faite à Israël te fait devenir un antisémite notoire, même quand tu es un grand sage comme Edgar Morin — c'est comme quand ils disent à de Villepin qu'il est antisémite quoi — l'arme est applicable à n'importe qui."
+5. **La conséquence structurelle.** La PaduTeam : "si n'importe quelle critique faite à Israël te fait devenir un antisémite notoire, même quand tu es un grand sage comme Edgar Morin — c'est comme quand ils disent à de Villepin qu'il est antisémite quoi — l'arme est applicable à n'importe qui."
 
 6. **Marielle de Sarnez (MoDem) scandalisée.** La présence d'une politicienne centriste-modérée qui dit "je suis choquée de ce que je viens d'entendre" devant les accusations de Habib illustre à quel point ses propos dépassent le consensus politique habituel.
 
