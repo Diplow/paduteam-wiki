@@ -49,3 +49,5 @@ La grande démonstration stratégique du Graphique : une alliance précoce (type
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — L'opposition matérialisme/idéalisme : le Graphique comme outil matérialiste face aux approches idéalistes
 - [[Faut-il en finir avec le NFP]] — Démonstration la plus complète de l'utilisation stratégique du Graphique pour évaluer une coalition
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — La PaduTeam qualifie la capsule Graphique de "peut-être la vidéo la plus importante du mois de janvier"
+- [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Réponse aux critiques de sexisme/racisme : le Graphique est progressiste par construction. Genre et race encodés dans les dimensions tierces des ronds. Annonce des sélecteurs interactifs.
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Prédiction pure par le Graphique (6-7% pour Villepin) ; nouvelle version interactive du Graphique avec zoom PCS ; défense de la prédiction comme base de l'esprit scientifique

@@ -58,3 +58,4 @@ La difficulté : concilier ce travail de long terme avec les urgences électoral
 - [[PADUSTREAM C'EST DEJA FINI]] — première formulation explicite de la critique et de la réponse
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur PTB comme anti-modèle, financement public comme cause, et FI comme choix stratégique délibéré (pas une question d'âge).
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Stathis Kouvelakis approfondit les pistes : maillage social local, expérience italienne/catalane, CGT, leçons de 1977-1981
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Critique de l'incapacité à s'implanter dans les contre-pouvoirs ; le PS des années 70 comme modèle positif (associations, syndicats) ; LFI empêchée de construire par l'urgence présidentialiste

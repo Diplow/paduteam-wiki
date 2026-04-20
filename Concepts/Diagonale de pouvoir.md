@@ -37,5 +37,6 @@ En 2017, [[Emmanuel Macron|Macron]] et [[Marine Le Pen]] étaient parfaitement s
 
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]] — Explication détaillée de la diagonale et des classes au-dessus/en dessous
-- [[GRAPHOMARXISME x Positions Revue]] — Démonstration visuelle du rapport à la diagonale élection par élection (2017, 2022, 2024) et de sa signification politique
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Démonstration visuelle du rapport à la diagonale élection par élection (2017, 2022, 2024) et de sa signification politique ; nouveau Graphique interactif avec zoom PCS
+- [[GRAPHOMARXISME x Positions Revue]] — voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]]
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Explication pédagogique la plus détaillée de la diagonale : pourquoi elle stabilise la société, pourquoi les classes qui en sortent deviennent révolutionnaires (haut-gauche) ou réactionnaires (bas-droite), et comment la [[Socialisation des moyens de production]] ramène les classes éparpillées vers la diagonale

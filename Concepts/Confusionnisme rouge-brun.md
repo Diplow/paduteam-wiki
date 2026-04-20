@@ -44,3 +44,5 @@ Le moment où le clivage redevient lisible (pacte égalitaire vs arc réactionna
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — analyse de la trajectoire soraliste de Padu, mécanismes du confusionnisme
 - [[FROM TROTSKISTE TO RACISTE]] — analyse de la trajectoire rouge-brun type
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — démontage de la théorie soralienne
+- [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — [[Francis Cousin]] comme figure du marxisme réactionnaire : grand remplacement formulé en jargon marxien, invitation à Radio Courtoisie
+- [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]] — Chouard repositionné : figure de l'idéalisme démocratique plutôt que du confusionnisme pur ; la PaduTeam précise qu'il n'est "pas particulièrement dangereux" — la proximité passée avec Soral a pu faire pont pour certains, mais Chouard n'est pas Soral

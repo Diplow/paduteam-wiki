@@ -24,3 +24,4 @@ La cartographie de la gauche YouTube produite par "Frontières" le classe dans l
 - [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — nuancé dans la critique "boutiquier" : "je pense qu'il est aussi un militant de terrain"
 - [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — classé "communiste et révolutionnaire"
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — [[Glupatate]] rejoint sa structure ; salué comme "très bon recrutement du Canard"
+- [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]] — [[Yohan du Canard Refractaire|Yohan]] anime un live-débat avec [[Etienne Chouard]] ; analysé comme représentatif d'une génération GJ en transition vers plus de matérialisme

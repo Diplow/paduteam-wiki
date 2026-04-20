@@ -32,6 +32,7 @@ La PaduTeam distingue soigneusement : Clouscard ne critique pas **tous** les lib
 ## Vidéos où le concept est développé
 - [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]
 - [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — Macron comme exemple de la trajectoire libéral-libertaire → libéral-autoritaire ; démonstration que les soraliens lisent Clouscard à l'envers
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Trajectoire de bourgeoisification des ex-gauchistes des années 60-70 (Serge July, Julien Dray, Onfray) selon la grille Clouscard
 
 [^1]: [7:15](https://www.youtube.com/watch?v=M5_wBvpwYVk&t=435) — "ces gens en fait vont pouvoir switcher d'un aspect centregauche libéral libertaire à un libéralisme autoritaire quand il y aura besoin"
 [^2]: [6:47](https://www.youtube.com/watch?v=YPsrCo3Ddww&t=407) — "Macron c'est un mec qui s'est vendu en 2017 comme étant un libéral un peu libertaire et qui est devenu un libéral autoritaire [...] le Macron qui disait ah c'est n'importe quoi le programme du NFP, ils vont nous faire changer de sexe en mairie"

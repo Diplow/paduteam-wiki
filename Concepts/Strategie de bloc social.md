@@ -21,4 +21,5 @@ Ce passage se lit dans le Graphique par l'aplatissement des barycentres : Mélen
 La stratégie de bloc social implique que les candidats qui tentent de se positionner "au-dessus des blocs" (comme [[Dominique de Villepin]], Macron 2017-style) n'ont plus d'espace en période de moïsation. On ne peut plus être "massif" au centre — on ne peut être massif qu'en étant clairement à gauche ou clairement à droite.
 
 ## Vidéos où le concept est analysé
-- [[GRAPHOMARXISME x Positions Revue]] — Explication de la transition stratégie populiste → stratégie de bloc entre 2017 et 2022, lecture sur le Graphique
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Explication de la transition stratégie populiste → stratégie de bloc entre 2017 et 2022, lecture sur le Graphique
+- [[GRAPHOMARXISME x Positions Revue]] — voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]]

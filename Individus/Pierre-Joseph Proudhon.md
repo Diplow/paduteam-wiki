@@ -24,5 +24,15 @@ Le cercle Proudhon, dont se réclame un proche de Soral, symbolise cette filiati
 - [[Alain Soral]] — sa vraie filiation intellectuelle selon la PaduTeam
 - [[Petite bourgeoisie]] — la position de classe que le proudonisme représente
 
+## Proudhon comme filtre de genre
+
+La PaduTeam (Dr Zoé) note que le proudonisme a un "énorme problème" du point de vue féministe : *La Pornocratie* de Proudhon est un texte misogyne structurel. Pour les femmes, tomber dans le proudonisme suppose de passer outre ce filtre — comme pour Soral. C'est une des raisons pour lesquelles le proudonisme attire structurellement davantage d'hommes et peut servir de porte d'entrée à des positions réactionnaires sur le genre.
+
+## Relations
+- [[Alain Soral]] — sa vraie filiation intellectuelle selon la PaduTeam
+- [[Michel Onfray]] — filiation proudonienne explicite, germe de sa droitisation
+- [[Petite bourgeoisie]] — la position de classe que le proudonisme représente
+
 ## Vidéos où Proudhon est cité
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Catégorie d'analyse appliquée à Soral
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Pornocratie, filtre de genre du proudonisme ; continuité épistémologique d'Onfray depuis ses racines proudoniennes

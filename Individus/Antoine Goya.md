@@ -17,3 +17,4 @@ Padu cite Antoine Goya avec approbation pour son humanisme : il défend l'idée 
 
 ## Vidéos où Goya est mentionné
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — cité pour son humanisme sur l'accessibilité culturelle
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — cité pour une vidéo sur l'expérience libertarienne américaine (village anarcho-capitaliste qui n'a tenu que 5 ans), visible sur la chaîne principale de Padu

@@ -105,6 +105,10 @@ Lors d'un micro-trottoir du 1er mai filmé par [[Cathedrale Osseuse]], ce dernie
 
 La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême droite, ne pas mettre en avant l'antiracisme) est décrite par la PaduTeam comme le mécanisme exact qui a provoqué la perte du vote populaire par le PCF dans les années 80 avec Mitterrand. C'est aussi ce qui a fait perdre Ruffin ses élections législatives (alliance avec le centre). La [[Division raciale du proletariat]] ne se combat pas en "étant large" — elle se combat avec un projet antiraciste et égalitaire clair.
 
+## La stratégie "PCF Great Again" comme accélérateur de la chute
+
+Dans une discussion avec [[Positions Revue]], la PaduTeam formule le diagnostic suivant : la stratégie romantique de Roussel — "PCF Great Again" — ne relèvera pas le parti, elle accélérera sa chute. Se présenter avec les Verts et le PS en candidat "unique" tout en prétendant être indépendant, faire ~2% avec une politique droitière : autant rejoindre un petit parti franchement communiste comme le NPA ou LO. "Le PCF pèse pas tellement plus que le NPA" — comparaison significative. Le PCF retombera "dans la roue de la gauche social-démocrate", ce qu'il reproche précisément à LFI.
+
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
@@ -115,3 +119,4 @@ La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême
 - [[FROM TROTSKISTE TO RACISTE]] — Épinglé pour le mythe du gaullocommunisme.
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Valide le racisme antiblanc sur CNews, compare voile et salut nazi, veut inscrire la Charte olympique dans la loi. Analysé comme "communiste préféré des fachots".
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Cathédrale Osseuse lui pose la question du Graphique en micro-trottoir ; Padu développe l'explication matérialiste de la [[Division raciale du proletariat]] contre la ligne "être large".
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Stratégie "PCF Great Again" comme accélérateur de la chute ; PCF ne pèse plus plus que le NPA ; [[Julia Castanier]] citée comme catastrophique sur le féminisme.

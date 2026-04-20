@@ -46,6 +46,18 @@ Paradoxalement, le PCF a quelque chose que la [[France Insoumise]] n'a pas : une
 
 La PaduTeam opère une distinction systématique entre le PCF local et le PCF national. Le PCF local — ses militants de terrain, ses permanents présents à toutes les intersyndicales, son implantation historique dans certains bassins — est reconnu positivement. "Au PCF par chez moi, ils sont présents, ils sont présents parce qu'ils sont implantés depuis hyper longtemps." Le PCF national — Roussel, les Fontaines, Annie Kefferman — est en revanche jugé "10 à 15 ans en arrière" sur l'antiracisme, problématique sur le féminisme. Il y a "des puissances droitières dans le PCF qui ont une représentation nationale." Cette tension local/national est présentée comme le nœud analytique : l'organisation en tant que telle a une valeur que sa direction nationale ne mérite pas.
 
+## PCF vs NPA : le poids comparé
+
+Dans une discussion avec [[Positions Revue]], la PaduTeam formule une comparaison frappante : le PCF "ne pèse pas tellement plus que le NPA" en termes de poids électoral réel. Si la ligne Roussel est droitière et que le score est ~2%, autant militer dans un petit parti franchement communiste comme le NPA ou LO. Cette formulation marque le fond du raisonnement : le PCF a perdu la justification de sa taille.
+
+## Reniement vs dépassement de l'histoire communiste
+
+Le PCF actuel n'est pas capable d'assumer son histoire tout en la critiquant — ce que la PaduTeam nomme un discours de **dépassement**. Il tient un discours de **reniement** : "moi je ne suis pas Staline, je ne suis pas garant du communisme historique." Ce reniement est stratégiquement perdant : il signale la soumission aux médias réactionnaires et prive le PCF de son histoire glorieuse (Résistance, Manouchian au Panthéon) qu'il invoque par ailleurs.
+
+La posture de [[Leon Deffontaines]] face à [[Pascal Praud]] illustre le mécanisme : il commence à corriger le chiffre faux de "50 millions de morts de Staline", puis se couche faute de pouvoir assumer l'héritage soviétique. La PaduTeam : "Il passe pour un con."
+
+La PaduTeam assume pour sa part la Révolution française, la Commune de Paris, la Révolution d'Octobre — tout en ne défendant pas les procès de Moscou ni les goulags. C'est le discours de dépassement que le PCF est incapable de tenir.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -53,3 +65,5 @@ La PaduTeam opère une distinction systématique entre le PCF local et le PCF na
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse de Roussel sur le vote 2017, Brossat à Bram vs Roussel absent
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de la crise interne Roussel/Brossat, 40e congrès prévu été 2026, PCF présent à Bram dans une coalition absurde avec des gens à droite de Mélenchon
 - [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — Analyse via la voix d'un abonné PCF : distinction local/national, présence syndicale valorisée, direction nationale en retard sur antiracisme et féminisme
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — PCF ne pèse plus tellement plus que NPA ; stratégie "PCF Great Again" accélère la chute ; militants de terrain compréhensibles mais ligne Roussel catastrophique
+- [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Deffontaines incapable du discours de dépassement historique ; piégé par Praud sur le chiffre des 50 millions ; reniement vs dépassement comme diagnostic central

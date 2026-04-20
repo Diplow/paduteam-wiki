@@ -28,4 +28,6 @@ La polarisation entre ces deux antiracismes reflète le [[Clivage materiel vs cl
 - **Deffontaines sur les abayas** : proche de la position laïciste/uniforme = antiracisme abstrait ancré dans le républicanisme
 - **[[SOS Racisme]] années 1980** : antiracisme des classes moyennes-hautes, sans clivage avec l'extrême droite dans les classes populaires à cette époque
 
-## Vidéos où le concept 
+## Vidéos où le concept est développé
+- [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Application au Graphique : les PCS dominantes (blanc, haut-droite) portent structurellement un antiracisme universaliste abstrait parce que le clivage racial n'y existe pas quotidiennement. Les classes populaires racisées (bas-gauche) nécessitent un antiracisme concret frontal.
+- [[Antiracisme politique vs antiracisme moral]] — Voir aussi [[Universalisme abstrait]] pour la forme bourgeoise de l'antiracisme 

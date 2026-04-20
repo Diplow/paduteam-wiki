@@ -28,5 +28,16 @@ Son [[Antiracisme politique vs antiracisme moral|antiracisme abstrait]] lui inte
 - [[Jean-Luc Melenchon]] — concurrent dans l'espace gauche
 - [[Marion Marechal]] — adversaire sur le terrai
 
+## La question stalinienne : l'art de se coucher
+
+Sur Europe 1 face à [[Pascal Praud]], Deffontaines est piégé : le débat commence sur les contenus de X (Breivik, grand remplacement), Praud dévie vers les "50 millions de morts de Staline". Deffontaines commence à corriger le chiffre — ce qui est juste — puis, ne pouvant rien assumer de l'histoire soviétique, il se couche. La PaduTeam : "il passe pour un con."
+
+Le diagnostic : le PCF tient un discours de **reniement** ("moi je suis pas Staline") au lieu d'un discours de **dépassement** (assumer l'histoire communiste tout en la critiquant). Ce reniement est stratégiquement perdant — il signale la soumission et invite Praud à recommencer indéfiniment.
+
+En fin d'échange, Praud lui dit : "Monsieur Deffontaines, c'est un communiste très moderne." La PaduTeam traduit : "Tu m'es soumis, tu fais le jeu contre la France insoumise, et ça me suffit." La "tape dans le dos" est en réalité un aveu du piège.
+
 ## Vidéos
 - [[GRAPHOMARXISME x Positions Revue]] — Décrit comme un "franc-tireur" : son clivage réel est avec l'abstention, pas avec le RN. Essaie de vendre du progressisme à des classes réactionnaires
+- [[Faure oblige de trahir]] — Exemple type de la lutte en classe (vs lutte de classe) : Deffontaines et [[Marion Marechal]] au même endroit sur le Graphique (haut-droite). Ils se battent pour l'hégémonie dans les mêmes espaces de classe — ce n'est pas parce qu'ils ont les mêmes idées, mais parce qu'ils ciblent les mêmes PCS
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Cité brièvement comme figure possible d'un PCF post-Roussel ("Fabien bien")
+- [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Piégé sur Staline, incapable du discours de dépassement, se couche face au piège médiatique Praud

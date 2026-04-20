@@ -24,7 +24,7 @@ Pendant les campagnes, croise les tendances de recherche Google avec les positio
 ## Vidéos
 - [[PADUSTREAM C'EST DEJA FINI]] — Annonce du passage à PaduTeam, présentation de La Brèche et du projet fédération ; dit avoir délégué la gestion de Positions Revue (à Damien et l'équipe) pour se concentrer sur les activités de La Brèche
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
-- [[Le GRAPHIQUE est-il vraiment SEXISTE]]
+- [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Défense du Graphique contre les critiques de sexisme/racisme ; expose la méthode Google Trends et les prédictions 2022
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]]
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]

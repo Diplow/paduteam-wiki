@@ -53,3 +53,4 @@ Parallèle historique : "Les nazis quand ils ont commencé à perdre et à être
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme représentant de l'antiracisme paternaliste années 80 qui est devenu réactionnaire.
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse de son "dossier" sur l'enfance de Mélenchon comme exemple de diabolisation absurde.
 - [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Bar à glaces, 697$/mois, analyse Marx/Feuerbach, double standard d'impunité
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Cité parmi les personnalités se réclamant de la gauche sur les plateaux d'extrême droite pour remplir un quota ; biographie LCR rappelée ("c'est ce que ça donne les trotskistes")

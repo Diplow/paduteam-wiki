@@ -40,5 +40,6 @@ Villepin lance son mouvement "[[La France Humaniste]]" en mars 2026 sur [[France
 L'adhésion gratuite à la France Humaniste signale l'absence de base militante réelle et un financement forcément extérieur (État ou milliardaires). Soutenu par [[Edwy Plenel]] depuis 2005-2007.
 
 ## Vidéos
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Analyse prédictive complète par le Graphique : pourquoi il finira à 6-7% max, aucun espace idéologique cohérent
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — Lancement de La France Humaniste analysé en direct; validation de la prédiction du Graphique
-- [[GRAPHOMARXISME x Positions Revue]] — Analyse
+- [[GRAPHOMARXISME x Positions Revue]] — Analyse (voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] pour la fiche complète)

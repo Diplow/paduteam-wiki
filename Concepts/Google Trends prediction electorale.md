@@ -31,4 +31,9 @@ Exemples de croisements : "Manon Aubry + retraite", "Glucksmann + austérité" �
 Note sur le PCF : la surestimation à 7% (résultat ~2%) révèle un transfert de voix vers Zemmour, Le Pen et Macron. Ces transferts sont la cause principale de l'échec de Mélenchon à passer au second tour en 2022.
 
 ## Portée analytique
-La méthode permet de voir ce que les sondages ne peuvent pas voir : les sondages mesurent les intentions déclarées, Google Trends mesure les **préoccupations réelles** et donc les clivages qui vont str
+La méthode permet de voir ce que les sondages ne peuvent pas voir : les sondages mesurent les intentions déclarées, Google Trends mesure les **préoccupations réelles** et donc les clivages qui vont structurer la mobilisation électorale. Elle est particulièrement efficace pour prédire les scores des candidats en dehors du sondage classique — notamment pour identifier des scores sous-estimés (Mélenchon à 22% quand les sondages le donnaient bien moins) ou sur-estimés (Zemmour annoncé à 18%, prédit à 7-8%).
+
+## Vidéos où le concept est développé
+- [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Explication détaillée de la méthode par Chris : croisements de candidats avec des thèmes (salaire, immigration, austérité), prédictions 2022. Formulation clé : "si vous avez des Google trends sur l'immigration sur la dette l'austérité... il y a peu de chance que Mélenchon gagne." [11:24]
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — Application de la méthode au clivage génération/classe sur le cannabis
+- [[GRAPHOMARXISME x Positions Revue]] — Exercice de prédiction pure avec le Graphique

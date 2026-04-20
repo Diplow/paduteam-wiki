@@ -36,3 +36,4 @@ La liberté situated : vraie liberté = contrôle des naissances (contraception,
 
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — formulation explicite à propos du masculinisme et de la "liberté sexuelle"
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — double illustration : (1) "your body my choice" libertarien qui ne s'applique qu'aux hommes (OseilleTV vante les femmes biélorusses "sans féminisme") ; (2) la "liberté" sans assurance sociale, c'est la liberté des bien-portants de ne pas cotiser pour les malades — une liberté qui se retourne contre les dominés dès qu'ils tombent malades

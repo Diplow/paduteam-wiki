@@ -41,3 +41,4 @@ La logoré n'est pas qu'une défaillance intellectuelle — elle est aussi un **
 
 ## Vidéos où le concept est développé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Analyse systématique de la logoré de Soral dans son réact à Padu
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Onfray cité comme exemple de discours impressionnant mais analytiquement incohérent (take sur Mélenchon et "fétichisme sexuel", extrait des "bulles de savon")

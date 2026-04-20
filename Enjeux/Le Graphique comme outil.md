@@ -41,16 +41,61 @@ Le batch des premières semaines de janvier 2025 constitue le corpus pédagogiqu
 - **[[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE]]** approfondit les mécanismes internes : [[Diagonale de pouvoir]], espace révolutionnaire (haut-gauche), espace réactionnaire (bas-droite), application à la profession médicale, socialisation vs désocialisation néolibérale. La féminisation et salarisation de la médecine y sont analysées comme une dynamique progressiste concrète.
 - **[[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]** et **[[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]]** appliquent le Graphique à des cas concrets : Tondelier positionnée dans l'espace bourgeois confus, les profils familiaux (tonton raciste, cousin jankovichiste, tata écolo-rabiste) cartographiés comme consciences possibles différentes. La vidéo des réveillons explicite que chaque profil correspond à une stratégie d'alliance distincte.
 
+## Défense contre les critiques de genre et de race
+
+Ce batch fournit la réponse la plus développée aux critiques de sexisme et racisme adressées au Graphique.
+
+La thèse de la PaduTeam dans [[LE GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)]] : le Graphique est structurellement progressiste parce que genre et race y sont encodés dans les **dimensions tierces** — lisibles à l'intérieur de chaque rond (PCS). Ajouter un axe explicite tuerait l'outil.
+
+Arguments développés :
+- Les PCS très masculines (anciens ouvriers, retraités ouvriers) ont un antagonisme de genre dissymétrique — le féminisme n'y est pas hégémonique non par antiféminisme actif, mais parce que ce n'est pas le problème quotidien. Conséquence stratégique : un projet féministe sera beaucoup plus pénétrant dans les PCS mixtes.
+- La race dans le bas-gauche : les classes populaires sont tendanciellement plus racisées (immigration des années 60-70 = ouvriers et employés, pas cadres). Là où Mélenchon et Le Pen se battent pour les mêmes voix, l'antiracisme est le seul dispositif de clivage possible. Dans l'espace haut-droite (PCS blanches), l'antiracisme ne peut être qu'universalisme abstrait (PCF-Deffontaines, macronisme).
+- La solution : des **sélecteurs de dimensions tierces** dans la version interactive — filtres colorant les ronds par proportion genrée ou racisée.
+
+La validation empirique de Chris (Google Trends) : en croisant les tendances de recherche avec le Graphique, il a prédit Mélenchon à 22% (résultat 21,95%) et Zemmour à 7-8% (annoncé à 18%). L'erreur principale : PCF prédit à ~7%, résultat ~2,28% — les ~400 000 voix manquantes qui ont empêché Mélenchon d'accéder au second tour.
+
+## Application aux élections de 2017 à 2024
+
+La vidéo [[L'ILLUSION DE VILLEPIN : POURQUOI IL NE PEUT PAS GAGNER EN 2027.]] présente la **nouvelle version interactive** du Graphique et en fait une démonstration prédictive élection par élection :
+
+- **2017** : moment populiste — Macron et Le Pen alignés sur la diagonale de pouvoir (clivage haut/bas) ; Mélenchon unique à être à la fois sur la diagonale ET polarisé à gauche.
+- **2022** : moïsation — le clivage s'aplatit, le populisme se résout en front progressiste vs front conservateur.
+- **Villepin 2027** : prédit à 6-7% maximum. Son espace naturel est celui de Jadot/Hidalgo aux européennes — classes intermédiaires progressistes anti-macronistes mais refusant la rupture. Il ne peut pas capter les classes populaires sans retraite à 60 ans, hausse du SMIC et antiracisme assumé — impossible depuis la droite.
+
+La PaduTeam défend explicitement le principe de prédiction : "Si vous faites pas de prédiction, ni modèle prédictif, ni rien du tout, vous faites pas de la science, vous faites même pas de la sociologie — vous faites de la littérature."
+
+## La trahison de Faure expliquée structurellement
+
+[[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] est le cas d'application le plus politique du Graphique de ce corpus. Thèse : la trahison de Faure n'est pas une décision personnelle — c'est une nécessité structurelle. Son espace de classe (PS aux européennes 2024 = haut-droite, cadres, retraités, professions intermédiaires) produit inévitablement "l'esprit de sérieux", la "responsabilité budgétaire", l'incapacité à voter la censure.
+
+Conséquence paradoxale : la trahison de Faure est une bonne nouvelle pour la victoire à gauche. Elle libère les deux espaces pour combattre séparément — LFI dans les classes populaires et l'abstention, PS dans les classes intermédiaires contre Macron et la droite classique.
+
+Également développé : le concept de **luttes en classe vs luttes de classe**. Mélenchon/Le Pen et Deffontaines/Maréchal sont dans des luttes *en* classe (même espace, idéologies opposées) — pas des luttes *entre* classes différentes. Ce concept est la clé de lecture de toutes les joutes gauche-gauche et droite-droite.
+
+## Le Graphique face aux confusionnistes
+
+Deux vidéos défendent le Graphique contre des adversaires qui lui reprochent son "fixisme marxiste" ou son idéalisme :
+
+- **[[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]]** : Soral accuse la PaduTeam de fixer les classes comme en 1870. La réponse : le Graphique repart des nomenclatures PCS INSEE pour montrer que le salariat représente 90% de la population — c'est Soral le fixiste, pas la PaduTeam.
+- **[[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]]** : Chouard défend le tirage au sort comme alternative démocratique. La PaduTeam propose à la place le **parlement du travailleur collectif** (Clouscard) : une composition de classe qui respecte les 20% d'ouvriers, 25% d'employés, etc. "Après on peut tirer au sort dans les classes si ça fait plaisir à Étienne."
+
 ## Adversaires de cette position
 - [[Norman Ajari]] : le Graphique n'est que de la "sociologie électorale"
 - Les "gauchistes maximalistes" qui veulent le même programme pour tous
 - Les gauchistes qui pensent que théoriser est réservé à une élite
 - [[Marine Tondelier]] et la ligne EELV : "branler la nouille avec des concepts" = démagogie qui prétend que les classes populaires ne comprennent pas la théorie
+- [[Alain Soral]] : accuse le Graphique de "fixisme marxiste des années 1840" — la PaduTeam retourne l'accusation
+- [[Etienne Chouard]] : préfère le tirage au sort à une constituante de classe
 
 ## Concepts associés
 [[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Integration du proletariat]], [[Epistemologie marxiste]], [[Diagonale de pouvoir]], [[Barycentre electoral]], [[Conflictualite interne aux classes populaires]], [[Moisation]], [[Periode de confusion]], [[Proletarisation des cadres]]
 
 ## Vidéos clés
+- [[LE GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)]] — réponse aux critiques de sexisme/racisme : dimensions tierces, antagonisme dissymétrique, sélecteurs interactifs annoncés
+- [[L'ILLUSION DE VILLEPIN : POURQUOI IL NE PEUT PAS GAGNER EN 2027.]] — démonstration prédictive complète sur 2017/2022/2024, nouvelle version interactive, prédiction Villepin à 6-7% max
+- [[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] — application politique majeure : trahison structurelle, luttes en classe vs luttes de classe, stratégie des deux équipes de gauche
+- [[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]] — défense contre l'accusation de fixisme marxiste
+- [[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]] — Graphique comme alternative matérialiste au tirage au sort bourgeois
 - [[Le MARXISME, un TRUC de BLANC]] — défense explicite du Graphique comme outil léniniste contre la critique d'Ajari
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue]] — présentation la plus complète : construction, distribution PCS, applications électorales 2017/2022/2024, stratégie 2027
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — explication approfondie : diagonale de pouvoir, espaces révolutionnaire et réactionnaire, application médicale, socialisation vs désocialisation

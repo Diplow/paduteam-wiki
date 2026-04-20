@@ -102,7 +102,8 @@ Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Hollande vs Melenchon 2e tour]] — Analyse complète du Graphique 2002 montrant l'éparpillement pré-moïsation, puis projection sur 2027 montrant l'éclatement symétrique à droite
 - [[Faut-il en finir avec le NFP]] — Explication détaillée du terme (métaphore de Moïse) et visualisation par les rubans électoraux 2002-2024
-- [[GRAPHOMARXISME x Positions Revue]] — Visualisation de la moïsation sur le Graphique entre 2017 et 2022 : passage du moment populiste (diagonale) à la stratégie de bloc (horizontal)
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Visualisation de la moïsation sur le Graphique entre 2017 et 2022 : passage du moment populiste (diagonale) à la stratégie de bloc (horizontal). Démonstration que les candidatures "au-dessus de la mêlée" comme Villepin sont bidon en période de moïsation
+- [[GRAPHOMARXISME x Positions Revue]] — voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]]
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Retailleau a compris la moïsation (partir de l'intérieur du pouvoir pour le conquérir), Wauquiez non
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|La CARTE DES QI version MARXISTE]] — L'espace de moïsation identifié sur l'axe bleu/rouge en bas du Graphique : classes oppositionnelles pouvant basculer à gauche ou à droite
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — La moïsation observée en temps réel dans les sondages : [[Ensemble]] passe de 18% à 14%, le RN chute de 36% à 29%, les deux pôles gauche et droite radicale montent

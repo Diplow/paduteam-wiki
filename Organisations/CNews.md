@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Appareil médiatique de droite extrême, droit sur l'axe domination.
 
 ## Dynamique
-Pour la PaduTeam : "l'appareil de l'atlantisme absolu et du sionisme." Appartient au groupe Bolloré. Défend structurellement l'hégémonie américaine et le soutien inconditionnel à Israël — les deux sont liés dans sa ligne éditoriale. En déferlement pro-américain, en larmes quand Macron à Davos annonce vouloir commercer avec la Chine.
+Pour la PaduTeam : "l'appareil de l'atlantisme absolu et du sionisme." Appartient au groupe [[Vincent Bolloré]]. Défend structurellement l'hégémonie américaine et le soutien inconditionnel à Israël — les deux sont liés dans sa ligne éditoriale. En déferlement pro-américain, en larmes quand Macron à Davos annonce vouloir commercer avec la Chine.
 
 Fusion atlantisme-sionisme : [[Gill William Goldnadel]] (éditorialiste CNews) est "en furie" face au pivot de Macron — sa logique : anti-atlantisme = abandonner Israël.
 

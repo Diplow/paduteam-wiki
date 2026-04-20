@@ -1,0 +1,58 @@
+---
+type: concept
+domaine: [politique-intérieure, théorie]
+thèmes: [médias-propagande, guerre-des-gauches]
+aliases: [piège stalinien, déplacement vers le passé communiste]
+skill_version: write-video-2026-04-20
+---
+#domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches
+
+# Piège médiatique anti-gauche
+
+## Définition
+
+Le **piège médiatique anti-gauche** est une technique rhétorique récurrente dans les médias réactionnaires (CNews, Europe 1 sous Bolloré) : déplacer n'importe quel débat actuel vers le passé communiste pour désarmer la gauche. La variante la plus courante est le **piège stalinien** — brandir le bilan de Staline pour interrompre toute discussion sur l'actualité réactionnaire.
+
+## Fonctionnement
+
+**Déclencheur** : la gauche attaque sur un point légitime (contenus racistes sur X, grand remplacement, Breivik).
+
+**Déplacement** : le journaliste réactionnaire dévie vers la question stalinienne — "Votre parti a soutenu Staline. 50 millions de morts. Qu'en dites-vous ?"
+
+**Piège** : si la gauche se défend, elle valide que c'est un terrain pertinent ; si elle se couche, elle signale sa soumission et invite à recommencer.
+
+**Clôture** : le journaliste "félicite" le représentant de gauche qui a capitulé — "Vous êtes un communiste très moderne" — ce qui signale aux téléspectateurs que la gauche acceptable est celle qui se renie.
+
+## Exemple : Praud vs Deffontaines (Europe 1)
+
+[[Pascal Praud]] vs [[Leon Deffontaines]] sur Europe 1 : débat amorcé sur les contenus de X (Breivik, grand remplacement), dévié vers "50 millions de morts de Staline". Deffontaines commence à corriger (juste) puis se couche (erreur stratégique). Praud conclut : "Vous êtes un communiste très moderne."
+
+La PaduTeam : "À quel moment le PCF va se réveiller ?" [24:56]
+
+## La riposte offensive
+
+La PaduTeam formule la réponse qui aurait dû être faite :
+
+1. **Retourner le comptage** : "Vous travaillez pour un micro appartenant à [[Vincent Bolloré]] — demandez-lui le bilan de ses entreprises en Afrique. Combien de morts, Bolloré ?"
+
+2. **Refuser le terrain** : "Vous nous faites la litanie habituelle des 50 milliards de morts du communisme — mais est-ce qu'on vous entend à ce micro dénoncer les morts des entreprises de Bolloré en Afrique ?" [22:19]
+
+3. **Élargir le comptage** : brandir Churchill et la famine du Bengal (2-4 millions de morts en 1 an), le bagne de Poulo Condor (80 % de mortalité), Hiroshima.
+
+4. **Assumer l'histoire** : "Le Parti communiste a été du bon côté de l'histoire, du côté de la Résistance." [17:39] — sans reniement, sans excuse.
+
+## Principe général
+
+La technique fonctionne uniquement si la gauche est défensive. Elle cesse de fonctionner si la gauche est offensive : "Il faut être offensif bordel, faut arrêter d'être défensif." [6:45]
+
+La PaduTeam : "On a devant nous des mecs qui sont des gens payés par un milliardaire d'extrême droite, ultra-offensifs toute la journée à rabâcher des conneries pour essayer de diviser la population [...] Il faut les attaquer, il faut arrêter de s'excuser." [22:50]
+
+## Concepts liés
+
+- [[Strategie de reniment]] — la posture défensive que le piège cherche à induire
+- [[Eurocentrisme du deuil]] — l'asymétrie sur laquelle repose le piège
+- [[Collusion mediatique-politique]] — le cadre structurel (Bolloré, CNews) qui rend le piège possible
+
+## Vidéos
+
+- [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Analyse clinique du piège en action et de la riposte offensive que la PaduTeam formule
