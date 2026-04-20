@@ -18,12 +18,13 @@ Pour lancer l'ingestion : `python Sources/Transcripts/run_ingest.py`
 
 ## Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2024-w43-w44
+Fiches créées : [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]], [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]], [[LA BRECHE LEGALISATION DROGUES AFFAIRE ANDY KERBRAT LFI]] + 19 fiches Concepts/Individus
 
-- [ ] Ce PNJ de DROITE QUITTE la FRANCE À CAUSE de la MISÈRE S*XUELLE et de l'INSÉCURITÉ !!
-- [ ] Cette DROITARDE tente de nous CLASHER : ÇA TOURNE MAL !! (x @Dr_Zoé_YT)
-- [ ] LA BRÈCHE - LÉGALISATION de TOUTES les DR0GUES + AFFAIRE ANDY KERBRAT/FI (x ZOË DUBUS @Dr_Zoé_YT)
+- [x] Ce PNJ de DROITE QUITTE la FRANCE À CAUSE de la MISÈRE S*XUELLE et de l'INSÉCURITÉ !!
+- [x] Cette DROITARDE tente de nous CLASHER : ÇA TOURNE MAL !! (x @Dr_Zoé_YT)
+- [x] LA BRÈCHE - LÉGALISATION de TOUTES les DR0GUES + AFFAIRE ANDY KERBRAT/FI (x ZOË DUBUS @Dr_Zoé_YT)
 
 ---
 ## Batch 02 — Semaines 2024-W45 à 2024-W46 (4 nov 2024 – 17 nov 2024)

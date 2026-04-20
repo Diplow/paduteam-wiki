@@ -70,3 +70,4 @@ Ce cas illustre la dimension géopolitique du [[Fémonationalisme]] telle que l'
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — distinguée de Thaïs d'Escufon : Némésis tient un discours moins pire sur le viol conjugal, mais reste identitaire de guerre des civilisations

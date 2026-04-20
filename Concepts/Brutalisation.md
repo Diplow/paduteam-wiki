@@ -27,7 +27,7 @@ La PaduTeam articule deux dimensions :
 
 - **États américains et peine de mort** : Padu cite des études montrant que les États ayant introduit la peine de mort ont vu leur taux de violence augmenter[^1]. L'argument "les États-Unis sont durs et il y a quand même de la criminalité" est mobilisé contre la thèse punitive.
 - **Forces de l'ordre en France** : la loi Cazeneuve (loi cas9), permettant aux policiers de tirer dans certaines situations, a abouti à la mort de Rémy Fraisse. Les lois de plus en plus favorables aux forces de l'ordre en France n'ont pas produit de baisse de la violence[^2].
-- **Le PNJ en Hongrie** : le droitard qui admire la justice "punitive" hongroise ignore que la criminalité n'est pas mesurée objectivement mais perçue subjectivement via des biais idéologiques (voir [[Fabrication du sentiment d'insecurite]]).
+- **Le PNJ en Hongrie** : le droitard qui admire la justice "punitive" hongroise ignore que la criminalité n'est pas mesurée objectivement mais perçue subjectivement via des biais idéologiques (voir [[Fabrication du sentiment d insecurite]]).
 
 ## Vidéos où le concept est développé
 

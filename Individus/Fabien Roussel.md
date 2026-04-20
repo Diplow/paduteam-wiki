@@ -38,7 +38,7 @@ Les ouvriers racistes qui votent RN aujourd'hui n'ont jamais voté PCF dans la p
 Cette théorie du "grand moment républicain national de gauche de 2017" est aussi celle de Ruffin — "c'est toute la logique là."
 
 ## Festival de la Noisette de Bram (2026)
-Sur l'affiche du rassemblement organisé par [[Carole Delga]] mais **absent** le jour J — [[Yann Brossat]] est venu à sa place. "On pense que c'est peut-être sa recette de couscous qui a été utilisée" (Chris) — ironie sur le cassoulet porc-canard qui ressemble au couscous avec saucisses de porc. Sa position à l'affiche sans venir est "très significatif" : Roussel essaie d'apparaître unioniste sans se compromettre. Pour la PaduTeam, c'est aussi un signe de la lutte interne au PCF entre Roussel (ligne identitaire) et Brossat (ligne unioniste). Le 40e congrès PCF (été 2026) devrait trancher entre leurs lignes.
+Sur l'affiche du rassemblement organisé par [[Carole Delga]] mais **absent** le jour J — [[Yann Brossat]] est venu à sa place. "On pense que c'est peut-être sa recette de couscous qui a été utilisée" — ironie sur le cassoulet porc-canard qui ressemble au couscous avec saucisses de porc. Sa position à l'affiche sans venir est "très significatif" : Roussel essaie d'apparaître unioniste sans se compromettre. Pour la PaduTeam, c'est aussi un signe de la lutte interne au PCF entre Roussel (ligne identitaire) et Brossat (ligne unioniste). Le 40e congrès PCF (été 2026) devrait trancher entre leurs lignes.
 
 Paradoxe central : Roussel a cassé les pieds à tout le monde pour dire que le PCF est un "parti indépendant" qui ne soutiendra pas Mélenchon, mais se retrouve dans des trucs à côté de gens à droite de Mélenchon. "Si c'est pour faire 2% à droite de la France insoumise, autant faire 2% à gauche."
 
@@ -111,7 +111,7 @@ La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse sur le vote 2017, absent au Festival de la Noisette de Bram (Brossat venu à sa place)
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sur l'affiche de Bram mais absent ; paradoxe de sa position anti-LFI mais dans la coalition noisette ; 40e congrès PCF été 2026 comme moment de résolution.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — PCF s'en tire bien par profil bas tactique. Gain de Nîmes face au RN, perte de Vénissieux à 25 voix. Roussel renforcé pour son congrès et sa candidature 2027.
-- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Va sur BFM attaquer LFI sur l'affiche Hanouna, compare Mélenchon à Trump. Padu : "honteux, c'est les mecs qui te vendent". Prédit à 2% sans Front de Gauche.
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Va sur BFM attaquer LFI sur l'affiche Hanouna, compare Mélenchon à Trump. La PaduTeam : "honteux, c'est les mecs qui te vendent". Prédit à 2% sans Front de Gauche.
 - [[FROM TROTSKISTE TO RACISTE]] — Épinglé pour le mythe du gaullocommunisme.
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Valide le racisme antiblanc sur CNews, compare voile et salut nazi, veut inscrire la Charte olympique dans la loi. Analysé comme "communiste préféré des fachots".
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Cathédrale Osseuse lui pose la question du Graphique en micro-trottoir ; Padu développe l'explication matérialiste de la [[Division raciale du proletariat]] contre la ligne "être large".

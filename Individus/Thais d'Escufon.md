@@ -91,3 +91,4 @@ Son activité commerciale : vente de PDF et de formations à des hommes incels/m
 - [[THAIS D ESCUFON AIDE LES INCELS A TROUVER UNE MEUF POUR 19 90 EUROS PAR MOIS]] — "Conquête de Valeur" ; tunnel de vente incel ; démontage analytique ; Julien Rochedy
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]] — Dr Zoé détruit son positionnement sur les VSS
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — comparée à Némésis : jugée "pire" car normalise le viol conjugal explicitement, là où Némésis ne le fait pas

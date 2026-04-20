@@ -3,8 +3,9 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
+skill_version: write-enjeu-2026-04-20
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 20th 2026, 12:00:00 pm
 ---
 #domaine/théorie #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 
@@ -32,6 +33,14 @@ La PaduTeam : "Je ne considère pas Marine Le Pen comme ma sœur."
 La logique : si le patriarcat isole toutes les femmes de la même façon, alors le féminisme doit défendre toutes les femmes, y compris celles qui exercent la domination de classe et la domination raciale. C'est absurde — et politiquement réactionnaire.
 
 La PaduTeam : "C'est la seule et dernière discrimination qui leur reste" — pour les femmes bourgeoises blanches qui ont "éradiqué" les autres discriminations, le sexisme devient le seul enjeu, ce qui explique le surinvestissement.
+
+## La précarité économique, pas le féminisme, empêche les familles
+
+Face au discours réactionnaire selon lequel les "valeurs familiales disparaissent" à cause du féminisme, la PaduTeam oppose une lecture matérialiste stricte : ce qui empêche les gens d'avoir des enfants, c'est l'intérim, l'absence de CDI, la spéculation immobilière et les 50 m² d'appartement. La norme hétérosexuelle familiale reste dominante en France — c'est la précarité économique structurelle qui empêche de fonder une famille, pas le féminisme. L'argument masculiniste (le féminisme = guerre contre la famille) masque les déterminants matériels et dédouane le capitalisme.
+
+## La méthode sociologique contre le vécu subjectif
+
+Le féminisme matérialiste part du particulier pour aller au général, pas l'inverse. Quand une droitarde construit tout son discours sur son expérience personnelle ("99,9999% du temps c'est le même type de profil"), elle fait exactement la chose que la droite reprochait aux SJW de 2015 : opposer un ressenti subjectif non généralisable à des données statistiques. Le vécu est légitime, mais il ne devient analyse que s'il est soumis à un travail sociologique. Sans ce travail, il produit des généralisations racistes. Voir [[Enquete CVS]] et données [[Continuum des VSS]].
 
 ## Arguments récurrents sur les VSS
 
@@ -99,7 +108,7 @@ La vraie maturité virile = traiter les femmes comme des êtres humains. Ce reto
 
 ## Adversaires de cette position
 
-**L'extrême droite fémonationaliste** ([[Thais d'Escufon]], [[Alice Cordier]], [[Collectif Nemesis]]) : racialise les VSS pour en faire un argument anti-immigration. Thaïs d'Escufon normalise explicitement le viol conjugal (le concept de viol conjugal a été "inventé" et "travestit par des femmes fourbes"). Leur monde idéal n'est pas un monde sans violence sexuelle — c'est un monde où la violence sexuelle reste dans le "cadre correct" (homme blanc marié).
+**L'extrême droite fémonationaliste** ([[Thais d'Escufon]], [[Alice Cordier]], [[Collectif Nemesis]], [[Herga]]) : racialise les VSS pour en faire un argument anti-immigration. Thaïs d'Escufon normalise explicitement le viol conjugal (le concept de viol conjugal a été "inventé" et "travestit par des femmes fourbes"). Herga défend Depardieu tout en prétendant défendre les femmes. Leur monde idéal n'est pas un monde sans violence sexuelle — c'est un monde où la violence sexuelle reste dans le "cadre correct" (homme blanc marié).
 
 **Le féminisme libéral** : "girl boss", empowerment individuel, égalité dans les structures existantes sans les transformer.
 
@@ -144,6 +153,8 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — connexion antiféminisme / agenda nataliste identitaire
 - [[THAIS LES VSS L ONT RENDUE NAZIE]] — le mécanisme VSS → radicalisation droite comme absence de féminisme matérialiste
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] — féminisme bourgeois vs féminisme structurel sur la natalité
+- [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — straw man du féminisme comme "guerre des genres" démonté ; déterminants matériels de la natalité (intérim, logement) vs moralisme réactionnaire ; Hongrie orbaniste comme destination des antiféministes
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — défense du féminisme matérialiste face à la droitarde Herga ; méthode sociologique contre le vécu subjectif ; distinction Némésis vs Thaïs d'Escufon sur le viol conjugal ; colonisation algérienne comme contexte structurel
 - [[DR ZOE RECADRE LES MASCUS TOXIQUES]] — antiféminisme comme recrutement fasciste ; virilité réinterprétée
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — libertarianisme = masculinisme ; pénurie appliquée aux femmes
 - [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → RN : l'accroche masculiniste comme porte d'entrée fasciste
