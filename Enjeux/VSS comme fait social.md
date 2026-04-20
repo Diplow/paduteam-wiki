@@ -24,6 +24,12 @@ Les violences sexistes et sexuelles (VSS) ne sont pas des actes de monstres isol
 - Sous-déclaration massive : la plupart des victimes ne portent pas plainte — encore moins quand l'agresseur est un proche
 - Les VSS dans les milieux "civilisés" : Depardieu (1977 : "mon premier viol, c'est mon pote Jacky"), Benoît Jacot, viols collectifs dans les bandes des années 60-70 (article Mucchielli), weekends d'intégration des facs de médecine et écoles de commerce
 
+## L'idéologie patriarcale comme condition des comportements d'agression
+
+La PaduTeam formule un mécanisme explicite à partir de l'épisode Mila/Kroc Blanc : les hommes qui passent leur temps à défendre le patriarcat "ont potentiellement plus de chance d'avoir des comportements de violence sexuelle que quand tu es au courant de ces comportements de violence sexuelle." Ce n'est pas un hasard si [[Kroc Blanc]] — qui véhicule une idéologie de domination masculine — harcèle des femmes par messages ; c'est la conséquence logique de son cadre idéologique. La comparaison avec les organisations de gauche est explicitement faite ("dans les orgas de gauche aussi il y a des mecs qui ont des comportements de harcèlement") mais assortie d'une asymétrie : à droite, ces comportements sont en plus *légitimés* par l'idéologie. Le paradoxe qui donne le plus de poids aux témoignages : ce ne sont pas des féministes qui dénoncent Kroc Blanc, mais des femmes de la droitsphère "qui ne comprennent pas grand-chose au patriarcat."
+
+Le négationnisme des VSS est une position explicitement enseignée dans les milieux masculinistes. [[Stephane Edouard]], dans ses formations, affirmait qu'il est impossible de violer une femme sans armes ni coups physiques ("essayez avec votre sœur ou votre cousine, vous ne pouvez pas l'immobiliser"). Ce discours efface les mécanismes d'emprise, de sidération et de dissociation — états décrits par les victimes, notamment dans le cadre conjugal où la peur du féminicide paralyse. La justice a reconnu la gravité de ces propos : en portant plainte contre ses critiques, Stéphane Édouard a forcé le tribunal à examiner ses propres contenus, qui ont été jugés "susceptibles de caractériser des infractions."
+
 ## Le continuum des VSS
 
 La PaduTeam insiste sur le [[Continuum des VSS]] : du harcèlement de rue au féminicide, en passant par le viol conjugal et les agressions intrafamiliales. L'extrême droite focalise sur le viol "de l'étranger" précisément pour esquiver tout ce continuum — le harcèlement quotidien, le viol conjugal, l'inceste, les agressions dans les milieux professionnels. Cette focalisation garantit que le problème ne sera jamais résolu.
@@ -155,6 +161,9 @@ Les travailleuses du sexe représentent 5-10 % des féminicides en France alors 
 
 ## Vidéos associées
 
+- [[MILA REFUSE LES AVANCES DE KROC BLANC IL PORTE PLAINTE]] — harcèlement par messages privés comme mécanique patriarcale documentée ; idéologie de domination masculine comme condition structurelle des comportements de violence sexuelle ; asymétrie de pouvoir homme/femme même dans la droitsphère ; témoignages de femmes de droite donnant plus de crédit aux accusations
+- [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — négationnisme du viol dans des formations masculinistes ("impossibilité de violer sans violence physique") ; mécanisme judiciaire où le plaignant expose ses propres contenus infractions ; la procédure bâillonnante comme risque pour qui nie la réalité des VSS
+- [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]] — diffusion de conversations harcelantes par les victimes comme exercice légal de l'"exception de vérité" ; la rhétorique "droit contre morale" de Kroc Blanc comme écran ; domination patriarcale pour expliquer l'asymétrie dans les réactions aux messages sexuels
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — continuum des VSS vs focalisation sur le viol "de l'étranger" ; biais de classe dans les condamnations ; données CVS 2023 (11% d'étrangers condamnés) ; inceste (10% des enfants) ; Depardieu comme preuve que la violence sexuelle est française et blanche
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]

@@ -37,7 +37,16 @@ La PaduTeam : "Toute attaque contre une femme n'est pas misogyne en soi. Elle es
 
 [[Stathis Kouvelakis]] ajoute que la campagne EELV 2024 avec Toussaint représentait "un cas classique d'ethnocentrisme de classe et de mépris de formes culturelles propres aux classes populaires." La campagne de la douceur était "cantonnée dans une certaine niche sociale".
 
+## Antifascisme moral abstrait
+
+La vidéo sur la motion de censure Barnier (décembre 2024) nuance le portrait : la PaduTeam cite Rousseau comme exemple de l'[[Antifascisme moral vs antifascisme de terrain|antifascisme moral abstrait]] — "non je vais jamais avec le RN et tout" alors que la vie des gens est en jeu. Ce "non-jamais" de principe sans évaluation du contenu concret du vote est qualifié d'antifascisme "facile qui n'engage à rien".[^rousseau_motion]
+
+Cela ne contredit pas l'analyse sur "la bonne attitude" dans d'autres contextes — la PaduTeam peut saluer son refus de taper sur Mélenchon tout en critiquant sa logique de pureté sur les votes parlementaires. La cohérence de la fiche est préservée : Rousseau est un personnage politique avec des bons réflexes (ne pas taper à gauche) et de mauvais (le moralisme antifasciste qui bloque l'action).
+
+[^rousseau_motion]: [16:06](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=966) — "Sandrine Rousseau aussi qui était très là-dedans [...] non je vais jamais avec le RN [...] alors que la vie des gens qui sont en jeu"
+
 ## Vidéos où l'individu est analysé
 - [[Faure oblige de trahir]] — Citée comme exemple de la bonne attitude dans l'espace bourgeois progressiste
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Comment Tondelier a pris son positionnement "grande gueule féminine" sans son programme radical
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Empêchée à la primaire des noisettes, prise de misogynie, diversité de lignes au sein d'EELV
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — citée comme exemple de l'antifascisme moral abstrait ("non je vais jamais avec le RN") face à l'antifascisme de terrain de [[Raphael Arnaud]]

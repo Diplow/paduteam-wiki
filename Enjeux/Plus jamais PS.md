@@ -112,6 +112,10 @@ Position stratégique PaduTeam sur la récupération Mamdani par Faure : **c'est
 [^usa_appelLFI]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — « ne revendiquez pas le programme du NFP parce qu'ils vont le faire. Surtout revendiquez un programme plus à gauche que le NFP. Dites : vous êtes du côté de Hillary Clinton, de Cuomo, de Kamala Harris ».
 [^usa_ruffin]: [21:11](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1271) — « tu as aussi fait foot et tu as même manifesté avec le Rassemblement national contre la résistance palestinienne, François Ruffin. Donc tu es un imposteur ».
 
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PS "la queue entre les jambes" cherchant des compromis avec Barnier jusqu'au bout sur le PLFSS 2025, pendant que le NFP pose une motion de censure. Contraste entre gauche molle (PS prêt à négocier) et gauche de rupture (NFP qui censure). Valls et Hollande nommément cités.[^pjps_barnier]
+
+[^pjps_barnier]: [12:30](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=750) — "notamment le PS notamment le PS euh Valls euh les Hollandesois et tout ils ont pas arrêté de dire qu'ils étaient prêts à faire des compromis et tout [...] et en fait ils n'ont pas fait de compromis"
+
 ## Vidéos clés (suite — corpus USA)
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Thèse Kamala=Jospin 2002=Glucksmann ; gauche de droite perd mécaniquement face à droite de droite ; mécanisme du pinkwashing sans radicalité de classe
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cuomo « Manuel Valls de New York » ; avertissement sur la discipline primaire (Glucksmann ne se rangera pas) ; victoire PS type démontée

@@ -31,3 +31,4 @@ Padu dans [[MUNICIPALES CE QU'IL FAUT RETENIR]] : "C'est horrible le NFP tel qu'
 - [[Debunk Graphique Bad Mulch]]
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Municipales = preuve empirique que le NFP fait perdre les deux camps. "C'est horrible le NFP tel qu'il est."
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le NFP dépose la motion de censure sur le PLFSS 2025 (49.3 Barnier) et la vote avec le RN ; moment où le NFP fonctionne comme bloc de renversement malgré ses tensions internes

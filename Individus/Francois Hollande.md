@@ -61,6 +61,12 @@ Pour la PaduTeam, Hollande rejoue en 2024-2025 la campagne qu'il n'a pas faite e
 ## Le 49.3 et la "crédibilité"
 Hollande vend sa candidature potentielle sur la "crédibilité" et la "responsabilité". Il n'exclut pas le 49.3 "si le réalisme l'exige". Il jouera le "president qui a déjà exercé", normal face à "deux extrêmes", contre le "chaos de Macron". Il se rachètera une virginité sur le fait que Macron a fait pire sur chaque sujet : répression, loi travail, etc.
 
+## Sur la Syrie et le Liban (décembre 2024)
+
+Hollande publie un communiqué se félicitant de la chute d'Assad. Cem Yoldas ([[La Jeune Garde]]) le lit juste avant une émission PaduTeam : Hollande y dit qu'après Assad, "le prochain c'est le Hezbollah, c'est le Liban." Pour la PaduTeam, c'est le miroir parfait de la position impérialiste libérale — se réjouir de la victoire islamiste comme d'une libération, sans voir qu'on ouvre la voie à de nouvelles années de guerre et à l'effondrement des forces progressistes. "Faut pas tomber dans le truc à la Glucksmann, à la Hollande qui vont se réjouir de ça et puis qui vont être étonnés dans 10 ans quand on aura des islamistes là-bas qui font un truc."[^hollande_syrie]
+
+[^hollande_syrie]: [48:02](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2882) — "je lisais un communiqué de François Hollande juste avant de venir ici et lui se félicitait justement de tout ce qui arrivait aujourd'hui [...] le prochain c'est le Hezbollah c'est le Liban"
+
 ## Vidéos
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire du reportage Paris Match : bilan quinquennat, lifestyle bourgeois, prédiction fillonisation par Vallaud en 2027
 - [[Hollande vs Melenchon 2e tour]] — Prophétie du 2002 inversé, Hollande comme "mulet" d'Asimov
@@ -69,3 +75,4 @@ Hollande vend sa candidature potentielle sur la "crédibilité" et la "responsab
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — Miniature "Hollande en parrain" : pour une fois représenté non comme un benêt mais comme un manipulateur. Padu renouvelle sa théorie : Hollande est un requin qui peut encore revenir, "tant qu'il est pas mort il peut revenir, même mort"
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Son fief Tulle perdu (PS+LFI bat par la droite), mais sa ligne de clarté anti-alliance est validée par ce résultat. "En perdant Tulle, il démontre qu'il a raison." Il a fait l'erreur affective d'appeler à l'union avec LFI dans sa propre ville, et subit exactement la défaite qu'il prédit. Sa ligne 2027 (séparation des gauches au 1er tour, PS fort seul contre le centre) est confirmée par les résultats généraux.- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présent à Bram, photographié avec tout le monde (Delga, Glucksmann, Bouamrane). Analysé comme le "flambi empoisonné" qui construit une image de rassembleur sans jamais se faire élire. Sa ligne politique (refus NFP, pro-Macron 2017, anti-manifs palestiniennes avec Delga) représente l'aile la plus droitière du PS.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Analyse détaillée de sa stratégie de retour : convention réformiste, écrasement de Glucksmann, relation vassale avec Faure, invitation d'Aghion comme signature de classe, interview Rochebin à LCI où il ne dit pas non à une candidature. Lancement de la campagne militante "Plus jamais PS".
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Communiqué sur la chute d'Assad, position libérale-impérialiste sur la Syrie et le Liban

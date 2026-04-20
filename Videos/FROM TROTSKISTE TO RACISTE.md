@@ -36,7 +36,7 @@ Pas de chiffres ou sondages dans cette vidéo.
 [[Valeurs Actuelles]], [[Parti des Travailleurs]], [[Nouveau Parti Anticapitaliste|NPA]], [[Lutte Ouvriere|Lutte Ouvrière]], [[CGT]], [[France Insoumise]], [[Parti Communiste Francais|PCF]], [[Printemps Républicain]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laicite culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Bourgeoisie progressiste]]
+[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laicite culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Bourgeoisie progressiste]], [[Politisation de valeurs vs politisation materielle]]
 
 ## Enjeux avancés
 [[Union populaire]] — solidarité affirmée avec les camarades musulmans face à l'islamophobie, tâche prioritaire de tout militant de gauche conséquent
