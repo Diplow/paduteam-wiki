@@ -38,10 +38,10 @@ Padu développe le mécanisme de fabrication subjective de l'insécurité : on d
 Face à la caricature du féminisme comme "guerre entre les hommes et les femmes", Padu restitue la thèse féministe matérialiste : il y a un système de domination patriarcale historiquement hérité qui crée des inégalités de fait malgré l'égalité formelle de droit[^6]. Les statistiques postdivorce montrent que les hommes s'en sortent mieux économiquement que les femmes — preuve que les inégalités de fait persistent. Les féministes ne disent pas "tous les hommes sont méchants", elles désignent un système. Voir [[Feminisme materialiste]].
 
 **7. Brutalisation : la répression n'est pas un remède à la criminalité**
-Le PNJ valorise la justice "punitive" hongroise comme explication de la sécurité perçue. Padu rappelle le concept de brutalisation — documenté dans une vidéo avec le fou allié sur la chaîne principale : dans les États américains qui pratiquent la peine de mort, le taux de violence augmente[^7]. La violence d'État légitime la violence dans la population. Voir [[Brutalisation]].
+Le PNJ valorise la justice "punitive" hongroise comme explication de la sécurité perçue. La PaduTeam rappelle le concept de brutalisation — documenté dans une vidéo avec le fou allié sur la chaîne principale : dans les États américains qui pratiquent la peine de mort, le taux de violence augmente[^7]. La violence d'État légitime la violence dans la population. Voir [[Brutalisation]].
 
 **8. La vidéo est une pub pour un coaching migratoire**
-La finalité de la vidéo n'est pas journalistique : le PNJ propose des séjours payants en Hongrie pour "voir ce que les touristes ne voient pas"[^8]. Toutes les interviews dithyrambiques de Hongroises s'émerveillant des Français, les couchers de soleil en fond, les témoignages triés sur le volet — c'est de la publicité. Padu : "c'est une pub pour que tu le rejoignes en Hongrie."
+La finalité de la vidéo n'est pas journalistique : le PNJ propose des séjours payants en Hongrie pour "voir ce que les touristes ne voient pas"[^8]. Toutes les interviews dithyrambiques de Hongroises s'émerveillant des Français, les couchers de soleil en fond, les témoignages triés sur le volet — c'est de la publicité. La PaduTeam : "c'est une pub pour que tu le rejoignes en Hongrie."
 
 ## Données chiffrées mentionnées
 

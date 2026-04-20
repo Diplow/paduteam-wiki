@@ -23,7 +23,7 @@ Capsule de la chaîne "Pas du stream". La PaduTeam commente la condamnation du y
 
 2. **La brutalisation comme fausse solution** : La Menace affirmait que la violence répressive (à la russe) rendrait les gens "sages". La PaduTeam contre-argue : la Russie a 10 homicides pour 100 000 habitants contre 1,4 en France. La violence engendre la violence (brutalisation) — pas l'obéissance.
 
-3. **Le discours vs la pratique** : "Mon couple à l'ancienne fonctionne uniquement sur les réseaux sociaux et via du BDSM" dit son avocate. Padu : ce couple-là ne ressemble en rien à ce que La Menace prêchait.
+3. **Le discours vs la pratique** : "Mon couple à l'ancienne fonctionne uniquement sur les réseaux sociaux et via du BDSM" dit son avocate. La PaduTeam note que ce couple-là ne ressemble en rien à ce que La Menace prêchait.
 
 4. **La virilité selon Brassens** : La PaduTeam convoque Georges Brassens comme contre-modèle de la vraie maturité virile — un homme qui n'a pas besoin de soumettre sa compagne, qui lui laisse sa liberté, qui regarde la mort en face sans bégayer. "Gravons nos noms au bas d'un serment" plutôt que d'exhiber un fusil.
 

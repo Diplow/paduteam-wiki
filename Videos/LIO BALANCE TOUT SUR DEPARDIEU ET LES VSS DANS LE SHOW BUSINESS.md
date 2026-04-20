@@ -15,7 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Capsule "Pas du stream". Padu commente des extraits d'interventions de la chanteuse [[Lio]] sur l'affaire [[Gerard Depardieu]], avec un enthousiasme non dissimulé ("respect total à Lio"). Lio témoigne depuis l'intérieur du milieu : les listes de prédateurs, la sélection des victimes vulnérables, l'entre-soi du show-business qui protège les agresseurs. Elle relie l'affaire Depardieu au meurtre de Marie Trintignant par Bertrand Cantat — même logique d'impunité masculine, même silence du milieu.
+Capsule "Pas du stream". La PaduTeam commente des extraits d'interventions de la chanteuse [[Lio]] sur l'affaire [[Gerard Depardieu]], avec un enthousiasme non dissimulé ("respect total à Lio"). Lio témoigne depuis l'intérieur du milieu : les listes de prédateurs, la sélection des victimes vulnérables, l'entre-soi du show-business qui protège les agresseurs. Elle relie l'affaire Depardieu au meurtre de Marie Trintignant par Bertrand Cantat — même logique d'impunité masculine, même silence du milieu.
 
 ## Thèses et analyses clés
 
@@ -27,13 +27,13 @@ Capsule "Pas du stream". Padu commente des extraits d'interventions de la chante
 
 4. **La présomption d'innocence comme bouclier de classe** : Lio cite la présomption d'innocence, puis dit : "ce qui est rendu public est rendu public — la voix des femmes doit être entendue." Présomption d'innocence "vaut beaucoup plus pour les grandes stars ultra-riches que quand tu as volé une canette de Red Bull pendant une manif."
 
-5. **La misogynie intégrée** : Lio se dit ancienne "femme battue" et ancienne "femme misogyine intégrée". Cette auto-critique publique d'une femme forte est particulièrement appréciée par Padu : elle incarne que la conscience politique se construit, qu'on peut avoir été complice et évoluer.
+5. **La misogynie intégrée** : Lio se dit ancienne "femme battue" et ancienne "femme misogyine intégrée". Cette auto-critique publique d'une femme forte est particulièrement appréciée par la PaduTeam : elle incarne que la conscience politique se construit, qu'on peut avoir été complice et évoluer.
 
 6. **Cantat / Marie Trintignant** : Lio fait le lien avec le meurtre de 2003. Cantat est remonté sur scène, soutenu par des journalistes ("Hubert Fixen qui dit 'ronge tes barreaux mon ami, nous t'attendons'") : même logique d'impunité masculine, même priorisation de la carrière de l'homme sur la vie de la femme.
 
 ## Individus mentionnés
 
-- [[Lio]] — témoin du milieu, féministe "ultra basée" pour Padu
+- [[Lio]] — témoin du milieu, féministe "ultra basée" pour la PaduTeam
 - [[Gerard Depardieu]] — le prédateur central de l'affaire
 - [[Sophie Marceau]] — avait dénoncé les comportements de Depardieu lors du film de Pialat (1985) sans être entendue
 - [[Giselle Pelicot]] — citée en comparaison ("la honte doit changer de camp")

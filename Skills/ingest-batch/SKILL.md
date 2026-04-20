@@ -103,7 +103,7 @@ Pour **chaque vidéo** du batch, dans l'ordre chronologique, lancer un subagent 
 - Créer ou enrichir les fiches Individus/Organisations mentionnés en appelant `write-entity` par entité
 - Créer ou enrichir les fiches Concepts mobilisés en appelant `write-concept` par concept
 - **Ne jamais toucher aux fiches Enjeux** (dossier `Enjeux/`) — ce sera le rôle du subagent final
-- Ne pas committer, ne pas pusher, ne pas modifier l'Inventaire ni le fichier de suivi — se limiter aux fichiers dans `Videos/`, `Individus/`, `Organisations/`, `Concepts/`
+- Ne pas committer, ne pas pusher, **ne pas créer de branche git**, ne pas modifier l'Inventaire ni le fichier de suivi — se limiter aux fichiers dans `Videos/`, `Individus/`, `Organisations/`, `Concepts/`
 
 **Contenu du briefing à transmettre au subagent :**
 - Chemin du transcript à lire (unique)

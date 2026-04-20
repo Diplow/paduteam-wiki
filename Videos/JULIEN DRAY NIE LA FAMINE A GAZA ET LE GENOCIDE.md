@@ -39,7 +39,7 @@ La PaduTeam analyse les déclarations télévisées de Julien Dray qui tente de 
 ## Enjeux avancés
 [[Palestine libre]] — négationnisme de la famine ; double standard d'impunité
 [[Sionisme de gauche comme menace]] — Dray "au-delà de l'extrême droite" dans le négationnisme
-[[campisme-assumé]] — Chris : il faut choisir un camp, pas seulement "débunker" des faits
+[[campisme-assumé]] — La PaduTeam : il faut choisir un camp, pas seulement "débunker" des faits
 
 ## Transcript
 [[JULIEN DRAY NIE la FAMINE à GAZA et le GÉNOC1DE !!]]

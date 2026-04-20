@@ -18,26 +18,25 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Le 29 avril 2025 à Paris, les internes en médecine manifestent contre la loi sur la régulation de l'installation des médecins (obligation de s'installer en zone sous-dotée). [[Dr Zoe]] et [[Padu]] analysent les pancartes, les slogans et les revendications : une "grève de droite" défendant des privilèges corporatistes (liberté d'installation, meilleure rémunération) dans un contexte où 87% du territoire est désertifié. La phrase signature de Zoé est posée dès le début : "Il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre."
+Le 29 avril 2025 à Paris, les internes en médecine manifestent contre la loi sur la régulation de l'installation des médecins (obligation de s'installer en zone sous-dotée). [[Dr Zoe]] et [[Padu]] analysent les pancartes, les slogans et les revendications : une "grève de droite" défendant des privilèges corporatistes (liberté d'installation, meilleure rémunération) dans un contexte où 87% du territoire est désertifié. La phrase signature de la PaduTeam est posée dès le début : "Il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre."
 
 ## Intervenants
 
-- [[Padu]] — co-animateur, interne en psychiatrie (n'a pas fait grève)
-- [[Dr Zoe]] — co-analyste, médecin généraliste rurale
+- La PaduTeam — animateurs : un interne en psychiatrie (n'a pas fait grève) et une médecin généraliste rurale
 
 ## Thèses principales
 
 ### La "grève de droite" — un concept
 
-La manifestation du 29 avril illustre un phénomène que [[Dr Zoe]] nomme : **les grèves de droite**. Les médecins et étudiants en médecine sont capables de mobilisation collective uniquement pour des revendications corporatistes et libérales — défense des revenus, opposition aux contraintes territoriales, refus de la régulation. Jamais pour des causes progressistes : conditions des internes, suicides, déserts médicaux, budgets hospitaliers.[^1]
+La manifestation du 29 avril illustre un phénomène que la PaduTeam nomme : **les grèves de droite**. Les médecins et étudiants en médecine sont capables de mobilisation collective uniquement pour des revendications corporatistes et libérales — défense des revenus, opposition aux contraintes territoriales, refus de la régulation. Jamais pour des causes progressistes : conditions des internes, suicides, déserts médicaux, budgets hospitaliers.[^1]
 
 ### La pancarte "Bac+12 pour finir à Mulhouse"
 
-Symbole du corporatisme libéral : refuser d'aller à Mulhouse (zone sous-dotée) au nom du mérite accumulé. Pour Zoé : non seulement la revendication ignore les besoins de santé de la population, mais elle révèle une mentalité de petit entrepreneur qui choisit son marché selon la rentabilité, pas selon les besoins des patients.
+Symbole du corporatisme libéral : refuser d'aller à Mulhouse (zone sous-dotée) au nom du mérite accumulé. Pour la PaduTeam : non seulement la revendication ignore les besoins de santé de la population, mais elle révèle une mentalité de petit entrepreneur qui choisit son marché selon la rentabilité, pas selon les besoins des patients.
 
 ### Histoire de la pénurie organisée
 
-En réponse aux revendications des manifestants, Zoé retrace l'histoire de la [[Penurie de medecins|pénurie organisée]] : les mandarins des années 1970 ont fait pression pour réduire le numerus clausus, main dans la main avec des gouvernements néolibéraux soucieux de "maîtrise des dépenses". Résultat : 87% du territoire désertifié, dont 96% de l'Île-de-France.[^2]
+En réponse aux revendications des manifestants, la PaduTeam retrace l'histoire de la [[Penurie de medecins|pénurie organisée]] : les mandarins des années 1970 ont fait pression pour réduire le numerus clausus, main dans la main avec des gouvernements néolibéraux soucieux de "maîtrise des dépenses". Résultat : 87% du territoire désertifié, dont 96% de l'Île-de-France.[^2]
 
 ### La confraternité comme paradoxe fondateur
 
@@ -47,7 +46,7 @@ Ce n'est pas une hyperbole — c'est une description précise du déséquilibre 
 
 ### L'inefficacité de la loi d'installation
 
-Zoé défend la loi sur la liberté d'installation (contrainte territoriale) comme mesure symboliquement juste mais pratiquement inefficace **à court terme** : avec seulement 13% du territoire médiqué, même une redistribution parfaite des médecins existants ne suffit pas. La vraie solution est d'en former beaucoup plus. La loi sera utile dans 15-20 ans quand il y aura assez de médecins — aujourd'hui, elle n'est pas la priorité.
+La PaduTeam défend la loi sur la liberté d'installation (contrainte territoriale) comme mesure symboliquement juste mais pratiquement inefficace **à court terme** : avec seulement 13% du territoire médiqué, même une redistribution parfaite des médecins existants ne suffit pas. La vraie solution est d'en former beaucoup plus. La loi sera utile dans 15-20 ans quand il y aura assez de médecins — aujourd'hui, elle n'est pas la priorité.
 
 ## Citations clés
 

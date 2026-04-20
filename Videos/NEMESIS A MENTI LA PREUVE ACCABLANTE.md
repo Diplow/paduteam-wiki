@@ -18,7 +18,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 ## Résumé
 
-Vidéo publiée le 26 février 2026, quelques jours après la mort de [[Quentin Deranque]] à Lyon lors d'affrontements provoqués par Némésis lors d'une conférence de [[Rima Hassan]]. La PaduTeam (Padu, Chris, Zoé) présente la preuve documentaire d'*L'Humanité* : des conversations internes entre la responsable lyonnaise de Némésis ("Ornela") et le chef d'[[Audace Lyon]] ("Calixy") qui prouvent la coordination préméditée des guet-apens. Chris développe ici la distinction conceptuelle fondamentale entre [[Femonationalisme]] et [[Feminisme raciste]].
+Vidéo publiée le 26 février 2026, quelques jours après la mort de [[Quentin Deranque]] à Lyon lors d'affrontements provoqués par Némésis lors d'une conférence de [[Rima Hassan]]. La PaduTeam présente la preuve documentaire d'*L'Humanité* : des conversations internes entre la responsable lyonnaise de Némésis ("Ornela") et le chef d'[[Audace Lyon]] ("Calixy") qui prouvent la coordination préméditée des guet-apens. La PaduTeam développe ici la distinction conceptuelle fondamentale entre [[Femonationalisme]] et [[Feminisme raciste]].
 
 ## Thèses et analyses clés
 
@@ -26,7 +26,7 @@ Vidéo publiée le 26 février 2026, quelques jours après la mort de [[Quentin 
 
 2. **[[Methode Nemesis|Méthode Némésis]] confirmée par les archives** : le schéma est désormais documenté et non plus inféré. L'infiltration, la provocation, le guet-apens, la mise en scène victimaire — tout est planifié à l'avance. Némésis a répondu que les conversations étaient "hors contexte", ce que la PaduTeam lit comme une confirmation implicite ("on ne dit pas 'hors contexte' si c'est faux").
 
-3. **Distinction [[Femonationalisme]] / [[Feminisme raciste]] (Chris)** : correction conceptuelle centrale. Le fémonationalisme (Farris) est un concept d'économie politique impérialiste — des États ou forces du centre utilisent les droits des femmes pour justifier des guerres coloniales et attirer une main-d'œuvre féminine subalterne. Il peut être porté par des forces non d'extrême droite (Anne Sinclair, Claire Chazal). Némésis, c'est du *féminisme raciste* : "une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés." Pas de dimension économie politique, pas de rapport à l'impérialisme.
+3. **Distinction [[Femonationalisme]] / [[Feminisme raciste]]** : correction conceptuelle centrale. Le fémonationalisme (Farris) est un concept d'économie politique impérialiste — des États ou forces du centre utilisent les droits des femmes pour justifier des guerres coloniales et attirer une main-d'œuvre féminine subalterne. Il peut être porté par des forces non d'extrême droite (Anne Sinclair, Claire Chazal). Némésis, c'est du *féminisme raciste* : "une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés." Pas de dimension économie politique, pas de rapport à l'impérialisme.
 
 4. **[[Action Francaise]] comme matrice d'Alice Cordier** : Cordier vient de l'Action Française, formée à l'[[Institut de Formation Politique]] de [[Marion Marechal|Marion Maréchal]] à Lyon, dans l'orbite du réseau [[Atlas Network]]. Sa trajectoire est celle d'un investissement stratégique de l'extrême droite dans le féminisme comme vecteur de légitimité.
 
@@ -44,7 +44,7 @@ Vidéo publiée le 26 février 2026, quelques jours après la mort de [[Quentin 
 | 26 février 2026 | Publication de cette vidéo PaduTeam |
 
 ## Individus mentionnés
-[[Padu]], [[Chris]], [[Dr Zoe]], [[Alice Cordier]], [[Rima Hassan]], [[Quentin Deranque]], [[Marion Marechal]], [[Sara Farris]]
+[[Alice Cordier]], [[Rima Hassan]], [[Quentin Deranque]], [[Marion Marechal]], [[Sara Farris]]
 
 ## Organisations mentionnées
 [[Collectif Nemesis]], [[Audace Lyon]], [[Action Francaise]], [[Institut de Formation Politique]], [[Atlas Network]], [[France Insoumise]], [[La Jeune Garde]]

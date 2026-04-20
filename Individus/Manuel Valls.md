@@ -14,7 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 Homme politique français, Premier ministre sous François Hollande (2014-2016), puis candidat malheureux à la mairie de Barcelone. Figure emblématique de la droitisation du [[Parti Socialiste]].
 
 ## Analyse PaduTeam
-Mentionné dans le contexte de la trajectoire confusionniste de Padu : "l'image de Manuel Valls censé incarner la gauche mais '68, il est interdit d'interdire' qui finit par interdire le spectacle d'un humoriste" (Dieudonné). Cet épisode est cité comme confirmation que "la gauche et la droite se passent le pouvoir en chiant dessus allègrement."
+Mentionné dans les vidéos PaduTeam comme exemple de la trajectoire confusionniste : "l'image de Manuel Valls censé incarner la gauche mais '68, il est interdit d'interdire' qui finit par interdire le spectacle d'un humoriste" (Dieudonné). Cet épisode est cité comme confirmation que "la gauche et la droite se passent le pouvoir en chiant dessus allègrement."
 
 Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée : passage de la loi travail (El Khomri), discours sécuritaire, nationalisme républicain de façade.
 
