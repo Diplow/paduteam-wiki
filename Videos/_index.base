@@ -10,6 +10,7 @@ views:
       - domaine
       - thèmes
       - enjeux
+      - skill_version
     sort:
       - property: date
         direction: DESC
@@ -22,7 +23,10 @@ views:
       - date
       - domaine
       - file.mtime
+      - skill_version
     sort:
+      - property: skill_version
+        direction: ASC
       - property: file.mtime
         direction: DESC
   - type: table
@@ -35,6 +39,7 @@ views:
       - date
       - thèmes
       - enjeux
+      - skill_version
     sort:
       - property: date
         direction: DESC
@@ -48,6 +53,7 @@ views:
       - date
       - thèmes
       - enjeux
+      - skill_version
     sort:
       - property: date
         direction: DESC
@@ -60,6 +66,7 @@ views:
       - file.name
       - date
       - thèmes
+      - skill_version
     sort:
       - property: date
         direction: DESC
@@ -72,6 +79,7 @@ views:
       - file.name
       - date
       - thèmes
+      - skill_version
     sort:
       - property: date
         direction: DESC
