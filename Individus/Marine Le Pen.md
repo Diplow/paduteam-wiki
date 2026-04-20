@@ -59,10 +59,10 @@ Marine Le Pen incarne le **trumpisme** — national-protectionniste, antisystèm
 L'**origine de l'électorat populaire RN** : cet électorat ne vient pas du PCF, contrairement à ce que prétendent certains commentateurs. Il vient de la droite. C'est l'électorat qui a voté Sarkozy en 2007 (son "plus jamais Chirac"), qui a cru une dernière fois en lui, et qui vote RN définitivement depuis. Symétrie exacte avec l'électorat populaire de gauche trahi par Hollande, qui vote désormais LFI.
 
 ## La dédiabolisation : opération de communication, pas rupture réelle
-Marine Le Pen a imposé une stratégie de "dédiabolisation" : distancer le RN du passé de son père, ne plus tenir de discours frontalement racistes, rebaptiser le parti. Mais pour la PaduTeam, c'est une opération de façade : des figures comme [[Frederic Chatillon]] (proche des réseaux néo-fascistes, est allé signer des autographes à [[Leon Degrelle]] dans les années 90) font toujours partie du "good". Elle "essaie de ne pas trop communiquer là-dessus" mais ne les met pas au ban. La continuité est réelle.
+Marine Le Pen a imposé une stratégie de [[Dediabolisation]] : distancer le RN du passé de son père, ne plus tenir de discours frontalement racistes, rebaptiser le parti. Mais pour la PaduTeam, c'est une opération de façade : des figures comme [[Frederic Chatillon]] (proche des réseaux néo-fascistes, est allé signer des autographes à [[Leon Degrelle]] dans les années 90) font toujours partie du "good". Elle "essaie de ne pas trop communiquer là-dessus" mais ne les met pas au ban. La continuité est réelle.
 
 ## Vidéos où Le Pen est analysée
-- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Condamnation et inéligibilité immédiate ; analyse des conséquences pour 2027 ; paradoxe stratégique pour Bardella
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[GRAPHOMARXISME x Positions Revue]] — Analysée comme incarnation de la [[Troisieme voix]] : elle capte les classes en crise, pas la droite classique. Totalement opposée à Fillon malgré la proximité apparente

@@ -40,7 +40,19 @@ Ce passage du politique (Graphique) au féminisme et à l'épistémologie illust
 
 Un dépositionnement matériel (changer d'activité, de milieu de classe) peut faire évoluer les structures mentales, là où l'argument ne le peut pas. La PaduTeam donne l'exemple de Salomé Saqué allant travailler dans une usine à poisson pendant une semaine : "ça l'a un peu dépositionné." La prison au contraire ne dépositionne pas — elle te sort du monde sans te faire changer de position.
 
+## Conscience bourgeoise : organique par nature
+
+La PaduTeam développe une asymétrie fondamentale entre conscience bourgeoise et conscience prolétarienne, s'appuyant explicitement sur [[Georg Lukacs|Lukács]] (*Histoire et conscience de classe*) : la conscience de classe bourgeoise est **automatiquement synchronisée** avec la pratique quotidienne de ses membres. Un bourgeois ne peut pas aller contre sa pratique — faire du business *est* avoir une conscience de classe bourgeoise[^4]. En revanche, la conscience de classe prolétarienne entre souvent en contradiction avec les intérêts immédiats de ses membres (confort, sécurité, le petit pavillon).
+
+D'où la nécessité historique de l'**organisation** pour les travailleurs : les organisations de classe ont dû former la conscience de classe *et* compenser les inconvénients immédiats (structures de solidarité, caisses de santé, caisses de retraite) pour rendre l'action collective possible malgré les contraintes individuelles.
+
+Conséquence pratique : il est structurellement inutile d'argumenter avec un petit-bourgeois sur la taxation des milliardaires. Sa conscience possible lui dit immédiatement "si on taxe Arnaud, ça finira par me taxer moi" — et il n'a pas totalement tort[^5].
+
 ## Vidéos où ce concept est développé
 - [[Le MARXISME, un TRUC de BLANC]] — mobilisé pour défendre le [[Graphique]] comme outil léniniste d'identification des sujets collectifs et de leur programme mobilisateur
 - [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — application à Mos Majorum comme petit-bourgeois autonome ; limites de la discussion face à des structures mentales de classe fermées
 - [[REEDUCATION INCEL LIBERTARIEN]] — prolongement : pourquoi on parle au public de Mos Majorum, pas à lui
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Application aux repas familiaux : la conscience de classe bourgeoise comme conscience "éclairée" car toujours identique à la pratique quotidienne ; nécessité de l'organisation comme contre-mesure structurelle pour le prolétariat
+
+[^4]: [19:50](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1190) — "un bourgeois ne peut pas aller contre sa pratique de la bourgeoisie pour maximiser ses intérêts d'où le fait que […] ils ont une conscience de classe tout le temps qui paraît toujours éclairée parce qu'en fait elle est complètement identique à leur pratique quotidienne"
+[^5]: [20:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1251) — "quand on commence à taxer Bernard Arnaud ça finit qu'on taxe moi — et là tu vois qu'ils comprennent la logique, ils n'ont pas tort en plus"

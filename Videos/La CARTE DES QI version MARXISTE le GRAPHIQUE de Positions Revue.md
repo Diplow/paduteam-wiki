@@ -3,7 +3,7 @@ type: vidéo
 date: 2025-01-07
 youtube_id: MJsGgEA_Slw
 domaine: [théorie, politique-intérieure]
-thèmes: [élections]
+thèmes: [le-Graphique, élections]
 enjeux: [union-populaire]
 aliases: [Carte des QI marxiste, Capsule Graphique Positions Revue]
 date created: Wednesday, April 1st 2026, 5:37:20 pm
@@ -124,6 +124,33 @@ Les débats qui intéressent chaque zone du Graphique varient selon la position 
 4. Le NFP est une alliance structurellement incohérente en termes de composition sociologique
 5. Mélenchon est le barrage structurel à Le Pen — pas le barrage républicain, mais le barrage de classe
 6. La stratégie optimale pour 2027 est la double candidature avec report au second tour
+
+## Individus mentionnés
+- [[Chris]] — concepteur du [[Graphique]], présentateur principal
+- [[Padu]] — animateur, questions de clarification
+- [[Jean-Luc Melenchon]] — analysé comme barrage structurel à Le Pen, barycentre 2017/2022
+- [[Marine Le Pen]] — analysée en concurrence directe avec Mélenchon dans l'espace populaire
+- [[Fabien Roussel]] — critiqué comme exemple d'inadéquation idéologique (capter l'espace Zemmour au lieu du prolétariat)
+- [[Marine Tondelier]] — positionnée dans l'espace bourgeois confus, hors du rapport capital/travail
+- [[Raphael Glucksmann]] — positionné exactement sur le Macron de 2022 aux européennes 2024
+- [[Bernard Friot]] — sa théorie du "salaire à vie" localisée sur l'axe vertical (haut-centre)
+- [[Philippe Poutou]] — exemple de petit candidat composé à 100% d'ouvriers
+- [[Valerie Pecresse]] — exemple de candidat exclu du cercle électoral pour avoir parlé de grand remplacement
+- [[Eric Zemmour]] — distingué de Le Pen : racisme culturel/civilisationnel vs racisme économique de gestion de pénurie
+
+## Organisations mentionnées
+- [[Positions Revue]] — maison intellectuelle du [[Graphique]], Chris animateur
+- [[France Insoumise]] — dans l'espace populaire avec Le Pen et l'abstention
+- [[Rassemblement National]] — en concurrence directe avec LFI dans l'espace populaire
+- [[Europe Ecologie Les Verts]] — "toujours haut milieu", électorat de valeurs, inadéquat sur l'axe capital/travail
+- [[Parti Socialiste]] — explosion visible en 2017 (Hamon = résidu de l'espace PS central)
+
+## Concepts mobilisés
+- [[Graphique]] — outil central expliqué de fond en comble
+- [[Barycentre electoral]] — méthode de positionnement des candidats par composition d'électorat
+- [[Conscience possible]] — implicite dans la notion de "débats qui intéressent chaque zone du Graphique"
+- [[Conflictualite interne aux classes populaires]] — Mélenchon/Le Pen/abstention dans le même espace
+- [[Moisation]] — bas du centre, espace oppositionnel indécis
 
 ## Vidéos connexes
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Autre capsule pédagogique de référence

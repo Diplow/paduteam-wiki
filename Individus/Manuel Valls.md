@@ -29,3 +29,4 @@ Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple de la gauche traîtresse qui a nourri le confusionnisme de Padu ado
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Réaction au mandat CPI : Valls et Habib dans le même camp
+- [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]] — En tant que nouveau ministre des Outre-Mer, soutient une "loi spéciale" à Mayotte qui instrumentalisée par le patronat BTP ouvrirait la voie à la déréglementation du droit du travail (journées de 14h, abaissement des repos)

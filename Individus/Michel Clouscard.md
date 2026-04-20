@@ -51,3 +51,5 @@ Clouscard appartient à une génération de penseurs des années 50-60 qui bén�
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique dialectique des dualismes frivole/sérieux ; lien avec l'hygiénisme prolétarien
 - [[FROM TROTSKISTE TO RACISTE]] — Récupération de Clouscard par Soral ; règle "se méfier de qui ne prend qu'une partie de l'œuvre"
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Cité en comparaison
+- [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]] — *Néofascisme et idéologie du désir* mobilisé pour expliquer le basculement de Cohn-Bendit vers la rhétorique du grand remplacement ; thèse "sous les pavés, Le Pen"
+- [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — *Néofascisme et idéologie du désir* au centre : Macron comme cas d'application de la trajectoire libéral-libertaire → libéral-autoritaire ; démonstration que Soral ne peut pas actualiser Clouscard sans se condamner lui-même

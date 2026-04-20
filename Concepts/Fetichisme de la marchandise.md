@@ -33,6 +33,10 @@ La vidéo [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] ajoute
 
 Correction précise sur la définition du fétiche : Marx n'utilise pas le terme pour comparer à la religion chrétienne (monothéiste, sans fétiche), mais aux religions "archaïques" où des statuettes incarnent des lois supposées extérieures à l'humanité. Le renversement fétichiste : "Pourquoi tu fais ça ? — Parce que le fétiche. Et Marx dit : non, pourquoi le fétiche ? — Parce que vous faites ça."
 
+## Fétichisme chez Jankovici
+
+La PaduTeam identifie le fétichisme de la marchandise comme l'erreur centrale du jankovichisme : Jankovici croit que le pétrole en lui-même porte l'extraction d'énergie, comme si la raréfaction de la ressource déterminait mécaniquement l'effondrement économique. Il ne voit pas que c'est le rapport social capitaliste qui a fait du pétrole une source d'énergie — et que c'est en transformant ces rapports sociaux qu'on dépassera le problème énergétique, pas en comprimant la consommation dans les mêmes rapports de classe[^5].
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
@@ -40,3 +44,6 @@ Correction précise sur la définition du fétiche : Marx n'utilise pas le terme
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — "le monde ne sera plus jamais aussi naturel" après avoir lu le Capital : Marx dénaturalise les rapports marchands comme Darwin a dénaturalisé l'évolution des espèces
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration parfaite du fétichisme de la marchandise : Yasuk possède des sacs Hermès à 10 000-50 000 € (40 mois de salaire de sa nanie) sans percevoir que la valeur d'un objet dépasse celle d'une vie humaine dans son imaginaire. La PaduTeam : "elle considère qu'un sac vaut plus que 4 ans de travail pour être avec ses enfants"
 - [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] — Précision sur ce que le fétichisme n'est pas (complexité ≠ fétichisme) ; correction sur la métaphore du fétiche (religions archaïques, pas monothéisme) ; le Capital comme critique de la prétention de l'économie à être une science autonome
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Application au jankovichisme : le pétrole comme ressource naturelle "en soi" vs le pétrole comme produit des rapports sociaux capitalistes
+
+[^5]: [31:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1911) — "ce n'est pas le pétrole en soi qui porte l'extraction d'énergie — c'est le monde moderne capitaliste, les rapports sociaux — c'est typiquement le fétichisme de la marchandise de Jankovici de croire que le pétrole en lui-même porte l'extraction énergétique"

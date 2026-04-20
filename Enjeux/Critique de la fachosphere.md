@@ -73,6 +73,14 @@ Le panorama que la PaduTeam dresse est intentionnel : Frustration Magazine, Hist
 - **[[Slapp]]** (youtuber) — redpill bourgeoise sans conditions matérielles : le template du militant de gauche nul reconverti à la droite par développement personnel
 - **[[Killian Sensei]]** — masculinisme marchand : vend à des hommes en difficulté une pseudo-science naturaliste (alpha/sigma/beta) pour monétiser leur frustration
 
+### La déconfusion comme indicateur et le retournement du Clouscard soralien
+
+La vidéo [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] fournit un instrument de mesure de la déconfusion : être clashé par [[Egalite et Reconciliation]] signifie qu'on a quitté la zone confuse où extrême droite et gauche se chevauchent encore. L'insulte "gauchiste mou" d'ER est donc un badge d'honneur — pas un reproche à prendre au sérieux.
+
+Plus important : la PaduTeam retourne l'analyse de [[Michel Clouscard]] contre ses faux lecteurs soraliens. ER accuse Padu de ne pas avoir lu Clouscard. La PaduTeam répond : ce que Clouscard dit vraiment, c'est que les libéraux-libertaires deviendront néofascistes *quand la crise rendra leurs promesses insoutenables*. Or actualiser Clouscard aujourd'hui demanderait de reconnaître que c'est précisément l'idéologie petite bourgeoise soraliste (petite propriété, proudonisme non assumé, anti-planification) que la bourgeoisie choisit toujours en période de crise pour faire barrage au communisme. **Soral est lui-même le vecteur du néofascisme que Clouscard décrit.** Il ne peut donc pas actualiser Clouscard sans se désigner lui-même.
+
+La trajectoire de [[Daniel Cohn-Bendit]] ([[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]) confirme le même mécanisme côté libéral-libertaire "de gauche" : Mai 68 → EELV → soutien à Macron → rhétorique du "grand remplacement" à Mayotte. Ce n'est pas la fachosphere au sens strict, mais c'est la même loi de Clouscard appliquée à l'autre bout du spectre "confus" — ceux qui n'ont jamais rompu avec la propriété basculent vers le libéralisme autoritaire dès que la crise l'exige.
+
 ## Évolution
 
 La critique de la fachosphere est un enjeu structurant depuis les origines de la PaduTeam. Un premier corpus de vidéos (nov.-déc. 2024) marque une étape spécifique : la **soralisation** comme phénomène documenté. La montée de la droite identitaire-libérale financée par Bolloré double les figures comme Papacito "par leur droite", les forçant à recentrer vers une ligne confuse. La PaduTeam diagnostique cette dynamique comme le symptôme de l'impasse finale de la fachosphere : sans débouché politique, sans organisation, sans terrain — il ne reste que la boutique.
@@ -85,6 +93,7 @@ Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. Os
 
 ## Vidéos clés
 
+- [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — le clash soraliste comme indicateur de déconfusion ; retournement de Clouscard contre Soral : la boutique petite-bourgeoise soraliste *est* le néofascisme que Clouscard décrit ; Papacito/Rougeyron comme retour à la niche confuse faute de mieux après l'échec zemmouriste
 - [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]] — analyse centrale : soralisation, faux intellectualisme de Rougeyron, échec Gilets Jaunes de Papacito, organisation gauche vs boutique droite
 - [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]] — thèse de Raz validée : incapacité structurelle de la droite à s'organiser ; "ceux qui ne choisissent pas seront broyés par l'histoire"
 - [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]] — l'insulte comme aveu d'incapacité argumentative ; anonymat comme fragilité ; critique de l'islamophobie comme faux courage

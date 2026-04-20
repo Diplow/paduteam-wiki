@@ -99,19 +99,20 @@ Fiches créées : [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXI
 ---
 ## Batch 06 — Semaines 2025-W01 à 2025-W02 (30 déc 2024 – 12 jan 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2025-w01-w02
+Fiches créées : [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]], [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]], [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]], [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]], [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]], [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] + concepts : Marxplaining, Grand remplacement, Liberal libertaire, Dediabolisation, Scenario 95 inverse, Karen (terme), Feminisme materialiste, Pensee rationaliste d'ingenieur, Le Graphique comme outil + individus : Jean-Marc Jancovici, Renaud Camu, Pierre de Brague, Lumi, Medine, Luc Ferry, Jacques Chirac, Alexandre Jaffari, Alex Luau + organisations : L Humanite + enjeux : Guerre des gauches (nouveau)
 
-- [ ] TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)
-- [ ] "MACRON NE FINIRA PAS L'ANNÉE 2025" : analyse MARXISTE !! (avec Chris de Positions Revue)
-- [ ] MARINE TONDELIER se RIDICULISE face à LUMI !! (avec Chris de Positions Revue)
-- [ ] DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT !!
-- [ ] MORT DE JEAN-MARIE LE PEN : DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE ? (avec @Dr_Zoé_YT)
-- [ ] La "CARTE DES QI" version MARXISTE : le GRAPHIQUE de Positions Revue !!
-- [ ] GAZA : LES SIONISTES TUENT DES MÉDECINS, @Dr_Zoé_YT  S'INSURGE !!
-- [ ] La CLIQUE À SORAL me CLASHE : "PUDUSTREAM EST UN GAUCHISTE MOU"
-- [ ] @Dr_Zoé_YT  CANCEL POSITIONS REVUE pour MISOGYNIE sur TONDELIER !! (avec Dr Zoé)
-- [ ] 2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT  !! (x Dr Zoé/Positions Revue)
+- [x] TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)
+- [x] "MACRON NE FINIRA PAS L'ANNÉE 2025" : analyse MARXISTE !! (avec Chris de Positions Revue)
+- [x] MARINE TONDELIER se RIDICULISE face à LUMI !! (avec Chris de Positions Revue)
+- [x] DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT !!
+- [x] MORT DE JEAN-MARIE LE PEN : DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE ? (avec @Dr_Zoé_YT)
+- [x] La "CARTE DES QI" version MARXISTE : le GRAPHIQUE de Positions Revue !!
+- [x] GAZA : LES SIONISTES TUENT DES MÉDECINS, @Dr_Zoé_YT  S'INSURGE !!
+- [x] La CLIQUE À SORAL me CLASHE : "PUDUSTREAM EST UN GAUCHISTE MOU"
+- [x] @Dr_Zoé_YT  CANCEL POSITIONS REVUE pour MISOGYNIE sur TONDELIER !! (avec Dr Zoé)
+- [x] 2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT  !! (x Dr Zoé/Positions Revue)
 
 ---
 ## Batch 07 — Semaines 2025-W03 à 2025-W04 (13 jan 2025 – 26 jan 2025)

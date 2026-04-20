@@ -22,7 +22,15 @@ Les violences sexistes et sexuelles (VSS) ne sont pas des faits divers — ce so
 Le **féminisme bourgeois** est défini par trois caractéristiques :
 1. **Abstraction** : parler "des femmes" en général, comme si elles formaient un bloc homogène. Une aide-soignante en EPHAD et une directrice de CAC 40 ne vivent pas le patriarcat de la même façon.
 2. **Dépolitisation** : réduire le sexisme à des comportements individuels (mansplaining, microagressions) plutôt qu'à des structures économiques (inégalités de salaire, travail domestique non rémunéré, précarité des emplois féminisés).
-3. **Sororité universelle** : demander aux femmes de ne pas "s'attaquer entre elles", ce qui revient à demander aux dominées de ne pas critiquer les femmes en position de pouvoir. Le "Pacte" qui invitait à la solidarité avec Georgia Meloni et Marine Le Pen est l'exemple le plus caricatural de cette logique.
+3. **Sororité universelle** : demander aux femmes de ne pas "s'attaquer entre elles", ce qui revient à demander aux dominées de ne pas critiquer les femmes en position de classe. Le "Pacte" qui invitait à la solidarité avec Georgia Meloni et Marine Le Pen est l'exemple le plus caricatural de cette logique.
+
+### Le féminisme essentialiste EELV comme forme spécifique du féminisme bourgeois
+
+[[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] développe un cas d'école du [[Feminisme essentialiste]] : [[Sandrine Rousseau]] affirme que "quand les femmes seront au pouvoir pour l'écologie ça sera mieux parce qu'elles vont prendre soin de la planète." Pour la PaduTeam : c'est "hyper essentialisant" — ça pose que les femmes sont intrinsèquement douces et altruistes, ce qui est empiriquement faux et politiquement réactionnaire. Il protège les ennemies de classe au nom du genre.
+
+Le terme "Karen" — désignant une femme blanche de classe moyenne-supérieure qui utilise son privilège racial comme outil de domination (cas Amy Cooper / Christian Cooper au moment de la mort de George Floyd) — est un outil du féminisme noir, pas de la misogynie. L'appliquer à [[Marine Tondelier]] (qui qualifie [[Rima Hassan]] de "provocation" à cause de son keffieh) est analytiquement correct selon la PaduTeam.
+
+La [[Condescendance de classe]] de Tondelier envers [[Medine|Médine]] ("il faudra lui apprendre à ne pas être dissipé en classe") illustre que le féminisme essentialiste produit une politique de la condescendance qui s'applique aux dominés racisés et aux classes populaires, pas seulement aux femmes. C'est la cohérence interne du féminisme bourgeois : protéger les femmes qui leur ressemblent, condescendre aux autres.
 
 ## La sororité comme piège
 

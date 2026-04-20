@@ -21,4 +21,4 @@ Le jour de la mort de [[Jean-Marie Le Pen]], Plantu publie un dessin mettant en 
 Pour la PaduTeam, c'est une comparaison grotesque et immonde. La formule de Mélenchon est discutable dans son timing (dite lors d'une recrudescence d'actes antisémites) mais n'est pas comparable à un propos négationniste assumé et répété pendant des décennies. La PaduTeam : "Tu imagines le niveau du gars ? Lui il est né avant la honte."
 
 ## Vidéos où il est mentionné
-- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Dessin comparant Mélenchon et Le Pen qualifié d'"hallucinant" et de "dégueulasse"
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Dessin comparant Mélenchon et Le Pen qualifié d'"hallucinant" et de "dégueulasse"

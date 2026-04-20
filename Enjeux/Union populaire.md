@@ -25,6 +25,16 @@ date modified: Monday, April 20th 2026, 1:27:59 pm
 ## Adversaires de cette position
 Le [[Parti Socialiste]] et sa résurgence néokeynésienne. [[Francois Ruffin]] et sa ligne "populisme de gauche sans antiracisme" ([[Faches pas fachos]]). Les partisans d'une candidature unitaire sans LFI. Les médias qui disqualifient Mélenchon comme "clivant".
 
+## La stratégie des deux gauches au premier tour
+
+[[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] articule explicitement la stratégie électorale de l'union populaire : deux gauches s'affrontent au premier tour pour savoir laquelle affrontera le RN au second. Avec ~22% pour Mélenchon et ~17% pour Glucksmann, la gauche de rupture est qualifiée — et la campagne du premier tour polarise les débats idéologiques (32h, SMIC à 2000€, nationalisations) plutôt que de se noyer dans une synthèse consensuelle. La PaduTeam nomme ce scénario "95 inversé" : en 1995, Jospin et Chirac se retrouvaient au second tour avec Balladur éliminé ; ici, le premier tour révèle quelle gauche a la légitimité populaire.
+
+Le mécanisme de la crise économique (baisse de la production industrielle, montée des défaillances d'entreprises, prévision 80-90 000 en 2025) est lu comme aggravant la fragmentation du bloc bourgeois — ce qui ouvre la fenêtre. Macron "dans le bunker" se maintient non par légitimité mais par absence de remplaçant : le bloc bourgeois ne peut parier ni sur le RN "aventureux" ni sur la gauche de rupture qui attaquera leur valeur.
+
+## La fausse équivalence Mélenchon/Le Pen comme enjeu central
+
+[[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] démonte explicitement les tentatives de [[Sophia Aram]] et [[Plantu]] d'équivalencer Mélenchon et Le Pen le jour de la mort du fondateur du FN. La PaduTeam formule la distinction de fond : les négationnistes de France votaient Le Pen, pas Mélenchon — c'est une adresse politique précise, pas une question de degré. La définition de l'extrême droite donnée dans cette vidéo — "pointer des groupes dominés et leur faire porter tous les problèmes de la France, pour ne jamais se poser la question de l'ordre social, des rapports de production" — est exactement l'inverse du projet LFI. Refuser cette équivalence n'est pas de la partisanerie : c'est la condition d'une politique de rupture qui ne se laisse pas désarmer par la diabolisation.
+
 ## La conflictualité comme stratégie de victoire
 
 Padu et Chris appellent à porter la "conflictualité" directement dans les territoires : salles des fêtes en ruralité, gymnases en quartier populaire, petites villes de province. L'exemple fondateur : Mélenchon en 2012 à Hénin-Beaumont contre [[Marine Le Pen]] — 21-22% dans un fief FN, une "défaite" qui est en réalité une victoire. Le modèle inverse de la stratégie Viktorovitch (commenter de l'extérieur) : aller au contact, affronter, convertir. Référence à [[Benoit Coquard]] sur la nécessité de porter la conflictualité. "Si Mélenchon vient dans votre salle des fêtes et que les gens qui le détestent viennent poser leurs questions, là il casse le game — et en plus France 2 le reprend."
@@ -88,6 +98,8 @@ La PaduTeam formule la leçon géopolitique de gauche : les USA ont commencé le
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Avantage structurel français (casse-noix bilatéral) vs marteau de droite US monolatéral ; LFI a capté le bloc populaire que la DSA peine à construire faute d'organisation de masse
 
 ## Vidéos clés
+- [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — articulation explicite de la stratégie "95 inversé" : deux gauches au premier tour, polarisation idéologique, crise économique comme fragilisation du bloc bourgeois
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — démontage des fausses équivalences Mélenchon/Le Pen ; définition de l'extrême droite par la hiérarchisation des êtres humains ; la dédabolisation comme opération de façade
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Démonstration que deux candidats à gauche valent mieux qu'une candidature unique : avec deux candidats, le premier tour se joue sur des thèmes de gauche (retraites, Palestine, nationalisations), créant une dynamique de report au second tour. Une candidature unique centre le débat sur la droite. "Le vrai barrage antifasciste c'est la victoire de la gauche de rupture, pas la synthèse avec le centre."
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Défense du communiqué LFI sur la condamnation Le Pen ; la position de Mélenchon est rationnelle et cohérente avec la stratégie de bloc populaire ; risque d'isolation si recomposition droite
 - [[LORDON MELENCHON peut GAGNER en 2027]] — [[Frederic Lordon]] valide implicitement la thèse en arrivant aux mêmes conclusions sur 2027 ; la FI décrite comme "aimant" incontournable pour tous les mouvements à sa gauche ; débat sur le positionnement de [[RED Jeunes]] comme cas d'école du dilemme autonomie vs absorption

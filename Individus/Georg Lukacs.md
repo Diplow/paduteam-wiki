@@ -22,3 +22,4 @@ La PaduTeam distingue deux périodes : la période révolutionnaire (1923, *Hist
 
 ## Vidéos où Georg Lukacs est analysé
 - [[Le MARXISME, un TRUC de BLANC]]
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — *Histoire et conscience de classe* mobilisé pour l'asymétrie bourgeoisie/prolétariat : conscience bourgeoise organique et synchronisée avec la pratique quotidienne vs conscience prolétarienne qui nécessite l'organisation
