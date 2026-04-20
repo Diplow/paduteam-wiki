@@ -30,6 +30,13 @@ La transition ne met pas fin à la domination masculine — elle change juste de
 ## Ce qui ne change pas
 Marié ou pas, le niveau de violence dans les couples hétérosexuels reste le même. La différence : sans filet collectif (logement, garde d'enfants, sécurité sociale alimentaire), l'éclatement de la cellule familiale pénalise surtout les femmes. La mise en couple reste un enrichissement pour les hommes et un appauvrissement pour les femmes en moyenne.
 
+## Masculinisme normi
+
+Il existe une forme atténuée du masculinisme individualiste que la PaduTeam appelle le "masculinisme normi" : des individus qui reprennent les arguments masculinistes sans s'identifier comme tels, sans idéologie déclarée, par simple inertie culturelle ou paresse analytique. [[Louis San]] en est l'exemple type : un youtubeur à 1,4 million d'abonnés qui documente le Japon et produit une vidéo sur "pourquoi il ne fait pas bon être un homme au Japon" en reprenant point par point la structure argumentative masculiniste — "concours de souffrance", souffrances masculines réelles détournées du capitalisme patriarcal — sans en avoir conscience.
+
+Le masculinisme normi est parfois plus problématique que le masculinisme déclaré : il touche un public plus large, n'active pas les défenses critiques du public, et produit les mêmes effets (neutralisation de l'analyse féministe, production d'outils pour agresseurs) sous une forme suffisamment modérée pour paraître acceptable.
+
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse centrale, avec la figure de [[Marc]] comme cas d'école
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — le PNJ émigre en Hongrie parce qu'il ne trouve pas de femme en France à cause de la "guerre des genres" ; Padu diagnostique la fragilité masculiniste comme moteur de ce récit
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — cas d'école du "masculinisme normi" : structure argumentative masculiniste reproduite sans idéologie déclarée

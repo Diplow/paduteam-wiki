@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-20-dec2024
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Sunday, April 20th 2026, 12:00:00 pm
 ---
@@ -37,6 +37,34 @@ La PaduTeam : "C'est la seule et dernière discrimination qui leur reste" — po
 ## La précarité économique, pas le féminisme, empêche les familles
 
 Face au discours réactionnaire selon lequel les "valeurs familiales disparaissent" à cause du féminisme, la PaduTeam oppose une lecture matérialiste stricte : ce qui empêche les gens d'avoir des enfants, c'est l'intérim, l'absence de CDI, la spéculation immobilière et les 50 m² d'appartement. La norme hétérosexuelle familiale reste dominante en France — c'est la précarité économique structurelle qui empêche de fonder une famille, pas le féminisme. L'argument masculiniste (le féminisme = guerre contre la famille) masque les déterminants matériels et dédouane le capitalisme.
+
+## Le travail du sexe comme terrain d'application de la grille marxiste-féministe
+
+La question du travail du sexe est un test de cohérence pour le féminisme matérialiste. La PaduTeam y applique la même grille qu'à Mazan : le consentement formel ne suffit pas à analyser un rapport de domination. De même que le salarié "consent" à son exploitation en signant un contrat sans que ce consentement invalide l'exploitation, une travailleuse du sexe peut consentir formellement à une situation produite par des structures économiques, psychologiques et patriarcales qu'elle n'a pas choisies.
+
+La dissociation de [[Lily Phillips]] à partir du 30e homme sur 100 en 14 heures est une preuve matérielle : ce que les corps vivent ne ment pas. Son consentement formel coexiste avec une réalité corporelle qui dit autre chose. La vraie question n'est pas "a-t-elle consenti ?" mais "quelles structures ont produit cette situation ?"
+
+Le marché de la visibilité impose sa logique : réaliser un documentaire de ce type n'est pas une décision libre hors marché — c'est une décision sous la pression d'un marché qui récompense l'escalade. La contrainte économique est constitutive du "choix", exactement comme dans tout rapport salarial.
+
+**La position non-abolitionniste** : la PaduTeam ne demande pas l'interdiction du travail du sexe. Elle défend l'extension des droits des travailleurs du sexe, s'oppose à la pénalisation, et situe la critique au niveau des structures de domination — pas des individus qui les subissent. S'en prendre aux travailleuses du sexe plutôt qu'aux structures qui les mettent en situation de vulnérabilité est la même erreur que s'en prendre aux travailleurs immigrés plutôt qu'au capitalisme qui les met en concurrence.
+
+**La surexposition des travailleuses du sexe aux féminicides** (5-10 % des meurtres de femmes en France, alors qu'elles ne représentent pas ce pourcentage de la population) s'explique par la réification : elles sont perçues comme des choses dont on peut "disposer" — la même logique qui produit les crimes de dépossession dans le couple.
+
+La structure de l'affaire Lily Phillips reproduit celle de Mazan : dans les deux cas, un "passeur" (famille de Lily Phillips / mari de Gisèle Pelicot) monnaye l'accès au corps d'une femme auprès d'hommes anonymes recrutés via internet. La ligne de défense est identique — "elle était d'accord", "on m'avait dit qu'elle était consentante". Dans les deux cas, il ne leur est "pas venu à l'idée" de s'interroger, parce qu'ils sont dans un rapport de chosification.
+
+## L'antiféminisme "normi" comme prolongement du masculinisme déclaré
+
+La PaduTeam identifie une forme d'antiféminisme plus difficile à combattre que l'antiféminisme déclaré : l'antiféminisme "normi", celui qui mobilise des données réelles interprétées dans un cadre qui évacue le capitalisme patriarcal. Des vidéos comme celles de [[Louis San]] sur le Japon illustrent ce mécanisme : constater des souffrances masculines réelles (ikikomori, surcharge de travail, sans-abrisme) pour en faire un argument contre le féminisme, c'est confondre la description des effets du capitalisme patriarcal sur les hommes avec une "domination féminine".
+
+Deux erreurs caractéristiques de cet antiféminisme "normi" :
+
+**Le concours de souffrance** : mettre en balance les souffrances masculines et féminines comme si le féminisme avait pour but de "gagner" ce concours. Le but du féminisme est de comprendre les structures qui produisent ces souffrances — pas de désigner un vainqueur. Les souffrances masculines listées par Louis San (injonction au gagne-pain, pression de l'after-work, ikikomori) désignent le capitalisme patriarcal comme responsable, pas les femmes.
+
+**La statistique sans sociologie** : présenter des chiffres bruts comme des données comparables sans en interroger la construction sociale. 9 ikikomori sur 10 sont des hommes — mais les équivalents féminins de l'anxiété sociale existent sous d'autres étiquettes (anorexie, dysmorphophobie). Les catégories diagnostiques sont genrées, rendant toute comparaison tronquée si elle ne passe pas par la sociologie de leur construction.
+
+**La production objective d'outils pour agresseurs** : dans un pays où 95 % des violences sexuelles ne sont pas déclarées et où seulement 633 personnes sont condamnées par an pour viol sur 124 millions d'habitants, des conseils "comment se comporter si une femme vous accuse d'agression dans le métro" servent objectivement les agresseurs, quelle que soit l'intention de leur auteur.
+
+L'antiféminisme "normi" est difficile à combattre parce qu'il se présente comme informatif et équilibré. Mais ses effets pratiques sont identiques à ceux du masculinisme déclaré : évacuation du capitalisme patriarcal comme structure causale, production d'arguments contre le féminisme, et parfois production directe de ressources pour ceux qui agressent.
 
 ## La méthode sociologique contre le vécu subjectif
 
@@ -142,6 +170,8 @@ Le procès Mazan (sept.-déc. 2024) constitue un moment de révélation de masse
 
 Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique pour que la honte change de camp*) marque une évolution vers le militantisme du témoignage : parler à visage découvert, faire de sa propre histoire un acte politique, créer un espace safe pour les victimes.
 
+Décembre 2024 voit aussi une extension de la grille féministe matérialiste à deux terrains nouveaux. D'abord le travail du sexe : l'affaire [[Lily Phillips]] permet à la PaduTeam de tester l'outil marxiste (consentement insuffisant comme catégorie d'analyse) sur un terrain où le consentement est formellement présent mais structurellement problématique. C'est la même grille que Mazan, formulée sur un terrain différent — ce qui permet de généraliser le mécanisme au-delà du non-consentement évident. Ensuite l'antiféminisme "normi" : la vidéo sur [[Louis San]] documente qu'un antiféminisme non déclaré, qui mobilise des données réelles dans un cadre qui évacue le capitalisme patriarcal, produit des effets pratiques identiques à ceux du masculinisme déclaré.
+
 ## Vidéos clés
 
 - [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — socle analytique : définition médicale de la soumission chimique, banalité du viol, 43% des viols commis par les conjoints
@@ -166,4 +196,8 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
 - [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]] — Dr Zoé / Lou Girard (OST) : matérialisme trans, précarité trans, autosupport, lutte de classe trans, contexte Trump
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — ATR comme antiféminisme + transphobie + validisme ; sujet révolutionnaire féminin et trans ; technique comme condition d'émancipation
+- [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — travail du sexe comme rapport de production ; consentement insuffisant comme catégorie marxiste ; dissociation comme preuve matérielle de violence ; position non-abolitionniste ; lien Lily Phillips / Mazan sur le rapport de chosification
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — antiféminisme "normi" et ses effets pratiques identiques au masculinisme déclaré ; concours de souffrance comme impasse analytique ; statistiques sans sociologie de leur construction ; conseils "anti-fausses accusations" comme ressources objectives pour agresseurs
+- [[ALEX HITCHENS HUMILIE CARLA VYX]] — réification marchande de la femme ("voiture d'occasion dégradée par l'usage") ; récit de viol banalisé en direct ; l'économie de la visibilité recycle la violence en entertainment
+- [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — masculinités vertueuses ; responsabilité collective (analogie Arendt) ; "et maintenant ?" comme passage de la dénonciation à la transformation structurelle
 

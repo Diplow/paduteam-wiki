@@ -64,6 +64,16 @@ Le masculinisme identitaire ne se contente pas de racialiser les VSS — il fabr
 
 Ce mécanisme alimente directement la fuite vers des autoritarismes de droite (Hongrie orbaniste) présentés comme solutions à une insécurité largement construite. La PaduTeam note que le PNJ de droite qui migre en Hongrie interviewe exclusivement des Hongroises anglophones d'extrême droite intéressées par les touristes — et présente ce biais de sélection total comme une "étude de terrain". La [[Internationale fasciste|destination hongroise]] n'est pas anodine : Orbán y a "mis au ban" le féminisme. C'est précisément pour ça qu'elle attire ces profils.
 
+## L'antiféminisme "normi" comme terrain intermédiaire
+
+Entre le masculinisme déclaré (Némésis, Thaïs d'Escufon) et la misogynie vulgaire, il existe un antiféminisme "normi" — pas extrémiste, présenté comme informatif et équilibré, mais qui produit les mêmes effets pratiques. [[Louis San]] en est l'exemple analysé par la PaduTeam.
+
+Ce type de contenu mobilise des données réelles (inégalités de durée de travail, sous-représentation des hommes dans certaines catégories de soin psychiatrique) mais dans un cadre qui évacue le capitalisme patriarcal comme structure causale. Il oppose les souffrances masculines aux souffrances féminines dans une logique de "concours de souffrance" qui neutralise l'analyse au lieu de pointer les structures communes.
+
+Sa particularité dangereuse est qu'il atteint un public qui n'irait pas consommer du contenu masculiniste déclaré — mais qui reçoit le même message de fond : les hommes aussi souffrent, le féminisme exagère, le problème c'est pas le patriarcat. Ce public est potentiellement réceptif au pipeline vers le masculinisme plus dur.
+
+La PaduTeam identifie aussi dans ce type de contenu la production objective de ressources pour agresseurs sous couvert d'information : des conseils sur "comment se comporter si une femme vous accuse d'agression dans le métro" dans un pays où 95 % des VSS ne sont pas déclarées servent objectivement les agresseurs, quel que soit le registre de l'auteur.
+
 ## Le PNJ de droite comme figure type
 
 La PaduTeam décrit le profil caractéristique du "PNJ de droite" : un homme qui perçoit son environnement (femmes, société, mixité) comme une agression permanente, vit sur Twitter plutôt que dans le réel, et traduit sa fragilité sociale en discours politique réactionnaire. Son incapacité à former une relation est attribuée à la "guerre des genres" — en réalité une difficulté personnelle projetée sur un discours idéologique. Voir [[Masculinisme individualiste]].
@@ -98,3 +108,4 @@ La contradiction structurelle : il se plaint de la "politisation de tous les suj
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — antiféminisme naturaliste d'ATR ; manifeste de Mano ; pipeline ATR → extrême droite (Frontières, Valeurs Actuelles, CNews)
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — figure du "PNJ de droite" : fragilité masculiniste → insécurité construite → Hongrie orbaniste comme destination ; la vidéo comme pub pour coaching migratoire
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — démontage de l'argument de la droitarde Herga : focalisation sur les viols par étrangers comme esquive du patriarcat ; biais de classe dans les condamnations vs donnée raciale
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — antiféminisme "normi" : données réelles dans un cadre qui évacue le capitalisme patriarcal ; concours de souffrance comme impasse analytique ; production d'outils pour agresseurs sous couvert d'information

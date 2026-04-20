@@ -132,6 +132,16 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — affaire Nicolas W, MeToo Médecine, mécanismes d'impunité
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la confraternité comme bouclier
 
+## L'économie de la visibilité comme amplificateur de violence
+
+L'affaire [[Alex Hitchens]] / [[Carla Vyx]] illustre un mécanisme propre à l'internet masculiniste : la violence est transformée en contenu consommable. L'émission d'Alex Hitchens utilise le récit de Carla Vyx — qui décrit des expériences que la PaduTeam identifie comme des viols — pour "démontrer" la "dévaluation" d'une femme avec un bodycount élevé. La violence de son parcours (précariat, emprise, famille endettée qui l'emmène dans un club de strip) est recyclée en entertainment et en argument masculiniste.
+
+La définition de la "fille bien" par Hitchens comme une femme "mariable" et la comparaison de Carla à une "voiture d'occasion dégradée par l'usage" documentent la logique marchande de réification à l'état pur. Ce n'est pas une exception — c'est le fonctionnement normal d'un segment entier de l'industrie de la séduction.
+
+## Les travailleuses du sexe : une surexposition documentée
+
+Les travailleuses du sexe représentent 5-10 % des féminicides en France alors qu'elles ne représentent pas ce pourcentage de la population féminine. Cette surexposition n'est pas un accident : elles sont perçues par leurs agresseurs comme des choses dont on peut "disposer" — la même logique qui produit les crimes de dépossession dans le couple. La PaduTeam relie ce fait à la [[Culture du viol]] structurelle, pas à une catégorie de victimes particulière.
+
 ## Adversaires identifiés
 
 - [[Thais d'Escufon]] — "90% des accusations de viol sont fausses" ; normalise le viol conjugal
@@ -150,8 +160,6 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]
 - [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]]
-- [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]]
-- [[ARTHUR NOUS CENSURE DR ZOE EST FOLLE DE RAGE]]
 - [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]]
 - [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]]
 - [[LAMENACEOFFICIAL CONDAMNE POUR VIOLENCES CONJUGALES]]
@@ -160,3 +168,7 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 - [[BAPTISTE PAS NET VIRE DES JO POUR AVOIR POINTE DES FILLES DE 12 ANS]]
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — VSS à gauche : gestion catastrophique par Quatennens (BFM) et Mélenchon (tweet)
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — VSS structurelles dans les orgas militantes : sélection perverse des cadres, management toxique
+- [[ALEX HITCHENS HUMILIE CARLA VYX]] — l'économie de la visibilité recycle la violence en entertainment ; réification marchande documentée en direct ; récit de viol de Carla banalisé par Hitchens
+- [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]] — la fortune comme bâillon juridique (600M€) ; la puissance économique comme arme de censure des critiques ; la domination de classe comme prérequis de la domination de genre en prime time TF1
+- [[ARTHUR NOUS CENSURE DR ZOE EST FOLLE DE RAGE]] — la vraie cancel culture : faire taire les critiques par le droit d'auteur ; le rapport de force inégal assumé et refusé
+

@@ -43,9 +43,18 @@ Ce mécanisme fonctionne avec un **anti-étatisme populaire profond** : les clas
 
 La PaduTeam ajoute : à l'intérieur même du pacte raciste, il n'y a pas de solidarité entre "Français blancs" — on reste dans un mode néolibéral concurrentiel. Les "cassos blancs" sont aussi exclus. C'est un **néolibéralisme racial** : concurrence libérale pour des ressources limitées entre Français, avec exclusion des racisés de cette compétition.
 
+## Le pacte raciste au niveau de l'État : la sortie "Mamadou"
+
+En automne 2023, [[Emmanuel Macron]] déclare en réunion restreinte avec son ministre de la Santé que "le problème des urgences dans ce pays c'est que c'est rempli de Mamadou." Ce n'est pas un dérapage populiste — c'est le pacte raciste formulé au niveau présidentiel : désigner des personnes racialisées comme cause des dysfonctionnements des services publics, pour masquer les politiques néolibérales (pénurie de médecins, fermeture de lits) qui en sont la vraie cause. La PaduTeam souligne que le ministre de la Santé ne contredit pas la prémisse — il dit seulement que ce n'est "pas le premier problème", validant implicitement que c'en est *un*.[^mamadou_etat]
+
+C'est le pacte raciste appliqué à la santé publique : au lieu d'attaquer les politiques comptables qui ont saccagé l'hôpital, on pointe une population racialisée. Le mécanisme est identique à celui du RN sur le logement ou l'emploi, à la différence que c'est le chef de l'État qui le formule.
+
+[^mamadou_etat]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — réunion Élysée automne 2023, rapportée par *Le Monde*
+
 ## Vidéos clés
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Confrontation avec [[Lumir Lapray]] ([[Backseat]]) qui sépare racisme et problèmes matériels. La PaduTeam démontre que les deux sont indissociables et que le débunkage du RN ne suffit pas.
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Approfondissement par Stathis : néolibéralisme racial, anti-étatisme populaire, démantèlement du logement social comme stratégie RN
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — pacte raciste appliqué à l'hôpital public par le président de la République lui-même
 
 ## Le pacte racial américain — Trump 2024
 

@@ -62,6 +62,14 @@ Ce cas illustre la dimension géopolitique du [[Fémonationalisme]] telle que l'
 
 [^iran1]: [27:59](https://www.youtube.com/watch?v=MU-Z4Jt1o2A&t=1679) — "ces femmes-là vont aller militer [...] jamais vous ne les verrez parler des sanctions contre l'Iran"
 
+## L'attentat de Magdebourg : récupération retournée
+
+Lors de l'attentat du marché de Noël de Magdebourg (décembre 2024), Alice Cordier tweete immédiatement : "ne baissez pas les yeux regardez ces images sachez ceux qu'ils sont capables de faire pour protéger votre pays stopper l'immigration". Elle écrit également "des vies détruites voilà à quoi ressemble l'Europe de l'Ouest dirigée depuis des années par des inconscients et des personnes hors sol qui font entrer tout et surtout n'importe quoi sur notre sol." La PaduTeam relève qu'elle "chosifie les migrants" en disant "n'importe quoi" au lieu de "n'importe qui".
+
+Paradoxe central que la PaduTeam pointe : l'auteur de l'attentat (Taleb al-Abdulmohsen) avait obtenu l'asile en Allemagne parce qu'il était persécuté en Arabie Saoudite pour son apostasie — exactement la catégorie de personnes que prétend défendre la rhétorique islamophobe de Cordier. La PaduTeam lui pose la question publiquement : "j'aimerais bien qu'elle nous donne son avis sur les femmes iraniennes [...] si Alice s'compte elle doit nous le dire."
+
+Un autre tweet de Cordier — "ceux qui collaborent avec ces gens devront payer un jour" — vieillit particulièrement mal puisque l'auteur de l'attentat est affilié à l'AFD : "je suis d'accord l'extrême droite déteste la vie [...] mais je pense que c'était pas ce que tu voulais dire."
+
 ## Vidéos où Alice Cordier est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage du retournement narratif, critique de la complicité médiatique (BFM, Marlène Chapaz)
@@ -71,3 +79,4 @@ Ce cas illustre la dimension géopolitique du [[Fémonationalisme]] telle que l'
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — distinguée de Thaïs d'Escufon : Némésis tient un discours moins pire sur le viol conjugal, mais reste identitaire de guerre des civilisations
+- [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — récupération de l'attentat de Magdebourg retournée par le profil réel de l'auteur (apostat saoudien réfugié, affilié AFD)

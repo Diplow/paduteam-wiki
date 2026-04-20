@@ -42,9 +42,14 @@ Le PCF a des intellectuels sérieux (citant [[Bernard Friot]], [[Paul Boccara]],
 
 Paradoxalement, le PCF a quelque chose que la [[France Insoumise]] n'a pas : une vraie implantation locale, des permanents, une présence dans les réunions intersyndicales. La PaduTeam : "Ils ont deux permanents. Ils sont à toutes les réunions, toutes les intersyndicales. Ils loupent rien." Mais cet avantage structurel est gâché par une ligne politique inadéquate (Roussel) qui empêche de capter les bonnes classes sociales.
 
+## La fracture local/national : une clé analytique
+
+La PaduTeam opère une distinction systématique entre le PCF local et le PCF national. Le PCF local — ses militants de terrain, ses permanents présents à toutes les intersyndicales, son implantation historique dans certains bassins — est reconnu positivement. "Au PCF par chez moi, ils sont présents, ils sont présents parce qu'ils sont implantés depuis hyper longtemps." Le PCF national — Roussel, les Fontaines, Annie Kefferman — est en revanche jugé "10 à 15 ans en arrière" sur l'antiracisme, problématique sur le féminisme. Il y a "des puissances droitières dans le PCF qui ont une représentation nationale." Cette tension local/national est présentée comme le nœud analytique : l'organisation en tant que telle a une valeur que sa direction nationale ne mérite pas.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
 - [[Le GRAPHIQUE est-il vraiment SEXISTE]]
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Erreur d'analyse de Roussel sur le vote 2017, Brossat à Bram vs Roussel absent
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse de la crise interne Roussel/Brossat, 40e congrès prévu été 2026, PCF présent à Bram dans une coalition absurde avec des gens à droite de Mélenchon
+- [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — Analyse via la voix d'un abonné PCF : distinction local/national, présence syndicale valorisée, direction nationale en retard sur antiracisme et féminisme

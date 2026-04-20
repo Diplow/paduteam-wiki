@@ -28,5 +28,14 @@ La PaduTeam : "C'est le macronisme de la baise." — la même logique de flexibi
 ## Lien avec la critique de la liberté
 Le capitalisme masculiniste mobilise le concept de "liberté" pour se légitimer (liberté sexuelle, liberté de choisir sans engagement). Mais c'est la [[Liberte des dominants]] : la liberté de dominer sans contrainte institutionnelle.
 
+## Application au travail du sexe
+
+Le cas [[Lily Phillips]] — 100 hommes recrutés via internet sur des créneaux de 2 à 5 minutes — est décrit par la PaduTeam comme la forme la plus visible du capitalisme masculiniste : la femme y est littéralement une marchandise avec un tarif horaire, des créneaux d'accès, et une chaîne logistique (famille, producteurs, plateforme). Le consentement formel ne dissout pas la réification — il en est la condition de légitimation.[^2]
+
+La PaduTeam : "on prend rendez-vous sur internet pour dire je réserve un créneau de 3 minutes à 14h17 en 56e position [...] vous n'êtes pas en train de partager de la sexualité avec quelqu'un, c'est un rapport de chosification au corps de cette personne."[^2]
+
+[^2]: [26:27](https://www.youtube.com/watch?v=7W8760i06fw&t=1587) — "c'est on peut pas parler de ça c'est autre chose [...] une expression de ce que le rapport patriarcal capitaliste fait notamment sur la conception de la sexualité par les hommes"
+
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse de [[Marc]] comme cas d'école du capitalisme masculiniste
+- [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — application au marché pornographique en ligne : réification tarifée, créneaux d'accès, consentement comme légitimation

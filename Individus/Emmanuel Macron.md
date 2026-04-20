@@ -54,9 +54,35 @@ La PaduTeam établit une hiérarchie des positions françaises face à l'enlève
 
 La comparaison avec la France-Afrique est explicite : Macron prépare un "France-Afrique 2.0" en Amérique du Sud, jouant le rôle de sous-traitant de l'hégémonie américaine tout en prétendant défendre une "souveraineté européenne". Le Venezuela révèle l'impossibilité de cette posture.
 
+## Macron à Mayotte — le colon qui s'assume
+
+Après le cyclone Chido (14 décembre 2024), [[Emmanuel Macron]] se rend à Mayotte. Devant des survivants dont des proches sont morts et qui manquent d'eau, il sermonne : "n'opposez pas les gens", "vous êtes bien contents d'être en France", et coupe le micro à ceux qui protestent. Pour la PaduTeam, ce comportement n'est pas un dérapage — c'est "naturel" pour un "énorme colon"[^macron_mayotte].
+
+Le marqueur décisif : il ne tiendrait jamais ce discours à Strasbourg ou Brest après une catastrophe. Le fait qu'il puisse le tenir à Mayotte révèle qu'il ne la considère "pas vraiment" comme la France — il en a conscience ("c'est bizarre le rapport qu'il a à ça")[^macron_mayotte_2]. Mayotte est le [[Abandon colonial des DOM-TOM]] incarné : DOM le plus pauvre de France, sous-doté en services publics depuis des décennies, géré par la tension inter-communautaire plutôt que par l'investissement.
+
+La visite s'accompagne d'une tentative de justification du bilan insuffisant : "il y avait des premières distributions", "le fret ne pouvait pas être organisé avant". Pour la PaduTeam, c'est la même logique du [[Flux tendu neoliberal]] que pendant la crise Covid — refus de stocker des ressources à l'avance parce que "ça coûte de la tune". La gestion de crise comme le comportement révèlent un [[Abandon colonial des DOM-TOM]] cohérent.
+
+[^macron_mayotte]: [1:00](https://www.youtube.com/watch?v=1OUcDuz-HjY&t=60) — "il peut pas ne pas se comporter comme un énorme colon"
+[^macron_mayotte_2]: [7:12](https://www.youtube.com/watch?v=1OUcDuz-HjY&t=432) — "jamais il irait dire en Bretagne si la Bretagne c'était pas la France vous seriez dans la merde"
+
+## Droitisation raciste — les "dérapages" qui n'en sont pas
+
+La PaduTeam documente une trajectoire cohérente de sorties racistes, qui ne sont pas des "dérapages" mais l'expression d'une idéologie réactionnaire de fond :
+
+- **Automne 2023** : lors d'une réunion à l'Élysée avec Alexis Kohler et le ministre de la Santé Aurélien Rousseau, il déclare que "le problème des urgences dans ce pays c'est que c'est rempli de Mamadou"[^macron_mamadou]. La réponse du ministre (« ce n'est pas le *premier* problème ») valide implicitement que c'est *un* problème.
+- **Octobre 2019** : lors d'un entretien avec *Valeurs Actuelles* (dans l'avion présidentiel, whisky tourbé à la main), il désigne les Français d'origine maghrébine par le terme "rabzous" — argot raciste des années 30. Le terme disparaît de la version publiée relue par l'Élysée[^macron_rabzous].
+- **Petit comité (2024)** : qualifie les femmes de gauche (Tondelier, Castets) de "cocottes". Baptise Louis Jouublinû, conseiller d'Attal, "la cage au fol". Ambiance de "Boys Club" dans les cercles rapprochés selon *Le Monde*.
+
+Ces sorties ne sont pas surprenantes pour la PaduTeam : des travaux d'enquête (notamment d'Eldelwell) montrent que Macron est issu d'un milieu réactionnaire et que sa pensée profonde l'est aussi. "On nous a vendu une énorme douille en nous présentant ce gars comme le renouveau."
+
+[^macron_mamadou]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — réunion Élysée automne 2023 avec Kohler et Rousseau, rapporté par *Le Monde*
+[^macron_rabzous]: [9:17](https://www.youtube.com/watch?v=9rptwstCFFk&t=557) — "le terme n'apparaît évidemment pas dans la version publiée relu par l'Élysée"
+
 ## Vidéos
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — A dû modifier ses parcours diplomatiques face aux manifestants réclamant la libération d'Abdallah
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Affirme que la FI est "d'extrême gauche", instrumentalise la mort de Quentin Deranque pour asseoir cette classification
 - [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — "Trumpiste honteux" : appelle Machado pour valider l'opération américaine, comparé à France-Afrique 2.0, hiérarchie des positions françaises face au Venezuela établie.
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Révélation des propos "Mamadou" (automne 2023) + chronologie des sorties racistes (rabzous 2019, cocottes, cage au fol) ; Zoé déconstruit les vraies causes de la crise des urgences
+- [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — visite post-Chido : comportement de colon assumé, [[Abandon colonial des DOM-TOM]] comme politique structurelle, analyse de l'[[Injonction a la dignite]]

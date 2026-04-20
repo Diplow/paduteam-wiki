@@ -78,19 +78,20 @@ Slug branche : ingest-batch/paduteam-2024-w49-w50
 ---
 ## Batch 05 — Semaines 2024-W51 à 2024-W52 (16 déc 2024 – 29 déc 2024)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2024-w51-w52
+Fiches créées : [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]], [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]], [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]], [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]], [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] + 8 concepts, 9 individus, 3 organisations — Enjeux enrichis : Féminisme matérialiste, VSS comme fait social, Antiféminisme identitaire, Plus jamais PS, Défense Sécu
 
-- [ ] ARTHUR : ANIMATEUR TÉLÉ ou PRÉDATEUR qui TRIP0TE et HUMILE les PAUVRES ? (avec @Dr_Zoé_YT)
-- [ ] ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ? (X @Dr_Zoé_YT Positions Revue)
-- [ ] MACRON DÉRAPE : "Le PROBLÈME des URGENCES, c'est que c'est rempli de MAMADOU" !! (X @Dr_Zoé_YT)
-- [ ] 70 VICTIMES dans un ATTENTAT D'EXTRÊME-DROITE mais c'est la FAUTE de L'IMMIGRATION ?????
-- [ ] MAYOTTE : MACRON ENGUEULE encore les SURVIVANTS au cyclone CHIDO !! (avec @Dr_Zoé_YT)
-- [ ] VERDICT MAZAN : TOUS CONCERNÉS, TOUS RESPONSABLES !! (avec @Dr_Zoé_YT )
-- [ ] ARTHUR NOUS CENSURE, @Dr_Zoé_YT  EST FOLLE DE RAGE !!
-- [ ] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 "REPENTIE" (CARLA VYX) C'EST TERRIFIANT ! (X @Dr_Zoé_YT)
-- [ ] LOUIS SAN CATASTROPHIQUE sur le FÉMINISME au JAPON ! (avec @Dr_Zoé_YT)
-- [ ] FOU DE RAGE CET ABONNÉ DONNE SON AVIS : "PADU C'ÉTAIT MIEUX AVANT" !!
+- [x] ARTHUR : ANIMATEUR TÉLÉ ou PRÉDATEUR qui TRIP0TE et HUMILE les PAUVRES ? (avec @Dr_Zoé_YT)
+- [x] ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ? (X @Dr_Zoé_YT Positions Revue)
+- [x] MACRON DÉRAPE : "Le PROBLÈME des URGENCES, c'est que c'est rempli de MAMADOU" !! (X @Dr_Zoé_YT)
+- [x] 70 VICTIMES dans un ATTENTAT D'EXTRÊME-DROITE mais c'est la FAUTE de L'IMMIGRATION ?????
+- [x] MAYOTTE : MACRON ENGUEULE encore les SURVIVANTS au cyclone CHIDO !! (avec @Dr_Zoé_YT)
+- [x] VERDICT MAZAN : TOUS CONCERNÉS, TOUS RESPONSABLES !! (avec @Dr_Zoé_YT )
+- [x] ARTHUR NOUS CENSURE, @Dr_Zoé_YT  EST FOLLE DE RAGE !!
+- [x] ALEX HITCHENS HUMILIE CETTE ACTRICE P0RN0 "REPENTIE" (CARLA VYX) C'EST TERRIFIANT ! (X @Dr_Zoé_YT)
+- [x] LOUIS SAN CATASTROPHIQUE sur le FÉMINISME au JAPON ! (avec @Dr_Zoé_YT)
+- [x] FOU DE RAGE CET ABONNÉ DONNE SON AVIS : "PADU C'ÉTAIT MIEUX AVANT" !!
 
 ---
 ## Batch 06 — Semaines 2025-W01 à 2025-W02 (30 déc 2024 – 12 jan 2025)
