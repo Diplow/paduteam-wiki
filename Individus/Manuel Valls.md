@@ -25,8 +25,13 @@ Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée
 - [[François Hollande]] — Premier ministre sous la présidence Hollande ; la même trajectoire de droitisation
 - [[Benjamin Netanyahu]] — défendu contre la CPI
 
+## Quota médiatique "de gauche"
+
+Dans le réact avec Dr Zoé, Valls est cité parmi les figures qui occupent un quota "de gauche" sur les plateaux d'extrême droite. La PaduTeam note qu'à la différence d'Onfray (dont le rôle de quota ne présente aucun intérêt stratégique), Valls peut avoir une utilité pour la droite libérale : inciter ses anciens électeurs à voter directement à droite (Hollande, kluxman) plutôt que de rester dans la confusion.
+
 ## Vidéos où Valls est mentionné
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple de la gauche traîtresse qui a nourri le confusionnisme de Padu ado
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Réaction au mandat CPI : Valls et Habib dans le même camp
 - [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]] — En tant que nouveau ministre des Outre-Mer, soutient une "loi spéciale" à Mayotte qui instrumentalisée par le patronat BTP ouvrirait la voie à la déréglementation du droit du travail (journées de 14h, abaissement des repos)
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — cité parmi les personnalités se disant de gauche malgré des positionnements objectivement droitiers ; analyse de leur fonction de quota médiatique

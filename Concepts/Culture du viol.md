@@ -64,3 +64,4 @@ Thaïs affirme que les femmes qui disent ne pas vouloir de rapports sexuels avec
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — réification, bodycount, récit de viol banalisé
 - [[LE COACH SEDUCTION FLIPPANT]] — prédation de rue, sélection des femmes vulnérables
 - [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]] — négationnisme du viol, mythe des fausses accusations
+- [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage de Zoé sur le silence à 15 ans malgré un environnement familial favorable ; épisode du tram bondé où Léa, blessée et à moitié dénudée après son agression, n'est pas interpellée par un seul passager

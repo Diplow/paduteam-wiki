@@ -29,4 +29,5 @@ Bardella navigue entre "trumpisme et mélonisme" sans cohérence. Son programme 
 ## Vidéos où Milei est analysé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Miléisme de Bardella démontré comme vassalisation économique
-- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MONDE]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — cité comme référence des YouTubeurs libertariens Le Guiz et OseilleTV ; Milei se dit anarcocapitaliste en théorie mais est minarchiste dans les faits ("dans le réel il faut une minarchie") ; la PaduTeam signale que la hausse de 40% de la bourse argentine traduit une hausse du taux d'exploitation du prolétariat argentin, pas une création de richesse

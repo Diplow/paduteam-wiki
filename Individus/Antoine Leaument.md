@@ -34,3 +34,4 @@ Antoine Léaument est l'un des rares parlementaires à porter publiquement la cr
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — mentionné dans la discussion sur l'assimilation et le nationalisme de gauche
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — face à un médecin de droite (FMF) sur le financement de la Sécu
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — son tweet sur la légalisation du cannabis est le déclencheur du bad buzz du [[MJCF]] (Lena R lui répond que "les addictions aux stupéfiants ne seront jamais une émancipation") ; la PaduTeam prend sa défense

@@ -159,8 +159,21 @@ Les travailleuses du sexe représentent 5-10 % des féminicides en France alors 
 - [[Fugu]] — cas d'école de la défense masculine via vidéo de discréditation
 - Priscilla Even — soutien à Brigitte Macron contre les militantes féministes
 
+## La soumission chimique comme forme spécifique
+
+[[VIOL, SOUMISSION CHIMIQUE — Dr Zoé raconte son histoire]] constitue le témoignage personnel le plus direct de la PaduTeam sur les VSS. Zoé raconte son propre viol à 15 ans lors d'une fête de la musique (trou noir de 23h à 6h, réveil dénudée dans un espace public), les multiples violences ordinaires de sa vie de femme (exhibitionniste à 12 ans, harcèlement à la fac de médecine, agressions sexuelles), et son choix de témoigner publiquement comme acte politique.
+
+Arguments développés :
+- La soumission chimique opère dans tous les contextes — conjugal (affaire Pelicot), professionnel, festif, familial — pas seulement le GHB en boîte
+- 94% des plaintes pour viol classées sans suite (confirmé dans cette capsule)
+- Le silence même en environnement familial aidant : Zoé n'a parlé qu'une dizaine d'années plus tard malgré des parents à l'écoute. Preuve que la [[Culture du viol]] opère au-delà des peurs individuelles — la honte est intégrée structurellement
+- La violence collective de l'espace public pour les femmes : Léa est rentrée en tram bondé après son agression, blessée, à moitié dénudée. Personne ne l'a interpellée. "Genre, encore une gamine bourrée habillée n'importe comment."
+
+Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collective de [[La Breche]] — Zoé intègre formellement les moyens de production collectivisés avec Positions Revue et Padu. La capsule est ainsi à la fois un acte politique sur les VSS ET une annonce d'organisation militante.
+
 ## Vidéos associées
 
+- [[VIOL, SOUMISSION CHIMIQUE — Dr Zoé raconte son histoire]] — témoignage personnel de Zoé ; soumission chimique dans tous ses contextes (conjugal, professionnel, festif, familial) ; le silence malgré un entourage aidant comme preuve de la culture du viol structurelle ; lancement de la chaîne YouTube de Zoé
 - [[MILA REFUSE LES AVANCES DE KROC BLANC IL PORTE PLAINTE]] — harcèlement par messages privés comme mécanique patriarcale documentée ; idéologie de domination masculine comme condition structurelle des comportements de violence sexuelle ; asymétrie de pouvoir homme/femme même dans la droitsphère ; témoignages de femmes de droite donnant plus de crédit aux accusations
 - [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — négationnisme du viol dans des formations masculinistes ("impossibilité de violer sans violence physique") ; mécanisme judiciaire où le plaignant expose ses propres contenus infractions ; la procédure bâillonnante comme risque pour qui nie la réalité des VSS
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]] — diffusion de conversations harcelantes par les victimes comme exercice légal de l'"exception de vérité" ; la rhétorique "droit contre morale" de Kroc Blanc comme écran ; domination patriarcale pour expliquer l'asymétrie dans les réactions aux messages sexuels

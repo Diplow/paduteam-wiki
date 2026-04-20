@@ -80,8 +80,22 @@ Hanouna incarne la contradiction de classe : il prône la destruction de la Séc
 
 La Sécu issue de 1945 (Ambroise Croizat, CGT) a été déjà largement dévoyée. En 1967, les ordonnances De Gaulle ont séparé les caisses et retiré la gestion aux cotisants. Depuis, chaque gouvernement — y compris de gauche — a continué l'érosion. Ce n'est pas une offensive nouvelle : c'est le mouvement de contre-révolution capitaliste que Marx appelait le "mouvement réel" opposé au mouvement d'abolition.[^9]
 
+## Le libertarianisme comme horizon de privatisation totale
+
+[[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] ajoute une dimension comparative : le libertarianisme comme "pensée bourgeoise de gogos bourgeois" qui n'est que la privatisation totale des Sécu poussée à son terme logique.
+
+Arguments ajoutés au corpus de l'enjeu :
+- Le Guiz paie 2 000€/an pour sa famille en assurance privée — les frais de gestion sont de 21-22% vs 3-4% pour la Sécurité Sociale. L'assureur privé n'a aucun intérêt à rembourser.
+- United Healthcare aux États-Unis : 27% de taux de refus de prise en charge — "delay, deny, depose" gravé sur les douilles de l'assassin de son PDG Brian Thompson.
+- Le **surdiagnostic américain** comme biais du taux de survie : détecter plus de cancers qui n'en sont pas fait monter le taux de survie "calculé" sans améliorer les soins réels. L'espérance de vie américaine est inférieure à celle de Cuba.
+- La Colombie comme "paradis libertarien" où l'absence d'État est comblée par des milices d'extrême droite et des narcotrafiquants : taux d'homicide 20 fois supérieur à la France.
+- Les libertariens soutiennent Pinochet (coup d'État contre Allende démocratiquement élu, hélicoptères) tout en prônant la "liberté individuelle" — ils ne défendent pas la liberté des communistes.
+
+La Sécurité Sociale ne produit pas seulement de meilleurs soins à moindre coût — elle incarne un rapport de classe opposé à la logique assurancielle marchande. Le libertarianisme est une idéologie de compensation : il vend aux classes moyennes/populaires l'illusion de s'en sortir individuellement là où la solution est collective.
+
 ## Vidéos clés
 
+- [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré

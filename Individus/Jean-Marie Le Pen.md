@@ -52,3 +52,4 @@ Le [[Graphique]] montre que le vote FN 2002 était un vote caché des classes po
 ## Vidéos où l'individu est mentionné
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Cité comme preuve historique de l'échec des sondages (8% annoncés → 17% réels en 2002)
+- [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Blanchiment par Michel Onfray/Yun via symétrie morale (mort de Le Pen / mort d'Hitler) ; sa mort sert de point d'ancrage au "Printemps républicain" pour discréditer la gauche

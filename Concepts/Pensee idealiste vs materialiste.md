@@ -30,3 +30,4 @@ La position dans le [[Graphique]] détermine la tendance à la pensée idéalist
 
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]] — Démonstration complète de l'opposition idéalisme/matérialisme à travers le cas Bad Mulch
+- [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]] — Critique approfondie de l'idéalisme de Chouard (tirage au sort, raison universelle, constituante) mis en regard avec l'alternative matérialiste : le parlement du travailleur collectif et le doublement du Tiers comme modèle historique

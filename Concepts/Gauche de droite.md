@@ -94,3 +94,4 @@ Le PS reste structurellement une gauche de droite ; Mamdani est structurellement
 ## Vidéos où le concept est développé
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Kamala Harris = Jospin de 2002, analyse structurelle du bipartisanisme américain, 14-15M de voix perdues
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Le PS s'approprie Mamdani pour prétendre être de gauche, "danse du ventre au centre"
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Exemples concrets d'autodétermination politique illégitime ; Naulleau, Valls, Onfray, Dray comme figures de la gauche de droite en service sur les plateaux d'extrême droite

@@ -50,3 +50,4 @@ Voir aussi [[Savoir sans agir]] pour la dimension intellcutelle de cette impuiss
 ## Vidéos où le concept est développé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Parallèle psychanalyse/complotisme, Epstein Files, liturgie trotskiste
+- [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — Formulation de la dialectique dans la critique de [[Francis Cousin]] : "c'est parce que tout le monde complote qu'il n'y a pas de complot" ; les classes comme coopérations de consciences individuelles qui se percutent, sans complot centralisé ni automatisme métaphysique

@@ -5,7 +5,7 @@ thèmes: [féminisme, VSS]
 enjeux: [féminisme-matérialiste]
 date: 2025-01-21
 youtube_id: "VLC13nwzaEo"
-skill_version: ingest-batch-2026-04-13
+skill_version: write-video-2026-04-20
 date created: Monday, April 13th 2026, 2:42:51 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
@@ -35,9 +35,19 @@ Capsule de janvier 2025, diffusée le soir de la sortie du documentaire *Soumiss
 
 7. **La qualité variable des médias**[^7] : Zoé note que certains médias traitent le documentaire de façon "respectueuse" et d'autres de façon "totalement racoleuse" — transformant des histoires de violence en contenu sensationnaliste. Elle refuse d'entrer dans les détails mais le signal est clair.
 
+8. **Le silence malgré un entourage aidant**[^8] : Zoé souligne que si elle avait parlé à ses parents le lendemain, ils l'auraient crue et accompagnée. Pourtant elle s'est tue dix ans. Ce paradoxe — silence même en environnement familial favorable — montre que la [[Culture du viol]] opère au-delà des peurs individuelles ; la honte et la disqualification anticipée sont intégrées structurellement avant même tout refus explicite.
+
+9. **Lancement de la chaîne YouTube de Zoé**[^9] : La capsule annonce formellement l'ouverture de la chaîne YouTube personnelle de [[Dr Zoe]], intégrée dans la structure collective de [[La Breche]] avec Positions Revue et Padu. Collectivisation des moyens de production (montage, équipement). La chaîne se concentrera sur santé, politique de santé et féminisme — formats plus travaillés et montés.
+
 ## Individus mentionnés
 
-[[Dr Zoe]], [[Giselle Pelicot]], [[Caroline Darian]]
+[[Dr Zoe]], [[Giselle Pelicot]], [[Caroline Darian]], [[Dominique Pelicot]]
+
+## Organisations mentionnées
+
+[[La Breche]], [[Positions Revue]] — Zoé intègre formellement la structure collective de La Brèche ; sa chaîne YouTube rejoindra les moyens de production collectivisés avec Positions Revue et Padu.
+
+France 2 / RTBF — chaînes de diffusion du documentaire.
 
 ## Concepts mobilisés
 
@@ -58,3 +68,5 @@ Capsule de janvier 2025, diffusée le soir de la sortie du documentaire *Soumiss
 [^5]: [21:51](https://www.youtube.com/watch?v=VLC13nwzaEo&t=1311) — "Elle est rentrée en tram le matin [...] elle était blessée elle était à moitié dénudée [...] personne s'est arrêté personne est allé la voir pour lui demander si ça allait"
 [^6]: [13:33](https://www.youtube.com/watch?v=VLC13nwzaEo&t=813) — "94% des plaintes pour viol sont classées sans suite y compris venant de victimes qui savent qui est leur agresseur"
 [^7]: [20:18](https://www.youtube.com/watch?v=VLC13nwzaEo&t=1218) — "Certains médias qui le font très bien et de manière très respectueuse et d'autres qui le font d'une manière totalement racoleuse"
+[^8]: [5:13](https://www.youtube.com/watch?v=VLC13nwzaEo&t=313) — "Contrairement à d'autres personnes moi j'étais dans un environnement familial assez écoutant [...] je pense que si j'étais allée voir mes parents ils m'auraient crue [...] et donc ça a été un long travail de comprendre pourquoi j'avais eu ce réflexe-là"
+[^9]: [23:55](https://www.youtube.com/watch?v=VLC13nwzaEo&t=1435) — "Zoé intègre l'association dans laquelle font partie déjà Positions Revue et moi-même [...] on collectivise nos moyens de production ensemble"

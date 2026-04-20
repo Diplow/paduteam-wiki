@@ -118,22 +118,23 @@ Fiches créées : [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]], 
 ## Batch 07 — Semaines 2025-W03 à 2025-W04 (13 jan 2025 – 26 jan 2025)
 
 <!-- ⚠ batch dense : 13 vidéos -->
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2025-w03-w04
+Fiches créées : [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]], [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]], [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]], [[FAURE ETAIT OBLIGE DE TRAHIR VOICI POURQUOI]], [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]], [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]], [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]], [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]], [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]], [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] + individus : Michel Onfray, Pascal Praud, Michel Yun, Yohan du Canard Réfractaire, Le Guiz, OseilleTV, Charles Gave, Vincent Bolloré + concepts : Autodetermination politique, Marxisme heideggerien, Armee de reserve du capital, Technocrate politique vs professionnel de la revolution, Tirage au sort, Darwinisme social, Minarchisme et anarcocapitalisme, Surdiagnostic et biais du taux de survie, Piege mediatique anti-gauche, Strategie de reniment, Eurocentrisme du deuil + enjeux : Confusionnisme rouge-brun (nouveau)
 
-- [ ] ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! ( avec Dr Zoé)
-- [ ] FURAX, SORAL M'INSULTE : "PETIT C0N, PETIT MER-DEUX INCULTE" !! (avec Chris de Positions Revue)
-- [ ] Ce "MARXISTE" a très PEUR du GRAND REMPLACEMENT !! (FRANCIS COUSIN) (avec Chris de Positions Revue)
-- [ ] BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!
-- [ ] FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI ! (analyse MARXOGRAPHIQUE avec Chris/Positions Revue)
-- [ ] Les VRAIS COMMUNISTES SONT-ILS VRAIMENT À LFI et PAS au PCF ? (x Chris de Positions Revue)
-- [ ] CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ? (x Graph, @Dr_Zoé_YT, PositionsRevue)
-- [ ] Le GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)
-- [ ] VI0L, S0UMISSION CHIMIQUE : @Dr_Zoé_YT  RACONTE SON HISTOIRE. (avec Dr Zoé)
-- [ ] ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)
-- [ ] PAYE TON DROITARD #6 - LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ? (@Dr_Zoé_YT)
-- [ ] PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STAL1NE !!
-- [ ] L'ILLUSION DE VILLEPIN : POURQUOI IL NE PEUT PAS GAGNER EN 2027. (GRAPHOMARXISME x Positions Revue)
+- [x] ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! ( avec Dr Zoé)
+- [x] FURAX, SORAL M'INSULTE : "PETIT C0N, PETIT MER-DEUX INCULTE" !! (avec Chris de Positions Revue)
+- [x] Ce "MARXISTE" a très PEUR du GRAND REMPLACEMENT !! (FRANCIS COUSIN) (avec Chris de Positions Revue)
+- [x] BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!
+- [x] FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI ! (analyse MARXOGRAPHIQUE avec Chris/Positions Revue)
+- [x] Les VRAIS COMMUNISTES SONT-ILS VRAIMENT À LFI et PAS au PCF ? (x Chris de Positions Revue)
+- [x] CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ? (x Graph, @Dr_Zoé_YT, PositionsRevue)
+- [x] Le GRAPHIQUE est-il vraiment SEXISTE ? (avec Chris de Positions Revue)
+- [x] VI0L, S0UMISSION CHIMIQUE : @Dr_Zoé_YT  RACONTE SON HISTOIRE. (avec Dr Zoé)
+- [x] ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)
+- [x] PAYE TON DROITARD #6 - LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ? (@Dr_Zoé_YT)
+- [x] PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STAL1NE !!
+- [x] L'ILLUSION DE VILLEPIN : POURQUOI IL NE PEUT PAS GAGNER EN 2027. (GRAPHOMARXISME x Positions Revue)
 
 ---
 ## Batch 08 — Semaines 2025-W05 à 2025-W06 (27 jan 2025 – 9 fév 2025)

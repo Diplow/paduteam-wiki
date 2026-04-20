@@ -18,3 +18,4 @@ La PaduTeam : "Tu te souviens la meuf là Julia Castanier sur le féminisme — 
 
 ## Vidéos où Castanier est analysée
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Citée comme exemple de l'inadéquation de l'entourage Roussel.
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — "Catastrophique sur le féminisme" ; répète des éléments de langage qu'elle n'a pas compris ; confondu avec "l'intersexualité américaine" sans comprendre les enjeux.

@@ -29,3 +29,4 @@ La PaduTeam : "abolir le Sénat et faire un parlement de travailleurs, je peux t
 
 ## Vidéos où le concept est développé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — La PaduTeam commente *Refondation progressiste* de Clouscard et exprime sa préférence pour les États généraux du travailleur collectif vs la constituante LFI
+- [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]] — La PaduTeam développe le modèle concret : 20 % d'ouvriers, 25 % d'employés, 20 % de classes intermédiaires dans le parlement, selon le [[Graphique]] ; analogie avec le doublement du Tiers de 1788 comme processus matérialiste déclencheur de la Révolution française

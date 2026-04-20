@@ -25,3 +25,4 @@ Pour la PaduTeam, son renversement par la CIA prouve que l'impérialisme améric
 
 ## Vidéos où Allende est mentionné
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — Le Guiz se réjouit du coup d'État du 11 septembre 1973 et des hélicoptères de Pinochet ; la PaduTeam retrace le contexte : Pinochet a renversé Allende démocratiquement élu, instauré une dictature de 15-20 ans, fait usage de la "thérapie de choc" néolibérale (Naomi Klein), enlevé les enfants d'opposants pour les confier à des familles pro-régime

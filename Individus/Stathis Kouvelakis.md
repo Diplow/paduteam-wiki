@@ -44,3 +44,4 @@ Défend la ligne de rupture comme seule voie crédible pour la gauche. Soutien c
 ## Vidéos où Stathis Kouvelakis est mentionné
 - [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme invité notable de La Brèche 2024
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — invité principal, analyse de la stratégie de la gauche entre les deux tours des législatives 2024
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Son parcours PCF → NPA → LFI cité comme modèle exemplaire du dilemme militant : articuler radicalité théorique et poids dans le rapport concret

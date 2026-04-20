@@ -31,5 +31,12 @@ Ce qui inquiète la PaduTeam n'est pas tant l'usage par l'extrême droite (atten
 - [[Daniel Cohn-Bendit]] emploie le terme sur LCI face à [[Luc Ferry]], janvier 2025 — analysé dans [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]
 - Renaud Camu, théoricien d'origine : auteur non fiché, originator du concept dans l'espace francophone d'extrême droite
 
+## Le grand remplacement marxien : la variante cousinnienne
+
+[[Francis Cousin]] offre un cas particulièrement sophistiqué : le grand remplacement reformulé en jargon marxien. Cousin parle d'"immanence aliénatoire du capital" qui ferait migrer des populations pour remplacer le "substrat revendicatif" du prolétariat européen par un "substrat aliénatoire passif." La PaduTeam décrypte : "au lieu de parler de blanc et noir, c'est 'la substance du prolétariat originel' — en substance c'est des blancs dont il parle."
+
+La structure est identique à Camu : une population essentiellement révolutionnaire (le prolétariat européen) remplacée par une population essentiellement réactionnaire (les Africains et Asiatiques). Cousin y ajoute la caution du capital marxien de section 25 du *Capital* (l'armée de réserve) — mais en trahit le sens : Marx explique que le capital crée une population surnuméraire pour faire baisser le prix de la force de travail, pas que cette population importée serait "essentiellement réactionnaire" par son origine ethnique.
+
 ## Vidéos où le concept est développé
 - [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]
+- [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — Francis Cousin : le grand remplacement formulé en jargon marxien ; réfutation matérialiste

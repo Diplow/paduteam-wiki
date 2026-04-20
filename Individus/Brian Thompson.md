@@ -30,5 +30,6 @@ La PaduTeam refuse la double désinvolture : ni "il faut condamner le meurtre et
 ## Vidéos où Brian Thompson est analysé
 
 - [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — analyse centrale : contexte, chiffres, comparaison avec la Sécu française
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — cité pour illustrer concrètement ce que produit l'assurance privée : United Healthcare avait un taux de refus de remboursement de 27 %, et Thompson a été assassiné avant la sortie de la vidéo (3 mois après l'entretien Le Guiz/OseilleTV analysé)
 
 [^1]: [13:35](https://www.youtube.com/watch?v=yevSjHVXwsM&t=815) — "Brian Thomson il jouait les règles du jeu qui étaient dicté pas une question de méchant et de gentil là si on veut que ça s'arrête il faut pas que les gens qui soient PDG des assurances privées aux États-Unis soient des gentils ça ne va pas arriver"

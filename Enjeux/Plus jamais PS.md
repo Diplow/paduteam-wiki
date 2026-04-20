@@ -143,7 +143,22 @@ Manifestations concrètes :
 
 Lien structurel : la trahison PS sur la Palestine suit la même logique que la trahison PS en général — un parti dont la base de classe (haut-droite du Graphique) l'oblige à défendre l'ordre sioniste atlantiste. "Ce n'est pas une erreur ou une lâcheté : c'est leur ligne."
 
+## La trajectoire des libéraux-libertaires : de Valls à Onfray
+
+Le corpus de janvier 2025 fournit une analyse croisée de plusieurs figures de la "gauche de droite" : [[Michel Onfray]], [[Eric Naulleau]], [[Manuel Valls]], [[Julien Dray]]. Ces figures occupent un espace médiatique "de gauche" tout en défendant des positions de droite (retraite à 70 ans, anti-LGBT, démantèlement du code du travail, privatisation des services publics).
+
+La thèse de [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] : le positionnement politique ne s'autodétermine pas, il se mesure aux actes et aux programmes. Que ces figures se prétendent "de gauche" ne change rien à leur camp réel. La PaduTeam mobilise [[Michel Clouscard]] pour la trajectoire historique : les anciens maoïstes-trotskistes des années 60-70 (Serge July, Michel Onfray) sont devenus éditocrates libéraux par un mouvement de bourgeoisification cohérent. "Libéraux libertaires devenus néofascistes — ce sont les mêmes personnes."
+
+L'intérêt stratégique : pour les classes moyennes supérieures (confusion du haut), délester ces figures peut valoir — les inciter à voter directement à droite plutôt que pour des réformistes comme Hollande ou Bayrou.
+
+## La gauche de droite comme arme de légitimation médiatique
+
+[[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] démontre la fonction systémique. [[Bernard-Henri Levy]] est "structurellement obligé" de dire que Mélenchon est pire que Le Pen — parce que Mélenchon remettrait en question l'ordre social dont BHL bénéficie, alors que Le Pen le maintient. Son "devoir de décence et de réserve" invoqué pour ne pas qualifier Le Pen de fasciste, face à la violence rhétorique contre Mélenchon, est la preuve matérielle d'un choix de camp. Le Printemps républicain, Naulleau, Dray : même mécanique.
+
 ## Vidéos clés
+- [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — mécanisme de la gauche de droite dans les médias réactionnaires ; trajectoire Clouscard ; fonction de "quota gauche" dans les médias Bolloré
+- [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] — double standard BHL ; bloc bourgeois qui se fascise ; confusionnisme bourgeois progressiste en période de crise
+- [[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] — trahison structurelle démontrée graphiquement ; paradoxe : bonne nouvelle pour la gauche de rupture
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — Tondelier ne sait pas ce qu'est le capitalisme, confond écologie et programme politique, masque son libéralisme derrière un humanisme de classe moyenne ; annonce du Graphique comme outil pour cartographier ces inconsistances
 - [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]] — trajectory libérale-libertaire → libéralisme autoritaire selon Clouscard ; Valls/macronisme permettant la déréglementation coloniale à Mayotte pendant que Cohn-Bendit valide la rhétorique du grand remplacement
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Tondelier incarne le féminisme blanc bourgeois ("Karen") qui instrumentalise le genre contre les intérêts de classe des racisés

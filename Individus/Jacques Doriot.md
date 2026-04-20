@@ -18,3 +18,4 @@ Mentionné dans le contexte de la tradition des "troisièmes voies" fascistes : 
 
 ## Vidéos où Doriot est mentionné
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple historique du confusionnisme rouge-brun français
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — cité dans l'analyse de l'[[Hygienisme proletarien]] comme pont historique entre communisme et fascisme : l'idéologie du prolétariat sain (sobriété, discipline) qu'il a emportée du PCF au PPF

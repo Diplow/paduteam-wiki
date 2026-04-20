@@ -26,4 +26,8 @@ Chaque PCS n'est pas un bloc homogène. À l'intérieur d'un même rond :
 - L'antiracisme est **incontournable** dans les classes populaires, inutile dans les classes dominantes blanches où le clivage racial n'existe pas.
 
 ## Développements annoncés
-La PaduTeam annonce l'ajout de "sélecteurs de dimension tierce" dans le graphique : des filtres permettant de colorer les ronds par proportion genrée ou racisée, visualisant ainsi ces dimensions s
+La PaduTeam annonce l'ajout de "sélecteurs de dimension tierce" dans le graphique : des filtres permettant de colorer les ronds par proportion genrée ou racisée, visualisant ainsi ces dimensions sans ajouter un axe qui rendrait l'outil illisible. C'est une solution de compromis : conserver la lisibilité 2D tout en rendant visible la distribution genrée et racisée à l'intérieur des PCS.
+
+## Vidéos où le concept est développé
+- [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Vidéo fondatrice du concept : défense du Graphique contre les critiques de sexisme/racisme, explication complète des dimensions tierces, annonce des sélecteurs interactifs. Thèse centrale : genre et race sont déjà dans le Graphique, encodés à l'intérieur des ronds.
+- [[Graphique]] — voir la section "Dimensions tierces" pour les applications électorales

@@ -51,8 +51,15 @@ Dans [[TRUMP VEUT ANNEXER LE GROENLAND]] (janvier 2026), la PaduTeam rappelle la
 
 [^bhl_groen]: [1:03](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=63) — « en 2003 quand nous étions déjà des gauchistes [...] on se battait contre l'intervention en Irak. On avait toute une team, les Cohn-Bendit, les BHL qui disaient "ça c'est de l'anti-américanisme primaire". BHL avait même dit que c'était de l'antisémitisme d'être anti-américain. »
 
+## BHL et le double standard fascisme/antisémitisme (janvier 2025)
+
+Sur le plateau CNews (interview avec Pascal Praud), BHL traite Mélenchon d'"antisémite" comparable à Édouard Drumont (auteur de *La France juive*) et qualifie la France insoumise d'"extrême gauche fasciste". Quand Pascal Praud le presse de dire si Marine Le Pen est fasciste, BHL bégaie, se dit "pas ennuyé du tout" mais refuse de répondre — invoquant "un devoir de décence et de réserve".
+
+La PaduTeam formule la thèse explicite : BHL "pense plus ou moins comme Pascal Praud" sur les questions sécuritaires, l'immigration, le conflit israélo-palestinien et l'économie. Sur CNews, il est donc *contraint* de dire que Mélenchon est pire que Le Pen — parce que Mélenchon remettrait en question l'ordre social dont BHL est un bénéficiaire direct. Son double standard n'est pas une incohérence : c'est un choix de camp.
+
 ## Vidéos où BHL est mentionné
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]
 - [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Soirée avec Douglas Murray et Yan Moix ; bégaiement sur BFM ; syllogisme antisémite de l'invité
 - [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — "Israël libère le Liban" ; position sur les deux États ; double standard sur la "légitime défense"
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — disqualification historique de l'anti-américanisme en 2003 ; matrice idéologique dont l'actualité trumpiste oblige à sortir
+- [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Double standard CNews ; Mélenchon comparé à Drumont ; incapacité à qualifier Le Pen de fasciste ; thèse du camp de classe contraint

@@ -94,6 +94,10 @@ Paris ([[Sophia Chikirou]]) : la campagne "Plus jamais PS" se maintient malgré 
 
 Perspectives 2027 : scénario probable Bardella/Mélenchon ou "prophétie interdite" Hollande/Mélenchon. "Vous pouvez avoir un deuxième tour Philippe/Bardella qu'un deuxième tour Hollande/Mélenchon qu'un deuxième tour Mélenchon/Philippe ou Mélenchon/Bardella ou Hollande/Bardella."
 
+## Le mélenchonisme sans Mélenchon : une impasse structurelle
+
+Dans une discussion avec [[Positions Revue]], la PaduTeam formule une thèse explicite : "le populisme mélenchonien sans Mélenchon ne peut pas marcher, comme le gaullisme ne marche pas sans de Gaulle, comme le guévarisme ne marche pas sans Guevara." Ce n'est pas une critique mais un constat structurel. La génération que Mélenchon a formée (Garot, Panot, Bompard, Léaument) devra opérer une "réorientation stratégique" quand il ne sera plus là — si elle tente de "refaire le vieux sans le vieux, ce sera catastrophique." Sa culture politique est reconnue comme "exceptionnelle", porteuse d'une "vision de gauche profonde, une vision du monde."
+
 ## Le tweet Wauquiez/Bompard décodé
 Après le débat [[Manuel Bompard]]/[[Laurent Wauquiez]] sur [[BFM TV]], JLM tweete : "Hélas, les LR ne vont pas le choisir. Cet homme est une bonne affaire pour nous." La PaduTeam décrypte : lire par la fin. "Wauquiez est une bonne affaire" = Retailleau est ce que Mélenchon veut. Message caché : pousser les électeurs LR à voter Retailleau au congrès en leur disant que c'est ce qui avantage Mélenchon — ce qui est paradoxalement aussi dans leur intérêt puisque Wauquiez ferait 4% et perdrait tout.
 
@@ -108,6 +112,7 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[Anasse Kazib]] — à gauche de Mélenchon, son existence potentielle renforcée à 6% signifierait que la FI est "recentrée" dans le paysage = hégémonie de gauche en construction
 
 ## Vidéos où Mélenchon est analysé
+- [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Traité de "fasciste" et d'"antisémite" comparable à Drumont par BHL ; double standard démontré ; défendu comme cible structurelle du bloc bourgeois en fascisation
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Défendu contre l'accusation d'antisémitisme, comparé aux FFI face au discours "antifrance" de Bergé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice de la prophétie
@@ -127,3 +132,4 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Validation progressive par les médias mainstream ; sous-estimation documentée ; nécessité de refonder l'avenir en commun
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Réaction blog post-Bram ; Glucksmann impose sa ligne ; Mélenchon dans la position de Mitterrand 1981
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du "dossier" Dray ; diabolisation absurde comme carburant du vote caché
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Mélenchonisme inséparable de Mélenchon ; culture politique "exceptionnelle" saluée ; génération formée devra réorienter après lui

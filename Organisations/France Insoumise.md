@@ -52,7 +52,12 @@ Cas emblématiques : [[Hugo Prevost]] (harcèlement et violences sexuelles sur 4
 
 Contre-exemples de bonnes sélections : [[Lyas Loufok]], [[Amal Bentounsi]], [[Sabrina Alibay]] — mais leur sélection dépend de la "bonne volonté" de Mélenchon, pas d'une structure systémique.
 
+## Critique de l'implantation et des cadres (2025)
+
+Dans une discussion avec [[Positions Revue]], la PaduTeam formule une critique précise : LFI devrait s'implanter dans les contre-pouvoirs de gauche comme le PS des années 70 (associations, structures syndicales) pour construire un ancrage durable. Elle ne le fait pas parce qu'elle est "dans l'urgence" — Mélenchon joue sa dernière carte, tout est subordonné à 2027. Par ailleurs, les cadres sont devenus des "technocrates politiques" plutôt que des "professionnels de la révolution" : ils gèrent des dossiers mais ne transmettent pas une vision du monde. La Boétie est une "université populaire", pas un centre de formation de cadres — pas orientée vers la pratique.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan détaillé : victoires en solo, défaites en alliance, stratégie post-municipales
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique du mode de sélection des cadres ; VSS structurelles dans les orgas militantes
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Non-implantation dans les contre-pouvoirs ; cadres technocrates vs professionnels de la révolution ; La Boétie comme université populaire seulement
