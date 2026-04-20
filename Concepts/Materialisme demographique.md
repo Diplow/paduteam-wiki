@@ -29,6 +29,8 @@ Là où [[Emmanuel Todd]] affirme que les systèmes familiaux ont une permanence
 - La démographie des États-Unis au 19e siècle (13 colonies → 100 millions d'habitants) s'explique par les conditions matérielles de l'époque, pas par des valeurs culturelles
 - La crise de natalité actuelle en Chine (1,1 enfant/femme) et en Russie (1,5) est liée à leur mode de production industriel tardif
 - La chute de natalité en France depuis 2016 n'est pas causée par #MeToo ou le mariage pour tous (comme le prétend Todd) mais par la dégradation des conditions matérielles
+- **La Hongrie contre le natalisme racial** : face à [[Thais d'Escufon]] qui attribue la baisse de natalité au féminisme, la PaduTeam oppose l'exemple hongrois — "qu'on ne peut pas taxer de wokisme". Le taux de natalité en Hongrie (pays anti-féministe, anti-immigration, orbaniste) est nettement plus bas qu'en France. La conclusion s'impose : ce sont les conditions matérielles d'existence (logement, revenus, précarité) qui déterminent le nombre d'enfants, pas le féminisme ni l'immigration.
 
 ## Vidéos où le concept est développé
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
+- [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — exemple Hongrie comme réfutation directe du natalisme racial de Thaïs d'Escufon

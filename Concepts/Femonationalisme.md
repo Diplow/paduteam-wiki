@@ -72,6 +72,7 @@ Le corpus Iran (janvier-mars 2026) fournit des cas d'école supplémentaires du 
 [^iran4]: [34:18](https://www.youtube.com/watch?v=yPJKov273gs&t=2058) — "elles viendraient dans le centre impérialiste pour pouvoir faire nounou ou femme de chambre"
 
 ## Vidéos où le concept est développé
+- [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — mécanique de la normalisation par la blondeur ; survisibilité médiatique d'une militante blanche comme vecteur d'acceptabilité pour un agenda fasciste
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — la PaduTeam développe la dimension économie politique du fémonationalisme via Sara Farris
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration concrète : une influenceuse parisienne à Dubaï emploie une nanie ougandaise à 700€/mois, séparée de ses propres enfants. La PaduTeam : c'est exactement l'économie politique du care décrite par Farris — femme du centre impérialiste, travail domestique assuré par la périphérie de la périphérie

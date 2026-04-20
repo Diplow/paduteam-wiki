@@ -34,3 +34,4 @@ La PaduTeam utilise ce concept en lien avec l'[[Analyse concrete de la situation
 
 ## Vidéos où le concept est développé
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Application principale ; Nicolas Sarkozy comme tragédie, son fils comme farce ; développement du concept tragédie/comédie au sens théâtral (Racine vs Molière)
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Application à l'élection américaine : Trump 2016 était "tragique" (il y avait encore un espace de sortie), Trump 2024 est "farce" (le même scénario se rejoue sans surprise). La France peut capitaliser sur ce bis repetita pour avancer sa propre gauche radicale.
