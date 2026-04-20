@@ -38,3 +38,4 @@ La PaduTeam refuse la solution individuelle (chaque bourgeois doit "faire un eff
 
 ## Vidéos où le concept est développé
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — démonstration du biais de Louis San : ses graphiques sur le "temps de travail" excluent le travail domestique et la charge mentale, massivement féminins, ce qui inverse artificiellement les conclusions

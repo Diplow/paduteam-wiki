@@ -41,3 +41,4 @@ La PaduTeam, visiblement affectée : "je suis désolée mais elle parle de viol 
 
 ## Vidéos où Alex Hitchens est analysé
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — analyse centrale du rituel d'humiliation
+- [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — cité en parallèle comme figure de la réification marchande des femmes ; la PaduTeam signale l'incertitude sur son positionnement politique exact (pro-Trump, discours libertarien, mais pas identitaire classique)

@@ -30,7 +30,14 @@ La PaduTeam critique l'asymétrie : critiquer le discours de quelqu'un avec des 
 - [[Kroc Blanc]] — même sphère YouTube, a minimisé ses accusations
 - [[Le Fouallier]] — cible de sa vidéo de 2h17 bourrée de fake news
 
+## Modèle de format : le génie de la communication
+
+Dans une vidéo de décembre 2024, Padu convoque Psychodélique comme modèle-repoussoir et modèle-d'inspiration à la fois pour analyser son propre format. D'un côté, Psychodélique est "un génie de la communication" qui a su adapter son contenu à la plateforme — micro-événements absurdes, vidéos courtes, flux quotidien, drama entretenu — et qui est "le meilleur d'entre nous au niveau communication." De l'autre, son format "psycho" (d'extrême droite) est exactement le format que Padu a voulu développer à gauche avec Pas du Stream : présence quotidienne, contenu consommable en fond, réactions à chaud. La PaduTeam reconnaît avoir "copié le format" tout en changeant le camp[^psyd1].
+
 ## Vidéos où Psychodélique est analysé
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]
 - [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]]
+- [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — cité comme modèle de format (génie de la communication) et comme repoussoir (format d'extrême droite reproduit à gauche)
+
+[^psyd1]: [31:34](https://www.youtube.com/watch?v=DdlOiP4K2bE&t=1894) — "psychodélique on peut dire ce qu'on veut mais c'est un génie de la communication [...] le meilleur d'entre nous au niveau communication"

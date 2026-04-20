@@ -91,6 +91,10 @@ Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Pode
 
 **[[Raphael Glucksmann]] comme équivalent Démocrate mainstream** : dans l'analyse de la défaite de Kamala Harris, la PaduTeam établit explicitement : Glucksmann = aile droite des Démocrates US. La "[[Gauche de droite]]" existe des deux côtés de l'Atlantique et produit les mêmes résultats.
 
+## Macron comme illustration de la droitisation moïsatrice
+
+Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], la PaduTeam mobilise implicitement la Moïsation pour lire la trajectoire de Macron : ses sorties racistes ("Mamadou", "rabzous", "cocottes") ne sont pas des dérapages mais la révélation cohérente d'une pensée réactionnaire que la Moïsation rend visible. À mesure que les blocs se consolident, Macron ne peut plus prétendre être "au-dessus des partis" — il est contraint de choisir un camp, et il choisit de brosser dans le sens du poil les idées xénophobes de l'extrême droite pour conserver son bloc bourgeois. La Moïsation révèle ce que le moment populiste de 2017 masquait.
+
 ## Vidéos où le concept est analysé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
 
@@ -116,3 +120,4 @@ Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Pode
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Moïsation américaine : données 2025 (60%+ pro-socialisme chez les Démocrates), rapport de forces DSA/NFP, avantage structurel de la France (casse-noix vs marteau)
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Signal de moïsation locale à NYC : 50% au premier tour, programme radical, généalogie BNC/AOC
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale du "casse-noix vs marteau" (novembre 2024)** : la défaite de Kamala sert de révélateur — la moïsation américaine est monolatérale (un seul bloc de rupture, Trump), la moïsation française est bilatérale (LFI + RN). La France a "la plus grosse gauche radicale d'Europe" grâce à cette asymétrie favorable
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Macron comme cas d'école de la droitisation moïsatrice : ses sorties racistes (Mamadou 2023, rabzous 2019) révèlent la pensée réactionnaire que le moment populiste de 2017 masquait

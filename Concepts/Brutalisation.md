@@ -29,10 +29,17 @@ La PaduTeam articule deux dimensions :
 - **Forces de l'ordre en France** : la loi Cazeneuve (loi cas9), permettant aux policiers de tirer dans certaines situations, a abouti à la mort de Rémy Fraisse. Les lois de plus en plus favorables aux forces de l'ordre en France n'ont pas produit de baisse de la violence[^2].
 - **Le PNJ en Hongrie** : le droitard qui admire la justice "punitive" hongroise ignore que la criminalité n'est pas mesurée objectivement mais perçue subjectivement via des biais idéologiques (voir [[Fabrication du sentiment d insecurite]]).
 
+## Application à la radicalisation médiatique d'extrême droite
+
+Le cas de l'attentat de Magdebourg (décembre 2024) étend le concept de brutalisation au-delà de la violence d'État. Taleb al-Abdulmohsen, l'auteur, a été intoxiqué par l'infosphère islamophobe (influenceurs d'extrême droite, newsers, figures comme [[Jean Messia]]) qui ont nourri ses biais de confirmation et amplifié sa conviction que "la paix ne sert à rien." Le mécanisme : chaque information allant dans son sens amplifiée, chaque alternative ignorée — jusqu'à ce qu'il proclame publiquement en août 2024 "l'Allemagne veut nous tuer nous massacrerons mourront irons en prison avec fierté depuis que nous avons épuisé tous les moyens pacifiques."
+
+La PaduTeam généralise : la plupart des gens exposés à cette infosphère ne passeront pas à l'acte — "heureusement d'ailleurs." Mais certains, avec des histoires de vie particulièrement chargées, peuvent suivre cette logique jusqu'au bout. C'est la dimension brutalisation appliquée non à la violence d'État mais à la violence idéologique médiatique d'extrême droite.
+
 ## Vidéos où le concept est développé
 
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — explication du concept en réaction à l'admiration pour la justice punitive hongroise
 - Vidéo avec le fou allié (chaîne principale PaduTeam) — développement plus approfondi cité dans le transcript
+- [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — extension à la radicalisation médiatique islamophobe : l'infosphère d'extrême droite comme vecteur de brutalisation
 
 [^1]: [25:47](https://www.youtube.com/watch?v=WA38skrpKp4&t=1547) — "dans les états où on accepte la peine de mort [...] on fait augmenter le taux de violence de la population"
 [^2]: [27:52](https://www.youtube.com/watch?v=WA38skrpKp4&t=1672) — "la loi cas9 qui aboutit à la mort de Rémy Fraisse [...] les forces de l'ordre sont de plus en plus en roulibles en France et on n'a pas vu une baisse de la violence"

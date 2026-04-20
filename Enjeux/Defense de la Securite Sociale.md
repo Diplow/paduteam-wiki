@@ -45,7 +45,13 @@ La proposition de basculer des remboursements vers les complémentaires privées
 
 Les Affections de Longue Durée (cancer, diabète, épilepsie, pathologies psychiatriques chroniques) sont prises en charge à 100% par la Sécu — et c'est une cible. Les [[Jours de carence|jours de carence]] déjà imposés sont contre-productifs : les gens retournent au travail malades, contaminent leurs collègues, font des arrêts plus longs. Augmenter les jours de carence coûte plus cher, pas moins.[^5]
 
-### 5. La fermeture des services hospitaliers
+### 5. La démographie médicale sabotée : pénurie programmée depuis 30 ans
+
+La crise des urgences n'est pas due aux patients étrangers — c'est une pénurie organisée. Le flux hospitalier fonctionne comme de la plomberie : si ça bouche aux urgences, c'est parce qu'il y a trop de pression à l'entrée (pas assez de médecine générale en amont, faute de médecins formés) et pas assez de débouché à la sortie (pas assez de lits en aval). La sous-formation médicale est une décision politique des années 80-90 dont les effets s'étalent sur 30 ans — et qui a encore 5 à 10 ans devant elle.
+
+**L'impossibilité du flux tendu en santé** : contrairement à une usine, les flux en santé sont fondamentalement imprévisibles. Un service sait combien d'infarctus il prendra en moyenne sur un an — mais pas combien il en aura dans le mois. Supprimer les variables d'ajustement (lits non occupés en permanence) pour des raisons comptables, c'est condamner le système à la saturation dès le premier pic saisonnier. La logique néolibérale du flux tendu, appliquée à l'hôpital, est structurellement létale. La gestion du cyclone Chido à Mayotte illustre la même logique : refuser de pré-positionner des stocks d'eau parce que "le cyclone passera peut-être à côté".
+
+### 6. La fermeture des services hospitaliers
 
 Sous Macron : **30 000 lits fermés**. La [[Tarification a l acte|tarification à l'acte]], introduite par le PS, transforme les hôpitaux en entreprises qui coupent des services quand ils ne sont pas rentables — même quand la dégradation des soins coûte finalement plus cher. La fermeture de centres d'accueil de crise psychiatrique en est l'exemple le plus frappant.[^6]
 
@@ -78,7 +84,11 @@ La Sécu issue de 1945 (Ambroise Croizat, CGT) a été déjà largement dévoyé
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — attaque sur l'universalité
+<<<<<<< HEAD
 - [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]] — le [[Ratchet droitier sur les droits du travail|ratchet droitier]] comme mécanisme itératif formulé explicitement dès l'introduction ; démontage médical et statistique par Zoé (données DARES, taux d'arrêt par corps de métier, artefact Covid) ; thèse de la soumission comme finalité réelle de la mesure au-delà de l'argument gestionnaire
+=======
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — pénurie organisée de médecins depuis 30 ans comme vraie cause de la crise des urgences ; impossibilité du flux tendu en santé ; le racisme d'État (argument "Mamadou") comme cache-misère du désastre néolibéral hospitalier
+>>>>>>> ingest-batch/paduteam-2024-w51-w52
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"
 [^2]: [11:24](https://www.youtube.com/watch?v=jtDb2meKMn8&t=684) — "la fraude massive qui existe en France qui est estimée entre 80 et 100 milliards d'euros par an, c'est la fraude fiscale"

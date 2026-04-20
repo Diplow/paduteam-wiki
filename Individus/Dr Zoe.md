@@ -83,6 +83,12 @@ Dans les 5 vidéos sur Némésis et Alice Cordier, Zoé est la voix analytique p
 
 Elle décrit sa pratique médicale rurale comme source directe de la réalité des VSS : "j'ai des vieilles dames de 80 ans qui parlent de l'inceste de leur père pour la première fois à 80 piges." Pas d'histoire d'étranger dans ce cabinet.
 
+## Expertise sur les VSS au Japon
+
+Dans le react Louis San, Zoé apporte les données clés qui manquent à la vidéo critiquée : le taux de non-déclaration des VSS au Japon (95 % selon des études de médias japonais 2017-2018), les 633 condamnations pour viol sur 124 millions d'habitants, et le raisonnement qui en découle sur les "fausses accusations". Elle pointe également le biais de genre dans les classifications diagnostiques : les ikikomori (phénomène masculin) ont une catégorie, les anxiétés féminines équivalentes (anorexie, dysmorphophobie) en ont d'autres — la comparaison brute ne dit rien[^vss-japon].
+
+[^vss-japon]: [9:50](https://www.youtube.com/watch?v=kYn81ZW5Io8&t=590) — "va chercher des catégories d'anxiété sociale chez les femmes [...] la catégorie est faite comme ça"
+
 ## Vidéos où Dr Zoé est mentionnée
 - [[Nicolas qui paye]] — Première vidéo avec le Graphique, analyse féministe des écarts salariaux cadres et de la prolétarisation genrée
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Analyse de la position de classe des médecins à travers l'exemple de Zoé : pas capitaliste, tarif réglementé, fonctionnarisation comme horizon progressiste
@@ -96,3 +102,4 @@ Elle décrit sa pratique médicale rurale comme source directe de la réalité d
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage de la récupération d'extrême droite de l'affaire Mazan
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — bilan du procès, banalité du viol, masculinités vertueuses, révèle à nouveau avoir été victime
 - [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage complet, documentaire France 2, annonce de sa chaîne YouTube
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — co-animatrice du react ; apporte les données sur les VSS japonaises et le biais des catégories diagnostiques genrées

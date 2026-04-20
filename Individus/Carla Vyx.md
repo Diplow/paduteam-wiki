@@ -35,3 +35,4 @@ Carla Vyx n'est pas une figure PaduTeam et n'est pas analysée en tant que telle
 
 ## Vidéos
 - [[ALEX HITCHENS HUMILIE CARLA VYX]]
+- [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — citée en parallèle à [[Lily Phillips]] : deux trajectoires documentées de contrainte économique dans le travail du sexe

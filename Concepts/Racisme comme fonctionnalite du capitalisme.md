@@ -39,6 +39,20 @@ L'explication matérialiste s'appuie sur [[CLR James]], [[Eric Williams]], [[W.E
 
 L'exploitation des saisonniers marocains par la [[Coordination Rurale]] illustre le mécanisme : l'exploitant ([[Alain Aunac]]) stigmatise les Marocains en politique tout en les exploitant dans des conditions d'esclavage. Ce n'est pas une contradiction — c'est la cohérence du système. La déshumanisation raciste est nécessaire pour que l'exploitation soit psychologiquement tenable pour l'exploiteur.
 
+## Application : le cas de l'hôpital public
+
+Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], la PaduTeam illustre le mécanisme à travers la sortie raciste de Macron sur les urgences. Les politiques néolibérales qui ont saccagé l'hôpital public (pénurie de médecins organisée, fermeture de lits, flux tendu) sont masquées par la désignation raciale. La déshumanisation ne sert pas ici à exploiter un groupe de travailleurs, mais à dédouaner les responsables politiques de leurs choix budgétaires. Le racisme fonctionne comme écran : "et ensuite nous expliquer que c'est la faute des Mamadou" (Zoé, à propos des gestionnaires néolibéraux qui ont détruit l'hôpital)[^hop_racisme].
+
+[^hop_racisme]: [7:13](https://www.youtube.com/watch?v=9rptwstCFFk&t=433) — "sur les petites colonnes Excel des mecs qui se sentent très très intelligents [...] pour faire exactement la même merde depuis 40 ans et ensuite nous expliquer que c'est la faute des Mamadou"
+
+## Application : Mayotte et la tension Mahorais/Comoriens
+
+Dans [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]], la PaduTeam illustre le mécanisme à l'échelle d'un territoire colonial. Les DOM-TOM sont structurellement sous-dotés en services publics (eau, soins, logement) — Mayotte est le DOM le plus pauvre de France. Plutôt que d'investir, l'État organise la tension inter-communautaire entre Mahorais et Comoriens : "plutôt que d'aller s'énerver contre le gros capitaliste [...] on dit à la personne qui a qu'un seul cookie regarde le mec qui a zéro cookies — l'étranger le Comorien il veut te voler ton cookie"[^mayotte_cookie]. Le résultat concret : lors du cyclone Chido (décembre 2024), les personnes en situation irrégulière n'ont pas rejoint les abris par crainte des rafles — une décision rationnelle dans un contexte de "chasse aux étrangers organisée depuis longtemps". La déshumanisation raciste a littéralement tué des gens.
+
+[^mayotte_cookie]: [4:36](https://www.youtube.com/watch?v=1OUcDuz-HjY&t=276) — "plutôt que d'aller s'énerver contre le gros capitaliste et nos dirigeants qui ont une montagne de cookies devant eux on dit à la personne qui a qu'un seul cookie dans son assiette regarde le mec qui a zéro cookies là"
+
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — développement central du concept
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — application à la crise hospitalière : le racisme comme écran aux responsabilités néolibérales
+- [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — application à Mayotte : tension Mahorais/Comoriens comme gestion par le pacte raciste d'une pénurie de services publics organisée

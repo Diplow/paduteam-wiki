@@ -18,6 +18,15 @@ Classé d'extrême droite sans hésitation par la PaduTeam (notant que Wikipedia
 
 VA+ (la chaîne YouTube/streaming) est analysée comme représentant la "tendance ridiculiste du fascisme" — des bourgeois qui se piquent de défendre les ouvriers sans jamais avoir mis les pieds dans le monde du travail. La PaduTeam : "le combat ouvrier, si tu leur demandes 3 moments, ils saignent du nez."
 
+## Macron et Valeurs Actuelles — le "premier grand entretien" sur l'immigration
+
+En octobre 2019, [[Emmanuel Macron]] choisit *Valeurs Actuelles* pour son premier grand entretien sur l'immigration. L'interview se tient dans son avion présidentiel, verre de whisky tourbé à la main. C'est dans ce cadre qu'il emploie le terme "rabzous" pour désigner les Maghrébins — terme supprimé de la version publiée relue par l'Élysée. Le directeur de la rédaction Geoffroy Lejeune déclare quelques mois plus tôt à Macron : "Vous êtes très bon quand vous venez sur notre terrain." Réponse de Macron : "C'est celui que je préfère."[^macron_VA]
+
+La PaduTeam commente : le "plus gros passoire fascisante du siècle" fait ses premiers entretiens sur l'immigration dans le magazine d'extrême droite, tient des propos racistes supprimés à la relecture, et complimente la rédaction de lui avoir montré qu'il est "à l'aise" sur leur terrain. Ce n'est pas de l'opportunisme — c'est une affinité.
+
+[^macron_VA]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — [8:47](https://www.youtube.com/watch?v=9rptwstCFFk&t=527) — "le Président donne son premier grand entretien sur l'immigration en octobre 2019 et choisit pour cela le magazine d'extrême droite Valeurs Actuelles [...] verre de whisky tourbé à la main"
+
 ## Vidéos où Valeurs Actuelles est mentionné
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
 - [[FROM TROTSKISTE TO RACISTE]] — VA+ comme lieu de témoignage de Luc, "tendance ridiculiste du fascisme"
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Macron choisit VA pour son premier entretien sur l'immigration (2019), utilise "rabzous", complimente Lejeune

@@ -23,6 +23,7 @@ Les partis qui forment cette internationale ne sont pas idéologiquement identiq
 - [[Matteo Salvini]] puis [[Giorgia Meloni]] — Italie (étapes successives)
 - [[Călin Georgescu]] — Roumanie, candidat annulé
 - [[Vladimir Poutine]] — Russie, soutien extérieur et liant de l'internationale
+- [[Alternative fur Deutschland|AFD]] — Allemagne ; son idéologie islamophobe a alimenté la radicalisation de l'auteur de l'attentat de Magdebourg (décembre 2024)
 
 ## Opposition à l'UE technocratique
 L'internationale fasciste entre en conflit avec le "bloc européiste/démocrate" (von der Leyen, Macron, etc.). Ce bloc européiste lui-même n'est pas un rempart progressiste : il a "massacré des peuples avec sa politique", appliqué les pires logiques néolibérales, maintenu Frontex, laissé mourir des migrants en Méditerranée. La lutte entre les deux blocs est une lutte intérieure à la bourgeoisie, pas un affrontement entre la démocratie et la réaction.
@@ -35,3 +36,4 @@ Le bloc européiste utilise l'appareil judiciaire et institutionnel pour contrer
 
 ## Vidéos où le concept est développé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
+- [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — l'AFD comme membre de l'internationale ; son idéologie islamophobe produit des passages à l'acte terroriste

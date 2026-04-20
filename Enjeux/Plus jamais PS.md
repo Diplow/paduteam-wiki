@@ -42,6 +42,14 @@ La PaduTeam déclare la campagne "Plus jamais PS" "la campagne la plus réussie 
 
 Cas Hollande/Tulle : Hollande appelle à l'union avec LFI dans sa propre ville, sa liste perd. "En perdant Tulle, il démontre qu'il a raison" — preuve que même Hollande qui prêche la clarté anti-LFI succombe à la "tactique affective" quand c'est sa ville, et subit exactement la défaite qu'il prédit.
 
+## Hollande comme responsable originel de Macron et du racisme d'État
+
+La vidéo sur la sortie raciste de Macron ("Mamadou") fournit un élément de preuve supplémentaire : c'est Hollande qui a "mis Macron dans les pattes de la gauche". La formulation PaduTeam est tranchée : "à cause de toi il y a 30 % de la population française qui votera plus jamais à gauche tellement tu les as dégoûtés."
+
+La sortie "Mamadou" — Macron déclarant en comité restreint que "le problème des urgences dans ce pays, c'est que c'est rempli de Mamadou" — n'est pas lue comme un dérapage mais comme la cohérence d'un président dont les origines idéologiques sont réactionnaires (travaux d'Eldelwell cités dans la vidéo). Ce même Macron utilisait "rabzous" (argot raciste pour les Maghrébins) devant *Valeurs Actuelles* en 2019 — terme supprimé de la version publiée relue par l'Élysée. Ces deux faits s'inscrivent dans la [[Moisation|Moïsation]] de droitisation présidentielle que la PaduTeam lit comme cohérence idéologique.
+
+L'argument Mamadou masque en outre les vraies causes structurelles de la crise hospitalière (pénurie organisée de médecins depuis 30 ans, destruction des lits) — exactement comme le discours PS masque les causes de classe de la misère populaire. Le président que le PS a engendré légitime maintenant le racisme d'État au plus haut niveau, confirmant que la trahison PS a des conséquences qui durent bien au-delà de chaque quinquennat.
+
 ## Extension : Roussel comme variante PCF du même problème
 
 La PaduTeam étend parfois la critique au-delà du PS pour viser toute organisation qui joue le jeu de la droite depuis la gauche. [[Fabien Roussel]] est analysé comme une variante PCF du même mécanisme : il "fait le jeu de la droite" en allant sur CNews défendre le racisme antiblanc et comparer le voile au salut nazi. La PaduTeam : "Il fait exactement le jeu de la droite — et pire, chez les pires droitards." Roussel n'est pas le PS (il n'a ni le poids électoral ni la trahison de gouvernement), mais il incarne la même logique de réassurance de l'électorat de droite depuis la gauche.
@@ -122,6 +130,7 @@ Manifestations concrètes :
 Lien structurel : la trahison PS sur la Palestine suit la même logique que la trahison PS en général — un parti dont la base de classe (haut-droite du Graphique) l'oblige à défendre l'ordre sioniste atlantiste. "Ce n'est pas une erreur ou une lâcheté : c'est leur ligne."
 
 ## Vidéos clés
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Hollande tenu pour responsable direct de l'émergence de Macron ; la sortie "Mamadou" comme aboutissement logique de ce que le PS a engendré ; racisme d'État cohérent, pas dérapage
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — bilan quinquennat Hollande comme liste de trahisons concrètes : CICE (300M à Arnault), répression manifs palestiniennes, loi travail, émergence de Macron. Le reportage Paris Match comme révélateur du rapport de classe de la social-démocratie.
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — [[Chloé Ridel]] (porte-parole PS) attaque le communiqué de LFI sur la condamnation Le Pen, illustrant la posture permanente d'opposition du PS à LFI dès qu'une opportunité se présente
 - [[Faure oblige de trahir]] — Démonstration graphique que Faure était structurellement obligé de trahir le [[NFP]]. Son espace de classe (haut-droite) l'oblige à parler "responsabilité budgétaire" et "sérieux institutionnel". La trahison est une bonne nouvelle : elle libère les deux équipes de gauche pour combattre séparément dans leurs espaces de classe respectifs.

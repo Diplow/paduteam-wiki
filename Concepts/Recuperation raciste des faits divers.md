@@ -42,7 +42,16 @@ La PaduTeam assume de faire de la politique à partir des faits divers — mais 
 
 "Pas de faits divers, que des faits politiques" — mais les faits politiques doivent partir des mécanismes réels, pas du profil ethnic du suspect.
 
+## Cas limite : l'attentat de Magdebourg (décembre 2024)
+
+Ce cas pousse le mécanisme à son paroxysme et en révèle les contradictions internes. L'attentat du marché de Noël de Magdebourg a été immédiatement récupéré par [[Alice Cordier]], [[Jordan Bardella]], [[Marine Le Pen]], [[Eric Zemmour]] et [[Vincent Lapierre]] comme argument anti-immigration et anti-islam.
+
+Or l'auteur (Taleb al-Abdulmohsen) est un apostat saoudien réfugié en Allemagne depuis 2006, reconnu réfugié en 2016 pour persécutions liées à son apostasie, militant antimusulman affilié à l'[[Alternative fur Deutschland|AFD]] et soutien d'Elon Musk. Il partage exactement le logiciel idéologique de ses récupérateurs. Il correspond même directement avec [[Jean Messia]] sur Twitter, partageant les mêmes convictions sur l'islamisation de l'Europe par la gauche.
+
+Le mécanisme de sélection par le profil du suspect s'effondre ici complètement — l'auteur est précisément la figure que l'extrême droite défend (apostat, antimusulman, pro-Occident). La récupération survient quand même, en ignorant délibérément le profil réel. La PaduTeam nomme ce cas une "complicité idéologique" — pas juridique, mais réelle : ceux qui ont nourri la conviction que "la paix ne sert à rien" et que l'État islamise l'Europe ont alimenté la radicalisation de l'auteur.
+
 ## Vidéos où le concept est développé
 
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — analyse principale : harcèlement de la sœur, sélection par profil du suspect, statistiques homicides
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — FdeSouche utilise l'affaire Cotino pour attaquer la PaduTeam sans s'intéresser aux vraies solutions
+- [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — cas limite : récupération d'un attentat d'extrême droite islamophobe en argument anti-immigration, alors que l'auteur partage le logiciel idéologique de ses récupérateurs
