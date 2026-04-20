@@ -29,6 +29,13 @@ Long passif conflictuel avec Padu depuis 2021 : Kroc Blanc l'insultait publiquem
 - [[Mila]] — a envoyé des messages harcelants ; conversation confirmée par [[Le brac]]
 - [[Zoclo]] — ancien proche, devenu critique
 
+## Revenus et modèle économique
+
+La PaduTeam estime ses revenus à environ 10 000€ par mois — en incluant les partenariats publicitaires, notamment pour du CBD. La PaduTeam le note comme exemple d'un modèle de monétisation qui s'éloigne des logiques militantes : "il fait du sousrap et il vend de la sub."[^rev]
+
 ## Vidéos où Kroc Blanc est analysé
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]
+- [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — cité parmi les créateurs à ~10 000€/mois dans la discussion sur la professionnalisation militante
+
+[^rev]: [05:44](https://www.youtube.com/watch?v=qM_z7n7Dk5M&t=344) — "croblanc ben croblanc il a je pense c'est un espèce de complexe d'infériorité par rapport au banlieu [...] il fait du sousrap et il vend de la sub"

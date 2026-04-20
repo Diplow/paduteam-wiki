@@ -40,20 +40,21 @@ Fiches créées : [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIR
 ---
 ## Batch 03 — Semaines 2024-W47 à 2024-W48 (18 nov 2024 – 1 déc 2024)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-20)
 Slug branche : ingest-batch/paduteam-2024-w47-w48
+Fiches créées : [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]], [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]], [[PINARD ET POLITIQUE LA DROITE DES LOBBYS VS LA GAUCHE DU TERROIR]], [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]], [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]], [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]], [[J'AI TROUVE LE PIRE PATRON DU MONDE]] + individus : Pierre-Yves Rougeyron, Dany Raz, Glupatate, Cyrus North, Yannick Noder + concepts : Soralisme (enrichi), Lobby viticole, Individualisme de droite, Temps de vie, Précarité comme levier de coercition + enjeux : Critique de la fachosphère (nouveau), Féminisme matérialiste (enrichi), Palestine libre (enrichi), Sionisme de droite (enrichi)
 
-- [ ] PAYE TA DROITARDE #4.2 THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS (x @Dr_Zoé_YT)
-- [ ] C0UILLES BLEUES, MYTHES ou RÉALITÉ ? ÉCHANGE TENDU entre Padu et Dr_Zoé_ !!
-- [ ] MEYER HABIB et MANUEL VALLS FOUS DE RAGE du MANDAT D'ARRÊT CONTRE NETANYAHU !!
-- [ ] @lobservateurOfficiel  ME RÉPOND : "PADU EST UNE PETITE SALLLL000PE" !!
-- [ ] PAPACITO et ROUGEYRON se la JOUENT SORAL !!
-- [ ] PINARD et POLITIQUE : la DROITE DES LOBBYS vs la GAUCHE DU TERROIR (X @Dr_Zoé_YT) !!
-- [ ] APOLOGIE du TERR0RISME : PANOT FAIT PÉTER le PLATEAU de BFMTV en direct !!
-- [ ] RAZ DIT LES TERMES SUR PAPACITO EN BALLE !!
-- [ ] GLUPATATE QUITTE LA BRAV-M ?! (X @Dr_Zoé_YT)
-- [ ] CYRUS NORTH EXPLIQUE le MARXISME à CHRIS de @Positions_revue !!
-- [ ] J'ai TROUVÉ le PIRE PATRON du MONDE !!!!!!!!!
+- [x] PAYE TA DROITARDE #4.2 THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS (x @Dr_Zoé_YT)
+- [x] C0UILLES BLEUES, MYTHES ou RÉALITÉ ? ÉCHANGE TENDU entre Padu et Dr_Zoé_ !!
+- [x] MEYER HABIB et MANUEL VALLS FOUS DE RAGE du MANDAT D'ARRÊT CONTRE NETANYAHU !!
+- [x] @lobservateurOfficiel  ME RÉPOND : "PADU EST UNE PETITE SALLLL000PE" !!
+- [x] PAPACITO et ROUGEYRON se la JOUENT SORAL !!
+- [x] PINARD et POLITIQUE : la DROITE DES LOBBYS vs la GAUCHE DU TERROIR (X @Dr_Zoé_YT) !!
+- [x] APOLOGIE du TERR0RISME : PANOT FAIT PÉTER le PLATEAU de BFMTV en direct !!
+- [x] RAZ DIT LES TERMES SUR PAPACITO EN BALLE !!
+- [x] GLUPATATE QUITTE LA BRAV-M ?! (X @Dr_Zoé_YT)
+- [x] CYRUS NORTH EXPLIQUE le MARXISME à CHRIS de @Positions_revue !!
+- [x] J'ai TROUVÉ le PIRE PATRON du MONDE !!!!!!!!!
 
 ---
 ## Batch 04 — Semaines 2024-W49 à 2024-W50 (2 déc 2024 – 15 déc 2024)

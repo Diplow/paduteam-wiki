@@ -21,3 +21,4 @@ Prénom "Sacha" non confirmé par le transcript. Nom transcrit "Tabibian".
 
 ## Vidéos où il est mentionné
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — cité comme rouge-brun qui résiste encore, en marge
+- [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]] — exemple du positionnement "boutiquier" ni droite ni gauche : "en tant qu'humoriste ça permet d'être drôle de critiquer tout le monde, et ça permet aussi d'avoir une bonne boutique parce que tu fâches personne"

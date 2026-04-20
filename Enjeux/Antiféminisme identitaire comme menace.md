@@ -2,7 +2,7 @@
 type: enjeu
 domaine: politique-intérieure
 thèmes: [féminisme, racisme-antiracisme, extrême-droite]
-skill_version: write-enjeu-2026-04-20-enrichi
+skill_version: write-enjeu-2026-04-20
 date created: Monday, April 13th 2026, 2:43:00 pm
 date modified: Sunday, April 20th 2026, 12:00:00 pm
 ---
@@ -126,8 +126,6 @@ La contradiction structurelle : il se plaint de la "politisation de tous les suj
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — antiféminisme naturaliste d'ATR ; manifeste de Mano ; pipeline ATR → extrême droite (Frontières, Valeurs Actuelles, CNews)
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — figure du "PNJ de droite" : fragilité masculiniste → insécurité construite → Hongrie orbaniste comme destination ; la vidéo comme pub pour coaching migratoire
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — démontage de l'argument de la droitarde Herga : focalisation sur les viols par étrangers comme esquive du patriarcat ; biais de classe dans les condamnations vs donnée raciale
-<<<<<<< HEAD
 - [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — origin story complète GI → ASLA → coaching incel comme trajectoire unifiée par le natalisme racial ; mécanisme de normalisation par la blondeur ; contre-thèse matérialiste sur la natalité (Hongrie) ; le lien GI/Christchurch
-=======
 - [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — antiféminisme "normi" : données réelles dans un cadre qui évacue le capitalisme patriarcal ; concours de souffrance comme impasse analytique ; production d'outils pour agresseurs sous couvert d'information
->>>>>>> ingest-batch/paduteam-2024-w51-w52
+- [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — virage "coaching hommes-femmes" de Thaïs ; marché des incels comme business sur la misère ; natalisme racial explicite ("faire des bébés blancs") ; déni du viol conjugal et ironie de ses propres VSS tues

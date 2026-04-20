@@ -103,3 +103,4 @@ Dans le react Louis San, Zoé apporte les données clés qui manquent à la vid�
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — bilan du procès, banalité du viol, masculinités vertueuses, révèle à nouveau avoir été victime
 - [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage complet, documentaire France 2, annonce de sa chaîne YouTube
 - [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — co-animatrice du react ; apporte les données sur les VSS japonaises et le biais des catégories diagnostiques genrées
+- [[PINARD ET POLITIQUE LA DROITE DES LOBBYS VS LA GAUCHE DU TERROIR]] — co-présentatrice ; démontage médical de la déclaration de [[Yannick Noder]] sur le vin aux urgences, et analyse du lobby viticole comme mécanisme de classe

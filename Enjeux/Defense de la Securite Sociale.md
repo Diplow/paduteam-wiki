@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: write-enjeu-2026-04-20-enrichi
+skill_version: write-enjeu-2026-04-20
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
@@ -84,11 +84,11 @@ La Sécu issue de 1945 (Ambroise Croizat, CGT) a été déjà largement dévoyé
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — attaque sur l'universalité
-<<<<<<< HEAD
 - [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]] — le [[Ratchet droitier sur les droits du travail|ratchet droitier]] comme mécanisme itératif formulé explicitement dès l'introduction ; démontage médical et statistique par Zoé (données DARES, taux d'arrêt par corps de métier, artefact Covid) ; thèse de la soumission comme finalité réelle de la mesure au-delà de l'argument gestionnaire
-=======
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — pénurie organisée de médecins depuis 30 ans comme vraie cause de la crise des urgences ; impossibilité du flux tendu en santé ; le racisme d'État (argument "Mamadou") comme cache-misère du désastre néolibéral hospitalier
->>>>>>> ingest-batch/paduteam-2024-w51-w52
+- [[PINARD ET POLITIQUE LA DROITE DES LOBBYS VS LA GAUCHE DU TERROIR]] — niche fiscale viticole (3,78 €/hl vs 1741 €/hl alcools forts) ; la droite des lobbys défend les grands groupes sous couverture "petit terroir" ; collectivisation comme alternative à l'étatisation ; 40 000 morts/an liés à l'alcool en France ; corruption médicale (SFC seule société cardiologique pro-vin rouge)
+- [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — aliénation au call center (contrôle aux toilettes, primes concurrentielles, stats deux fois par jour) ; ASH comme soignants invisibles non reconnus ; temps libre comme enjeu politique ; "accepter ça 35h/semaine, c'est scandaleux"
+- [[J'AI TROUVE LE PIRE PATRON DU MONDE]] — précarité comme infrastructure de la prédation ; entretien d'embauche comme dépossession ; suppression des aides sociales pour "que les gens soient vraiment désespérés" ; "plus les gens seront dans la merde, plus ils seront obligés d'accepter"
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"
 [^2]: [11:24](https://www.youtube.com/watch?v=jtDb2meKMn8&t=684) — "la fraude massive qui existe en France qui est estimée entre 80 et 100 milliards d'euros par an, c'est la fraude fiscale"

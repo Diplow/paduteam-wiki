@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
-skill_version: ingest-batch-2026-04-13
+skill_version: write-enjeu-2026-04-20
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 # Palestine libre
@@ -21,6 +21,7 @@ La question palestinienne est centrale pour toute gauche digne de ce nom. La Pal
 - Tout cessez-le-feu est structurellement illusoire : un « houdna » temporaire pendant que le [[Front colonial permanent|front colonial]] ne cesse pas. La coalition d'extrême-droite israélienne fait chuter tout accord permanent. Les négociations « de paix » sont un double-bind : Israël sabote systématiquement les alternatives non-violentes (assassinats ciblés de Yassine, Rantissi, Meshaal ; emprisonnement de [[Marwan Barghouti]] ; délégitimation de l'Autorité palestinienne) puis reproche aux Palestiniens leur seule résistance restante.
 - L'[[Impunite absolue]] du colonialisme israélien est le mécanisme structurant : aucune sanction crédible, la France laisse l'avion de Netanyahu utiliser son espace aérien malgré mandat d'arrêt de la [[Cour Penale Internationale|CPI]], les médias bourgeois (TF1, LCI, CNews) platforment un inculpé en prime time.
 - L'[[Instrumentalisation de l'antisemitisme]] comme arme répressive : l'accusation fusionne juif, israélien, sioniste pour faire taire toute critique. Conséquence : faire taire + mettre en danger les juifs français par association à Netanyahu. La résistance juive anti-sioniste existe ([[UJFP]], [[Ronny Brauman]] de MSF, Francesca Albanese, Amira Hass, Gideon Levy) et doit être reconnue.
+- La **criminalisation judiciaire du soutien à la Palestine** comme clôture politique du débat : la loi de 2014 (portée par le PS, Bernard Cazeneuve) a transféré le délit d'apologie du terrorisme du droit de la presse au code pénal, alourdissant les peines et élargissant l'usage répressif. Résultat documenté : Jean-Paul Delescaut (secrétaire général CGT du Nord), 1 an de prison avec sursis pour un tract Gaza du 10 octobre 2023. [[Sihame Assbague]], [[UJFP]], [[Mathilde Panot]] elle-même — tous poursuivis. La [[France Insoumise]] est la seule force parlementaire à avoir porté une réponse législative (proposition Bernalicis pour retransférer le délit dans le droit de la presse). "Bah oui c'est pour ça qu'à gauche tout le monde veut la peau de LFI alors."
 - La mobilisation pro-palestinienne a atteint un seuil critique : maintenir [[Georges Ibrahim Abdallah]] en prison coûtait plus cher à l'État que de le libérer — preuve que le rapport de force bouge. 100+ rassemblements hebdomadaires en France, grèves portuaires (Italie, France), flottilles civiles, campagnes [[BDS]], blocages de livraisons d'armes : la dignité générationnelle se construit par l'inscription historique, pas par la métrique électorale (leçon Vietnam années 60).
 - La seule solution politique viable selon PaduTeam : un **État unique anti-ethno-nationaliste avec droit de retour pour les réfugiés de la [[Nakba]]**. La solution à deux États est un leurre — le premier est détruit en temps réel. La reconnaissance tardive par Macron, Hidalgo et consorts revient à « reconnaître l'État amérindien précolombien » : ça ne coûte rien quand le destinataire est anéanti.
 - La France connaît une crise de légitimité sans équivalent : gilets jaunes, retraites, quartiers populaires, mouvement pro-palestinien — quatre mouvements de masse dont la convergence effraie le pouvoir.
@@ -46,6 +47,8 @@ La question palestinienne est centrale pour toute gauche digne de ce nom. La Pal
 
 Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 
+- **[nov. 2024]** Mandat d'arrêt CPI contre Netanyahu : Valls refuse d'appliquer l'arrestation en France, invoque Dreyfus pour couvrir Netanyahu, fait des déclarations factuellement fausses sur Poutine en prime time ([[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]]). Convergence Habib-Valls confirmée.
+- **[nov. 2024]** Bataille parlementaire sur la loi d'apologie du terrorisme : proposition Bernalicis (LFI) pour retransférer le délit dans le droit de la presse, face à une loi 2014 PS qui a permis la condamnation de militants pro-Palestine ([[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]]).
 - **[2024]** Bascule terminologique « nettoyage ethnique » → « génocide » ([[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]]).
 - **[2024]** Critique du platformage médiatique : TF1/LCI reçoivent Netanyahu en prime time ([[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]]) — l'analogie Normandie-Rafah comme obscénité historique.
 - **[2025]** Cadrage médical-éthique : Dr Zoé sur le ciblage systématique des soignants ([[GAZA LES SIONISTES TUENT DES MEDECINS]]), instrumentalisation de l'antisémitisme comme arme répressive contre les médecins pro-Palestine au Conseil de l'Ordre.
@@ -96,6 +99,7 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 - [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — Rapport ONU sur les viols des femmes palestiniennes en détention israélienne, ignoré par Bergé
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
+- [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — loi 2014 PS comme outil de répression des militants pro-Palestine ; proposition Bernalicis pour retransférer le délit dans le droit de la presse ; cas Delescaut, Assbague, UJFP ; LFI comme seul rempart parlementaire
 
 ## La bataille médiatique des clashs pro-Palestine
 

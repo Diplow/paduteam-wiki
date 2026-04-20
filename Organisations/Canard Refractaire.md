@@ -17,5 +17,12 @@ Média indépendant participatif né du mouvement des [[Gilets Jaunes]]. Consid�
 ## Rôle dans la stratégie PaduTeam
 Le Canard Réfractaire sert de **preuve par l'exemple** dans la lecture PaduTeam des Gilets Jaunes : le mouvement a échoué à cristalliser une organisation militante de masse, mais il a laissé des infrastructures médiatiques qui, elles, ont tenu. La PaduTeam recommande explicitement de regarder ses vidéos sur le 10 septembre pour comprendre les modes d'organisation qui remontent du terrain.
 
+## Recrutement de Glupatate
+
+[[Glupatate]], streamer et créateur de contenu politique qui travaillait à mi-temps à la [[BRAV-M]], rejoint le Canard Réfractaire. La PaduTeam salue ce recrutement comme "un sacré Glupatate, très bon recrutement du Canard"[^glup] et l'insère dans un mouvement plus large de structuration de la gauche internet (Frustration Magazine, Histoire Crépu, Zawa Prod, La Brèche).
+
 ## Vidéos où l'organisation est mentionnée
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Référencement explicite comme modèle média indépendant hérité des GJ
+- [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — Recrutement de Glupatate, salué comme bonne nouvelle pour la structuration à gauche
+
+[^glup]: [01:34](https://www.youtube.com/watch?v=qM_z7n7Dk5M&t=94) — "un sacré glupatate très bon très bon recrutement du canard"

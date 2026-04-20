@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-20-dec2024
+skill_version: write-enjeu-2026-04-20
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Sunday, April 20th 2026, 12:00:00 pm
 ---
@@ -110,6 +110,16 @@ La trajectoire de [[Thais d'Escufon]] illustre ce que la PaduTeam considère com
 
 Contraste : [[Virginie Vota]], dans la même sphère, a vécu la même expérience et a commencé à comprendre le féminisme.
 
+## La précarité économique comme infrastructure de la prédation sexuelle
+
+La PaduTeam articule le féminisme matérialiste à l'économie politique de manière explicite : la précarité n'est pas un contexte aggravant des VSS, c'est une **technique de prédation**. Un patron qui interroge une candidate serveuse sur sa vie privée, qui lui fait des avances, qui laisse entendre que coucher avec lui pourrait "faciliter" l'embauche — ce n'est pas un "pire patron" exceptionnel. C'est un patron ordinaire qui utilise le rapport de force économique.
+
+Le mécanisme est mécanique : tester pour voir si la personne est "affaiblie ou désespérée." Répéter la séquence sur des dizaines de candidates. Statistiquement, certaines accepteront sous la pression de la nécessité. "Plus les gens seront dans la merde, plus ils seront obligés d'accepter des trucs comme ça." Ce n'est pas de la psychologie — c'est de la prédation industrielle camouflée derrière la procédure normale du recrutement.
+
+Conséquence directe : supprimer les filets de sécurité (RSA, allocations chômage, logement social) n'est pas un choix budgétaire neutre — c'est **fabriquer de la servitude**. Les femmes sans papiers sont dans la même situation en plus intense : la précarité administrative produit le même résultat que la précarité économique. Maintenir des femmes sans statut légal, c'est maintenir une réserve de personnes réduites à l'acceptation de n'importe quoi. L'argument contre les droits des sans-papiers est ainsi fonctionnel à la prédation sexuelle.
+
+La banalité est le vrai scandale — ce que la PaduTeam nomme la [[Banalite du viol]] : pas des monstres, des gens ordinaires à qui le système donne "la carte."
+
 ## L'antiféminisme comme porte d'entrée de l'extrême droite
 
 Pour la PaduTeam, l'antiféminisme en ligne n'est pas un épiphénomène : c'est **le principal vecteur de recrutement de l'extrême droite sur Internet**. La PaduTeam : "l'antiféminisme c'est le mode de recrutement principal de l'extrême droite sur Internet actuellement — un des modes de recrutement principaux. Et donc il faut s'en occuper en tant que militant politique et féministe."
@@ -200,4 +210,6 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 - [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — antiféminisme "normi" et ses effets pratiques identiques au masculinisme déclaré ; concours de souffrance comme impasse analytique ; statistiques sans sociologie de leur construction ; conseils "anti-fausses accusations" comme ressources objectives pour agresseurs
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — réification marchande de la femme ("voiture d'occasion dégradée par l'usage") ; récit de viol banalisé en direct ; l'économie de la visibilité recycle la violence en entertainment
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — masculinités vertueuses ; responsabilité collective (analogie Arendt) ; "et maintenant ?" comme passage de la dénonciation à la transformation structurelle
+- [[J'AI TROUVE LE PIRE PATRON DU MONDE]] — précarité comme technique de prédation sexuelle ; entretien d'embauche comme dépossession de soi ; suppression des aides sociales comme infrastructure de la prédation ; "ce n'est pas le pire patron, c'est un patron ordinaire"
+- [[COUILLES BLEUES MYTHES REALITE]] — mythe des couilles bleues comme chantage affectif et coercition sexuelle ; exemples cliniques de contrainte post-chirurgie ; citation de Thaïs d'Escufon sur le viol conjugal comme version théorisée de la même culture du viol
 
