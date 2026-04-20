@@ -27,3 +27,4 @@ La BTTP explique l'impasse trumpiste : les USA n'arrivent plus à tirer de profi
 ## Vidéos
 - [[Nicolas qui paye]] — Explication de la compression salariale des cadres comme manifestation de la baisse tendancielle
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — Application à la désindustrialisation américaine et l'impasse du protectionnisme
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Première application à chaud (novembre 2024) : « ils n'ont pas les capacités à faire de la hausse de productivité, donc il y a une espèce de baisse tendancielle du taux de profit — voilà je refais mon marxiste rabouri ». Le fait que les infrastructures industrielles US (Silicon Valley externalisée, agroalimentaire Pepsi/Kellogg's/Coca arriéré) ne peuvent plus faire hausser la productivité est posé comme le socle structurel de la crise

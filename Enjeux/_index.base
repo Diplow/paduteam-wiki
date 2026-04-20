@@ -9,7 +9,10 @@ views:
       - domaine
       - thèmes
       - file.mtime
+      - skill_version
     sort:
+      - property: skill_version
+        direction: DESC
       - property: file.name
         direction: ASC
     columnSize:
@@ -21,6 +24,7 @@ views:
       - domaine
       - thèmes
       - file.mtime
+      - skill_version
     sort:
       - property: file.mtime
         direction: DESC
@@ -32,6 +36,7 @@ views:
     order:
       - file.name
       - thèmes
+      - skill_version
     sort:
       - property: file.name
         direction: ASC
@@ -43,6 +48,7 @@ views:
     order:
       - file.name
       - thèmes
+      - skill_version
     sort:
       - property: file.name
         direction: ASC

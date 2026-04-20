@@ -2,7 +2,7 @@
 name: USA — suivi d'ingestion
 description: Suivi du travail d'ingestion batch des vidéos PaduTeam sur les États-Unis — présidence Trump 2, gauche américaine émergente (DSA/Mamdani), désagrégation de l'empire américain, rapport USA/France sur la question raciale et impérialiste.
 date created: Sunday, April 19th 2026, 3:00:00 pm
-date modified: Sunday, April 19th 2026, 3:00:00 pm
+date modified: Sunday, April 19th 2026, 8:00:00 pm
 ---
 # USA — Suivi d'ingestion
 
@@ -14,19 +14,19 @@ Fichier de travail pour suivre l'ingestion par sous-batches thématiques des tra
 
 ## Batch A — Trump et la gauche américaine émergente
 
-**Statut** : ⏳ à rejouer (fiches existantes à enrichir selon nouvelles exigences de finesse analytique)
+**Statut** : ✅ rejeu fait (2026-04-19) — 6 fiches vidéo enrichies, 7 fiches Enjeux consolidées, 19 fiches créées (concepts/individus/organisations)
 **Slug branche** : `usa-rejeu-finesse-analytique`
 
 Bloc cohérent couvrant un an et demi de politique américaine vue par la PaduTeam : de la réélection de Trump (nov 2024) à la victoire Mamdani à NYC (nov 2025) puis aux tensions de la Californie (début 2026) et au discours colonial assumé de Rubio (Munich, fév 2026). Le fil : désagrégation de l'empire américain par le bas (NYC/Californie bifurquent à gauche) pendant que Trump/Rubio assument le colonialisme sans masque.
 
 **Note de rejeu** : ce batch a été ingéré une première fois le 2026-04-19 sous l'ancienne architecture `ingest-batch` (lecture monolithique des 6 transcripts + compaction avant écriture). L'analyse comparative fiche Mamdani ↔ transcript a montré une perte analytique substantielle (thèses théoriques manquantes, données chiffrées absentes, mécanismes matérialistes résumés en une ligne). Ce rejeu utilise la nouvelle architecture (un subagent par vidéo, pas de compaction) et vise l'**enrichissement** des fiches existantes selon les exigences de finesse du briefing — pas leur recréation.
 
-- [ ] CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP (nov-déc 2024)
-- [ ] NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNÉ (4-5 nov 2025)
-- [ ] MAMDANI À GAUCHE DE MÉLENCHON (5-6 nov 2025)
-- [ ] TRUMP VEUT ANNEXER LE GROENLAND (5 janv 2026)
-- [ ] RÉVOLTES À LOS ANGELES VERS UNE RÉPUBLIQUE SOVIÉTIQUE DE CALIFORNIE (début 2026)
-- [ ] TRUMP ET RUBIO REGRETTENT LE TEMPS BÉNI DES COLONIES (25 fév 2026)
+- [x] CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP (nov-déc 2024)
+- [x] NEW YORK BASCULE DANS L'ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNÉ (4-5 nov 2025)
+- [x] MAMDANI À GAUCHE DE MÉLENCHON (5-6 nov 2025)
+- [x] TRUMP VEUT ANNEXER LE GROENLAND (5 janv 2026)
+- [x] RÉVOLTES À LOS ANGELES VERS UNE RÉPUBLIQUE SOVIÉTIQUE DE CALIFORNIE (début 2026)
+- [x] TRUMP ET RUBIO REGRETTENT LE TEMPS BÉNI DES COLONIES (25 fév 2026)
 
 **Fiches existantes (à enrichir)** : [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]], [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]], [[MAMDANI A GAUCHE DE MELENCHON]], [[TRUMP VEUT ANNEXER LE GROENLAND]], [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]], [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]], [[Desagregation de l empire americain]], [[Gauche de droite]], [[Kamala Harris]], [[Alexandria Ocasio-Cortez]], [[Gavin Newsom]], [[Democratic Socialists of America]], [[Parti Democrate]], [[Anti-imperialisme]], [[Moisation]], [[Pacte raciste]], [[Marco Rubio]], [[Zohran Mamdani]], [[Donald Trump]]
 

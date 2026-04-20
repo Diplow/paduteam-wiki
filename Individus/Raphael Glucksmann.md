@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, anti-impérialisme]
 aliases: [Glucksmann, Raphaël G., Raphael Glucksmann, Raphaël Glucksmann]
 date created: Thursday, April 2nd 2026, 1:06:42 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme
 
@@ -65,11 +65,11 @@ Glucksmann refuse explicitement toute primaire à gauche incluant LFI. Sur BFMTV
 
 La PaduTeam est surpris : **Glucksmann exprime l'analyse matérialiste**. Il a raison sur le fond — il n'y a pas de vision du monde commune. Il dit la même chose que la PaduTeam sur les noisettes et l'union impossible. Paradoxalement, il est "obligé d'être fin" parce qu'il n'a pas d'appareil ni d'inertie : il doit justifier chaque position.
 
-Padu : "Il n'y a que deux hommes politiques cohérents à gauche — Glucksmann et Mélenchon. Le reste, ce sont des noisettes."
+Formulation PaduTeam : "Il n'y a que deux hommes politiques cohérents à gauche — Glucksmann et Mélenchon. Le reste, ce sont des noisettes."
 
 Sa proposition implicite de "ticket à l'américaine" (Glucksmann président + Vallaud premier ministre) est jugée peu crédible. Le PS pourrait lui préférer un candidat qui aligne sa ligne sans lui céder le lead — candidature à la "Hollande 100% Glucksmann".
 
-**Passage implicitement cité par Padu (paraphrase) :** "Si vous croyez que vous allez gagner une élection présidentielle en essayant de ne pas jouer l'affrontement entre Mélenchon et Glucksmann, vous vous faites l'œil."
+**Passage implicitement paraphrasé par la PaduTeam :** "Si vous croyez que vous allez gagner une élection présidentielle en essayant de ne pas jouer l'affrontement entre Mélenchon et Glucksmann, vous vous faites l'œil."
 
 ## Glucksmann et l'Ukraine — figure centrale du bellicisme social-démocrate
 
@@ -80,6 +80,22 @@ Le corpus Ukraine (2025-2026) confirme et approfondit l'analyse PaduTeam : Gluck
 **L'axe Glucksmann–Macron–Usul–NPA.** La PaduTeam identifie Glucksmann comme le point de jonction entre la droite centriste (Macron) et la gauche internet (Usul, NPA). Sa capacité à "contaminier" la gauche radicale sur le bellicisme — en enveloppant la position atlantiste dans le vocabulaire des droits humains — est son rôle politique le plus dangereux dans cette période.
 
 **Réaction au retrait américain (mars 2026).** Quand Trump suspend le soutien à l'Ukraine, Glucksmann (et ses alliés européens) poussent pour que l'UE "prenne le relais" — c'est-à-dire que les contribuables européens financent la guerre à la place des américains. Pour la PaduTeam, c'est l'aboutissement logique du bellicisme social-démocrate : on commence par "soutenir la démocratie", on finit par demander des milliards de fonds publics pour une guerre impossible à gagner.
+
+## Glucksmann = gauche américaine démocrate (équivalence structurelle, novembre 2024)
+
+Dans l'analyse à chaud de la défaite de [[Kamala Harris]], la PaduTeam ne traite pas Glucksmann comme un "allié" de la gauche démocrate US mais formule une **équivalence structurelle** : il *est* la gauche démocrate américaine transposée en France. La thèse est étagée :
+
+1. **Son programme** est « limite Pécresse » selon la PaduTeam — « c'est pas un programme de gauche »[^usa_1].
+2. **Vision du monde impérialiste** : même rapport à Israël, à la Russie, aux technostructures FMI/OTAN que Harris, Biden et l'administration démocrate complète. « Eux, c'est vraiment la gauche américaine démocrate — libéral, libéral condescendant, pas même social »[^usa_2].
+3. **Ancrage sociologique assumé** : Glucksmann « a même dit qu'il est plus chez lui à New York que quand il se promène en France, et qu'il se sent plus chez lui aussi en Géorgie »[^usa_3]. L'ancrage identitaire n'est pas accessoire — il dit la position de classe : atlantisme progressiste bourgeois mondialisé.
+4. **Position sur le curseur politique américain** : « les curseurs aux USA du débat politique c'est libéral paternaliste — atténuer les effets du néolibéralisme pour qu'il n'y ait pas trop de gens qui meurent dans la rue, mais garder les inégalités »[^usa_2]. Glucksmann s'installe parfaitement dans ce curseur.
+
+**Conséquence stratégique** : face à Trump, la gauche américaine démocrate a perdu (Jospin 2002 américain). Face à une droite de droite, une gauche de droite Glucksmann perdrait mécaniquement en France. La PaduTeam tire la leçon militante : « ceux qui font ça se prendront les pieds dans le tapis — j'espère qu'ils vont le faire, comme ça ils vont sortir définitivement de l'histoire »[^usa_4].
+
+[^usa_1]: [16:14](https://www.youtube.com/watch?v=mK41og88Zj0&t=974) — « [le programme de Harris] c'est limite Pécresse pour nous, c'est pas un programme de gauche ».
+[^usa_2]: [17:48](https://www.youtube.com/watch?v=mK41og88Zj0&t=1068) — « eux c'est vraiment la gauche américaine démocrate — libéral, libéral condescendant, même pas social — les curseurs aux USA c'est libéral paternaliste : atténuer les effets du néolibéralisme pour qu'il n'y ait pas trop de gens qui meurent dans la rue, mais garder les inégalités ».
+[^usa_3]: [17:16](https://www.youtube.com/watch?v=mK41og88Zj0&t=1036) — « [Glucksmann] il a même dit qu'il est plus chez lui à New York que quand il se promène en France, et il se sent plus chez lui aussi en Géorgie ».
+[^usa_4]: [16:14](https://www.youtube.com/watch?v=mK41og88Zj0&t=974) — « les Glucksmann et cetera, s'ils font ça, ils se prendront les pieds dans le tapis — moi j'espère qu'ils vont faire ça, comme ça ils vont sortir définitivement de l'histoire ».
 
 ## Glucksmann et le Venezuela — "agent américain"
 
@@ -96,8 +112,9 @@ Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "p
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Opposition au mouvement du 10 septembre ; analyse de sa stratégie comme refroidisseur et "autre Macron 2017 possible" ; facteur de corrélation inverse avec Mélenchon ; plan de constitution d'un pôle PS-droite-Cazeneuve pour refroidir la rue.
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle avec Tondelier sur la primaire (refus d'y inclure Mélenchon), citation de Mitterrand 1981 contre le PCF, position de Marchais dans l'analogie inversée, handicap Léa Salamé au 20h.
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Refus de la primaire : "pas la même vision du monde" ; reconnu par la PaduTeam comme seul candidat cohérent avec Mélenchon ; analyse de sa position antisynthèse ; scenario ticket Glucksmann/Vallaud discuté.
-- [[LE PS A TRAHI (EPISODE 24873)]] — "Totalement muet" lors du deal PS/Lecornu 2. C'est [[Aurélien Rousseau]] qui tweete à sa place pour avaliser la position. Chris : "la noisette des noisettes là, c'est le valet là, le petit traître en chef là, enfin qui est finito, qui est fort" — "finito". Sa stratégie de l'effacement total lors d'un moment clé confirme son inexistence politique.
+- [[LE PS A TRAHI (EPISODE 24873)]] — "Totalement muet" lors du deal PS/Lecornu 2. C'est [[Aurélien Rousseau]] qui tweete à sa place pour avaliser la position. Formulation PaduTeam : "la noisette des noisettes là, c'est le valet là, le petit traître en chef là, enfin qui est finito, qui est fort" — "finito". Sa stratégie de l'effacement total lors d'un moment clé confirme son inexistence politique.
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Qualifié d'"agent américain" après son tweet "pas une larme pour Maduro" ; incarnation de la ligne atlantiste pro-impérialiste au sein de la gauche française.
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Mentionné comme référence du bellicisme social-démocrate dont Usul se rapproche
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse de sa trajectoire atlantiste (Géorgie, BHL, revues néoconservatrices) comme matrice du bellicisme
 - [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — Axe Macron-Glucksmann présenté comme promoteurs institutionnels du bellicisme en France
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Équivalence structurelle : Glucksmann = gauche démocrate américaine transposée en France. Même programme (limite Pécresse), même vision impérialiste, même ancrage sociologique. Fabrique des défaites à la Jospin 2002.

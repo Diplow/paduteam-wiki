@@ -3,7 +3,7 @@ type: individu
 domaine: [économie]
 thèmes: [néolibéralisme, États-Unis]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/économie #thème/néolibéralisme #thème/États-Unis
 
@@ -17,3 +17,4 @@ Article "La croissance cassée par Donald Trump" (Mediapart, 2026) : démontre q
 
 ## Vidéos où Romaric Godin est cité
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — la PaduTeam recommande son article Mediapart sur la défaite de Kamala Harris, qui formule le même diagnostic de la "gauche de droite" côté américain

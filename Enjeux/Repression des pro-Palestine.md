@@ -1,12 +1,12 @@
 ---
 type: enjeu
 domaine: [politique-intérieure, géopolitique]
-thèmes: [Palestine, répression-justice, médias-propagande]
-skill_version: ingest-batch-2026-04-13
+thèmes: [Palestine, répression-justice, médias-propagande, États-Unis]
+skill_version: write-enjeu-2026-04-19
 date created: Tuesday, April 14th 2026, 5:59:34 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
-#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande
+#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande #thème/États-Unis
 
 # Répression des pro-Palestine
 
@@ -37,7 +37,7 @@ Cas documentés :
 - **Jean-Paul Delescaut** (secrétaire général CGT du Nord) : 1 an de prison avec sursis pour un tract Gaza distribué 3 jours après le 7 octobre. Le tract disait que "les horreurs de l'occupation illégale reçoivent les réponses qu'elles ont provoquées." Le tribunal a jugé que contextualiser le 7 octobre par l'occupation = apologie du terrorisme.
 - **[[Sihame Assbague]]** : convoquée par la police pour un tweet du 7 octobre où elle écrivait "responsable : l'État colonial israélien / solution : la fin de la colonisation et la libération de la Palestine."
 - **[[Mathilde Panot]]** : convoquée pour apologie du terrorisme en tant que présidente de groupe parlementaire.
-- **[[UJFP]]** (Union Juive Française pour la Paix) : poursuivie pour apologie du terrorisme — "les mecs ils ont poursuivi l'UJFP, enfin c'est une dinguerie" (Padu).
+- **[[UJFP]]** (Union Juive Française pour la Paix) : poursuivie pour apologie du terrorisme — formulation PaduTeam : "les mecs ils ont poursuivi l'UJFP, enfin c'est une dinguerie".
 - Sihame Assbague : "des centaines de personnes ont été inquiétées pour les mêmes raisons."
 
 La loi crée un **effet d'autocensure** systémique : chaque condamnation envoie un signal à tous les militants potentiels. C'est sa fonction politique principale, au-delà des condamnations individuelles.
@@ -51,11 +51,11 @@ La loi Yadan vise à assimiler légalement antisionisme et antisémitisme — cr
 La répression de Rima Hassan est un révélateur : qui la défend inconditionnellement, qui se contente de dire que "c'est excessif" (Tondelier), qui ne dit rien (Glucksmann, Roussel). Stefano Palombarini formule la ligne : LFI, NPA, L'après — réagissent fort. Tondelier dit "excessif". Roussel "pas d'accord avec ce qu'ils disent mais je les soutiens" (identique pour Delescaut). Ce n'est pas une nuance : c'est une frontière politique entre soutien effectif à la résistance palestinienne et intégration au camp sioniste modéré.
 
 ### Répression dans le sport
-[[Baki]] (combattant MMA, vainqueur de la soirée PFL contre [[Cedric Doumbe]]) tente de prendre le micro après son combat pour parler de Gaza et de la famine palestinienne. Le staff PFL lui refuse physiquement le micro, bien qu'il soit le vainqueur et qu'il ait le droit contractuel au dernier mot. Padu : "C'est un peu honteux. Il a gagné, il est venu, il s'est fait huer, et en plus de ça il a même pas le mot de la fin."
+[[Baki]] (combattant MMA, vainqueur de la soirée PFL contre [[Cedric Doumbe]]) tente de prendre le micro après son combat pour parler de Gaza et de la famine palestinienne. Le staff PFL lui refuse physiquement le micro, bien qu'il soit le vainqueur et qu'il ait le droit contractuel au dernier mot. Formulation PaduTeam : "C'est un peu honteux. Il a gagné, il est venu, il s'est fait huer, et en plus de ça il a même pas le mot de la fin."
 
 Baki dans l'interview post-match : "Il y a des enfants qui meurent de famine actuellement à Gaza. C'était exactement ce que je voulais dire à la fin du combat, malheureusement ils m'ont pris le micro au dernier moment." Il appelle à ne pas laisser "redescendre" la question palestinienne au prétexte qu'elle n'est plus dans les médias : "les Palestiniens souffrent pendant qu'on passe du bon temps."
 
-Contraste : [[Cedric Doumbe|Cédric Doumbè]], adversaire défait et présenté comme "super musulman", ne mentionne pas la Palestine dans ses interviews. Padu : "il fait juste son marketing à lui pour lui et oublie des gens qui à l'autre bout du monde n'ont rien demandé."
+Contraste : [[Cedric Doumbe|Cédric Doumbè]], adversaire défait et présenté comme "super musulman", ne mentionne pas la Palestine dans ses interviews. Formulation PaduTeam : "il fait juste son marketing à lui pour lui et oublie des gens qui à l'autre bout du monde n'ont rien demandé."
 
 ### La cancel culture culturelle comme arme de droite
 Le cas [[Jonathan Glazer]] cristallise le renversement du discours sur la cancel culture. Glazer, réalisateur de *La Zone d'intérêt* (Oscar du meilleur film étranger 2024), fait un discours aux Oscars condamnant la déshumanisation dans tous les conflits — "qu'il s'agisse des victimes du 7 octobre ou du massacre à Gaza". Il est juif. Résultat : plus de 450 professionnels du cinéma juifs publient une lettre le condamnant pour avoir "établi une équivalence morale entre un régime nazi et Israël."
@@ -98,13 +98,30 @@ Cem Yoldas (Jeune Garde) sur les trois griefs du gouvernement :
 2. Organiser des **stages d'autodéfense** — instrumentalisation de la lutte antiterroriste pour mettre sur le même pied militants politiques et terroristes.
 3. Une **liste d'agressions** sans fondement juridique — aucune condamnation de justice, tout est interprétation partant d'un postulat idéologique.
 
-Le paradoxe exposé par Padu et Yoldas : le seul parti lié à des affaires de terrorisme réel est le [[Rassemblement National]] (Claude Sink, Amedy Coulibaly et l'hypercacher). On dissout la Jeune Garde, pas le RN.
+Le paradoxe exposé par la PaduTeam et Yoldas : le seul parti lié à des affaires de terrorisme réel est le [[Rassemblement National]] (Claude Sink, Amedy Coulibaly et l'hypercacher). On dissout la Jeune Garde, pas le RN.
 
 La dissolution cible délibérément les organisations **efficaces et organisées** — preuve de leur force. Yoldas : "si aujourd'hui on est attaqué par le gouvernement, c'est qu'on leur fait peur." La même logique vaut pour Urgence Palestine : 100+ rassemblements hebdomadaires, c'est une force sociale visible.
 
 Pente glissante théorisée par Yoldas : après la Jeune Garde, ce sera des partis, des syndicats. La CGT et la France Insoumise sont déjà dans le viseur depuis la loi travail. Ce n'est pas un incident isolé — c'est la trajectoire du libéralisme autoritaire vers une extrême droitisation assumée[^dissolution].
 
 [^dissolution]: [9:14](https://www.youtube.com/watch?v=apa807lyQeM&t=554) — "on fait peur quand on est organisé [...] ce qui fait peur et ce qu'on tente de dissoudre, c'est dès que ça commence à devenir un petit peu gros, dès que ça commence à devenir une force sociale"
+
+### Le dispositif « islamiste » transatlantique — cas Mamdani
+
+Le corpus USA (nov 2025) fournit la démonstration que le dispositif répressif anti-pro-Palestine est **transatlantique**, avec des formules importées d'un continent à l'autre quasi mot pour mot. [[Zohran Mamdani]], élu maire de NYC avec 50% au 1ᵉʳ tour, est chiite, racisé, et avait fondé des collectifs pro-Palestine **avant le 7 octobre** quand il était étudiant. La campagne contre lui mobilise l'arsenal islamophobe habituel :
+
+- **Rudy Giuliani** : Mamdani est un « croisement d'un extrémiste islamiste et d'un communiste ». La PaduTeam décode : « dans la bouche d'un républicain états-unien, *communiste* c'est à peu près aussi infamant que te traiter de Ben Laden. Les deux sont sur le même plan »[^mamdani_giuliani].
+- **[[Marion Marechal]]** (tweet français relayant la séquence américaine) : « il vient d'être élu maire de New York avec le programme de ruine économique que celui de la France Insoumise. La métropole américaine pourrait devenir une ZAD pro-Hamas à ciel ouvert ». Le collage « ZAD pro-Hamas » transfère directement le répertoire français de criminalisation des pro-Palestine.
+- **Céline Pina** : « New York s'est donné à un islamiste. Les New Yorkais en paieront le prix et personne ne les plaindra » — avec visuel World Trade Center 2001 / Mamdani 2025, slogan « we forgot ». Commentaire PaduTeam : « elle veut se présenter au championnat du monde du racisme ».
+
+**Pointe factuelle** : les musulmans représentent **moins de 3% de la population new-yorkaise** — proportion inférieure à la France. « Cette peur de l'islamisme — elle est déjà ridicule en France, mais elle est encore plus ridicule là-bas ». L'étiquette « islamiste » n'a aucun lien avec une démographie — c'est **un dispositif de neutralisation politique** qui circule transatlantiquement : le même répertoire que la loi 2014 française (apologie du terrorisme), les mêmes acteurs (Maréchal, Pina, lobbies pro-israéliens), le même objectif (rendre impossible tout soutien à la Palestine sans être accusé d'islamisme).
+
+### Mécanisme politique retourné — énumérer le programme fait monter la gauche
+
+La PaduTeam formule une contre-lecture stratégique : en énumérant le programme Mamdani pour dire « c'est très grave, ils sont fous », l'extrême droite fait exactement ce que la gauche molle faisait à l'envers pour elle (« oui il faut contrôler les frontières, oui il faut contrôler les immigrés ») depuis 20 ans. À l'époque, ça a légitimé le vocabulaire extrême droitier et fait monter le RN. **Ici, ça légitime le vocabulaire et les mesures de la gauche DSA** en les exposant à un public qui commence à se dire « en fait ce n'est pas si mal, vu la crise »[^mamdani_renvers]. Le dispositif répressif islamophobe a ses limites internes : à force de répéter l'équation pro-Palestine = islamisme = communisme, les trois termes se banalisent — et le dernier cesse d'être infamant pour les jeunes diplômés (cf. 60% d'opinion favorable au socialisme chez les démocrates en 2025 vs 40-50% en 2010).
+
+[^mamdani_giuliani]: [15:02](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=902) — décodage PaduTeam de Giuliani : « dans la bouche d'un républicain états-unien, communiste, c'est à peu près aussi infamant que te traiter de Ben Laden ».
+[^mamdani_renvers]: [29:28](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1768) — « ils sont en train de faire monter la gauche en faisant ça comme l'extrême droite l'a fait là-bas, c'est-à-dire en énumérant le programme [...] les gens ont commencé à se dire bah non, c'est pas si mal en fait, vu la crise ».
 
 ### La censure des plateaux TV et le double mesure structurel
 
@@ -137,3 +154,5 @@ En miroir : les propos tenus impunément sur les mêmes plateaux —
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes et pro-Palestine comme acte de fascisation ; théorisation de la lutte par Cem Yoldas
 - [[ARNO KLARSFELD ET MICHEL BOUJENAH SE LACHENT SUR LES PALESTINIENS ET LES MUSULMANS]] — Double mesure : rafles de musulmans impunies, fresque anti-génocide effacée
 - [[FEMMES PALESTINIENNES VIOLEES L'AVEUGLEMENT D'AURORE BERGE]] — ONU documente les viols de femmes palestiniennes, Bergé silencieuse — double mesure féministe
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Dispositif « islamiste » transatlantique appliqué à Mamdani (Giuliani → Maréchal, Pina) ; moins de 3% de musulmans à NYC ; étiquette importée comme arme de neutralisation politique
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Mécanisme retourné : en énumérant le programme, l'extrême droite française et libertarienne (Parti Miléiste) légitime le vocabulaire et les mesures de la gauche DSA
