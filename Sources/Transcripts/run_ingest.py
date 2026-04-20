@@ -7,10 +7,11 @@ et invoque `claude` pour chaque batch via la skill ingest-batch.
 Pause automatique de 2h en cas de rate limit.
 
 Usage:
-    python run_ingest.py                # tous les batches ⏳ en attente
-    python run_ingest.py --dry-run      # affiche sans lancer
-    python run_ingest.py --from 5       # commence au batch 05
-    python run_ingest.py --batch 7      # lance uniquement le batch 07
+    python run_ingest.py                       # tous les batches ⏳ en attente
+    python run_ingest.py --dry-run             # affiche sans lancer
+    python run_ingest.py --from 5              # commence au batch 05
+    python run_ingest.py --batch 7             # lance uniquement le batch 07
+    python run_ingest.py --model opus          # utilise opus (défaut: sonnet)
 """
 import sys
 import os
@@ -18,6 +19,8 @@ import re
 import time
 import subprocess
 from datetime import datetime
+
+DEFAULT_MODEL = "sonnet"
 
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
@@ -171,7 +174,7 @@ def sleep_with_countdown(seconds):
 #  INVOCATION CLAUDE
 # =====================================================================
 
-def run_batch(batch, dry_run=False):
+def run_batch(batch, dry_run=False, model=DEFAULT_MODEL):
     """Invoque claude pour un batch. Retourne (success, status_str).
 
     status_str peut être : 'ok', 'rate_limit', 'timeout', 'error'
@@ -179,15 +182,16 @@ def run_batch(batch, dry_run=False):
     prompt = (
         f"Ingère le batch {batch['num']:02d} "
         f"({batch['title']}) "
-        f"de PADUTEAM_CHRONOLOGIQUE.md"
+        f"de PADUTEAM_CHRONOLOGIQUE.md "
+        f"(mode automatique)"
     )
 
     if dry_run:
-        log(f"[DRY RUN] Batch {batch['num']:02d} — {batch['title']}")
+        log(f"[DRY RUN] Batch {batch['num']:02d} — {batch['title']} [modèle: {model}]")
         log(f"[DRY RUN] Prompt : {prompt}")
         return True, 'dry_run'
 
-    cmd = [CLAUDE_CMD, "--dangerously-skip-permissions", "-p", prompt]
+    cmd = [CLAUDE_CMD, "--dangerously-skip-permissions", "--model", model, "-p", prompt]
     log(f"Lancement : {' '.join(cmd[:3])} \"...\"")
 
     try:
@@ -225,7 +229,7 @@ def run_batch(batch, dry_run=False):
 #  BOUCLE PRINCIPALE
 # =====================================================================
 
-def run_all(tracking_path, dry_run=False, start_from=None, single_batch=None):
+def run_all(tracking_path, dry_run=False, start_from=None, single_batch=None, model=DEFAULT_MODEL):
     batches = parse_batches(tracking_path)
     pending = find_pending_batches(batches, start_from=start_from, single_batch=single_batch)
 
@@ -239,6 +243,7 @@ def run_all(tracking_path, dry_run=False, start_from=None, single_batch=None):
     log(f"Batches total    : {total}")
     log(f"Déjà traités     : {n_done}")
     log(f"À traiter        : {n_pending}")
+    log(f"Modèle           : {model}")
     if dry_run:
         log(f"Mode             : DRY RUN")
 
@@ -258,7 +263,7 @@ def run_all(tracking_path, dry_run=False, start_from=None, single_batch=None):
         attempts = 0
         while attempts < MAX_RETRIES:
             attempts += 1
-            success, status = run_batch(batch, dry_run=dry_run)
+            success, status = run_batch(batch, dry_run=dry_run, model=model)
 
             if success or status == 'dry_run':
                 log(f"✓ Batch {batch['num']:02d} terminé avec succès.")
@@ -307,17 +312,30 @@ def parse_int_arg(args, flag):
         sys.exit(1)
 
 
+def parse_str_arg(args, flag, default=None):
+    """Parse --flag VALEUR depuis la liste d'args."""
+    if flag not in args:
+        return default
+    idx = args.index(flag)
+    if idx + 1 >= len(args):
+        print(f"ERREUR : {flag} attend une valeur.")
+        sys.exit(1)
+    return args[idx + 1]
+
+
 def main():
     args         = sys.argv[1:]
     dry_run      = '--dry-run' in args
     start_from   = parse_int_arg(args, '--from')
     single_batch = parse_int_arg(args, '--batch')
+    model        = parse_str_arg(args, '--model', default=DEFAULT_MODEL)
 
     run_all(
         TRACKING_FILE,
         dry_run=dry_run,
         start_from=start_from,
         single_batch=single_batch,
+        model=model,
     )
 
 
