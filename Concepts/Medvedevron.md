@@ -36,6 +36,13 @@ Macron élimine systématiquement ses successeurs potentiels (Attal, Borne, Barn
 
 Conséquence pour 2027 : l'affaiblissement délibéré du camp macroniste avance mécaniquement la prophétie du [[Graphique]] — l'élection de [[Jean-Luc Melenchon|Mélenchon]].
 
+## Limites du Medvedevron : le bloc bourgeois s'épuise
+
+Dans [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]], la PaduTeam pousse le concept plus loin : le Medvedevron (Bayrou comme successeur de façade) ne fonctionne que si le bloc bourgeois maintient sa confiance en Macron. Or, la crise économique de 2025 (chômage en hausse, défaillances d'entreprises, production industrielle sous le niveau 2010) détruit le dernier argument de Macron — sa crédibilité économique. Les sponsors du bloc bourgeois qui lui avaient "vendu le Mozart de la finance" commencent à sortir, et les affaires (Mamadou, WikiMatignon, patrimoine dans *Le Monde*) s'accumulent.
+
+La conséquence est que même le Medvedevron devient insoutenable : le bloc bourgeois peut être contraint de pousser Macron vers la sortie (vers un Edouard Philippe ou un Gabriel Attal) bien avant son terme théorique, produisant une présidentielle anticipée en 2025 — ce qui court-circuiterait le plan Medvedevron lui-même.
+
 ## Vidéos où le concept est développé
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première formulation du concept Medvedevron appliqué à Bayrou
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Stratégie Macron de tuer ses héritiers développée en détail
+- [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — Les limites du Medvedevron sous pression de la crise économique : le bloc bourgeois envisage de pousser Macron vers la sortie avant terme

@@ -57,6 +57,15 @@ Référence théorique : Henri Lefebvre sur les modes de logistique capitaliste 
 
 L'[[Ecologie punitive]] est anti-matérialiste : elle croit que les comportements individuels (acheter une vieille diesel, ne pas acheter une voiture électrique à 18 000€) sont des "choix conscients et rationnels" qu'on peut réorienter par des incitations. C'est faux : ces comportements sont déterminés par les conditions matérielles d'existence. La PaduTeam : "Une analyse anti-matérialiste, anti-lutte des classes, et donc anti-marxiste."
 
+## L'écologie comme territoire propriétaire EELV
+
+Stratégie Tondelier : traiter l'écologie comme un "débouché politique indépendant" qui leur appartient. Tout adjectif ajouté à "écologie" (socialiste, marxiste, radicale) est présenté comme une tentative de division — "le lobby pétrolier a financé l'écologie marxiste pour nous diviser." Objectif réel : empêcher LFI et d'autres partis de prétendre à une légitimité écologiste concurrente. Problème : les ONG notent désormais LFI à égalité avec EELV sur les programmes.
+
+## Les capitalistes résoudront-ils l'écologie ?
+
+Thèse de Chris dans la vidéo Tondelier/Lumi : les capitalistes trouveront des solutions pour préserver la planète — non par altruisme, mais parce que leur survie en dépend. "Demain ils trouveront autre chose [...] l'important pour eux c'est de s'orienter vers les profits donc ils n'iront pas à leur perte." La mutation vers la voiture électrique en est l'illustration : pas de rupture avec le mode de production, juste une réorientation du profit. Ce qui confirme que l'écologie est *soluble dans le capitalisme* — mais au coût d'une catastrophe sociale pour les pauvres, pas pour les riches.
+
 ## Vidéos où le concept est développé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Développé longuement face à Tondelier, ZFE, Gilets Jaunes, organisation logistique du capitalisme
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Développement le plus complet : logistique capitaliste du territoire (années 50-80), désertification néolibérale, Gilets Jaunes comme mouvement de classe populaire rurale, pénurie volontaire EELV vs pénurie capitaliste, vote des crédits de guerre
+- [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — Tondelier incapable de défendre même l'écologie libérale face à Lumi. Stratégie EELV du territoire propriétaire ("l'écologie est indivisible"). Thèse sur la solubilité de l'écologie dans le capitalisme et l'écologie comme problème social.

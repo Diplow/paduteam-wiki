@@ -39,4 +39,4 @@ La PaduTeam propose une définition synthétique de l'extrême droite fondée su
 La [[Hierarchisation des etres humains]] est ainsi la fonction idéologique qui permet à la bourgeoisie de détourner la colère populaire vers des boucs émissaires plutôt que vers les véritables responsables.
 
 ## Vidéos où le concept est développé
-- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — la PaduTeam développe le concept pour analyser la ligne politique de Le Pen et son héritage
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — la PaduTeam développe le concept pour analyser la ligne politique de Le Pen et son héritage (avec données chiffrées : facteur 10 prisonniers soviétiques/occidentaux)

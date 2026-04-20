@@ -41,7 +41,16 @@ Le mécanisme en trois temps :
 
 La PaduTeam note que ce cycle est structurellement condamné : la [[Moisation|moïsation]] a séparé les blocs, la zone de confusion n'offre aucun débouché politique. Le soralisme de retour peut trouver un public YouTube mais "il y a pas de débouché politique en dehors d'un choix entre droite et gauche."
 
+## Le clash soraliste comme indicateur de déconfusion
+
+La vidéo [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] ajoute une dimension : le clash d'ER contre un opposant est un **signal de déconfusion**. Être qualifié de "gauchiste mou" par la boutique soralienne signifie qu'on a clairement choisi son camp — on n'est plus dans la zone confuse que Soral exploite. ER ne s'en prend qu'aux gens qui commencent à quitter le brouillard confus vers la gauche de rupture[^clash].
+
+L'article de l'ER (23 149 vues, 5 étoiles) intitulé "Le débat mou Rougeyron-Papacito arbitré par un gauchiste encore plus mou" confirme aussi le retour des ex-soraliens dans le giron d'ER : [[Egalite et Reconciliation]] couvre Papacito et Rougeron comme des "leurs", entérinant leur re-soralisation.
+
+[^clash]: [0:00](https://www.youtube.com/watch?v=YPsrCo3Ddww&t=0) — "quand vous êtes un ancien confus et que vous commencez à être clashé par Égalité et Réconciliation, là vous savez que vous avez atteint la déconfusion — la moïsation comme je dis"
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — Soral comme mécanisme de recrutement fasciste pour les ouvriers confus
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Dimension intellectuelle : logoré, méconnaissance de Clouscard, proudonisme non assumé
 - [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]] — Le cycle soraliste : soralisation, rupture, libéralisme identitaire, re-soralisation de retour
+- [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — Le clash soralien comme indicateur de déconfusion ; Soral ne peut pas actualiser Clouscard sans se désigner lui-même comme problème

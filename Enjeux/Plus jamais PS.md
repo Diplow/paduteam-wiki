@@ -28,6 +28,16 @@ Les partisans de l'unité de la gauche à tout prix (Ruffin, une partie du PCF, 
 ## Évolution
 Position constante depuis la création de la chaîne, renforcée par chaque trahison PS documentée. Les municipales 2026 et la résurgence de [[Francois Hollande]] comme faiseur de roi via [[Boris Vallaud]] ont confirmé et durci cette analyse.
 
+## Tondelier et Cohn-Bendit comme figures du même problème
+
+Le batch de janvier 2025 enrichit l'enjeu d'une dimension théorique : le mécanisme qui produit le PS produit aussi EELV et les libéraux-libertaires de 68. Ce ne sont pas des erreurs individuelles — c'est une trajectoire de classe.
+
+**[[Marine Tondelier]] comme cas d'école EELV** (deux vidéos, [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] et [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]]) : elle ne sait pas ce qu'est le capitalisme, ne sait pas ce qu'il faudrait mettre à la place, masque cette inconsistance théorique par la condescendance de classe ("branler la nouille avec des concepts"). Elle croit sincèrement être une figure de la lutte des classes — c'est son privilège de classe, pas sa ruse. La PaduTeam : "C'est une grosse libérale capitaliste qui le croit pas elle-même." Ce mécanisme — la gauche réformiste qui s'approprie un territoire politique (l'écologie, le socialisme) sans rupture avec la propriété — est exactement le même que le PS.
+
+**[[Daniel Cohn-Bendit]] comme fin de trajectoire** ([[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]) : il a repris le terme "grand remplacement" à son compte sur LCI. [[Michel Clouscard]] (*Néofascisme et idéologie du désir*, 1972) avait prédit cette trajectoire : les libéraux-libertaires — libertaires sur les mœurs mais jamais sur la propriété — basculent mécaniquement vers le libéralisme autoritaire quand la crise exige de maintenir l'ordre bourgeois. Mai 68 libertaire → EELV → soutien à Macron → rhétorique du grand remplacement. La PaduTeam : "sous les pavés, Le Pen." Et dans ce mouvement, Valls et le gouvernement macroniste permettent la déréglementation coloniale du droit du travail à Mayotte (journées de 14h pour les Comoriens en reconstruction post-cyclone) — tandis que Cohn-Bendit valide la rhétorique qui "rend impossible" leur immigration.
+
+Ces deux cas confirment la thèse structurelle : la gauche qui ne rompt pas avec la propriété produit inévitablement, en période de crise, ses propres figures du racisme d'État.
+
 ## Conférence "Plus jamais PS" (février 2026)
 Conférence avec trois intervenants :
 - [[Stephane Palombarini]] : historique de la conversion néolibérale du PS depuis les années 60-70
@@ -134,6 +144,9 @@ Manifestations concrètes :
 Lien structurel : la trahison PS sur la Palestine suit la même logique que la trahison PS en général — un parti dont la base de classe (haut-droite du Graphique) l'oblige à défendre l'ordre sioniste atlantiste. "Ce n'est pas une erreur ou une lâcheté : c'est leur ligne."
 
 ## Vidéos clés
+- [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — Tondelier ne sait pas ce qu'est le capitalisme, confond écologie et programme politique, masque son libéralisme derrière un humanisme de classe moyenne ; annonce du Graphique comme outil pour cartographier ces inconsistances
+- [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]] — trajectory libérale-libertaire → libéralisme autoritaire selon Clouscard ; Valls/macronisme permettant la déréglementation coloniale à Mayotte pendant que Cohn-Bendit valide la rhétorique du grand remplacement
+- [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Tondelier incarne le féminisme blanc bourgeois ("Karen") qui instrumentalise le genre contre les intérêts de classe des racisés
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Hollande tenu pour responsable direct de l'émergence de Macron ; la sortie "Mamadou" comme aboutissement logique de ce que le PS a engendré ; racisme d'État cohérent, pas dérapage
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — bilan quinquennat Hollande comme liste de trahisons concrètes : CICE (300M à Arnault), répression manifs palestiniennes, loi travail, émergence de Macron. Le reportage Paris Match comme révélateur du rapport de classe de la social-démocratie.
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — [[Chloé Ridel]] (porte-parole PS) attaque le communiqué de LFI sur la condamnation Le Pen, illustrant la posture permanente d'opposition du PS à LFI dès qu'une opportunité se présente

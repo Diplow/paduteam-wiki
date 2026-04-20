@@ -38,5 +38,14 @@ Exemples de contre-sociétés qui émergent : l'[[Organisation Solidarite Trans|
 ## Ce qui manque aujourd'hui : le [[Syndrome Batman]]
 Les militants de gauche actuels sont invisibles dans leur quotidien ("Personne sait que vous êtes militant, mais la nuit vous collez"). Ils n'ont pas de local, pas de présence permanente — ils apparaissent pendant les campagnes et disparaissent. C'est le "syndrome Batman." Ça marche pour les scores électoraux mais ça ne construit pas de contre-société.
 
+## Compensation matérielle et formation politique : les deux fonctions historiques
+
+La PaduTeam précise les deux missions complémentaires des organisations de classe au 19e siècle : **former la conscience de classe** (comprendre l'intérêt médiat, via la lutte des classes) et **compenser les problèmes d'inconfort immédiat** des ouvriers par des structures de solidarité. Dans une société sans État social, la précarité et la solitude du monde ouvrier étaient une entrave à l'action collective — il fallait donc organiser la santé, la sécurité, la retraite *avant* de pouvoir former des révolutionnaires[^2].
+
+C'est cette double fonction qui explique que les caisses de retraite et la Sécurité sociale aient été d'abord des inventions du mouvement ouvrier lui-même, avant d'être nationalisées par l'État providence.
+
 ## Vidéos où le concept est développé
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement substantiel sur la destruction de la contre-société ouvrière par le néolibéralisme et la nécessité de la reconstruire.
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Rappel historique des deux fonctions (formation + compensation matérielle) ; nécessité de reconstruire des organisations "beaucoup moins gazeuses, beaucoup plus solides" pour compenser les destructions néolibérales de l'État social.
+
+[^2]: [22:27](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1347) — "historiquement les organisations de classe ont fait deux choses : former la conscience de classe […] mais aussi compenser les problèmes d'inconfort immédiat des ouvriers par la mise en place de structures de solidarité d'entraide"

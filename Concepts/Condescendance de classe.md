@@ -32,6 +32,20 @@ Proche du paternalisme mais plus précis : la condescendance de classe implique 
 ## Lien avec le [[Graphique]]
 Les partis qui incarnent le plus la condescendance de classe sont positionnés en haut-milieu du Graphique (bourgeoisie progressiste/diplômée) : [[Europe Ecologie Les Verts]], une partie du [[Parti Socialiste]]. Ils parlent aux classes populaires de l'extérieur plutôt que de mobiliser leur propre classe sociale.
 
+## Le pédagogue contre le démagogue
+
+Opposition structurante que la PaduTeam formule explicitement : la condescendance de classe produit le démagogue (celui qui simplifie, vulgarise à la baisse, "fait populaire" en étant vulgaire). Le pédagogue, lui, part de la conviction que tout être humain est capable d'atteindre le niveau de compréhension nécessaire — que les limites ne sont jamais dans les gens mais dans les conditions sociales qui leur sont faites.
+
+Référence explicite : Lucien Sève, *Les dons n'existent pas* — article qui a fait polémique même dans les milieux communistes, démontrant que les aptitudes (notamment en mathématiques) dépendent des conditions dans lesquelles on place les gens, pas de dispositions innées.
+
+Conséquence politique : "Toute personne de gauche te doit de combattre les démagogues et de devenir pédagogue" — et la condescendance se déguise toujours en vertu ("par empathie envers eux").
+
+## Le déterminisme naturalisant
+
+Variante théorique du mécanisme : croire que les pauvres "ne comprennent jamais rien de toute façon" est une pensée surdéterministe et autoréalisatrice. Elle nie la capacité d'autotransformation de l'humanité — ce qui est "totalement antimarxiste". Le mouvement ouvrier a précisément rompu avec ce déterminisme en disant aux classes populaires qu'elles pouvaient renverser l'ordre du monde. La condescendance de classe le réinstalle en douceur, derrière un discours de bienveillance.
+
 ## Vidéos où le concept est développé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Développé longuement à travers la critique de Tondelier à l'Humanité, opposition entre éducation populaire réelle et "branlage de nouille avec des concepts"
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — Cas d'école avec le "parti des gens qui puent un peu sous les bras" : cosplay Audiard, stéréotypes bours/tours, comparaison avec les faux antiracistes, opposition avec Mélenchon/Kazib qui partent de la force du prolétariat
+- [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — Développement théorique le plus complet : opposition pédagogue/démagogue, référence Lucien Sève sur les dons, déterminisme naturalisant, et lien avec le privilège de classe sincère (Tondelier n'est pas cynique — elle croit vraiment parler au nom du peuple)
+- [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Exemple Médine : Tondelier dit qu'il faudra lui apprendre à "ne pas être dissipé en classe" — condescendance de classe articulée avec le racisme, illustrant le mécanisme [[Karen (terme)]]

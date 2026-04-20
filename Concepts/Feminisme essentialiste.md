@@ -3,8 +3,7 @@ type: concept
 domaine: [société, théorie]
 thèmes: [féminisme]
 aliases: [féminisme bourgeois, féminisme blanc, essentialisme de genre]
-statut: ébauche
-skill_version: ingest-batch-2026-04-13
+skill_version: write-concept-2026-04-20
 date created: Monday, April 13th 2026, 6:31:54 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---

@@ -18,6 +18,9 @@ Deux axes principaux:
 - **Axe horizontal (exploitation)**: inspiré de Marx — oppose les exploités (gauche) aux exploiteurs (droite)
 - **Axe vertical (domination)**: inspiré de Bourdieu — oppose les dominés (bas) aux dominants (haut)
 
+### Piège : domination ≠ qualification technique
+L'axe vertical mesure la **qualification sociale** (reconnaissance par le capital scolaire, position dans la hiérarchie de la division du travail), pas la qualification technique. Un boulanger peut être très qualifié techniquement mais se retrouve en bas du Graphique parce qu'il n'a qu'un CAP/BP. Un fonctionnaire de catégorie A se retrouve en haut même s'il occupe un poste moins exigeant techniquement. Ce que la société valorise, c'est la hiérarchie éducative, pas le savoir-faire artisanal. C'est pour cela que les artisans ressentent une injustice : ils ont du savoir-faire mais pas la valorisation sociale correspondante.
+
 ## Les 4 quadrants
 - **Haut-droite**: [[Bloc bourgeois]] / néolibéral (ex: [[Horizon]], Macron 2022)
 - **Haut-gauche**: Gauche système / institutionnelle (ex: [[Parti Socialiste]], [[Europe Ecologie Les Verts|Europe Écologie Les Verts]])
@@ -34,7 +37,13 @@ L'algorithme a été codé de manière artisanale. Il utilise les données INSEE
 - Hiérarchie PCS : cadre > profession intermédiaire > employé > ouvrier qualifié > ouvrier non qualifié (axe vertical)
 - L'algorithme classe de -100 à +100 sur chaque axe
 
-Un projet est en cours pour rendre l'algorithme public et permettre d'ajouter des données supplémentaires (tranches d'âge à l'intérieur des PCS, croisements plus fins).
+Construction concrète expliquée dans la capsule [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|Capsule Graphique Positions Revue]] :
+- **Axe vertical (domination)** : reprend directement la nomenclature PCS 2020 de l'INSEE, qui hiérarchise de l'ouvrier spécialisé au cadre dirigeant — pas de travail supplémentaire, c'est la hiérarchie normée par l'INSEE
+- **Axe horizontal (exploitation)** : utilise les statistiques INSEE sur la composition du patrimoine par PCS — proportion de propriétaires (ex : "dans les ouvriers spécialisés il y a 1% de gens propriétaires"), portefeuilles d'actions, patrimoine immobilier, revenus du capital vs revenus du travail. Plus une PCS détient du patrimoine, plus elle est décalée à droite
+
+Exemple de cas-limite éclairant : les agriculteurs sur grande exploitation sont **plus à droite** que les chefs d'entreprise de 10+ salariés, parce qu'ils sont des grands propriétaires fonciers dont le capital dépasse celui de certains patrons qui peuvent eux avoir une entreprise mais travailler encore.
+
+Un projet est en cours pour rendre l'algorithme public (Open Source) et permettre d'ajouter des données supplémentaires (tranches d'âge à l'intérieur des PCS, croisements plus fins). Le graphiste/miniaturiste collabore sur la version interactive.
 
 ## Mécanique du ranking
 
@@ -81,11 +90,21 @@ Le Graphique se distingue fondamentalement de l'approche bourdieusienne. Bourdie
 - Le Graphique montre que Mélenchon et Le Pen occupent le même espace sociologique (classes populaires) — la [[Conflictualite interne aux classes populaires]] est le clivage central
 - L'[[Eclatement du bloc central]] et la [[Moisation]] achevée rendent possible un second tour Mélenchon/Le Pen en 2027
 
+## Racisme économique vs racisme culturel — deux espaces différents
+
+Le Graphique permet de distinguer deux racismes qui ne captent pas les mêmes PCS :
+- **Racisme de gestion de la pénurie** (Le Pen) : "les Arabes nous volent notre boulot", "préférence nationale", logique de concurrence sociale. Capte les classes populaires bas-gauche/bas-centre qui sont dans l'urgence matérielle. Le Pen est obligée de rester dans cet espace — donc de donner des gages sociaux (retraite à 60 ans, SMIC, pouvoir d'achat) pour ne pas perdre son électorat populaire
+- **Racisme civilisationnel** (Zemmour) : grand remplacement, débat de valeurs, identité de la France. Capte des PCS plus dominantes, plus à l'aise, qui s'intéressent aux questions existentielles plutôt que matérielles
+
+Ces deux racismes sont **structurellement incompatibles** comme stratégie électorale unifiée. Quand [[Valerie Pecresse]] a commencé à parler de grand remplacement, elle s'est exclue du cercle électoral populaire — son score s'est effondré à la "bourgeoisie versaillaise", hors du cercle.
+
+Conséquence stratégique : l'antiracisme est le nerf de la guerre spécifiquement dans l'espace populaire. C'est le seul clivage qui permet de différencier Mélenchon de Le Pen quand ils partagent le même espace de classe. Sans antiracisme, pas de différenciation possible. Mais dans l'espace de Zemmour (dominants), l'antiracisme est moins prioritaire — ces PCS ne sont pas les cibles primaires de Mélenchon.
+
 ## Validation externe
 
 [[Frederic Lordon]], dans une interview sur [[Blast]], arrive aux mêmes conclusions que le Graphique sur 2027 sans nommer l'outil. La PaduTeam y voit une confirmation que "l'esprit du temps est là" et que la convergence n'est pas accidentelle. Ils suspectent que Lordon les regarde et a intégré leur analyse.
 
-La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Les critiques qui lui sont adressées (sexisme, racisme, réductionnisme) sont mal posées : genre et race ne sont pas absents du Graphique, ils sont encodés dans les [[Dimensions tierces du Graphique]], lisibles à l'intérieur des ronds (PCS). Ajouter une 3D explicite le rendrait illisible.
+La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Dès janvier 2022, avant la campagne, [[Chris]] projette Mélenchon à 22% — résultat final : 21,95%. La distribution structurelle rendait ce score quasi-obligatoire. La seule erreur : avoir prévu Pécresse à plus de 5%, ce qui aurait pu suffire à faire qualifier Mélenchon. Conclusion : ce n'est pas Roussel qui a fait perdre Mélenchon (son électorat est trop à droite pour basculer vers LFI) — c'est l'abstention trop forte dans le cercle de concurrence. Les critiques adressées au Graphique (sexisme, racisme, réductionnisme) sont mal posées : genre et race ne sont pas absents du Graphique, ils sont encodés dans les [[Dimensions tierces du Graphique]], lisibles à l'intérieur des ronds (PCS). Ajouter une 3D explicite le rendrait illisible.
 
 ## Concepts dérivés
 - [[Diagonale de pouvoir]] — la ligne méritocratique du Graphique, au-dessus de laquelle les classes sont révolutionnaires, en dessous réactionnaires

@@ -54,8 +54,17 @@ La PaduTeam a retracé comment certains de ses membres ont été captés par Sor
 
 La fascination pour Soral chez les jeunes hommes tenait aussi à la critique du PS/SOS Racisme — à l'époque, l'antiracisme médiatique était effectivement instrumentalisé par le PS, et Soral le dénonçait (avec des conclusions réactionnaires mais un diagnostic partiellement correct).
 
+## Pourquoi Soral ne peut pas actualiser Clouscard
+
+Le transcript de la vidéo [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] formule un point nouveau : Soral ne peut **structurellement** pas actualiser Clouscard, parce que l'actualisation l'obligerait à se désigner lui-même comme problème. Clouscard dit que les libéraux libertaires deviennent néofascistes en période de crise — mais Clouscard dit aussi que c'est l'idéologie **petite bourgeoise** (proudonisme, défense de la petite propriété, anti-planification) que la bourgeoisie choisit en période de crise pour faire barrage au communisme. Or Soral est précisément dans cette idéologie[^soral-actualisation]. Actualiser Clouscard, c'est se condamner soi-même.
+
+Pierre de Brague (proudonien invité régulier d'ER) est cité comme exemple de cette idéologie petite bourgeoise : "une idéologie que la bourgeoisie aime bien quand elle doit faire le choix entre l'idéologie petite bourgeoise et l'idéologie prolétarienne."
+
+[^soral-actualisation]: [9:55](https://www.youtube.com/watch?v=YPsrCo3Ddww&t=595) — "Soral n'a jamais réussi à actualiser l'analyse de Clouscard à ce qui est aujourd'hui — parce que s'il devait l'actualiser, Soral verrait qu'en dernier sort il fait lui aussi le jeu de ce néofascisme là"
+
 ## Vidéos où Soral est analysé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Démontage complet de son économie politique, de sa méconnaissance de Clouscard, de sa logoré
 - [[FROM TROTSKISTE TO RACISTE]] — Analysé comme vecteur de recrutement fasciste des hommes confus
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — Analyse de sa trajectoire vue depuis la trajectoire de Padu : masculinisme comme moteur de recrutement, antisémitisme de Comprendre l'Empire, rôle déstructurateur
 - [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]] — Soralisation de retour : des figures qui l'avaient quitté pour le national-libéralisme identitaire reviennent vers sa niche confusionniste de 2015
+- [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — ER attaque Padu comme "gauchiste mou" ; démonstration que Soral ne peut pas actualiser Clouscard sans se condamner lui-même

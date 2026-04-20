@@ -78,6 +78,18 @@ Ces sorties ne sont pas surprenantes pour la PaduTeam : des travaux d'enquête (
 [^macron_mamadou]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — réunion Élysée automne 2023 avec Kohler et Rousseau, rapporté par *Le Monde*
 [^macron_rabzous]: [9:17](https://www.youtube.com/watch?v=9rptwstCFFk&t=557) — "le terme n'apparaît évidemment pas dans la version publiée relu par l'Élysée"
 
+## Impuissance économique et chute annoncée (2025)
+
+La PaduTeam analyse dans [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] les conditions de la chute de Macron à travers une grille matérialiste. Le seul acquis de son quinquennat — la baisse du chômage — disparaît avec la crise de production post-inflation (2025 : hausse du chômage, défaillances d'entreprises à 80-90 000, production industrielle en dessous de 2010). Il perd ainsi son dernier argument économique auprès du [[Bloc bourgeois]].
+
+Sa séquence est caractérisée comme une "politique de bunker" : après la barricade (gouvernement Attal avec fausse majorité), après la dissolution ratée (incompréhension des rapports de force — croire que Glucksmann seul empêcherait la reconstitution du NFP), Macron est aux "derniers jours de Hitler dans la chute". Ce qui le maintient : l'absence de successeur crédible pour le [[Bloc bourgeois]] — ni le RN (aventureux), ni la gauche de rupture (menace sur la valeur).
+
+La PaduTeam formule une prophétie : Macron ne finira pas 2025. La troisième issue — après le gouvernement technique austéritaire (sans solution à la crise) et le fascisme (politiquement impossible en France sans tirer à balles réelles) — est le départ forcé de Macron poussé par son propre bloc, pour tenter la mise sur un Edouard Philippe ou un Gabriel Attal et récupérer l'espace présidentiel avant la présidentielle anticipée.
+
+Formulation marquante : "Il arrive en 2017 comme une tragédie, il repart comme une farce — le gars arrive comme dépassement des rebuts de la gauche et de la droite et il finit avec Manuel Valls, Darmanin, Bayrou, Barnier, tous les rebuts de la politique normalement qu'il aurait dû enterrer en 2017."[^macron_farce]
+
+[^macron_farce]: [58:48](https://www.youtube.com/watch?v=huwzFU_HESg&t=3528) — "Macron est arrivé en 2017 comme une tragédie il va repartir comme une farce"
+
 ## Vidéos
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
@@ -86,3 +98,4 @@ Ces sorties ne sont pas surprenantes pour la PaduTeam : des travaux d'enquête (
 - [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — "Trumpiste honteux" : appelle Machado pour valider l'opération américaine, comparé à France-Afrique 2.0, hiérarchie des positions françaises face au Venezuela établie.
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Révélation des propos "Mamadou" (automne 2023) + chronologie des sorties racistes (rabzous 2019, cocottes, cage au fol) ; Zoé déconstruit les vraies causes de la crise des urgences
 - [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — visite post-Chido : comportement de colon assumé, [[Abandon colonial des DOM-TOM]] comme politique structurelle, analyse de l'[[Injonction a la dignite]]
+- [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — Analyse de la crise économique post-inflation, impuissance politique de bunker, pronostic de chute en 2025 et présidentielle anticipée

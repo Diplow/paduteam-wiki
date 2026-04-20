@@ -50,5 +50,5 @@ Le [[Graphique]] montre que le vote FN 2002 était un vote caché des classes po
 - **Comparaisons injustes avec Mélenchon** : [[Sophia Aram]] et [[Plantu]] ont tenté, le jour de sa mort, de tracer un parallèle entre Le Pen et Mélenchon. La PaduTeam : "Les négationistes de France votaient Jean-Marie Le Pen, pas Mélenchon."
 
 ## Vidéos où l'individu est mentionné
-- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Analyse de son héritage le jour de sa mort ; torture en Algérie ; continuité FN→RN ; défense de Mélenchon contre les comparaisons
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Cité comme preuve historique de l'échec des sondages (8% annoncés → 17% réels en 2002)

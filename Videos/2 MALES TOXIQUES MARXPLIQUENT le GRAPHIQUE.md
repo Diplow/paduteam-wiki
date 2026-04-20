@@ -1,15 +1,18 @@
 ---
 type: vidéo
+date: 2025-01-12
+youtube_id: f5eZq8_ZUuc
 domaine: [théorie]
-thèmes: [féminisme, travail]
+thèmes: [le-Graphique, travail, féminisme]
 enjeux: []
+intervenants: [Padu, Chris, Dr Zoe]
 aliases: [2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]
 date created: Wednesday, April 1st 2026, 5:02:55 pm
-date modified: Wednesday, April 15th 2026, 1:40:00 pm
+date modified: Monday, April 20th 2026, 12:00:00 pm
 ---
-#domaine/théorie #thème/le-Graphique #thème/féminisme #thème/travail
+#domaine/théorie #thème/le-Graphique #thème/travail #thème/féminisme
 
-![vidéo](https://www.youtube.com/watch?v=f5eZq8_ZUuc)
+![2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT !!](https://www.youtube.com/watch?v=f5eZq8_ZUuc)
 # 2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT !! (x Dr Zoé/Positions Revue)
 
 ## Résumé
@@ -49,4 +52,7 @@ Capsule pédagogique où la PaduTeam explique le fonctionnement du [[Graphique]]
 [[Positions Revue]], Sécurité sociale, Amazon (exemple de socialisation capitaliste), EDF (exemple de monopole naturel face au marché artificiel)
 
 ## Concepts mobilisés
-[[Graphique]], [[Diagonale de pouvoir]], [[Proletarisation des cadres]], [[Neoliberalisme]], [[Bloc bourgeois]], [[Salariat generalise]], [[Heterogeneite du salariat]]
+[[Graphique]], [[Diagonale de pouvoir]], [[Proletarisation des cadres]], [[Neoliberalisme]], [[Bloc bourgeois]], [[Salariat generalise]], [[Heterogeneite du salariat]], [[Socialisation des moyens de production]]
+
+## Transcript
+[[Sources/Transcripts/2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE à @Dr_Zoé_YT  !! (x Dr ZoéPositions Revue)]]

@@ -29,3 +29,4 @@ Philosophe et sociologue marxiste roumano-français (1913-1970). Théoricien du 
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur le structuralisme génétique
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Long extrait de Goldmann expliquant Marx contre Proudhon sur la conscience de la petite bourgeoisie ; *Le Dieu caché* cité pour la noblesse comme continuum
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Cité aux côtés de [[Georg Lukacs|Lukács]] pour l'analyse des idéologies comme réponses à des problèmes concrets des sujets collectifs (jankovichisme, pierre-rabisme)

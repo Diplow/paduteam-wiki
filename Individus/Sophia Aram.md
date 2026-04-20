@@ -35,6 +35,6 @@ Macron lui remet le prix Jean-Pierre Bloch de la LICRA ("contre le racisme et l'
 Elle défend le voile comme "pas un embellissement" — pour la PaduTeam : "Derrière son universalisme abstrait, il y a un suprémacisme concret. Elle dit faut pas diviser en race mais s'acharne sur les musulmanes qui portent le voile." Elle qualifie l'antisémitisme montant comme lié à "l'islamisme" et au "communautarisme" — en ignorant complètement la colonisation et le génocide comme facteur. La PaduTeam : "Elle a une vision du monde identique à celle de George W. Bush."
 
 ## Vidéos où elle est mentionnée
-- [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Tentative de rapprochement LFI/Le Pen le jour de sa mort
+- [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Tentative de rapprochement LFI/Le Pen le jour de sa mort
 - [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Molière + discours Gaza ; universalisme abstrait ; inversions complotistes
 - [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA ; discours islamophobie/antisémitisme ; "vision George W. Bush"

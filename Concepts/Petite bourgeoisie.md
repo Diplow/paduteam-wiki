@@ -46,7 +46,11 @@ Médecins, notaires, avocats — petite bourgeoisie dont le privilège repose su
 ## [[Continuum de classe]]
 Il y a un continuum entre petite bourgeoisie et grande bourgeoisie (même rapport à la propriété et à la concurrence), mais une rupture de nature avec le prolétariat. C'est pour cela qu'on parle de "petite" bourgeoisie : elle fait partie du même continuum idéologique.
 
+## Dégénérescence au sens marxiste
+Dans [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]], la PaduTeam précise le terme "dégénéré" dans son sens marxiste : une classe en dégénérescence est une classe en voie de disparition tendancielle. Avant la Révolution française, la petite bourgeoisie (artisans, commerçants) occupait la position que tiennent aujourd'hui les professions intermédiaires et cadres. La technocratisation et le salariat l'ont progressivement déplacée vers le bas-droite du [[Graphique]]. Elle "dégénère" parce qu'elle perd le rapport normal au capitalisme (être sur la diagonale) et se retrouve dans un espace anachronique — avec du capital mais sans pouvoir de direction.
+
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Démonstration systématique : artisan vs salarié à même revenu, impossibilités idéologiques, "vous êtes votre propre bourgeois"
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — L'artisan de BFM TV comme cas d'école de la fausse conscience petite-bourgeoise ; développement du continuum, du capital techno-scolaire, de la petite bourgeoisie stato-notabilière
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — Trois cas d'école en direct (artisan, VTC, expert-comptable) ; Marx sur le socialisme petit-bourgeois ; le chauffeur VTC racisé sans déboucher politique
+- [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Explication du terme marxiste "dégénérescence" appliqué à la petite bourgeoisie : classe en voie de disparition tendancielle, repoussée vers le bas-droite du Graphique par la technocratisation, avec capital mais sans manettes de direction
