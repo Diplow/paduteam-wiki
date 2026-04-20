@@ -63,7 +63,7 @@ Si l'utilisateur fournit autre chose (un sujet, une liste de vidéos, un bloc te
 5. Résoudre chaque vidéo cochable (`- [ ]`) du batch au transcript correspondant dans `Sources/Transcripts/` par correspondance fuzzy sur le basename (normalisation : minuscules, suppression des accents, ponctuation → espaces, compactage des espaces). Si aucune correspondance n'est trouvée pour une vidéo, signaler à l'utilisateur avant de continuer.
 6. Retenir le **thème parent** (ex. `feminisme` pour `FEMINISME.md`) — il servira pour la branche parente de merge.
 7. **Vérifier la taille** : 2-10 vidéos est la cible. Au-delà de 10, proposer à l'utilisateur de scinder.
-8. **Présenter la liste** à l'utilisateur pour validation avant de continuer.
+8. **Présenter la liste** à l'utilisateur pour validation avant de continuer — **sauf si le prompt contient "mode automatique"**, auquel cas procéder directement sans attendre de confirmation.
 
 ### Étape 2 — État du vault (gather-context)
 
