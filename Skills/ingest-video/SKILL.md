@@ -1,5 +1,5 @@
 ---
-name: paduteam-knowledge
+name: ingest-video
 description: >
   Orchestre l'ingestion d'un transcript de vidéo PaduTeam dans la base de connaissances Obsidian.
   Coordonne les skills spécialisées : gather-context pour la recherche, puis write-video,
@@ -8,8 +8,8 @@ description: >
   Déclencher quand l'utilisateur dit "ingérer", "ajouter au vault", "créer les fiches",
   "analyser cette vidéo pour Obsidian", ou toute demande combinant un transcript PaduTeam et la base de connaissances.
 date created: Tuesday, March 31st 2026, 10:29:39 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
-skill_version: ingest-2026-04-12
+date modified: Sunday, April 19th 2026, 2:30:00 pm
+skill_version: ingest-video-2026-04-19
 ---
 
 # Skill : Ingestion PaduTeam → Knowledge Vault (orchestrateur)
@@ -35,10 +35,13 @@ Cette skill orchestre l'ingestion d'un transcript de vidéo PaduTeam. Elle ne r�
 
 Si l'utilisateur ne fournit ni URL, ni titre, ni transcript :
 
-1. Lire `Sources/Inventaire PaduTeam.md`
-2. Parcourir la table du haut (vidéos les plus récentes)
-3. Trouver la **première ligne avec transcript mais sans fiche** (colonne 4 non vide, colonne 5 vide)
-4. Si toutes les vidéos avec transcript ont une fiche, le signaler
+1. Lister les fichiers de `Sources/Transcripts/` (ignorer ceux préfixés par `_`)
+2. Lister les fichiers de `Videos/`
+3. Identifier les transcripts **sans fiche vidéo correspondante**. Le matching peut se faire par `youtube_id` (champ présent dans le frontmatter du transcript, à croiser avec le frontmatter des fiches vidéo) ou, à défaut, par nom de fichier normalisé (minuscules, sans accents, ponctuation → espaces).
+4. Parmi ces transcripts « orphelins », proposer à l'utilisateur le plus récent (par date de modification du fichier transcript, ou par date YouTube si disponible dans le frontmatter) et demander confirmation avant de continuer.
+5. Si tous les transcripts ont une fiche, le signaler.
+
+**Note** : `Sources/Inventaire PaduTeam.md` est une vue DataviewJS dynamique — elle calcule ce croisement transcript ↔ fiche à la volée dans Obsidian, elle n'est pas lisible depuis le système de fichiers. C'est la raison pour laquelle on refait le croisement directement ici.
 
 ### Étape 2 — Branche git
 
@@ -60,7 +63,7 @@ Lire le transcript en entier.
 
 Identifier à partir du transcript :
 
-1. **Métadonnées** : titre, date, domaine, `youtube_id` (récupérer depuis l'Inventaire PaduTeam — colonne Lien, extraire l'ID de l'URL `watch?v=`)
+1. **Métadonnées** : titre, date, domaine, `youtube_id` (récupérer directement dans le frontmatter du transcript — le champ `youtube_id` y est présent)
 2. **Individus** mentionnés significativement
 3. **Organisations** mentionnées
 4. **Concepts analytiques** utilisés
@@ -71,7 +74,7 @@ Identifier à partir du transcript :
 
 Appeler `gather-context` avec les sujets principaux de la vidéo (thèmes, enjeux, concepts clés identifiés à l'étape 4).
 
-Le contexte produit dans `Sources/.context-tmp.md` sera utilisé par toutes les skills write-* qui suivent.
+Le fichier produit `Sources/.context-tmp.md` est une **carte de navigation** : une présentation synthétique du sujet et une liste de fiches liées à ouvrir. Les skills `write-*` qui suivent consomment ce fichier et ouvrent elles-mêmes les fiches wikilinkées dont elles ont besoin pour écrire.
 
 ### Étape 6 — Lire les fiches existantes
 
@@ -109,9 +112,12 @@ Les transcripts auto-générés produisent des erreurs sur les noms propres :
 
 Se concentrer sur les noms étrangers et les personnalités secondaires.
 
-### Étape 10 — Mise à jour de l'Inventaire
+### Étape 10 — Vérifier l'appariement dans l'Inventaire
 
-Mettre à jour `Sources/Inventaire PaduTeam.md` : remplir la colonne **Fiche** avec `[[Titre de la fiche vidéo]]`.
+`Sources/Inventaire PaduTeam.md` est une vue DataviewJS qui apparie automatiquement transcripts et fiches vidéo (priorité : `youtube_id`, puis wikilink vers le transcript, puis nom normalisé). **Il n'y a donc rien à éditer manuellement**. Vérifier simplement que la fiche vidéo créée porte au moins l'un de ces ancrages pour que l'appariement se fasse :
+- `youtube_id` dans le frontmatter (forme recommandée — déjà prévue par `write-video`)
+- ou un `[[wikilink]]` vers le transcript dans le corps de la fiche
+- ou un nom de fichier proche (normalisé) du nom du transcript
 
 ### Étape 11 — Commit, push et PR
 

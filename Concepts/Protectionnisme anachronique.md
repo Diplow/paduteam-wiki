@@ -4,7 +4,7 @@ domaine: [économie, géopolitique]
 thèmes: [États-Unis, anti-impérialisme]
 aliases: [Protectionnisme trumpiste, Protectionnisme néo-mercantile]
 date created: Wednesday, April 1st 2026, 10:38:47 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/économie #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme
 
@@ -41,6 +41,23 @@ Dollar passé de ~0,96 à 0,92 face à l'euro entre janvier et mars 2026. Une mo
 ## L'analogie historique de la fin du 19e siècle
 La première grande crise économique du capitalisme à la fin du 19e siècle n'a pas été résolue par les lois protectionnistes de l'époque. Les économies occidentales ont fini par aller chercher leurs gains de productivité et la destruction de leurs concurrents par la guerre — Première Guerre mondiale. L'impasse trumpiste reproduit cette dynamique.
 
+## Formulation initiale à chaud — novembre 2024
+
+La thèse de l'impossibilité structurelle de réindustrialiser est formulée **dès novembre 2024**, au lendemain de la victoire de Trump, dans [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]]. La PaduTeam déploie un mécanisme en quatre crans :
+
+1. **USA consommateurs, plus producteurs** — « une nation qui ne sait plus produire. Les rares outils industriels se cachent derrière soit les fers de lance de la conception (Silicon Valley mais la fabrication est externalisée), soit l'agroalimentaire (Pepsi, Kellogg's, Coca — extrêmement arriérés sur le plan du développement productif) »[^orig_1].
+2. **[[Baisse tendancielle du taux de profit]]** — diagnostic marxiste explicite : « ils n'ont pas les capacités à faire de la hausse de productivité, donc il y a une espèce de baisse tendancielle du taux de profit — voilà je refais mon marxiste rabouri »[^orig_2].
+3. **Investissements publics massifs impossibles** dans le cadre néolibéral : « il faudrait mettre en jeu des milliards et des milliards d'investissements publics, ce qui va être contradictoire avec la vision libérale »[^orig_3]. Même le [[Neokeynesianisme|néokeynésianisme]] de Biden "n'a pas été assez loin".
+4. **Déception matérielle programmée** : « Trump va créer une forme de déception sur le plan matériel concret pour les gens qui l'ont élu, parce qu'il n'a pas les leviers ni les structures mentales pour satisfaire les gens qui l'ont élu. Le côté "j'emmerde les médias, je suis votre tribun de Twitter" ne marchera plus »[^orig_4].
+
+Cette formulation précède de plus d'un an les données empiriques (287 Mds droits de douane payés par les entreprises US, invalidation 6-3 par la Cour suprême, PIB -0,3% au T1 2026, déficit commercial record 162 Md$). Ces chiffres *valident* le mécanisme prédit à chaud.
+
+[^orig_1]: [32:22](https://www.youtube.com/watch?v=mK41og88Zj0&t=1942) — « les États-Unis sont dans un état industriel absolument catastrophique — une nation qui ne sait plus produire. Les rares outils industriels se cachent soit derrière les fers de lance de la conception — Silicon Valley mais la fabrication est externalisée — soit l'agroalimentaire — Pepsi, Kellogg's, Coca — extrêmement arriérés sur le plan du développement productif ».
+[^orig_2]: [32:54](https://www.youtube.com/watch?v=mK41og88Zj0&t=1974) — « ils n'ont pas les capacités à faire de la hausse de productivité, donc il y a une espèce de baisse tendancielle du taux de profit — voilà je refais mon marxiste rabouri ».
+[^orig_3]: [33:24](https://www.youtube.com/watch?v=mK41og88Zj0&t=2004) — « pour ça il faudrait mettre en jeu des milliards et des milliards d'investissements publics, ce qui va être contradictoire avec la vision libérale ».
+[^orig_4]: [33:55](https://www.youtube.com/watch?v=mK41og88Zj0&t=2035) — « il va créer une forme de déception sur le plan matériel concret pour les gens qui l'ont élu, parce qu'il n'a pas les leviers ni les structures mentales pour satisfaire les gens qui l'ont élu — même Biden n'a pas été assez loin dans le néokeynésianisme — le côté "j'emmerde les médias, je suis votre tribun de Twitter" ne marchera plus ».
+
 ## Vidéos où le concept est développé
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale (novembre 2024)** : USA consommateurs pas producteurs, Silicon Valley/Pepsi/Kellogg's/Coca, baisse tendancielle du taux de profit, néokeynésianisme de Biden insuffisant
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]

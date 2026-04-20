@@ -3,7 +3,7 @@ type: concept
 domaine: ['géopolitique']
 thèmes: ['anti-impérialisme']
 date created: Tuesday, March 31st 2026, 9:53:06 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme
 # Campisme
@@ -18,6 +18,14 @@ En période de conflit (impérialisme, guerre des gauches), il faut choisir. La 
 - Venezuela: soutenir le camp bolivarien ([[Delcy Rodriguez]], [[Nicolas Maduro]]) contre l'impérialisme US, sans conditions
 - Politique française: choisir Mélenchon contre Hollande sans chercher de troisième voie
 - Géopolitique: soutenir Cuba, le Mexique, l'Iran, la Colombie, le Venezuela — "ça résiste de partout"
+- Groenland (janvier 2026) : formulation la plus nette de l'alternative fermée. La PaduTeam tranche : « il y a deux solutions [...] il n'y a pas de troisième voix possible ». Soit **soumission à la loi du plus fort impérialiste** (Macron, [[Gabriel Attal|Attal]], bloc central français qui s'arme pour « rivaliser »), soit **retournement d'alliances anti-impérialistes** — « collaboration des peuples, un retournement d'alliance avec la Chine, avec les pays socialistes ou sur la voie du socialisme en Amérique du Sud, la Colombie, le Venezuela, Cuba, le Mexique aujourd'hui »[^groen_camp]. Durcissement doctrinal : le campisme n'est pas un choix stratégique ponctuel mais une exigence structurelle — sans rupture effective avec l'OTAN et l'UE, toute invocation du droit international est du tartuferie.
+
+## La [[Loi du plus fort]] comme phase du capitalisme, pas alternative
+
+Précision doctrinale formulée par la PaduTeam dans [[TRUMP VEUT ANNEXER LE GROENLAND]] : la loi du plus fort trumpiste n'est pas un nouveau mode de production, c'est « une phase beaucoup plus agressive, archaïque et violente » du même capitalisme — « une loi de la pénurie, de la priorité sur les ressources, de la concurrence et de la violence libérale capitaliste ». Le campisme anti-impérialiste n'est donc pas un choix entre deux modes de production équivalents mais le seul chemin vers une sortie du capitalisme par son centre de gravité impérial actuel.
+
+[^groen_camp]: [36:08](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=2168) — « Soit on rentre dans une politique anti-impérialiste, voilà, on refuse ça, on propose en face une collaboration des peuples, un retournement d'alliance avec la Chine, avec les pays socialistes ou sur la voie du socialisme en Amérique du Sud, la Colombie, le Venezuela, Cuba, le Mexique aujourd'hui. Voilà, il n'y a pas d'autres solutions. »
 
 ## Vidéos où le concept est développé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
+- [[TRUMP VEUT ANNEXER LE GROENLAND]] — formulation la plus nette du campisme étendu : « deux solutions », droit international vs retournement d'alliances, loi du plus fort comme phase du capitalisme

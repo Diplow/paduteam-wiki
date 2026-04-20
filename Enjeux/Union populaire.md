@@ -1,11 +1,12 @@
 ---
 type: enjeu
 domaine: [politique-intérieure]
-thèmes: [élections, guerre-des-gauches]
+thèmes: [élections, guerre-des-gauches, États-Unis]
+skill_version: write-enjeu-2026-04-19
 date created: Thursday, April 2nd 2026, 1:07:41 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Sunday, April 19th 2026, 9:00:00 pm
 ---
-#domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
+#domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/États-Unis
 # Union populaire
 
 ## Position PaduTeam
@@ -41,6 +42,51 @@ Position renforcée au fil des trahisons PS documentées. L'analyse des municipa
 - "La seule ligne qui permet d'unifier, de rassembler et d'offrir une dynamique est celle de la ligne de rupture" — pas par postulat idéologique, mais parce que c'est la ligne qui "tire les conclusions de l'expérience passée"
 - 94% des électeurs LFI des européennes reportent sur le NFP (vs seulement 2/3 pour les électeurs PS/EELV) — paradoxe : LFI fait les plus grandes concessions programmatiques et a les meilleurs reports d'électorat
 
+## La leçon Mamdani — la gauche de gauche gagne quand elle ne renonce à rien (corpus USA)
+
+Le corpus USA (nov 2025 → fév 2026) fournit la validation internationale la plus récente de l'union populaire comme méthode. [[Zohran Mamdani]] (DSA) gagne NYC avec **50%** au 1ᵉʳ tour contre 42% pour Andrew Cuomo (soutenu par Trump) et 7% pour le républicain Sliwa — sur une **participation historique pour une municipale** (41%, ~2M votants). La PaduTeam en tire une thèse stratégique directe et la formule en clair : **« la gauche de gauche gagne quand elle ne renonce à rien »**[^mamdani_gagne].
+
+### Généalogie BNC : l'infrastructure militante comme condition matérielle
+
+La victoire Mamdani n'est pas un accident. C'est le produit d'une **généalogie organisationnelle précise** :
+- **2016 : campagne [[Bernie Sanders]]** dans la primaire démocrate contre Hillary Clinton — défaite électorale, mais gain militant massif : la gauche américaine se dote d'une infrastructure de formation et de terrain qu'elle n'avait pas.
+- **2016 : fondation du [[Brand New Congress]] (BNC)** à partir de cette campagne — matrice organisationnelle.
+- **2018 : [[Alexandria Ocasio-Cortez]]** élue à la Chambre (Bronx/Queens) en primaire contre un démocrate établi, avec l'infrastructure BNC.
+- **2025 : Mamdani** élu maire de NYC dans la même matrice, avec **1,5 million de portes knockées** par la DSA.
+
+**Méthode explicite et reproductible** : programme matériel concret tenant en quelques points (**gel des loyers, bus gratuits, épicerie municipale, système de garde d'enfants**) + infrastructure militante dense (BNC + DSA) + travail de terrain massif. Pas de « danse du ventre au centre », pas de synthèse apparatchik — un **programme qui parle aux conditions matérielles** (crise du logement : +25% de loyers en 10 ans à NYC, 100 000 sans-abri dont 30 000 enfants dans une ville de 8,2M) porté par une armée de militants.
+
+### Les jeunes femmes comme classe révolutionnaire — extension du bloc populaire
+
+Les sorties d'urne donnent des scores « staliniens » pour Mamdani chez les jeunes femmes : **84% chez les 18-29 ans, 65% chez les 30-44 ans**, contre 68% et 66% pour les hommes des mêmes tranches, et 36% seulement chez les hommes de plus de 65 ans. La PaduTeam formule la thèse en clair : **« les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant »**[^mamdani_femmes].
+
+Le raisonnement est matérialiste, pas moral. Une situation révolutionnaire ne survient pas quand les gens sont « très exploités » — elle survient quand une classe a les **moyens matériels**, l'**aspiration** au changement, et qu'un **monde ancien bloque** ces aspirations. Les jeunes femmes new-yorkaises cumulent ces conditions : plus éduquées que la génération précédente, grandies dans un monde où contraception, IVG, carrière et indépendance financière *font partie de la structure mentale normale*, mais confrontées à un capitalisme patriarcal qui empêche structurellement cette émancipation (loyers, précarité, charge mentale, violences). L'union populaire française doit intégrer cette leçon : le bloc populaire inclut une **composante générationnelle féminisée diplômée** qui se mobilise massivement quand un programme matériel radical lui est proposé.
+
+### Programme DSA > LFI seule > NFP : hiérarchie explicite
+
+La PaduTeam projette point par point le programme DSA (que Mamdani porte) contre le programme NFP 2024 et en tire une conclusion sans ambiguïté : **le programme DSA est plus à gauche que LFI seule, qui est plus à gauche que le NFP**. Dix postes de comparaison : anticapitalisme assumé, salaire à 25$/h + 32h + contrôle ouvrier, taxation à 90% des revenus du capital, Medicare for All universel, socialisation du parc immobilier + expropriations, Defund the Police + abolition du système carcéral, amnistie des sans-papiers + frontières ouvertes + réparations pour l'esclavage, **fin de l'impérialisme + fermeture des bases militaires**. Formulation PaduTeam : « le programme du NFP est largement plus à droite que le programme de DSA [...] le programme qui se rapproche le plus de DSA c'est le programme de la France Insoumise, mais qu'il le tire à droite ».
+
+**Conséquence stratégique pour LFI** : ne pas revendiquer le programme NFP (« parce qu'ils vont le faire »), mais **revendiquer plus à gauche que le NFP**. L'union populaire française est mieux placée que la DSA américaine parce que LFI est **majoritaire dans son bloc** là où la DSA reste minoritaire dans un Parti Démocrate verrouillé. Mais elle doit assumer sa radicalité, pas se positionner « à droite de Mamdani ». Les municipales françaises 2026 ([[Francois Piquemal]] à Toulouse, [[Sophia Chikirou]] à Paris) reprennent typographie et couleurs Mamdani — accommodement légitime.
+
+### Le cadre Front Populaire 1936 — programme seul insuffisant, mobilisation indispensable
+
+Le risque structurel Mamdani est posé en clair par la PaduTeam : Syriza, Podemos, « diverses mairies françaises » ont droitisé en 6 mois. Ce qui manque à la DSA, c'est l'**assentiment de masse populaire** — « pas appuyés par des syndicats massifs, ni par des partis de masse » comme La Brèche s'efforce de devenir en France. Un élu seul cède mécaniquement à l'establishment sans cette pression matérielle continue.
+
+**Référence stratégique centrale** : le [[Front Populaire 1936]]. La PaduTeam rappelle que **« les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36 — ce sont les grèves de juin 36 qui les imposent »**[^mamdani_36]. Le programme est un levier, pas une garantie. Les 20 millions dépensés pour empêcher Mamdani (campagne adverse) seront « 10 ou 15 fois plus » une fois au pouvoir. **Sans grèves, sans manifestations, sans blocages, Mamdani sera contenu**. L'union populaire française doit articuler programme + terrain + grève : les trois ensemble, pas isolément.
+
+### Eux ont « choisi le mauvais côté de la moïsation »
+
+La PaduTeam formule la leçon géopolitique de gauche : les USA ont commencé leur [[Moisation]] avant la France (Sanders 2016 vs Mélenchon 2017) mais **« ils ont choisi le mauvais côté de la moïsation »** — l'élection Trump a absorbé leur bascule avant que la DSA n'émerge comme force. La France a la fenêtre pour **sauter directement au bon côté** : passer à l'étape union populaire sans avoir à subir un mandat d'extrême droite à la Trump. Ce n'est pas acquis, mais la fenêtre existe. L'enjeu est de ne pas « rater Mamdani » côté français — ne pas laisser le PS / Glucksmann incarner la gauche de droite qui perd mécaniquement.
+
+[^mamdani_gagne]: [34:38](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=2078) — analyse PaduTeam de la méthode Mamdani + analogie Front Populaire 1936 ; formulation « la gauche de gauche gagne quand elle ne renonce à rien » reprise dans l'ensemble du corpus.
+[^mamdani_femmes]: [25:58](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1558) — « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant ».
+[^mamdani_36]: [34:38](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=2078) — « ils ont mis 20 millions de campagne pour pouvoir empêcher Mamdani. Là, ça va être 10-15 fois plus quand il sera au pouvoir. On a l'expérience du Front populaire en France. Les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36. Ce sont les grèves de juin 36 qui l'imposent ».
+
+## Vidéos clés (suite — corpus USA)
+- [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Généalogie BNC / AOC / Mamdani ; 1,5M portes knockées ; jeunes femmes = classe révolutionnaire (84% chez les 18-29 ans) ; programme matériel simple et concret ; crise du logement comme clivage de classe central
+- [[MAMDANI A GAUCHE DE MELENCHON]] — Programme DSA > LFI seule > NFP sur 10 postes ; Front Populaire 1936 comme cadre stratégique ; appel à LFI de revendiquer plus à gauche que le NFP ; Ruffin « imposteur »
+- [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Avantage structurel français (casse-noix bilatéral) vs marteau de droite US monolatéral ; LFI a capté le bloc populaire que la DSA peine à construire faute d'organisation de masse
+
 ## Vidéos clés
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Démonstration que deux candidats à gauche valent mieux qu'une candidature unique : avec deux candidats, le premier tour se joue sur des thèmes de gauche (retraites, Palestine, nationalisations), créant une dynamique de report au second tour. Une candidature unique centre le débat sur la droite. "Le vrai barrage antifasciste c'est la victoire de la gauche de rupture, pas la synthèse avec le centre."
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Défense du communiqué LFI sur la condamnation Le Pen ; la position de Mélenchon est rationnelle et cohérente avec la stratégie de bloc populaire ; risque d'isolation si recomposition droite
@@ -61,6 +107,6 @@ Position renforcée au fil des trahisons PS documentées. L'analyse des municipa
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel diagnostiqué comme incapable de concurrencer la FI ; la seule voie viable serait de refaire le Front de Gauche en alliance avec LFI. Sa ligne droitière (CNews, racisme antiblanc, voile=salut nazi) le coupe des MJCF et des classes populaires racisées — il ne peut que faire 3-4% dans l'espace Zemmour/Glucksmann.
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Les médias mainstream reconnaissent la prophétie ; Mélenchon à 12,5% en sondages mais structurellement sous-estimé ; impératif de refonder l'Avenir en commun (sortie du dollar) pour contrer le PS qui fait la "danse du ventre au centre"
 - [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Appel à la conflictualité de terrain ; Viktorovitch comme archétype du commentateur qui fabrique le désespoir qu'il prétend redouter ; le vrai militantisme c'est convaincre dans les territoires, pas doomer sur YouTube
-- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Chris critique l'alliance tactique FI/Verts aux municipales comme "tambouille" illisible à 1 an de la présidentielle ; LFI devrait aller seul sur son programme ; la stratégie de [[Municipalisme]] est insuffisante (trop peu de temps pour un bilan)
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — la PaduTeam critique l'alliance tactique FI/Verts aux municipales comme "tambouille" illisible à 1 an de la présidentielle ; LFI devrait aller seul sur son programme ; la stratégie de [[Municipalisme]] est insuffisante (trop peu de temps pour un bilan)
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — La diabolisation absurde (enfance de Mélenchon) analysée comme renforcant paradoxalement le vote caché ; Mélenchon présenté comme incontournable malgré (grâce à) la persécution médiatique
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — Mélenchon opposé à Ruffin comme antithèse : il part de la force et de l'intelligence du peuple, pas de la condescendance. "Mélenchon met des sujets intelligents à la portée de tout le monde ; Ruffin condescend."
