@@ -42,3 +42,4 @@ La PaduTeam identifie la ligne directrice : Valek cherche depuis toujours à com
 
 ## Vidéos où Valek est analysé
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — trajectoire complète JVC → libertarianisme
+- [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — cité en référence comparatiste ; le PNJ de Hongrie suit la même logique d'exil libertarien que Valek au Portugal

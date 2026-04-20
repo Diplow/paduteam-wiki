@@ -32,3 +32,4 @@ Marié ou pas, le niveau de violence dans les couples hétérosexuels reste le m
 
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse centrale, avec la figure de [[Marc]] comme cas d'école
+- [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — le PNJ émigre en Hongrie parce qu'il ne trouve pas de femme en France à cause de la "guerre des genres" ; Padu diagnostique la fragilité masculiniste comme moteur de ce récit
