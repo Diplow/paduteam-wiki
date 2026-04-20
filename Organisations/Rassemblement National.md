@@ -30,8 +30,15 @@ Très forte implantation dans les communes de moins de 3000 habitants, stable de
 ## Origines fascistes et réseaux historiques
 Le [[Front National]], rebaptisé RN en 2018, a été fondé en 1972 avec des anciens membres de l'OAS et des militants proches de réseaux SS. La "dédiabolisation" portée par [[Marine Le Pen]] est une opération de façade : des figures comme [[Frederic Chatillon]] (qui allait chercher des autographes de [[Leon Degrelle]], ancien SS, dans les années 90) font toujours partie de l'orbite du parti. La mort de [[Jean-Marie Le Pen]] en janvier 2025 permet au RN de se distancer symboliquement de son fondateur sans changer de ligne.
 
+## Vote de la motion de censure Barnier (décembre 2024)
+
+Le RN vote la motion de censure NFP contre le gouvernement Barnier sur le PLFSS 2025. La PaduTeam répond à ceux qui trouvent ça problématique ("ça fout la haine que les fachos du RN nous aident") : voter avec le RN une motion de censure sur un budget catastrophique pour la santé n'est pas voter des lois d'extrême droite. "L'objectif c'est pas d'être plus pur que pur, l'objectif c'est que la vie des gens elle soit mieux."[^rn_motion] Le RN avait obtenu de Barnier qu'il lâche sur la baisse de remboursement des médicaments, mais n'a pas obtenu davantage — d'où son vote pour la censure. La PaduTeam note que le RN "a bien compris" le problème de la pureté antifasciste abstraite — c'est de ce pragmatisme qu'il faut s'inspirer, pas le suivre sur le fond.
+
+[^rn_motion]: [14:33](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=873) — "l'objectif c'est pas d'être plus pur que pur, l'objectif c'est que la vie des gens elle soit mieux"
+
 ## Vidéos où l'organisation est analysée
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Stagnation dans les grandes villes, avancée dans le Sud. Clivage géographique = clivage de ligne. Analyse de [[Felicien Faury]] sur le vote RN dans le Sud (PACA).
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — vote RN pour la censure Barnier ; la PaduTeam défend le pragmatisme contre l'antifascisme moral abstrait
 - [[BO

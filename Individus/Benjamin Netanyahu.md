@@ -38,6 +38,12 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 ## Relations
 [[Donald Trump]] — allié explicite, porte-voix de ses rêves expansionnistes (plan « Côte d'Azur » Gaza). [[Joe Biden]] — armeur silencieux, « trempé jusqu'à la moelle » dans le soutien militaire. [[Itamar Ben-Gvir]], [[Bezalel Smotrich]] — ministres d'extrême-droite de sa coalition. [[Isaac Herzog]] — Président, relai idéologique (« les civils aussi responsables »). [[Emmanuel Macron]] — interlocuteur complaisant. [[Vladimir Jabotinski]] — référence idéologique historique. [[Ariel Sharon]] — prédécesseur dans la stratégie coloniale. [[Mahmoud Abbas]] — interlocuteur délégitimé. [[Bernard-Henri Levy]], [[Raphael Glucksmann]], [[Manuel Valls]] — relais français de sa ligne. [[Georges Ibrahim Abdallah]] — adversaire historique (menace d'assassinat probable post-libération selon l'analyse PaduTeam). [[Benjamin Netanyahu]] figure dans toutes les fiches du corpus Gaza 2024-2026.
 
+## La Syrie post-Assad comme opportunité d'expansion (décembre 2024)
+
+Lors de la chute d'Assad, Netanyahou se rend en personne à la frontière syrienne et déclare que "c'est un grand jour pour le Moyen-Orient." Israël profite de l'instabilité pour avancer sur le plateau du Golan (officiellement syrien) et créer une zone tampon. Pour la PaduTeam, l'objectif est double : couper les voies d'approvisionnement du Hezbollah libanais et préparer un front oriental pour attaquer le Liban par l'est. Cette expansion s'inscrit dans la logique de l'[[Etat colonial expansionniste]] : "Israël c'est un état qui se sent en sécurité seulement lorsque c'est le chaos pour ses voisins"[^netanyahu_syrie].
+
+[^netanyahu_syrie]: [34:30](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2070) — "on a vu aussi des vidéos de Netanyahu qui s'est rendu à la frontière syrienne qui disait que c'est un grand jour pour le Moyen-Orient"
+
 ## Vidéos où Netanyahu est analysé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]]
@@ -49,3 +55,4 @@ Premier ministre d'Israël (Likoud), architecte du génocide en cours à Gaza, s
 - [[RAFAH MEYER HABIB L'AVAIT PROMIS ILS IRONT JUSQU'AU BOUT]] — L'assaut sur Rafah que Netanyahu et Habib avaient annoncé
 - [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon la PaduTeam
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Avancée sur le Golan post-Assad, stratégie d'expansion via le chaos syrien

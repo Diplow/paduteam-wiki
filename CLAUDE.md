@@ -1,7 +1,7 @@
----
-date created: Wednesday, April 1st 2026, 5:27:10 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
----
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # Graphiked — Projet de documentation PaduTeam
 
 ## Objectif
@@ -89,6 +89,51 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 3. **enjeux** — combats stratégiques récurrents de la PaduTeam
 
 **Le tag `paduteam` n'est pas utilisé** — tout le vault est PaduTeam par définition.
+
+## Ingestion automatisée
+
+Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅ et un slug de branche. C'est la source de vérité pour l'avancement de l'ingestion.
+
+### Scripts d'automatisation (`Sources/Transcripts/`)
+
+**Lancer l'ingestion d'un batch spécifique :**
+```bash
+python Sources/Transcripts/run_ingest.py --batch N
+```
+
+**Lancer tous les batchs en attente :**
+```bash
+python Sources/Transcripts/run_ingest.py
+```
+
+**Autres options `run_ingest.py` :**
+```bash
+--dry-run          # afficher sans exécuter
+--from N           # reprendre depuis le batch N
+--model opus       # utiliser Opus au lieu de Sonnet
+```
+
+**Gérer les transcripts (découverte, extraction, correctifs) :**
+```bash
+python Sources/Transcripts/batch_transcripts.py --full        # discover + fix + extract
+python Sources/Transcripts/batch_transcripts.py --recent N    # N vidéos les plus récentes
+python Sources/Transcripts/batch_transcripts.py --dry-run     # toutes les modes supportent --dry-run
+```
+
+**Régénérer `PADUTEAM_CHRONOLOGIQUE.md` :**
+```bash
+python Sources/Transcripts/generate_chronological.py
+python Sources/Transcripts/generate_chronological.py --force  # écraser même si des batchs ✅ existent
+```
+
+**Helper timestamps (MM:SS → secondes pour les liens `&t=`) :**
+```bash
+python Sources/timestamp_to_seconds.py
+```
+
+### Mode automatique d'ingestion (batch)
+
+Quand l'utilisateur demande d'ingérer un batch en "mode automatique", utiliser le skill `ingest-batch` en passant le numéro de batch depuis `PADUTEAM_CHRONOLOGIQUE.md`. Le skill lit les transcripts un par un (un sous-agent par vidéo), puis consolide les enjeux en fin de batch.
 
 ## Comment le vault est construit
 

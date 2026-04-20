@@ -225,7 +225,16 @@ La PaduTeam formule la tâche symétrique à l'abandon rubiesque de l'humanité 
 - [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Tournant Trump, deux scénarios (finlandisation/partition), analyse géopolitique complète PaduTeam
 - [[ACCORD TRUMP VON DER LEYEN SOUMET L UE AUX USA]] — La vassalisation énergétique de l'Europe comme dénouement de la guerre ukrainienne
 
+## La Syrie : le vide comme opportunité impérialiste
+
+La chute d'Assad (décembre 2024) illustre un mécanisme impérialiste spécifique : l'effondrement d'un régime crée un vide que les puissances régionales s'empressent de combler selon leurs intérêts propres. La PaduTeam, avec [[Cem Yoldas]] ([[La Jeune Garde]]), cartographie la triple expansion qui suit : [[Hayat Tahrir al-Sham]] (scission d'Al-Nosra/Al-Qaïda) au centre, l'[[Armee Nationale Syrienne]] (le "Wagner turc", composé d'anciens soldats de Daesh recyclés) soutenue par Ankara au nord pour écraser les Kurdes, Israël qui avance sur le Golan au sud-ouest. La Syrie morcelée devient "plus que jamais soumise à l'impérialisme."
+
+La position PaduTeam refuse deux pièges symétriques : l'anti-assadisme naïf (célébrer HTS comme libérateurs) et le campisme aveugle (défendre Assad par défaut contre l'islamisme). HTS "essaie de donner des gages aux Occidentaux" comme Ben Laden avait dit que son djihad était national — "et au final c'est devenu le djihad mondial 15 ans après." Le mécanisme impérialiste est constant : les Occidentaux sont satisfaits car ils vont pouvoir négocier l'accès aux ressources (pétrole, gaz) avec des groupes armés plus dociles qu'Assad. Les seules forces progressistes — les [[Forces Democratiques Syriennes|FDS/Kurdes]] — sont abandonnées par Trump qui retire les troupes américaines.
+
+Le cas israélien confirme la thèse : "Israël c'est un État qui se sent en sécurité seulement lorsque c'est le chaos pour ses voisins." Il a soutenu HTS par satellite pour affaiblir l'armée syrienne, puis profite de l'instabilité pour étendre sa zone tampon sur le Golan — n'ayant pas réussi à avancer de plus de 10 km au Liban face au Hezbollah.
+
 ## Vidéos clés
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — triple expansion post-Assad (HTS, ANS/Turquie, Israël/Golan) ; le vide comme opportunité impérialiste ; refus du campisme aveugle et de l'anti-assadisme naïf ; les FDS/Kurdes comme seules forces progressistes abandonnées ; "Israël se sent en sécurité seulement dans le chaos de ses voisins"
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Première réaction à l'agression : Doctrine Monroe 2.0, pétrole, comparaison Iran/Ukraine, Glucksmann "agent américain"
 - [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — Macron au-dessous de Le Pen, Attal belliciste, Mélenchon anti-impérialiste de principe

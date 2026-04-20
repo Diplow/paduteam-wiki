@@ -33,7 +33,21 @@ La dissolution de la Jeune Garde intervient après le meurtre d'Abouakar — tu�
 
 Il rappelle les précédents RN-terrorisme : Claude Sink (ex-candidat FN, a tiré dans une mosquée à Bayonne), le responsable FN qui a fourni des armes à Coulibaly (attentat hypercacher). "Aujourd'hui c'est la Jeune Garde qui peut être dissoute. Mais après ça peut être des partis, des syndicats, la CGT, la France Insoumise, le planning familial."
 
+## Analyse géopolitique : la Syrie post-Assad (décembre 2024)
+
+Cem Yoldas intervient comme expert invité sur la chute du régime de Bachar al-Assad. Il cartographie les trois forces en présence — [[Hayat Tahrir al-Sham|HTS]], l'[[Armee Nationale Syrienne]] et les [[Forces Democratiques Syriennes]] — et articule une analyse en plusieurs thèses :
+
+- HTS est une coalition djihadiste recyclée (Al-Nosra + Daesh) qui tente une opération de dédiabolisation sur le modèle du [[Djihad dans un seul pays]] — "Ben Laden au début c'était aussi le djihad dans un seul pays et au final c'est devenu le djihad mondial 15 ans après"[^yoldas2]
+- L'ANS est le "Wagner turc" : des soldats de Daesh recyclés via la Turquie, dont le seul objectif est d'éradiquer les Kurdes
+- Les FDS portent le seul projet progressiste mais sont isolées sans alliés — et Trump annonce le retrait des dernières troupes américaines
+- La chute d'Assad s'explique par le désengagement de tous ses alliés : Iran (qu'Assad a cherché à marginaliser), Russie (enlisée en Ukraine), Hezbollah (affaibli par les bombardements israéliens)
+- Israël profite du chaos pour avancer sur le Golan, après avoir soutenu par satellite l'offensive de HTS
+
+Lien personnel avec la Syrie : la [[La Jeune Garde|Jeune Garde]] a envoyé des militants combattre Daesh à Manbij via la brigade Henri Krasucki, dont le commandant était un fondateur de la Jeune Garde.
+
 ## Vidéos où Cem Yoldas est mentionné
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Analyse de la dissolution, théorie de la fascisation, réponse organisationnelle
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Invité expert pour la chute d'Assad, analyse des trois blocs, avenir des Kurdes, stratégie israélienne et turque
 
 [^yoldas1]: [9:45](https://www.youtube.com/watch?v=apa807lyQeM&t=585) — "on est vraiment sur une pente glissante de qui on parle de l'état de droit, on arrive dans quelque chose de néofasciste"
+[^yoldas2]: [29:17](https://www.youtube.com/watch?v=QN89GVrV0u8&t=1757) — "Ben Laden pareil, Ben Laden au début pendant la guerre d'Afghanistan c'était aussi le djihad dans un seul pays et au final c'est devenu le djihad mondial 15 ans après"

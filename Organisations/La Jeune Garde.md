@@ -42,8 +42,15 @@ La PaduTeam : "On essaie pas de dissoudre des organisations qui servent à rien.
 - [[Raphael Arnaud]] — ex-porte-parole, devenu député LFI
 - [[Cem Yoldas]] — représentant et porte-parole
 
+## Internationalisme et engagement en Syrie
+
+La Jeune Garde est une organisation internationaliste. Elle a envoyé des militants combattre l'État islamique en Syrie, notamment à Manbij via la **brigade Henri Krasucki** — dont le commandant était un des fondateurs de la Jeune Garde. Manbij était en décembre 2024 sous pression offensive de l'[[Armee Nationale Syrienne]] (front sud, est et nord). [[Cem Yoldas]] ne confirme pas si des militants sont encore présents — "c'est un secret d'État"[^jg2].
+
+[^jg2]: [20:00](https://www.youtube.com/watch?v=QN89GVrV0u8&t=1200) — "avec la jeune garde on avait envoyé des gens en Syrie combattre l'État islamique [...] le commandant de la brigade Henri Krasucki justement c'était l'un des fondateurs de la jeune garde"
+
 ## Vidéos où La Jeune Garde est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Procédure de dissolution, riposte, théorisation de la lutte
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Militants envoyés à Manbij via la brigade Henri Krasucki, lien direct avec la guerre contre Daesh en Syrie
 
 [^jg1]: [10:46](https://www.youtube.com/watch?v=apa807lyQeM&t=646) — "le gouvernement nous accuse en premier lieu d'être antifasciste, c'est-à-dire c'est écrit noir sur blanc, la jeune garde prône un discours antifasciste qui conduirait à la violence"

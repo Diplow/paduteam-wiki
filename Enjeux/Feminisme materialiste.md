@@ -128,6 +128,16 @@ Ce mécanisme est documenté de l'intérieur par la trajectoire personnelle évo
 
 Conséquence stratégique : le combat féministe est indissociable du combat antifasciste. Un féminisme de classe doit donc s'attaquer à l'écosystème mascu/incel/coachs en séduction non seulement comme adversaires idéologiques mais comme **pipeline de recrutement fasciste**.
 
+## La hiérarchie alpha/sigma comme pseudo-science au service du capitalisme masculiniste
+
+La taxonomie alpha/sigma/beta s'appuie sur des études des années 1970 sur les loups en captivité — depuis rétractées par leurs auteurs. [[Killian Sensei]] projette sur les humains une structure inventée pour naturaliser la domination masculine. Sa fonction réelle : vendre aux hommes en position économique défavorée une compensation symbolique (capital symbolique masculin à la place du capital économique absent). C'est le mécanisme classique du "malba de la lutte des classes" — faire des dominés les garants de l'idéologie de la domination. Il monétise la frustration sans la résoudre. À terme, le MGTOW (Men Going Their Own Way) est l'aboutissement logique : la misogynie portée à son terme dans le retrait du marché relationnel, qui transforme en idéologie l'échec à former des liens.
+
+L'aboutissement conspirationniste (Killian 5.2 : le "matriarcat pédosataniste" — féminisme + satanisme + pédophilie comme complot contre les mâles blancs hétérosexuels) illustre où mène la logique du masculinisme sans ancrage matériel : la fusion antiféminisme/antisémitisme/conspirationnisme. La PaduTeam ne répond pas directement — elle note que c'est la logique à son terme naturel.
+
+## Les masculinités au travail — le féminisme de classe contre le "féminisme washing" patronal
+
+Le livre d'[[Audrey Rivoal]] (*La Fabrique des masculinités au travail*, présenté par Dr Zoé comme outil de formation militante) apporte une démonstration de la grille matérialiste sur le terrain concret. La distinction virilité/masculinités dans l'entreprise montre que le discours pseudo-féministe du DRH (formations anti-sexisme, affichage progressiste) coexiste avec des inégalités structurelles persistantes. Plus grave : c'est le RH au discours féministe — et non le chauffeur routier aux posters pin-up — qui a le plus d'impact négatif sur les femmes, car ses structures mentales patriarcales pilotent ses décisions de recrutement et de promotion. Le mythe que "les femmes ont moins d'augmentations parce qu'elles ne les demandent pas" est démenti : elles les demandent, on ne les écoute pas. La question ne se joue pas à l'échelle des comportements individuels mais dans les "structures d'organisation du travail et plus généralement de la société."
+
 ## Libertarianisme et masculinisme : un invariant
 
 La PaduTeam observe que les figures les plus explicitement mascus rencontrées dans leurs vidéos sont quasi systématiquement aussi libertariennes. Ce n'est pas un hasard : le libertarianisme et le masculinisme partagent la même grammaire — refus des solidarités collectives, génie individuel, marché comme régulateur naturel.
@@ -184,6 +194,10 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 
 ## Vidéos clés
 
+- [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — hiérarchie alpha/sigma comme pseudo-science naturaliste ; fonction réelle : vendre une compensation symbolique aux hommes économiquement défavorisés ; MGTOW comme aboutissement logique ; monétisation de la frustration masculine
+- [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]] — négationnisme des fausses accusations (1-5%, aussi rares que pour les autres crimes) ; mythe de la garde d'enfants biaisée contre les pères démenti ; aboutissement conspirationniste du masculinisme : le "matriarcat pédosataniste" comme fusion antiféminisme/antisémitisme
+- [[5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE A NOEL]] — *La Fabrique des masculinités au travail* (Audrey Rivoal) comme outil de formation : distinction virilité/masculinités, féminisme washing patronal, mythe des demandes d'augmentation démenti
+- [[DE WOKE A FACHO SLAPP RACONTE SA REDPILL]] — discours masculiniste comme cercle vicieux de l'isolement ; "très difficile de séduire des femmes si tu détestes les femmes" ; politisation "avec Netflix" vs politisation matérielle
 - [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — socle analytique : définition médicale de la soumission chimique, banalité du viol, 43% des viols commis par les conjoints
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage de la récupération d'extrême droite, formulation de ce que l'extrême droite veut vraiment
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — bilan structurel : "et maintenant ?", responsabilité collective, banalité du viol (Arendt), masculinités vertueuses

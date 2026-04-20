@@ -54,6 +54,10 @@ Le 100% Sécu seul ne résout pas la [[Tarification a l acte|tarification à l'a
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — contexte du financement privatisé de la santé
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage du mythe du déficit, calcul 5,6 milliards
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — comparaison : 5,4 milliards (rapport HCAAM scénario 3) vs 1,7 milliards de mesures Brégeon
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PLFSS Barnier présenté comme exemple concret d'attaque par les complémentaires ; 3-4% vs 21-22% de frais de gestion ; 5,6 milliards d'économies vs 1 milliard de la mesure phare du PLFSS ; le rapport du Haut Conseil à l'avenir de l'assurance maladie (HCAAM) cité comme source institutionnelle non militante[^hcaam]
+- [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — le système américain ([[UnitedHealthcare]], 18-20% du PIB, espérance de vie inférieure de 5 ans à la France) illustre par l'absurde l'argument de la 100% Sécu : "la concurrence ça ne fait pas que les prix baissent" ; AXA (22€/100€ en frais de gestion) vs Sécu (3-4€) repris comme argument central
+
+[^hcaam]: [5:11](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=311) — "un rapport qui est sorti [...] par le Haut Conseil à l'avenir de l'assurance maladie [...] pas des militants marxistes couteau entre les dents [...] qui ont fait un rapport avec quatre scénarios possibles pour l'avenir de l'assurance maladie et un de ces scénarios c'est de virer toutes les complémentaires santé et de passer au 100% Sécu"
 
 [^1]: [29:20](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1760) — "supprimer les complémentaires, prendre l'argent cotisé au complémentaire pour le passer à la sécurité sociale nous fait économiser immédiatement 5,4 milliards d'euros par an"
 [^2]: [30:52](https://www.youtube.com/watch?v=gMRUskGZPMw&t=1852) — "chez AXA quand vous cotisez 100 € il y a 22 € qui partent dans les frais de gestion... 3 € d'un côté 22 € de l'autre c'est 7 fois plus cher"

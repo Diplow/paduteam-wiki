@@ -41,5 +41,7 @@ L'Assurance Maladie finance le privé sans planifier. Résultat : les déserts m
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — rapport Ligas, rentabilités excessives, Thomas Fatô
 - [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — convention médicale 2024
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — 100% Sécu vs complémentaires
+- [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PLFSS Barnier proposait de baisser la part AM dans les remboursements et d'augmenter celle des complémentaires (3-4% de frais de gestion vs 21-22%) ; démonstration que passer au 100% Sécu économiserait 5,6 milliards contre ~1 milliard de la mesure phare du texte gouvernemental
+- [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — l'assassinat du PDG de [[UnitedHealthcare]] sert de repoussoir américain : les États-Unis dépensent 18-20% du PIB en santé (vs 12% en France) avec une espérance de vie inférieure de 5 ans ; AXA prélève 22€/100€ cotisés en frais de gestion contre 3-4€ pour la Sécu
 
 [^1]: [37:52](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=2272) — "Thomas Fatô, le directeur de l'assurance maladie, a dit que c'était des rentiers"

@@ -63,6 +63,7 @@ La PaduTeam établit le parallèle explicite et détaillé : [[Raphael Glucksman
 
 ## Vidéos où Harris est analysée
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Défaite analysée comme Jospin 2002 : 14-15M voix perdues, structure en sandwich, pinkwashing, absence de pacte égalitaire, équivalence avec Glucksmann
+- [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — citée comme exemple de fermeture politique totale aux États-Unis : "quelqu'un de droite en France", pour le port d'armes, pas socialiste pour un sous — ce verrouillage explique pourquoi certains en reviennent à l'[[Action directe]]
 
 [^1]: [00:40](https://www.youtube.com/watch?v=mK41og88Zj0&t=40) — « la défaite de Kamala Harris s'est faite non pas avec un Trump qui a gagné des voies mais avec un Trump qui a perdu des voix et elle qui a perdu 14 ou 15 millions de voix par rapport à Joe Biden — quand on a une gauche de droite on perd face à une droite de droite ».
 [^2]: [02:10](https://www.youtube.com/watch?v=mK41og88Zj0&t=130) — « il y avait eu un gain de 8% entre 2016 et 2020 avec l'effet antitrump, Covid, Biden qui avait un projet un peu plus à gauche — pressé par Bernie Sanders — ce qui est moins le cas aujourd'hui avec Harris qui est plus droitière que Biden 2020 ».
