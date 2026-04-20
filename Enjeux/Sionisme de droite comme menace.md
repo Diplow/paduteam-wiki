@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, médias-propagande]
-skill_version: ingest-batch-2026-04-13
+skill_version: write-enjeu-2026-04-20
 date created: Monday, April 13th 2026, 2:29:23 am
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
@@ -26,6 +26,12 @@ Meyer Habib fonctionne comme une annexe française du bureau de communication de
 
 ### La rhétorique de l'essentialisation
 Habib applique systématiquement la [[Instrumentalisation de l'antisemitisme]] : toute critique d'Israël = antisémitisme, toute défense des Palestiniens = pro-Hamas, toute mention du génocide = nazisme. Edgar Morin, philosophe juif, "porte une idéologie nazie." Rima Hassan est "une antisémite" et une "mytho." La flottille est une "mascarade antisémite." David Guiraud est une "crapule antisémite." Le procureur de la CPI est antisémite. La Cour internationale elle-même est antisémite. Ce procédé vide le concept d'antisémitisme de tout contenu réel et augmente mécaniquement le vrai antisémitisme en l'associant à des causes légitimes.
+
+### La convergence sioniste droite/gauche : Habib + Valls
+
+La convergence entre un sioniste de droite assumé ([[Meyer Habib]]) et un ex-Premier ministre "de gauche" ([[Manuel Valls]]) est documentée autour du mandat d'arrêt CPI contre Netanyahu (novembre 2024). Habib hurle à l'"antisémitisme de la Cour". Valls, sur LCI en prime time, refuse d'arrêter Netanyahu si celui-ci était sur le sol français ("la France ne peut pas se poser cette question sans réviser totalement ces règles"), invoque l'affaire Dreyfus pour couvrir un inculpé pour crimes contre l'humanité, et affirme des contre-vérités factuelles sur Poutine — corrigé en direct par un journaliste. La PaduTeam : "ça sert à quoi de ratifier des traités si tu n'es pas pour les appliquer ?" La trajectoire Valls confirme le diagnostic sur le [[Parti Socialiste]] : "il a été mis au pouvoir par François Hollande qui se disait de gauche."
+
+L'argument de Dreyfus retourné illustre le mécanisme : Valls met sur le même plan Dreyfus (accusé injustement d'antisémitisme) et Netanyahu (condamné pour crimes contre l'humanité). Résultat : soutenir la CPI contre Netanyahu devient comparable à défendre Dreyfus, c'est-à-dire être antisémite. "Soit vous êtes contre Dreyfus et vous êtes pour le génocide, soit si vous êtes contre le génocide vous êtes contre Dreyfus et donc antisémite." Ce retournement est la signature rhétorique du sionisme de droite étendu à ses alliés social-démocrates.
 
 ### Caroline Fourest comme couverture bourgeoise
 [[Caroline Fourest]] joue un rôle complémentaire à Habib : elle apporte l'habillage laïciste et républicain au soutien à Israël. Elle parle de "lutte contre l'islamisme", s'affiche comme féministe, et soutient le blocus au nom de la démocratie contre le Hamas. Pendant la garde à vue de Rima Hassan, des informations tronquées (la "drogue") fuient via Fourest. Sur la flottille, elle reprend mot pour mot les éléments de langage de Habib ("opération de com", "mascarade"). La PaduTeam la place dans la même catégorie qu'Habib : "les personnes les plus indécentes de France."

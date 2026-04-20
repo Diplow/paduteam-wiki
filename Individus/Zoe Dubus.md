@@ -40,6 +40,7 @@ Elle appelle à "une vraie pensée de gauche sur la consommation de psychotropes
 
 - [[PADUSTREAM C'EST DEJA FINI]] — mentionnée comme invitée sur La Brèche, émission sur les psychotropes
 - [[LA BRECHE LEGALISATION DROGUES AFFAIRE ANDY KERBRAT LFI]] — invitée principale, analyse historique des psychotropes et de la prohibition
+- [[PINARD ET POLITIQUE LA DROITE DES LOBBYS VS LA GAUCHE DU TERROIR]] — mentionnée comme auteure de l'émission précédente sur les psychotropes (avec [[Dr Zoe]]), dont la déclaration de [[Yannick Noder]] est une réponse implicite
 
 [^1]: [48:14](https://www.youtube.com/watch?v=UwDPHbgQm4s&t=2894) — "dès les premiers mouvements de prohibition on va cibler des populations spécifiques [...] les femmes, les homosexuels, les populations colonisées"
 [^2]: [43:33](https://www.youtube.com/watch?v=UwDPHbgQm4s&t=2613) — "à la fin du 19e siècle on utilise à peu près 2 000 kg de morphine dans les hôpitaux [...] à la fin des années 80 on utilise plus que 23 kg"

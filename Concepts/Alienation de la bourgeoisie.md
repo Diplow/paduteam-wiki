@@ -30,6 +30,23 @@ L'aliénation bourgeoise est liée au fétichisme de la marchandise : l'obsessio
 ## Contre-intuition fondamentale
 Bernard Arnault travaille probablement plus d'heures que beaucoup de salariés. Mais son travail est "moins aliénant" car il lui rapporte directement. L'aliénation n'est pas dans la quantité de travail mais dans l'impossibilité structurelle de penser autrement que par l'accumulation.
 
+## Aliénation ≠ abrutissement — la distinction marxiste
+
+Dans [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]], Chris développe une distinction fondamentale absente des fiches précédentes : **l'aliénation n'est pas l'abrutissement**. La confusion est typique de la vulgarisation petite-bourgeoise (illustrée par la critique décroissante).
+
+L'abrutissement : faire des tâches idiotes et répétitives qui "ne développent pas la réflexion." Peut exister sans rapport capitaliste.
+
+L'aliénation au sens marxiste : la séparation du travailleur de son travail — l'impossibilité de concevoir, améliorer et contrôler le produit de son activité. Ce n'est pas une question de complexité ou de pénibilité, c'est une question de rapport de propriété et de pouvoir.
+
+Conséquence : un DRH qui fait un travail intellectuellement stimulant peut être "1 000 fois plus aliéné" qu'un ouvrier. Les travailleurs chez Stellantis qui appuient sur des boutons comprennent parfaitement ce qu'ils font — ils ne sont pas abrutis à ce point. Là où ils sont aliénés, c'est qu'on leur dit "ta gueule, t'es pas payé pour réfléchir" quand ils proposent d'améliorer le produit.
+
+La confusion aliénation/abrutissement conduit à une "critique petite-bourgeoise" du capitalisme — voir l'exemple de Francis Cousin et du retour à un artisanat mythique où "l'homme était réconcilié avec lui-même." C'est du fétichisme inversé : vouloir défétichiser la marchandise en la re-comprenant totalement, alors que l'aliénation est dans le rapport de classe, pas dans la complexité.
+
+## Aliénation dans le soin médical
+
+Exemple concret, ancré dans la pratique de Padu : le médecin qui voudrait garder un patient plus longtemps ou poser une meilleure prothèse de hanche, mais que la direction hospitalière en interdit l'accès pour raisons de coût. "Tu es aliéné parce que tu te dis : j'aurais pu faire un truc nif pour le gars, il aurait pu vivre 30 ans, mais j'ai pas vraiment soigné." Ce n'est pas l'ignorance du processus chirurgical qui aliène — c'est l'intervention d'un tiers (la valorisation capitaliste du soin) qui sépare le soignant de l'acte de soigner.
+
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Développement du concept : accumulation comme casino, médecins comme position de passage, Bernard Arnault, ciblage des jeunes générations
 - [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Illustration par les startuppers de l'éducation : Laurent Alexandre et ses pairs pensent être brillants mais ont le niveau d'analyse des "tweetos ern au bistro" ; le capital culturel a quasiment disparu chez la grande bourgeoisie capitaliste contemporaine
+- [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] — Distinction aliénation/abrutissement ; aliénation dans le soin médical ; critique de la confusion décroissante-artisanale de l'aliénation comme séparation de l'objet

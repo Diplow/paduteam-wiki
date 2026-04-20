@@ -46,5 +46,16 @@ Architecte à Londres, l'Observateur théorise sur la condition des pauvres fran
 - [[Dr Zoe]] — co-analyste, apporte la grille féministe matérialiste
 - [[Padu]] — co-animateur PTD #2
 
+## Réponse au PTD #2 : insultes plutôt qu'arguments
+
+Dans sa réponse au PTD #2, glissée dans une vidéo sur l'islam intitulée "Islam la religion de paix et d'amour, le cas Samuel Paty" (avec le verset coranique 9:5 en titre), l'Observateur traite Padu de "petite sallope gauchiste" sans répondre à aucun des ~50-60 arguments débunkés. Il reproche à la PaduTeam de ne pas avoir traité ses vidéos sur l'islam — ce que Padu retourne comme un aveu : ne pas pouvoir réfuter les arguments critiqués, et tenter de déplacer le débat sur un terrain où la critique n'a pas eu lieu.
+
+Sa posture sur l'islam — se présenter comme "courageux" de "critiquer l'islam" — est démontée par Padu comme du populisme mainstream : Gabriel Attal attaque les abayas pour sa cote de popularité, les médias traitent l'islam h24. Pas courageux, juste buzzer facile.
+
+Son anonymat (pas de visage sur Internet) est également retourné : quelqu'un qui "juge tout le monde" depuis derrière un écran incarne la même fragilité qu'il projette sur les autres.
+
+La PaduTeam lui a lancé un défi de débat IRL, visage découvert, arbitré, capitalisme vs. communisme — resté sans réponse.
+
 ## Vidéos où L'Observateur Officiel est analysé
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — analyse complète : marxisme, racisme, logement, femmes
+- [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]] — sa réponse au PTD #2 : insultes, esquive sur l'islam, défi de débat lancé

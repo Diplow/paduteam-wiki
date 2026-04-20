@@ -27,9 +27,16 @@ Le fétichisme de la marchandise alimente l'aliénation bourgeoise : l'obsession
 ## Développement avec Lukács
 [[Georg Lukács]] approfondit le fétichisme : "les premiers et les pires aliénés par le fétichisme de la marchandise, c'est les bourgeois." Ils n'ont pas besoin de comprendre la totalité du mode de production — ils ont besoin de croire que l'argent se valorise par lui-même. Cette "méconnaissance structurelle" est une condition de fonctionnement du capitalisme : si le capitaliste comprenait les crises, il ne réinvestirait pas. Sa non-conscience des limites systémiques est ce qui fait tourner la machine jusqu'à l'effondrement.
 
+## La vulgarisation comme fétichisme de la forme
+
+La vidéo [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] ajoute une précision sur ce que le fétichisme de la marchandise *n'est pas* : ce n'est pas ne pas comprendre la totalité des processus de production d'un objet. Dans une société communiste, personne ne saura non plus décrire de A à Z comment est fabriquée une basket. La complexité sociale n'est pas le fétichisme — le fétichisme, c'est de croire que les lois qui régissent cette complexité sont extérieures à l'humanité ("les lois du marché"), alors qu'elles sont le produit de rapports sociaux spécifiques. "C'est le monde à l'envers : ceux qui font n'ont rien en terme de pouvoir."
+
+Correction précise sur la définition du fétiche : Marx n'utilise pas le terme pour comparer à la religion chrétienne (monothéiste, sans fétiche), mais aux religions "archaïques" où des statuettes incarnent des lois supposées extérieures à l'humanité. Le renversement fétichiste : "Pourquoi tu fais ça ? — Parce que le fétiche. Et Marx dit : non, pourquoi le fétiche ? — Parce que vous faites ça."
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
 - [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Développement explicite avec Marx et Lukács ; fétichisme comme condition de fonctionnement du capitalisme ; les startuppers qui ne comprennent pas Marx illustrent leur propre aliénation
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — "le monde ne sera plus jamais aussi naturel" après avoir lu le Capital : Marx dénaturalise les rapports marchands comme Darwin a dénaturalisé l'évolution des espèces
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration parfaite du fétichisme de la marchandise : Yasuk possède des sacs Hermès à 10 000-50 000 € (40 mois de salaire de sa nanie) sans percevoir que la valeur d'un objet dépasse celle d'une vie humaine dans son imaginaire. La PaduTeam : "elle considère qu'un sac vaut plus que 4 ans de travail pour être avec ses enfants"
+- [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] — Précision sur ce que le fétichisme n'est pas (complexité ≠ fétichisme) ; correction sur la métaphore du fétiche (religions archaïques, pas monothéisme) ; le Capital comme critique de la prétention de l'économie à être une science autonome

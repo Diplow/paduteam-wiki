@@ -23,3 +23,4 @@ La cartographie de la gauche YouTube produite par "Frontières" le classe dans l
 
 - [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — nuancé dans la critique "boutiquier" : "je pense qu'il est aussi un militant de terrain"
 - [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — classé "communiste et révolutionnaire"
+- [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — [[Glupatate]] rejoint sa structure ; salué comme "très bon recrutement du Canard"

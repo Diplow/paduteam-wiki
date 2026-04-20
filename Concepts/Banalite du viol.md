@@ -54,3 +54,4 @@ Reconnaître que "monsieur tout le monde peut devenir violeur dans un environnem
 
 - [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — les 51 accusés panel représentatif de la société française, premier énoncé de la thèse
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — développement approfondi : banalité du mal (Arendt), responsabilité collective, "ces mecs sont très sympas dans la vraie vie"
+- [[J'AI TROUVE LE PIRE PATRON DU MONDE]] — la banalité du patron prédateur en entretien d'embauche : "c'est un patron comme il en existe beaucoup d'autres, il a moins honte" ; le prédateur ordinaire utilisant la précarité comme technique de sélection (voir [[Precarite comme levier de coercition]])

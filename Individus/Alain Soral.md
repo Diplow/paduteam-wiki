@@ -58,3 +58,4 @@ La fascination pour Soral chez les jeunes hommes tenait aussi à la critique du 
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Démontage complet de son économie politique, de sa méconnaissance de Clouscard, de sa logoré
 - [[FROM TROTSKISTE TO RACISTE]] — Analysé comme vecteur de recrutement fasciste des hommes confus
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — Analyse de sa trajectoire vue depuis la trajectoire de Padu : masculinisme comme moteur de recrutement, antisémitisme de Comprendre l'Empire, rôle déstructurateur
+- [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]] — Soralisation de retour : des figures qui l'avaient quitté pour le national-libéralisme identitaire reviennent vers sa niche confusionniste de 2015
