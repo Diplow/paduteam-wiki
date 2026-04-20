@@ -139,20 +139,22 @@ Fiches créées : [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]],
 ---
 ## Batch 08 — Semaines 2025-W05 à 2025-W06 (27 jan 2025 – 9 fév 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w05-w06
 
-- [ ] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
-- [ ] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
-- [ ] MOS MAJORUM croit DÉBUNKER MARX :  ça TOURNE très très MAL !! (avec Chris de Positions Revue)
-- [ ] Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
-- [ ] PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL ! (@Dr_Zoé_YT et Chris)
-- [ ] Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
-- [ ] WISSAM et RAZ me PSYCHANALYSENT : '"PADU est un LGBTPH0BE MALHONNÊTE" !! (x Chris/Positions Revue)
-- [ ] MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
-- [ ] Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
-- [ ] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024 !!
-- [ ] PAYE TON DROITARD #7.2  : PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉRO$EXUALITÉ (x @Dr_Zoé_YT  et Chris)
+- [x] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
+- [x] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
+- [x] MOS MAJORUM croit DÉBUNKER MARX :  ça TOURNE très très MAL !! (avec Chris de Positions Revue)
+- [x] Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
+- [x] PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL ! (@Dr_Zoé_YT et Chris)
+- [x] Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
+- [x] WISSAM et RAZ me PSYCHANALYSENT : '"PADU est un LGBTPH0BE MALHONNÊTE" !! (x Chris/Positions Revue)
+- [x] MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
+- [x] Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
+- [x] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024 !!
+- [x] PAYE TON DROITARD #7.2  : PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉRO$EXUALITÉ (x @Dr_Zoé_YT  et Chris)
+
+Fiches créées : 9 vidéos (+ 2 existantes), 6 individus (Merwan Benlazar, François Asselino, Cassandre, Raz, Morgane Merteuil, Anas Kazib), 3 organisations (HowToBitcoin, Mos Majorum, France Television), 3 concepts (Prix et valeur marxiste, Psychologie marxiste, Consentement sous contrainte)
 
 ---
 ## Batch 09 — Semaines 2025-W07 à 2025-W08 (10 fév 2025 – 23 fév 2025)
