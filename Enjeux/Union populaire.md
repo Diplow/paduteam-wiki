@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis]
-skill_version: write-enjeu-2026-04-19
+skill_version: write-enjeu-2026-04-21-enrichi
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -92,6 +92,24 @@ La PaduTeam formule la leçon géopolitique de gauche : les USA ont commencé le
 [^mamdani_femmes]: [25:58](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1558) — « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant ».
 [^mamdani_36]: [34:38](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=2078) — « ils ont mis 20 millions de campagne pour pouvoir empêcher Mamdani. Là, ça va être 10-15 fois plus quand il sera au pouvoir. On a l'expérience du Front populaire en France. Les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36. Ce sont les grèves de juin 36 qui l'imposent ».
 
+## La diabolisation comme preuve de la prophétie — cas Jakubowicz/Goebbels
+
+[[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] fonctionne pour la PaduTeam comme une confirmation empirique de la prophétie du Graphique. Le fait que le président d'honneur de la LICRA compare Mélenchon à Goebbels en prime time sur BFM TV — sans contradiction des journalistes présents — n'est pas un dérapage : c'est l'étape prévue de la diabolisation à deux ans de la présidentielle. "Le plan se déroule parfaitement."
+
+Le mécanisme est décortiqué comme un syllogisme : soutenir la cause palestinienne → attaquer la politique d'Israël → être antisémite → être nazi → être Goebbels. Ce dispositif transforme la position géopolitique de LFI en disqualification morale absolue — et révèle que Jakubowicz et la LICRA "préfèrent Le Pen à Mélenchon." L'antiracisme institutionnel peut être weaponisé contre la gauche radicale.
+
+La PaduTeam formule la leçon stratégique : Mélenchon est une digue. Même à ceux qui ne l'aiment pas, ils demandent de le défendre. "Derrière cette chasse à l'homme, il y a une chasse contre notre corps social." Et les libertés publiques ne sont jamais une position de principe pour la bourgeoisie — elles seront abandonnées dès que la propriété sera menacée.
+
+## Retailleau = Sarkozy 2007 : la prophétie confirmée par Bompard/Wauquiez
+
+[[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] fournit une démonstration en temps réel du scénario 2027 prédit par le Graphique. Deux révélations :
+
+**1. La comparaison Retailleau/Sarkozy 2007** — Comme Sarkozy entre 2002 et 2007, Retailleau part de l'intérieur du gouvernement (ministre de l'intérieur) pour paraître "nouveau" tout en étant un vieux de la vieille. Il donne des gages à l'extrême droite (islamophobie assumée, dissolution Urgence Palestine) et captera le vote RN. Wauquiez est marqué "canal historique LR" — même handicap que Pécresse. La prophétie : Retailleau à ~14-15%, Marine Le Pen contenue à ~19%, Mélenchon qualifié au second tour. Wauquiez candidat ferait ~4%, Le Pen monterait à 23-24%, Mélenchon bloqué.
+
+**2. Bompard comme lieutenant efficace** — Wauquiez attaque LFI sur des positions caricaturales que LFI ne défend pas. Bompard répond sur des positions "républicaines de base" (condamner les violences policières) que la droite juge désormais extrémistes — preuve du déplacement idéologique à droite. LFI peut jouer à la fois radicalité et posture républicaine de bon sens selon les contextes. Le tweet de Mélenchon ("dommage, Wauquiez était une bonne affaire pour nous") décodé : ce qu'il veut, c'est Retailleau.
+
+La confirmation de la PaduTeam : le cordon sanitaire que Wauquiez dit vouloir établir sur LFI est contredit par le fait d'aller débattre avec Bompard — "si tu voulais vraiment le faire, tu venais pas." Wauquiez n'est qu'un lieutenant ; Retailleau maintient vraiment le cordon, ce qui paradoxalement renforce Mélenchon comme "l'autre pôle."
+
 ## Le scénario 2027 chiffré par le Graphique
 
 [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] est la vidéo fondatrice de la stratégie 2027 chiffrée. Publiée le 21 avril 2025 — date anniversaire du traumatisme du 21 avril 2002 —, elle projette Mélenchon au second tour avec seulement **16,86%** au premier tour (contre 22% en 2022) grâce à l'[[Eclatement du bloc central]] : les 27% de Macron 2022 se fragmentent en trois candidats (PS 16,18%, LR 13,67%, Horizon 10,84%). La barre est plus basse parce que la droite est elle aussi éparpillée — "fin de la boucle" ouverte le 21 avril 2002.
@@ -101,6 +119,11 @@ Mécanisme du [[Vote cache]] des cadres : les 32h et la 6e semaine de congés pa
 La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du dispositif : Mélenchon lui donne ses 500 signatures, Kazib "sert Mélenchon comme Poutou en 2017" en fracassant Le Pen et Retailleau en débat et en mobilisant des abstentionnistes de gauche radicale.
 
 [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] confirme la même thèse en conditions réelles : quand Mélenchon peut dérouler sa ligne sur un terrain médiatique non-hostile (journalistes québécois qui ne le diabolisent pas), la combinaison "communisme + antisystème" est naturellement hégémonique. La leçon : "quand le terrain médiatique est non-hostile, la ligne radicale s'impose d'elle-même." Il déploie ses "deux jambes" — programme radical pour ne pas être "pris par le PS", posture antisystème pour capter l'abstention — en citant les chiffres bruts de la trahison PS : "1,67% en 2017, on les sort du néant, à peine arrivés ils refusent les motions de censure."
+
+## Vidéos clés (corpus mai 2025)
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — diabolisation comme étape prévue par le Graphique ; syllogisme Palestine→Goebbels weaponisé par la LICRA ; Mélenchon comme digue ; les libertés publiques ne sont jamais un principe, seulement une tolérance bourgeoise
+- [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — démonstration chiffrée du scénario 2027 : Retailleau=Sarkozy 2007 divise la droite, Mélenchon passe ; Bompard confirme que LFI peut tenir les deux jambes (radicalité + bon sens républicain)
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Mélenchon reste le seul véhicule viable : L'Après est une fausse alternative, Roussel condamné à l'insignifiance par sa position dans le Graphique
 
 ## Vidéos clés (suite — corpus USA)
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Généalogie BNC / AOC / Mamdani ; 1,5M portes knockées ; jeunes femmes = classe révolutionnaire (84% chez les 18-29 ans) ; programme matériel simple et concret ; crise du logement comme clivage de classe central

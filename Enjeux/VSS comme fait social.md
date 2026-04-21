@@ -2,7 +2,7 @@
 type: enjeu
 domaine: société
 thèmes: [féminisme, VSS]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi
 date created: Monday, April 13th 2026, 11:23:10 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
@@ -154,6 +154,28 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — affaire Nicolas W, MeToo Médecine, mécanismes d'impunité
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la confraternité comme bouclier
 
+## L'affaire Dany Caligula : structure patronale et gaslighting du récit
+
+[[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]] est un cas d'école de la mécanique d'impunité dans les milieux dominés par une figure de pouvoir sur internet. Plusieurs mécanismes identifiés :
+
+**Le contrôle de la temporalité comme stratégie d'agresseur** — Dany Caligula a choisi lui-même de publiciser l'affaire via un premier live de "confession", s'appropriant le cadre narratif avant que les victimes puissent parler. C'est une stratégie classique d'agresseur en position de pouvoir.
+
+**Le [[Gaslighting du recit]]** — Pendant deux mois, la ZawaProd a diffusé un discours de symétrisation des rapports ("relation toxique horizontale"), de biographisation des violences ("mecs cassés"), et de détournement de la [[Justice transformatrice]] pour servir l'impunité de l'agresseur. La PaduTeam nomme l'"[[Feminisme CFDT]]" : un féminisme vidé de substance, favorable aux agresseurs, sans projet de transformation sociale — l'analogue de la CFDT qui fait du dialogue social avec le patronat.
+
+**La structure patronale comme condition de possibilité** — Dany n'est pas n'importe quel accusé : il est patron d'une des plus grosses entreprises de médias internet de gauche française. Cette position a permis l'organisation de l'impunité (MP aux petits streamers, live de mise en scène, intimidation des témoins). La solution n'est pas biographique mais structurelle : ôter à quelqu'un sa position de pouvoir quand il en abuse.
+
+**Le [[Boys Club]] numérique** — La ZawaProd fonctionne comme un boys club : un groupe avec une dynamique de domination masculine, où des violences en privé (insultes transphobes, grossophobes sur Discord) cimentent le groupe et légitiment des violences par ailleurs.
+
+**Le misoginoir** — Christa Vango, femme noire précaire, a été systématiquement décrédibilisée (stéréotype de l'Angry Black Woman). Le cas illustre la double invisibilisation des femmes racisées dans les affaires de VSS.
+
+**"[[Je te crois comme acte militant]]"** — "Je te crois" n'est pas un jugement judiciaire mais un acte politique qui renverse l'asymétrie de pouvoir. La neutralité dans ce contexte revient à prendre le parti du dominant.
+
+## La psychanalyse contre la VSS : la limite de l'explication individuelle
+
+[[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] offre un apport théorique au combat VSS. La PaduTeam défend que la psychanalyse — mobilisée par Élisabeth Roudinesco pour analyser le procès Mazan — rate structurellement les VSS en les réduisant à des "perversions individuelles." L'explication marxiste : ce ne sont pas 51 perversions individuelles qui produisent un viol collectif — c'est un phénomène de sujets collectifs masculins organisant la coopération pour la domination des femmes, renforcé par le fétichisme de la marchandise (réification des corps). Le marxisme explique les 99% qui agissent ; la psychanalyse s'intéresse aux 1% d'objecteurs. De même pour Gaza : les soldats israéliens qui humilient les femmes palestiniennes agissent dans un phénomène collectif de violence coloniale et suprémaciste, pas par "perversion individuelle."
+
+Le concept de [[Jeu de cartes des possibilites]] est mobilisé pour expliquer pourquoi tous les hommes ne "jouent" pas la carte de la violence patriarcale : les individus disposent de possibilités distribuées par les sujets collectifs auxquels ils appartiennent (classe, genre, race, nation). Ça n'invalide pas la responsabilité individuelle — ça explique la structure qui la rend possible.
+
 ## La prédation codifiée de rue et la sélection par la vulnérabilité
 
 Le "coaching en séduction" documente un segment du continuum VSS qui opère hors espace domestique : la prédation de rue systématisée. Le mécanisme central est la **sélection de la vulnérabilité** : parmi 1 000 femmes abordées, les 10 avec lesquelles "ça marche" ne sont pas les plus attirées mais les moins capables de dire non — fragilisées, trop polies, intimidées. Le "taux de réussite" est en réalité un taux d'exploitation de la vulnérabilité.
@@ -198,6 +220,11 @@ Arguments développés :
 - La violence collective de l'espace public pour les femmes : Léa est rentrée en tram bondé après son agression, blessée, à moitié dénudée. Personne ne l'a interpellée. "Genre, encore une gamine bourrée habillée n'importe comment."
 
 Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collective de [[La Breche]] — Zoé intègre formellement les moyens de production collectivisés avec Positions Revue et Padu. La capsule est ainsi à la fois un acte politique sur les VSS ET une annonce d'organisation militante.
+
+## Vidéos associées (corpus mai 2025)
+- [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]] — gaslighting du récit par l'agresseur patron ; féminisme CFDT comme féminisme d'impunité ; boys club numérique ; misoginoir ; structure patronale comme condition de possibilité des VSS
+- [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — phrase fondatrice sur la confraternité médicale : "il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre"
+- [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — critique de la psychanalyse comme cadre d'explication des VSS ; le procès Mazan analysé via les sujets collectifs masculins (coopération pour la domination) et non les perversions individuelles ; concept de jeu de cartes des possibilités
 
 ## Vidéos associées
 

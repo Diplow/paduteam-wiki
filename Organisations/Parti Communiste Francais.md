@@ -58,6 +58,10 @@ La posture de [[Leon Deffontaines]] face à [[Pascal Praud]] illustre le mécani
 
 La PaduTeam assume pour sa part la Révolution française, la Commune de Paris, la Révolution d'Octobre — tout en ne défendant pas les procès de Moscou ni les goulags. C'est le discours de dépassement que le PCF est incapable de tenir.
 
+## Figures internes contradictoires : Roussel vs Gay
+
+La PaduTeam opère une distinction entre [[Fabien Roussel]] (ligne droitière, stratégie de respectabilité, anti-LFI, islamophobie) et [[Fabien Gay]] (sénateur, directeur de L'Humanité, pratique de la lutte des classes parlementaire). Gay est présenté comme "supérieur à Roussel" — non pas sur la hiérarchie personnelle mais sur la pratique militante concrète : il prépare ses commissions d'enquête, lit les dossiers, confronte les PDG avec leurs propres chiffres.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -67,3 +71,4 @@ La PaduTeam assume pour sa part la Révolution française, la Commune de Paris, 
 - [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — Analyse via la voix d'un abonné PCF : distinction local/national, présence syndicale valorisée, direction nationale en retard sur antiracisme et féminisme
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — PCF ne pèse plus tellement plus que NPA ; stratégie "PCF Great Again" accélère la chute ; militants de terrain compréhensibles mais ligne Roussel catastrophique
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Deffontaines incapable du discours de dépassement historique ; piégé par Praud sur le chiffre des 50 millions ; reniement vs dépassement comme diagnostic central
+- [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — Gay présenté comme "Fabien supérieur à Roussel" ; distinction entre pratique militante parlementaire de Gay et stratégie de respectabilité médiatique de Roussel

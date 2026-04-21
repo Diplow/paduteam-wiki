@@ -41,12 +41,26 @@ La structuration ne signifie pas nécessairement que les militants doivent quitt
 
 Glupatate représente le cas inverse — il a quitté l'ingénierie et vit maintenant en partie de sa production militante. Les deux positions coexistent dans la PaduTeam sans contradiction : l'important est la structure collective, pas l'arrangement individuel.
 
+## La critique radicale du modèle entrepreneurial (post-affaire Dany)
+
+Dans la foulée de l'[[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE|affaire Dany Caligula]], la PaduTeam pousse la critique plus loin : la structuration ne suffit pas si elle prend la forme d'une entreprise capitaliste. La ZawaProd est analysée comme une **société de portage salarial** — chaque streamer opère individuellement depuis chez soi, sans syndicat, sans ligne commune, sans mécanisme de contrôle démocratique[^5]. La PaduTeam la distingue nettement d'une structure militante :
+
+- **Entreprise capitaliste** (dont ZawaProd) : doit produire du capital, de la plus-value, de l'excédent financier. La maximisation des revenus entre en contradiction avec le militantisme.
+- **Association militante** (La Brèche, Lutte Ouvrière) : produit du contenu militant, reversement des revenus à la structure, soumission à une base démocratique.
+
+Cette distinction opère via le concept d'[[Intellectuel organique]] (Gramsci) : seul un streamer inscrit dans une structure décapitalisée, soumis à un agenda de classe, peut être dit "militant" au sens fort.
+
+La PaduTeam identifie aussi la **transformation par l'activité** comme mécanisme central : entrer dans une dynamique auto-entrepreneuriale transforme le militant, même involontairement. "Quand vous évoluez, que vous commencez à gagner de l'argent d'une certaine manière, c'est très difficile de revenir en arrière."[^6] "Fuir le salariat" n'est pas une libération — c'est une fuite du [[Sujet collectif]] prolétarien et, avec lui, de la conscience de classe.
+
 ## Vidéos où le concept est développé
 
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — panorama de la structuration à gauche (2024), positionnement théorique
 - [[JVC BRAV-M DARMANIN GLUPATATE REPOND AUX ACCUSATIONS]] — économie réelle du short, modèle Canard Réfractaire, comparaison droite/gauche
+- [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — critique radicale post-affaire Dany, distinction activité vs rapport social, intellectuel organique de classe
 
 [^1]: [35:56](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=2156) — "le short je pense c'est ce qui prend le plus de temps et ce qui rapporte le moins [...] tu fais des millions de vues et tu pourrais pas vivre sans avoir un tipi à côté"
 [^2]: [1:26:42](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5202) — "si les gars ils ont envie comme Papacito de se barrer en Espagne et de prendre du bon temps comme le Raptor de fonder une famille [...] les mecs ne sont plus là tu vois"
 [^3]: [1:11:36](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=4296) — "l'énergie politique qu'on peut avoir quand on se dit que les profits qu'on fait on va pas juste les garder pour soi et du coup vivre voilà une vie paisible"
 [^4]: [1:25:09](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5109) — "je suis un peu là-dedans héritier de ce qui a été aussi un peu la CGT à un moment donné c'est-à-dire cette idée de dire qu'on milite mais que faut que nous on fasse tourner l'appareil de production"
+[^5]: [25:49](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=1549) — "une société de portage salarial, bah forcément il y a pas de syndicat [...] chacun fait son truc dans son coin. Moi ça me refait penser à ça parce que chacun fait son propre streaming dans son coin avec sa petite ligne"
+[^6]: [14:29](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=869) — "quand vous évoluez, que vous commencez à gagner de l'argent d'une certaine manière, bah c'est très difficile de revenir en arrière. C'est très difficile de pas accepter les règles du jeu"

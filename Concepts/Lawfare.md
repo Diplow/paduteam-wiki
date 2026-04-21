@@ -50,7 +50,12 @@ La proposition de loi de [[Hugo Bernalicis]] (LFI) vise à retransférer ce dél
 
 Ironie politique : c'est une loi socialiste (PS) qui est devenue l'instrument principal de répression des militants pro-Palestine.
 
+## La plainte Mélenchon vs Jakubowicz — le cas limite
+
+En mai 2025, Mélenchon porte plainte contre [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) pour injure publique après la comparaison Goebbels sur BFM TV. La PaduTeam juge la plainte justifiée — "à un moment ça va trop loin" — mais souligne le paradoxe : aller au tribunal risque de synchroniser médias et justice, de réalimenter l'affaire pendant des années, et de produire plus de couverture médiatique sur l'accusation que sur l'issue favorable du procès. C'est précisément la dynamique de l'offert / lawfare à l'espagnole (cas Podemos/Iglesias). La FI fait donc gaffe à ne pas systématiser : la plainte Jakubowicz est une exception justifiée par le fait que la ligne rouge est clairement franchie, pas un modèle à répliquer.
+
 ## Vidéos où le concept est développé
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Analyse du dilemme FI face au lawfare : quand porter plainte (Jakubowicz) et pourquoi ne pas systématiser
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Cas d'école complet de l'offert : judiciaire + médiatique + loi liberticide
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Forme administrative du lawfare (interdictions préfectorales)

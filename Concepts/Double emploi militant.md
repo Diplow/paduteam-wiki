@@ -32,8 +32,25 @@ Le double emploi n'est pas sans coûts opérationnels : il limite la capacité d
 - [[Dr Zoe]] — médecin généraliste rurale ; surcharge hivernale retarde sa chaîne YouTube personnelle
 - [[Chris]] — cadre industrie ; délègue de plus en plus la gestion quotidienne de [[Positions Revue]] à Damien et l'équipe pour se concentrer sur les activités de [[La Breche]]
 
+## L'épreuve concrète : quand les revenus YouTube doublent les revenus salariaux
+
+La PaduTeam illustre la pression que subit ce principe dès lors que les revenus de la chaîne deviennent significatifs. Lors d'un mois où YouTube + Tipeee totalisaient ~4500€ — soit plus que son salaire — la tentation de "faire trois réacts à Val, Raptor et Tais-toi Suffon au lieu de dépenser 1500€" est documentée[^4b]. La vidéo sur la Commune avec Ludivine Bantini a coûté ~1000-1500€ de production pour 19 000 vues et un déficit net ; si ces 1500€ avaient correspondu à une perte de salaire personnel, "on réfléchirait sûrement différemment."
+
+Ce passage expose la mécanique concrète du double emploi : c'est parce que la chaîne n'a pas besoin de "remplir le frigo" que des vidéos déficitaires militantes sont possibles. La force morale qui résiste à la tentation n'est pas individuelle — "c'est pas parce que tu es plus sain que les autres"[^4c] — c'est le collectif (La Brèche) qui tient la ligne.
+
+## La critique du "fuir le salariat"
+
+Popularisée par des streamers gravitant autour de la ZawaProd (dont [[Dany Caligula]]), l'expression "fuir le salariat" est analysée comme une double défaite. Elle présente comme une émancipation ce qui est en réalité une fuite du **sujet collectif révolutionnaire** (le prolétariat) et, avec lui, de la conscience de classe. "Quand vous faites une fuite de pratique collective du prolétariat, vous ferez une fuite de conscience prolétarienne."[^4d]
+
+Le double emploi militant répond précisément à cette tentation : on ne "fuit" pas son emploi pour militer — on milite en plus de son emploi, précisément pour rester ancré dans la coopération de classe.
+
 ## Vidéos où le concept est développé
 - [[PADUSTREAM C'EST DEJA FINI]] — formulation théorique la plus explicite ; distinction entre militantisme et "professionnels des médias"
+- [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — épreuve concrète des revenus YouTube vs salaire, critique du "fuir le salariat", articulation avec [[Intellectuel organique]]
+
+[^4b]: [12:57](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=777) — "si les 1000 ou 1500 € investis pour faire cette vidéo, c'était 1000 ou 1500 € qui allaient en moins dans nos salaires à Chris et moi, on réfléchirait sûrement différemment"
+[^4c]: [21:41](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=1301) — "c'est pas parce que tu es plus sain que les autres. Non non non mais c'est pour ça moi je dis moral au sens collectif. C'est-à-dire une forme idéologique, une forme de dynamique collective qui va justement te dire ça doit rester un moyen et non une fin"
+[^4d]: [30:58](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=1858) — "quand vous faites une fuite de pratique collective du prolétariat, vous ferez une fuite de conscience prolétarienne. Assumez-le"
 
 [^1]: [10:24](https://www.youtube.com/watch?v=LxwZ1JIvNtE&t=624) — "le but du militantisme c'est justement pas d'extraire les militants qui se mouillent qui donnent de leur temps de leur milieu de travail [...] tu te retrouves avec des types qui sont une espèce de pseudo avant-garde qui perd un petit peu un rapport au monde pratique et à la pratique collective"
 [^2]: [10:55](https://www.youtube.com/watch?v=LxwZ1JIvNtE&t=655) — "c'est plus confortable d'être dans cette position quand on a des métiers comme les nôtres que quand on a d'autres types de boulot"

@@ -27,3 +27,4 @@ La PaduTeam (ironie) : "Comme moi j'ai voté François Hollande, j'espère qu'il
 
 ## Vidéos où le concept est développé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme exemple emblématique de la redistribution hollandiste vers le haut
+- [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — cas Michelin : machines achetées avec le CICE pour le site de La Roche-sur-Yon, site fermé, machines déplacées en Espagne/Roumanie. Le PDG admet devant Fabien Gay qu'un remboursement serait "pas anormal". Zoé : "c'est l'argent du CICE mis en place par Hollande. Et après ça chiale parce qu'on veut pas qu'il soit au 1er mai avec nous."

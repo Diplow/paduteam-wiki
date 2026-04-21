@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -93,6 +93,28 @@ La conscience collective de classe dépasse l'alternative affect/raison que Spin
 - **[[Leon Deffontaines]]** — incapable d'assumer l'histoire communiste, se couche face à Praud
 - **[[Bernard-Henri Levy]]** — confusionnisme d'intellectuel bourgeois, qualifie Mélenchon de fasciste mais refuse de qualifier Le Pen
 - **[[Eric Naulleau]], [[Manuel Valls]], [[Julien Dray]]** — fonctions de "quota gauche" dans les médias réactionnaires
+- **[[Alexis Corbière]], [[Raquel Garrido]], [[François-Xavier Simonet]]** — droite du NFP qui "ouvre la boîte de Pandore" en diabolisant Mélenchon depuis l'intérieur, permettant aux charognards de droite de surenchérir
+- **[[Alain Jakubowicz]]** (LICRA) — instrumentalise l'antiracisme institutionnel contre la gauche de rupture ; opère le syllogisme Palestine→antisémite→nazi→Goebbels ; "préfère Le Pen à Mélenchon" au nom de la protection des Juifs
+- **[[L'Apres]]** — fausse alternative post-FI ; reconstruit un appareil d'arrivistes sans base sociale ni formation politique ; les statuts déposés avant les élections révèlent que la "démocratisation interne" réclamée était en réalité la préservation de leurs postes
+- **Les streamers auto-entrepreneurs de gauche** (modèle ZawaProd) — incapables structurellement d'être militants : en dernière instance, c'est le capital qui tranche sur leur ligne éditoriale
+
+### 8. L'Après : fausse alternative, vraie trahison
+
+[[L'Apres]] incarne une nouvelle variante de la guerre des gauches : des cadres exclus de la FI qui se posent en alternative démocratique sans rompre avec le logique des appareils. La PaduTeam déconstruit le projet dans [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]]. Les statuts ont été déposés avant les élections législatives — la "démocratisation interne" réclamée n'est pas le tirage au sort ou une rotation, c'est simplement "la démocratie pour eux" : garder leurs postes. "Refaire une ième France insoumise noyautée par deux ou trois arrivistes" n'est pas une alternative. La vraie alternative serait de reconstruire un parti comme le PCF d'avant — militants de terrain formés, cotisations, base sociale — ce que L'Après ne fait pas. Ce que les dissidents appellent "épuration", c'est simplement le refus de donner un mandat de député à des gens qui s'apprêtaient à trahir immédiatement. [[Alexis Corbière]] est "beaucoup plus à droite que le reste de la France insoumise."
+
+### 9. La diabolisation par la gauche de l'intérieur : la boîte de Pandore
+
+La vidéo [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] documente un mécanisme que la PaduTeam identifie comme central dans la guerre des gauches de 2025 : ce n'est pas l'extrême droite ou les médias qui ont rendu possible la comparaison Mélenchon/Goebbels — c'est la "droite du NFP" (Corbière, Garrido, Simonet) qui a "ouvert la boîte de Pandore" en tapant sur Mélenchon depuis l'intérieur. En tapant, ils "autorisent les charognards de droite et d'extrême droite à surenchérir."
+
+Le syllogisme de [[Alain Jakubowicz]] (LICRA) est décortiqué : défendre la légitimité de la cause palestinienne → attaquer la politique d'Israël → être antisémite → être nazi → être Goebbels. Ce mécanisme transforme la position géopolitique de LFI en disqualification morale absolue. La LICRA "préfère Le Pen à Mélenchon" — et retourne ainsi son cordon sanitaire contre la gauche radicale plutôt que contre l'extrême droite réelle.
+
+Face à ça, la PaduTeam formule un impératif stratégique rare : même ceux qui n'aiment pas Mélenchon doivent le défendre. "Ce qui lui arrive à lui sera une déferlante pour tous les gens qui voudraient le prendre par sa gauche." La chasse à l'homme contre Mélenchon est une chasse contre le corps social radical tout entier. Et les libertés publiques ne sont jamais une position de principe pour la bourgeoisie — "elles sont tolérées quand elles protègent la propriété privée, abandonnées quand elles la menacent."
+
+### 10. La structuration de la gauche internet comme enjeu de la guerre des gauches
+
+[[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] reformule la guerre des gauches à l'ère numérique. La question n'est pas si un streamer peut avoir des convictions de gauche — c'est si la forme sociale de son activité (auto-entreprise capitaliste) est compatible avec le militantisme. La réponse de la PaduTeam est structurale : en dernière instance, c'est le capital qui tranche. L'affaire Dany Caligula en est la démonstration empirique.
+
+La [[ZawaProd]] est analysée comme une société de portage salarial, pas un collectif militant. "Fuir le salariat" est présenté comme une victoire par des streamers — la PaduTeam y voit une double défaite : fuite du sujet collectif révolutionnaire (le prolétariat) et fuite de la conscience de classe. La seule condition pour un streaming militant légitime : l'inscrire dans un appareil collectif soumis à une base militante, comme La Brèche ou Lutte Ouvrière. Ce qui distingue le militantisme du divertissement de gauche n'est pas l'intention mais la structure.
 
 ### 8. La mécanique de la diabolisation prédite par le Graphique
 
@@ -103,6 +125,9 @@ Le cas [[Jerome Guedj]] (PS) est anatomisé comme archétype de la trahison habi
 La NUPES est analysée comme structurellement instable : "trop faible dans ce qu'il a de fort, trop fort dans ce qu'il a de faible" (formule empruntée à Bainville sur le traité de Versailles). Trop faible car elle laissait le PS recréer des groupes autonomes à l'Assemblée ; trop forte car insupportable pour un PS qui gardait "une tête qui bougeait." La sortie par Gaza — un événement extérieur à la vie politique française — est lue comme le prétexte final pour se séparer sans porter la responsabilité de la rupture.
 
 ## Vidéos clés
+- [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — L'Après comme fausse alternative post-FI ; Roussel "catastrophique" au regard du Graphique ; l'antiracisme comme ligne de fracture irréconciliable entre gauches
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — mécanique de la diabolisation par la gauche de l'intérieur : la droite du NFP ouvre la boîte de Pandore ; syllogisme Palestine→Goebbels décortiqué ; LICRA retourne son cordon contre la gauche radicale ; Mélenchon comme digue
+- [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — structuration de la gauche internet : contradiction insoluble entre streamer auto-entrepreneur et militant ; ZawaProd comme société de portage salarial ; La Brèche comme modèle du collectif militant soumis à une base
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — cas d'école de la fracture NUPES : diabolisation médiatique comme étape prévue ; anatomie de la trahison Guedj (PRS → refus PG → sortie par Gaza) ; instabilité structurelle de la NUPES analysée ; deux stratégies disponibles pour LFI après la rupture
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — fracture décolonial/marxiste-léniniste : le projet "France révolutionnaire" de PDH comme capitulation idéologique selon Kazib ; confondre conséquence et cause (le drapeau comme objet de lutte, pas point de départ) ; anti-impérialisme impossible sous signifiant national ; affects spinozistes vs conscience de classe ; "la catégorie clé du marxisme c'est le possible, pas le réel"
 - [[WTF RAZ et CASSANDRE me TRAITENT d ANTISEMITE en plein LIVE]] — accusation d'antisémitisme en live comme mécanique de la guerre des gauches ; distinction adversaire intellectuel (Cassandre) vs ennemi politique (Raz) ; l'accusation sans preuve comme remplacement de l'argument
