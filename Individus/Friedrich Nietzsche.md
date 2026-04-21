@@ -27,3 +27,4 @@ Les idéalistes qui lisent Nietzsche "en se disant qu'il critique les chrétiens
 
 ## Vidéos où Nietzsche est analysé
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — Nietzsche comme vernis intellectuel d'une politisation YouTube masculiniste ; contradiction directe entre nietzschéisme et "amour de la raison" ; Nietzsche est contre la raison, pas pour

@@ -14,3 +14,9 @@ Score très marginal (~0.5%). Position classique extrême-gauche ouvrière.
 
 ## Position dans le [[Graphique]]
 Vote ouvrier historique, positionnement bas-gauche. En 2002, Arlette Laguiller incarnait un proto-espace populaire de gauche qui sera ensuite consolidé par [[Jean-Luc Melenchon]].
+
+## Appartenance à la 4e Internationale
+Lutte Ouvrière est membre de la [[Trotskisme|4e Internationale]] — l'une des trois grandes tendances trotskistes françaises avec le lambertisme ([[Parti des Travailleurs]]) et le pablisme ([[NPA]]). Organisation trotskiste orthodoxe.
+
+## Vidéos où l'organisation est analysée
+- [[FROM TROTSKISTE TO RACISTE]] — citée comme troisième composante du paysage trotskiste français avec PT et NPA

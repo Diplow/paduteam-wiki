@@ -24,3 +24,4 @@ Zoé note qu'il n'a jamais fait d'autocritique publique sur ses années au cabin
 
 ## Sources
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
+- [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — classé "antiflic" par [[Frontiere]] uniquement parce qu'il refuse d'inviter le RN à son émission ; la PaduTeam note ironiquement : "Jean Massiet, j'attends le moment où il refusera d'inviter ce qu'il appellera l'extrême gauche. Je vois la trajectoire de ces gars."

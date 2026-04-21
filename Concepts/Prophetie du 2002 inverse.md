@@ -68,6 +68,7 @@ En octobre 2025, deux événements confirment simultanément la prophétie : [[A
 
 [^initial]: [43:01](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2581) — "C'est Jean-Luc Mélenchon qui a fait une remontée spectaculaire avec 58,2 % des voix contre 41,8 % pour Marine Le Pen."
 
+- [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — Version la plus détaillée de la mécanique : projection analogique complète des candidats 2002 sur leurs équivalents 2027 (Le Pen→Mélenchon, Chirac→Bardella, Jospin→Vallaud, Bayrou→Philippe, Chevènement→Villepin, etc.), avec rubans électoraux depuis 2002 et stratégie programmatique (32h, nationalisation crédit, retraite 60 ans)
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Le sondage IFOP 2026 confirme la dispersion de 2012 (avant moïsation), Hollande apparaît à 8% dès son premier sondage sans avoir annoncé sa candidature
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin Deranque confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon

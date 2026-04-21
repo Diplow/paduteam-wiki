@@ -45,3 +45,4 @@ L'industrie du coaching en séduction codifie des pratiques de [[Culture du viol
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — trajectoire du racisme au libertarianisme
 - [[LE COACH SEDUCTION FLIPPANT]] — prédation de rue codifiée
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — rituel d'humiliation en live
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — usage de l'évopsie pour légitimer le "marché amoureux" ; distinction misogynie saine/toxique comme formalisation explicite de la protection par le statut

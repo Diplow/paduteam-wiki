@@ -4,7 +4,7 @@ domaine: [société, économie]
 thèmes: [santé, corpo-médicale]
 skill_version: ingest-batch-2026-04-14
 date created: Tuesday, April 14th 2026, 9:10:35 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
 
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale
@@ -51,6 +51,29 @@ Une fraction de la corpo médicale produit activement du mépris de classe enver
 
 Ce mépris a une fonction politique identifiée par la PaduTeam : le "petit chef qui ne forme jamais son équipe mais se plaint d'être dérangé" reproduit une asymétrie de pouvoir. Refuser de dispenser le savoir médical (formation à la santé, IA médicale encadrée) n'est pas de l'incompétence — c'est un choix de position supérieure. "Moi je sais, toi tu sais pas."[^7]
 
+### La délégation de tâches comme solution d'urgence contre le monopole médical
+
+Face à l'impossibilité d'une solution rapide par le volume (10 ans de formation) et à l'inefficacité d'une redistribution de médecins trop peu nombreux, la PaduTeam propose la **[[Delegation de taches medicales|délégation de tâches]]** comme réponse structurelle d'urgence :
+
+- Certificats de décès délégués aux infirmiers en EHPAD (déjà autorisé mais sous-mis en œuvre, faute de rémunération)
+- **Auto-arrêt de travail** pour les pathologies auto-diagnosticables (gastro, grippe) : l'obligation de passer par un médecin ne sert qu'à justifier l'arrêt ; libérer 30% des créneaux en période d'épidémie. Ce n'est pas un débat médical — c'est un rapport de classes : l'obligation de certificat médical est un totem qui sert le patronat, pas la santé publique
+- Automédication éclairée : former les patients à reconnaître les pathologies courantes, à utiliser le paracétamol correctement, à identifier les drapeaux rouges
+- Aide-soignants autorisés à donner du paracétamol sans appeler le médecin
+
+La PaduTeam mobilise Mao Zedong : face à une pénurie, former des gens à plusieurs niveaux d'intervention plutôt que de redistribuer une masse insuffisante. "Force au camarade Mao, moi je suis d'accord." C'est une nécessité d'urgence, pas une position idéologique.
+
+### L'entre-soi de classe révélé par le cas "Paul"
+
+Un tweet viral d'un interne en anesthésie ("Paul") cristallise la mentalité corporatiste : "j'ai sacrifié la meilleure partie de ma vie, pas pour qu'on m'envoie dans une ville de 40 000 habitants." La PaduTeam l'analyse comme révélateur structural :
+
+- "Tout le monde fait des tours du monde à 22 ans" : Paul se compare à des bourgeois d'école de commerce, pas aux chauffeurs-livreurs qui ne prennent pas de congé le jour de leur anniversaire — **l'entre-soi de classe rendu visible**
+- Paul cite les conditions de travail catastrophiques (internes qui se suicident 3 fois plus que la moyenne) sans voir que c'est sa propre corporation qui organise ces conditions, pas la loi d'installation
+- **"Jamais dans leur discours, il n'est question du patient"** — diagnostic structural : les réactions comme celle de Paul sont la norme, pas une anomalie
+
+### Le salariat médical comme projet de gauche structurel
+
+La PaduTeam identifie un changement en médecine générale : près de 40% des internes qui sortent souhaitent un emploi salarié. Avantages concrets : pluriprofessionnalité, suppression du paiement à l'acte, qualité de soin améliorée. Un projet de gauche = investissement massif dans des centres de santé publics avec médecins salariés. C'est la condition pour "avoir la main sur comment on fait une politique qui parle des besoins." La loi d'installation est juste politiquement mais inefficace à court terme — utile dans 15-20 ans quand le volume de médecins formés aura rattrapé les besoins.
+
 ### La psychiatrie comme contradiction interne entre soin et contrôle
 
 La psychiatrie hérite de la prison asilaire du XIXe siècle — une discipline "entre la prison et le soin" — et n'a pas résolu cette contradiction. La PaduTeam défend une position dialectique contre l'antipsychiatrie totalisante : il y a des germes progressistes à l'intérieur de la psychiatrie (médecins ambulatoires, militants, pairs aidants) et des éléments réactionnaires (sécuritarisme, vocabulaire normalisateur). Le vocabulaire des professionnels est un révélateur idéologique : "maladie mentale" au lieu de trouble, "altération du consentement" pour justifier les soins forcés — ces termes essentialisent le trouble et effacent les déterminants sociaux. Les soins sans consentement en mode "péril imminent" (59% des cas en 2013 : un seul certificat, aucun deuxième avis psychiatrique) sont le mode le moins légitime et le plus fréquent. La solution progressiste n'est pas l'hospitalisation sous caméra mais les équipes mobiles, les appartements thérapeutiques, les pairs aidants. "La psychiatrie sous le fascisme et la psychiatrie sous le socialisme, c'est pas la même chose."
@@ -79,6 +102,7 @@ La psychiatrie hérite de la prison asilaire du XIXe siècle — une discipline 
 - [[Confraternite medicale]] — code du silence corporatiste
 - [[100 pour cent Securite Sociale]] — solution structurelle
 - [[Condescendance de classe]] — mépris des médecins envers patients
+- [[Delegation de taches medicales]] — solution d'urgence pour pallier la pénurie sans attendre le volume
 
 ## Évolution
 
@@ -94,7 +118,7 @@ La PaduTeam étend sa critique au **champ psychiatrique** (mars 2025). La psychi
 - [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — démystification des chiffres
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — analyse de la conscience de classe corporatiste
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — grève de droite décortiquée
-- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée (vidéo clé du batch)
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — récit historique complet de la pénurie organisée (mandarins + gouvernements néolibéraux, années 1970) ; loi d'installation juste mais inefficace à court terme ; délégation de tâches comme solution d'urgence (auto-arrêt, certificats infirmiers, automédication éclairée) ; cas "Paul" comme révélateur de l'entre-soi de classe corporatiste ("jamais question du patient") ; salariat médical comme projet de gauche structurel ; sélection de classe dans les études de médecine
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en action, jusqu'à la logique eugéniste du permis de procréer ; outil de radicalisation de conscience de classe
 - [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]] — extension du combat au champ psychiatrique : contradiction soin/contrôle, vocabulaire normalisateur, critique des soins sans consentement, ESAT comme exclusion validiste
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — la solution de gauche

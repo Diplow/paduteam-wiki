@@ -30,3 +30,4 @@ La PaduTeam commente : le "plus gros passoire fascisante du siècle" fait ses pr
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
 - [[FROM TROTSKISTE TO RACISTE]] — VA+ comme lieu de témoignage de Luc, "tendance ridiculiste du fascisme"
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Macron choisit VA pour son premier entretien sur l'immigration (2019), utilise "rabzous", complimente Lejeune
+- [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — VA+ comme scène du témoignage d'Arthur, "ingénieur nietzschéen" passé du mélenchonisme à Nietzsche ; troisième capsule du format "réac qui témoigne"

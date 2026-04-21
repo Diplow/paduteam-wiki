@@ -79,7 +79,7 @@ Ce mécanisme s'inscrit dans la politique délibérée de fermeture de lits : ch
 
 ## Vidéos clés
 
-- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire complète de la pénurie organisée
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire complète de la pénurie organisée ; analyse du tweet de Paul ; sélection de classe dans les études ; solutions d'urgence ([[Delegation de taches medicales|délégation]], auto-arrêt) ; salariat comme sortie de crise
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la grève de droite comme symptôme
 - [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — démystification des chiffres
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — le faux bouc émissaire

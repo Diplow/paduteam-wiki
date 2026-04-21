@@ -232,20 +232,21 @@ Fiches créées : [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]
 ---
 ## Batch 13 — Semaines 2025-W15 à 2025-W16 (7 avr 2025 – 20 avr 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w15-w16
+Fiches créées : [[THAIS ET VALEK APPRENNENT A BAISER]], [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]], [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]], [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]], [[MARIANNE LE JOURNAL NEGA-SIONNISTE]] + concepts : Delegation de taches medicales, Evopsychologie comme naturalisation, Misogynie protegee par le statut, Etats generaux du Graphique, Validisme, Psychiatrisation du social, Psychophobie, Propriete milliardaire des medias, Clause de conscience, Sociotype jeune ingenieur reac, Wokisme comme concept creux, Accelerationnisme, Printemps Republicain + individus : Maboula Soumahoro, Nicolas Demorand, Quentin M, Daniel Kretinski, Sylvain Mercadier, Samuel Paty + enjeux enrichis : Palestine libre, Le Graphique comme outil, Union populaire, Critique de la fachosphere, Feminisme materialiste, Defense de la Securite Sociale, Corpo medicale
 
-- [ ] LFI envoie les MÉDECINS aux CHAMPS ?! (@Dr_Zoé_YT X @pasduhring)
-- [ ] Le DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS !! (@pasduhring X Chris)
-- [ ] FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE ! (@Dr_Zoé_YT x @pasduhring)
-- [ ] FROM TROTSKISTE TO RAC!STE, il se CONFIE à VA (@Dr_Zoé_YT x Chris)
-- [ ] THAÏS et VALEK nous APPRENNENT à BAI$ER !! (@Dr_Zoé_YT x @pasduhring)
-- [ ] FRANCE INTER et LE POINT reprennent MON CONCEPT : c'est CATA !! (@pasduhring X Chris)
-- [ ] CHRIS DÉVOILE COMMENT MÉLENCHON va GAGNER en 2027 !! (@pasduhring x Chris)
-- [ ] Les LIVREURS-UBER : + BOURGEOIS que les MÉDECINS ? (@pasduhring X Chris)
-- [ ] D'ADO GAUCHISTE à INGÉNIEUR NIETZSCHÉEN : ce SURHOMME raconte son HISTOIRE !! (Zoé X Padu)
-- [ ] NICOLAS DEMORAND AVOUE ÊTRE MALADE MENTAL !?
-- [ ] MARIANNE : le journal NÉGA-SIONNISTE !?
+- [x] LFI envoie les MÉDECINS aux CHAMPS ?! (@Dr_Zoé_YT X @pasduhring)
+- [x] Le DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS !! (@pasduhring X Chris)
+- [x] FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE ! (@Dr_Zoé_YT x @pasduhring)
+- [x] FROM TROTSKISTE TO RAC!STE, il se CONFIE à VA (@Dr_Zoé_YT x Chris)
+- [x] THAÏS et VALEK nous APPRENNENT à BAI$ER !! (@Dr_Zoé_YT x @pasduhring)
+- [x] FRANCE INTER et LE POINT reprennent MON CONCEPT : c'est CATA !! (@pasduhring X Chris)
+- [x] CHRIS DÉVOILE COMMENT MÉLENCHON va GAGNER en 2027 !! (@pasduhring x Chris)
+- [x] Les LIVREURS-UBER : + BOURGEOIS que les MÉDECINS ? (@pasduhring X Chris)
+- [x] D'ADO GAUCHISTE à INGÉNIEUR NIETZSCHÉEN : ce SURHOMME raconte son HISTOIRE !! (Zoé X Padu)
+- [x] NICOLAS DEMORAND AVOUE ÊTRE MALADE MENTAL !?
+- [x] MARIANNE : le journal NÉGA-SIONNISTE !?
 
 ---
 ## Batch 14 — Semaines 2025-W17 à 2025-W18 (21 avr 2025 – 4 mai 2025)

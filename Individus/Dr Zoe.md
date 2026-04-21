@@ -54,7 +54,7 @@ Zoé exerce comme médecin généraliste en zone rurale. L'hiver est sa période
 - [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — démystification des rémunérations
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — analyse des rentabilités excessives
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — grève de droite des internes
-- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée, "solution du camarade Mao", auto-arrêt de travail, sélection de classe dans les études de médecine, analyse du tweet de Paul (interne anesthésiste), salariat comme projet de gauche
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en médecine
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — solution de gauche
 

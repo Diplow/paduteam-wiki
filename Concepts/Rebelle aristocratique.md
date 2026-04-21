@@ -25,3 +25,4 @@ Le mécanisme repose sur un double héritage aristocratique : familial (naissanc
 
 ## Vidéos où le concept est développé
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — Nietzsche comme vernis intellectuel adopté après politisation YouTube mascu ; "ingénieur nietzschéen" comme avatar populaire du rebelle aristocratique sans la profondeur

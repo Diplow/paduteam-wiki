@@ -5,7 +5,7 @@ thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
 skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 21st 2026, 12:00:00 pm
+date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
 #domaine/théorie #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 
@@ -142,6 +142,16 @@ La trajectoire de [[Thais d'Escufon]] illustre ce que la PaduTeam considère com
 
 Contraste : [[Virginie Vota]], dans la même sphère, a vécu la même expérience et a commencé à comprendre le féminisme.
 
+## L'évopsychologie comme naturalisation de la domination — le cas Thaïs/Valek
+
+La PaduTeam démontre que l'évopsychologie droitière n'est pas une science : c'est un protocole de naturalisation des rapports de domination. Dans le podcast analysé dans [[THAIS ET VALEK APPRENNENT A BAISER]], Thaïs d'Escufon et Valek mobilisent une psychologie évolutionniste monocausale pour justifier le couple monogame hétérosexuel comme "instinct primitif", biologiser la dépréciation des femmes après 35 ans ("le mur"), et légitimer une hiérarchie de la "misogynie".
+
+**La distinction misogynie "saine"/misogynie "toxique" révèle la structure de domination** : Valek distingue la misogynie acceptable (celle des hommes à statut élevé qui "sélectionnent") de la misogynie inacceptable (celle des incels sans argent). La PaduTeam renverse : c'est précisément la protection par le statut social qui permet à certaines violences masculines d'être tolérées. Un médecin en position de domination sur ses étudiantes peut exercer des VSS des années — sa "misogynie" n'est pas "saine", elle est protégée par la hiérarchie institutionnelle. Ce que Valek appelle "misogynie saine" est exactement le mécanisme que la PaduTeam nomme [[Misogynie protegee par le statut]].
+
+**La monogamie biologisée efface son histoire sociale** : présenter le couple monogame hétérosexuel comme un instinct primitif efface ce qu'Engels a analysé — la monogamie a été instituée pour garantir la paternité dans les classes possédantes, pas comme constante universelle. L'anthropologie et l'ethnologie montrent la variabilité des formes d'alliance humaine.
+
+**La contradiction réac-libertarien** : Thaïs et Valek combinent injonction à la monogamie pour les femmes et liberté individuelle pour les hommes, nostalgie du travail manuel "viril" et formations crypto en montagne depuis Andorre. Des libertariens anti-collectif qui se plaignent de la disparition des liens communautaires — l'incohérence est structurelle, pas accidentelle.
+
 ## La précarité économique comme infrastructure de la prédation sexuelle
 
 La PaduTeam articule le féminisme matérialiste à l'économie politique de manière explicite : la précarité n'est pas un contexte aggravant des VSS, c'est une **technique de prédation**. Un patron qui interroge une candidate serveuse sur sa vie privée, qui lui fait des avances, qui laisse entendre que coucher avec lui pourrait "faciliter" l'embauche — ce n'est pas un "pire patron" exceptionnel. C'est un patron ordinaire qui utilise le rapport de force économique.
@@ -240,6 +250,8 @@ Le procès Mazan (sept.-déc. 2024) constitue un moment de révélation de masse
 
 Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique pour que la honte change de camp*) marque une évolution vers le militantisme du témoignage : parler à visage découvert, faire de sa propre histoire un acte politique, créer un espace safe pour les victimes.
 
+Mars 2026 : la PaduTeam étend l'analyse à la jonction masculinisme/fachosphère féminine ([[THAIS ET VALEK APPRENNENT A BAISER]]) en montrant que l'évopsychologie mobilisée par Thaïs d'Escufon et Valek est un protocole de naturalisation identique à celui analysé sur Killian Sensei — mais opérant depuis l'intérieur d'un couple mixte réac, ce qui lui donne une caution genrée supplémentaire. Le concept de [[Misogynie protegee par le statut]] est formalisé : la violence masculine acceptable n'est pas celle des dominés, c'est celle des dominants que les structures institutionnelles protègent.
+
 Décembre 2024 voit aussi une extension de la grille féministe matérialiste à deux terrains nouveaux. D'abord le travail du sexe : l'affaire [[Lily Phillips]] permet à la PaduTeam de tester l'outil marxiste (consentement insuffisant comme catégorie d'analyse) sur un terrain où le consentement est formellement présent mais structurellement problématique. C'est la même grille que Mazan, formulée sur un terrain différent — ce qui permet de généraliser le mécanisme au-delà du non-consentement évident. Ensuite l'antiféminisme "normi" : la vidéo sur [[Louis San]] documente qu'un antiféminisme non déclaré, qui mobilise des données réelles dans un cadre qui évacue le capitalisme patriarcal, produit des effets pratiques identiques à ceux du masculinisme déclaré.
 
 ## Le travail comme terrain du féminisme matérialiste — Julia de Funès et les conditions objectives du bonheur
@@ -270,6 +282,7 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 - [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — analyse du parcours identitaire de Thaïs comme anti-modèle
 - [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — connexion antiféminisme / agenda nataliste identitaire
 - [[THAIS LES VSS L ONT RENDUE NAZIE]] — le mécanisme VSS → radicalisation droite comme absence de féminisme matérialiste
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — évopsychologie comme pseudo-science de naturalisation de la domination ; distinction misogynie "saine"/toxique comme révélateur de la protection par le statut ; biologisation du "mur" des femmes retournée par le matérialisme historique (Engels sur la monogamie) ; contradiction réac-libertarien de la fachosphère ; concept de [[Misogynie protegee par le statut]]
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] — féminisme bourgeois vs féminisme structurel sur la natalité
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — straw man du féminisme comme "guerre des genres" démonté ; déterminants matériels de la natalité (intérim, logement) vs moralisme réactionnaire ; Hongrie orbaniste comme destination des antiféministes
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — défense du féminisme matérialiste face à la droitarde Herga ; méthode sociologique contre le vécu subjectif ; distinction Némésis vs Thaïs d'Escufon sur le viol conjugal ; colonisation algérienne comme contexte structurel

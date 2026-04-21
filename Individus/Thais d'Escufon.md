@@ -92,3 +92,4 @@ Son activité commerciale : vente de PDF et de formations à des hommes incels/m
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]] — Dr Zoé détruit son positionnement sur les VSS
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — comparée à Némésis : jugée "pire" car normalise le viol conjugal explicitement, là où Némésis ne le fait pas
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — podcast avec Valek décortiqué par Padu et Dr Zoé ; évopsychologie comme naturalisation ; le "mur" comme biologisation d'un rapport de domination marchande ; contradiction réac-libertarien

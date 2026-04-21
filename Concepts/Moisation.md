@@ -101,6 +101,7 @@ Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]
 
 ## Vidéos où le concept est analysé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
+- [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — Présentation des rubans électoraux depuis 2002 : progression de l'abstention et du centre jusqu'en 2017 (pic de confusion), puis retour à la moïsation visible en 2022. La configuration 2027 comme "démoïsation" à droite — boucle qui se referme sur elle-même
 
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — "Finir la boucle" : le 21 avril 2025 (date d'enregistrement = 23 ans après le 21 avril 2002), la PaduTeam analyse le 2027 comme clôture de la moïsation. "On voit vraiment le début de la période confuse avant la moïsation" (graphique 2002). La moïsation achevée rend possible l'éparpillement inverse à droite et le passage de Mélenchon[^boucle]
 

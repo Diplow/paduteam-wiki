@@ -55,6 +55,7 @@ La logique asilaire se prolonge dans les Établissements et Services d'Aide par 
 ## Vidéos où le concept est développé
 
 - [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]] — analyse centrale : architecture asilaire, UMD, chambre-caméra, contention, contradiction interne de la psychiatrie
+- [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] — prolongement sur le [[Validisme]] et les ESAT comme version "sociale" de la logique asilaire
 
 [^1]: [6:41](https://www.youtube.com/watch?v=43_Rj76Mv0Y&t=401) — "les UMD, comme il y en a que neuf en fait, et ben vous allez avoir une extraction du patient de son lieu de vie [...] c'est vraiment l'évolution quand on y pense de ce qu'ont été les asiles"
 [^2]: [23:15](https://www.youtube.com/watch?v=43_Rj76Mv0Y&t=1395) — "la contention en psychiatrie est quelque chose qui ne sert à rien. Il y a aucune étude à ma connaissance qui montre que ça change quoi que ce soit. Et par contre, c'est dangereux"
