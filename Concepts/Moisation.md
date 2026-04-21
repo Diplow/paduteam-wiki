@@ -91,6 +91,10 @@ Le risque : que Mamdani, une fois au pouvoir, droitise (comme Syriza, comme Pode
 
 **[[Raphael Glucksmann]] comme équivalent Démocrate mainstream** : dans l'analyse de la défaite de Kamala Harris, la PaduTeam établit explicitement : Glucksmann = aile droite des Démocrates US. La "[[Gauche de droite]]" existe des deux côtés de l'Atlantique et produit les mêmes résultats.
 
+## La moïsation au Canada : Justin Trudeau comme cas parallèle
+
+Lors du passage de Mélenchon à Radio Canada (2025), la PaduTeam formule explicitement l'internationalisme de la moïsation : "La moïsation, ça ne concerne pas que la France. Ça concerne d'autres pays face à la crise." Si vous avez Justin Trudeau (gauche de droite libérale au pouvoir), vous finirez avec l'extrême droite — même dynamique qu'en Europe. Mélenchon illustre cela par la formule symétrique : "Si vous avez Trump c'est parce que vous avez eu Kamala Harris." La moïsation est un phénomène occidental lié à la crise du néolibéralisme, pas une singularité française.
+
 ## Macron comme illustration de la droitisation moïsatrice
 
 Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], la PaduTeam mobilise implicitement la Moïsation pour lire la trajectoire de Macron : ses sorties racistes ("Mamadou", "rabzous", "cocottes") ne sont pas des dérapages mais la révélation cohérente d'une pensée réactionnaire que la Moïsation rend visible. À mesure que les blocs se consolident, Macron ne peut plus prétendre être "au-dessus des partis" — il est contraint de choisir un camp, et il choisit de brosser dans le sens du poil les idées xénophobes de l'extrême droite pour conserver son bloc bourgeois. La Moïsation révèle ce que le moment populiste de 2017 masquait.
@@ -98,8 +102,9 @@ Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]
 ## Vidéos où le concept est analysé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
 
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — "Finir la boucle" : le 21 avril 2025 (date d'enregistrement = 23 ans après le 21 avril 2002), la PaduTeam analyse le 2027 comme clôture de la moïsation. "On voit vraiment le début de la période confuse avant la moïsation" (graphique 2002). La moïsation achevée rend possible l'éparpillement inverse à droite et le passage de Mélenchon[^boucle]
 
-- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
+[^boucle]: [26:53](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=1613) — "On voit justement le début de la période confuse avant la moïsation. On voit vraiment tout est éparpillé et il n'y a pas de débouché politique populaire. Mélenchon n'existe pas encore."
 - [[Hollande vs Melenchon 2e tour]] — Analyse complète du Graphique 2002 montrant l'éparpillement pré-moïsation, puis projection sur 2027 montrant l'éclatement symétrique à droite
 - [[Faut-il en finir avec le NFP]] — Explication détaillée du terme (métaphore de Moïse) et visualisation par les rubans électoraux 2002-2024
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Visualisation de la moïsation sur le Graphique entre 2017 et 2022 : passage du moment populiste (diagonale) à la stratégie de bloc (horizontal). Démonstration que les candidatures "au-dessus de la mêlée" comme Villepin sont bidon en période de moïsation
@@ -123,3 +128,4 @@ Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale du "casse-noix vs marteau" (novembre 2024)** : la défaite de Kamala sert de révélateur — la moïsation américaine est monolatérale (un seul bloc de rupture, Trump), la moïsation française est bilatérale (LFI + RN). La France a "la plus grosse gauche radicale d'Europe" grâce à cette asymétrie favorable
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Macron comme cas d'école de la droitisation moïsatrice : ses sorties racistes (Mamadou 2023, rabzous 2019) révèlent la pensée réactionnaire que le moment populiste de 2017 masquait
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — La moïsation validée par les sondages (perte d'hégémonie du bloc central anti-impôt) ; formulation du futur paysage en deux blocs : anti-impôt raciste vs pro-impôt non-raciste
+- [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — Extension internationale explicite : "La moïsation, ça ne concerne pas que la France" ; Trudeau comme équivalent Hollande au Canada ; même dynamique aux USA (Harris→Trump)

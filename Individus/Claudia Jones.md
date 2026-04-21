@@ -17,3 +17,4 @@ Citée par Chris comme faisant partie de la tradition du marxisme noir que [[Ced
 
 ## Vidéos où Jones est mentionnée
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — citée parmi les marxistes noirs
+- [[Le MARXISME, un TRUC de BLANC]] — présentée comme figure centrale du communisme américain, femme noire au Parti Communiste des États-Unis, "extrêmement importante" mais "pas assez traduite en français." Sa présence illustre que le mouvement communiste américain avait déjà une forte hégémonie et intégrait les luttes antiracistes dans le cadre marxiste, bien avant les [[Black Panthers]]. [48:09](https://www.youtube.com/watch?v=cB1crSU0r-k&t=2889)

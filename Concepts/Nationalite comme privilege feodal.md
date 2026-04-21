@@ -3,6 +3,7 @@ type: concept
 domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme, travail]
 aliases: [Nationalité comme privilège féodal]
+skill_version: ingest-2026-04-21
 date created: Thursday, April 2nd 2026, 3:19:11 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---

@@ -63,9 +63,21 @@ Dans [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]], le discours de [[
 [^rub_blanchite]: [26:47](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1607) — « c'est n'importe quoi parce que tout ce qu'il dit, il pourrait le dire avec Israël mais il y a pas la foi chrétienne. C'est juste la blanchité, un projet impérialiste qui veut nous vendre. Ses parents ils s'en foutent de la foi chrétienne dans cette histoire. »
 [^rub_colon]: [20:37](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1237) — « À part les Israéliens et les Américains, il y a personne qui a cette vision de se dire "je suis un colon" [...] coloniser c'est faire partie du projet de Dieu. »
 
+## Application au contrat racial islamophobe en France
+
+Dans [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]], la PaduTeam applique le concept à la situation des musulmans de France. Le meurtre d'[[Aboubakar Cisse|Aboubakar Cissé]] dans une mosquée est analysé comme la matérialisation d'un **double contrat** en cours de fabrication : (1) un permis de tuer les musulmans — "vous pouvez mourir à tout instant" ; (2) un permis pour les autres de ne pas s'indigner — "ce n'est pas la peine de vous indigner parce que la société tient comme ça."[^cisse]
+
+Ce contrat racial islamophobe est distinct de, mais structuré par, le processus plus large d'[[Islamophobie]] à deux matrices (extrême droite antisémite + gauche anticléricale bourgeoise) : les matrices idéologiques *fournissent* la légitimation nécessaire au contrat racial — elles convainquent les "inclus" que la violence sur les exclus est normale. Les formulations idéologiques (grand remplacement, laïcité, frérisme) sont le vernis expressible ; le contrat racial en est la structure sous-jacente.
+
+La PaduTeam relie ce mécanisme à la nécessité structurelle du néolibéralisme en crise : "quand vous avez un mode de production incapable de servir tout le monde, il vous faut un ordre social." Le contrat racial islamophobe est ce que le néolibéralisme en crise fabrique pour organiser la hiérarchie sociale — exactement comme "l'ordre racial à la fin des années 30 était une nécessité pour organiser un mode de production incapable de servir tout le monde."[^neo]
+
+[^cisse]: [43:52](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2632) — "Un contrat qui dit 'vous pouvez mourir à tout instant' — et cette dame-là l'exprime bien — et un contrat pour ceux qui ne sont pas visés : 'ce n'est pas la peine de vous indigner parce que la société tient comme ça.'"
+[^neo]: [42:18](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2538) — "Quand vous avez un mode de production incapable de servir tout le monde, il vous faut un ordre social qui n'est pas simplement une répression."
+
 ## Vidéos où le concept est développé
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — le concept est mobilisé en réponse à Bergé défendant "les valeurs d'Israël"
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — *Le Contrat racial* recommandé comme "le livre de philosophie politique sur la race le plus important et le plus matérialiste"
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — la PaduTeam mobilise le concept pour analyser la victoire Trump 2024 : contrat racial activé pour les classes intermédiaires blanches en crise culturelle, théorème arithmétique de la majorité blanche, nécessité du pacte égalitaire comme contre-projet
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — « fait noir négrophobe spécifique » : distinction entre contrat racial anti-Noirs (structurel, originel) et pacte raciste hispanique (fonctionnel, par vague d'immigration)
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — extension à l'échelle impériale : la « foi chrétienne » rubiesque comme vernis sur la blanchité impériale, conscience coloniale comme identité assumée (USA + Israël)
+- [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — application à l'islamophobie française : le contrat racial islamophobe comme double contrat (permis de tuer + permis de ne pas s'indigner), articulé à la nécessité structurelle du néolibéralisme en crise

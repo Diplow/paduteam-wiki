@@ -250,21 +250,22 @@ Slug branche : ingest-batch/paduteam-2025-w15-w16
 ---
 ## Batch 14 — Semaines 2025-W17 à 2025-W18 (21 avr 2025 – 4 mai 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w17-w18
+Fiches créées : [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]], [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]], [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]], [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], [[ZOE ET CHRIS SONT NOSTALGIQUES DE TITO]], [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] + 6 vidéos enrichies, 8 individus (Julia de Funes, Sarah Salman/Saldmann, Tito Josip Broz, Aboubakar Cisse, PPDA, Raoul Peck, Sylvie Tremouille, Daniel Buffier), 5 organisations, 17 concepts créés + 8 enjeux enrichis
 
-- [ ] JULIA DE FUNÈS : LA BOURGEOISE LA + INSUPPORTABLE ? (@Dr_Zoé_YT X Chris)
-- [ ] Les CHEMINOTS PRENNENT EN 0TAGE SARAH SALDMANN : CHRIS et ZOÉ sont HORRIFIÉS !!
-- [ ] MACRON NOUS MENT POUR TUER LA SÉCU ( @Dr_Zoé_YT  X Chris)
-- [ ] MÉLENCHON LÂCHE une MASTERCLASS CONTRE TRUMP au QUÉBEC !! (@pasduhring)
-- [ ] AGRICULTEURS = ESCLAVAGISTES MODERNES ? (analyse MARXISTE avec Chris et @pasduhring)
-- [ ] COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR !! (Chris x Padu x Le Saint Graphique)
-- [ ] GARRIDO, CORBIÈRE et GUEDJ DIABOLISENT MÉLENCHON (Zoé x Chris)
-- [ ] CAUET : ENCORE UNE VICTIME DE LA CANCEL CULTURE  (@Dr_Zoé_YT X @pasduhring)
-- [ ] AFFAIRE QUATENNENS : L'ERREUR DE MÉLENCHON (@Dr_Zoé_YT X Chris)
-- [ ] ZOÉ et CHRIS sont NOSTALGIQUES de TITO ?!
-- [ ] M0RT d'ABOUBAKAR CISSÉ : MÉLENCHON EN LARMES !! (@pasduhring x Chris)
-- [ ] Le MARXISME, un TRUC de BLANC ? (@pasduhring X Chris de Positions Revue)
+- [x] JULIA DE FUNÈS : LA BOURGEOISE LA + INSUPPORTABLE ? (@Dr_Zoé_YT X Chris)
+- [x] Les CHEMINOTS PRENNENT EN 0TAGE SARAH SALDMANN : CHRIS et ZOÉ sont HORRIFIÉS !!
+- [x] MACRON NOUS MENT POUR TUER LA SÉCU ( @Dr_Zoé_YT  X Chris)
+- [x] MÉLENCHON LÂCHE une MASTERCLASS CONTRE TRUMP au QUÉBEC !! (@pasduhring)
+- [x] AGRICULTEURS = ESCLAVAGISTES MODERNES ? (analyse MARXISTE avec Chris et @pasduhring)
+- [x] COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR !! (Chris x Padu x Le Saint Graphique)
+- [x] GARRIDO, CORBIÈRE et GUEDJ DIABOLISENT MÉLENCHON (Zoé x Chris)
+- [x] CAUET : ENCORE UNE VICTIME DE LA CANCEL CULTURE  (@Dr_Zoé_YT X @pasduhring)
+- [x] AFFAIRE QUATENNENS : L'ERREUR DE MÉLENCHON (@Dr_Zoé_YT X Chris)
+- [x] ZOÉ et CHRIS sont NOSTALGIQUES de TITO ?!
+- [x] M0RT d'ABOUBAKAR CISSÉ : MÉLENCHON EN LARMES !! (@pasduhring x Chris)
+- [x] Le MARXISME, un TRUC de BLANC ? (@pasduhring X Chris de Positions Revue)
 
 ---
 ## Batch 15 — Semaines 2025-W19 à 2025-W20 (5 mai 2025 – 18 mai 2025)

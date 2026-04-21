@@ -81,7 +81,15 @@ Analyse détaillée PaduTeam sur la stratégie de Ruffin pour 2027 :
 
 **Absence de vision du monde** : Contrairement à Glucksmann qui assume "pas la même vision du monde", Ruffin fait du "globli boulgade" (rassembler, machin) sans jamais poser de clivage. "Quand tu veux pas cliver, c'est que tu refuses la lutte." "Tu n'as qu'une vision de ta petite place politique."
 
+## Ruffin en 2027 : la baudruche Chevènement
+
+Dans la projection 2027, Ruffin suit la trajectoire de Chevènement 2002 et de Zemmour 2022 : donné à 16-17 % dans les sondages au pic, il dégringole faute de programme et de vision. Résultat : 6,18 %. "Il a aucune consistance." La PaduTeam : "François Ruffin, c'est un type destiné à faire des films avec Sarah Saldmann."[^ruffin2027] Ruffin finit dans la case "clowns de la politique" aux côtés de Villepin, avec des positions sur le graphique qui les isolent loin de tout espace populaire[^clowns].
+
+[^ruffin2027]: [10:56](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=656) — "Il finit à 6,18 %. Enfin c'est ridicule mais c'est à l'image de ce qu'il est."
+[^clowns]: [35:40](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2140) — "On a un François Ruffin là qui est avec Villepin. [...] c'est les clowns de la politique."
+
 ## Vidéos où Ruffin est analysé
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — "Baudruche qui s'est dégonflé" : donné à 16-17 % au pic, finit à 6,18 %. Même trajectoire que Chevènement 2002 et Zemmour 2022. "Destiné à faire des films avec Sarah Saldmann."
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le roi des noisettes" et premier candidat déclaré à la primaire noisette. Tweet minimum "au boulot ! ensemble pour ouvrir un chemin d'espoir entre l'extrême droite et l'extrême argent" — jugé formulaire et sans programme. Il se baladait en cravate pour se présidentialiser, il est revenu en jean basket. La PaduTeam : "ça c'est le truc à 5%." Contexte novembre 2025, avant le lancement officiel de Debout.
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Cité brièvement comme candidat médiatiquement adoubé face à Mélenchon
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — "Pointe avancée du bloc bourgeois 2.0", conditions pour gouverner avec Bertrand, dévoiement du CNR
@@ -89,3 +97,4 @@ Analyse détaillée PaduTeam sur la stratégie de Ruffin pour 2027 :
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Roleplay prolétaire ("c'est nous qu'on va gagner"), "extrême argent" comme esquive de classe, prédiction : gagne la primaire FP2027 → Faure mort politiquement
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Démonstration complète de l'imposture : circo toujours à gauche, stratégie double face (Mélenchon au 1er/Bayrou au 2e), gaz-light de l'extrême droite, absence de vision du monde, classes populaires jamais mobilisées
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Ruffin se proclame « Mamdani français » (vidéo « Bravo Zoran [...] ça amène une bulle d'air dans l'empire américain trumpiste ») ; la PaduTeam démonte en rappelant qu'il a fait « foot » sur les manifs contre l'islamophobie, a manifesté avec le RN contre la résistance palestinienne, et a lâché la gauche de l'après sur Gaza. Formulation PaduTeam : « tu es un imposteur. » Mamdani a, lui, « tenu les deux jambes » du matériel et du sociétal.
+- [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — "Traître à la classe" : Ruffin a mis [[Sarah Saldmann]] en contact avec la réalité du travail des aides à domicile, lui fournissant les arguments pour opposer les soignantes aux cheminots grévistes. "Tu es un traître à la classe en ayant fait ça."

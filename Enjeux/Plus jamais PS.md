@@ -126,7 +126,15 @@ Position stratégique PaduTeam sur la récupération Mamdani par Faure : **c'est
 
 [^pjps_barnier]: [12:30](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=750) — "notamment le PS notamment le PS euh Valls euh les Hollandesois et tout ils ont pas arrêté de dire qu'ils étaient prêts à faire des compromis et tout [...] et en fait ils n'ont pas fait de compromis"
 
+## La moïsation internationale : le PS comme fabrique du fascisme
+
+[[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] fournit la formulation la plus internationale de la thèse. Mélenchon sur Radio Canada : "partout en Europe, derrière les sociaux-démocrates, c'est des fascistes. Si vous avez Trump, c'est parce que vous avez eu Kamala Harris." La PaduTeam prolonge : si tu as Justin Trudeau, tu finiras avec l'extrême droite. La [[Moisation]] n'est pas un phénomène français — c'est une loi universelle de la gauche réformiste. Cette thèse, formulée devant des journalistes québécois non-hostiles, confirme que la ligne radicale est exportable et naturellement hégémonique quand elle n'est pas étouffée par la diabolisation médiatique.
+
+Le rappel des chiffres Guedj/PS dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] constitue la démonstration arithmétique de la trahison structurelle : "nous les sortons du néant où ils étaient à 1,67%, à peine est-on arrivé, ils refusent de voter les motions de censure." Ce passage est qualifié par la PaduTeam de "trop bien, il les a cou" — Mélenchon retourne l'accusation de déstabilisation en citant froidement les faits. La trahison n'est pas un récit — c'est un chiffre.
+
 ## Vidéos clés (suite — corpus USA)
+- [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Guedj comme cas d'école de la trahison structurelle : membre de PRS (tendance Mélenchon), refus de rejoindre le PG en 2008, critique habillée en griefs personnels via France 2 ; "ceux qui sont restés au PS, ça a donné Hollande, Valls" ; les 1,67% et refus des motions de censure résument arithmétiquement la trahison
+- [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — formulation internationale : "partout en Europe derrière les sociaux-démocrates, c'est des fascistes" ; si vous avez Trump c'est parce que vous avez eu Kamala Harris ; la moïsation concerne aussi le Canada, l'Italie, l'Allemagne
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Thèse Kamala=Jospin 2002=Glucksmann ; gauche de droite perd mécaniquement face à droite de droite ; mécanisme du pinkwashing sans radicalité de classe
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cuomo « Manuel Valls de New York » ; avertissement sur la discipline primaire (Glucksmann ne se rangera pas) ; victoire PS type démontée
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Faure démontée phrase par phrase ; programme DSA objectivement plus à gauche que NFP sur 10 postes ; appel à LFI de revendiquer plus à gauche que le NFP ; Ruffin « imposteur »

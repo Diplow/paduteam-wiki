@@ -79,6 +79,22 @@ L'affaire [[Helydiafugu]] illustre un mécanisme spécifique au milieu internet 
 
 Le public — jeune, masculin, jeux vidéo — amplifie la vidéo de Fugu et cible Helydia. Internet devient un amplificateur de la violence conjugale. Le "camp" se forme avant que les faits soient établis, sur la base de la notoriété et du format narratif le plus engageant.
 
+## La "cancel culture" comme mythe — le cas Cauet
+
+[[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]] démontre que la cancel culture n'existe pas (ou presque) en France. [[Cauet]] — mis en examen pour viol et agressions sexuelles sur 4 femmes dont 3 mineures — retrouve un poste en matinale sur Europe 2 (groupe [[Arnaud Lagardere]]) malgré sa mise en examen. La "vraie" cancel culture — mort sociale, incapacité à retrouver du travail — frappe les hommes des milieux populaires condamnés pour des affaires de stups, pas les animateurs de matinale.
+
+Le "proverbe du cheval" : une accusatrice peut-être, deux on commence à haïr, dix femmes sur 20 ans qui ne se connaissent pas avec des faits prescrits en plus — "il est peut-être temps de t'acheter une selle." La présomption d'innocence ne signifie pas une crédulité indéfinie face à un pattern systématique.
+
+La réhabilitation par le milieu médiatique est analysée comme inversion des victimes : [[Cyril Hanouna]] fait témoigner la compagne de Cauet sur TPMP ("c'est pire que d'avoir perdu ses parents") — copie conforme du défilé des proches des accusés de Mazan. Les faits prescrits ne valent pas zéro : dans certains procès, ils peuvent servir de témoignage complémentaire.
+
+Le non-punitivisme comme position féministe cohérente : envoyer Cauet 20 ans en prison ne dissuade pas les futurs violeurs — le viol est passible de 20 ans depuis des décennies. La question n'est pas la vengeance mais : "comment ça se fait que ça arrive ? Comment on fait pour que ça n'arrive plus ?" Ce questionnement est articulé au [[Pari de la liberte]] : le déterminisme structurel ("c'est la structure, les individus ne peuvent rien") mène à l'impuissance militante ; il faut parier sur la capacité des individus à changer pour transformer les choses concrètement.
+
+## Le cas Quatennens : VSS à gauche et matérialité de la parole
+
+[[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] formule une thèse clé sur la parole comme acte matériel : l'interview BFM de [[Adrien Quatennens]] n'est pas "juste" problématique — elle est "gravissime à l'échelle politique et sociétale." Passer plus d'une heure à légitimer le contrôle économique dans le couple (garder les clés de l'appartement parce qu'on paye le loyer) devant la France entière légitime "tout le système de tous les autres hommes qui font ça." Des milliers voire des millions d'hommes se sentent autorisés, autant de femmes maintenues dans leur position. "Parfois on comprend mal le matérialisme — on se dit que c'est les chaises et les tables. Non."
+
+Le tweet de Mélenchon ("faute avouée à moitié pardonnée") est qualifié de catastrophique car il met à égalité l'agresseur et sa compagne, gomme l'asymétrie profonde (économique, physique, sociale). Mais la critique est cohérente avec le soutien de 2027 : "je pense que c'est le meilleur candidat pour 2027 et s'il se présente je ferai sa campagne." On ne lâche pas sur les VSS même avec ses propres camarades, on ne renonce pas non plus à la stratégie électorale.
+
 ## Le pattern des puissants : asymétrie + impunité + récidive
 
 Cauet (animateur radio), PPDA, Depardieu, Nicolas Hulot — la PaduTeam observe un pattern constant :
@@ -195,13 +211,13 @@ Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collect
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]
 - [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]] — complicité masculine active (Boys Club) ; asymétrie linguistique comme espace de prédation ; impunité par position dans les réseaux ; défense "fiction/personnage" comme bouclier systémique récurrent
-- [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]]
+- [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]] — démolition du concept de cancel culture en France ; pattern de l'agresseur sériel institutionnel (Cauet, PPDA, Hulot) ; non-punitivisme comme position féministe cohérente ; pari de la liberté contre le déterminisme paralysant
 - [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]]
 - [[LAMENACEOFFICIAL CONDAMNE POUR VIOLENCES CONJUGALES]]
 - [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]]
 - [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]]
 - [[BAPTISTE PAS NET VIRE DES JO POUR AVOIR POINTE DES FILLES DE 12 ANS]]
-- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — VSS à gauche : gestion catastrophique par Quatennens (BFM) et Mélenchon (tweet)
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — VSS à gauche : gestion catastrophique par Quatennens (BFM — légitimation du contrôle économique dans le couple) et Mélenchon (tweet — "faute avouée à moitié pardonnée") ; la parole comme acte matériel qui légitime des millions d'hommes ; conditions de la réhabilitation (discours structurel + dépositionnement) ; féminisme comme lutte permanente avec ses propres camarades
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — VSS structurelles dans les orgas militantes : sélection perverse des cadres, management toxique
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — l'économie de la visibilité recycle la violence en entertainment ; réification marchande documentée en direct ; récit de viol de Carla banalisé par Hitchens
 - [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]] — la fortune comme bâillon juridique (600M€) ; la puissance économique comme arme de censure des critiques ; la domination de classe comme prérequis de la domination de genre en prime time TF1

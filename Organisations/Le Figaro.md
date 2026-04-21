@@ -19,3 +19,4 @@ Historiquement journal de droite, il s'extrême-droitise activement. La PaduTeam
 ## Vidéos où l'organisation est mentionnée
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]]
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
+- [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]] — tribune accordée à [[Julia de Funes]] pour théoriser les arrêts de travail

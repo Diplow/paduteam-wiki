@@ -22,6 +22,11 @@ Avec [[Raquel Garrido]] et [[Daniel Simonet]], représente la "2e génération" 
 
 Cette génération a "toujours voulu à un moment donné prendre la place de Mélenchon pour des raisons purement matérielles." Les clivages de ligne, de place et générationnels ont fini par éclater en 2024 quand la FI a distribué les postes de sa coordination à la 3e génération. Co-fondateur de [[L'Apres]], désormais exilé dans la "maison Renéga."
 
+## Rôle dans le complément d'enquête France 2 (2026)
+
+Dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], Corbière apparaît dans le complément d'enquête France 2 sur Mélenchon. La PaduTeam l'inscrit dans le même schéma que Garrido et Guedj : des figures de l'orbite historique Mélenchon qui témoignent contre lui dans les médias dominants en se présentant comme défenseurs de l'unité. La PaduTeam lit ce témoignage dans la continuité directe de la tactique L'Après décrite dans les Seigneurs des Noisettes : alimenter la diabolisation médiatique en apparaissant comme la "gauche responsable" face à un Mélenchon incontrôlable — exactement ce que la PaduTeam avait prédit comme étape 1 du plan 2027.
+
 ## Vidéos où Corbière est mentionné
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Trajectoire générationnelle, clivages dans le PG originel, co-fondation de L'Après
+- [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Témoignage contre Mélenchon dans le complément d'enquête France 2 ; inscrit dans la séquence diabolisation prévue par le Graphique

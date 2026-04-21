@@ -58,6 +58,10 @@ Scénarios 2027 post-municipales : "Vous pouvez avoir un deuxième tour Philippe
 Dans [[LORDON MELENCHON peut GAGNER en 2027]], La PaduTeam réagit à une interview de [[Frederic Lordon]] sur [[Blast]] où il déclare — sans nommer le Graphique — que "ça ne se présente pas si mal" pour la FI en 2027 "strictement sur les données électorales". Il identifie les mêmes mécanismes : éclatement du paysage institutionnel, la FI comme "seule incarnation d'une différence", la diabolisation médiatique comme facteur amplifiant. Pour la PaduTeam, c'est une confirmation que leur analyse n'est pas idiosyncratique — "l'esprit du temps converge".
 
 ## Vidéos où le concept est analysé
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — La version initiale de la prophétie (second tour Mélenchon/Le Pen) : Mélenchon à 16,86 %, Le Pen à 19,8 %, victoire 58,2 % / 41,8 %. Inclut l'analyse Graphique de 2002, 2022 et 2027. Différente de la "prophétie du 2002 inversé complet" (variante Hollande) — c'est ici le scénario "standard" où c'est bien Mélenchon/Le Pen au second tour[^initial]
+
+[^initial]: [43:01](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2581) — "C'est Jean-Luc Mélenchon qui a fait une remontée spectaculaire avec 58,2 % des voix contre 41,8 % pour Marine Le Pen."
+
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Le sondage IFOP 2026 confirme la dispersion de 2012 (avant moïsation), Hollande apparaît à 8% dès son premier sondage sans avoir annoncé sa candidature
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin Deranque confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon

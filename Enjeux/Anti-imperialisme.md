@@ -225,6 +225,24 @@ La PaduTeam formule la tâche symétrique à l'abandon rubiesque de l'humanité 
 - [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Tournant Trump, deux scénarios (finlandisation/partition), analyse géopolitique complète PaduTeam
 - [[ACCORD TRUMP VON DER LEYEN SOUMET L UE AUX USA]] — La vassalisation énergétique de l'Europe comme dénouement de la guerre ukrainienne
 
+## La yugostalgie comme vaccin anti-impérialiste : le cas yougoslave
+
+[[ZOE ET CHRIS SONT NOSTALGIQUES DE TITO]] apporte une dimension historique à l'anti-impérialisme en réhabilitant l'expérience yougoslave non comme nostalgie passéiste mais comme "vaccin contre la barbarie capitaliste." La destruction de la Yougoslavie par la libéralisation post-1989 — 8% de perte de population en Croatie, économies tournées vers le tourisme saisonnier, campagnes en déliquescence — est présentée comme un exemple direct de la violence impérialiste néolibérale à l'œuvre dans les périphéries.
+
+La [[République fédérative socialiste de Yougoslavie|RFSY]] de [[Tito Josip Broz|Tito]] est valorisée pour sa forme autogestionnaire : pas une planification étatique centralisée mais une production fondée sur l'autogestion ouvrière et une structure fédérative respectant les autonomies nationales. Tito "dit non à Staline" — résistance à la vassalisation, libération sans intervention extérieure. Cette expérience a inspiré directement la gauche française des années 60-70 : le [[Parti Socialiste Unifie|PSU]] et la [[CFDT]] se construisaient sur ce modèle autogestionnaire.
+
+Le signe politique de la yugostalgie : 60% des jeunes Slovènes — "le pays le plus occidentalisé des Balkans" — seraient favorables à un retour à la Yougoslavie. Explication matérialiste : dans la phase ascendante du néolibéralisme, le capitalisme pouvait paraître plus productif que le socialisme. Aujourd'hui qu'il entre en crise, les courbes s'inversent. La nostalgie du socialisme réel n'est pas de l'archéologie — c'est le signal d'une crise de légitimité du capitalisme dans ses anciennes périphéries.
+
+## L'islamophobie comme produit structurel de l'impérialisme en crise
+
+[[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] articule l'islamophobie à la logique impérialiste-coloniale. Thèse centrale : "le néolibéralisme en crise ne peut pas résoudre ses crises pénuriques sans un nouvel ordre symbolique et une hiérarchie sociale entre les gens." L'islamophobie est le mécanisme par lequel il fabrique cette hiérarchie — les musulmans deviennent "sous-citoyens, sous-nationaux." Référence à [[Charles Mills]] : le [[Contrat racial]] est un double contrat — un permis de tuer certains, et un permis de ne pas s'en indigner pour les autres.
+
+Les deux matrices de l'islamophobie convergent en France : (a) la matrice d'extrême droite héritée de l'antisémitisme ("peuple dans le peuple qui fait dégénérer la nation", Drumont/Maurras appliqués aux musulmans) ; (b) la matrice anticléricale de la gauche bourgeoise présentée comme héritage des Lumières mais qui est en réalité une idéologie de la bourgeoisie semi-progressiste en crise à la fin du XIXe. La laïcité coloniale illustre la contradiction : la loi de 1905 n'a jamais été appliquée aux "indigènes" des colonies — pour ces populations, contrôler les imams était un outil de domination impériale. "Universalisme abstrait et suprémacisme concret."
+
+La loi de 2004 sur le voile est qualifiée d'"inadmissible" : "on dit que des jeunes filles sont libres d'avoir des rapports sexuels à 15 ans avec Matznev mais qu'elles ne peuvent pas décider de ce qu'elles portent sur leur tête." L'islamophobie consiste à se faire théologien — traiter différemment la même pratique (être non-décapotée) selon son substrat culturel.
+
+Le courage politique de Mélenchon est souligné : aller à une manifestation antiislamophobie "te coûte cher politiquement" en 2025. Lui est "le seul responsable politique à nommer franchement l'islamophobie" — ce qui renforce son positionnement anti-impérialiste cohérent contre une gauche (Ruffin, Roussel) qui préfère "acte antimusulman" pour éviter l'engagement réel.
+
 ## La Syrie : le vide comme opportunité impérialiste
 
 La chute d'Assad (décembre 2024) illustre un mécanisme impérialiste spécifique : l'effondrement d'un régime crée un vide que les puissances régionales s'empressent de combler selon leurs intérêts propres. La PaduTeam, avec [[Cem Yoldas]] ([[La Jeune Garde]]), cartographie la triple expansion qui suit : [[Hayat Tahrir al-Sham]] (scission d'Al-Nosra/Al-Qaïda) au centre, l'[[Armee Nationale Syrienne]] (le "Wagner turc", composé d'anciens soldats de Daesh recyclés) soutenue par Ankara au nord pour écraser les Kurdes, Israël qui avance sur le Golan au sud-ouest. La Syrie morcelée devient "plus que jamais soumise à l'impérialisme."
@@ -234,6 +252,8 @@ La position PaduTeam refuse deux pièges symétriques : l'anti-assadisme naïf (
 Le cas israélien confirme la thèse : "Israël c'est un État qui se sent en sécurité seulement lorsque c'est le chaos pour ses voisins." Il a soutenu HTS par satellite pour affaiblir l'armée syrienne, puis profite de l'instabilité pour étendre sa zone tampon sur le Golan — n'ayant pas réussi à avancer de plus de 10 km au Liban face au Hezbollah.
 
 ## Vidéos clés
+- [[ZOE ET CHRIS SONT NOSTALGIQUES DE TITO]] — yugostalgie comme vaccin anti-impérialiste ; Tito qui dit non à Staline comme résistance à la vassalisation ; socialisme autogestionnaire yougoslave vs planification étatique centralisée ; violence de la libéralisation post-89 dans les périphéries ; inspiration pour le PSU et la CFDT française
+- [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — islamophobie comme nécessité structurelle du néolibéralisme en crise ; deux matrices convergentes (extrême droite + anticléricalisme bourgeois) ; laïcité coloniale comme universalisme abstrait et suprémacisme concret ; contrat racial (Charles Mills) ; loi 2004 sur le voile qualifiée d'inadmissible
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — triple expansion post-Assad (HTS, ANS/Turquie, Israël/Golan) ; le vide comme opportunité impérialiste ; refus du campisme aveugle et de l'anti-assadisme naïf ; les FDS/Kurdes comme seules forces progressistes abandonnées ; "Israël se sent en sécurité seulement dans le chaos de ses voisins"
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Analyse du procès Maduro, de la guerre psychologique impérialiste, et de la retraite tactique bolivarienne
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Première réaction à l'agression : Doctrine Monroe 2.0, pétrole, comparaison Iran/Ukraine, Glucksmann "agent américain"

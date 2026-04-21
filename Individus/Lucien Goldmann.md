@@ -29,12 +29,19 @@ Goldmann a travaillé avec [[Jean Piaget]] à Genève — il était son secréta
 
 Son livre *Sciences humaines et philosophie* (sous-titré "Pour un structuralisme génétique") est présenté dans ce transcript comme le livre "le plus important de l'épistémologie marxiste" — "autrement plus progressiste et autrement plus matérialiste" que les ouvrages d'épistémologie des années 2000. Bourdieu, que Lordon cite volontiers, est un lecteur de Goldmann mais n'atteint pas "sa hauteur" — il emprunte ses catégories sans la rigueur dialectique.
 
+## *Le Dieu caché* : la pensée tragique de la noblesse de robe
+Dans [[Le MARXISME, un TRUC de BLANC]], la PaduTeam développe longuement l'analyse de *Le Dieu caché* pour construire la notion de [[Pensee tragique]] et l'appliquer à l'afropessimisme, la négritude et le romantisme allemand. La noblesse de robe (noblesse d'Europe / aristocratie de robe) a les aspirations de transformation de la bourgeoisie mais ne peut pas les réaliser coincée dans l'ancien ordre. Elle sublime ces aspirations dans le jansénisme : un Dieu parfait mais "caché" — inaccessible. Pascal, Racine, Corneille en sont les expressions. Ces gens "finiront par tous se faire guillotiner" parce qu'ils sont donneurs de leçon, critiques du monde, mais incapables de faire la révolution que la bourgeoisie fera à leur place. [1:13:37](https://www.youtube.com/watch?v=cB1crSU0r-k&t=4417)
+
 ## Vidéos où Goldmann est cité
+- [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — cité pour la "fonctionnalité" : toute action humaine est significative par rapport à une nécessité (exemple : un soldat israélien tirant sur un Palestinien remplit la fonction de maintenir les structures coloniales — son comportement n'est pas pulsionnel mais fonctionnel)[^agri_gold]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Cité par Chris comme alternative dialectique à Clouscar
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Cité pour "les structures ne descendent pas dans la rue"
 - [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — *Sciences humaines et philosophie* présenté comme le livre d'épistémologie marxiste de référence ; sa relation avec Piaget rappelée (secrétaire à Genève) ; Bourdieu critiqué pour avoir emprunté ses catégories sans le suivre vraiment
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur le structuralisme génétique
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Long extrait de Goldmann expliquant Marx contre Proudhon sur la conscience de la petite bourgeoisie ; *Le Dieu caché* cité pour la noblesse comme continuum
+- [[Le MARXISME, un TRUC de BLANC]] — *Le Dieu caché* analysé en détail pour théoriser la pensée tragique de la noblesse de robe, étendue ensuite à l'afropessimisme, la négritude et le romantisme allemand
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Cité aux côtés de [[Georg Lukacs|Lukács]] pour l'analyse des idéologies comme réponses à des problèmes concrets des sujets collectifs (jankovichisme, pierre-rabisme)
 - [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — "Les structures ne descendent pas dans la rue" mobilisé pour démontrer que changer les structures, c'est changer les individus qui les constituent ; formule tagée en 1968 dans les facs
+
+[^agri_gold]: [25:20](https://www.youtube.com/watch?v=sGjOpM5NjWM&t=1520) — "Goldman dit par exemple : si votre nécessité c'est vous êtes sous une table et que vous devez taper à coup de marteau sur le haut de la table, vous allez devoir vous relever [...] votre comportement de devoir vous relever est signifiant par rapport à la fonctionnalité de devoir taper sur la table."

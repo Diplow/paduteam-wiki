@@ -35,8 +35,13 @@ Sa tactique : trouver un lien entre n'importe quel événement et Mélenchon. "S
 ## Face à Louis Sarkozy sur LCI (2025)
 Chroniqueuse dans *Face à Face* sur [[LCI]] face à [[Louis Sarkozy]] à partir de mars 2025. La PaduTeam commente : "Là tu as l'apogée de la farce. Tu fais vraiment envie d'entendre les pires conneries." Raquel a "l'habitude de taper sur des baudruches."
 
+## Rôle dans le complément d'enquête France 2 (2026)
+
+Dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], la PaduTeam analyse le complément d'enquête France 2 sur Mélenchon dans lequel Garrido (et Corbière) témoignent contre leur ancien mentor. La PaduTeam ne cite pas explicitement leurs témoignages dans la vidéo mais les positionne dans la même séquence que Guedj : des figures issues de l'orbite Mélenchon qui utilisent le format journalistique pour instiller l'idée qu'il est "le problème" — tout en se présentant comme les défenseurs de l'unité. La PaduTeam signale également dans ce contexte que Garrido faisait partie, avec Daniel Simonet, des insoumis qui auraient pu être d'accord avec la position pro-vote de l'article 7 lors des retraites en 2023 — une minorité au sein du groupe FI utilisée par Guedj pour prétendre à tort qu'il y avait "un accord" côté insoumis.
+
 ## Vidéos où Garrido est mentionnée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Fondatrice de L'Après, fuite vers Libération, retournement paradoxal vs sa critique d'Autain en 2017
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Brutus de Mélenchon, instrumentalise l'affaire Quentin Deranque pour attaquer la FI
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Face à Louis Sarkozy sur LCI dans *Face à Face*
+- [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Citée dans le contexte du complément d'enquête France 2 ; positionnée comme minorité pro-article-7 au sein du groupe FI que Guedj instrumentalisait

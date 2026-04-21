@@ -21,6 +21,7 @@ Référence bibliographique régulièrement citée par la PaduTeam. Son ouvrage 
 - *Entre bourgeoisie et prolétariat : l'encadrement capitaliste* — théorie des cadres comme catégorie spécifique
 - *La Logique méconnue du Capital* — introduction au *Capital* de [[Karl Marx]] que la PaduTeam considère comme "la meilleure intro" disponible. Petit livre (~100 pages) qui donne les clés de compréhension du Capital, notamment le [[Passage de l'abstrait au concret]].
 - *La reproduction du capital* (2 tomes) — ouvrage « définitif » selon la PaduTeam sur les facteurs exogènes qui conditionnent la reproduction du mode de production capitaliste. Point d'appui théorique central de l'analyse PaduTeam du discours Rubio Munich (février 2026).
+- *Le premier âge du capitalisme* — 4000 pages (dont 600 d'introduction intitulée *La reproduction du capital*) sur l'accumulation primitive et les origines du capitalisme colonial. Part d'un constat : Marx a peu fouillé l'accumulation primitive — Bihr fait 4000 pages dessus. Permet de dépasser la question "l'œuf ou la poule" entre race et mode de production : "il y a une bourgeoisie coloniale qui a besoin des deux en même temps, qui survit avec l'un et l'autre." [32:24](https://www.youtube.com/watch?v=cB1crSU0r-k&t=1944)
 
 ## Bihr pour lire Rubio — reproduction du capital et condition d'abolition
 
@@ -40,6 +41,7 @@ D'où la « frayeur anticommuniste » structurelle de Rubio et consorts : ils sa
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Cité parmi les références bibliographiques du Graphique
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — *La Logique méconnue du Capital* recommandé comme meilleure intro au Capital
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — *La reproduction du capital* mobilisé pour formuler la thèse dialectique : les conditions de reproduction du capital sont aussi les conditions de son abolition
+- [[Le MARXISME, un TRUC de BLANC]] — *Le premier âge du capitalisme* mobilisé pour trancher la question race/mode de production : la bourgeoisie coloniale porte les deux simultanément
 
 [^bihr_repro]: [12:24](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=744) — « un des meilleurs livres là-dessus et je pense le plus définitif [...] La reproduction du capital c'est des facteurs exogènes capables de reproduire le capital. Et Alain Bihr [...] a écrit un livre en deux tomes qui s'appelle La reproduction du capital. »
 [^bihr_aboli]: [13:25](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=805) — « Bihr démontre ça, qu'en fait le capital ne peut pas se reproduire tout seul [...] ces conditions de reproduction du capital sont aussi de manière dialectique des conditions de son abolition. Parce que si on peut faire en sorte de redynamiser le capital par la puissance publique, ça veut dire que peut-être par la puissance publique, on est capable d'en sortir. »

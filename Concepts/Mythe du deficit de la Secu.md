@@ -21,11 +21,13 @@ Le "déficit de la Sécurité Sociale" présenté comme une réalité alarmante 
 Chaque euro d'exonération de cotisation patronale accordée aux grandes entreprises creuse le "déficit". Ces exonérations représentent **des dizaines et des dizaines de milliards** par an — soit plusieurs fois le déficit annoncé. Le gouvernement crée lui-même la pénurie qu'il invoque pour justifier les coupes.[^2]
 
 Illustration numérique :
-- Déficit annoncé de la branche maladie : **15-16 milliards**
+- Déficit annoncé de la branche maladie : **15,3 milliards** (4,5 milliards de plus qu'en 2023)
 - Exonérations de cotisations patronales : **bien au-delà, de quoi combler 4 à 5 fois le déficit**
 - Fraude fiscale : **80 à 100 milliards/an** (détectée : seulement 13 milliards)
 - Fraude patronale aux cotisations sociales : **6 à 8 milliards/an**
 - Fraude aux prestations CAF : **2 milliards/an** — la seule que les macronistes veulent traquer
+
+Le gradient fraude estimée/fraude détectée révèle les priorités réelles : fraude fiscale (×8-10), fraude cotisation patronale (×8-10), fraude CAF (×2). La fraude CAF est déjà la mieux contrôlée — c'est pourtant la seule évoquée dans les médias.
 
 ## Pourquoi le déficit sert leur agenda
 
@@ -46,6 +48,11 @@ La Sécu pose un problème fondamental au capitalisme : elle est un espace de mu
 - Supprimer les exonérations patronales abusives
 - Rétablir l'ISF
 - Passer au [[100 pour cent Securite Sociale|100% Sécu]] : économie immédiate de 5,4-5,6 milliards en supprimant les frais de gestion des complémentaires privées
+- Revenir à une Sécu gérée par les cotisants, territorialisée, ancrée dans les besoins réels
+
+## La contre-révolution capitaliste depuis 1967
+
+Le mythe du déficit n'est pas une invention récente — c'est la reformulation contemporaine d'une guerre permanente. En 1967, les ordonnances De Gaulle ont séparé les caisses et retiré la gestion aux cotisants, première offensive du patronat contre les fondements de 1945. Ce n'est pas un gaullisme "social" — c'est le patronat qui reprend la main après avoir été contraint par le rapport de forces de la Libération. "Ce mouvement néolibéral ne date pas d'il y a 10 ans, de Macron, d'il y a 30 ans. C'est le mouvement réel de contre-révolution capitaliste."[^5]
 
 ## Vidéos clés
 
@@ -58,3 +65,4 @@ La Sécu pose un problème fondamental au capitalisme : elle est un espace de mu
 [^2]: [6:16](https://www.youtube.com/watch?v=jtDb2meKMn8&t=376) — "il y a des dizaines et des dizaines et des dizaines de milliards d'euros d'exonération de cotisation patronale qui bénéficie à des grandes entreprises qui suffirait largement à combler quatre à cinq fois le déficit"
 [^3]: [8:52](https://www.youtube.com/watch?v=jtDb2meKMn8&t=532) — "le néolibéralisme va capter... l'anti-riche pour remettre en question le système universel de la sécurité sociale"
 [^4]: [22:14](https://www.youtube.com/watch?v=jtDb2meKMn8&t=1334) — "la sécurité sociale est un secteur qui ne fabrique pas d'argent... Le problème c'est que c'est un secteur qui ne fabrique pas d'argent"
+[^5]: [32:08](https://www.youtube.com/watch?v=jtDb2meKMn8&t=1928) — "ce mouvement qu'on voit aujourd'hui néolibéral ne date pas d'il y a 10 ans de Macron d'il y a 30 ans. C'est le mouvement c'est le mouvement réel de contre-révolution capitaliste"

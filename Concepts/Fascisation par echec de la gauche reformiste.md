@@ -30,5 +30,12 @@ La PaduTeam applique ce mécanisme directement à la stratégie noisette : se r�
 
 La PaduTeam considère que "la pire des résignations, c'est de se dire que pour faire masse et renverser l'extrême droite, il faut se recentrer et agglomérer par le centre. Quand vous faites ça, vous perdez tout — et à la fin vous perdez même votre honneur, et ça ne résiste même pas au fascisme."
 
+## Extension internationale du mécanisme
+
+Mélenchon formule la thèse à Radio Canada en termes universels : "Tout en Europe, partout vous avez des sociaux-démocrates, derrière c'est des fascistes." Il applique le même mécanisme à l'Amérique du Nord : "Si vous avez Trump c'est parce que vous avez eu Kamala Harris." Et au Canada : si vous avez Justin Trudeau, vous finirez avec l'extrême droite. La [[Moisation]] rend cette dynamique visible à l'international — la sociale-démocratie est partout en train d'ouvrir l'autoroute à la droite radicale, parce qu'elle déçoit sans jamais remettre en cause le capital.
+
+La formule condensée PaduTeam : "La gauche pourrie sociale-traître va juste finir par faire monter l'extrême droite. Tant que vous vous contenterez de ce genre de gauche qui n'en est pas une, qui est à la remorque de toutes les puissances, et ben vous aurez les mêmes désastres."
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Application directe : la stratégie noisette reproduit celle des "gens des années 30" qui voulaient "se réunir vers le centre pour combattre le fascisme"
+- [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — Extension internationale : Trump via Harris, RN via Hollande/Trudeau ; formulation de la thèse sur Radio Canada

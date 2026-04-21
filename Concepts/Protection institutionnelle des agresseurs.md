@@ -47,8 +47,17 @@ Depardieu agressait les femmes de rang subordonné lors des tournages (maquilleu
 — La réponse ne peut pas être uniquement punitiviste (condamner l'individu et passer à autre chose) : elle doit cibler les structures
 — Bayrou n'est pas "coupable de pédocriminalité" — mais il est responsable politique d'avoir laissé des structures de protection des agresseurs fonctionner sans rien faire
 
+## Le milieu radio-télé comme structure de protection
+
+Le cas [[Cauet]] illustre une variante du mécanisme dans les médias audiovisuels : après le licenciement par Énergie (confirmé en appel pour licenciement non-abusif), [[Arnaud Lagardere]] l'embauche pour la matinale Europe 2 — la case la plus exposée de la radio — malgré une mise en examen pour **quatre** faits (dont 3 sur mineures). La protection n'est pas institutionnelle au sens disciplinaire (personne n'étuffe un dossier) — elle est structurelle : les réseaux entre milliardaires médiatiques permettent la réhabilitation sans passer par aucune instance de contrôle.
+
+[[Cyril Hanouna]] a fait venir la compagne de Cauet sur TPMP pour inverser la victimisation : "c'est pire que d'avoir perdu ses parents." Ce dispositif — plateau complaisant + figure féminine proche qui absorbe la sympathie — reproduit le défilé des proches des accusés de Mazan. Il fabrique de la compassion pour l'agresseur présumé et neutralise l'espace médiatique pour les victimes.
+
+Par ailleurs, la décharge parentale signée pour les émissions d'Énergie (dégagement de toute responsabilité "en cas d'accident de toute nature") constitue un facteur aggravant institutionnel : elle rend plus difficile pour les parents d'un enfant agressé d'engager des poursuites, et fonctionne comme une barrière légale supplémentaire protégeant la structure.
+
 ## Vidéos où le concept est développé
 
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — analyse principale : Bétharram, rapport Sauvé, Bayrou, sport/cinéma
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — contexte ASE, familles d'accueil, vulnérabilité des enfants placés
 - [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]] — showbiz français : complicité masculine documentée, défense "fiction", maintien dans les réseaux malgré 30 ans de casier documenté
+- [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]] — réhabilitation par Lagardère malgré mise en examen, décharge parentale Énergie, TPMP comme plateau complaisant
