@@ -53,3 +53,4 @@ Lagasnerie est critiqué pour sa conception de la société qui ne fait pas de p
 ## Vidéos où Lagasnerie est analysé
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[LAGASNERIE REBELLE GENIAL OU ADOLESCENT BOURGEOIS RONCHON]] — Verdict PaduTeam : adolescent bourgeois. Son traitement de la famille (essentialisation dépolitisante), son rejet de la fraternité (individualisme bourgeois radicalisé), son "matinalisme" comme exemple de dépolitisation. Qualités reconnues : loyauté LFI, polémiste efficace. Mais : idéaliste pur, aveuglement de classe.

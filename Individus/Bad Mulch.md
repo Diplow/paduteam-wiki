@@ -29,5 +29,6 @@ Bad Mulch se serait également présenté à la primaire des noisettes. La PaduT
 
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]]
+- [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Analyse en direct de sa vidéo sur le congrès de L'Après : expulsion par Garrido, défense de Filoche, réflexions sur la formation militante et les rapports de force
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Incident bol de riz à L'Après, candidature à la primaire noisette, sympathie de la PaduTeam
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Mentionné pour son argument "faut pas dire petite bourgeoisie, ça divise le peuple" — démontage de cette position par la PaduTeam

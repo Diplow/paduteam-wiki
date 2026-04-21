@@ -24,7 +24,14 @@ Le rapport de force s'est inversé: la mobilisation pro-palestinienne a explosé
 ## Pensée politique
 Marxiste, théoricien de la [[Centralite de la question palestinienne]], précurseur sur la [[Fascisation par echec de la gauche reformiste|fascisation]] et son lien avec la crise de la classe dominante. Publie régulièrement des textes analysant l'actualité mondiale depuis sa prison, disponibles sur le site de la campagne pour sa libération. Sa pensée a été synthétisée par [[Said Bouamama]] dans le livre *L'affaire George Ibrahim Abdallah* (éditions Le Matin de Novembre).
 
+## Premiers mots après libération (juillet 2025)
+Libéré le 25 juillet 2025, expulsé vers Beyrouth, accueilli en héros. Interviewé par Al Mayadeen, Al Manar, une chaîne libanaise. Déclarations clés : "Israël vit ses derniers instants" (résistance forte parce que non achetée) ; honte des peuples arabes passifs face au génocide (interpellation directe de l'Égypte) ; la libération comme rapport de force pur, pas clémence. La PaduTeam réagit avec Jean-Paul Lolesco (secrétaire UD CGT 59) qui avait manifesté devant la prison la nuit de la libération — lui-même condamné pour apologie du terrorisme après un tract pro-Palestine distribué en octobre 2023.
+
 ## Relations
 - [[Said Bouamama]] — visiteur régulier depuis 15 ans, auteur du livre sur sa pensée
 - [[Union pour la Reconstruction Communiste]] — président d'honneur
-- [[Front Uni des Immigrations et des Quartiers Populaires]] — 
+- [[Front Uni des Immigrations et des Quartiers Populaires]] — membre fondateur
+
+## Vidéos où Abdallah est analysé
+- [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Contexte de la libération, parcours, maintien en prison sous pression US/Israël, retournement du rapport de force post-7 octobre.
+- [[GEORGES IBRAHIM ABDALLAH ISRAEL VIT SES DERNIERS INSTANTS]] — Ses premiers mots après libération : "Israël vit ses derniers instants", honte des peuples arabes, résistance non achetable.

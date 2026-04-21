@@ -35,3 +35,4 @@ Contraste avec [[Fabien Roussel]] qui exploite l'affaire sur BFM en comparant M�
 ## Vidéos où Bompard est analysé
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
 - [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
+- [[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] — Incarne la ligne LFI : voter la censure avec le RN n'est pas une compromission, c'est le but. Contraste avec la mollesse de Faure. La PaduTeam salue la cohérence de sa position face au budget Bayrou 2026.
