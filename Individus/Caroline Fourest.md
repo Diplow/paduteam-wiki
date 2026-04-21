@@ -34,3 +34,4 @@ Journaliste et essayiste française, auteure notamment de "Frère Tariq", figure
 ## Vidéos où Caroline Fourest est analysée
 - [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Analyse détaillée de sa posture sur la flottille
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Mentionnée comme source des infos tronquées sur la "drogue"
+- [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — mentionnée comme référence du discours rincé sur le voile : la position d'Arthaud est jugée structurellement identique au discours fourestien, malgré des intentions différentes

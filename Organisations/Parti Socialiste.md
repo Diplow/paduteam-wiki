@@ -121,8 +121,34 @@ Pour la PaduTeam, c'est "une convention de DRH" : les trois finissent au même e
 [^ps-blocage]: [38:15](https://www.youtube.com/watch?v=wIPv5rAcllI&t=2295) — "je ne soutiens pas les blocages euh ça manifeste comme ça qui empêche les gens d'aller travailler" — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
 [^ps-force]: [31:03](https://www.youtube.com/watch?v=wIPv5rAcllI&t=1863) — "Ils ne vont toujours supporter les gouvernements Macron jusqu'à ce qu'il soit forcés." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
 
+## Le PS comme parti le plus sioniste de France
+
+La PaduTeam formule une thèse tranchée sur la Palestine : "Je ne sais même pas quel parti est plus sioniste que le Parti socialiste en France. Le RN est moins sioniste que le PS." Cette position s'appuie sur une accumulation de faits documentés :
+
+- **Marche du 12 novembre 2023** : le PS participe à une marche "contre l'antisémitisme" dans un cortège avec l'extrême droite et un "parti fondé par des nazis", au moment où LFI est convoqué chez les flics pour des prises de position pro-Palestine. Des figures PS sont "moteurs" de cette marche — qui est en réalité une manœuvre de stigmatisation des militants pro-Palestine.
+- **Qualification terroriste du 7 octobre** : le PS qualifie immédiatement les attaques du 7 octobre de "terrorisme" — ce qui, pour la PaduTeam, a fourni à Israël la couverture morale pour le génocide. "Elle [Ridel] est en train de dire qu'ils ont laissé les mains libres à Israël pour génocider sa population en lui donnant tout ce qu'il lui fallait au niveau moral et idéologique."
+- **Double discours sur le génocide** : [[Chloe Ridel|Ridel]] dit "génocide" sur Backseat (public de gauche) mais dans ses écrits de mars 2024 elle ne parlait que de "risque de génocide". La tribune qu'elle vient de cosigner pour pousser Macron à reconnaître la Palestine ne contient pas le mot "génocide".
+- **Tentative du cercle des amis d'Israël** : au congrès PS de 2025, un texte proposait de créer un "cercle socialiste des amis d'Israël" — deux ans après le début du génocide.
+- **Figures sionistes** : le PS est "bourré de sionistes" — [[Manuel Valls]], [[Jerome Guedj]], [[Carole Delga]], et des anciens qui ont émané du PS.
+
+La PaduTeam : "Je suis désolé, c'est un des partis à l'avant-garde sur le sionisme en France. Je mets au défi de trouver un parti plus sioniste que le PS."
+
+## Congrès de juin 2025
+
+Le congrès PS de mai-juin 2025 donne au premier tour : 42% Faure, 40% Meyer-Rossignol, 18% Vallaud. Vote final prévu le 5 juin, avec Vallaud en faiseur de roi. La ligne Faure proposait des alliances à gauche mais sans LFI — déjà une concession à l'aile droite. La PaduTeam analyse qu'Olivier Faure "a fini par se soumettre à l'aile droite du parti."
+
+## La Taxe Zucman comme arme stratégique anti-LFI (novembre 2025)
+
+La PaduTeam analyse la [[Taxe Zucman]] non comme une mesure sociale isolée mais comme un instrument tactique dans la guerre des gauches. En portant la Taxe Zucman au budget 2025, le PS réussit à :
+1. **Prendre le lead sur l'agenda à gauche** — c'est le PS, pas LFI, qui est "estampillé comme la force qui a proposé" la mesure.
+2. **Mettre LFI en position défensive** — LFI ne peut que soutenir la taxe (trop identifiée à la redistribution pour s'y opposer) tout en pointant que c'est "light." Résultat : LFI débunke au lieu d'agir — "la FI avait l'avantage quand c'était les autres qui essayaient de la débunker."
+3. **Effrayer réellement des milliardaires** — [[Bernard Arnault]], la porte-parole du gouvernement [[Maud Bregeon]], et des économistes libertariens comme [[Eric Larcheveque]] résistent avec virulence à une mesure de 2% — ce qui légitime le PS comme "force de gauche."
+
+La "défaite" du vote (172 pour, 228 contre) est en réalité une victoire de positionnement. Le PS sait que la mesure sera rejetée — ce qui lui permet de dire "regardez, on a proposé, les macronistes et la droite ont refusé." C'est la même logique que le budget PS de Faure présenté à l'Assemblée en septembre : un budget pour exister politiquement, pas pour gouverner.
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
+- [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — Analyse de la Taxe Zucman comme arme anti-LFI : prise de lead sur l'agenda, LFI en position défensive, vote 172/228 comme victoire de positionnement, contexte moïsation internationale ; démontage de [[Eric Larcheveque]] et [[Maud Bregeon]] ; annonce campagne "Plus jamais PS" de La Brèche
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
@@ -131,3 +157,4 @@ Pour la PaduTeam, c'est "une convention de DRH" : les trois finissent au même e
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Plan estival anti-LFI : 577 candidats, inspiration Jospin 96, alliance écolos-PCF sans la FI, refus de censurer Bayrou analysé comme solidarité programmatique implicite
 - [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — Le PS cartographié comme troisième nuance du "bloc bourgeois" : le blocage qui ne bloque pas, même destination finale (les flics) que Retailleau et Wauquiez
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot du lancement de la guerre des gauches : non-censure du gouvernement Lecornu 2 en échange d'une "suspension" cosmétique de la réforme des retraites (décalage de 6 mois à 1 an sur la courbe). La PaduTeam proclame : "Le PS n'est plus un allié, c'est un adversaire." Lancement d'une campagne anti-PS.
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — PS comme parti le plus sioniste de France ; retournement de veste sur Gaza ; congrès juin 2025 ; rôle de Backseat comme plateforme

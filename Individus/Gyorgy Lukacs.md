@@ -19,3 +19,4 @@ Son travail est mobilisé par la PaduTeam via [[Positions Revue]] pour nourrir u
 
 ## Vidéos où Gyorgy Lukacs est mentionné
 - [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]] — cité dans la constellation anti-staliniste avec Goldman, Sève, Gramsci
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — *L'âme et les formes* (1911, pré-marxiste) cité comme modèle d'analyse des formes littéraires comme expressions de visions du monde ; distinction Dostoyevski (le grand roman sans thèse) vs Sartre (le roman à thèse raté)

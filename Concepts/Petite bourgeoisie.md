@@ -55,6 +55,7 @@ La PaduTeam formule dans [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPR
 
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Démonstration systématique : artisan vs salarié à même revenu, impossibilités idéologiques, "vous êtes votre propre bourgeois"
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Bégaudeau analysé comme expression du rapport petit-bourgeois au sensible ; sa préférence pour le roman et le vécu direct comme produit de sa position de classe contemplative
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — L'artisan de BFM TV comme cas d'école de la fausse conscience petite-bourgeoise ; développement du continuum, du capital techno-scolaire, de la petite bourgeoisie stato-notabilière
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — Trois cas d'école en direct (artisan, VTC, expert-comptable) ; Marx sur le socialisme petit-bourgeois ; le chauffeur VTC racisé sans déboucher politique
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE|2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — Explication du terme marxiste "dégénérescence" appliqué à la petite bourgeoisie : classe en voie de disparition tendancielle, repoussée vers le bas-droite du Graphique par la technocratisation, avec capital mais sans manettes de direction

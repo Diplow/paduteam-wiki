@@ -30,6 +30,7 @@ Les personnes qui ont subi le racisme, la déchéance de nationalité, les viole
 Plus fondamentalement, une candidature unique à gauche perd une partie des électeurs LFI si c'est Glucksmann et une partie des électeurs Glucksmann si c'est Mélenchon. Et le premier tour ne se joue plus sur des thèmes de gauche. Si par contre il y a deux candidats à gauche, le débat du premier tour porte sur la retraite à 60 ou 62 ans, les nationalisations, la Palestine — créant une dynamique de second tour.
 
 ## Vidéos où le concept est développé
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Développement du principe avant les municipales 2026 : Hollande 2012 + Mélenchon 2012 = 39% ne veut rien dire, "les gens qui ont voté Hollande en 2012 et Macron en 2017 avaient la même vision du monde". Avertissement prospectif sur l'inutilité d'additionner le futur score PS (ligne droite, Bouamrane) avec le score LFI.
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Développement théorique complet : candidature unique = perte d'une frange + débat du 1er tour sur la droite ; deux candidats à gauche = débat de gauche au 1er tour + meilleur report au 2e tour
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toulouse (5 000 voix manquantes), Tulle (perd avec LFI), Paris (Grégoire gagne sans LFI), Nantes (Roland gagne à peine avec LFI), Marseille (De Logu se désiste). Cas d'école multiples du même principe.

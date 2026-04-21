@@ -113,7 +113,7 @@ Inclure uniquement domaine, thèmes et enjeux (pas format ni statut). Ces hashta
 3 axes structurent le tagging :
 
 1. **domaine** — champ d'analyse (politique-intérieure, géopolitique, économie, théorie, société)
-2. **thèmes** — sujets spécifiques récurrents. Vocabulaire contrôlé, extensible : `élections`, `anti-impérialisme`, `Palestine`, `Venezuela`, `féminisme`, `racisme-antiracisme`, `ruralité`, `médias-propagande`, `guerre-des-gauches`, `le-Graphique`, `travail`, `écologie`, `répression-justice`, `psychiatrie-psychologie`, `Iran`, `États-Unis`, `Amérique-latine`. Ajouter un nouveau thème si un sujet revient dans 2+ vidéos.
+2. **thèmes** — sujets spécifiques récurrents. Vocabulaire contrôlé, extensible : `élections`, `anti-impérialisme`, `Palestine`, `Venezuela`, `féminisme`, `racisme-antiracisme`, `ruralité`, `médias-propagande`, `guerre-des-gauches`, `le-Graphique`, `travail`, `écologie`, `répression-justice`, `psychiatrie-psychologie`, `Iran`, `États-Unis`, `Amérique-latine`, `antivalidisme`, `santé`. Ajouter un nouveau thème si un sujet revient dans 2+ vidéos.
 3. **enjeux** — combats stratégiques récurrents : `plus-jamais-PS`, `Palestine-libre`, `anti-impérialisme`, `le-Graphique`, `union-populaire`, `campisme-assumé`. Ajouter un nouvel enjeu si un combat revient dans 3+ vidéos avec une position constante.
 
 **Le tag `paduteam` n'est pas utilisé** — tout le vault est PaduTeam par définition.

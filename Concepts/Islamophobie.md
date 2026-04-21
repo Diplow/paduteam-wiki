@@ -101,11 +101,21 @@ La contre-démonstration : les week-ends d'intégration des facs de médecine (m
 
 Analysé dans [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]].
 
+## L'"islamophobie comme progressisme des imbéciles"
+
+Formulation centrale développée dans [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] : "L'islamophobie est le progressisme des imbéciles aujourd'hui." En référence explicite à August Bebel qui disait que l'antisémitisme était "le socialisme des imbéciles" — une critique déviée, une colère réelle mal orientée. Conséquence : "Il n'y a aucun passe-droit, aucun moyen de soi-disant critiquer les religions [...] Toute forme d'islamophobie est antiprogressiste et réactionnaire."
+
+## Double bind patriarcal dans l'islamophobie
+
+La vidéo sur l'affaire Léna Situations/Cannes 2025 développe un mécanisme complémentaire : le contrôle patriarcal du corps des femmes se double d'islamophobie dans un système de double contrainte intenable. Trop dénudée = "pute" ; trop couverte = "frériste" ; tenue androgyne = "masculine". Les femmes racisées ou perçues comme musulmanes n'ont aucune tenue légitime — chaque choix vestimentaire peut être retourné contre elles.
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
 - [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — chronologie complète (Talbot 1984 → abaya 2023), troisième matrice coloniale, laïcité coloniale, application du contrat racial, islamophobie comme nécessité structurelle du néolibéralisme en crise.
 - [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau comme synthèse des deux matrices ; arithmétique du "complot" (6 % de muslumans pratiquants) ; vote musulman pour LFI comme effet de l'islamophobie des autres partis.
+- [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] — affaire Léna Situations/Cannes 2025 ; frérisme comme nouvel antisémitisme ; chiffres réels du rapport parlementaire ; double bind patriarcal ; fissure dans le bloc islamophobe de droite (Copé).
+- [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — islamophobie involontaire du class-first trotskiste ; position léniniste historique contra le laïcisme coercitif ; effets concrets de la loi de 2004 (baisse de scolarisation) ; argument matérialiste contre l'analyse libérale de la liberté individuelle.
 
 [^naulleau]: [27:29](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=1649) — "là on a la synthèse parfaite de l'attaque des musulmans par une gauche bourgeoise faussement progressiste et une extrême droite ethniciste précédemment antisémite"
 [^rima]: [26:26](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=1586) — "Rima Hassan en Léon Bloom. Parce que là, ce que vivent aujourd'hui les musulmans, c'est d'être attaqués comme un peuple dans le peuple qu'il le gangraine."

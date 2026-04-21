@@ -85,6 +85,7 @@ Ce mécanisme s'inscrit dans la politique délibérée de fermeture de lits : ch
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — le faux bouc émissaire
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — modèle "plomberie" des urgences, impossibilité du flux tendu, fermeture de lits comme politique comptable, 30 ans de crise encore 5 à 10 ans
 - [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — la pénurie comme contexte du déconventionnement ; données chiffrées : 1 généraliste sur 3 > 60 ans, secteur de Zoé passé de 24 à 15 médecins en 4 ans ; la crise comme moment de révolte escamoté
+- [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — la pénurie se prolonge dans les soins palliatifs : 3 médecins de soins palliatifs pour tout un département, impossibilité d'entrées directes en service pour les patients en phase terminale, hospitalisations à domicile avec passages de 30 minutes 3 fois par jour ; la pénurie comme contexte du "choix" de mourir
 
 [^1]: [2:33](https://www.youtube.com/watch?v=XT_0YFmY_lM&t=153) — "il y a 87 % du territoire français qui est actuellement désertifié et contrairement à ce qu'on pense, c'est pas que dans les campagnes. Le plus grand désert médical de France, c'est l'Île-de-France 96 % du territoire qui est désertifié"
 [^2]: [7:08](https://www.youtube.com/watch?v=V14W9I6sqjA&t=428) — "eux, ils ont demandé à ce qu'on commence à baisser le nombre de médecins formés... En sous-texte, c'était de se dire 'quand on est moins nombreux, on a plus de marges pour négocier nos tarifs'"

@@ -44,5 +44,6 @@ Dans [[Le MARXISME, un TRUC de BLANC]], la PaduTeam développe longuement l'anal
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Cité aux côtés de [[Georg Lukacs|Lukács]] pour l'analyse des idéologies comme réponses à des problèmes concrets des sujets collectifs (jankovichisme, pierre-rabisme)
 - [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — "Les structures ne descendent pas dans la rue" mobilisé pour démontrer que changer les structures, c'est changer les individus qui les constituent ; formule tagée en 1968 dans les facs
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Convoqué sur le roman bourgeois et son inscription historique de classe ; sa distinction sensible/concept utilisée pour répondre à Bégaudeau
 
 [^agri_gold]: [25:20](https://www.youtube.com/watch?v=sGjOpM5NjWM&t=1520) — "Goldman dit par exemple : si votre nécessité c'est vous êtes sous une table et que vous devez taper à coup de marteau sur le haut de la table, vous allez devoir vous relever [...] votre comportement de devoir vous relever est signifiant par rapport à la fonctionnalité de devoir taper sur la table."

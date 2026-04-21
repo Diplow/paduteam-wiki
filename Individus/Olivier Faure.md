@@ -11,6 +11,8 @@ date modified: Monday, April 20th 2026, 1:27:57 pm
 ## Profil synthétique
 Premier secrétaire du [[Parti Socialiste]] réélu au congrès de Nancy (2025). Qualifié de "girouette" et de "très hollandien" par la PaduTeam : tente toujours des synthèses impossibles entre les tendances du PS. Fragilisé par les municipales 2026.
 
+Avant le vote final du congrès (5 juin 2025), les résultats du premier tour donnaient : 42% Faure, 40% [[Nicolas Mayer-Rossignol]], 18% [[Boris Vallaud|Vallaud]] — Vallaud tenant le rôle de faiseur de roi. La PaduTeam note qu'Olivier Faure a progressivement glissé vers l'aile droite du PS en adoptant la ligne "alliances à gauche mais sans LFI" pour se maintenir au premier secrétariat.
+
 ## Stratégie et trajectoire
 Élu premier secrétaire au congrès de Nancy grâce aux voix de [[Boris Vallaud]] (faiseur de roi). Ligne ambiguë : pas d'accord national avec LFI mais laisse les fédérations locales faire leurs arrangements. Tente de ménager la chèvre et le chou entre pro-union et anti-LFI.
 

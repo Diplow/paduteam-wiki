@@ -34,6 +34,17 @@ Série de témoignages publiés sur le site de la revue : des personnes de milie
 
 [^chrono]: [28:38](https://www.youtube.com/watch?v=1zxC8ZTAHEk&t=1718) — "on invite des personnes de plein de milieux professionnels différents à venir témoigner de leur expérience de travail"
 
+## Levée de fonds et développement (fin 2025)
+
+À la fin de la vidéo "TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT" (novembre 2025), [[Chris]] annonce une levée de fonds pour Positions Revue avec plusieurs projets en cours :
+- Édition de numéros papier
+- Refonte complète du site
+- Mise en open source du [[Graphique]] avec une ergonomie adaptée pour que chacun puisse "s'en emparer et utiliser l'outil selon ses propres besoins, à but de lutte politique"
+- Transformation des Chroniques de l'exploitation en format podcast
+- Un événement physique prévu courant 2026
+
+Le financement passe par Tipi (plateforme de dons pour associations). La mise en open source du Graphique est présentée comme un acte militant : rendre l'outil d'analyse de classe accessible à tous, "pour que chacun puisse s'en emparer."
+
 ## Vidéos où Positions Revue est mentionnée
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Généalogie explicite : Positions Revue comme première brique de la [[Guerre de position]] PaduTeam, née de l'analyse critique de l'échec GJ
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — La PaduTeam défend PR contre accusations de misogynie ; explique "Karen" comme terme antiraciste ; attaque le féminisme essentialiste de Tondelier/Rousseau
@@ -46,3 +57,5 @@ Série de témoignages publiés sur le site de la revue : des personnes de milie
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — [[Chris]] présente la nouvelle version interactive du Graphique et prédit Villepin à 6-7% max.
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — [[Chris]] développe la thèse "travail collectif vs réalisation individuelle" et référence les Chroniques de l'exploitation
 - [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — Promotion du numéro de septembre 2025 : entretiens Amable/Palombarini (recomposition bloc public/privé) et Nicolas Da Silva (économie de la santé). La PaduTeam qualifie l'entretien Da Silva de "plaidoyer pour le communisme".
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — [[Chris]] présente un diaporama d'analyse économique marxiste de la guerre commerciale Trump-Chine ; Padu mentionne le site de Positions Revue et les chroniques de l'exploitation en clôture
+- [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — annonce de la levée de fonds Positions Revue : édition papier, refonte du site, open source du Graphique, Chroniques en podcast, événement physique 2026

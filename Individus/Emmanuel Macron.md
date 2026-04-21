@@ -98,6 +98,10 @@ La logique de la crise confirme la prévision de début d'année : Macron est "p
 
 [^macron_lecornu]: [29:31](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=1771) — "Il arrive comme une tragédie, une tragédie de l'ancien monde [...] Il finira comme la farce de la 5e République au-dessus des partis. C'est un espèce de de Gaulle d'opérette."
 
+## La loi fin de vie comme instrument politique
+
+La PaduTeam analyse la loi fin de vie dans [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] comme doublement significative pour le macronisme : d'un côté, Macron envisage un référendum sur le sujet (nouveau "coup de Trafalgar" pour forcer un vote binaire sur une question complexe) ; de l'autre, la loi révèle que les cadeaux fiscaux aux ultra-riches et grandes entreprises ont directement financé l'impossibilité d'offrir des soins palliatifs dignes. Légaliser le droit à mourir dans un système dégradé par ses propres choix budgétaires, c'est "rentabiliser la fin de vie" — en faisant de la mort assistée la réponse à une crise des soins qu'on aurait pu éviter.
+
 ## Vidéos
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — Crise Lecornu 14h ; isolement total (Attal, Philippe, Retailleau, Le Pen, toute la gauche) ; 20% d'approbation ; CAC -2 à -3 pts ; scénario "terre brûlée" vs "dignité" ; "de Gaulle d'opérette"
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
@@ -108,3 +112,4 @@ La logique de la crise confirme la prévision de début d'année : Macron est "p
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Révélation des propos "Mamadou" (automne 2023) + chronologie des sorties racistes (rabzous 2019, cocottes, cage au fol) ; Zoé déconstruit les vraies causes de la crise des urgences
 - [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — visite post-Chido : comportement de colon assumé, [[Abandon colonial des DOM-TOM]] comme politique structurelle, analyse de l'[[Injonction a la dignite]]
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — Analyse de la crise économique post-inflation, impuissance politique de bunker, pronostic de chute en 2025 et présidentielle anticipée
+- [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — référendum comme "coup de Trafalgar" envisagé ; cadeaux fiscaux aux grandes entreprises comme financement de l'impossibilité d'offrir des soins palliatifs dignes ; la loi comme instrument de "rentabilisation de la fin de vie"

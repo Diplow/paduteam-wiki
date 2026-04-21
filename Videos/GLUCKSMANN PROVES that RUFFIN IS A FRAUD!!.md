@@ -5,17 +5,20 @@ youtube_id: c6YvwHjVfYg
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
+skill_version: ingest-2026-04-21
 date created: Sunday, April 12th 2026, 5:25:28 pm
-date modified: Wednesday, April 15th 2026, 1:40:00 pm
+date modified: Wednesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
 
-# GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!
+[![Thumbnail](https://img.youtube.com/vi/c6YvwHjVfYg/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6YvwHjVfYg)
 
-*(Titre EN doublon — titre de capsule FR : "Glucksmann supérieur à Ruffin")*
+# GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE
+
+*(Titre EN du fichier source : "GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!" — titre FR de capsule : "Glucksmann supérieur à Ruffin")*
 
 ## Résumé
-La PaduTeam analyse le débat sur la primaire à gauche en 2025. Ruffin est démontré comme un opportuniste structurel : il utilise Mélenchon au 1er tour et Bayrou au 2e — c'est "l'imposteur de la politique". Glucksmann, lui, est reconnu comme ayant une ligne cohérente en refusant la primaire ("pas la même vision du monde"). Le [[Graphique]] prédit que les primaires mobilisent le haut-droite, pas les classes populaires — et que les noisettes se feront broyer entre les deux blocs.
+La PaduTeam analyse le débat sur la primaire à gauche en 2025. Ruffin est démontré comme un opportuniste structurel : il utilise Mélenchon au 1er tour et Bayrou au 2e — c'est "l'imposteur de la politique".[^1] Glucksmann, lui, est reconnu paradoxalement comme ayant une ligne cohérente en refusant la primaire ("pas la même vision du monde").[^2] Le [[Graphique]] prédit que les primaires mobilisent le haut-droite, pas les classes populaires — et que les noisettes se feront broyer entre les deux blocs.[^3]
 
 ## Thèses et analyses clés
 
@@ -50,13 +53,13 @@ La PaduTeam analyse le débat sur la primaire à gauche en 2025. Ruffin est dém
 | Fort (PS candidature propre) | Noisette — pire cas PS | Haut-droite |
 
 ## Individus mentionnés
-[[Francois Ruffin]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[Johanna Rolland]], [[Nicolas Mayer-Rossignol]], [[Olivier Faure]], [[Karim Bouamrane]], [[Manon Aubry]], [[Lucie Castets]], [[François Hollande]], [[Édouard Philippe]], [[François Bayrou]], [[Bruno Retailleau]], [[Boris Vallaud]], [[Laurent Berger]], [[Eric Piolle]], [[Patrick Bessac]]
+[[Francois Ruffin]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon]], [[Marine Tondelier]], [[Johanna Rolland]], [[Nicolas Mayer-Rossignol]], [[Olivier Faure]], [[Karim Bouamrane]], [[Manon Aubry]], [[Lucie Castets]], [[Francois Hollande]], [[Edouard Philippe]], [[Francois Bayrou]], [[Bruno Retailleau]], [[Boris Vallaud]], [[Laurent Berger]], [[Eric Piolle]], [[Patrick Bessac]]
 
 ## Organisations mentionnées
 [[France Insoumise]], [[Parti Socialiste]], [[Place Publique]], [[Europe Ecologie Les Verts]], [[NUPES]], [[NFP]], [[Rassemblement National]], [[CFDT]], [[CGT]], [[Lutte Ouvrière]], [[Front Populaire 2027]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Noisettes]], [[Guerre des gauches]], [[Gauche molle]], [[Primaire Populaire]], [[Bloc de rupture]], [[Bloc bourgeois]]
+[[Graphique]], [[Noisettes]], [[Guerre des gauches]], [[Gauche molle]], [[Primaire des noisettes]], [[Bloc de rupture]], [[Bloc bourgeois]]
 
 ## Enjeux avancés
 [[Union populaire]] — Mélenchon est le seul candidat du peuple ; la primaire n'est qu'un mécanisme pour l'éviter
@@ -65,3 +68,14 @@ La PaduTeam analyse le débat sur la primaire à gauche en 2025. Ruffin est dém
 
 ## Transcript
 [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]]
+
+---
+
+[^1]: [8:50](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=530) — "Ruffin est un imposteur de la politique. [...] Il vous vend une fable comme quoi il aurait résisté ou récupéré une circo à Amiens qui serait Eren."
+[^2]: [30:54](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=1854) — Glucksmann sur BFMTV : "Il n'y aura pas de candidature commune avec Jean-Luc Mélenchon et la France insoumise. C'est une question de vision du monde."
+[^3]: [7:16](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=436) — "Arrête de nous faire croire qu'il y aura une vague populaire [...] c'est des gens en haut dans le graphique, en tout cas plus en haut et plus à droite dans le graphique qui vont voter [aux primaires]."
+[^4]: [5:43](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=343) — "Sa stratégie à lui c'est d'être le candidat de la gauche unie. [...] C'est vraiment vraiment une stratégie de feignant. Et ensuite ce qu'il va faire c'est être droitier au maximum au second tour pour pouvoir capter des gens qui sont contre Marine Le Pen."
+[^5]: [9:54](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=594) — "La stratégie de Ruffin est une stratégie de vouloir mettre sous le tapis le racisme, de ne jamais vouloir affronter le RN dans son débouché de contrat racial [...] Le RN a toujours monté dans sa circo entre 2017, entre 2022 et entre 2024."
+[^6]: [10:56](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=656) — "Ça c'est typique des gens qui vont trahir [...] Ces gens-là nous font perdre du temps. La seule stratégie valable qui affronte l'extrême droite et qui l'a fait reculer, c'est de ne reculer en rien sur rien."
+[^7]: [36:42](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=2202) — "Il y a que deux hommes politiques cohérents à gauche qui pensent la politique : il y a Glucksmann et il y a Mélenchon. Le reste c'est des noisettes."
+[^8]: [40:18](https://www.youtube.com/watch?v=c6YvwHjVfYg&t=2418) — "Si vous voulez classer les programmes les plus à gauche : l'avenir en commun 2022, le programme de la NUPES 2022, le programme du NFP 2024. Le programme du NFP 2024 est plus à droite que celui de la NUPES qui est lui-même plus à droite que celui de 2022."
