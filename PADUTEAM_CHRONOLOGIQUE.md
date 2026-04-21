@@ -196,20 +196,22 @@ Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEB
 ---
 ## Batch 11 — Semaines 2025-W11 à 2025-W12 (10 mar 2025 – 23 mar 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w11-w12
 
-- [ ] LE JARL et sa MILICE FRACA$$ENT des CRÂNES de GAUCHISTES !! (X Chris de Positions Revue)
-- [ ] À QUOI RESSEMBLERA LE COMMUNISME ? (x Chris de Positions Revue)
-- [ ] DELAVIER LEAK sur LE JARL : "c'est un ESCR0C INSOLVABLE MULTI-CONDAMNÉ par la JUSTICE" !!
-- [ ] Guerre en UKRAINE : faut-il COMMENCER à APPRENDRE le RUSSE ? (analyse MARXISTE avec Chris)
-- [ ] Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)
-- [ ] Notre AVIS sur l'AFFAIRE DANY CALIGULA !! (@Dr_Zoé_YT X @pasduhring)
-- [ ] AFFICHE ANT1SÉMITE : pour FABIEN ROUSSEL "MÉLENCHON fait du TRUMP" !!
-- [ ] DR ZOÉ apprend à B4I$ER à ce PUCIX !! (@pasduhring x @Dr_Zoé_YT)
-- [ ] DANIEL WOIRIN et CYRIL DIABATÉ DÉTRUISENT LE JARL : "il a été CONDAMNÉ pour ESCROQUERIE" !!
-- [ ] INFAME est DEVENU WOKE !? (@Dr_Zoé_YT x @pasduhring)
-- [ ] GLUCKSMANN ADORE la DÉMOCRATIE, sauf à PLACE PUBLIQUE !!
+Fiches créées : LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES, A QUOI RESSEMBLERA LE COMMUNISME, DELAVIER LEAK SUR LE JARL, NOTRE AVIS SUR L AFFAIRE DANY CALIGULA, DR ZOE APPREND A BAISER A CE PUCIX, DANIEL WOIRIN ET CYRIL DIABATE DETRUISENT LE JARL, INFAME EST DEVENU WOKE, GLUCKSMANN ADORE LA DEMOCRATIE SAUF A PLACE PUBLIQUE + individus (Le Jarl, Delavier, Diabaté, Woirin, Infame, Christa Bango, Hirschfeld, Marsha P. Johnson) + organisations (Club 1988, Humane Evolution) + concepts (DARVO, Misation, Pipeline class first, Milice supplétive, Autosupport trans, Association libre des producteurs, Loi de l'attraction)
+
+- [x] LE JARL et sa MILICE FRACA$$ENT des CRÂNES de GAUCHISTES !! (X Chris de Positions Revue)
+- [x] À QUOI RESSEMBLERA LE COMMUNISME ? (x Chris de Positions Revue)
+- [x] DELAVIER LEAK sur LE JARL : "c'est un ESCR0C INSOLVABLE MULTI-CONDAMNÉ par la JUSTICE" !!
+- [x] Guerre en UKRAINE : faut-il COMMENCER à APPRENDRE le RUSSE ? (analyse MARXISTE avec Chris)
+- [x] Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)
+- [x] Notre AVIS sur l'AFFAIRE DANY CALIGULA !! (@Dr_Zoé_YT X @pasduhring)
+- [x] AFFICHE ANT1SÉMITE : pour FABIEN ROUSSEL "MÉLENCHON fait du TRUMP" !!
+- [x] DR ZOÉ apprend à B4I$ER à ce PUCIX !! (@pasduhring x @Dr_Zoé_YT)
+- [x] DANIEL WOIRIN et CYRIL DIABATÉ DÉTRUISENT LE JARL : "il a été CONDAMNÉ pour ESCROQUERIE" !!
+- [x] INFAME est DEVENU WOKE !? (@Dr_Zoé_YT x @pasduhring)
+- [x] GLUCKSMANN ADORE la DÉMOCRATIE, sauf à PLACE PUBLIQUE !!
 
 ---
 ## Batch 12 — Semaines 2025-W13 à 2025-W14 (24 mar 2025 – 6 avr 2025)
