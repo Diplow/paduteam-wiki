@@ -29,3 +29,4 @@ Dans la tradition militante française, "récupérer un mouvement" est une accus
 
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation et opérationnalisation dans le cas On ne veut plus
+- [[PROPAGANDE ANTI-MACRON ON PEUT TOUS S'Y METTRE 10SEPTEMBRE]] — présentation du générateur de visuels comme outil de catalyse : La Brèche fournit l'infrastructure, le contenu des affiches est entièrement libre

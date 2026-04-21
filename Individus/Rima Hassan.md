@@ -72,6 +72,10 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 
 La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisation de la solidarité avec la Palestine en France — et la met en parallèle avec la répression physique de la Global March for Gaza en Égypte. Les deux phénomènes relèvent de la même logique : empêcher la solidarité internationale par tous les moyens disponibles (judiciaire en France, policier/militaire en Égypte).
 
+## Naulleau et l'analogie Rima Hassan / Léon Blum
+
+[[Eric Naulleau]] fait de Rima Hassan la figure centrale de son scénario complotiste : LFI comme "idiots utiles" de l'islamisme, avec Rima Hassan jouant le rôle de Lénine face à [[Mathilde Panot]] (comparée à Ceaușescu lors de son dernier discours). La PaduTeam identifie immédiatement le recyclage antisémite : c'est exactement ce que la rhétorique de l'entre-deux-guerres faisait avec Léon Blum — une figure étrangère à la tête d'un parti populaire, qui "gangrenait" la France de l'intérieur. La fixation de Naulleau sur Rima Hassan est analysée comme la réaction d'un "vieux mec blanc qui comprend qu'il n'a plus le contrôle" : une femme arabe qui "le regarde dans les yeux" et qui "ne fait pas ce job" de soumission[^rima_nolo].
+
 ## Vidéos où Hassan est mentionnée
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Éric Coquerel propose sa candidature à Saint-Ouen, ce qui déclenche la fureur de Bouamrane
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Épisode Karen/Tondelier : l'invitation de Rima Hassan par Mélenchon comme déclencheur de la polémique
@@ -84,3 +88,6 @@ La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisatio
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Dénonce la ligne éditoriale de BFM TV
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan
 - [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — citée parmi les actions de solidarité visibles (flotille, sit-ins) et la répression qu'elles subissent
+- [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau en fait le pivot du complot islamiste LFI ; la PaduTeam déconstruit l'analogie antisémite (Rima Hassan = Léon Blum)
+
+[^rima_nolo]: [43:29](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=2609) — "il y a trop de dignité et trop de force dans Rima Hassan [...] ils comprennent qu'ils n'ont plus le contrôle sur ces femmes, cette femme, cette jeunesse et cetera"

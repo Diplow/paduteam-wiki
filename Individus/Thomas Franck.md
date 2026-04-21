@@ -27,6 +27,7 @@ Cette structure *différencie* les États-Unis de la France : il n'y a pas d'éq
 
 ## Vidéos où Thomas Franck est mentionné
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cité comme référence pour la structure sociologique du vote Cuomo/Trump (bas revenus + hauts revenus conservateurs, classes intermédiaires diplômées démocrates)
+- [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] — Cité pour l'abandon des problèmes matériels populaires par les Démocrates au profit des questions culturelles ; parallèle avec le PS français : "un parti de gens confortables avec des questions culturelles"
 
 [^1]: [34:10](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2050) — « On a parlé des livres de Thomas Franck. Pourquoi les pauvres votent à droite ? Pourquoi les riches votent à gauche ? En fait, on retrouve vraiment ça. »
 [^2]: [33:40](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=2020) — « Ce sont des classes très libéralisées. Ce sont des classes qui ne peuvent compter que sur elles-mêmes, qui vont faire des petits boulots par-ci par-là, qui vont être des petits indépendants, des petits autonomes, et qui ne se reflètent pas dans les projections de salariat stable, collectif, de contrat longue durée. Elles ont un rapport aux revenus extrêmement concurrentiel, individualiste — que ce soit pour des très forts revenus ou des très petits revenus. »

@@ -56,3 +56,4 @@ Grand meeting à Sarcelles (70 000 personnes). Kazib monte à la tribune main da
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Rôle de polarisateur à gauche au 1er tour 2027 (4,72 %, 500 signatures de Mélenchon, fracasse Le Pen et Retailleau en débat) ; meeting Sarcelles 4 mai 2027 avec Mélenchon
 - [[ANASSE KAZIB ATOMISE MADURO]] — Sa position "dictateur 100% anti-ouvrier" déconstruite comme occidentalocentrisme trotskiste
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Débat sur le tournant nationaliste de PDH et la stratégie de classe
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Cité comme victime du double standard judiciaire : procès en apologie du terrorisme pour avoir défendu la résistance palestinienne, pendant que Dray nie la famine à la télé sans jamais être inquiété

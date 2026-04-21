@@ -37,10 +37,19 @@ La proposition "avant 30 ans plus de chômage" (Pascal Praud) est une expression
 
 Le validisme du travail capitaliste n'est pas une "attitude" des individus mais un rapport de production. Il ne suffit pas de "sensibiliser" les patrons à l'inclusion des personnes handicapées pour résoudre le problème — la structure de valorisation du capital pousse mécaniquement à exclure quiconque ne maximise pas le ratio productivité/coût.
 
+## Validisme, désocialisation et emprise
+
+Le validisme du travail capitaliste ne se limite pas à la violence physique des postes de travail pénibles. Il produit aussi la désocialisation des personnes handicapées, condition préalable à leur exploitation sous [[Emprise]].
+
+En excluant structurellement les personnes handicapées du marché du travail "normal" — école ségrégative, emplois inaccessibles, curatelles surchargées — le système les prive de tout lien social autonome et de toute ressource propre. Cette désocialisation les rend vulnérables à des formes d'exploitation qui contournent le rapport salarial classique : elles "acceptent" des conditions atroces parce que l'alternative, c'est encore pire[^3].
+
+Le cas de [[Jean Pormanove]] illustre ce mécanisme : rémunéré 6 000 € par mois pour être humilié et violenté en direct sur [[Kick]], il n'était pas là "librement" — il y était parce que les emplois accessibles à quelqu'un avec son profil lui offraient 1 000 € dans des conditions également violentes. Le validisme du marché du travail a rendu "rationnelle" son entrée dans une situation d'[[Emprise]] totale[^4].
+
 ## Exemples
 
 - [[Sarah Salman]] décrit les travailleurs précaires de la restauration comme des gens qui "font des saisons" — la PaduTeam révèle que cette alternance travail/chômage est imposée par l'intenabilité des conditions, pas choisie librement.
 - [[Pascal Praud]] illustre la fausse conscience bourgeoise symétrique : il ignore ce mécanisme précisément parce que son propre "travail" (s'asseoir 2h par jour pour parler à la télé) n'est pas soumis au validisme productiviste.
+- [[Jean Pormanove]] : mort le 18 août 2025 lors d'un live de 10 jours sur Kick, après des années d'exploitation sous couvert de "consentement". Le validisme structurel lui avait fermé toutes les portes d'une insertion professionnelle décente.
 
 ## Lien avec la politique sociale
 
@@ -50,6 +59,9 @@ La restriction de l'assurance chômage est une politique cohérente avec le vali
 
 - [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — première théorisation explicite du mécanisme ; formulation directe : "c'est pas une discrimination arbitraire, c'est une nécessité matérielle du capital" ([14:35](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=875))
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — contexte antérieur : le travail comme violence physique dans l'analyse de la grève SNCF
+- [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]] — extension du concept à la désocialisation des personnes handicapées et leur vulnérabilité à l'exploitation sous emprise
 
 [^1]: [14:05](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=845) — "elle oriente l'humanité concrète, les prolétaires vers un maximum de productivité. Donc elle va détester les gens qui sont plus lents, les gens qui mettent plus de temps à être formés, les gens qui mettent plus de temps à faire des tâches physiques, les gens qui ont besoin de plus de récupération. C'est ça le validisme du travail."
 [^2]: [12:31](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=751) — "moi c'est des mecs que je vois mais qui à 25 ans sont niqués. À 25 ans, ils ont les coudes niquées, les épaules niquées, les tendons [...] des mecs qui ne récupèrent jamais, qui ne peuvent plus jamais lever le bras de leur vie."
+[^3]: [21:42](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=1302) — "C'est parce que en fait c'est mieux que ce qu'il a vécu. C'est pour ça qu'il reste là."
+[^4]: [29:00](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=1740) — "lui, il doit se dire au moins gagner 6000 balles par mois en le faisant plutôt que le faire dans un truc où au final je vais gagner 1000 balles par mois et de toute façon je peux préhumilier et tout hein. Je pense que c'est ça qui s'est dit hein."

@@ -83,10 +83,24 @@ Formulation théorique centrale issue du même transcript : "le néolibéralisme
 
 L'interdiction de l'abaya valide l'usage du terme *islamophobie* contre le terme *racisme antimusulman*. L'abaya n'est pas un marqueur religieux — c'est une tenue culturelle. Des femmes non-musulmanes qui la portaient se la sont vu interdire. Cela prouve que c'est "une esthétique qui pourrait faire penser à l'islam" qui est rejetée — soit une *culture*, une *civilisation*, une *forme d'habillement*. Le terme "islamophobie" recouvre exactement ce phénomène là où "racisme antimusulman" ne le peut pas[^abaya].
 
+## Naulleau : synthèse des deux matrices en un seul individu
+
+[[Eric Naulleau]] constitue pour la PaduTeam le cas d'école le plus lisible de convergence des deux matrices. Il déploie simultanément :
+- La matrice réactionnaire : "parti de l'étranger", grand remplacement, islam comme cinquième colonne infiltrant LFI pour y prendre le pouvoir (référence au scénario iranien des communistes éliminés par les islamistes)
+- La matrice bourgeoise anticléricale : anticléricalisme d'État forcené, laïcité abstraite déconnectée des conditions matérielles
+
+Le fait qu'il puisse se dire "de gauche" est précisément rendu possible par la matrice 2 — l'anticléricalisme sert d'emballage au fond raciste de la matrice 1. Il "peut utiliser un anticléricalisme, une espèce d'athéisme d'état forcené qui voudrait empêcher toute expression religieuse dans la société" pour recycler les vieilles rhétoriques du complot[^naulleau].
+
+Parallèle avec le traitement des Juifs au début du XXe siècle : "ce que vivent aujourd'hui les musulmans, c'est d'être attaqués comme un peuple dans le peuple qu'il le gangraine. Voilà, exactement la rhétorique antisémite." Rima Hassan est le nouveau Léon Blum — figure étrangère à la tête d'un parti populaire[^rima].
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
 - [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — chronologie complète (Talbot 1984 → abaya 2023), troisième matrice coloniale, laïcité coloniale, application du contrat racial, islamophobie comme nécessité structurelle du néolibéralisme en crise.
+- [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau comme synthèse des deux matrices ; arithmétique du "complot" (6 % de muslumans pratiquants) ; vote musulman pour LFI comme effet de l'islamophobie des autres partis.
+
+[^naulleau]: [27:29](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=1649) — "là on a la synthèse parfaite de l'attaque des musulmans par une gauche bourgeoise faussement progressiste et une extrême droite ethniciste précédemment antisémite"
+[^rima]: [26:26](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=1586) — "Rima Hassan en Léon Bloom. Parce que là, ce que vivent aujourd'hui les musulmans, c'est d'être attaqués comme un peuple dans le peuple qu'il le gangraine."
 
 [^col1]: [23:56](https://www.youtube.com/watch?v=-AmidXZp0SA&t=1436) — "Il y a aussi beaucoup plus de processus de racialisation, c'est la matrice coloniale — qui est beaucoup plus profonde, qui est partagée par l'ensemble. Donc elle est moins théorisée, donc moins exprimable."
 [^2004]: [35:55](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2155) — "On dit que des jeunes filles sont libres d'avoir des rapports sexuels à 15 ans avec Matznev mais qu'elles ne peuvent pas décider de ce qu'elles portent sur leur tête."

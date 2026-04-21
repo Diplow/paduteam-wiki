@@ -53,3 +53,4 @@ La DSA opère à l'intérieur du Parti Démocrate mais cherche à en transformer
 ## Vidéos où le Parti Démocrate est analysé
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Analyse de la défaite Harris, bipartisanisme, gauche de droite américaine
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Rapport de forces DSA/Parti Démocrate, récupération par le PS français
+- [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] — Cité comme pendant du [[Parti Socialiste]] : "un parti de gens confortables avec des questions culturelles", ayant abandonné les problèmes matériels populaires (Thomas Frank)

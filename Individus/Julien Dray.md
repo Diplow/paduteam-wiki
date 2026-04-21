@@ -1,11 +1,12 @@
 ---
 type: individu
-domaine: [politique-intérieure]
-thèmes: [guerre-des-gauches]
+domaine: [politique-intérieure, géopolitique]
+thèmes: [guerre-des-gauches, Palestine, médias-propagande, répression-justice]
 date created: Wednesday, April 1st 2026, 7:41:13 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
+skill_version: write-entity-2026-04-21
 ---
-#domaine/politique-intérieure #thème/guerre-des-gauches
+#domaine/politique-intérieure #domaine/géopolitique #thème/guerre-des-gauches #thème/Palestine #thème/médias-propagande #thème/répression-justice
 
 # Julien Dray
 
@@ -33,15 +34,19 @@ La PaduTeam démontre le négationnisme point par point :
 - "190 camions pour 2 millions de personnes — la population de Paris. Comptez les camions alimentaires et médicaux pour Paris par jour, c'est des centaines. 190 camions ça tient 3 jours."
 - La stratégie Congo/Yémen : "prendre deux populations dans des famines et dire qu'il y en a un qui est pire, donc la première souffre pas." Perversité supplémentaire : Paul Kagamé est l'allié d'Israël — Congo et Israël dans le même camp.
 
-Pour la PaduTeam : Dray est "au-delà de l'extrême droite" sur ce sujet — "même l'extrême droite n'est pas à ces niveaux de négationnisme sur le génocide."
+Pour la PaduTeam : Dray est "au-delà de l'extrême droite" sur ce sujet — "même l'extrême droite n'est pas à ces niveaux de négationnisme sur le génocide." Illustration : Grok, l'IA d'[[Elon Musk]] sur X/Twitter, a été suspendu temporairement pour avoir affirmé qu'Israël commet un génocide à Gaza (étayé par la CIJ, Amnesty, B'Tselem). Grok a réaffirmé sa position après la suspension : "mes explications restent visibles, la vérité endure." "Même l'intelligence artificielle d'Elon Musk est du côté de la vérité face à Julien Dray."
 
-## Analyse marxiste de Chris (1ère thèse sur Feuerbach)
+## Analyse marxiste : 1ère thèse sur Feuerbach
 La PaduTeam mobilise la première thèse sur Feuerbach (Marx) : "Les faits ne sont pas neutres — ils sont une activité humaine concrète, une activité de classe." Dray ne balancent pas des "faits" comme ça, il participe de l'activité génocidaire de sa classe sans être lui-même en train de génocider. "C'est là où les fact-checkeurs se trompent : lui opposer une autre vérité ne suffit pas. Le fait qu'il envoie est une activité de classe. Il n'acceptera jamais en face que son fait est faux — il faudrait qu'il trahisse sa classe."
 
 Parallèle historique : "Les nazis quand ils ont commencé à perdre et à être acculés avant 45, ils ont commencé à démonter les chambres à gaz et à cacher ce qu'ils faisaient — parce que leur rapport au monde avait changé. C'est là-dessus que les négationnistes s'appuient. Dray, c'est le même mécanisme inversé : il dit les faits génocidaires sont faux parce que la domination de sa classe lui permet encore de le faire."
 
+## Amplification négationniste : Jérémy Benaï et le restaurant de Gaza
+
+Dans la même séquence, un activiste présenté comme "engagé contre la haine d'Israël" (Jérémy Benaï) partage d'abord le clip de Dray avec "un grand merci à Julien Dray pour ce rappel très juste et essentiel." Puis il relaye des stories Instagram d'un employé du restaurant "Amada" à Gaza montrant "une activité intense" — censé contredire "les accusations de famine imputée à Israël." La PaduTeam : "Pas parce que dans le ghetto de Varsovie il y avait une maison où des collabos mangeaient bien ça veut dire qu'il y a pas de famine. Et le gars préfère croire une story Instagram qui va dans son sens plutôt que la rationalité globale de l'humanité qui dit qu'il y a un génocide."
+
 ## Double standard d'impunité
-"Des camarades comme Anasse Kazib et Jean-Paul Delescaut ont pris des procès en apologie du terrorisme pour avoir dit que la résistance palestinienne était légitime. Dray vient dire à la télé que les Palestiniens ont des camions de glace et touchent 700 balles par mois. Il ne sera jamais inquiété. C'est de l'apologie de génocide, c'est honteux, et c'est le double poids de mesure."
+"Des camarades comme Anasse Kazib et Jean-Paul Escuro ont pris des procès en apologie du terrorisme pour avoir dit que la résistance palestinienne était légitime. Dray vient dire à la télé que les Palestiniens ont des camions de glace et touchent 700 balles par mois. Il ne sera jamais inquiété. C'est de l'apologie de génocide, c'est honteux, et c'est le double poids de mesure."
 
 ## Relations
 - [[Parti Socialiste]] — figure historique

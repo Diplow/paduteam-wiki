@@ -29,6 +29,17 @@ Filmé/photographié en train de dîner avec les journalistes [[Thomas Legrand]]
 
 La PaduTeam note que Jouvet prédit "on sera tous derrière Glucksmann mais il fera 10 quand même" — puis dans un autre moment espère 32-33%. Interprétation de la PaduTeam : le 33% est peut-être lu comme "le bloc gauche au premier tour en incluant Mélenchon", pas Glucksmann seul — auquel cas les mecs ne sont "pas aussi tebés".
 
+## Plan anti-LFI (été 2025)
+
+Jouvet porte publiquement le plan estival du PS : 577 candidats prêts pour une dissolution éventuelle, construction d'une alliance "de Ruffin à Glucksmann" en excluant la FI. Il déclare explicitement ne pas avoir peur de revenir devant les électeurs sans accord avec le parti de Jean-Luc Mélenchon[^jouvet-plan].
+
+La PaduTeam note l'ironie de sa trajectoire : pendant la NUPES, Jouvet était l'un des plus proches de la FI, présent aux "amphies", défenseur de l'alliance. Son revirement total illustre la logique noisette — le PS *ne peut pas* exister face à la FI, donc il doit l'affronter.
+
+Annonce stratégique : au second tour, désistements républicains pour le candidat non-RN le mieux placé — ce qui peut être macroniste, confirmant le positionnement PS comme "roue de secours de Macron."
+
+[^jouvet-plan]: [15:28](https://www.youtube.com/watch?v=VIjS60Badeg&t=928) — "On sait que depuis le 7 juillet, il peut dissoudre. Notre plan est d'anticiper le plus possible et aussi d'affirmer de manière ferme que l'on n'a pas peur de revenir devant les électeurs pour défendre une politique plus juste." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos où Pierre Jouvet est analysé
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Congrès PS, bureau national post-municipales
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — au cœur de la fuite du dîner avec Legrand et Cohen
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Porte-parole du plan anti-LFI : 577 candidats, alliance de Ruffin à Glucksmann, désistements républicains. Revirement depuis ses positions pro-NUPES

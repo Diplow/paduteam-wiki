@@ -2,9 +2,9 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-19
+skill_version: write-enjeu-2026-04-21
 date created: Thursday, April 2nd 2026, 12:05:46 am
-date modified: Monday, April 20th 2026, 1:27:59 pm
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/États-Unis
 # Plus jamais PS
@@ -75,6 +75,16 @@ La PaduTeam distingue cependant Roussel du PS : "Le PS a au moins la dignité de
 ## L'affrontement avec Glucksmann comme enjeu tactique principal
 La PaduTeam distingue "affrontement principal" (tactique) et "contradiction principale" (structurelle). La contradiction principale, c'est avec le capitalisme et la réaction. Mais tactiquement, **l'affrontement principal est avec la gauche molle** — Glucksmann, le PS — pour "faire de l'hégémonie" sur ce que doit être la gauche. C'est du "billard à trois bandes" : gagner la bataille idéologique à gauche pour maximiser le bloc de gauche, afin que ce bloc soit majoritaire dans les consciences quand vient la contradiction principale (le 2e tour).
 
+## Le plan anti-Mélenchon de l'été 2025
+
+L'été 2025, pendant que le mouvement social se prépare pour le 10 septembre, le PS s'active en coulisses. [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] documente la stratégie en acte : [[Pierre Jouvet]] prépare 577 candidats (une par circonscription), construit une alliance Glucksmann-Ruffin-écolos-communistes en excluant explicitement la France Insoumise. Objectif annoncé sans ambages : "supprimer Mélenchon de l'équation."
+
+La référence choisie par le PS — le plan Jospin 1996 — est analysée comme une catastrophe annoncée. La gauche avait gagné les législatives 1997 *parce que* le mouvement social de 1995 (les plus grandes grèves depuis mai 68) avait mis la gauche sur orbite. Reproduire le plan électoral sans le substrat social, c'est reproduire 2002 : l'éjection de la gauche au second tour au profit du Front National. "Le plan Jospin sans le mouvement social avant, ça ne marchera pas."[^pjps_jouvet]
+
+Le refus du PS de censurer le gouvernement Bayrou — malgré les 40 milliards d'économies prévus et des affaires de violences sur enfants — s'explique selon la PaduTeam par la proximité programmatique : "la politique proposée n'est pas si différente de celle qu'ils avaient fait entre 2012 et 2017."[^pjps_bayrou] Le PS garde son appareil localement performant (577 candidats disponibles) mais s'en sert pour saboter la gauche de rupture.
+
+**Julien Dray : le sioniste de gauche comme cas d'école du PS au-delà du PS.** [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] documente l'abjection de l'ex-fondateur de SOS Racisme : il vient nier la famine et le génocide à la télévision en direct — "même l'extrême droite n'est pas à ses niveaux de négationnisme sur le génocide." Ses "faits" (bar à glaces à Gaza, 697 $/mois d'aide) ne sont pas des erreurs — ils "font partie de l'activité génocidaire de sa classe." Et contrairement à Anasse Kazib et Jean-Paul Escuro qui ont pris des procès en apologie du terrorisme pour avoir défendu la résistance palestinienne, Dray ne sera jamais inquiété. "C'est de l'apologie de génocide. C'est honteux."[^pjps_dray] Ce double standard judiciaire résume le PS : ses figures peuvent génocider en toute impunité pendant que ses adversaires à gauche sont poursuivis.
+
 ## Le PS comme "roue de secours de Macron" (septembre 2025)
 Faure tente de se faire nommer PM par Macron lui-même pour remplacer Bayrou. Pour la PaduTeam, c'est le cas d'école absolu : au moment précis où la rue chauffe (10 septembre, mouvement [[On ne veut plus]], motion de destitution FI), le PS cherche à refroidir en devenant le gouvernement de transition macroniste. Le budget PS présenté comme "de gauche" est en réalité de l'[[Hollandisme]] : retraite à 62 ans (pas 60), CSG sur les salaires, taxe Zucman symbolique. "Le PS traître qui met en place la même et unique politique."
 
@@ -129,8 +139,13 @@ Position stratégique PaduTeam sur la récupération Mamdani par Faure : **c'est
 [^usa_ruffin]: [21:11](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1271) — « tu as aussi fait foot et tu as même manifesté avec le Rassemblement national contre la résistance palestinienne, François Ruffin. Donc tu es un imposteur ».
 
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PS "la queue entre les jambes" cherchant des compromis avec Barnier jusqu'au bout sur le PLFSS 2025, pendant que le NFP pose une motion de censure. Contraste entre gauche molle (PS prêt à négocier) et gauche de rupture (NFP qui censure). Valls et Hollande nommément cités.[^pjps_barnier]
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — le plan PS de l'été 2025 documenté en acte : 577 candidats pour exclure LFI, alliance Glucksmann-Ruffin-écolos-communistes, référence au plan Jospin 1996 qui a abouti à 2002. "Ces gens sont nos ennemis politiques. Il n'y a aucun doute là-dessus."
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Dray comme specimen de la figure PS "au-delà de l'extrême droite" : négationnisme de la famine en direct, impunité totale vs répression de militants pro-Palestine (Kazib, Escuro). La PaduTeam : "même l'extrême droite n'est pas à ses niveaux de négationnisme sur le génocide."
 
 [^pjps_barnier]: [12:30](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=750) — "notamment le PS notamment le PS euh Valls euh les Hollandesois et tout ils ont pas arrêté de dire qu'ils étaient prêts à faire des compromis et tout [...] et en fait ils n'ont pas fait de compromis"
+[^pjps_jouvet]: [13:55](https://www.youtube.com/watch?v=VIjS60Badeg&t=835) — "Ce qui se décide, c'est vraiment d'exclure la FI, de supprimer Mélenchon de l'équation. Ils vont essayer un maximum de faire une gauche anti-FI."
+[^pjps_bayrou]: [4:09](https://www.youtube.com/watch?v=VIjS60Badeg&t=249) — "Est-ce que c'est parce que en réalité la politique qui est proposée n'est pas si différente de celle qu'ils avaient fait entre 2012 et 2017 ? C'est possible."
+[^pjps_dray]: [11:52](https://www.youtube.com/watch?v=pmkfvlIocN0&t=712) — "Des camarades comme Jean-Paul de l'esco, comme Anasse Kazib, ont pris des procès en apologie du terrorisme. Lui à la télé vient dire que les mecs touchent 700 balles et ont des camions de glace. Ce type devrait prendre des procès ultra vénères. C'est de l'apologie de génocide."
 
 ## La moïsation internationale : le PS comme fabrique du fascisme
 

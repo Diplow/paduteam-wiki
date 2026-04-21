@@ -30,7 +30,16 @@ Le budget PS analysé par la PaduTeam (septembre 2025) illustre le mécanisme :
 ## Lien avec le [[Graphique]]
 L'hollandisme est structurellement déterminé : les électeurs du PS (quadrant haut-droit, classes intermédiaires) n'ont pas les mêmes intérêts que les classes populaires. Un PS au gouvernement sera toujours contraint de ménager son espace de classe, ce qui le pousse vers l'hollandisme — pas par mauvaise volonté individuelle, mais par déterminisme sociologique.
 
+## L'hollandisme comme généalogie de Macron
+
+La PaduTeam formule explicitement la thèse : Macron est un *produit direct* de l'hollandisme. Hollande l'a nommé directeur de cabinet de l'Élysée, puis ministre de l'Économie. "Ce qu'on vit aujourd'hui est une conséquence du hollandisme, une conséquence directe."[^macron-hollande]
+
+Le bilan hollandiste élargi comprend : loi Travail, répression des manifestations, discours racistes (déchéance de nationalité), loi facilitant les tirs sur les personnes en fuite ("loi permis de tuer"), participation à la suppression de 43 500 lits d'hôpitaux, décentralisation des hôpitaux sur logique budgétaire initiée dès la gauche plurielle Jospin. La santé dégradée sous Marisol Touraine en héritage.
+
+[^macron-hollande]: [9:51](https://www.youtube.com/watch?v=VIjS60Badeg&t=591) — "Hollande a littéralement accouché d'Emmanuel Macron. Ce qu'on vit aujourd'hui est une conséquence du hollandisme, une conséquence directe." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos où le concept est développé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — Le reportage Paris Match comme illustration vivante de l'hollandisme : bilan quinquennat, CICE/Arnault, loi El Khomri, regard bourgeois sur les "maisons ouvrières"
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
 - [[Faure oblige de trahir]] — Démonstration graphique du déterminisme de classe qui produit l'hollandisme
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — L'hollandisme comme généalogie de Macron ; bilan quinquennat Hollande (loi Travail, répression, racisme institutionnel, lits supprimés) ; le plan Jospin 96 comme répétition du pattern hollandiste

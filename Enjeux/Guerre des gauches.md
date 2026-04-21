@@ -1,8 +1,8 @@
 ---
 type: enjeu
 domaine: [politique-intérieure]
-thèmes: [guerre-des-gauches, élections, marxisme]
-skill_version: write-enjeu-2026-04-21-enrichi-w27w28
+thèmes: [guerre-des-gauches, élections, marxisme, travail]
+skill_version: write-enjeu-2026-04-21
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -86,6 +86,20 @@ La PaduTeam défend que la **catégorie clé du marxisme est le possible, pas le
 
 La conscience collective de classe dépasse l'alternative affect/raison que Spinoza et Lordon maintiennent. "Le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza." Cette critique ne conteste pas la bonne volonté de l'approche — elle en signale l'insuffisance stratégique : une politique qui part des affects sans les dépasser ne peut pas produire la rupture hégémonique.
 
+### 17. La stratégie PS anti-Mélenchon de l'été 2025
+
+[[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] documente en temps réel la stratégie PS pendant l'été 2025 : préparer 577 candidats, construire une alliance Glucksmann-Ruffin-écolos-communistes *en excluant explicitement la France Insoumise*. La PaduTeam accueille favorablement cette clarification : "On a besoin de cette bataille à gauche." Le PS assume désormais frontalement l'affrontement — ce n'est plus de la "tambouille molle" mais une guerre ouverte.
+
+La vidéo développe aussi une thèse théorique sur les alliances et la mobilisation : les législatives 2024 ont montré que la hausse de participation s'est répartie équitablement entre tous les blocs, sans surplus d'électeurs de gauche venant voter NFP. Et même arrivée en tête, la gauche ne gouverne pas. Conclusion : "les alliances ne font pas barrage à l'extrême droite et ne permettent pas de gouverner à gauche." La rupture est donc une libération, pas une défaite.
+
+Le cas du PCF est traité avec empathie : coincé entre une direction institutionnalisée et des militants sincères, il risque de "se noyer dans la social-démocratie" s'il s'allie à Glucksmann et Ruffin. La PaduTeam espère que les Jeunesses Communistes feront pression pour une ligne indépendante.
+
+### 18. La trajectoire des organisations radicales comme révélateur de la guerre des gauches
+
+[[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] apporte une démonstration matérialiste sur la fragmentation de la gauche radicale. La trajectoire de [[Philippe Poutou]] vers la FI n'est pas analysée comme une trahison personnelle mais comme la conséquence mécanique de son changement de rapport social (ouvrier → petit-bourgeois libraire). Ce mécanisme explique structurellement la recomposition de la gauche radicale post-NPA.
+
+La PaduTeam dessine trois blocs : [[Revolution Permanente]] (révolutionnaire trotskiste), [[Union pour la Reconstruction Communiste]] (révolutionnaire non-trotskiste), [[France Insoumise]] (réformiste-électoraliste). Le NPA "en train de se moïser" laisse un espace que ces pôles occupent. La guerre des gauches se joue aussi dans cet espace : la disparition du NPA comme organisation intermédiaire oblige chacun à choisir son camp — ce que la PaduTeam juge salutaire. "Si vous êtes révolutionnaire et pas trotskiste, allez à l'URC."[^gdg_poutou]
+
 ### 15. La recomposition droite comme miroir de la guerre des gauches
 
 Le corpus de juillet 2025 (Bardella/Sarkozy, Macron 2032) enrichit la guerre des gauches d'une dimension symétrique : pendant que la gauche se fragmente, la droite cherche à se recomposer — et cette recomposition redéfinit les conditions du second tour 2027.
@@ -161,6 +175,8 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 [[FAURE VEUT FAIRE DU MELENCHON SOFT]] fournit l'analyse la plus précise de la notion de [[Noisettes|noisette]] comme catégorie stratégique. Tondelier, Ruffin, Fort utilisent le même discours — "l'extrême droite est aux portes du pouvoir, il faut l'union" — ce qui est le marqueur infaillible de la position noisette. Analogie Kamala Harris : les gens ne votent pas pour "faire barrage au pire." La demande d'union sur fond de peur ne mobilise pas — elle résigne. C'est une ligne de défaite mécanique.
 
 ## Vidéos clés
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — stratégie PS anti-LFI de l'été 2025 : 577 candidats, alliance Ruffin-Glucksmann-écolos-PCF sans FI ; thèse sur l'inutilité des alliances (pas de mobilisation supplémentaire à gauche) ; cas PCF coincé entre direction institutionnelle et militants sincères ; "On a besoin de cette bataille à gauche"
+- [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — démonstration matérialiste de la fragmentation de la gauche radicale : rapport social → idées ; recomposition en trois pôles (RP, URC, FI) après la moïsation du NPA ; la trajectoire de Poutou comme conséquence mécanique et non trahison personnelle
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — L'Après comme fausse alternative post-FI ; Roussel "catastrophique" au regard du Graphique ; l'antiracisme comme ligne de fracture irréconciliable entre gauches
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — mécanique de la diabolisation par la gauche de l'intérieur : la droite du NFP ouvre la boîte de Pandore ; syllogisme Palestine→Goebbels décortiqué ; LICRA retourne son cordon contre la gauche radicale ; Mélenchon comme digue
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — structuration de la gauche internet : contradiction insoluble entre streamer auto-entrepreneur et militant ; ZawaProd comme société de portage salarial ; La Brèche comme modèle du collectif militant soumis à une base
@@ -184,3 +200,5 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — diabolisation absurde comme carburant paradoxal du vote caché ; la guerre des gauches intérieure (Dray/PS) renforce mécaniquement Mélenchon via le vote de ceux qui ne peuvent assumer leur soutien
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — démonstration chiffrée via le Graphique que la quasi-totalité des candidats déclarés ne passeront pas ; espace noisette hyper-fragmenté ; Le Pen confirmée 2e tour malgré les affaires
 - [[ROUSSEL trouve RETAILLEAU TROP MOU]] — Droitisation du PCF : Roussel tient exactement le même discours sécuritaire que Retailleau (lapsus analytique "Fabien Retailleau") ; devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; donne "un permis de taper encore plus fort à la police" ; l'URC présentée comme l'embryon du parti communiste de masse que le PCF n'est plus
+
+[^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"

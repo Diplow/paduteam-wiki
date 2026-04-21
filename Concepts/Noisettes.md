@@ -85,6 +85,16 @@ La logique noisette est structurellement identique au barragisme américain : "S
 
 [^noisette-harris]: [6:46](https://www.youtube.com/watch?v=109fM1CEu9Q&t=406) — "Harris n'a pas simplement perdu, elle s'est fait écraser [...] les gens ne se déplacent pas pour faire barrage au pire parce que la situation de crise est tellement avancée" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
 
+## La noisettologie comme discipline
+
+La PaduTeam formalise la "noisettologie" comme discipline d'analyse — "une des disciplines les plus importantes de ces prochaines années." L'objet d'étude central : observer les vacances et la préparation des noisettes à la rentrée pendant que le mouvement social s'organise. Le constat d'été 2025 : le [[Parti Socialiste]], "roi des noisettes", fait de la stratégie électorale boutiquière au lieu de préparer le 10 septembre[^noisettologie].
+
+Le PS est qualifié de "roi des noisettes" — la noisette par excellence car pris entre la FI à gauche et le bloc Glucksmann/macroniste à droite. Il illustre le destin noisette dans toute sa pureté : ne pouvant exister face à ces deux forces, il choisit de les affronter toutes les deux en même temps (candidats face aux sortants LFI ET alliance avec Glucksmann).
+
+**La barre énergétique enrichie en noisette** : la coalition que projette Jouvet (PS + écolos + PCF + Ruffin dans le périmètre Ruffin-Glucksmann) est qualifiée de "barre énergétique enrichie en noisette". Toutes les noisettes du paysage en un seul bloc, sans la force de rupture.
+
+[^noisettologie]: [1:03](https://www.youtube.com/watch?v=VIjS60Badeg&t=63) — "La noisettologie c'est pour moi une des disciplines les plus importantes de ces prochaines années parce qu'on va se rendre compte que la noisette va vraiment être centrale dans l'analyse des prochaines élections." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos clés
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
@@ -97,3 +107,4 @@ La logique noisette est structurellement identique au barragisme américain : "S
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — Lancement de [[Debout]], candidature noisette commune à 6,1% avec [[L'Apres]] et Génération. "La tournée des bours et des tours Michel Sardou." Universités d'été communes = rassemblement des losers noisettes
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" : déclinaison bio de la noisette classique. Même discours que toutes les noisettes sur la menace fasciste, sans analyser les renoncements de la gauche qui ont fabriqué le terreau de l'extrême droite.
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanique sondagière des noisettes ; analogie Harris/Trump ; Faure comme noisette girouette ; Édouard Philippe comme "vraie noisette" de droite.
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Le PS "roi des noisettes" en action estivale 2025 : noisettologie formalisée comme discipline, "barre énergétique enrichie en noisette" (Ruffin-Glucksmann-écolos-PCF sans FI), stratégie boutiquière pendant que le mouvement social attend.

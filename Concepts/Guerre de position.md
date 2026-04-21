@@ -31,3 +31,4 @@ Le passage d'une phase à l'autre est le moment stratégique central. La PaduTea
 
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — exposition la plus explicite du concept, avec généalogie et application à la stratégie La Brèche / On ne veut plus
+- [[PROPAGANDE ANTI-MACRON ON PEUT TOUS S'Y METTRE 10SEPTEMBRE]] — discussion sur la possibilité que le 10 septembre soit le début d'une "guerre de position" durable plutôt qu'une guerre de mouvement ponctuelle

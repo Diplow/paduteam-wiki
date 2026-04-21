@@ -1,10 +1,10 @@
 ---
 type: enjeu
 domaine: [politique-intérieure]
-thèmes: [élections, guerre-des-gauches, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w27w28
+thèmes: [élections, guerre-des-gauches, États-Unis, travail]
+skill_version: write-enjeu-2026-04-21
 date created: Thursday, April 2nd 2026, 1:07:41 am
-date modified: Monday, April 20th 2026, 1:27:59 pm
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/États-Unis
 # Union populaire
@@ -92,6 +92,24 @@ La PaduTeam formule la leçon géopolitique de gauche : les USA ont commencé le
 [^mamdani_femmes]: [25:58](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1558) — « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant ».
 [^mamdani_36]: [34:38](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=2078) — « ils ont mis 20 millions de campagne pour pouvoir empêcher Mamdani. Là, ça va être 10-15 fois plus quand il sera au pouvoir. On a l'expérience du Front populaire en France. Les congés payés et la semaine de 40 heures ne sont pas dans le programme du Front populaire de mai 36. Ce sont les grèves de juin 36 qui l'imposent ».
 
+## La recomposition de la gauche radicale comme socle de l'union populaire
+
+[[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] apporte un argument matérialiste sur la structuration nécessaire de la gauche radicale à la gauche de LFI. La trajectoire de [[Philippe Poutou]] — ouvrier automobile devenu petit-bourgeois libraire, glissant vers la FI — illustre la thèse fondamentale : le rapport social détermine les idées. Ce n'est pas une trahison personnelle, c'est la conséquence mécanique du changement de position dans les [[Rapports de production]].
+
+Mais la PaduTeam tire une leçon positive pour l'union populaire : si la trajectoire individuelle de Poutou est compréhensible, la période (jamais aussi révolutionnaire : Gilets Jaunes, retraites, Palestine) exige un pôle communiste à la gauche de LFI — [[Revolution Permanente]] (révolutionnaire trotskiste) et [[Union pour la Reconstruction Communiste]] (révolutionnaire non-trotskiste) — pour tirer l'ensemble vers la gauche et préparer l'après-Mélenchon. "Si vous êtes révolutionnaire et pas trotkiste, allez à l'URC."[^up_poutou] Le NPA en train de se "moïser" n'occupe plus aucun espace viable entre ces pôles.
+
+Ce qui sonne comme "un glas" dans la trajectoire de Poutou, c'est l'échec collectif d'une génération à "imposer un nouvel ordre sur l'ordre capitaliste" — pas son choix individuel. L'union populaire ne peut pas se construire sans ce diagnostic lucide des défaites passées.
+
+## Le 10 septembre comme expérimentation de la contre-communication populaire
+
+Deux vidéos de l'été 2025 documentent la théorisation et la mise en pratique du mouvement du 10 septembre comme moment de constitution de l'union populaire.
+
+**[[CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE]]** (2025-08-14) est la capsule de préparation idéologique : la PaduTeam déconstruit point par point les discours bourgeois sur les arrêts de travail (Agnès Buzin, Isabelle Lasserre) pour armer les militants. La formule fondamentale : "cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes."[^up_buzin] Face aux 5,5 milliards d'économies prévues par le budget Bérou sur la santé, la PaduTeam chiffre l'alternative : passer au 100% Sécurité sociale permettrait d'économiser 5,4 milliards — exactement le même montant — sans toucher à l'accès aux soins. L'argument illustre le [[Choc d'abondance]] : les ressources existent, leur capture est organisée (22% des cotisations aux assurances privées partent en frais de gestion contre 3% à la SS). La vidéo se conclut sur un appel direct : "l'émancipation des travailleurs par eux-mêmes se fera de manière collective."[^up_buzin2]
+
+**[[PROPAGANDE ANTI-MACRON ON PEUT TOUS S'Y METTRE 10SEPTEMBRE]]** (2025-09-05) théorise le passage de la conscience à l'expression collective comme condition de la révolution. La PaduTeam distingue "ne plus vouloir dans sa tête" de "l'exprimer en masse" : "il suffit pas simplement que les masses ne veuillent plus vivre comme autrefois. Il faut que ça se transforme en activité expressive."[^up_prop1] Le site onveulplus.fr et son générateur de visuels est présenté comme un outil de [[Catalyser vs capter|catalyse]] — La Brèche fournit les moyens sans imposer le contenu. L'analogie historique : les cahiers de doléance de 1789, où des gens sachant lire et écrire ont recueilli en masse les desiderata de paysans illettrés.
+
+La lecture léniniste de la situation est explicite : Macron cumule les deux conditions de la situation prérévolutionnaire — "en haut ils ne peuvent plus, en bas on ne veut plus." Les classes intermédiaires (syndicats, partis, militants) doivent rejoindre ceux d'en bas. Le 10 septembre n'est pas un événement ponctuel — c'est le début possible d'une "guerre de position" durable : "peut-être que le 10 septembre, ce sera la fondation de nouveaux groupes qui vont durer pendant des années."[^up_prop2]
+
 ## Macron tue ses héritiers — la prophétie Mélenchon avance mécaniquement
 
 Le corpus de juillet 2025 consolide une thèse centrale sur la mécanique 2027 : **Macron détruit systématiquement ses successeurs potentiels**, ce qui avance mécaniquement la prophétie Mélenchon.
@@ -114,7 +132,7 @@ La leçon stratégique : la barre pour qualifier Mélenchon au second tour est p
 
 ## Les cadres comme réservoir — le cas Nicolas
 
-[[Nicolas qui paye]] approffondit l'argument de la [[Grande bifurcation]] comme pièce stratégique de l'union populaire. Les cadres se gauchissent électoralement (vote Mélenchon +5 points entre 2017 et 2022, vote droite -10 points) non par conviction idéologique mais parce que leur situation matérielle les rapproche structurellement du prolétariat. La [[Proletarisation des cadres]] (12,5% → 21,7% de l'emploi entre 1996 et 2022) sans gain salarial réel les expose aux mêmes mécanismes d'exploitation.
+[[Nicolas qui paye]] approfondit l'argument de la [[Grande bifurcation]] comme pièce stratégique de l'union populaire. Les cadres se gauchissent électoralement (vote Mélenchon +5 points entre 2017 et 2022, vote droite -10 points) non par conviction idéologique mais parce que leur situation matérielle les rapproche structurellement du prolétariat. La [[Proletarisation des cadres]] (12,5% → 21,7% de l'emploi entre 1996 et 2022) sans gain salarial réel les expose aux mêmes mécanismes d'exploitation.
 
 Ce que la PaduTeam en tire pour l'union populaire : LFI doit proposer aux cadres un programme qui parle à leur vécu (32h, propriété du logement principal, réappropriation du travail décisionnel) plutôt que de les ignorer ou de les cibler avec des programmes PS. Le narratif "Nicolas qui paye" (cadre qui se croit exploité par les allocataires) est une mystification idéologique que le Graphique peut défaire — en montrant que ce sont les actionnaires, pas les allocataires, qui capturent la valeur produite par Nicolas.
 
@@ -157,6 +175,9 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Avantage structurel français (casse-noix bilatéral) vs marteau de droite US monolatéral ; LFI a capté le bloc populaire que la DSA peine à construire faute d'organisation de masse
 
 ## Vidéos clés
+- [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — la trajectoire Poutou comme cas d'école matérialiste : rapport social change → idées changent ; plaidoyer pour un pôle communiste (URC, RP) à la gauche de LFI ; le NPA moïsé laisse un espace ; la "fausse émancipation" individuelle de la petite bourgeoisie à contre-temps de la période
+- [[CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE]] — démontage des discours bourgeois sur les arrêts maladie ; opposition travail individuel / travail collectif comme "opposition fondamentale de la lutte des classes" ; alternative chiffrée (100% SS = 5,4Md économisés sans toucher aux soins) ; appel à l'union collective pour le 10 septembre
+- [[PROPAGANDE ANTI-MACRON ON PEUT TOUS S'Y METTRE 10SEPTEMBRE]] — théorie de la [[Contre-communication populaire]] : la conscience doit se transformer en expression collective ; site onveulplus.fr comme outil de catalyse non-captateur ; lecture léniniste de la situation prérévolutionnaire ; "cette organisation des masses, une fois qu'on l'a, on ne s'en sépare jamais"
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — articulation explicite de la stratégie "95 inversé" : deux gauches au premier tour, polarisation idéologique, crise économique comme fragilisation du bloc bourgeois
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — démontage des fausses équivalences Mélenchon/Le Pen ; définition de l'extrême droite par la hiérarchisation des êtres humains ; la dédabolisation comme opération de façade
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Démonstration que deux candidats à gauche valent mieux qu'une candidature unique : avec deux candidats, le premier tour se joue sur des thèmes de gauche (retraites, Palestine, nationalisations), créant une dynamique de report au second tour. Une candidature unique centre le débat sur la droite. "Le vrai barrage antifasciste c'est la victoire de la gauche de rupture, pas la synthèse avec le centre."
@@ -186,3 +207,9 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — stratégie Macron-Médvedev détaillée ; Mélenchon au 2e tour dans tous les scénarios selon le Graphique (16-17% min, 22% max) ; complotisme gramscien comme obstacle à dépasser
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — cartographie complète des candidats via le Graphique : quasi-totalité éliminés, Le Pen qualifiée malgré condamnation, barre historiquement basse pour Mélenchon grâce à l'éclatement droite et centre
 - [[Nicolas qui paye]] — prolétarisation des cadres comme réservoir pour LFI ; Grande bifurcation comme horizon ; gauchisation électorale confirmée par le Graphique (+5 pts Mélenchon 2017→2022, -10 pts droite)
+
+[^up_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
+[^up_buzin]: [24:47](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=1487) — "Cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes. Gardez ça en tête parce que c'est absolument clé."
+[^up_buzin2]: [43:26](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=2606) — "l'émancipation des travailleurs par eux-mêmes se fera de manière collective et individuelle [...] il faut une force collective d'union du salariat généralisé."
+[^up_prop1]: [24:37](https://www.youtube.com/watch?v=3xTxs8LHIWo&t=1477) — "Il suffit pas simplement que la prise de conscience soit là en tant qu'activité intellectuelle. Il faut qu'elle se transforme en activité expressive."
+[^up_prop2]: [15:53](https://www.youtube.com/watch?v=3xTxs8LHIWo&t=953) — "Peut-être que le 10 septembre, ce sera la fondation de nouveaux groupes qui vont durer pendant des années, qui vont s'intensifier."
