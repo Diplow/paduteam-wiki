@@ -139,20 +139,22 @@ Fiches créées : [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]],
 ---
 ## Batch 08 — Semaines 2025-W05 à 2025-W06 (27 jan 2025 – 9 fév 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w05-w06
 
-- [ ] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
-- [ ] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
-- [ ] MOS MAJORUM croit DÉBUNKER MARX :  ça TOURNE très très MAL !! (avec Chris de Positions Revue)
-- [ ] Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
-- [ ] PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL ! (@Dr_Zoé_YT et Chris)
-- [ ] Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
-- [ ] WISSAM et RAZ me PSYCHANALYSENT : '"PADU est un LGBTPH0BE MALHONNÊTE" !! (x Chris/Positions Revue)
-- [ ] MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
-- [ ] Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
-- [ ] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024 !!
-- [ ] PAYE TON DROITARD #7.2  : PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉRO$EXUALITÉ (x @Dr_Zoé_YT  et Chris)
+- [x] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
+- [x] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
+- [x] MOS MAJORUM croit DÉBUNKER MARX :  ça TOURNE très très MAL !! (avec Chris de Positions Revue)
+- [x] Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
+- [x] PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL ! (@Dr_Zoé_YT et Chris)
+- [x] Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
+- [x] WISSAM et RAZ me PSYCHANALYSENT : '"PADU est un LGBTPH0BE MALHONNÊTE" !! (x Chris/Positions Revue)
+- [x] MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
+- [x] Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
+- [x] FRANCE INFO vous OFFRE -10% au CLUB MED GAZA avec le code #GEN0CIDE2024 !!
+- [x] PAYE TON DROITARD #7.2  : PADU, L'ÉLECTEUR RN SAUVÉ PAR L'HÉTÉRO$EXUALITÉ (x @Dr_Zoé_YT  et Chris)
+
+Fiches créées : 9 vidéos (+ 2 existantes), 6 individus (Merwan Benlazar, François Asselino, Cassandre, Raz, Morgane Merteuil, Anas Kazib), 3 organisations (HowToBitcoin, Mos Majorum, France Television), 3 concepts (Prix et valeur marxiste, Psychologie marxiste, Consentement sous contrainte)
 
 ---
 ## Batch 09 — Semaines 2025-W07 à 2025-W08 (10 fév 2025 – 23 fév 2025)
@@ -177,21 +179,20 @@ Fiches créées : 11 vidéos, 8 individus (Psykocouac, Alexia Michelin, Marina S
 ---
 ## Batch 10 — Semaines 2025-W09 à 2025-W10 (24 fév 2025 – 9 mar 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w09-w10
-
-- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
-- [ ] PADUSTREAM C'EST DÉJÀ FINI !!
-- [ ] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
-- [ ] FDESOUCHE nous ATTAQUE : "PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?" (avec @Dr_Zoé_YT)
-- [ ] FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
-- [ ] DÉBRIEF de mon DÉBAT avec @Zawa_Prod et @PsykoCouac sur la PSY ! (x @Dr_Zoé_YT et Chris de PR)
-- [ ] WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE !!
-- [ ] RAZ et WISSAM ont-ils GACHÉ le ZAWATALK ? (avec @Dr_Zoé_YT)
-- [ ] ANTOINE DANIEL DÉRAPE COMPLÈTEMENT AU SUJET DES MILLIARDAIRES !!
-- [ ] J'EXPLIQUE le COMMUNISME aux FANS d'ANTOINE DANIEL : ils ADHÉRENT !!
-- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT  et Chris)
-
+Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEBAT ZAWATALK PSY PSYKOCOUAC]], [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]], [[RAZ ET WISSAM ONT-ILS GACHE LE ZAWATALK]], [[ANTOINE DANIEL DERAPE AU SUJET DES MILLIARDAIRES]], [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]] + 15 concepts, 13 individus, 3 organisations — Enjeux enrichis : Guerre des gauches, Union populaire, Plus jamais PS, Féminisme matérialiste, Antiféminisme identitaire comme menace, Critique de la fachosphère
+- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue) ⚠️ transcript absent
+- [x] PADUSTREAM C'EST DÉJÀ FINI !!
+- [x] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
+- [x] FDESOUCHE nous ATTAQUE : “PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?” (avec @Dr_Zoé_YT)
+- [x] FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
+- [x] DÉBRIEF de mon DÉBAT avec @Zawa_Prod et @PsykoCouac sur la PSY ! (x @Dr_Zoé_YT et Chris de PR)
+- [x] WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE !!
+- [x] RAZ et WISSAM ont-ils GACHÉ le ZAWATALK ? (avec @Dr_Zoé_YT)
+- [x] ANTOINE DANIEL DÉRAPE COMPLÈTEMENT AU SUJET DES MILLIARDAIRES !!
+- [x] J'EXPLIQUE le COMMUNISME aux FANS d'ANTOINE DANIEL : ils ADHÉRENT !!
+- [x] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT  et Chris)
 ---
 ## Batch 11 — Semaines 2025-W11 à 2025-W12 (10 mar 2025 – 23 mar 2025)
 

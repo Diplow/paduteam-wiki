@@ -81,6 +81,14 @@ Plus important : la PaduTeam retourne l'analyse de [[Michel Clouscard]] contre s
 
 La trajectoire de [[Daniel Cohn-Bendit]] ([[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]) confirme le même mécanisme côté libéral-libertaire "de gauche" : Mai 68 → EELV → soutien à Macron → rhétorique du "grand remplacement" à Mayotte. Ce n'est pas la fachosphere au sens strict, mais c'est la même loi de Clouscard appliquée à l'autre bout du spectre "confus" — ceux qui n'ont jamais rompu avec la propriété basculent vers le libéralisme autoritaire dès que la crise l'exige.
 
+### L'islamophobie institutionnelle comme prolongement de la fachosphere
+
+Le cas [[Merwan Benlazar]] (février 2025) illustre que la logique de la fachosphere ne reste pas dans la sphère YouTube — elle s'institutionnalise. [[Rachida Dati]], ministre de la Culture, intervient directement pour faire virer un chroniqueur de France Télévisions. Les raisons officielles (tweets anciens et banaux) ne tiennent pas — l'ARCOM a confirmé qu'aucun propos dans la chronique n'était répréhensible. La vraie raison : le "délit de sale gueule" institutionnel — un homme arabe avec une barbe et un bonnet Zara.
+
+La PaduTeam identifie la structure de l'islamophobie à géométrie variable : Christine Kelly (CNews) tient des discours évangélistes anti-avortement sans conséquence ; des contenus misogynes passent sans problème ; mais la simple apparence physique arabe déclenche une intervention politique directe au sommet. Ce n'est pas un dérapage — c'est la laïcité utilisée comme outil de stigmatisation raciale, pas comme principe de séparation Église-État.
+
+L'affaire Benlazar est un révélateur de la **collusion médiatico-politique** propre à la fachosphere institutionnalisée : les mêmes réseaux qui financent la droitsphère YouTube protègent leurs discours dans les médias dominants, et mobilisent l'État pour censurer les apparences qu'ils n'aiment pas.
+
 ## Le marxisme réactionnaire comme variante spécifique
 
 Janvier 2025 développe une critique de figures qui s'approprient le vocabulaire marxiste tout en tenant des positions réactionnaires. Ces cas sont distincts de la fachosphere classique mais relèvent du même confusionnisme rouge-brun.
@@ -105,6 +113,8 @@ Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. Os
 
 ## Vidéos clés
 
+- [[Un HIPSTER VIRE car MUSULMAN PAYS de RACISTES DEGENERES]] — islamophobie institutionnelle : délit de sale gueule, intervention directe du politique dans les grilles de programme, laïcité comme outil de stigmatisation raciale ; islamophobie à géométrie variable (Kelly évangéliste sans problème vs Benlazar avec bonnet)
+- [[MICHEL ONFRAY LFI VEUT SUPPRIMER LES JUIFS]] — diffamation en prime time sur CNews ("LFI veut supprimer les Juifs") ; Onfray comme "serpillière du SAV de l'extrême droite" ; inversion bourreaux/victimes ; logique médiatique de neutralisation qui met en équivalence des positions asymétriques
 - [[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]] — Soral boutiquier qui n'a pas lu Clouscard ; son économie politique = programme LR ; idéalisme fixiste pré-hégélien ; gaullisme comme variante néolibérale
 - [[CE "MARXISTE" A TRÈS PEUR DU GRAND REMPLACEMENT !! (FRANCIS COUSIN)]] — marxisme réactionnaire le plus élaboré : heideggerianisme déguisé en marxisme ; essentialisme ethno-racial ; Cousin rattaché à la Wertkritik et aux left-coms
 - [[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]] — idéalisme bourgeois du tirage au sort ; la constitution ne précède pas le rapport de force ; parlement du travailleur collectif comme alternative

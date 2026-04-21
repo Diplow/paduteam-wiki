@@ -46,7 +46,17 @@ La PaduTeam formule une critique double de LFI :
 
 Cette critique n'invalide pas le soutien — elle le conditionne à une réforme structurelle post-Mélenchon.
 
-### 5. BHL et le confusionnisme comme arme contre la gauche
+### 5. La guerre des gauches en ligne : accusations comme armes rhétoriques
+
+Le batch de fin janvier - début février 2025 fournit un cas d'école de la mécanique de la guerre des gauches en ligne. Après que Padu a publié sa vidéo autobiographique "Mon passé droitard", deux conflits se déclenchent simultanément :
+
+- **Conflit 1 (antisémitisme)** : [[Raz]] et [[Cassandre]] accusent Padu d'antisémitisme en live. La PaduTeam analyse la différence entre Raz (accuse sans avoir lu le sujet, admet trois tweets plus tard ne pas maîtriser la psychologie — mais maintient l'accusation de "malhonnêteté") et Cassandre (analyse nuancée et contextualisée). La distinction que la PaduTeam tire : Raz traite Padu en ennemi politique, Cassandre en adversaire intellectuel.
+
+- **Conflit 2 (LGBTphobie)** : [[Wissam Xelka]] et Raz accusent Padu de rejeter la psychanalyse parce qu'elle est "trop pro-cuir" (LGBTphobe). L'accusation est produite sans analyse du fond — le désaccord porte sur deux épistémologies incompatibles (matérialisme marxiste vs psychanalyse), pas sur la question LGBT. La PaduTeam note que Wissam dit qu'il est "malhonnête" tout en admettant ne pas maîtriser le sujet.
+
+Le diagnostic PaduTeam sur ces deux conflits : l'accusation (d'antisémitisme, de LGBTphobie) est utilisée comme arme pour court-circuiter le débat de fond — que ce soit sur la gradation du confusionnisme ou sur l'incompatibilité épistémologique marxisme/psychanalyse. Le mécanisme est structurant dans la gauche en ligne : l'accusation grave remplace l'argument, et produire l'accusation suffit à disqualifier l'adversaire sans avoir à traiter le fond.
+
+### 6. BHL et le confusionnisme comme arme contre la gauche
 
 [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] illustre le mécanisme du confusionnisme comme arme dans la guerre des gauches. BHL peut qualifier Mélenchon de "fasciste" et d'antisémite tout en refusant de qualifier Le Pen ainsi — parce qu'il appartient structurellement au même bloc bourgeois que Pascal Praud. Le "double standard" (violence rhétorique contre la gauche de rupture, indulgence pour l'extrême droite) est la preuve matérielle d'un choix de camp. Naulleau, Dray, Valls remplissent une fonction de "quota gauche" dans les médias d'extrême droite.
 
@@ -86,6 +96,8 @@ La conscience collective de classe dépasse l'alternative affect/raison que Spin
 
 ## Vidéos clés
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — fracture décolonial/marxiste-léniniste : le projet "France révolutionnaire" de PDH comme capitulation idéologique selon Kazib ; confondre conséquence et cause (le drapeau comme objet de lutte, pas point de départ) ; anti-impérialisme impossible sous signifiant national ; affects spinozistes vs conscience de classe ; "la catégorie clé du marxisme c'est le possible, pas le réel"
+- [[WTF RAZ et CASSANDRE me TRAITENT d ANTISEMITE en plein LIVE]] — accusation d'antisémitisme en live comme mécanique de la guerre des gauches ; distinction adversaire intellectuel (Cassandre) vs ennemi politique (Raz) ; l'accusation sans preuve comme remplacement de l'argument
+- [[WISSAM et RAZ me PSYCHANALYSENT PADU est un LGBTPHOBE MALHONNETE]] — accusation de LGBTphobie par association (rejeter la psychanalyse = être LGBTphobe) ; Wissam admet ne pas maîtriser le sujet mais maintient l'accusation de malhonnêteté ; illustration du conflit épistémologique marxisme/psychanalyse transformé en guerre des gauches
 - [[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] — démonstration graphique de la trahison structurelle, stratégie des deux équipes, luttes en classe vs luttes de classe
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT À LFI et PAS au PCF ?]] — analyse du dilemme militant PCF/LFI, critique structurelle de LFI, problème de la refondation post-Mélenchon
 - [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] — confusionnisme intellectuel bourgeois comme arme anti-gauche de rupture
