@@ -33,6 +33,10 @@ La PaduTeam commente ces faits rapportés en précisant qu'ils ne font que comme
 ## Lien avec C'est Nicolas qui paye
 Tegner est propriétaire du compte/collectif [[C'est Nicolas qui paye]], collectif antitax qui a tenté de récupérer le mouvement du 10 septembre 2024. La PaduTeam : "c'est pas le gars dont les collaboratrices disent 'je dormais dans une chambre d'hôtel et le mec est venu me toucher les pieds pendant la nuit' — voilà c'est le niveau de Saint Nicolas qui paye."
 
+En juillet 2025, à l'approche du mouvement du 10 septembre, il dépose la marque "Nicolas qui paye" à l'INPI — tentative de récupération propriétaire d'un phénomène politique. La PaduTeam y voit la réponse petite-bourgeoise typique face à une mobilisation populaire : transformer un combat en propriété intellectuelle plutôt qu'en organisation.[^tegner2025]
+
+[^tegner2025]: [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]] — Tegner dépose "Nicolas qui paye" à l'INPI alors que la gauche populaire organise le blocage du 10 septembre.
+
 ## Regard de la PaduTeam
 
 La PaduTeam : "Éric s'y connaît mieux en pied qu'en mouvement de gauche." La PaduTeam utilise Tegner comme figure synthétisant l'incapacité analytique de l'extrême droite et sa violence interne envers les femmes — un personnage qui "pose des questions qui dérangent" sur l'immigration tout en étant lui-même accusé de comportements prédateurs.

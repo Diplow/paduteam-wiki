@@ -2,7 +2,7 @@
 type: concept
 domaine: [économie, théorie]
 thèmes: [travail]
-aliases: [baisse tendancielle du taux de profit, BTTP]
+aliases: [baisse tendancielle du taux de profit, BTTP, taux de profit, Taux de profit]
 date created: Wednesday, April 1st 2026, 7:18:17 am
 date modified: Monday, April 20th 2026, 1:28:00 pm
 ---

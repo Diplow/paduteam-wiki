@@ -2,7 +2,7 @@
 type: enjeu
 domaine: politique-intérieure
 thèmes: [féminisme, racisme-antiracisme, extrême-droite]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w31w32
 date created: Monday, April 13th 2026, 2:43:00 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
@@ -88,6 +88,18 @@ Le masculinisme identitaire ne se contente pas de racialiser les VSS — il fabr
 
 Ce mécanisme alimente directement la fuite vers des autoritarismes de droite (Hongrie orbaniste) présentés comme solutions à une insécurité largement construite. La PaduTeam note que le PNJ de droite qui migre en Hongrie interviewe exclusivement des Hongroises anglophones d'extrême droite intéressées par les touristes — et présente ce biais de sélection total comme une "étude de terrain". La [[Internationale fasciste|destination hongroise]] n'est pas anodine : Orbán y a "mis au ban" le féminisme. C'est précisément pour ça qu'elle attire ces profils.
 
+## Stérin : le natalisme ethnique comme projet politique structuré
+
+[[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] documente la version la plus explicite et la plus finançée du natalisme ethnique dans la droite française contemporaine.
+
+[[Pierre-Edouard Sterin]] déclare publiquement vouloir plus de "bébés de souche européenne baptisés" et "évangéliser" la France. Son projet PÉRICLES (150 millions d'euros) finance le RN et des médias d'extrême droite pour atteindre cet objectif.
+
+La PaduTeam fait apparaître la **contradiction terminale** du projet : Stérin se revendique simultanément libertarien (zéro aide sociale, charité privée) et nataliste catholique (bébés blancs, famille patriarcale). Or c'est précisément le capitalisme libertarien qu'il prône qui détruit les conditions matérielles permettant de fonder une famille : mobilité géographique forcée, instabilité de l'emploi, logement inaccessible, impossibilité de s'installer avant 30 ans. Sa Smartbox elle-même incarne le "parasitisme pur" — encaisser la trésorerie des cadeaux avant de reverser aux prestataires.
+
+Zoé apporte la dimension factuelle : avant la légalisation de l'IVG en 1975, autant de femmes avortaient — mais 3 mouraient par jour de complications clandestines. L'URSS avait légalisé l'IVG des décennies avant la France. Restreindre l'IVG ne fait pas plus de bébés blancs : ça tue des femmes. Le natalisme de Stérin est une escroquerie doublement documentée.
+
+La comparaison avec Boloré est stratégiquement utile : le projet Stérin est "plus illuminé" mais moins efficacement hégémonique. Un projet ultra-libéral raciste sans dimension religieuse (type Boloré) est plus adapté aux conditions matérielles contemporaines et donc plus dangereux pour la gauche.
+
 ## Rochedy : le masculinisme intellectuel et ses contradictions internes
 
 [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] complète la galerie du masculinisme avec sa version la plus "intellectuelle" — et donc la plus dangereuse pour les profils qui ne se reconnaissent pas dans le coaching incel vulgaire.
@@ -170,3 +182,4 @@ La contradiction structurelle : il se plaint de la "politisation de tous les suj
 - [[NATACHA POLONY veut PLUS DE VIOLENCE à L'ÉCOLE ?]] — antiféminisme républicain : la féminisation de l'école comme cause de violence scolaire ; réfutation empirique (bonnes sœurs violentes, homicides plus élevés dans les années 60-70) ; vraie cause = violence de classe sur les garçons populaires ; la féminisation de l'Éducation nationale comme vecteur d'égalisation porté par le sujet révolutionnaire féminin
 - [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — virage "coaching hommes-femmes" de Thaïs ; marché des incels comme business sur la misère ; natalisme racial explicite ("faire des bébés blancs") ; déni du viol conjugal et ironie de ses propres VSS tues
 - [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]] — aboutissement conspirationniste du masculinisme : fusion antiféminisme/antisémitisme/conspiration (féminisme = couverture d'un complot sataniste et pédophile contre les mâles blancs hétérosexuels) ; la PaduTeam ne répond pas directement — elle note que c'est la logique à son terme naturel ; négationnisme des fausses accusations (1-5%) et mythe de la garde d'enfants biaisée contre les pères
+- [[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] — natalisme ethnique financé (150M€ projet PÉRICLES) ; contradiction libertarianisme/natalisme catholique ; le capitalisme de Stérin détruit les conditions matérielles permettant la natalité qu'il prétend vouloir restaurer ; IVG : 3 femmes mouraient par jour de complications clandestines avant la légalisation

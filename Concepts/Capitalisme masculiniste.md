@@ -36,7 +36,14 @@ La PaduTeam : "on prend rendez-vous sur internet pour dire je réserve un créne
 
 [^2]: [26:27](https://www.youtube.com/watch?v=7W8760i06fw&t=1587) — "c'est on peut pas parler de ça c'est autre chose [...] une expression de ce que le rapport patriarcal capitaliste fait notamment sur la conception de la sexualité par les hommes"
 
+## Récupération masculine des catégories queer
+
+[[Écharpe]] étend le concept : le capitalisme masculiniste opère aussi en récupérant les outils des mouvements émancipateurs (théorie queer, polyamour, déconstruction) pour les tordre en outils de domination. L'homme qui dit "mes copines ne sont pas assez déconstruites" — c'est du capitalisme masculiniste avec le vocabulaire féministe. [[Geoffroy de Lagasnerie]] en est une version académique : il critique la famille sans jamais interroger sa masculinité ni sa classe.[^lagasnerie]
+
+[^lagasnerie]: [[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]] — [29:49](https://www.youtube.com/watch?v=-4IbTKdxUuI&t=1789) — "la ganerie [...] l'apparition de cette forme-là de nouvelle hégémonie masculine qui est justement un dépassement du patriarcal mais pas pour le meilleur."
+
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse de [[Marc]] comme cas d'école du capitalisme masculiniste
 - [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — application au marché pornographique en ligne : réification tarifée, créneaux d'accès, consentement comme légitimation
 - [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — le concept est explicitement nommé par Zoé comme alternative au terme "patriarcat" pour désigner la domination masculine contemporaine
+- [[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]] — la dimension de récupération masculine des catégories queer, via Écharpe

@@ -149,6 +149,26 @@ Décembre 2024 ouvre un deuxième axe : la fachosphere **judiciaire**. Plusieurs
 
 Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. OseilleTV incarne la contradiction terminale du droitard — patriote de façade, exilé fiscal depuis 13 ans, qui renonce à sa nationalité par panique irrationnelle face à une loi qui ne le concernait pas. La PaduTeam généralise : ces figures vendent l'individualisme radical tout en parasitant les services publics par leur optimisation fiscale. L'exil fiscal n'est pas une liberté — c'est "voler tout le monde."
 
+### La psychose sécuritaire droitarde comme fabrique du sentiment de menace
+
+[[Le DROITARD LE PLUS PANIQUÉ SUR LA SECURITE]] documente un sous-genre médiatique droitard spécifique : le "survivaliste sécuritaire" incarné par Damocles (alias Damoclass), TikTokeur préconisant le PPO (prise de position offensive dans les lieux publics), l'EDC (everyday carry : couteau, garrot tourniquet, lampe tactique), et la formation au combat rapproché.
+
+La PaduTeam démonte la [[Psychose sécuritaire]] en la confrontant aux vraies données statistiques. Si vous êtes blanc et de classe moyenne, votre probabilité d'être victime d'une agression violente de rue est faible. Les vraies causes de mort évitable et de blessure grave sont : accidents du travail (700 morts/an officiellement, bien plus en réalité), cancers professionnels (dizaines de milliers de morts), VSS intrafamiliales (première cause de mort violente des femmes). La droitsphère consacre 80% de ses contenus "sécurité" aux crimes de rue, 2% aux accidents du travail — c'est une inversion totale des risques réels.
+
+Le garrot tourniquet comme symbole : c'est un équipement de combat militaire projeté dans le quotidien civil, signalant la **militarisation de l'imaginaire droitard** — le monde comme zone de guerre, chaque sortie comme une patrouille. Derrière le discours "sécurité", la cible est toujours la même : les personnes racialisées dans l'espace public. La psychose sécuritaire est une forme d'ethnonationalisme pratique.
+
+### L'infrastructure de financement de la fachosphere — le cas Stérin
+
+[[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] illustre la dimension organisationnelle et financière de la fachosphère — plus dangereuse que ses contenus individuels.
+
+[[Pierre-Edouard Sterin]] (milliardaire Smartbox, 1,6 Md€, réfugié fiscal en Belgique) finance un plan d'investissement de 150 millions d'euros via le projet PÉRICLES (Patriotes Enracinés Résistants Identitaires Chrétiens Libéraux Européens Souverainistes) pour faire accéder le RN au pouvoir dès les municipales 2026. Il figure au capital de médias comme Néo et Le Crayon.
+
+La PaduTeam fait deux analyses convergentes :
+
+**La contradiction interne du projet réactionnaire** : Stérin se revendique à la fois d'un catholicisme intégriste racialiste (bébés blancs, baptême, évangélisation) et d'un libertarianisme pur (zéro aide sociale, charité privée). Ces deux positions sont fondamentalement contradictoires : le capitalisme qu'il défend est précisément ce qui détruit la famille patriarcale traditionnelle qu'il veut restaurer. La baisse de natalité n'est pas due au "wokisme" — elle est due à la mobilité géographique forcée, à l'instabilité de l'emploi, à l'impossibilité de se mettre en couple dans les conditions matérielles que son système produit.
+
+**Stérin vs Boloré** : Stérin est "plus illuminé que Boloré" mais potentiellement moins dangereux parce que son projet catholique intégriste est trop radical pour être hégémonique dans la France contemporaine. Un projet Boloré-style (ultra-libéral raciste, sans dimension religieuse) reste plus adapté aux conditions matérielles actuelles — et donc plus efficacement hégémonique.
+
 ### Paye ton droitard #9 : l'idéaliste qui se croit matérialiste
 
 [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] est la dissection la plus complète d'un profil droitard idéaliste qui mobilise la biologie pour masquer son idéalisme. [[Julien Rochedy]] — ancien FNJ, essayiste masculiniste — incarne la contradiction structurelle de la fachosphère intellectuelle : il prétend partir du réel (evo psych, biologie, nature) mais son analyse est résolument idéaliste — il attribue la baisse de natalité, la dépression et le nihilisme à des idées décadentes (féminisme, wokisme) plutôt qu'aux conditions matérielles capitalistes.
@@ -186,6 +206,8 @@ Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle 
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — masculinisme marchand : pseudo-science éthologique, monétisation de la frustration masculine, MGTOW comme aboutissement logique
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — normalisation de l'extrême droite par les médias mainstream (CNews double la fachosphere YouTube) ; la transgression de droite en 2014 = le mainstream en 2025 ; la gauche radicale monte sur YouTube précisément parce qu'ostracisée des plateaux ; pipeline JVC → complotisme → libertarianisme comme démonstration du boutiquierisme sans débouché politique
 - [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — dissection de l'idéalisme masqué en matérialisme ; evo psych comme vernis pseudo-scientifique ; contre-thèse sur la natalité (Corée du Sud, Japon, Hongrie) ; apologie d'Hitler habillée en lettre à une enfant violée ; paternité tardive comme contradiction vivante de sa propre thèse
+- [[Le DROITARD LE PLUS PANIQUÉ SUR LA SECURITE]] — psychose sécuritaire droitarde démontée par les statistiques réelles (accidents du travail, VSS intrafamiliales) ; garrot tourniquet comme symbole de la militarisation de l'imaginaire droitard ; ethnonationalisme pratique derrière le discours "sécurité"
+- [[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] — infrastructure de financement de la fachosphère (150M€ projet Péricles, médias Néo et Le Crayon) ; contradiction interne libertarianisme/catholicisme identitaire ; le capitalisme détruit les "valeurs" qu'il prétend restaurer ; Stérin moins hégémonique que Boloré mais plus fanatique
 
 [^jj1]: [33:33](https://www.youtube.com/watch?v=2-yjOa2ug5U&t=2013) — "non seulement c'est une grille totalement fausse et qui ne résout aucun problème si ce n'est faire monter des tensions entre des classes qui sont elles-mêmes réduites matériellement de la même manière."
 [^naull1]: [41:26](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=2486) — "tu as vraiment des vieux mecs blancs qui veulent pas que des meufs et des gens racisés ça soit à leur table [...] il comprend qu'il n'a plus le contrôle sur ces femmes, cette femme, cette jeunesse."

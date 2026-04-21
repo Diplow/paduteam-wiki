@@ -86,6 +86,16 @@ La PaduTeam défend que la **catégorie clé du marxisme est le possible, pas le
 
 La conscience collective de classe dépasse l'alternative affect/raison que Spinoza et Lordon maintiennent. "Le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza." Cette critique ne conteste pas la bonne volonté de l'approche — elle en signale l'insuffisance stratégique : une politique qui part des affects sans les dépasser ne peut pas produire la rupture hégémonique.
 
+### 17. Le poujadisme comme détournement de la colère vers la droite
+
+[[SARAH SALDMANN DEGOMME LES DEPUTES]] documente un mécanisme qui concerne directement la guerre des gauches : le [[Poujadisme]] comme captation droitière d'une colère populaire légitime.
+
+Sarah Saldmann, avocate médiatique omniprésente sur les plateaux de droite, produit une vidéo virale s'en prenant aux députés comme "parasites vivant aux crochets du contribuable." La PaduTeam y lit un discours poujadiste typique : la rage de la petite bourgeoisie dirigée contre l'État bureaucratique, jamais contre le capital financier. Elle ne dit pas "les actionnaires vous volent" — elle dit "les politiques vous volent." Ce déplacement de la cible est politiquement précieux pour la droite : il canalise la contestation vers le personnel politique plutôt que vers les structures du capitalisme.
+
+L'analyse est prolongée par [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]] : face au mouvement du 10 septembre 2025, la droite populaire produit des stickers Discord, des mèmes, des tweets — mais aucune organisation collective. Nicolas qui paye se révèle être ce qu'il est : un cadre supérieur en fausse conscience ([[Fausse conscience]]), incapable de s'organiser contre ses exploiteurs réels parce qu'il croit défendre ses intérêts en votant pour ceux qui le dépouillent. La PaduTeam : "Est-ce que Nicolas qui paye est en train de devenir C'est Nicolas qui chouine et qui rentre chez lui sans rien faire ?"
+
+Ce double diagnostic — le poujadisme qui "vole" la colère légitime et la fausse conscience qui en fait un outil du capital — est central dans la guerre des gauches : c'est le mécanisme par lequel la droite populiste recouvre un espace que la gauche de rupture doit contester.
+
 ### 17. La stratégie PS anti-Mélenchon de l'été 2025
 
 [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] documente en temps réel la stratégie PS pendant l'été 2025 : préparer 577 candidats, construire une alliance Glucksmann-Ruffin-écolos-communistes *en excluant explicitement la France Insoumise*. La PaduTeam accueille favorablement cette clarification : "On a besoin de cette bataille à gauche." Le PS assume désormais frontalement l'affrontement — ce n'est plus de la "tambouille molle" mais une guerre ouverte.
@@ -109,6 +119,14 @@ La rencontre Bardella/Sarkozy (juillet 2025) est analysée dans [[BARDELLA BETRA
 Cette lecture a une conséquence directe pour la gauche : la droite à deux candidats à 20% chacun garantit la défaite — elle cherche à reconstituer un bloc unifié. Le chemin de la victoire pour LFI passe donc précisément par l'éclatement de ce bloc droite, que la moïsation (Sarkozy → Bardella + Retailleau) est en train de produire malgré elle.
 
 La diabolisation de Mélenchon analysée dans [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] entre dans ce schéma : les accusations absurdes sur son enfance renforcent mécaniquement le vote caché parmi les cadres et classes moyennes qui soutiennent ses positions mais ne peuvent les assumer socialement. La diabolisation est un carburant paradoxal — elle entretient la guerre des gauches tout en renforçant la prophétie.
+
+### 18. Lagasnerie comme figure de la gauche molle dépolitisante
+
+[[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]] illustre un front spécifique de la guerre des gauches : l'appropriation intellectuelle bourgeoise des outils critiques des dominés.
+
+[[Geoffroy de Lagasnerie]] est analysé comme un dominant anciennement dominé (gay bourgeois dans les années 1980) devenu représentant d'une nouvelle hégémonie masculine. Il mobilise les catégories queer comme ressources intellectuelles sans en avoir vécu les contraintes matérielles. Il critique la famille sans jamais penser la parentalité ni les enfants — angle mort absolu qui révèle l'origine de classe de sa critique. La PaduTeam le caractérise comme une figure du "capitalisme masculiniste" : pouvoir post-patriarcal qui récupère les outils des dominés pour dominer autrement.
+
+La position dans la guerre des gauches est précise : Lagasnerie est une figure de la "gauche molle dépolitisante" que la PaduTeam combat. Il est "exotique pour France Inter, pas du tout dérangeant" — signe d'intégration au bloc bourgeois progressiste. Comme Tondelier, il évacue la lutte des classes au profit d'une critique des mœurs qui laisse intact l'ordre social.
 
 ### 16. Les noisettes comme révélateur structurel de la guerre des gauches
 
@@ -296,6 +314,8 @@ La PaduTeam démontre que les trois grands mythes du NFP 2024 sont faux : pas de
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — analyse paradigmatique de la noisette culturaliste : condescendance de classe vs intelligence du peuple ; refus du clivage comme validation de l'hégémonie conservatrice ; prédiction Graphique 6,1%
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — gaullisme sans de Gaulle comme produit structurel de la 5e République ; contradiction arithmétique fatale (gauche Palestine + droite économie ne s'additionne pas) ; 3-4% prédit
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — miroir de la guerre des gauches : à droite bataille de personnes (pas d'idéologie), à gauche bataille d'idéologies sous formes de personnes ; Sarkozy parrain reconstituant le bloc droite ; la moïsation éclate la droite comme LFI espère éclater le centre
+- [[SARAH SALDMANN DEGOMME LES DEPUTES]] — poujadisme comme captation droitière de la colère populaire légitime ; Saldmann dénonce les "politiques parasites" mais jamais le capital financier ; les streamers/influenceurs analysés comme petite bourgeoisie dépendante d'algorithmes capitalistes
+- [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]] — impuissance organisationnelle de la droite populaire face au 10 septembre ; fausse conscience des cadres comme verrou politique ; Nicolas qui paye = outil du capital contre le mouvement social
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — diabolisation absurde comme carburant paradoxal du vote caché ; la guerre des gauches intérieure (Dray/PS) renforce mécaniquement Mélenchon via le vote de ceux qui ne peuvent assumer leur soutien
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — démonstration chiffrée via le Graphique que la quasi-totalité des candidats déclarés ne passeront pas ; espace noisette hyper-fragmenté ; Le Pen confirmée 2e tour malgré les affaires
 - [[ROUSSEL trouve RETAILLEAU TROP MOU]] — Droitisation du PCF : Roussel tient exactement le même discours sécuritaire que Retailleau (lapsus analytique "Fabien Retailleau") ; devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; donne "un permis de taper encore plus fort à la police" ; l'URC présentée comme l'embryon du parti communiste de masse que le PCF n'est plus
