@@ -23,5 +23,9 @@ Dans *La Fabrique des masculinités au travail*, [[Audrey Rivoal]] montre commen
 ## Lien avec la politisation des valeurs
 Le féminisme washing est une application du mécanisme général de récupération des critiques sociales par le capitalisme. Il valide l'argument PaduTeam selon lequel la "politisation par les valeurs" (discours inclusifs) ne suffit pas — il faut une politisation par les structures matérielles d'organisation du travail et de la société.
 
+## Lien avec le capitalisme vert
+
+La même structure analytique s'applique à l'écologie : voir [[Capitalisme vert]], où des entreprises privées et des personnalités politiques comme [[Marine Tondelier]] récupèrent le discours écologiste pour vendre du marché de niche sans transformer les rapports de production. Le "féminisme washing" et le "greenwashing politique" sont deux déclinaisons du mécanisme général de récupération des critiques sociales par le capitalisme.
+
 ## Vidéos où ce concept est mobilisé
 - [[5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE A NOEL]] — développé par Dr Zoé à partir du livre d'Audrey Rivoal

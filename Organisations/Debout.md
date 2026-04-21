@@ -37,3 +37,4 @@ Le clip de lancement est un concentré de tout ce qui ne va pas : micro-cravate 
 
 ## Vidéos où Debout est analysé
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — React au lancement, démolition complète du positionnement
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — Confirmation de l'orientation stratégique : Ruffin-Debout se positionne pour aller chercher les électeurs Glucksmann décrocheurs du bloc central. "Un autre Glucksmann possible" plutôt qu'une force de rupture.

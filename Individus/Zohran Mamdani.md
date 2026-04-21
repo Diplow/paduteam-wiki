@@ -116,6 +116,7 @@ Cuomo a perdu la primaire démocrate face à Mamdani. Cuomo s'est présenté qua
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Réaction à l'élection : 50/42/7, 1,5M portes, généalogie BNC, jeunes femmes classe révolutionnaire (84%), bloc social intermédiaire diplômé, crise du logement NYC, risque droitisation, Front Populaire analogie
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Analyse du lendemain : données moïsation, programme DSA vs NFP, rapport de forces, Marion Maréchal en panique, récupération PS
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Cité pour illustrer la [[Moisation]] américaine partielle et la stratégie d'appropriation du PS
+- [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — [[Cem Yoldas]] qualifié de « Mamdani français » ; parallèle campagne multilingue et programme logement
 
 [^1]: [14:30](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=870) — « Quand il était étudiant, Mamdani avait créé des collectifs étudiants militants pour la Palestine — déjà il y a longtemps, avant le 7 octobre. »
 [^2]: [05:13](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=313) — « presque 5 millions d'inscrits, 2 millions de votants, 41% de participation. Historique depuis 69. »

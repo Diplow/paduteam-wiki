@@ -35,7 +35,17 @@ Le biais sondagier sert la [[Triangulation de la peur]] : en gonflant la droite,
 ## Sous-estimation spécifique des cadres Mélenchon
 La sous-estimation de Mélenchon dans les sondages est précisément localisée sur le segment des **cadres et professions intermédiaires**. Ces électeurs, qui vivent dans des milieux où voter Mélenchon est socialement coûteux (pression professionnelle, conformisme bourgeois), ne le déclarent pas aux instituts. Résultat : même les redressements post-questionnaire restent en dessous de la réalité. "C'est pas que les sondages trichent, c'est qu'ils ont du mal à évaluer" — le biais n'est pas nécessairement délibéré sur ce point, mais structurel.
 
+## Propagande visuelle : le biais par les barres
+
+Au-delà des chiffres bruts, le biais sondagier opère aussi par la **représentation graphique**. En novembre 2025, France Info diffuse un sondage dont les barres ne correspondent pas aux pourcentages affichés : Mélenchon (12%) et Hollande (6,5%) sont représentés à la même hauteur, Bardella (35%) est surreprésenté, Zemmour (6%) dépasse Bertrand (5,5%) — alors que c'est l'inverse. La "correction" publiée après tollé réintroduit de nouvelles erreurs (barre de Zemmour encore réduite, Dupont-Aignan non corrigé).[^france_info]
+
+La PaduTeam identifie le mécanisme comme un recyclage paresseux d'une ancienne infographie — les chiffres ont changé mais pas les hauteurs de barres. L'effet de propagande est réel qu'il soit intentionnel ou non : visuellement, l'écart entre Mélenchon et Hollande est effacé, la domination de la droite est amplifiée. "C'est même pas un débunk de sondage là, c'est un débunk de PowerPoint."[^powerpoint]
+
+[^france_info]: [3:07](https://www.youtube.com/watch?v=hnF8vCljbuo&t=187) — "regardez, il y a deux barres qui sont quasiment... Désolé mais même ça normalement la moitié de 35, c'est 17 et demi... il est même un peu en dessous 17 et demi"
+[^powerpoint]: [5:41](https://www.youtube.com/watch?v=hnF8vCljbuo&t=341) — "C'est même pas un débunk de sondage là c'est un débunk de PowerPoint. C'est votre stagiaire qui fait n'importe quoi."
+
 ## Vidéos où le concept est analysé
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Démontage complet du sondage IFOP 2026, comparaison avec résultats réels depuis 2002
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Décorticage du sondage [[Odoxa]] novembre 2025 : second tour 74-26 fabriqué par disparition d'électeurs et reports fictifs
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Précision sur le segment sous-estimé : les cadres qui ne peuvent pas assumer leur vote ; annonce d'utilisation du Graphique pour "débunker les sondages"
+- [[SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI]] — Démontage de la propagande visuelle : barres non proportionnelles aux chiffres, correction botchée qui n'arrange que partiellement les barres de gauche ; mobilisation de Goldmann ("diplômés analphabètes de la technocratie d'État")
