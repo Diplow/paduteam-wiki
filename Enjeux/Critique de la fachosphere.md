@@ -101,6 +101,14 @@ Plus important : la PaduTeam retourne l'analyse de [[Michel Clouscard]] contre s
 
 La trajectoire de [[Daniel Cohn-Bendit]] ([[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]) confirme le même mécanisme côté libéral-libertaire "de gauche" : Mai 68 → EELV → soutien à Macron → rhétorique du "grand remplacement" à Mayotte. Ce n'est pas la fachosphere au sens strict, mais c'est la même loi de Clouscard appliquée à l'autre bout du spectre "confus" — ceux qui n'ont jamais rompu avec la propriété basculent vers le libéralisme autoritaire dès que la crise l'exige.
 
+### La récupération islamophobe d'un fait divers : mécanisme type documenté
+
+La mort de [[Jean Pormanove]] (18 août 2025) fournit un cas d'école de la mécanique de la récupération islamophobe par les grandes gueules médiatiques. [[Antoine Diers]] — ex-équipe de campagne de Zemmour — présente l'affaire sur [[RMC]] comme une attaque "arabe et/ou musulmane" contre un homme blanc, exportant la rhétorique de l'ensauvagement.
+
+La PaduTeam documente le mécanisme en trois étapes : sélection raciale des faits → racialisation (transformer une histoire de domination capitaliste et d'emprise en "racisme antiblanc") → institutionnalisation via les plateaux RMC. La réponse est portée par le Dr Karim Arou (@docteur_karim_aro_13) : si un mot (la *hagra*) existe pour désigner la méchanceté gratuite, c'est que cette société la condamne comme quelque chose de mal — aucune société ne promeut la méchanceté gratuite comme valeur. Et les week-ends d'intégration des facs de médecine — milieu massivement blanc et bourgeois — produisent exactement les mêmes pratiques d'humiliation. "Les agresseurs s'appelaient Paul-Émile, Charles-Henri, Marie-Charlotte."
+
+Ce n'est pas un "dérapage" des GG — c'est leur fonction : "comment renverser un problème politique profond qui concerne tout le monde en un truc raciste." Le combat culturel concret : c'est Karim, pas Antoine, qui devrait "avoir la place pour parler aux grandes gueules."
+
 ### L'islamophobie institutionnelle comme prolongement de la fachosphere
 
 Le cas [[Merwan Benlazar]] (février 2025) illustre que la logique de la fachosphere ne reste pas dans la sphère YouTube — elle s'institutionnalise. [[Rachida Dati]], ministre de la Culture, intervient directement pour faire virer un chroniqueur de France Télévisions. Les raisons officielles (tweets anciens et banaux) ne tiennent pas — l'ARCOM a confirmé qu'aucun propos dans la chronique n'était répréhensible. La vraie raison : le "délit de sale gueule" institutionnel — un homme arabe avec une barbe et un bonnet Zara.
@@ -145,6 +153,7 @@ Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle 
 
 ## Vidéos clés
 
+- [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]] — cas d'école de la récupération islamophobe par la fachosphere médiatique institutionnalisée : Antoine Diers (ex-Zemmour) sur RMC, mécanisme en trois étapes (sélection raciale → racialisation → institutionnalisation), contre-argument du Dr Karim Arou (la hagra est une logique de domination de classe universelle, pas "culturellement maghrébine") ; formule : "comment renverser un problème politique profond qui concerne tout le monde en un truc raciste"
 - [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] — specimen droitard anonyme disséqué : dog whistle suprémaciste américain, panique morale face à 1% de diversité, culturalisme sans classe (Guilluy), identification raciale trans-classe qui écrase la solidarité de classe réelle ; formule fondamentale : "quand vous politisez pas quelque chose, c'est que son sens politique vous échappe"
 - [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau comme synthèse des deux matrices islamophobes ; falsification chronologique du rapport Terranova ; "parti de l'étranger" comme rhétorique antisémite recyclée ; sujet révolutionnaire (jeunes femmes racisées) traduit en menace islamiste par incapacité à penser la classe
 - [[CHARLES CONSIGNY VEUT PLUS D'ESCLAVES POUR LES VENDANGES]] — idéologie bourgeoise par abstraction sur le travail agricole ; quatre niveaux de rapport aux vendanges lisibles comme stratification sociale ; implication finale : l'état providence "trop généreux" comme explication du désengagement = proposition implicite d'esclavagisme

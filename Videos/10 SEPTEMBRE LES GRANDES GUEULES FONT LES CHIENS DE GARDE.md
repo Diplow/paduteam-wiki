@@ -17,9 +17,11 @@ Réaction aux extraits des Grandes Gueules (RMC) du lendemain du 10 septembre, j
 
 ## Thèses et analyses clés
 
-1. **Les Grandes Gueules = [[Chiens de garde]] médiatiques** — leur sélection systématique d'artisans, commerçants et indépendants à l'antenne n'est pas neutre : à partir du moment où 50% des appelants sont des artisans et des entrepreneurs, ce ne sont que des droitards. L'émission fabrique l'impression que "le peuple" est contre le mouvement.
+1. **Les Grandes Gueules = [[Chiens de garde]] médiatiques** — leur sélection systématique d'artisans, commerçants et indépendants à l'antenne n'est pas neutre : à partir du moment où 50% des appelants sont des artisans et des entrepreneurs, ce ne sont que des droitards. L'émission fabrique l'impression que "le peuple" est contre le mouvement. Ajout de la comparaison avec [[Sud Radio]] : un reportage montre "les habitants eux-mêmes qui débloquent la route" — en réalité cinq pelots dont un agent de sécurité privée avec brassard rouge. "Dire les habitants, ça veut rien dire."
 
-2. **Le [[Graphique]] comme science exacte** — lecture instantanée du profil des appelants à partir de leur doudoune sans manche, leur discours, leur métier. "La sociologie est une science exacte, plus dure que les mathématiques." Artisan menuisier, chauffeur VTC, expert-comptable : chacun tombe exactement à l'endroit prédit dans le graphique.
+2. **Le [[Graphique]] comme science exacte** — lecture instantanée du profil des appelants à partir de leur doudoune sans manche, leur discours, leur métier. "La sociologie est une science exacte, plus dure que les mathématiques." Artisan menuisier, chauffeur VTC, expert-comptable : chacun tombe exactement à l'endroit prédit dans le graphique. La **doudoune sans manche** est décodée en direct : "un habit en haut à droite sur le graphique — soit de l'agriculteur mais riche (vigneron 50+ hectares, céréalier), soit carrément du boutiquier, ou artisan PME, ou cadre dans un petit artisanat (conducteur de travaux)." Verdict sur les images Sud Radio : restaurateur ou artisan.[^graphique-doudoune]
+
+[^graphique-doudoune]: [3:36](https://www.youtube.com/watch?v=OWvRp0vK2Sg&t=216) — "la doudoune sans manche, c'est quand même un habit en haut à droite sur le graphique [...] soit de l'agriculteur riche [...] soit carrément du boutiquier"
 
 3. **Le [[Socialisme petit-bourgeois]]** — La PaduTeam lit un passage du Manifeste communiste sur le "socialisme petit-bourgeois" : "rien ne va mais faut toucher à rien." La petite bourgeoisie perçoit les contradictions du capitalisme mais déteste toute révolution parce qu'elle a encore quelque chose à perdre dans les deux cas (bourgeoisie dominante ou prise du pouvoir par le prolétariat).
 
@@ -31,7 +33,11 @@ Réaction aux extraits des Grandes Gueules (RMC) du lendemain du 10 septembre, j
 
 7. **Première victoire du mouvement** — l'absence des drapeaux patriotes/Nicolas qui paye dans les manifs : "première victoire, il y a pas ces cons dans nos manif."
 
-8. **Prochaines dates proposées** — 18 septembre (grève intersyndicale) + 21 septembre (date festive, dimanche, coïncide avec la déchéance du roi en 1792). Stratégie : deux jambes, radicalité ET masse.
+8. **RMC dans les maisons de retraite** — vecteur de pollution idéologique involontaire. Les gens allument RMC pour le sport, et "entre deux trucs de sport, tu veux avoir des avis comme ça." RMC tourne en boucle dans les EHPAD, chez des gens "qui n'ont pas fait le choix d'allumer cette radio." Proposition : mettre la PaduTeam à 11h30 dans les maisons de retraite "pour les prochaines élections."[^rmc-ehpad]
+
+[^rmc-ehpad]: [24:50](https://www.youtube.com/watch?v=OWvRp0vK2Sg&t=1490) — "c'est des trucs allumés dans les maisons de retraite en boucle [...] ça pollue aussi l'air des gens qui n'ont pas fait le choix d'allumer cette radio"
+
+9. **Prochaines dates proposées** — 18 septembre (grève intersyndicale) + 21 septembre (date festive, dimanche, coïncide avec la déchéance du roi en 1792). Stratégie : deux jambes, radicalité ET masse.
 
 ## Organisations mentionnées
 [[Les Grandes Gueules]], [[RMC]], [[C'est Nicolas qui paye]], [[On ne veut plus]], [[France Insoumise]], [[CGT]], [[Sud Radio]]

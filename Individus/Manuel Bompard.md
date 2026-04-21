@@ -36,3 +36,4 @@ Contraste avec [[Fabien Roussel]] qui exploite l'affaire sur BFM en comparant M�
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
 - [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présent à la table ronde "On ne veut plus" à la Grande Braderie de Lille le 6 septembre 2025 (LFI)
+- [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — Cité pour sa formulation sur le 21 septembre : "LFI soutient mais ne décide pas des dates." Posture de "mise au service du mouvement" valorisée par la PaduTeam comme la juste place du relais politique dans un moment de mobilisation sociale. La table ronde de Lille avec Bompard est disponible sur la chaîne YouTube On ne veut plus.

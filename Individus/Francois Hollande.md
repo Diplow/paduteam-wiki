@@ -67,7 +67,12 @@ Hollande publie un communiqué se félicitant de la chute d'Assad. Cem Yoldas ([
 
 [^hollande_syrie]: [48:02](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2882) — "je lisais un communiqué de François Hollande juste avant de venir ici et lui se félicitait justement de tout ce qui arrivait aujourd'hui [...] le prochain c'est le Hezbollah c'est le Liban"
 
+## "Issu des rangs du NFP" (septembre 2025)
+
+La demande d'EELV (Cyel Châelin) d'un "premier ministre issu des rangs du Nouveau Front Populaire" après la chute de Bayrou est décryptée par la PaduTeam comme une arnaque de personnification : "François Hollande pourrait être premier ministre — il est issu des rangs du NFP." La formule permet de mettre une personnalité étiquetée gauche pour appliquer un programme macroniste. La réplique PaduTeam : "Demander que ce soit le programme du NFP qui gouverne et non pas une personnalité du NFP."
+
 ## Vidéos
+- [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — cité comme PM "issu des rangs du NFP" possible ; illustration de l'arnaque personnalité vs programme
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire du reportage Paris Match : bilan quinquennat, lifestyle bourgeois, prédiction fillonisation par Vallaud en 2027
 - [[Hollande vs Melenchon 2e tour]] — Prophétie du 2002 inversé, Hollande comme "mulet" d'Asimov
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Apparaît à 8% dès le 1er sondage, positionnement sur le Graphique en concurrence avec Glucksmann pour l'espace centre-gauche

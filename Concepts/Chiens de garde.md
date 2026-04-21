@@ -27,6 +27,14 @@ Cas d'école analysé lors du 10 septembre 2024. L'émission a platéformé troi
 
 Tous trois identifiés instantanément par leur position dans le [[Graphique]]. La PaduTeam : "la sociologie est une science exacte, plus dure que les mathématiques."
 
+## Application : [[Sud Radio]] — "les habitants" qui débloquent la route
+
+Cas complémentaire analysé dans la même vidéo. Sud Radio diffuse un reportage sur "des habitants eux-mêmes qui débloquent la route" suite aux blocages du 10 septembre — présenté comme l'expression du peuple contre le mouvement. La PaduTeam décortique : en réalité "cinq pelots" dont au moins un agent de sécurité privée avec brassard rouge et combinaison. "Dire les habitants, ça veut rien dire." Le mécanisme est identique aux GG : une poignée de petits-bourgeois présentée comme le peuple.
+
+Le reportage permet aussi une démonstration de lecture graphique par le vêtement : la **doudoune sans manche** portée par l'un des protagonistes est décodée instantanément comme marqueur "haut à droite sur le graphique" — agriculteur riche (vigneron 50+ hectares), boutiquier ou artisan PME. Verdict en direct : probablement restaurateur ou artisan.[^sudradio-habitants]
+
+[^sudradio-habitants]: [3:04](https://www.youtube.com/watch?v=OWvRp0vK2Sg&t=184) — "regardez la sociologie des habitants" / "cinq pelots qui ont l'air plutôt un peu riches" — dans [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]]
+
 ## Application : Buzin et Lasserre sur les arrêts de travail (août 2024)
 
 Deuxième cas d'école, complémentaire. Cette fois, les chiens de garde ne sont pas des appelants petits-bourgeois mais des expertes institutionnelles et médiatiques qui interviennent pour défendre le budget Bérou (5,5 milliards d'économies sur la santé) :

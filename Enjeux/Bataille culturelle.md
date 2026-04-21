@@ -52,9 +52,17 @@ Le refus d'accréditer le journaliste du Monde auteur de *La meute* aux universi
 - **Les "éditocrates" néolibéraux** (Christophe Barbier, Alain Minc, Jean-Marc Sylvestre) — ont imposé pendant vingt ans leur catéchisme de droite comme "neutralité"
 - **[[Vincent Bollore]]** — détenteur privé des grands médias (CNews, etc.), instrument de droitisation structurelle
 
+## La sociologie des auditeurs comme clé de lecture des médias
+
+La vidéo sur [[Les Grandes Gueules]] du lendemain du 10 septembre (RMC, 13h) illustre en temps réel la thèse de la bataille culturelle : la sélection systématique d'artisans, commerçants et indépendants à l'antenne n'est pas neutre — c'est la fabrication de l'impression que "le peuple" est contre le mouvement. La PaduTeam lit le profil des appelants (artisan menuisier, chauffeur VTC, expert-comptable) à travers le [[Graphique]] : chaque appelant tombe exactement à l'endroit prédit. La doudoune sans manche décodée en direct ("soit de l'agriculteur riche, soit du boutiquier, ou artisan PME") est la démonstration live que la sociologie est une "science exacte, plus dure que les mathématiques."
+
+Le vecteur structurel sous-jacent : RMC tourne en boucle dans les EHPAD et les maisons de retraite, chez des gens "qui n'ont pas fait le choix d'allumer cette radio." Ce n'est pas un choix médiatique des auditeurs — c'est une pollution idéologique passive qui construit l'hégémonie conservatrice par saturation des espaces captifs.
+
 ## Évolution
 
 La PaduTeam est elle-même un acteur de la bataille culturelle : la chaîne a été construite avec l'objectif explicite d'être "présent quotidiennement face à l'extrême droite." L'été 2025 marque une étape supplémentaire : le lancement de [[On ne veut plus]] comme outil transpartisan de contre-communication populaire, et la campagne onveulplus.fr (100 000 affiches générées en 4 jours). La dimension pratique de la bataille culturelle — outils, kits, visuels — est désormais aussi importante que la dimension analytique.
+
+La séquence W37-W38 septembre 2025 approfondit encore la dimension pratique : avec le mouvement social du 10 septembre, la contre-narration médiatique devient une bataille quotidienne. Les capsules filmées sur le terrain ("tenir l'espace médiatique" face à une droite qui dira le soir "il ne s'est pas passé grand-chose"), le Telegram "Balance ton action", les affiches A2 et flyers A5 en masse — tout cela forme un dispositif de contre-communication populaire qui dépasse la vidéo YouTube. "Tenir l'espace médiatique est aussi une bataille" que la PaduTeam mène en temps réel pendant les mobilisations.
 
 La séquence SALOME SAQUE / LFI JOURNALISTES (septembre 2025) cristallise le positionnement : la PaduTeam choisit explicitement le camp de LFI dans la bataille culturelle, soutient le refus d'accréditation comme exercice d'un droit normal, et démonte le consensus médiatique comme fausse neutralité.
 
@@ -65,3 +73,5 @@ La séquence SALOME SAQUE / LFI JOURNALISTES (septembre 2025) cristallise le pos
 - [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]] — bataille culturelle sur le terrain de la théorie : expliquer le marxisme à un public populaire non-politisé comme acte hégémonique ; la vulgarisation n'est pas une concession, c'est une arme
 - [[MOS MAJORUM croit DEBUNKER MARX ca TOURNE tres tres MAL]] — contre-offensive culturelle : démontage d'un "debunker" de Marx devant son propre public ; imposer le cadre marxiste dans l'espace YouTube de droite
 - [[MAMDANI A GAUCHE DE MELENCHON]] — la bataille culturelle à l'international : la victoire Mamdani comme preuve que la gauche de gauche peut gagner culturellement quand elle ne renonce à rien ; programme matériel simple comme outil de conquête hégémonique
+- [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — la communication patronale comme terrain de bataille culturelle : Patrick Martin interview dans *Le Parisien* (journal de Bernard Arnaud) comme espace médiatique bourgeois ; décryptage de l'élément de langage "pro-business", repris par Bardella et validé par Macron ; démontage du lieu commun "les entreprises sont les plus imposées de l'OCDE" sans contexte de productivité ; la PaduTeam répond sur le terrain de la contre-narration directe (format décryptage ligne par ligne)
+- [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — démonstration live du Graphique appliqué à la sociologie des auditeurs médiatiques ; la doudoune sans manche comme signe de classe décodé en temps réel ; RMC dans les maisons de retraite comme vecteur de pollution idéologique passive dans les espaces captifs ; le [[Socialisme petit-bourgeois]] (Marx) comme grille pour lire les appelants artisans

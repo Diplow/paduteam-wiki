@@ -33,9 +33,20 @@ Mélenchon résume dans son tweet : "Comment prétendre faire un cordon sanitair
 ## Stratégie "noisettes" de droite
 Wauquiez incarne la stratégie des noisettes de droite : "face au péril Mélenchon, il faut se regrouper" avec toutes les droites (y compris Reconquête, engambant le RN). Il est "le Tondelier ou le Ruffin de droite" — même dynamique symétrique. C'est la stratégie perdante : "comment voulez-vous faire un rassemblement de la droite sans le RN qui est le parti majoritaire à droite aujourd'hui ?"
 
+## Légitimisme face au 10 septembre 2025
+
+La PaduTeam le filme en direct lors des blocages du 10 septembre. Depuis Lyon, il réagit avec une gravité que la PaduTeam compare ironiquement à son silence sur Gaza : "Il est plus grave sur ça que sur ce qui se passe à Gaza. Il a rêvé de pleurer [...] alors que tu as des gamins qui sont foutus au phosphore blanc." Trois poubelles brûlées l'émeuvent davantage qu'un génocide.
+
+La PaduTeam le class comme **légitimiste** au sens historique : sa phrase "Il n'y a aucune colère qui justifie qu'on aboutisse à casser, qu'on bloque un pays. Aucune." invalide la Révolution française, les grèves de 36 et tout changement obtenu par rapport de force. "Ces mecs devraient dire 'je suis royaliste.' La révolution française est illégitime pour eux. Ce sont des légitimistes — ils sont toujours du côté du pouvoir."[^wauquiez-1]
+
+Il s'indigne des manifestants masqués (au moment où les CRS sont également masqués), des drapeaux palestiniens mêlés aux drapeaux CGT (islam-gauchisme), et mobilise la rhétorique de la "France qui paye" contre la "France qui bloque tout." La PaduTeam renverse : d'où vient la valeur ? Du travail — les manifestants sont précisément ceux qui produisent. C'est Macron et LR qui "cassent les services publics, les solidarités, la santé, les transports."
+
+[^wauquiez-1]: [28:57](https://www.youtube.com/watch?v=wIPv5rAcllI&t=1737) — "Ces mecs sont devraient dire 'je suis royaliste.' [...] Ce sont des légitimistes. Ce sont des gens qui sont toujours du côté du pouvoir." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
+
 ## Vidéos
 - [[Hollande vs Melenchon 2e tour]]
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de sa défaite à la présidence de LR
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire, soutiendra Retailleau-Bardella
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Détruit en débat par le lieutenant de Mélenchon, "finito"
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Stratégie union des droites symétrique aux noisettes de gauche ; "Tondelier/Ruffin de droite" ; ira jusqu'à Reconquête
+- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — légitimiste en sueur devant les blocages, pleure des poubelles brûlées mais reste muet sur Gaza, classé comme "toujours du côté du pouvoir"

@@ -99,6 +99,32 @@ La PaduTeam signale aussi une pratique concrète : des policiers demandent aux r
 [^retailleau-2]: [1:01](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=61) — "je pense qu'il y a une espèce de cynisme de sa part [...] de pousser pousser pousser à bout [...] pour aussi diviser la gauche"
 [^retailleau-3]: [16:39](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=999) — "quand tu as une crise générale du capitalisme [...] et que en plus on se dit 'regarder si l'Allemagne l'a fait nous aussi', je trouve ça extrêmement précis et inquiétant"
 
+## Stratégie de répression du 10 septembre 2025
+
+Face au mouvement de blocages du 10 septembre, Retailleau applique une doctrine radicalement différente de celle utilisée face aux Gilets Jaunes. Les Gilets Jaunes avaient "surpris" les forces de l'ordre — la police avait attendu, pensant que les occupants des ronds-points partiraient. Ils avaient tenu, et la répression n'est venue que tard. Retailleau a "pris du truc" : il sait que si les gens s'installent, ils restent. Sa technique est l'**ultraviolence préventive** — intervenir immédiatement, déloger très vite, violenter, arrêter, déférer en cours de journée — pour dissuader avant que les points tiennent.
+
+Résultat : **800 policiers mobilisés** pour une journée de mobilisation pourtant bien plus petite que les manifs retraites ou les samedis Gilets Jaunes. L'objectif n'est pas de gérer la foule mais d'empêcher par la peur que des points stratégiques (raffineries, plateformes logistiques, ports) soient tenus sur la durée.
+
+La PaduTeam note la contradiction de classe : la police gaze des enfants allant à l'école maternelle, mais c'est le mouvement qui est décrit comme "violent" par le camp d'en face.
+
+## La panique du premier round : George Foreman à Kinshasa
+
+Dans une deuxième vidéo analyse du 10 septembre tournée en soirée, la PaduTeam approfondit le diagnostic stratégique. Retailleau a déployé **80 000 policiers** — sur un maximum national de **108 000** (chiffre atteint aux Jeux Olympiques) — soit **80% des effectifs nationaux** pour faire face à 175 000 à 250 000 manifestants (les mêmes chiffres que le premier samedi des Gilets Jaunes le 17 novembre 2018).
+
+L'analogie : George Foreman face à Mohamed Ali à Kinshasa (1974). Foreman pensait qu'Ali allait danser, il avait préparé une frappe rapide au 2e ou 3e round. Ali l'a eu en encaissant ("rope-a-dope") jusqu'à l'épuisement de Foreman — KO au 8e round. Retailleau a joué Foreman : il a déployé "l'équivalent de la fin des Gilets Jaunes" face à un mouvement qui n'en est qu'au "début des Gilets Jaunes." Il ne peut pas tenir 80 000 policiers pendant 6 mois. "Le mouvement redémarre avec la force du début des gilets jaunes et la répression de la fin des gilets jaunes."[^retailleau-4]
+
+Pendant ce temps, il parle à la presse pour dire "la nuit a été calme" (de 23h à 1h du matin le 9) et "ça a commencé très tôt" (4h, heure normale pour bloquer les flux logistiques). La PaduTeam démonte : mobiliser 80% des forces de police est la preuve que le mouvement est réel, pas marginal. Et ses "tirs de mortier" sont en réalité "des feux d'artifice dans des tuyaux PVC" — langage militarisé pour dramatiser et dissimuler le bilan réel (aucun policier n'a perdu un œil ou une main à cause de feux d'artifice, contrairement aux centaines de manifestants blessés par tirs LBD et grenades).
+
+[^retailleau-4]: [41:24](https://www.youtube.com/watch?v=wIPv5rAcllI&t=2484) — "On démarre pas le premier round à zéro. Les chiffres qu'on vient de donner sont les équivalents du début des gilets jaunes. Les chiffres que eux ont déployés sont l'équivalent de la fin des gilets jaunes." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
+
+## Retailleau et la répression judiciaire : la troisième vague
+
+Dans la vidéo consacrée au témoignage d'Evvora (étudiante de 18 ans arrêtée 55 heures lors des blocages du 10 septembre), la PaduTeam articule une lecture stratégique de la répression en trois temps. La tentative de tuer le mouvement **institutionnellement** (Glucksmann qui le dit "inutile", Bayrou, Faure) a échoué. La répression **policière** (80 000 agents dès le 10) ne peut pas tenir dans la durée. Il reste donc la vague **judiciaire** : gardes à vue prolongées, comparutions immédiates, sanctions administratives arbitraires (interdiction de Paris pendant 6 mois pour une étudiante qui voulait manifester).
+
+Ce séquençage est calculé. Retailleau n'improvise pas — il applique une doctrine de dissuasion sur la durée, en espérant que la menace judiciaire pèse sur les individus avant même leur arrestation. La réponse militante que préconise la PaduTeam : la formation politique préventive (mnémotechnique AMIS, legal teams, refus de la comparution immédiate) pour désamorcer précisément cette mécanique.
+
+Le cas Evvora documente aussi la dimension de genre de la répression policière : propos sexistes, sous-entendus sexuels, mise en scène délibérée de l'humiliation pour "faire péter les plombs" à une militante de 18 ans seule face à cinq policiers. La PaduTeam relie cela directement au taux de violences conjugales dans la police, supérieur à la moyenne nationale — pas comme déviance, mais comme cohérence institutionnelle.
+
 ## Vidéos où Retailleau est analysé
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
@@ -113,3 +139,7 @@ La PaduTeam signale aussi une pratique concrète : des policiers demandent aux r
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes ; lien avec Némésis ; théorie de la fascisation
 - [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Roussel lui reproche d'avoir été trop laxiste lors des violences PSG ; la PaduTeam retourne l'analyse : ce n'est pas Retailleau qui est trop mou, c'est Roussel qui a adopté son discours
 - [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] — 4 000 gendarmes dans les gares, 47 000 interpellations en 2025, "référence allemande" comme signal historique, stratégie de fracturation de la gauche
+- [[AU CŒUR DU 10 SEPTEMBRE ANALYSES A CHAUD]] — doctrine de répression du 10 septembre : 800 policiers, ultraviolence préventive, gaz lacrymogène sur des enfants en maternelle
+- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — 80 000 policiers = 80% des effectifs nationaux, analogie George Foreman (toutes ses forces au premier round), contradiction de classe sur la violence, décryptage des "tirs de mortier" (feux d'artifice PVC)
+- [[LA POLICE DE RETAILLEAU MALTRAITE UNE JEUNE FEMME]] — répression judiciaire comme troisième vague après policière et institutionnelle ; gardes à vue comme torture (privation d'eau, sommeil, toilettes) ; violences sexistes systémiques ; interdiction de Paris comme arbitraire administratif pur
+- [[18 SEPTEMBRE ON EST LA]] — violence policière gratuite documentée en vidéo (jeune fille poussée en train de partir) ; même niveau de déploiement répressif que le 10 septembre (80-90% des effectifs) ; objectif lu comme dissuasion avant le 21 : "la police de Retailleau cherche à discréditer le mouvement, à le salir, à faire en sorte que les prochaines étapes n'arrivent pas"

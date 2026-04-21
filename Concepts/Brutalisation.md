@@ -35,11 +35,27 @@ Le cas de l'attentat de Magdebourg (décembre 2024) étend le concept de brutali
 
 La PaduTeam généralise : la plupart des gens exposés à cette infosphère ne passeront pas à l'acte — "heureusement d'ailleurs." Mais certains, avec des histoires de vie particulièrement chargées, peuvent suivre cette logique jusqu'au bout. C'est la dimension brutalisation appliquée non à la violence d'État mais à la violence idéologique médiatique d'extrême droite.
 
+## Application à la répression du 10 septembre 2025 : violence légitime vs illégitime
+
+La PaduTeam mobilise Weber pour articuler la contradiction : le pouvoir détient le **monopole de la violence légitime** — ce qui lui permet de "détruire des vies, casser des gens, casser des services publics" au nom de l'ordre, tout en qualifiant de violence illégitime un bus brûlé par des manifestants. La question n'est pas "êtes-vous pour ou contre brûler un bus ?" (personne ne l'est en tant que tel) mais "êtes-vous pour ou contre les revendications des manifestants ?" Le "tir de mortier" (feux d'artifice dans des tuyaux PVC) est médiatisé comme arme de guerre ; le gaz lacrymogène sur des enfants en maternelle est présenté comme "maintien de l'ordre." La brutalisation fonctionne dans les deux sens : [[Bruno Retailleau]] produit de la violence pour empêcher la violence — et présente le résultat comme preuve que les manifestants sont violents.[^brutalisation-web]
+
+[^brutalisation-web]: [14:28](https://www.youtube.com/watch?v=wIPv5rAcllI&t=868) — "Vous êtes les destructeurs légitimes. Vous avez le droit de détruire, casser des vies, casser des gens, casser des services publics, mais vous obtenez la légitimité." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
+
+## La garde à vue comme dispositif de brutalisation individuelle
+
+La vidéo sur le témoignage d'Evvora articule une application micro du concept : la garde à vue est un espace de brutalisation délibérée, conçue pour altérer les capacités cognitives et produire une autodénonciation involontaire. Privation de sommeil, d'eau, d'accès aux toilettes — la PaduTeam qualifie ces méthodes de torture — servent à "briser vos capacités de réflexion en garde à vue."
+
+La dimension de genre s'y ajoute : les propos sexistes, sous-entendus sexuels et humiliations contre une étudiante de 18 ans seule face à cinq policiers ne sont pas des dérapages individuels — ils sont cohérents avec un corps dont le taux de violences conjugales est supérieur à la moyenne nationale. La garde à vue est donc un espace où la brutalisation d'État et la violence patriarcale se renforcent mutuellement.
+
+La réponse préconisée n'est pas individuelle mais collective : formation militante préventive (mnémotechnique AMIS, legal teams, protocoles de documentation des blessures), pour que la brutalisation ne produise pas ses effets dissuasifs sur le mouvement.
+
 ## Vidéos où le concept est développé
 
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — explication du concept en réaction à l'admiration pour la justice punitive hongroise
 - Vidéo avec le fou allié (chaîne principale PaduTeam) — développement plus approfondi cité dans le transcript
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — extension à la radicalisation médiatique islamophobe : l'infosphère d'extrême droite comme vecteur de brutalisation
+- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — violence légitime (Weber) : le pouvoir se réserve le droit de détruire, les manifestants sont criminalisés pour des feux d'artifice pendant que la police gaze des enfants
+- [[LA POLICE DE RETAILLEAU MALTRAITE UNE JEUNE FEMME]] — la garde à vue comme dispositif de brutalisation individuelle : privation de sommeil/eau/toilettes comme torture, manipulation cognitive, violences sexistes systémiques ; formation militante comme contre-dispositif
 
 [^1]: [25:47](https://www.youtube.com/watch?v=WA38skrpKp4&t=1547) — "dans les états où on accepte la peine de mort [...] on fait augmenter le taux de violence de la population"
 [^2]: [27:52](https://www.youtube.com/watch?v=WA38skrpKp4&t=1672) — "la loi cas9 qui aboutit à la mort de Rémy Fraisse [...] les forces de l'ordre sont de plus en plus en roulibles en France et on n'a pas vu une baisse de la violence"

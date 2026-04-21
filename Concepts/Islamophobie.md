@@ -93,6 +93,14 @@ Le fait qu'il puisse se dire "de gauche" est précisément rendu possible par la
 
 Parallèle avec le traitement des Juifs au début du XXe siècle : "ce que vivent aujourd'hui les musulmans, c'est d'être attaqués comme un peuple dans le peuple qu'il le gangraine. Voilà, exactement la rhétorique antisémite." Rima Hassan est le nouveau Léon Blum — figure étrangère à la tête d'un parti populaire[^rima].
 
+## Cas pratique : la mort de Pormanove récupérée par les GG
+
+La récupération islamophobe de la mort de [[Jean Pormanove]] sur Kick (août 2025) illustre concrètement le mécanisme des chiens de garde islamophobes. [[Antoine Diers]] (ex-équipe Zemmour, chroniqueur [[Les Grandes Gueules]] sur [[RMC]]) a instrumentalisé le terme *hagra* (darja algérien : méchanceté gratuite) pour qualifier les humiliations de la chaîne Kick comme culturellement maghrébines, transformant une affaire de validisme et d'emprise capitaliste en récit racial d'ensauvagement.
+
+La contre-démonstration : les week-ends d'intégration des facs de médecine (milieu blanc, bourgeois, "Paul-Émile, Charles-Henri") pratiquent exactement les mêmes humiliations — ce qui prouve que la *hagra* est une logique de domination de classe, pas une particularité culturelle. "C'est une affaire de pouvoir et de domination" — cette reformulation est le démontage type du glissement islamophobe.
+
+Analysé dans [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]].
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
