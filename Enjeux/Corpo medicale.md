@@ -45,12 +45,23 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 
 1 femme étudiante en médecine sur 5 agressée sexuellement, 1 sur 30 violée. Les VSS sont normalisées par les traditions carabines (weekends d'intégration, rites sexuels, ambiance de club masculin). La structure hiérarchique genrée et raciale de l'hôpital (médecins hommes ≫ infirmières ≫ aides-soignantes ≫ agents de nettoyage) crée les conditions de domination qui rendent l'agression structurellement possible et impunie.[^6]
 
+### Le mépris de classe envers les patients comme idéologie corporatiste
+
+Une fraction de la corpo médicale produit activement du mépris de classe envers les patients comme idéologie structurelle — pas comme dérapage individuel. [[Vie de Carabin]] en est l'exemple analysé : ses BD systématisent l'idée que les urgences débordent parce que "les patients sont cons." La PaduTeam retourne chaque exemple : les patients aux urgences ne viennent pas "pour rien" — ils n'ont pas d'autre point d'accès. L'absence de médecins généralistes disponibles en soirée (pénurie organisée) et l'absence de lits d'aval sont des choix politiques, pas des comportements individuels. Le même mépris culmine en logique eugéniste : Carabin propose un "permis de procréer" ciblant les femmes en situation précaire qui consomment alcool ou tabac pendant la grossesse — la PaduTeam décortique : c'est du misogynie de classe, ces femmes ont des addictions (pathologie médicale), des contraceptions non fiables, et sont souvent seules après abandon du père.
+
+Ce mépris a une fonction politique identifiée par la PaduTeam : le "petit chef qui ne forme jamais son équipe mais se plaint d'être dérangé" reproduit une asymétrie de pouvoir. Refuser de dispenser le savoir médical (formation à la santé, IA médicale encadrée) n'est pas de l'incompétence — c'est un choix de position supérieure. "Moi je sais, toi tu sais pas."[^7]
+
+### La psychiatrie comme contradiction interne entre soin et contrôle
+
+La psychiatrie hérite de la prison asilaire du XIXe siècle — une discipline "entre la prison et le soin" — et n'a pas résolu cette contradiction. La PaduTeam défend une position dialectique contre l'antipsychiatrie totalisante : il y a des germes progressistes à l'intérieur de la psychiatrie (médecins ambulatoires, militants, pairs aidants) et des éléments réactionnaires (sécuritarisme, vocabulaire normalisateur). Le vocabulaire des professionnels est un révélateur idéologique : "maladie mentale" au lieu de trouble, "altération du consentement" pour justifier les soins forcés — ces termes essentialisent le trouble et effacent les déterminants sociaux. Les soins sans consentement en mode "péril imminent" (59% des cas en 2013 : un seul certificat, aucun deuxième avis psychiatrique) sont le mode le moins légitime et le plus fréquent. La solution progressiste n'est pas l'hospitalisation sous caméra mais les équipes mobiles, les appartements thérapeutiques, les pairs aidants. "La psychiatrie sous le fascisme et la psychiatrie sous le socialisme, c'est pas la même chose."
+
 ## Adversaires de cette position (selon la PaduTeam)
 
 - **[[Fondation Medecins de France]]** (FMF) — syndicat libéral, "au pôle sud" selon la PaduTeam
 - **Collectifs "Médecins pour demain", "Médecin à 50€"** — se présentent comme apolitiques
-- **[[Conseil de l'Ordre des Medecins]]** — protège les agresseurs, censure les dissidents
-- **Vie de Carabin** — idéologue du mépris de classe envers les patients
+- **[[Conseil de l'Ordre des Medecins]]** — protège les agresseurs, censure les dissidents ; 129 plaintes nécessaires pour qu'un gynécologue du Val-d'Oise soit mis en cause
+- **[[Vie de Carabin]]** — idéologue du mépris de classe envers les patients, jusqu'à la logique eugéniste du "permis de procréer"
+- **[[Tibo InShape]]** — produit une vidéo sur la psychiatrie qui ne rassure pas et ne critique rien ; les professionnels filmés tiennent un vocabulaire "psychophobe et stigmatisant" devant 20 millions d'abonnés
 - **Gouvernements néolibéraux successifs** — co-constructeurs de la pénurie
 
 ## Alliés (selon la PaduTeam)
@@ -75,6 +86,8 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 
 **2025** (CARABIN, MANIFESTATIONS, LFI, LÉAUMENT) : Radicalisation visible. La PaduTeam nomme franchement "la frange la plus réactionnaire de la corporation médicale" et son alliance avec le néolibéralisme. La critique devient **politique de classe** : "la pénurie est un choix, non une fatalité". Propose la fonctionnarisation et la fin de la médecine libérale comme horizon.
 
+La PaduTeam étend sa critique au **champ psychiatrique** (mars 2025). La psychiatrie asilaire est analysée comme héritière de la prison, avec ses neuf UMD en France. La position n'est pas antipsychiatrique — elle défend les germes progressistes (ambulatoire, pairs aidants) et s'attaque aux pratiques sécuritaires. La critique vise aussi le vocabulaire normalisateur tenu par les professionnels dans les espaces de vulgarisation grand public.
+
 ## Vidéos clés
 
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — fondation du combat MeToo Médecine
@@ -82,7 +95,8 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 - [[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] — analyse de la conscience de classe corporatiste
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — grève de droite décortiquée
 - [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée (vidéo clé du batch)
-- [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en action
+- [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en action, jusqu'à la logique eugéniste du permis de procréer ; outil de radicalisation de conscience de classe
+- [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]] — extension du combat au champ psychiatrique : contradiction soin/contrôle, vocabulaire normalisateur, critique des soins sans consentement, ESAT comme exclusion validiste
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — la solution de gauche
 
 [^1]: [2:33](https://www.youtube.com/watch?v=XT_0YFmY_lM&t=153) — "il y a 87 % du territoire français qui est actuellement désertifié et contrairement à ce qu'on pense, c'est pas que dans les campagnes. Le plus grand désert médical de France, c'est l'Île-de-France 96 % du territoire qui est désertifié"

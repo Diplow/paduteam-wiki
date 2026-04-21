@@ -41,4 +41,5 @@ Le RN vote la motion de censure NFP contre le gouvernement Barnier sur le PLFSS 
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Stagnation dans les grandes villes, avancée dans le Sud. Clivage géographique = clivage de ligne. Analyse de [[Felicien Faury]] sur le vote RN dans le Sud (PACA).
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — vote RN pour la censure Barnier ; la PaduTeam défend le pragmatisme contre l'antifascisme moral abstrait
-- [[BO
+- [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — 4 millions d'euros détournés, 2 millions d'amende pour le RN ; condamnation révèle que l'extrême droite est "exactement pareil que le reste du bloc bourgeois, voire pire au niveau de la fraude"
+- [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Recomposition RN post-condamnation ; Bardella hérite du dilemme ; pire config pour la gauche = alliance Bardella-Retailleau

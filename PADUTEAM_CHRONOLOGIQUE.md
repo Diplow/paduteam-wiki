@@ -214,19 +214,20 @@ Slug branche : ingest-batch/paduteam-2025-w11-w12
 ---
 ## Batch 12 — Semaines 2025-W13 à 2025-W14 (24 mar 2025 – 6 avr 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w13-w14
+Fiches créées : [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]], [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]], [[Debunk Graphique Bad Mulch]], [[RACISME ANTI-ASIATIQUE AYMERIC LOMPRET DERAPE L'ANALYSE DE LINH LAN DAO]], [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]], [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]], [[LE PEN CONDAMNEE MELENCHON SCANDALISE]], [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]], [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]], [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] + 7 individus, 3 organisations, 6 concepts, 1 enjeu créé (Antiracisme institutionnel comme arme), 5 enjeux enrichis
 
-- [ ] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP C0NS (selon Chris, pas Zoé hein) !!
-- [ ] Faut-il INTERNER TIBO INSHAPE en PSYCHIATRIE ? Ce PSYCHIATRE RÉPOND !! (@pasduhring)
-- [ ] Cet INGÉNIEUR MENTAL croit DÉBUNKER le GRAPHIQUE : ÇA TOURNE MAL !! (Chris X @pasduhring)
-- [ ] RACISME ANTI-ASIATIQUE : AYMERIC LOMPRET DÉRAPE, l'ANALYSE de LINH LAN DAO !!
-- [ ] Les ÉTUDIANTS sont EN COLÈRE : VOICI POURQUOI !! (avec l'UNION PIRATE et SOLIDAIRES ÉTUDIANT.E.S)
-- [ ] MARINE LE PEN INÉLIGIBLE POUR 2027 : QUELLES CONSÉQUENCES ? (@Dr_Zoé_YT x @pasduhring)
-- [ ] LE PEN CONDAMNÉE, MÉLENCHON SCANDALISÉ (et il a raison) !? (@pasduhring X Chris de Positions Revue)
-- [ ] MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !!
-- [ ] PAYE TON DROITARD #8 : VALEK, de PUCIX de JVC à COACH LIBERTARIEN !! ( @Dr_Zoé_YT  x Padu)
-- [ ] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN !! (x @Dr_Zoé_YT et Chris)
+- [x] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP C0NS (selon Chris, pas Zoé hein) !!
+- [x] Faut-il INTERNER TIBO INSHAPE en PSYCHIATRIE ? Ce PSYCHIATRE RÉPOND !! (@pasduhring)
+- [x] Cet INGÉNIEUR MENTAL croit DÉBUNKER le GRAPHIQUE : ÇA TOURNE MAL !! (Chris X @pasduhring)
+- [x] RACISME ANTI-ASIATIQUE : AYMERIC LOMPRET DÉRAPE, l'ANALYSE de LINH LAN DAO !!
+- [x] Les ÉTUDIANTS sont EN COLÈRE : VOICI POURQUOI !! (avec l'UNION PIRATE et SOLIDAIRES ÉTUDIANT.E.S)
+- [x] MARINE LE PEN INÉLIGIBLE POUR 2027 : QUELLES CONSÉQUENCES ? (@Dr_Zoé_YT x @pasduhring)
+- [x] LE PEN CONDAMNÉE, MÉLENCHON SCANDALISÉ (et il a raison) !? (@pasduhring X Chris de Positions Revue)
+- [x] MACRON remet un PRIX ANTIRACISTE à ARTHUR et SOPHIA ARAM !!
+- [x] PAYE TON DROITARD #8 : VALEK, de PUCIX de JVC à COACH LIBERTARIEN !! ( @Dr_Zoé_YT  x Padu)
+- [x] Ces FÉMINISTES sont SOLIDAIRES de MARINE LE PEN !! (x @Dr_Zoé_YT et Chris)
 
 ---
 ## Batch 13 — Semaines 2025-W15 à 2025-W16 (7 avr 2025 – 20 avr 2025)

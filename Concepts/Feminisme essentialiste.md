@@ -43,3 +43,4 @@ La PaduTeam : "Voir le féminisme comme 'toutes les femmes sont dominées et tou
 
 ## Vidéos où le concept est développé
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]]
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — le Pacte comme cas d'école d'essentialisme : "nous sommes semblables" et "nous formons un peuple" posent une nature commune biologique aux femmes ; critique du biologisme sous-jacent (et du potentiel antitrans)

@@ -63,6 +63,7 @@ Marine Le Pen a imposé une stratégie de [[Dediabolisation]] : distancer le RN 
 
 ## Vidéos où Le Pen est analysée
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
+- [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud à la condamnation (avec Zoé) : Le Pen comme frein à l'Union des droites, paradoxe Bardella, scénario Sarkozy 2007, appel d'air droitier
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Condamnation et inéligibilité immédiate ; analyse des conséquences pour 2027 ; paradoxe stratégique pour Bardella
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[GRAPHOMARXISME x Positions Revue]] — Analysée comme incarnation de la [[Troisieme voix]] : elle capte les classes en crise, pas la droite classique. Totalement opposée à Fillon malgré la proximité apparente
@@ -70,3 +71,4 @@ Marine Le Pen a imposé une stratégie de [[Dediabolisation]] : distancer le RN 
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Confirmation du graphique : sera candidate malgré la condamnation, accède au 2e tour, perd face à Mélenchon. "Grosse révélation du graphique" que les gens "ne seront pas prêts" à entendre
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction de sa stratégie avec Bardella (peuple français vs nation économique) ; abandon du souverainisme réel sur l'UE ; démenti de la thèse "pro-Poutine"
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Distinction trumpisme (Le Pen) vs mélonisme (Bardella) ; origine de l'électorat populaire RN (ex-sarkozyste, pas ex-PCF) ; projection à ~20% au 1er tour en 2027
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — La PaduTeam : "Je ne considère pas Marine Le Pen comme ma sœur" ; son parti islamophobe "demande à retirer des droits aux femmes qui couvrent leurs cheveux" ; elle joue "contre les intérêts des femmes"

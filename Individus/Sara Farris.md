@@ -29,3 +29,4 @@ La PaduTeam la considère comme "la dernière génération des féministes marxi
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — recommandation de *Au nom des femmes* et détail de l'apport en économie politique
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — la PaduTeam mobilise Farris pour analyser la nanie ougandaise de Yasuk ; dénonce les "tartufes sur internet qui parlent de Sara Farris sans l'avoir lue" et qui réduisent son œuvre à un problème de droits LGBT, alors qu'elle fait d'abord de l'économie politique
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — mobilisée pour démontrer que les dominations ne s'additionnent pas mais produisent des configurations spécifiques ; exemple de la femme arabo-musulmane "modérée" moins ciblée que la femme voilée
