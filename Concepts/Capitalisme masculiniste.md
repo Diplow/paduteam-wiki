@@ -26,7 +26,7 @@ La destruction de la cellule familiale patriarcale (divorce, familles monoparent
 La PaduTeam : "C'est le macronisme de la baise." — la même logique de flexibilité capitaliste (fin du CDI, ubérisation) appliquée aux relations.
 
 ## Lien avec la critique de la liberté
-Le capitalisme masculiniste mobilise le concept de "liberté" pour se légitimer (liberté sexuelle, liberté de choisir sans engagement). Mais c'est la [[Liberte des dominants]] : la liberté de dominer sans contrainte institutionnelle.
+Le capitalisme masculiniste mobilise le concept de "liberté" pour se légitimer (liberté sexuelle, liberté de choisir sans engagement). Mais c'est la [[Liberte des dominants]] : la liberté de dominer sans contrainte institutionnelle. La PaduTeam nomme explicitement son expression discursive le [[Libertarisme du cul]] — même structure que le libertarisme économique, appliqué aux relations amoureuses.
 
 ## Application au travail du sexe
 

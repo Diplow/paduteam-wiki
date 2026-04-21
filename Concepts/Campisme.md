@@ -30,3 +30,4 @@ Précision doctrinale formulée par la PaduTeam dans [[TRUMP VEUT ANNEXER LE GRO
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — formulation la plus nette du campisme étendu : « deux solutions », droit international vs retournement d'alliances, loi du plus fort comme phase du capitalisme
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — [[Paul Elek]] revendique explicitement le campisme assumé sur la Palestine : refus de la neutralité fictive, droit à la résistance armée anticoloniale (protocole additionnel 1977), critique du faux débat « terrorisme vs légitime défense »
+- [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — application à [[Gavin Newsom]] : macroniste sur son corpus d'idées mais objectivement progressiste face à Trump, comme les nationalismes bourgeois contre l'empire austro-hongrois chez Marx-Engels 1840 ; « on a intérêt à la partition des USA »

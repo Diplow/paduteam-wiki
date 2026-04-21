@@ -110,6 +110,16 @@ Le syllogisme de [[Alain Jakubowicz]] (LICRA) est décortiqué : défendre la l�
 
 Face à ça, la PaduTeam formule un impératif stratégique rare : même ceux qui n'aiment pas Mélenchon doivent le défendre. "Ce qui lui arrive à lui sera une déferlante pour tous les gens qui voudraient le prendre par sa gauche." La chasse à l'homme contre Mélenchon est une chasse contre le corps social radical tout entier. Et les libertés publiques ne sont jamais une position de principe pour la bourgeoisie — "elles sont tolérées quand elles protègent la propriété privée, abandonnées quand elles la menacent."
 
+### 11. L'écologie punitive et la psychologisation des désaccords comme armes de la noisette
+
+[[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!]] documente un mécanisme spécifique à EELV dans la guerre des gauches : la [[Psychologisation des desaccords politiques]]. En réduisant les désaccords entre Mélenchon et Glucksmann à des "problèmes d'ego", Tondelier efface que derrière les personnes il y a des lignes (Gaza, ZFE, crédits de guerre). La PaduTeam la juge "plus dépolitisante que Glucksmann lui-même" : au moins Glucksmann assume une ligne. Tondelier rend le débat impossible en prétendant que le débat n'existe pas. Conséquence : sans radicalité ni cohérence, EELV fabrique le tapis rouge pour le fascisme qu'elle prétend combattre.
+
+L'[[Ecologie punitive]] comme révélateur de classe : les ZFE et bonus pour voitures électriques d'EELV ignorent que l'organisation spatiale du capitalisme rend la voiture nécessaire pour les classes populaires rurales — un ouvrier à 1300€/mois à 40 km de son travail n'a pas "choisi" sa vieille diesel. Ce programme de classe "haut milieu" explique que EELV finira à 3-4% : ils n'ont de légitimité ni dans les classes populaires ni dans les classes bourgeoises, et "personne ne veut d'eux ni à la FI ni au PS."
+
+### 12. La droitisation du PCF comme abdication idéologique
+
+[[ROUSSEL trouve RETAILLEAU TROP MOU]] fournit une démonstration clinique. Roussel tient exactement le même discours sécuritaire que Retailleau — "les jeunes n'ont plus peur de la police", durcissement des peines, plus de CRS — sans aucune analyse matérialiste des causes de la violence (produite par "de la violence étatique, policière, administrative, de contrôle, par de la pénurie"). Le lapsus "Fabien Retailleau" de Padu est retenu comme diagnostic : les deux tiennent le même discours. Par cette posture, Roussel ne récupère aucun électorat de droite — "il n'y a aucun pipeline" — mais devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais." La PaduTeam conclut en présentant l'[[Union pour la Reconstruction Communiste]] comme l'embryon du PCF de masse que Roussel a abandonné.
+
 ### 10. La structuration de la gauche internet comme enjeu de la guerre des gauches
 
 [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] reformule la guerre des gauches à l'ère numérique. La question n'est pas si un streamer peut avoir des convictions de gauche — c'est si la forme sociale de son activité (auto-entreprise capitaliste) est compatible avec le militantisme. La réponse de la PaduTeam est structurale : en dernière instance, c'est le capital qui tranche. L'affaire Dany Caligula en est la démonstration empirique.
@@ -139,3 +149,5 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — mécanisme de la "gauche de droite" dans les médias réactionnaires ; trajectoire Clouscard des libéraux-libertaires vers le néofascisme
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]]
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]
+- [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!]] — Tondelier comme "noisette bio" : plus dépolitisante que Glucksmann lui-même, réduit les lignes politiques à des "histoires d'ego", inclut Macron dans les antifascistes, prépare le "tapis rouge pour le fascisme" ; prévision : 3-4% à la présidentielle 2027
+- [[ROUSSEL trouve RETAILLEAU TROP MOU]] — Droitisation du PCF : Roussel tient exactement le même discours sécuritaire que Retailleau (lapsus analytique "Fabien Retailleau") ; devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; donne "un permis de taper encore plus fort à la police" ; l'URC présentée comme l'embryon du parti communiste de masse que le PCF n'est plus

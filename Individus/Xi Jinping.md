@@ -35,6 +35,16 @@ La Chine a pu répliquer symétriquement aux droits de douane de Trump (145% →
 ## Relations
 - [[Donald Trump]] — adversaire géopolitique et commercial, mais Trump l'affaiblit involontairement en renforçant la Chine
 
+## Rôle dans la crise californienne (juin 2026)
+
+La PaduTeam restitue la position chinoise sur les émeutes de Los Angeles avec délectation : Xi Jinping et les comptes officiels du [[Parti Communiste Chinois]] « s'en donnent à cœur joie pour parler de la libération du peuple californien », rappellent que « la Californie a longtemps appartenu au Mexique » et déclarent regarder « ce qui se passe à Los Angeles pour voir si les libertés allaient être préservées ». Prédiction PaduTeam explicite : « Pékin sera le premier pays à reconnaître ce pays officiellement »[^la1] — une Californie indépendante.
+
+Le mécanisme matériel est limpide : **20% des exportations chinoises vers les USA transitent par la Californie**[^la2]. Pendant les émeutes, Chine et États-Unis négocient simultanément à Londres sur les droits de douane — Xi surveille la crise LA parce qu'une Californie autonome lui serait directement rentable (équivalent de 10 points de droits de douane de moins). La Chine ne soutient pas le CalExit par idéalisme progressiste — elle y trouve un intérêt matériel concret.
+
+[^la1]: [9:25](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=565) — « Pékin sera le premier pays à reconnaître ce pays officiellement. »
+[^la2]: [37:48](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2268) — « 20% de ces exportations [chinoises vers les USA] sont vers la Californie [...] si la Californie n'en fait pas partie, pour eux c'est l'équivalent de 40% [au lieu de 50% négociés]. »
+
 ## Vidéos où Xi Jinping est analysé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
+- [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — la Chine comme parrain géopolitique du CalExit, 20% des exports en transit, Pékin premier à reconnaître

@@ -36,6 +36,10 @@ Le RN vote la motion de censure NFP contre le gouvernement Barnier sur le PLFSS 
 
 [^rn_motion]: [14:33](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=873) — "l'objectif c'est pas d'être plus pur que pur, l'objectif c'est que la vie des gens elle soit mieux"
 
+## Guerre interne Le Pen / Bardella
+
+Le [[Graphique]] avait prédit cette scission. Deux lignes irréconciliables cohabitent : [[Marine Le Pen]] incarne la tradition antisystème populiste (trumpienne, capte les classes populaires et les outre-mer), [[Jordan Bardella]] joue la "vraie droite" et l'union des droites (proche de [[Bruno Retailleau]]). Cet écart de ligne — aggravé par la guerre de légitimité présidentielle — rend la cohabitation impossible. La PaduTeam mobilise la comparaison avec le PS : tant que Mitterrand donnait une ligne cohérente, les égos se rangeaient derrière ; quand la ligne s'est fracturée entre néolibéraux et socialistes traditionnels, les égos ont pris le dessus.
+
 ## Vidéos où l'organisation est analysée
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
@@ -43,3 +47,4 @@ Le RN vote la motion de censure NFP contre le gouvernement Barnier sur le PLFSS 
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — vote RN pour la censure Barnier ; la PaduTeam défend le pragmatisme contre l'antifascisme moral abstrait
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — 4 millions d'euros détournés, 2 millions d'amende pour le RN ; condamnation révèle que l'extrême droite est "exactement pareil que le reste du bloc bourgeois, voire pire au niveau de la fraude"
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Recomposition RN post-condamnation ; Bardella hérite du dilemme ; pire config pour la gauche = alliance Bardella-Retailleau
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Début de la scission : tacle Nouvelle-Calédonie, guerre de légitimité présidentielle, deux lignes irréconciliables ; prophétie du Graphique qui se réalise

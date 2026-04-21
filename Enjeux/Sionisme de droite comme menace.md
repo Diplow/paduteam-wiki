@@ -48,7 +48,7 @@ La posture Habib s'est durcie au fil des événements :
 - **Mai-juin 2024 (Guiraud)** : weaponise l'incident de l'Assemblée contre LFI
 - **Été 2024 (Cancer)** : sur Radio J, qualifie le peuple palestinien de "cancer" sans que les médias réagissent
 - **Novembre 2024 (CPI)** : qualifie le mandat d'arrêt de la CPI contre Netanyahu d'"antisémite" et de "mascarade"
-- **2025 (Flottille)** : fustige la flottille pour la liberté comme "croisière s'amuse antisémite"
+- **2025 (Flottille)** : fustige la flottille pour la liberté comme "croisière s'amuse antisémite" avec un sous-texte misogyne assumé ("les selfies, la bronzette" — la PaduTeam : "on aurait jamais dit ça s'il y avait eu que des hommes sur le bateau"). Chiffres retournés : 1 400 000 repas distribués pour 2 millions d'habitants sur 2 ans signifient qu'il "reste pas beaucoup de gens."
 Chaque étape révèle un glissement : le discours de Habib s'est radicalisé parallèlement à la radicalisation du gouvernement Netanyahu.
 
 ## Vidéos clés

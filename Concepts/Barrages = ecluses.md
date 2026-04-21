@@ -26,5 +26,9 @@ Selon la PaduTeam : la seule réponse réelle à l'extrême droite est une répo
 
 Macron a gagné deux seconds tours en jouant l'anti-Le Pen. S'arroger le capital symbolique antifasciste sans changer les conditions qui produisent le fascisme.
 
+## Concept associé
+[[Tapis rouge pour le fascisme]] — formulation complémentaire : là où "écluse" décrit un frein illusoire, "tapis rouge" insiste sur le rôle actif de la stratégie de barrage dans la fabrication du fascisme.
+
 ## Vidéos où le concept est développé
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — La PaduTeam : "Ce ne sont pas des barrages, ce sont des écluses"
+- [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Tondelier inclut Macron dans les antifascistes : version Tondelier du barrage républicain, "tapis rouge" pour l'extrême droite

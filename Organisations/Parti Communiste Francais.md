@@ -62,6 +62,14 @@ La PaduTeam assume pour sa part la Révolution française, la Commune de Paris, 
 
 La PaduTeam opère une distinction entre [[Fabien Roussel]] (ligne droitière, stratégie de respectabilité, anti-LFI, islamophobie) et [[Fabien Gay]] (sénateur, directeur de L'Humanité, pratique de la lutte des classes parlementaire). Gay est présenté comme "supérieur à Roussel" — non pas sur la hiérarchie personnelle mais sur la pratique militante concrète : il prépare ses commissions d'enquête, lit les dossiers, confronte les PDG avec leurs propres chiffres.
 
+## Le PCF et la sécurité : la longue histoire du pipeline droitier
+
+La PaduTeam cite le communiqué d'[[Etienne Balibar]] quittant le PCF en 1980 (publié par [[Positions Revue]]) pour rappeler que la tentation droitière sur les questions de sécurité ne date pas de Roussel : "c'est un vieux pipeline." Dès 2005, le PS et des gens comme Roussel voulaient "plus de fermeté dans les quartiers" au moment même où les émeutes exprimaient les effets de la pénurie et de la violence policière. Le discours post-PSG de Roussel est présenté comme la continuation logique de cette trajectoire.
+
+La PaduTeam formule l'attente normative : "on attend d'un parti communiste [...] de masse et de classe qu'il fasse ses analyses de la situation concrète." Ce travail d'analyse matérialiste — montrer comment la pénurie et la concurrence créent les conditions de la violence — est précisément ce que Roussel refuse de faire, substituant à l'analyse marxiste un imaginaire sécuritaire emprunté à la droite.
+
+Ce passage est aussi l'occasion de signaler l'[[Union pour la Reconstruction Communiste]] comme alternative en construction.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -72,3 +80,4 @@ La PaduTeam opère une distinction entre [[Fabien Roussel]] (ligne droitière, s
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — PCF ne pèse plus tellement plus que NPA ; stratégie "PCF Great Again" accélère la chute ; militants de terrain compréhensibles mais ligne Roussel catastrophique
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Deffontaines incapable du discours de dépassement historique ; piégé par Praud sur le chiffre des 50 millions ; reniement vs dépassement comme diagnostic central
 - [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — Gay présenté comme "Fabien supérieur à Roussel" ; distinction entre pratique militante parlementaire de Gay et stratégie de respectabilité médiatique de Roussel
+- [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Discours sécuritaire post-PSG comme exemple du pipeline droitier ; citation du communiqué Balibar 1980 ; le PCF incapable d'analyse matérialiste de la violence ; l'URC présentée comme horizon de reconstruction
