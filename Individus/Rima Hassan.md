@@ -28,6 +28,14 @@ La PaduTeam la défend : "Il y a un racisme évidemment." Et rappelle son exempl
 ## Candidature Saint-Ouen (municipales 2026)
 [[Eric Coquerel]] propose que Rima Hassan se présente à Saint-Ouen. Bouamrane entre dans une fureur que Padu analyse via le [[Graphique]] : Hassan a une "aura" dans les quartiers populaires "pour son combat pour la Palestine" et parce qu'elle est soutenue par Mélenchon — bien mieux placée que Hollande ou Mayer-Rossignol dans ces quartiers. Bouamrane voit sa mairie menacée.
 
+## Incident de l'avion Tel Aviv-Paris (juin 2025)
+
+Lors de son rapatriement forcé de Palestine par les autorités israéliennes, Rima Hassan est filmée dans l'avion Tel Aviv-Paris par une bourgeoise sioniste du 7e arrondissement parisien (boutique boulevard Saint-Germain). Cette femme la filme en brandissant un drapeau israélien, dit "Am Yisrael Chai", puis dénonce des passagers arabes du vol au commandant de bord en les désignant comme des "petits merdeux d'arabes qui foutent la révolution". Elle poste ses vidéos sur les réseaux sociaux, récoltant un buzz qui lui vaut une invitation sur CNews.
+
+La PaduTeam contextualise : Rima Hassan reçoit quotidiennement des menaces de mort, des menaces de viol et des appels depuis Israël où des voix lui disent en vocal "on est en train de torturer un gars, si tu réponds pas on le tue". La femme à l'écharpe israélienne dans l'avion n'est pas une menace — c'est une anecdote dans un quotidien de harcèlement intense.
+
+L'essentiel de la vidéo porte sur les déclarations ultérieures de cette femme, qui déclare avoir "zéro compassion pour les Palestiniens" et que les enfants palestiniens sont des "futurs terroristes" — propos analysés par la PaduTeam comme structurellement identiques au [[Discours genocidaire|discours génocidaire]] nazi documenté par l'historien [[Johann Chapoutot]]. Ces propos sont diffusés librement sur CNews et les réseaux sociaux, pendant que des syndicalistes CGT sont condamnés pour "apologie du terrorisme". C'est la [[Double mesure]] appliquée au discours.
+
 ## Arc répression / censure (2024-2025)
 
 Rima Hassan est au croisement de tout ce que le bloc dominant déteste : LFI, mouvement pro-Palestine, droit international, femme arabe, féministe. "La femme à abattre pour mettre un coup de pression à toutes ces branches." (Chris, [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]])
@@ -68,6 +76,6 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 - [[Rima Hassan TAILLE Le Crayon]] — Affaire du Crayon / interview tronquée
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Conférence interdite à Lille
 - [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — Occupation Sciences Po, tweet "soulèvement"
-- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Bourgeoise sioniste dans l'avion
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Harcèlement filmé dans l'avion Tel Aviv-Paris ; analyse du discours génocidaire de la bourgeoise via Chapoutot ; asymétrie judiciaire (propos génocidaires impunis vs militants poursuivis)
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Dénonce la ligne éditoriale de BFM TV
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan

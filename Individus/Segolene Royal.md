@@ -17,3 +17,4 @@ Mentionnée dans les dynamiques électorales 2002-2024 comme représentante du "
 
 ## Vidéos où l'individu est analysé
 - [[Faut-il en finir avec le NFP]]
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — mentionnée comme modèle de candidate sabotée par son propre camp : "Ségolène Royal du RN" comme scénario pour Bardella si Le Pen lui tire dans les pattes (Strauss-Kahn, Fabius contre Royal en 2007)

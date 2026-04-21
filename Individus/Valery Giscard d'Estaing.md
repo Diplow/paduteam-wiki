@@ -16,3 +16,4 @@ En 1974, Giscard et [[Francois Mitterrand|Mitterrand]] sont tous deux proches du
 
 ## Vidéos où l'individu est analysé
 - [[Faure oblige de trahir]] — Référence historique 1974 pour illustrer la centralité barycentrique en configuration bipartite
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Cité dans la [[Strategie Chirac 74]] : Chirac lui apporte une partie de l'UDR gaulliste, il gagne à 129 000 voix sur Mitterrand, fait Chirac premier ministre

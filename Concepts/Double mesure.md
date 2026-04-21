@@ -38,3 +38,4 @@ La double mesure alimente l'[[Impunite absolue]] du colonialisme israélien et s
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Formalisation du double mesure judiciaire et spatial
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Double mesure systématique : Rima vs Édouard Philippe (procédure ouverte sans grand bruit médiatique)
 - [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — Double mesure médiatique : étudiants pro-Palestine = antisémites décomplexés, étudiants pro-Israël = élite légitime
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Double mesure discursive : syndicalistes CGT condamnés pour un tract sur le 7 octobre, pendant qu'une bourgeoise déclare "zéro compassion pour les enfants palestiniens" sur CNews sans aucune poursuite

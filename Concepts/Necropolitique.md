@@ -18,8 +18,8 @@ Concept développé par le philosophe camerounais Achille Mbembe. La nécropolit
 La nécropolitique ne punit pas le crime : elle fabrique des conditions dans lesquelles certaines populations sont exposées à la mort comme politique d'État. La Méditerranée comme cimetière de migrants, le blocus de Gaza comme famine organisée, la politique de colonisation israélienne comme destruction progressive — tous sont des exemples de nécropolitique en actes.
 
 ## Exemples
-- La Méditerranée : frontière la plus meurtrière du monde, des dizaines de milliers de morts par noyade. La PaduTeam (dans la vidéo sur la flottille) : "la nécropolitique, vraiment la fabrication d'une politique de la mort."
-- Le blocus de Gaza : empêchement systématique de l'aide humanitaire, ciblage des systèmes de production alimentaire (minoteries, boulangeries, tir sur pêcheurs).
+- **La Méditerranée.** Frontière la plus meurtrière du monde, des dizaines de milliers de morts par noyade. La PaduTeam, dans la vidéo sur la flottille, nomme explicitement le concept : "c'est vraiment ce qu'on appelle la nécropolitique, vraiment la fabrication d'une politique de la mort." Le trajet de la Flottille pour la liberté (juin 2025) révèle la carte complète : en Méditerranée, le bateau croise une embarcation en détresse de Soudanais fuyant la guerre — et l'extrême droite française a trouvé "scandaleux" que l'équipage les secoure. La PaduTeam : "quand une embarcation est en détresse, on va la secourir, même si les personnes ont une peau un peu trop foncée au goût de nos représentants politiques d'extrême droite." La fabrication de la mort opère deux fois : à Gaza par le blocus, en Méditerranée par l'inaction organisée.
+- **Le blocus de Gaza.** Empêchement systématique de l'aide humanitaire, ciblage des systèmes de production alimentaire (minoteries, boulangeries, tir sur pêcheurs). Les 1 400 000 repas brandis par Meyer Habib comme preuve de générosité, pour 2 millions d'habitants sur deux ans : la PaduTeam retourne l'argument — ce chiffre prouve que "il reste pas beaucoup de gens", c'est-à-dire que la nécropolitique a fonctionné.
 
 ## Application : Mayotte comme nécropolitique intérieure
 

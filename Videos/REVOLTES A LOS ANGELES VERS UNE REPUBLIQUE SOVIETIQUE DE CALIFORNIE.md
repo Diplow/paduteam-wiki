@@ -4,7 +4,7 @@ youtube_id: _h7v0R4K1Nk
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, anti-impérialisme, racisme-antiracisme]
 enjeux: [anti-imperialisme]
-date: 2026-06
+date: 2025-06
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
 date modified: Monday, April 20th 2026, 1:27:50 pm
@@ -15,7 +15,7 @@ date modified: Monday, April 20th 2026, 1:27:50 pm
 
 # RÉVOLTES À LOS ANGELES VERS UNE RÉPUBLIQUE SOVIÉTIQUE DE CALIFORNIE
 
-**Date** : juin 2026 (émeutes de Los Angeles)
+**Date** : juin 2025 (émeutes de Los Angeles)
 
 ## Résumé
 

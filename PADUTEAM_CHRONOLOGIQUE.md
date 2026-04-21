@@ -305,19 +305,20 @@ Slug branche : ingest-batch/paduteam-2025-w21-w22
 ---
 ## Batch 17 — Semaines 2025-W23 à 2025-W24 (2 jun 2025 – 15 jun 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w23-w24
+Fiches créées : [[LE PEN DECLARE la GUERRE a BARDELLA !!]], [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]], [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]], [[CHRIS DERAPE SUR LINGUISTICAE TAS QUA ALLER BOSSER EN INTERIM]], [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]], [[ROUSSEL TROUVE RETAILLEAU TROP MOU]], [[NATACHA POLONY VEUT PLUS DE VIOLENCE A L ECOLE]] + 9 concepts (Strategie Chirac 74, Libertarisme du cul, Lien parasocial, Aristocratie ouvriere, Securite sociale des medias, Tapis rouge pour le fascisme, Cryptage du reel, Punitivisme, Violence educative) + 2 individus (Natacha Polony, enrichi Linguisticae) + 2 organisations (Marianne, Garde nationale des Etats-Unis) + 8 enjeux enrichis
 
-- [ ] LE PEN DÉCLARE la GUERRE à BARDELLA !!
-- [ ] Les INCELS ont ENFIN leur SAINT GRAPHIQUE !!
-- [ ] LINGUISTICAE en CONCURRENCE avec les ENFANTS GAZAOUIS !!
-- [ ] CHRIS DÉRAPE sur LINGUISTICAE : "T'AS QU'À ALLER BOSSER EN INTÉRIM" !!
-- [ ] MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!
-- [ ] FLOTTILLE de la LIBERTÉ : MEYER HABIB et CAROLINE FOUREST en ROUE LIBRE
-- [ ] ROUSSEL trouve RETAILLEAU TROP MOU
-- [ ] NATACHA POLONY veut PLUS DE VIOLENCE à L'ÉCOLE ?
-- [ ] RÉVOLTES à LOS ANGELES : VERS une RÉPUBLIQUE SOVIÉTIQUE de CALIFORNIE ?
-- [ ] Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN ?
+- [x] LE PEN DÉCLARE la GUERRE à BARDELLA !!
+- [x] Les INCELS ont ENFIN leur SAINT GRAPHIQUE !!
+- [x] LINGUISTICAE en CONCURRENCE avec les ENFANTS GAZAOUIS !!
+- [x] CHRIS DÉRAPE sur LINGUISTICAE : "T'AS QU'À ALLER BOSSER EN INTÉRIM" !!
+- [x] MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!
+- [x] FLOTTILLE de la LIBERTÉ : MEYER HABIB et CAROLINE FOUREST en ROUE LIBRE
+- [x] ROUSSEL trouve RETAILLEAU TROP MOU
+- [x] NATACHA POLONY veut PLUS DE VIOLENCE à L'ÉCOLE ?
+- [x] RÉVOLTES à LOS ANGELES : VERS une RÉPUBLIQUE SOVIÉTIQUE de CALIFORNIE ?
+- [x] Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN ?
 
 ---
 ## Batch 18 — Semaines 2025-W25 à 2025-W26 (16 jun 2025 – 29 jun 2025)

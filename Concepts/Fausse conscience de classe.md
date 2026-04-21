@@ -39,4 +39,4 @@ Note : ce n'est pas une critique personnelle de Linguisticae — la PaduTeam le 
 
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
-- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Cas d'école concret dans l'économie du contenu numérique
+- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Cas d'école concret dans l'économie du contenu numérique ; définition explicite par Chris : "la fausse conscience c'est une conscience d'équilibrage entre une position que tu occupes socialement et des rapports de production que tu mets en œuvre réellement" ([13:06](https://www.youtube.com/watch?v=4jVPJ1eaS9I&t=786))

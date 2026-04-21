@@ -57,6 +57,7 @@ La PaduTeam identifie aussi la **transformation par l'activité** comme mécanis
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — panorama de la structuration à gauche (2024), positionnement théorique
 - [[JVC BRAV-M DARMANIN GLUPATATE REPOND AUX ACCUSATIONS]] — économie réelle du short, modèle Canard Réfractaire, comparaison droite/gauche
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — critique radicale post-affaire Dany, distinction activité vs rapport social, intellectuel organique de classe
+- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — affaire Linguisticae comme point de départ pour la proposition d'une [[Securite sociale des medias]] ; annonce d'un projet de fédération de créateurs militants
 
 [^1]: [35:56](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=2156) — "le short je pense c'est ce qui prend le plus de temps et ce qui rapporte le moins [...] tu fais des millions de vues et tu pourrais pas vivre sans avoir un tipi à côté"
 [^2]: [1:26:42](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5202) — "si les gars ils ont envie comme Papacito de se barrer en Espagne et de prendre du bon temps comme le Raptor de fonder une famille [...] les mecs ne sont plus là tu vois"

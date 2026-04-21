@@ -18,3 +18,4 @@ La PaduTeam cite Chapoutot sur la montée du fascisme : "ils n'ont pas pris le p
 
 ## Vidéos où Chapoutot est cité
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Cité pour la thèse "le centre leur a donné le pouvoir" pour expliquer pourquoi l'antifascisme de cassoulet ne suffit pas
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Extrait de sa conférence "La révolution culturelle nazie" mobilisé pour analyser le [[Discours genocidaire|discours génocidaire]] d'une bourgeoise sioniste française : la structure rhétorique qui justifie le meurtre d'enfants ("tu les tues pour protéger les tiens") est identique entre les *Einsatzgruppen* nazis et le discours pro-israélien contemporain

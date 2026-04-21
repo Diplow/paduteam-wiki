@@ -67,10 +67,10 @@ Dans une capsule sur la primaire, la PaduTeam prédit que Tondelier fera 3-4% en
 
 Interview sur France Inter où elle promeut l'union de la gauche. La PaduTeam :
 - Elle appelle à "placer les égos en dessous de l'intérêt général" — [[Psychologisation des desaccords politiques]] : gomme les vraies lignes (Gaza, ZFE, crédits de guerre, Glucksmann = quasi-macroniste)
-- Elle inclut Macron dans les antifascistes ("choisissez votre camp, c'est l'antifascisme") → version Tondelier du barrage républicain, tapis rouge pour le fascisme
+- Elle inclut Macron dans les antifascistes ("choisissez votre camp, c'est l'antifascisme") → version Tondelier du barrage républicain, [[Tapis rouge pour le fascisme]] : la stratégie défensive fabrique le terreau de l'extrême droite qu'elle prétend combattre
 - Elle est décrite comme "noisette locale et fair trade" — variante bio du [[Noisettes|casse-noisette]]
 - Plus dépolitisante que [[Raphael Glucksmann]] lui-même : Glucksmann assume sa ligne, elle dissout tout dans le sentiment
-- Prévision PaduTeam : finira seule à 3-4%, ni LFI ni PS ne veulent d'elle
+- Prévision PaduTeam : finira seule à 3-4%, ni LFI ni PS ne veulent d'elle — l'appareil EELV a besoin de la candidature pour survivre financièrement (remboursements de campagne)
 
 ## Vidéos où Tondelier est analysée
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.

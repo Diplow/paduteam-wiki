@@ -75,6 +75,12 @@ Cem Yoldas (Jeune Garde) décrit le lien entre Retailleau et l'extrême droite v
 
 La PaduTeam et Yoldas établissent la trajectoire : libéralisme autoritaire → extrême droitisation assumée. "On est vraiment sur une pente glissante."
 
+## Retailleau "trop mou" : l'impossible concurrence à droite
+
+Dans la séquence post-victoire PSG, Retailleau qualifie les auteurs de violences de "barbares" et prononce la formule "avec moi ce sera l'ordre, l'ordre et l'ordre." La PaduTeam note qu'il "a surtout dit" cela "et aujourd'hui c'est le désordre, le désordre et le désordre" — jugement de Roussel lui-même sur BFM TV. Roussel lui reproche de ne pas avoir déployé assez de forces de l'ordre en amont (seulement 5 400 policiers en tout) et de faire une politique de maintien de l'ordre défaillante.
+
+Ce qui intéresse la PaduTeam, ce n'est pas la querelle entre Roussel et Retailleau mais sa logique politique : Roussel positionne le PCF à droite du ministre de l'Intérieur dans un contexte de répression assumée, tout en n'ayant "aucun pipeline" vers cet électorat. Le concept de "Fabien Retailleau" — lapsus de Padu maintenu comme diagnostic — signale que leurs discours sont devenus indiscernables.
+
 ## Vidéos où Retailleau est analysé
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
@@ -87,3 +93,4 @@ La PaduTeam et Yoldas établissent la trajectoire : libéralisme autoritaire →
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Retailleau = "le Glucksmann de droite" : stratégie solitaire de siphonnage au lieu de l'union des droites ; c'est la stratégie "plus maline" selon la PaduTeam
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Le dîner Bardella/Sarkozy comme acte de positionnement dans la reconstitution du bloc Sarkozy 2007 ; Retailleau a besoin de l'adoubement de Sarkozy pour réussir
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes ; lien avec Némésis ; théorie de la fascisation
+- [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Roussel lui reproche d'avoir été trop laxiste lors des violences PSG ; la PaduTeam retourne l'analyse : ce n'est pas Retailleau qui est trop mou, c'est Roussel qui a adopté son discours

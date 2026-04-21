@@ -61,3 +61,4 @@ En mai 2025, Mélenchon porte plainte contre [[Alain Jakubowicz]] (président d'
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Forme administrative du lawfare (interdictions préfectorales)
 - [[SIHAME ASSBAGUE CONVOQUEE PAR LA POLICE POUR UN TWEET SUR GAZA]] — Application de la loi 2014 contre un tweet de militante
 - [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — Proposition Bernalicis, réponse de Panot, mensonge du PS sur la proposition
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Asymétrie judiciaire formulée explicitement : des syndicalistes CGT condamnés pour "apologie du terrorisme" pendant qu'une bourgeoise tient publiquement des propos génocidaires sur des chaînes nationales sans aucune procédure

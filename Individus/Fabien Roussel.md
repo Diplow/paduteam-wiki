@@ -109,6 +109,14 @@ La ligne "on essaie d'être large" (ne pas effaroucher les électeurs d'extrême
 
 Dans une discussion avec [[Positions Revue]], la PaduTeam formule le diagnostic suivant : la stratégie romantique de Roussel — "PCF Great Again" — ne relèvera pas le parti, elle accélérera sa chute. Se présenter avec les Verts et le PS en candidat "unique" tout en prétendant être indépendant, faire ~2% avec une politique droitière : autant rejoindre un petit parti franchement communiste comme le NPA ou LO. "Le PCF pèse pas tellement plus que le NPA" — comparaison significative. Le PCF retombera "dans la roue de la gauche social-démocrate", ce qu'il reproche précisément à LFI.
 
+## Roussel trouve Retailleau trop mou : le lapsus comme diagnostic
+
+Sur BFM TV, Roussel est interrogé sur les violences en marge des célébrations PSG. Son discours — "les jeunes n'ont plus peur de la police", appel au durcissement des peines, demande de plus de CRS, validation de l'idée d'"ensauvagement" — est disséqué par la PaduTeam comme un discours de droite "enrobé d'un petit peu de lexique de gauche vaguement." La PaduTeam formule le lapsus analytique central : l'appeler "Fabien Retailleau" — les deux tiennent le même discours sécuritaire.
+
+La PaduTeam souligne l'inanité de la stratégie : "il y a aucun pipeline" vers les électeurs de droite. En tenant ce discours, Roussel ne récupère personne mais donne "un permis de taper, un permis de violenter et un permis de tuer encore plus fort à la police" tout en devenant "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais." Il sert à légitimer l'imaginaire sécuritaire en jouant le rôle de "la bonne gauche" qui valide la répression.
+
+Contexte : les statistiques officielles du ministère de l'intérieur montrent l'absence d'explosion des délits. Le taux d'homicide français (1,2 pour 100 000) est parmi les plus bas du monde — et inférieur aux années 1980. Les sociétés les plus répressives (États-Unis, Russie, Hongrie) ont des taux respectivement 6, 10 et 2 fois plus élevés.
+
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
@@ -120,3 +128,4 @@ Dans une discussion avec [[Positions Revue]], la PaduTeam formule le diagnostic 
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Valide le racisme antiblanc sur CNews, compare voile et salut nazi, veut inscrire la Charte olympique dans la loi. Analysé comme "communiste préféré des fachots".
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Cathédrale Osseuse lui pose la question du Graphique en micro-trottoir ; Padu développe l'explication matérialiste de la [[Division raciale du proletariat]] contre la ligne "être large".
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Stratégie "PCF Great Again" comme accélérateur de la chute ; PCF ne pèse plus plus que le NPA ; [[Julia Castanier]] citée comme catastrophique sur le féminisme.
+- [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Discours sécuritaire sur BFM TV ; "Fabien Retailleau" comme lapsus analytique ; zéro preuve de l'efficacité du durcissement pénal ; présenté comme fin de course du PCF, transition vers l'URC.

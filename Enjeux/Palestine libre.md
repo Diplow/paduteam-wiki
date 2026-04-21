@@ -56,6 +56,8 @@ Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 - **[2025]** Critique de la reconnaissance tardive Macron/Hidalgo ([[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]) — reconnaître l'État quand il est détruit, sans sanctions contre Netanyahu = théâtre bourgeois. Figure de la [[Recuperation posthume]].
 - **[octobre 2025]** Bilan 2 ans après le 7 octobre ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) — théorisation du continuum colonial 80 ans, refus de la narration qui commence le 7-10, appel à la dignité générationnelle, libération d'Abdallah comme preuve que la lutte paie.
 - **[janvier 2026]** Illusion du cessez-le-feu ([[GAZA L'ILLUSION DU CESSEZ-LE-FEU]], avec Paul Elek) — le cessez-le-feu comme houdna temporaire pendant que le front colonial continue, opération « Muraille de Fer » en Cisjordanie, accord Trump-Blair comme colonisation par intermédiaire.
+- **[juin 2025]** Flottille pour la liberté ([[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]]) — [[Rima Hassan]] et [[Greta Thunberg]] sur le bateau, intercepté illégalement dans les eaux internationales. La PaduTeam défend la communication militante comme « première arme de guerre » face à la complicité des États. La Méditerranée comme [[Necropolitique|cimetière impérialiste]] : le bateau croise et sauve des Soudanais en détresse que l'extrême droite voulait laisser mourir.
+- **[juin 2025]** Harcèlement de Rima Hassan ([[Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN]]) — après le rapatriement forcé, une bourgeoise sioniste filme et harcèle Rima Hassan dans l'avion, déclare avoir « zéro compassion pour les Palestiniens » et que les enfants palestiniens sont des « futurs terroristes ». La PaduTeam mobilise [[Johann Chapoutot]] : la structure du discours est identique à celle des Einsatzgruppen nazis. Cette femme est invitée sur CNews. Rima Hassan, elle, reçoit des menaces de mort quotidiennes.
 
 La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par la PaduTeam : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
@@ -102,6 +104,7 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Répression des organisations militantes pro-Palestine ; dissolution comme fascisation
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
 - [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — loi 2014 PS comme outil de répression des militants pro-Palestine ; proposition Bernalicis pour retransférer le délit dans le droit de la presse ; cas Delescaut, Assbague, UJFP ; LFI comme seul rempart parlementaire
+- [[Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN]] — harcèlement de Rima Hassan dans l'avion après le rapatriement de la flottille ; analyse du discours génocidaire via Johann Chapoutot (structure identique aux Einsatzgruppen nazis) ; sociologie de la bourgeoisie sioniste du 7e arrondissement ; menaces de mort quotidiennes comme réalité ordinaire pour Rima Hassan
 
 ## La bataille médiatique des clashs pro-Palestine
 

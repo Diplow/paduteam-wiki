@@ -37,5 +37,14 @@ La PaduTeam : "C'est pas un problème quand ils sont de droite parce qu'au moins
 ### L'économie des streamers
 La PaduTeam résume le modèle économique des streamers : revenus plateformes (YouTube), OP/sponsos (pub), et dons (Tipi). Les budgets de com des entreprises baissent, les créateurs sont de plus en plus nombreux, les sponsos se raréfient. Résultat structurel : les créateurs sont contraints vers des contenus plus "engagés émotionnellement" (clash, controversy) — ce qui génère plus de dons — au détriment de contenus de qualité. Linguisticae reconnaît lui-même qu'il serait plus rentable de lire des livres d'extrême droite pour s'en moquer en stream.
 
+## Position dans l'ordre impérialiste
+
+Dans la vidéo de suivi, la PaduTeam précise la dimension structurelle au-delà de la fausse conscience : Linguisticae incarne l'[[Aristocratie ouvriere]] en acte. Il refuse symboliquement de "descendre" au niveau du travail que font les immigrés en France (l'intérim pénible, racialement segmenté) — et mobilise à la place des cagnottes pour éviter cette situation, en les mettant en concurrence avec des cagnottes palestiniennes. Son accès privilégié au marché du travail (nom français, compétences intellectuelles, bagage culturel) lui permet de sauter la file dans une agence d'intérim : c'est une forme concrète de bénéfice de position impérialiste.
+
+La PaduTeam estime ses revenus à 5 000–7 000€ de chiffre d'affaires mensuel pour ~600 000 vues/mois, à quoi s'ajoutent les revenus de stream et les dons. Un trou de trésorerie de 400€ chez quelqu'un à ce niveau de revenus renvoie à un problème de gestion ou de consommation — pas à une "détresse financière" comparable à celle des précaires qui se battent pour obtenir une mission d'intérim.
+
+La virulence d'une partie des commentaires en faveur de Linguisticae illustre le [[Lien parasocial]] : l'affect accumulé envers le streamer court-circuite l'analyse matérielle de sa situation de classe.
+
 ## Vidéos où il est analysé
-- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Analyse de la fausse conscience, critique structurelle de l'économie du contenu numérique libéral
+- [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Analyse de la fausse conscience, critique structurelle de l'économie du contenu numérique libéral ; élargissement sur division du travail, sécurité sociale des médias, vision marxiste du travail
+- [[CHRIS DERAPE SUR LINGUISTICAE TAS QUA ALLER BOSSER EN INTERIM]] — Suite directe : clarification de la proposition "intérim", analyse de l'aristocratie ouvrière et du lien parasocial

@@ -50,6 +50,7 @@ Les vidéos PaduTeam documentent une période (2024-2025) marquée par un durcis
 - **[2025]** : Macron remet le prix LICRA à [[Arthur]] et [[Sophia Aram]] — officialisation de la couverture institutionnelle du sionisme de gauche
 - **[mai-juin 2025]** : [[Jerome Guedj|Guedj]] au congrès PS ; [[Chloé Ridel]] sur Backseat rewriting history — la guerre des gauches sur Gaza atteint son paroxysme institutionnel
 - **[2025]** : La JC Nord 92 purgée pour avoir soutenu la résistance palestinienne — la contamination atteint la jeunesse communiste
+- **[juin 2025]** : [[Caroline Fourest]] sur la flottille ([[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]]) — cas emblématique du sionisme de gauche "progressiste" : elle reprend mot pour mot les éléments de langage de [[Meyer Habib]] sur la flottille, présente la famine organisée à Gaza comme "une pause pour réorganiser l'aide". La PaduTeam nomme précisément le mécanisme : Fourest ne "décrypte" pas le réel, elle le "crypte" — elle prend la réalité du génocide et la fait passer pour autre chose. La vidéo montre en alternance ses propos et les images de distribution chaotique pour 1 kg de farine à Gaza.
 
 ## Vidéos clés
 - [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Cas d'école : Molière "de gauche", discours de honte sur le 7-octobre, silence assourdissant instrumentalisé
@@ -59,3 +60,4 @@ Les vidéos PaduTeam documentent une période (2024-2025) marquée par un durcis
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Retournement de veste PS ; Backseat comme vecteur de sionisme "progressiste" 
 - [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — BHL comme hub de la coalition sioniste gauche-droite ; Douglas Murray ; la réhabilitation de l'extrême droite par la couverture "humaniste"
 - [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — BHL, Céline Pina, Anne Sinclair : le sionisme de gauche face au bombardement du Liban
+- [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Fourest comme cas d'école du sionisme de gauche : même discours que Habib, habillage progressiste, opération de "cryptage du réel" (présenter la famine organisée comme aide humanitaire)

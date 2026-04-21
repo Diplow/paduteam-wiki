@@ -21,7 +21,9 @@ Marc incarne le [[Masculinisme individualiste]] dans sa forme la plus pure : tel
 
 Pour la PaduTeam, Marc est l'exemple parfait du [[Capitalisme masculiniste]] : la femme n'est pas une épouse soumise (patriarcat classique) mais une "vaginette vivante" à coût optimisé (capitalisme masculiniste). La PaduTeam : "C'est le macronisme de la baise."
 
-La PaduTeam relève que Marc exploite des femmes thaïlandaises parmi les plus précaires du pays — ce qui ajoute la dimension coloniale aux trois systèmes de domination qu'il incarne simultanément.
+La PaduTeam relève que Marc exploite des femmes thaïlandaises parmi les plus précaires du pays — ce qui ajoute la dimension coloniale aux [[Trois systèmes de domination]] qu'il incarne simultanément.
+
+Son discours est qualifié de [[Libertarisme du cul]] : la même structure que le discours libertarien sur la sécurité sociale, appliqué aux relations amoureuses — rendre visible un "coût caché" pour légitimer le refus de tout engagement collectif ou amoureux.
 
 ## Vidéos où Marc est analysé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — React complet à son calculateur de la passe maritale
