@@ -20,6 +20,10 @@ Pour la PaduTeam, la CFDT incarne le syndicalisme réformiste qui dilue la comba
 
 ## Figures clés
 - [[Laurent Berger]] — ancien secrétaire général
+- [[Marie-Lise Leon]] — secrétaire générale actuelle
 
 ## Vidéos où la CFDT est mentionnée
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analogie syndicale : syndicats réunis (CFDT + CGT) = même logique désastreuse que l'union politique ; Glucksmann proposait Berger comme PM
+- [[LE PS A TRAHI (EPISODE 24873)]] — La CFDT qualifiée de "syndicat traître" : Léon célèbre l'accord PS/Lecornu comme "victoire collective" et "grande victoire pour les travailleurs", miroir syndical de la rhétorique PS. La PaduTeam appelle à "acter la rupture entre les syndicats de traître et les syndicats de gauche."[^cfdt-traitre]
+
+[^cfdt-traitre]: [20:37](https://www.youtube.com/watch?v=2yxPH0PN3J4&t=1237) — "La boîte fait 40% de marge, on pourrait demander 15, le patronat propose 1, on va essayer d'obtenir 0,8. Mais Marylise, tu as obtenu moins que ce qu'il proposait le patronat — ouais mais c'est déjà mieux que rien."

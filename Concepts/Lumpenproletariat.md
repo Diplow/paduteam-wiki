@@ -24,5 +24,13 @@ La PaduTeam établit un **lien structural** entre lumpen et [[Petite bourgeoisie
 ## Lien avec les "très précaires libéraux"
 L'analyse de l'électorat de Zoran Mamdani illustre le phénomène : les classes les plus précaires, les plus éparpillées, votent pour les candidats les plus libéraux et conservateurs parce qu'elles se vivent dans une concurrence individualiste ultra-intense, sans projection vers un collectif solidaire.
 
+## Exemples
+
+- [[Magali Berdah]] : courtière en assurance, agente d'influenceurs, condamnée pour avoir soutire 221 560 € à un nonagénaire en état de vulnérabilité. Pour la PaduTeam, parcours emblématique du lumpenproletariat enrobé du discours bourgeois du mérite : "les petits escrocs, les débrouillards [...] qui extirpent un peu par la force, un peu par la violence. C'est vraiment le lumpen prolétariat."[^berdah] La nuance essentielle : ce lumpen n'a rien à voir avec "le sous-prolétariat immigré qui lui est vraiment une part du prolétariat le plus exploité."[^distinction]
+
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
+- [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]] — application à Berdah ; distinction lumpen / sous-prolétariat immigré
+
+[^berdah]: [24:08](https://www.youtube.com/watch?v=Uw4ZBPtuG_w&t=1448) — "C'est vraiment euh le lumpen prolétariat. [...] les petits escrocs, les débrouillards, les anciens flics [...] qui extirpe un peu par la force, un peu par la violence."
+[^distinction]: [23:37](https://www.youtube.com/watch?v=Uw4ZBPtuG_w&t=1417) — "Vous avez tout un tas de racel qui essayent de vous faire croire que le lumpen proletariat, ce serait le prolétariat immigré [...] Ça c'est vraiment au sens de Marx Engels, le lumpen proletaria [...] qui n'a rien à voir avec le sous-proletariat immigré qui lui est vraiment une part du prolétariat le plus exploité."

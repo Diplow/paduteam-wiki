@@ -53,6 +53,12 @@ Plus redoutable que le piège stalinien, le piège par [[Assimilation antisemite
 
 L'exemple central : [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) compare [[Jean-Luc Melenchon]] à Goebbels sur [[BFM TV]] en mai 2025, sans contradiction des journalistes. La PaduTeam souligne l'asymétrie : la LICRA n'a jamais comparé Marine Le Pen à Himmler ou Göring.
 
+## Variante : la prime médiatique aux anti-Mélenchon
+
+Un mécanisme plus diffus mais tout aussi efficace : les médias fonctionnent comme un système de **récompense structurelle** pour quiconque attaque Mélenchon ou LFI. Exemple documenté dans [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] : [[Alexis Corbiere]], quand il était insoumis, se faisait constamment couper la parole et mettait face aux questions sur les condamnations. Depuis qu'il critique Mélenchon, les journalistes lui « parlent gentiment ». La [[Raquel Garrido]] avait elle-même formulé ce mécanisme : « Il y a toujours de la place dans les médias pour taper sur Jean-Luc Mélenchon. »
+
+Ce n'est pas un complot — c'est une dynamique structurelle. Les médias concentrés ([[Collusion mediatique-politique]]) ont un intérêt de classe à affaiblir LFI : plus il y a de voix de gauche qui attaquent LFI, plus la ligne de la droite est validée.
+
 ## Concepts liés
 
 - [[Assimilation antisemite]] — variante spécifique du piège via la Palestine
@@ -64,3 +70,4 @@ L'exemple central : [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) 
 
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Variante assimilation antisémite du piège : syllogisme Palestine → Goebbels
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Analyse clinique du piège en action et de la riposte offensive que la PaduTeam formule
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Variante de la prime médiatique aux anti-Mélenchon : Corbière mieux traité par les médias depuis qu'il attaque LFI

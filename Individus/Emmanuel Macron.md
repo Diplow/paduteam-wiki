@@ -90,7 +90,16 @@ Formulation marquante : "Il arrive en 2017 comme une tragédie, il repart comme 
 
 [^macron_farce]: [58:48](https://www.youtube.com/watch?v=huwzFU_HESg&t=3528) — "Macron est arrivé en 2017 comme une tragédie il va repartir comme une farce"
 
+## La crise Lecornu et l'isolement total (octobre 2025)
+
+En octobre 2025, l'épisode Lecornu (Premier ministre 14 heures) met en évidence que Macron "ne peut plus". Son isolement devient absolu : [[Gabriel Attal]] (chef de Renaissance, le parti qu'il a créé) déclare publiquement "je ne comprends plus les décisions du président" ; [[Edouard Philippe]] appelle à une présidentielle anticipée ; [[Bruno Retailleau]] impose ses conditions et fait tomber le gouvernement en quelques heures ; [[Marine Le Pen]] emboîte le pas en appelant à sa démission. La PaduTeam : "il a Attal, Philippe, Retailleau, Le Pen, le PS, les noisettes, la France insoumise contre lui. 20% d'approbation de la population française. Il est vraiment cramé."
+
+La logique de la crise confirme la prévision de début d'année : Macron est "plus problématique que satisfaisant pour la bourgeoisie". Le CAC 40 a chuté de 2-3 points à l'annonce de la démission Lecornu — signal que les marchés eux-mêmes perçoivent l'instabilité macroniste comme un risque. La PaduTeam le caractérise comme "un de Gaulle d'opérette" : De Gaulle avait construit la 5e République pour être au-dessus des partis et avait démissionné avec dignité après un référendum perdu ; Macron finira dans une "démission ridicule clownesque"[^macron_lecornu].
+
+[^macron_lecornu]: [29:31](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=1771) — "Il arrive comme une tragédie, une tragédie de l'ancien monde [...] Il finira comme la farce de la 5e République au-dessus des partis. C'est un espèce de de Gaulle d'opérette."
+
 ## Vidéos
+- [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — Crise Lecornu 14h ; isolement total (Attal, Philippe, Retailleau, Le Pen, toute la gauche) ; 20% d'approbation ; CAC -2 à -3 pts ; scénario "terre brûlée" vs "dignité" ; "de Gaulle d'opérette"
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — Analyse approfondie du macronisme comme populisme bourgeois, de sa stratégie pour 2027 et son impuissance à revenir sans la 5e République
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — A dû modifier ses parcours diplomatiques face aux manifestants réclamant la libération d'Abdallah

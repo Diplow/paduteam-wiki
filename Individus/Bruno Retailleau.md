@@ -125,7 +125,24 @@ Ce séquençage est calculé. Retailleau n'improvise pas — il applique une doc
 
 Le cas Evvora documente aussi la dimension de genre de la répression policière : propos sexistes, sous-entendus sexuels, mise en scène délibérée de l'humiliation pour "faire péter les plombs" à une militante de 18 ans seule face à cinq policiers. La PaduTeam relie cela directement au taux de violences conjugales dans la police, supérieur à la moyenne nationale — pas comme déviance, mais comme cohérence institutionnelle.
 
+## Faire tomber Lecornu : le veto Le Maire
+
+En octobre 2025, Retailleau fait tomber le gouvernement [[Sebastien Le Cornu|Lecornu]] en 14 heures. Le déclencheur : la nomination de [[Bruno Le Maire]] au ministère des Armées. Le Maire a rejoint Macron dès 2017 — il est "vraiment macroniste" aux yeux de LR, un "traître de l'intérieur". La logique de Retailleau : il avait "vendu" à Macron un gouvernement allant "plus à droite", avec LR au centre. Bruno Le Maire contredit cette fiction.
+
+Retailleau joue ensuite sa carte en refusant de venir aux consultations dans le "socle commun" (Ensemble + alliés) : il viendra "tout seul", séparément. La PaduTeam : "il est en train de le baiser, hein. Mais il joue pas mal son coup." Il impose ses conditions à Macron en position de faiblesse. Sa logique de fond : s'il n'y a pas de présidentielle anticipée, il ne veut pas "gouverner avec Tondelier" et perdre toute crédibilité avant 2027. S'il y en a une, il est dans une position favorable face à Bardella sans Le Pen[^ret-lecornu].
+
+[^ret-lecornu]: [4:39](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=279) — "Retailleau se voit encore dans une logique de... ce qu'ils appellent le pacte avec Macron mais il reste la droite [...] Le Maire lui c'est quelqu'un qui a rejoint Macron dès 2017. C'est vraiment les... pour eux c'était la ligne rouge"
+
+## Barrage anti-Mélenchon dans la partielle du Tarn-et-Garonne
+
+Dans une législative partielle dans le Tarn-et-Garonne, Retailleau appelle à ne pas voter pour la candidate NFP face à l'alliance UDR-RN. Il ne dit pas "votez RN" — il dit "pas une voix pour la gauche." La PaduTeam décrypte la posture stratégique : Retailleau se positionne exactement comme Chirac en 1981, qui avait dit "à titre personnel je ne voterai pas" pour faire élire Mitterrand contre Giscard. Objectif : éliminer Marine Le Pen en lui retirant ses votes sans se compromettre explicitement avec le RN, pour s'imposer comme seule droite d'opposition en vue de 2027[^barrage-partielle].
+
+Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définitivement changé de cible : il ne s'agit plus d'un barrage contre le RN mais d'un barrage contre [[France Insoumise|la France Insoumise]]. La PaduTeam : "Il y a une renaissance d'une droite et d'une gauche et donc une alliance au moins tacite [...] entre LR, le RN et l'UDR." Et "ils font exactement ce qu'on a prédit dans la prophétie."
+
+[^barrage-partielle]: [32:28](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=1948) — "Retaillo veut tuer d'abord le RN pour être l'opposant de la gauche. [...] Retailleau se positionne parfaitement pour concurrencer le RN [...] et montrer qu'il est vraiment l'alternative absolue."
+
 ## Vidéos où Retailleau est analysé
+- [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — veto sur Bruno Le Maire ; fait tomber le gouvernement en 14h ; stratégie de séparation du "socle commun" pour imposer ses conditions à Macron
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de son ascension à LR, parallèle Sarkozy 2005
@@ -143,3 +160,5 @@ Le cas Evvora documente aussi la dimension de genre de la répression policière
 - [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — 80 000 policiers = 80% des effectifs nationaux, analogie George Foreman (toutes ses forces au premier round), contradiction de classe sur la violence, décryptage des "tirs de mortier" (feux d'artifice PVC)
 - [[LA POLICE DE RETAILLEAU MALTRAITE UNE JEUNE FEMME]] — répression judiciaire comme troisième vague après policière et institutionnelle ; gardes à vue comme torture (privation d'eau, sommeil, toilettes) ; violences sexistes systémiques ; interdiction de Paris comme arbitraire administratif pur
 - [[18 SEPTEMBRE ON EST LA]] — violence policière gratuite documentée en vidéo (jeune fille poussée en train de partir) ; même niveau de déploiement répressif que le 10 septembre (80-90% des effectifs) ; objectif lu comme dissuasion avant le 21 : "la police de Retailleau cherche à discréditer le mouvement, à le salir, à faire en sorte que les prochaines étapes n'arrivent pas"
+- [[LECORNU DEJA CENSURE]] — analyse de sa stratégie d'étau : refus d'entrer au gouvernement, maintien de la réforme des retraites comme ligne rouge, "stratégie Sarkozy 2007" assumée ; la PaduTeam défend qu'il "joue une carte maline" malgré les commentateurs qui le trouvent incohérent
+- [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — appel à ne pas voter NFP dans la partielle du Tarn-et-Garonne ; stratégie Chirac 81 analysée ; confirmation de la prophétie du 2002 inversé

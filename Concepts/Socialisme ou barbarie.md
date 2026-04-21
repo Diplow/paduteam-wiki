@@ -28,5 +28,12 @@ Mélenchon représente une bifurcation possible vers la voie socialiste — mêm
 
 L'objectif militant est de "faire tout pour que ce soit le plus socialiste possible" dans cette bifurcation.
 
+## Application à la guerre des gauches
+
+La PaduTeam mobilise la formule dans la critique des "noisettes" contemporaines. Le SPD allemand en 1932 "a voulu éviter la guerre avec le déshonneur. Ils ont eu la guerre et le déshonneur" (paraphrase Churchill). La gauche réformiste qui refuse de choisir entre le socialisme et le capitalisme en crise ne trouve pas de troisième voie — elle prépare la barbarie : "Croire qu'il y a une troisième voie entre le socialisme et la barbarie, c'est préparer la barbarie."[^1] Analogie avec les noisettes 2027 : soutenir un Édouard Philippe ou un Retailleau plutôt que présenter un candidat de rupture, c'est refaire ce que le SPD a fait avec Hindenburg en 1932.
+
 ## Vidéos où le concept est développé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
+- [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — application à la guerre des gauches : la voie SPD (troisième voie entre socialisme et barbarie) mène à la barbarie ; les communistes comme "seuls qui ne viennent pas tenir un discours d'accompagnement du capitalisme néolibéral"
+
+[^1]: [1:04:57](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=3897) — "Croire qu'il y a une troisième voie entre le socialisme et la barbarie, c'est préparer la barbarie. Et c'est ce qui est arrivé en 33."

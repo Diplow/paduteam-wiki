@@ -29,6 +29,15 @@ Macron a gagné deux seconds tours en jouant l'anti-Le Pen. S'arroger le capital
 ## Concept associé
 [[Tapis rouge pour le fascisme]] — formulation complémentaire : là où "écluse" décrit un frein illusoire, "tapis rouge" insiste sur le rôle actif de la stratégie de barrage dans la fabrication du fascisme.
 
+## La preuve par l'inversion : le barrage contre Mélenchon
+
+L'événement qui valide définitivement l'analyse écluse : [[Alain Finkielkraut]] (SOS Racisme, Lumières, laïcité) déclare qu'il voterait [[Marine Le Pen]] contre [[Jean-Luc Melenchon|Mélenchon]] au second tour, et [[Bruno Retailleau]] appelle à ne pas voter pour la candidate NFP en légilsative partielle au profit de l'alliance UDR-RN. La PaduTeam : "Ça veut bien dire que le barrage républicain, il était pas contre le fascisme en réalité pour eux. Il était pour garder la main pour qu'une hégémonie du centre reste au pouvoir."[^inversion]
+
+La seule gauche qui y croyait sincèrement : le PCF et la FI. "Quand Mélenchon faisait le barrage républicain, il y croyait vraiment." Les autres se servaient du concept comme outil de contrôle du jeu politique.
+
+[^inversion]: [13:57](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=837) — "Tu vois les seuls qui ont vraiment cru au barrage républicain en tant que barrage républicain pour des valeurs de liberté, c'était la gauche."
+
 ## Vidéos où le concept est développé
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — La PaduTeam : "Ce ne sont pas des barrages, ce sont des écluses"
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Tondelier inclut Macron dans les antifascistes : version Tondelier du barrage républicain, "tapis rouge" pour l'extrême droite
+- [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — la preuve par l'inversion : la reconversion du barrage contre le RN en barrage contre la FI révèle rétrospectivement sa nature réelle de maintien de l'hégémonie centrale

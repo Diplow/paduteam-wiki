@@ -54,7 +54,14 @@ Face à la revendication américaine sur le Groenland et aux tweets mafieux de l
 
 [^attal_groen]: [11:51](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=711) — « Gabriel Attal qui dit [...] "maintenant c'est la loi du plus fort, donc bah nous on va s'équiper, on va s'armer, on va comment dire recruter des militaires, faire du service militaire ?" [...] Ça c'est ce qu'on appelle l'escalade guerrière. »
 
+## La crise Lecornu : Attal lâche Macron publiquement
+
+En octobre 2025, lors de la crise du gouvernement Lecornu (14 heures), Attal déclare sur la première chaîne nationale : "comme beaucoup de Français je ne comprends plus les décisions du président de la République. Il y a eu la dissolution et il y a depuis des décisions qui donnent le sentiment d'une forme d'acharnement à vouloir garder la main." La PaduTeam : "Le gars parle comme Ruffin en fait. [...] C'est Gabriel Attal. Donc là tu te dis vraiment on est en train de bifurquer dans la logique politique." Le chef du parti de Macron, créé pour lui, dit publiquement qu'il fait n'importe quoi depuis un an[^attal-lecornu].
+
+[^attal-lecornu]: [21:11](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=1271) — "comme beaucoup de Français je ne comprends plus les décisions du président de la République [...] il y a depuis des décisions qui donnent le sentiment d'une forme d'acharnement à vouloir garder la main"
+
 ## Vidéos
+- [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — lâche Macron publiquement sur la première chaîne : "je ne comprends plus les décisions du président" ; la PaduTeam : "il parle comme Ruffin"
 - [[GABRIEL ATTAL DEMOLIT MACRON MACRON C'EST LE CHAOS]] — meeting de rentrée septembre 2025 ; tentative de retournement antimacroniste ; noisette en construction ; discours patronal sur l'immigration
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 11% par [[Odoxa]] (contre 26% pour Macron en 2022). Ses électeurs sont identifiés comme les plus anti-Mélenchon du panel : seulement 1% se reporteraient sur Mélenchon au 2nd tour (vs 43% des électeurs Ensemble qui avaient voté LFI face au RN aux législatives 2024). Incarnation du vote "dépolitisé mais votant" qui biaise les sondages
 - [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Identifié comme "post-macronisme de gauche" sans espace électoral entre Philippe et le PS

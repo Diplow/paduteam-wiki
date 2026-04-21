@@ -52,6 +52,14 @@ La PaduTeam lui reproche également de critiquer un marxisme fantôme — des "c
 
 Sa camaraderie est néanmoins reconnue : "l'épistémologie marxiste montre que les épistémologies dépendent de leur contexte sociohistorique" — Lordon fait son possible. Et la question qu'il pose (la génétique du sujet individuel à gauche) est "excellente", même si la réponse psychanalytique est jugée insuffisante.
 
+## Lordon, premier à prédire le barrage anti-Mélenchon (avec correctif)
+
+La PaduTeam attribue à Lordon d'avoir prédit le "barrage anti-Mélenchon" en avril 2021. Dans cette capsule, Chris apporte un correctif : Positions Revue l'avait annoncé dès le 5 mars 2021, dans un entretien avec Stefano Barini — "un des premiers entretiens qui a lancé Positions". Lordon est donc second. La PaduTeam reconnaît la prophétie de Lordon mais ne lui "lâche pas le point" sans le contextualiser. "Le respect de l'adversaire t'impose que tu loues le match réellement et tu ne lâches pas les points facilement."[^barrage-lordon]
+
+Cette séquence illustre la posture de la PaduTeam envers Lordon : adversaire intellectuel à la hauteur, qu'on respecte précisément en le critiquant rigoureusement — contrairement aux organisations d'extrême gauche qui "ne lui tapent pas dessus alors qu'il est peu marxiste sur des points fondamentaux."
+
+[^barrage-lordon]: [1:01](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=61) — "Frédéric Lordon qui en avril 2021 avait parlé que le prochain barrage serait le barrage. [...] C'était le 5 mars, vous pouvez aller le voir l'entretien du 5 mars 2021 avec Stefano qui a annoncé que justement le prochain barrage serait un barrage contre Jean-Luc Mélenchon."
+
 ## Vidéos où Lordon est analysé
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Validation de la prophétie, discussion de son spinozisme
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Critique de "Pulsion" et de l'usage politique de la psychanalyse
@@ -60,3 +68,4 @@ Sa camaraderie est néanmoins reconnue : "l'épistémologie marxiste montre que 
 - [[CAGE et PIKETTY PREFERENT RUFFIN a MELENCHON|CAGÉ et PIKETTY PRÉFÈRENT RUFFIN À MÉLENCHON !!]] — Critique de Piketty reprise par Chris
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur la psychologie marxiste, son livre "Pulsion" critiqué pour sa bibliographie trop centrée sur la psychanalyse/Spinoza
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — sa théorie des affects (remobilisation de Spinoza) est la cible principale du débat ; critique : "le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza"
+- [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — correctif sur la paternité de la prédiction du barrage anti-Mélenchon (Positions Revue 5 mars 2021 avant Lordon en avril 2021) ; critique de son antimarxisme sur la théorie de la valeur ; défense de son courage intellectuel

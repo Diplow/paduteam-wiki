@@ -26,8 +26,10 @@ France Inter pense que son discours crée des électeurs. L'analyse PaduTeam inv
 - [[Salome Saque]] — journaliste, citée comme autre exemple de "fausse neutralité"
 - [[Clément Petro]] — journaliste politique, auteur de la chronique sur la moïsation
 - [[Sophia Chikirou]] — mentionnée parmi les figures proches de France Inter (présence passée)
+- [[Benjamin Duhamel]] — journaliste politique, fils de bourgeoisie médiatique, emblème de la reproduction de caste
 
 ## Vidéos où France Inter est analysée
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — dîner avec le PS pour placer Glucksmann, démontage de l'idée que France Inter crée de l'électorat
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — Clément Petro fait une chronique sur la moïsation en la présentant comme une "stratégie cachée" de Mélenchon ; la PaduTeam démonte le complotisme bourgeois qui transforme toute analyse matérialiste en plan conscient
 - [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — analysée comme "Radio Macron" droitisée depuis Sarkozy (patron nommé par l'exécutif) ; éviction progressive des émissions de gauche (Daniel Mermet, Charline Vanhoenacker, Guillaume Meurice) ; contexte structurel de l'[[Autoneutralisation|autoneutralisation]] de Saqué
+- [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — [[Benjamin Duhamel]] utilisé comme cas d'école de la reproduction de la caste médiatique bourgeoise ; sa généalogie (père DG France Télévisions, oncle Alain Duhamel) exposée ; technique d'intimidation masculine dans l'interview analysée

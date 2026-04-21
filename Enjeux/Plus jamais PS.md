@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w37w38
+skill_version: write-enjeu-2026-04-21-enrichi-w39w42
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -47,6 +47,16 @@ Conférence avec trois intervenants :
 - [[Stephane Palombarini]] : historique de la conversion néolibérale du PS depuis les années 60-70
 - [[Said Bouamama]] : conversion du PS à l'international (alignement sur l'impérialisme) et politiques sécuritaires racistes
 - [[Nicolas Da Silva]] : bilan économique des quinquennats Jospin et Hollande — comment les mesures "de gauche" (35h etc.) sont passées sans remettre en cause la répartition capital/travail, préparant le virage à droite
+
+## Le PS parachève sa trahison sur les retraites (octobre 2025)
+
+[[LE PS A TRAHI (EPISODE 24873)]] est la vidéo pivot de la formalisation de l'enjeu "Plus jamais PS" en campagne offensive. En ne votant pas la censure du gouvernement Lecornu II, le PS obtient une "suspension complète et immédiate" de la réforme des retraites — en réalité un décalage de courbe de quelques mois, loin des 60 ans demandés par le NFP. L'économiste [[Michael Zemmour]] le démontre graphiquement : la courbe "PS" est quasi identique à la courbe réforme actuelle, bien au-dessus de la barre à 60 ans demandée.
+
+La chiffre structurant : à 62 ans, dans les 5 % de Français les plus pauvres, 25 % sont déjà morts (contre 5 % dans les 5 % les plus riches). Ce que le PS a "gagné" ne bénéficie pas aux premières victimes de la réforme.
+
+[[Olivier Faure]] est qualifié de "traître habile et malin" : en faisant ce mouvement avant les municipales, il vise délibérément les classes intermédiaires/supérieures des grandes villes et parie sur l'abstention des classes populaires pour battre LFI. [[Boris Vallaud]] se positionne comme arbitre avec discours à l'Assemblée. [[Raphael Glucksmann]] est absent (son porte-parole [[Aurélien Rousseau]], ex-directeur de cabinet d'Élisabeth Borne lors du passage en force de la réforme en 2023, vient expliquer que c'est "une avancée importante"). La [[CFDT]] ([[Marie-Lise Leon]]) célèbre "une grande victoire pour les travailleurs" — syndicat traître, face à la [[CGT]] ([[Sophie Binet]]) qui refuse de "tremper dans le 7 une victoire."
+
+La conclusion de la PaduTeam est sans appel : LFI doit radicaliser son programme (32h, retraite à 60 voire 55 ans, logement) et traiter le PS comme un adversaire politique déclaré, pas un allié récalcitrant.
 
 ## Campagne militante
 La PaduTeam a lancé une campagne physique "Plus Jamais PS" : collages en binômes paritaires, kit de collage gratuit fourni par la chaîne, site web dédié. Appel au recrutement en région parisienne prioritairement mais dans toute la France. Événement public le 20 février 2026 (bilan du PS de 2022 à nos jours) — sold out en 24h (400 places), rediffusion YouTube prévue.
@@ -238,6 +248,8 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — la PaduTeam dit explicitement "ici on est team plus jamais PS" face à la conférence FP2027 qui inclut Hollande/Rousseau dans son orbite. Démonstration que le FP2027 est une tentative PS de reconstruire un véhicule avec des noisettes.
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Les réunions secrètes PS-Attal derrière la façade unitaire de la primaire révèlent la convergence PS/bloc central. La PaduTeam décrit comment les socialistes tractent avec le gouvernement sur le budget pendant qu'ils font la primaire "de rupture". Jospin 2002 prédit comme sort du candidat noisette.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot : lancement de la campagne anti-PS avec [[On ne veut plus]] et [[La Breche|La Brèche]]. La "suspension" des retraites comme trahison exemplaire : le PS accepte une miette (décalage de courbe de quelques mois) et la présente comme victoire historique. Déclaration solennelle : "Dès que vous entendez PS, si vous êtes vraiment pour la rupture avec le néolibéralisme, c'est un adversaire." Appel à cesser toute tentative d'alliance avec le PS — "la séquence est terminée."
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Le PS a fait "un vrai choix tactique" : pas une trahison (qui suppose une promesse), un positionnement de classe assumé. La non-censure du gouvernement Lecornu II révèle que le PS a délibérément choisi d'affronter Mélenchon. Les noisettes (Tondelier, Ruffin, Roussel) célèbrent un "tiers de slip" — un trimestre gagné sur les retraites — comme victoire, prouvant leur incapacité structurelle à exiger l'abrogation.
+- [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — Démonstration que les "patrons de gauche" PS des années 80 (Gomez, Schweitzer, Bergé) sont les artisans directs du délabrement néolibéral qui a produit l'extrême droite actuelle. Le "plus jamais PS" est une conclusion structurelle, pas un caprice de chapelle. La thèse social-démocrate sur la responsabilité communiste dans l'avènement de Hitler est retournée contre ses auteurs : c'est le SPD qui a permis Hitler, pas le KPD.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Lancement de la campagne physique "Plus jamais PS"
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Retournement de veste PS sur Gaza ; Backseat comme vecteur de sionisme progressiste
 - [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Guedj comme cas d'école de la convergence PS/sionisme ; le PS plus sioniste que le RN : kits d'affichage, collage en binômes paritaires, groupes [[On ne veut plus]] en région. Annonce d'un événement IRL à Paris en février avec "des gens assez incroyables". La PaduTeam explique que la stratégie Hollande de retour démontre exactement pourquoi le PS restera toujours un ennemi : il reprend les mêmes personnes, les mêmes logiques, pour faire la même politique.

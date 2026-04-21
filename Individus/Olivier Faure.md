@@ -97,6 +97,17 @@ La PaduTeam estime qu'avec ses 66 députés (obtenus grâce aux concessions de l
 
 [^faure-barricade]: [5:42](https://www.youtube.com/watch?v=VIjS60Badeg&t=342) — "Je sais pas où ils sont partis en vacances... Vas-y Olivier, pars devant sur la barricade, on te regarde." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+### Valet de la noisette : le deal Le Cornu 1 (octobre 2025)
+
+Le PS ne vote pas la censure contre le gouvernement Le Cornu, prétendant avoir obtenu une « suspension de la réforme des retraites ». En réalité : un simple décalage de quelques mois sur la courbe d'âge de départ, nul pour toute personne née après 1968. Faure déclare que le PS est « considéré pour la première fois comme législateur » — la PaduTeam : « Des gros traîtres. Voilà ce que vous êtes. »[^fort-legislateurs]
+
+Il annonce des « débats homériques » sur le budget, dont le contenu réel comprend : suppression des APL étudiants étrangers, gel des APL (baisse réelle par inflation), augmentation des franchises médicales, hausse d'impôts sur les classes intermédiaires. La PaduTeam : « Il y a des trucs, c'est mieux si on se retrouve pas dans des situations où c'est un gouvernement en place qui veut mettre en place ça et on est obligé de discuter avec lui pour qu'il le fasse pas. »[^fort-debat]
+
+Macron avait déclaré que la censure serait « un vote pour la dissolution » pour mettre la pression sur Faure. La PaduTeam note aussi que Faure est très mal en point dans les sondages dans son propre fief de Carmaux.
+
+[^fort-legislateurs]: [21:16](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1276) — Faure : « Pour la première fois nous sommes considérés pour ce que nous sommes des législateurs. » — PaduTeam : « Des gros traîtres. Voilà ce que vous êtes. »
+[^fort-debat]: [22:49](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1369) — « Alors sur la partie fiscale, sur la partie des dépenses, nous allons avoir beaucoup de débats et bien tant mieux. »
+
 ### Bayrou tombe : le PS se prépare à récupérer le fauteuil (septembre 2025)
 
 Le jour du vote de confiance, [[Boris Vallaud]] au nom du PS déclare "Nous ne pouvons pas vous faire confiance" puis annonce : "C'est la gauche arrivée en tête de gouverner. Nous sommes prêts." La PaduTeam note l'ironie : "Macron vient du Parti socialiste, donc bon, la boucle est bouclée." Pendant que la rue chauffe pour le 10 septembre, le PS se positionne pour récupérer la PM via Macron — sans le programme du NFP. La PaduTeam souligne l'arnaque EELV (Châelin demande "un PM issu des rangs du NFP") qui pourrait signifier [[Francois Hollande]] lui-même comme PM. "Demander que ce soit le programme du NFP qui gouverne et non pas une personnalité du NFP."
@@ -108,6 +119,7 @@ Le jour du vote de confiance, [[Boris Vallaud]] au nom du PS déclare "Nous ne p
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — Boris Vallaud annonce la disponibilité du PS pour gouverner dès la chute de Bayrou ; Hollande cité comme PM "issu des rangs du NFP" possible ; démontage de l'arnaque personnalité vs programme
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM sous Macron, analyse du budget PS hollandiste, panique de Faure face à Panot- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sa présence symbolique à Bram comme représentant du PS (sans prendre position) ; la PaduTeam note qu'il est structurellement piégé entre Glucksmann (trop à droite pour LFI) et Mélenchon (trop à gauche pour lui).
 - [[HOLLANDE prepare t-il SON RETOUR]] — Présenté comme le "patron fantoche" que Hollande va manger. Incapable de tenir face au vrai parrain : il croit avoir empêché le 49.3, Hollande lui confirme qu'il ne l'exclut pas.
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Valet de la noisette » : ne vote pas la censure Le Cornu 1, obtient un tiers de slip mouillé (1 trimestre pour nés 1964-1968), se félicite d'être enfin « considéré comme législateur ». Budget à venir contenant gel APL, hausse franchises médicales, épargne des plus riches.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Le deal Lecornu 2 / suspension des retraites comme point de départ de la guerre des gauches. Faure est "plus malin que prévu" — le mouvement avant les municipales est calculé pour capter les classes intermédiaires en ville.
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Kit ou double : stratégie de survie par la primaire FP2027. Ruffin gagnera la primaire → Faure mort politiquement. Transpire quand Tondelier lâche "primaire" sans mandat du PS.
 - [[MAMDANI A GAUCHE DE MELENCHON]] — « Mamdani serait au PS aujourd'hui » : synecdoque du blocage des loyers pour postuler l'équivalence globale ; démontage en trois temps (étiquette socialiste ≠ programme, Hollande ≠ extrême gauche, partie ≠ tout) ; réassignation au bloc « Clinton-Cuomo-Harris ».

@@ -3,16 +3,17 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme, campisme-assumé]
-date: 2025-10-03
+date: 2025-10-07
 youtube_id: "-LNzH33Rhck"
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Wednesday, April 15th 2026, 1:40:00 pm
-skill_version: ingest-batch-2026-04-13
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
+skill_version: write-video-2026-04-21
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #enjeu/Palestine-libre #enjeu/anti-impérialisme #enjeu/campisme-assumé
-# GAZA — 2 ANS APRÈS LE 7 OCTOBRE — STOP AU GÉNOCIDE
 
-![](https://www.youtube.com/watch?v=-LNzH33Rhck)
+![GAZA : 2 ANS APRÈS LE 7 OCTOBRE - STOP AU GÉNOCIDE](https://www.youtube.com/watch?v=-LNzH33Rhck)
+
+# GAZA — 2 ANS APRÈS LE 7 OCTOBRE — STOP AU GÉNOCIDE
 
 ## Résumé
 La PaduTeam produit un bilan systématique des deux ans écoulés depuis le 7 octobre 2023, à la veille de l'anniversaire. La vidéo refuse la narration occidentale qui commence au 7-10 et insiste sur le **continuum colonial de 80 ans** depuis la [[Nakba]]. Elle déploie l'analyse du projet génocidaire annoncé dès le 8 octobre (« animaux humains »), théorise [[Benjamin Netanyahu]] comme « [[Pointe avancee du nationalisme ethnique|pointe avancée du nationalisme ethnique]] » mondial, dénonce la répression française contre la parole pro-Palestine, analyse le plan Trump-Blair comme occupation par intermédiaire, et conclut sur la dignité générationnelle (« c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte » — leçon de [[Georges Ibrahim Abdallah]]).
@@ -49,6 +50,18 @@ La PaduTeam produit un bilan systématique des deux ans écoulés depuis le 7 oc
 
 15. **Libération de Georges Ibrahim Abdallah (2025) comme preuve empirique que la lutte paie.** 40+ ans de détention, mère morte sans pouvoir le revoir, libéré en 2025 par la mobilisation des camarades. Preuve tactique que le défaitisme est un choix, pas une fatalité. « Le dooming n'existe pas pour les résistants parce que c'est déjà un abandon. »
 
+## Données chiffrées
+
+| Donnée | Valeur | Source |
+|--------|--------|--------|
+| Morts israéliens le 7 octobre 2023 | ~1 200 (dont 800 civils) | transcript 2:05 |
+| Morts palestiniens en 2 ans | plusieurs dizaines à centaines de milliers | transcript 3:36 |
+| Population de Gaza | 2 millions d'habitants | transcript 1:32 |
+| Rassemblements hebdomadaires France depuis oct. 2023 | 103-104 au moment du tournage | transcript 14:26 |
+| Durée de la mobilisation | ~100 semaines | transcript 14:57 |
+| Loi constitutionnelle israélienne | 2018 — hiérarchie ethno-religieuse | transcript 18:32 |
+| Durée de détention de Georges Ibrahim Abdallah | +40 ans (1984-2025) | transcript 32:25 |
+
 ## Individus mentionnés
 [[Chris]], [[Dr Zoe]], [[Benjamin Netanyahu]], [[Yoav Gallant]], [[Ariel Sharon]], Sheikh Ahmed Yassine, [[Abdul Aziz al-Rantissi]], [[Khaled Meshaal]], [[Mahmoud Abbas]], [[Marwan Barghouti]], [[Tony Blair]], [[Donald Trump]], [[Joe Biden]], Kamala Harris, Bernie Sanders, [[Jean-Paul Escuro]], [[Anasse Kazib]], [[Georges Ibrahim Abdallah]], [[Said Bouamama]], [[Oussam Abou Safiya]], [[Adnan Albourch]]
 
@@ -56,7 +69,7 @@ La PaduTeam produit un bilan systématique des deux ans écoulés depuis le 7 oc
 [[Hamas]], [[Tsahal]], [[Urgence Palestine]], [[UJFP]], [[Union pour la Reconstruction Communiste|URC]], [[CGT]], [[Hezbollah]], [[Parti Communiste Francais]], [[Parti Socialiste]], [[Cour Penale Internationale]], Collège National des Généralistes Enseignants, USB (syndicat italien)
 
 ## Concepts mobilisés
-[[Nakba]], [[Colonialisme de peuplement]], [[Centralite de la question palestinienne]], [[Front colonial permanent]], [[Pointe avancee du nationalisme ethnique]], [[Impunite absolue]], [[Instrumentalisation de l'antisemitisme]], [[Ciblage systematique des soignants]], [[Genocide en 4K]], [[Balcanisation imperialiste]], [[Crise de l'hegemonie americaine]]
+[[Nakba]], [[Colonialisme de peuplement]], [[Centralite de la question palestinienne]], [[Front colonial permanent]], [[Pointe avancee du nationalisme ethnique]], [[Impunite absolue]], [[Instrumentalisation de l'antisemitisme]], [[Ciblage systematique des soignants]], [[Genocide en 4K]], [[Balcanisation imperialiste]], [[Crise de l'hegemonie americaine]], [[Dignite generationnelle]]
 
 ## Enjeux avancés
 - **[[Palestine libre]]** — Bilan structurel 2 ans. Continuum 80 ans. Deux routes coloniales analysées. Dignité générationnelle théorisée.
@@ -65,3 +78,12 @@ La PaduTeam produit un bilan systématique des deux ans écoulés depuis le 7 oc
 
 ## Transcript
 [[GAZA  2 ANS APRÈS LE 7 OCTOBRE- STOP AU GEN0CIDE]]
+
+[^1]: [2:05](https://www.youtube.com/watch?v=-LNzH33Rhck&t=125) — « On compte au total de cette attaque 1200 morts dont 800 civils. »
+[^2]: [3:36](https://www.youtube.com/watch?v=-LNzH33Rhck&t=216) — « On sait que c'est plusieurs dizaines de milliers, peut-être plusieurs centaines de milliers rapportés à une population de 2 millions d'habitants. Je vous laisse calculer, c'est comme si en France, il y avait eu des millions et des millions et des millions de morts. »
+[^3]: [9:50](https://www.youtube.com/watch?v=-LNzH33Rhck&t=590) — « On est face à un génocide en 4K télévisé, documenté, et personne de nos générations ne pourra dire on ne savait pas. »
+[^4]: [14:57](https://www.youtube.com/watch?v=-LNzH33Rhck&t=897) — « Il va y avoir près de 100 rassemblements, un peu plus, 103 104 depuis la réponse d'Israël. Force à tous les gens... qui tiennent, ça fait 100 semaines qu'ils tiennent justement pour dénoncer ce génocide. »
+[^5]: [15:28](https://www.youtube.com/watch?v=-LNzH33Rhck&t=928) — « Les mouvements de masse, les blocages, c'est aussi la dignité d'une génération. [...] même si on a l'impression de ne pas peser, montrer que on voit et on ne veut pas de ça, c'est la dignité d'une génération qui dans l'histoire ne sera pas 20 et posera des bases pour l'internationalisme et le progressisme. »
+[^6]: [19:03](https://www.youtube.com/watch?v=-LNzH33Rhck&t=1143) — « Netanyahu est à la pointe avancée de tous les ethnationalistes. »
+[^7]: [25:11](https://www.youtube.com/watch?v=-LNzH33Rhck&t=1511) — « C'est la politique de Netanyahu. C'est lui qui prend en otage les juifs dans le monde. Chaque fois que vous demandez des comptes à des gens juifs qui ne sont pas israéliens [...] vous êtes un antisémite. »
+[^8]: [34:29](https://www.youtube.com/watch?v=-LNzH33Rhck&t=2069) — « Le dooming n'existe pas pour les résistants parce que c'est déjà un abandon. [...] c'est pas en tenant qu'on fait la lutte, c'est en luttant qu'on tient. »

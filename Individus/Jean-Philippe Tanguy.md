@@ -23,5 +23,12 @@ Proche de l'espace Le Pen — populaire, oppositionnel, bas du graphique. S'oppo
 - [[Marine Le Pen]] — même ligne populiste
 - [[Jordan Bardella]] — tension interne sur la ligne idéologique
 
+## Le double jeu de la censure (octobre 2025)
+
+Dans la séquence Lecornu II, Tanguy prend une déclaration publique conditionnelle : "la censure n'est pas automatique", "si suspension de la réforme des retraites il y a, on peut discuter." La PaduTeam démonte le positionnement : c'est un signal de l'aile Bardella (droite de gouvernement, non-bordélisatrice) face à l'aile Marine Le Pen (opposition frontale antisystème). Ce "double jeu" — ultra-oppositionnel à la télé, prudent dans les faits — est exactement ce que la FI refuse : "elle assume de dire on fait tomber, on s'en fout." Le RN ne peut pas servir simultanément un électorat de retraités qui veut "l'ordre" et un électorat populaire antisystème qui attend une rupture. La tension Bardella/Tanguy/Le Pen illustre cette contradiction insoluble.[^tanguy-oct25]
+
+[^tanguy-oct25]: [15:34](https://www.youtube.com/watch?v=AFA-tSdA-1M&t=934) — "s'il y a suspension de la réforme des retraites il y a débat sur censurer ou non [...] La censure n'est pas automatique."
+
 ## Vidéos où Tanguy est analysé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
+- [[LECORNU DEJA CENSURE]] — signal bifurcation Bardella vs Le Pen/Tanguy ; "double adresse" analysée par la PaduTeam

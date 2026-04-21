@@ -42,8 +42,18 @@ En 2017, quand Mélenchon s'était rapproché du 2e tour et que des rumeurs d'al
 
 Autain appuie sur la pression envers la FI absente : "C'est sur eux que pèse la responsabilité." Pour la PaduTeam : "Ils s'en battent les couilles de votre gueule Clémentine, parce qu'ils vont faire 20 et vous 4."
 
+## La comtesse qui commence à voir (octobre 2025)
+
+Après la non-censure du gouvernement Le Cornu par le PS, Autain est plus lucide que Tondelier. Elle tweete : « À 18 voix près, la motion de censure du gouvernement vient d'être rejetée. Macron et Le Cornu sont provisoirement sauvés par le choix du Parti socialiste. C'est un sursis. »[^autain-tweet] Pour la PaduTeam, elle « met un coup de pression à la reine des noisettes » et commence à se désolidariser du PS — « elle est du côté de la Brèche, elle est en mode Plus jamais PS ». Pourtant, elle n'a toujours pas choisi de « sortir de sa condition de noisette en slip ».
+
+La vidéo la présente dans un segment télévisé aux côtés de [[Benjamin Lucas]] de [[Generation.s]], où les tensions de préséance entre noisettes sont comiquement visibles : chacun tente de prendre la parole avant l'autre dans une succession de « Vas-y / Non, vas-y » passif-agressifs — « grosse ambiance chez les noisettes »[^autain-lucaspassif].
+
+[^autain-tweet]: [19:41](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1181) — Clémentine Autain : « À 18 voix près, la motion de censure du gouvernement vient d'être rejetée. Macron et Le Cornu sont provisoirement sauvés par le choix du Parti socialiste. C'est un sursis. »
+[^autain-lucaspassif]: [17:38](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1058) — Scène de plateau : Lucas (Génération.s) et Autain s'opposent pour la parole. « C'est du passif-agressif le pire tu sais. »
+
 ## Vidéos où Autain est analysée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Trajectoire complète, primaire noisette, "opportuniste aventurière", rivale de Tondelier
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Rappel de sa trahison de 2017 quand Mélenchon s'approchait du 2e tour
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — "Moment historique", théorie des lucioles/horloges, pression sur la FI absente. "Le mec a bossé ça à l'entraînement."
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Comtesse de la noisette » : plus lucide que Tondelier sur le PS après la non-censure, commence à se positionner « Plus jamais PS », mais reste noisette. Scène passif-agressive de préséance avec Benjamin Lucas de Génération.s.

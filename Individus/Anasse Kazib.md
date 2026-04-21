@@ -57,3 +57,4 @@ Grand meeting à Sarcelles (70 000 personnes). Kazib monte à la tribune main da
 - [[ANASSE KAZIB ATOMISE MADURO]] — Sa position "dictateur 100% anti-ouvrier" déconstruite comme occidentalocentrisme trotskiste
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Débat sur le tournant nationaliste de PDH et la stratégie de classe
 - [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Cité comme victime du double standard judiciaire : procès en apologie du terrorisme pour avoir défendu la résistance palestinienne, pendant que Dray nie la famine à la télé sans jamais être inquiété
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Mis en examen pour apologie du terrorisme ; la PaduTeam mentionne vouloir l'inviter sur "On ne veut plus" avant son jugement attendu fin 2025-début 2026

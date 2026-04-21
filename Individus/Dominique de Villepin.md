@@ -50,3 +50,4 @@ La PaduTeam rappelle que c'est Villepin qui a soufflé à Chirac l'idée de la d
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — Lancement de La France Humaniste analysé en direct; validation de la prédiction du Graphique
 - [[GRAPHOMARXISME x Positions Revue]] — Analyse (voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] pour la fiche complète)
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Responsable de la dissolution Chirac 1997 (il l'a conseillée) ; critique de son bilan France-Afrique ; avertissement contre la séduction de ses positions humanistes
+- [[LECORNU DEJA CENSURE]] — "La première fois comme une tragédie, la deuxième fois comme une farce" : analysé en farce gaulliste dans la crise Lecornu II ; "noisette des noisettes" ; prédit à 3-4%
