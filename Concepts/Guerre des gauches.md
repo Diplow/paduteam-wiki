@@ -50,6 +50,14 @@ La PaduTeam formule une thèse structurale précise : Glucksmann n'est pas seule
 
 Cette polarisation est présentée comme **la condition d'un duel au second tour 2027** entre Mélenchon et Glucksmann : "Mélenchon au 2e tour avec Raphael Glucksmann qui sera obligé d'appeler à voter Mélenchon." Cohn-Bendit, lui, "entre Le Pen et Mélenchon, il appelle soit rien, soit peut-être Le Pen."
 
+## Les dissidences internes LFI comme symptôme de la guerre des gauches (novembre 2025)
+
+La dissidence de [[Emeric Caron]] sur les municipales 2026 est analysée par la PaduTeam comme une manifestation de la guerre des gauches à l'intérieur même du camp de gauche. Caron, "dans le marais" entre FI et PS, joue sur sa capacité à se vendre à une future alliance PS/Glucksmann en tant qu'apporteur de siège dans le 18e arrondissement. Son comportement illustre la logique de la [[Feudalisation des partis de gauche]] que la FI cherche à éviter en maintenant le contrôle sur ses listes.
+
+La PaduTeam annonce dans cette séquence le lancement d'une "campagne Plus jamais PS sur plusieurs semaines" : la FI doit affronter le PS dès les municipales, pas jouer le coup du NFP. "Il faut absolument que la FI tienne la position à gauche et affronte le PS, pas d'accord avec le PS, et se prépare pour l'affrontement final à la présidentielle et tue définitivement ce parti."[^gg_caron]
+
+[^gg_caron]: [30:25](https://www.youtube.com/watch?v=p9-VbBg9Xwg&t=1825) — "Il faut absolument que la FI tienne la position à gauche et affronte le PS, pas d'accord avec le PS, et se prépare pour l'affrontement final à la présidentielle et tue définitivement ce parti — pas par vengeance ou quoi, mais par nécessité politique."
+
 ## Vidéos où le concept est développé
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Formulation la plus claire du "facteur de corrélation inverse" : Glucksmann comme pôle structurellement opposé à Mélenchon. Prospective duel 2027. Les noisettes (Faure, Tondelier) n'ont aucun espace entre les deux pôles.
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Les "amis de gauche" qui critiquent LFI pour le refus d'accréditation sont identifiés comme noisettes : Tondelier ("ne sait pas quoi faire en dehors du capitalisme"), Ruffin ("a mis Bayrou sur ses tracts"), Roussel ("meilleur en recettes de pain perdu"), Faure. La guerre des gauches est visible même dans ce débat apparemment mineur sur la liberté de la presse.
@@ -61,3 +69,4 @@ Cette polarisation est présentée comme **la condition d'un duel au second tour
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Leçon transatlantique : le programme DSA est le nouveau plancher à revendiquer contre la récupération PS. Réassignation structurelle du PS au bloc « Clinton-Cuomo-Harris ».
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot : annonce du passage de la moïsation à la guerre des gauches. Le deal PS/Lecornu 2 (non-censure contre suspension des retraites) marque l'ouverture officielle de la séquence. Formulation clé : "Dès que vous entendez PS, si vous êtes vraiment pour la rupture avec le néolibéralisme, c'est un adversaire." Lancement de la campagne anti-PS par La Brèche et On ne veut plus.
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Analyse de la [[Deuxieme gauche]] comme courant structurel adverse. Plenel comme boussole inversée. Stratégie Faure décortiquée (gagner du temps, se repeindre, capter le macronisme de gauche). Lancement officiel de la campagne "Génération Plus jamais PS".
+- [[AYMERIC CARON PURGE DE LFI ON FAIT LE POINT]] — La dissidence de Caron comme symptôme de la guerre des gauches à l'intérieur du camp LFI. Annonce du lancement de la "campagne Plus jamais PS". Les municipales comme répétition générale de la guerre des gauches.

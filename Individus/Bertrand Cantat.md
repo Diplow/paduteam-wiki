@@ -29,5 +29,7 @@ Ce cas démontre deux mécanismes : (1) une victime sous emprise peut sincèreme
 ## Vidéos où Bertrand Cantat est analysé
 
 - [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]]
+- [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]] — cité en réponse à l'argument de Fugu "si la porte n'est pas fermée à clé, c'est bizarre qu'elle ne soit pas partie" : "Bertrand Cantat, c'est le mec qui dort pendant que ses femmes meurent."[^2]
 
 [^1]: [50:26](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=3026) — "Christine Rad finira par se donner la mort. Et d'ailleurs, encore une fois, Bertrand Quentin sera en train de dormir dans la maison de Bertrand Quentas. C'est le mec qui dort pendant que ses femmes meurent."
+[^2]: [57:32](https://www.youtube.com/watch?v=1V7Xml-44jQ&t=3452) — "Il l'a détruite à coups de point. Il faisait 40 cm et 50 kg de plus qu'elle. Puis il laisse faire une hémorragie interne et se vide de son sang. Le visage détruit sans prévenir les secours et elle meurt. Elle agonise pendant plusieurs heures et elle meurt. [...] Christine Aradi aussi va mourir. Elle appelle ses parents, elle leur laisse un message pour dire qu'il l'a encore frappé, qu'il est invivable. Et quelques mois plus tard, elle se suicidera dans la maison où lui dort."

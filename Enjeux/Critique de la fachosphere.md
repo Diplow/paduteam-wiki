@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, masculinisme, trajectoires-politiques, racisme-antiracisme]
-skill_version: write-enjeu-2026-04-21-enrichi-w43w44
+skill_version: write-enjeu-2026-04-21-enrichi-w43w44-w47w48
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/masculinisme #thème/racisme-antiracisme #enjeu/critique-de-la-fachosphere
 
@@ -185,6 +185,20 @@ La PaduTeam démonte la [[Psychose sécuritaire]] en la confrontant aux vraies d
 
 Le garrot tourniquet comme symbole : c'est un équipement de combat militaire projeté dans le quotidien civil, signalant la **militarisation de l'imaginaire droitard** — le monde comme zone de guerre, chaque sortie comme une patrouille. Derrière le discours "sécurité", la cible est toujours la même : les personnes racialisées dans l'espace public. La psychose sécuritaire est une forme d'ethnonationalisme pratique.
 
+### Le Canon Français : l'antifascisme de terrain face à l'implantation réactionnaire
+
+[[SAUCISSON - BERET - SARDOU  LES FETES DE DROITE HORS DE PRIX DU CANON FRANCAIS]] documente une évolution de la fachosphère : depuis le boutiquierisme de contenu vers une infrastructure territoriale finançée. Le Canon Français n'est pas qu'une chaîne YouTube — c'est une société événementielle contrôlée par le milliardaire [[Pierre-Edouard Sterin]] qui organise des banquets à 80 € la place pour créer du "collectif" réactionnaire en dehors de l'espace internet. La PaduTeam identifie la mécanique : "C'est un bon coup pour l'extrême droite — base sociale identifiée, recrutement habillé en fête." Les banquets concentrent de jeunes trentaires blancs dans des châteaux et produisent de la sociabilité militante dans un cadre festif présenté comme "apolitique".
+
+Le cas concret de Brusvily (Bretagne) est éclairant : des gens "pas méga politisés" ont organisé des pétitions et une fête solidaire pour empêcher l'implantation d'un banquet Canon Français. La PaduTeam valide cette action directe de terrain comme la réponse correcte à la structuration territoriale de l'extrême droite.
+
+Ce cas complète la thèse sur l'infrastructure de la fachosphère : pendant que Stérin finance des médias (Le Crayon, Néo) pour l'espace numérique, le Canon Français construit une présence physique dans les territoires. Face à ça, la réponse ne peut pas être seulement YouTube — c'est le modèle PCF/CGT (clubs, présence dans la vie quotidienne) contre l'électoralisme ou le boutiquierisme.
+
+### L'antifascisme de terrain face au harcèlement médiatique — le cas Cem Yoldas
+
+[[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] documente la mécanique du harcèlement coordonné de l'extrême droite médiatique contre un candidat municipal antifasciste. [[Cem Yoldas]], tête de liste "Strasbourg, c'est nous" et porte-parole de [[La Jeune Garde]], subit une campagne raciste coordonnée ([[Damien Rieu]], [[Virginie Joron]]) pour avoir distribué des tracts multilingues (français, alsacien, turc, arabe) — campagne documentée comme tradition communiste historique (George Woodley, résistant mort sous la Gestapo, distribuait déjà des tracts en alsacien).
+
+La PaduTeam valide deux positions distinctes de la fachosphère critique : (1) la violence antifasciste comme légitime défense ("ce ne sont pas les antifascistes qui mettent le degré de violence — si personne n'est violent contre eux, les antifas n'agressent personne") et (2) le programme de rupture réelle (baisse des loyers, réquisition des logements vacants, désarmement de la police municipale, rupture du jumelage avec Ramat) comme seule alternative au vote-utile noisette.
+
 ### L'infrastructure de financement de la fachosphere — le cas Stérin
 
 [[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] illustre la dimension organisationnelle et financière de la fachosphère — plus dangereuse que ses contenus individuels.
@@ -211,6 +225,8 @@ Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle 
 
 ## Vidéos clés
 
+- [[SAUCISSON - BERET - SARDOU  LES FETES DE DROITE HORS DE PRIX DU CANON FRANCAIS]] — évolution de la fachosphère vers l'infrastructure territoriale : Canon Français (Stérin) comme sociabilité militante codée en festif apolitique ; 80 € = filtre de classe ET non-mixité raciale ; l'antifascisme de terrain local (pétitions Brusvily) comme réponse correcte ; le modèle PCF/CGT (implantation, clubs, vie quotidienne) contre l'électoralisme
+- [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — harcèlement coordonné de la fachosphère contre un candidat antifasciste : campagne raciste sur les tracts multilingues ; la tradition communiste multilingue (George Woodley, PCF résistant en Alsace) retournée contre l'extrême droite ; violence antifasciste comme légitime défense ; programme de rupture (baisse des loyers, désarmement police municipale, rupture jumelage Ramat) contre le vote-utile noisette
 - [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]] — cas d'école de la récupération islamophobe par la fachosphere médiatique institutionnalisée : Antoine Diers (ex-Zemmour) sur RMC, mécanisme en trois étapes (sélection raciale → racialisation → institutionnalisation), contre-argument du Dr Karim Arou (la hagra est une logique de domination de classe universelle, pas "culturellement maghrébine") ; formule : "comment renverser un problème politique profond qui concerne tout le monde en un truc raciste"
 - [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] — specimen droitard anonyme disséqué : dog whistle suprémaciste américain, panique morale face à 1% de diversité, culturalisme sans classe (Guilluy), identification raciale trans-classe qui écrase la solidarité de classe réelle ; formule fondamentale : "quand vous politisez pas quelque chose, c'est que son sens politique vous échappe"
 - [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau comme synthèse des deux matrices islamophobes ; falsification chronologique du rapport Terranova ; "parti de l'étranger" comme rhétorique antisémite recyclée ; sujet révolutionnaire (jeunes femmes racisées) traduit en menace islamiste par incapacité à penser la classe

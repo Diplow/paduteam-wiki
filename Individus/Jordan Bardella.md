@@ -94,7 +94,20 @@ Son contre-budget présenté le 23 octobre vise 4 milliards d'économies — "m�
 
 [^bardella-milei]: [20:30](https://www.youtube.com/watch?v=YWEjQQLMKbA&t=1230) — "je dois donner des gages au MEDEF alors que l'autre fait n'importe quoi avec son truc national euh protectionniste"
 
+## La "baudruche" : produit fabriqué, nullité fonctionnelle (déc. 2025)
+
+La PaduTeam reçoit la révélation que 133 000€ d'argent public européen ont été dépensés pour un media training destiné à apprendre à Bardella à "parler et sourire" — principalement pour la campagne présidentielle de Marine Le Pen 2022, pas pour son travail au Parlement européen qu'il ne fréquentait pas pour voter.
+
+L'interview du coach Pascal Humo confirme que Bardella "ne lisait pas, ne s'informait pas du tout" avant les séances. La PaduTeam formalise le mécanisme de la nullité comme fonctionnalité : un dirigeant "extrêmement stupide" est "extrêmement maniable" — ce qui est l'avantage décisif pour le patronat qui peut "en faire ce qu'il veut." Les 133 000€ sont le coût de la dissimulation de cette nullité, pas de sa correction.
+
+Le narratif "je viens des classes populaires / de nulle part" est démoli : père chef d'entreprise (petite bourgeoisie), études abandonnées après échec, entrée au FN à 17 ans. Le RN "donne des postes de dingue" à 22 ans parce qu'il n'a "globalement personne" — grenouillage opportuniste, pas mérite. Même analyse pour [[Marine Le Pen]] : château de Montretou, études à Assas (fac des cadres de droite), FN à 18 ans. "Tous des héritiers, des produits fabriqués."
+
+La critique n'est pas l'absence de diplôme (contre-exemple : [[Ambroise Croizat]], ministre du travail communiste à la Libération, sans diplôme mais avec une expérience de classe). La critique : n'avoir jamais travaillé, n'avoir aucun ancrage dans l'appareil de production, faire un "roleplay classe populaire" tout en étant "le plus gros profiteur du système."
+
+La PaduTeam confirme sa prédiction : Bardella finira "le Ségolène Royal du RN" — envoyé se tanker pour que Le Pen revienne en 2032. Comparaison avec Mitterrand mettant Rocard premier ministre en 1988 : "Dans un an et demi, on verra au travers."
+
 ## Vidéos
+- [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — media training 133 000€ ; mécanisme de la nullité fonctionnelle ; narratif classe populaire démoli ; dilemme Chirac 74 vs Ségolène Royal du RN
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud : Bardella remis au premier plan par la condamnation, plus libéral que Le Pen, peut s'allier avec Retailleau — appel d'air droitier
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Analyse post-condamnation Le Pen : le dilemme Bardella amplifié, scénario trahison Chirac 74, pire config pour la gauche

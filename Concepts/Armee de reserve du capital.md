@@ -2,7 +2,7 @@
 type: concept
 domaine: [économie, théorie]
 thèmes: [travail, racisme-antiracisme]
-aliases: [armée industrielle de réserve, population surnuméraire, surpopulation relative]
+aliases: [armée industrielle de réserve, population surnuméraire, surpopulation relative, Armee de reserve, armée de réserve]
 skill_version: write-concept-2026-04-20
 ---
 #domaine/économie #domaine/théorie #thème/travail #thème/racisme-antiracisme

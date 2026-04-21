@@ -38,9 +38,17 @@ Le bilan hollandiste élargi comprend : loi Travail, répression des manifestati
 
 [^macron-hollande]: [9:51](https://www.youtube.com/watch?v=VIjS60Badeg&t=591) — "Hollande a littéralement accouché d'Emmanuel Macron. Ce qu'on vit aujourd'hui est une conséquence du hollandisme, une conséquence directe." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+## La "loi accélérationniste" — hollandisme et extrême droite
+
+La vidéo [[HOLLANDE prepare t-il SON RETOUR]] formule une thèse sur le rapport entre hollandisme et montée de l'extrême droite : appliquer les idées de l'extrême droite "sans être de l'extrême droite" ne bloque pas le fascisme — cela normalise son agenda et pousse le curseur encore plus loin. "Plus vous repoussez le curseur dans la dégueulasserie en étant du centre ou centre-gauche, plus ils reprendront le bâton aussi loin et iront encore plus loin."[^accel] La stratégie du "moindre mal" est donc, structurellement, une stratégie d'accélération — chaque concession à l'extrême droite élargit le champ du possible pour la prochaine fois. C'est en ce sens une "loi accélérationniste" — non pas au sens littéral des accélérationnistes de droite, mais comme mécanique systémique qui dément le raisonnement du "barrage républicain" hollandiste.
+
+[^accel]: [11:52](https://www.youtube.com/watch?v=6Oh29FEy0-Y&t=712) — "Plus vous mettrez la barrière loin en étant du centre ou du centre gauche et cetera dans la dégueulasserie, plus ils reprendront le bâton aussi loin que ça et ils iront encore plus loin." — dans [[HOLLANDE prepare t-il SON RETOUR]].
+
 ## Vidéos où le concept est développé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — Le reportage Paris Match comme illustration vivante de l'hollandisme : bilan quinquennat, CICE/Arnault, loi El Khomri, regard bourgeois sur les "maisons ouvrières"
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
 - [[Faure oblige de trahir]] — Démonstration graphique du déterminisme de classe qui produit l'hollandisme
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — L'hollandisme comme généalogie de Macron ; bilan quinquennat Hollande (loi Travail, répression, racisme institutionnel, lits supprimés) ; le plan Jospin 96 comme répétition du pattern hollandiste
 - [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — La [[Taxe Zucman]] portée par le PS qualifiée de hollandiste : symbolique, insuffisante, mais brèche à ne pas bloquer ; la PaduTeam distingue la brèche utile du programme suffisant
+- [[HOLLANDE prepare t-il SON RETOUR]] — Formulation de la "loi accélérationniste" : l'hollandisme comme accélérateur structurel de l'extrême droite via la normalisation de son agenda
+- [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Le PLFSS 2026 comme hollandisme en action : les victoires PS (ONDAM +2,1 % = baisse réelle, retraites décalées de 3 mois, congé naissance à 60 % du salaire, taxe complémentaires répercutée sur cotisants) illustrent la technique du macronisme d'enveloppe maximale rognée pour faire passer les mesures dures

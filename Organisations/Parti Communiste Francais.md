@@ -78,6 +78,26 @@ Or c'est le PCF qui est le « parti le plus glorieux du 20e siècle en France »
 
 L'attaque anticommuniste de septembre 2025 (stèles contre [[Leon Landini]] à Saint-Raphaël) aurait dû pousser le PCF à se radicaliser — au lieu de quoi il continue sa trajectoire de droitisation.
 
+## La porte-parole qui ne connaît pas les positions de son parti (décembre 2025)
+
+L'interview de [[Cecile Cukierman]] dans l'Humanité (décembre 2025) est analysée comme un cas d'école de la déchéance organisationnelle du PCF. Trois symptômes :
+
+- **Ignorance assumée** : porte-parole depuis 7 ans, elle déclare ne pas connaître la position officielle du PCF sur le voile dans le sport.
+- **Inversion du centralisme démocratique** : la "démocratie interne" n'est invoquée que pour couvrir des positions droitières — jamais pour protéger les dissidences de gauche. La PaduTeam : "la dissidence n'est valable que si tu es droitier dans le PCF aujourd'hui."
+- **Notabilisation accomplie** : opposition entre l'âge d'or du PCF (ouvriers sans diplôme formés à la théorie marxiste à l'intérieur du parti) et le présent (héritiers de place avec moins de niveau théorique que leurs grands-parents analphabètes). Diagnostic : "C'est la SFIO des années 60."
+
+La PaduTeam adresse directement les militants PCF de base : "vous êtes insultés d'avoir des représentants comme ça." Et à la direction : "déposez le bilan, rendez l'immeuble de Villejuif au peuple."
+
+## La "valeur travail" rouselliste : convergence avec la droite (décembre 2025)
+
+La PaduTeam démontre que le discours de Cukierman sur la valeur travail n'est pas un glissement accidentel mais la conséquence directe de la stratégie d'adaptation à la "conscience réelle". Deux régimes conceptuels s'affrontent :
+
+- **La valeur travail droitière** (Sarkozy, Pétain, MEDEF) : le travail comme valeur morale positive, marqueur du "bon citoyen", distinguant les "gens qui se lèvent tôt" des "assistés". Ce cadre implique que ceux qui ne travaillent pas (chômeurs, allocataires) sont moralement inférieurs et/ou ont "choisi" leur situation.
+
+- **La conception marxiste** : le travail est une activité nécessaire à la reproduction sociale, pas une valeur en soi. Ce qui compte est la transformation des rapports de production — sortir du travail aliéné, récupérer la maîtrise collective du processus productif. Le salariat généralisé inclut les chômeurs, qui font partie de l'"armée de réserve" capitaliste maintenue délibérément pour comprimer les salaires.
+
+Le slogan "parti du travail" de Roussel efface la distinction historique fondamentale : la gauche a toujours été du côté des *travailleurs*, jamais du *travail*. Pétain avait fait la même inversion. Le PCF actuel, en reprenant ce cadre, "fait du bénévolat pour le MEDEF."
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -90,3 +110,5 @@ L'attaque anticommuniste de septembre 2025 (stèles contre [[Leon Landini]] à S
 - [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — Gay présenté comme "Fabien supérieur à Roussel" ; distinction entre pratique militante parlementaire de Gay et stratégie de respectabilité médiatique de Roussel
 - [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Discours sécuritaire post-PSG comme exemple du pipeline droitier ; citation du communiqué Balibar 1980 ; le PCF incapable d'analyse matérialiste de la violence ; l'URC présentée comme horizon de reconstruction
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Reniement vs dépassement de l'histoire soviétique ; la stèle Landini comme attaque anticommuniste emblématique ; le PCF incapable de défendre son propre héritage glorieux
+- [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]] — Interview Cukierman comme symptôme de la déchéance : ignorance de la position officielle du parti, inversion du centralisme démocratique, notabilisation accomplie vs formation ouvrière de l'âge d'or
+- [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — Deuxième épisode de la même interview : la valeur travail rouselliste comme convergence avec Sarkozy et le MEDEF ; démontage de la stratégie d'adaptation à la "conscience réelle" ; distinction démagogie/pédagogie

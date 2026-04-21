@@ -101,6 +101,28 @@ Dans l'analyse à chaud de la défaite de [[Kamala Harris]], la PaduTeam ne trai
 
 Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "pas une larme pour Maduro". Pour la PaduTeam dans [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]], c'est la preuve de sa nature d'"agent américain" — pas au sens complotiste, mais comme quelqu'un dont la fonction politique objective est de relayer les intérêts impérialistes américains au sein de la gauche française. Ses positions atlantistes (pro-OTAN, pro-Ukraine, pro-intervention) s'alignent systématiquement avec la position du département d'État américain. Le Venezuela est le test ultime de ce positionnement.
 
+## Glucksmann finito — l'exécution par le PS (novembre 2025)
+
+Après l'émission LCI catastrophique (3h de direct, absence depuis septembre pour se préparer, confrontation perdue contre un sparring-partner préparé), la PaduTeam prononce le verdict : "au combat des noisettes, la branche Glucksmann vient de casser."
+
+**Le mécanisme de l'exécution** : quelques jours avant le fiasco, [[Francois Hollande]] organise à Pontoise une réunion avec Glucksmann et [[Bernard Cazeneuve]]. La PaduTeam lit cette séquence comme un piège de Parrain : "on le met responsable devant les socialistes avec Hollande et Cazeneuve et quelques jours après, il explose. Ça veut dire quoi ? On a parié sur toi, tu nous as déçu, maintenant tu es mort."[^exec_1] La photo de Pontoise n'est pas une alliance — c'est une mise à mort calculée pour permettre au PS de reprendre l'ascendant sur l'espace centre-gauche.
+
+**Son défaut structurel** : "ce type n'a aucune conflictualité et il croit que la politique c'est de la non-conflictualité."[^exec_2] Son passage sur LCI illustre précisément cela : à 1h29 de discours, il n'avait rien dit de concret. Il ne définit jamais "la démocratie" qu'il invoque. La décentralisation qu'il propose est identifiée comme la tech de l'Union européenne — affaiblissement des États-nations à l'allemande.
+
+**Sa nullité est performative** : préparé des mois, mis en scène avec une "amie" dans le public (Nelly Bouet) censée jouer la citoyenne anonyme, coaché pour passer pour "un homme du peuple" — et rate quand même. "C'est un type il pose une bombe, il oublie de s'éloigner de la bombe qu'il a posée."[^exec_3]
+
+**Le score européen 2024 réévalué** : 13,8 % aux européennes de centre-gauche, c'est "catastrophique." Il n'a capté que les électeurs de Jadot 2019, sans en gagner un seul à gauche. "Il a bouleversé les électeurs de Jadot 2019" — rien d'autre.
+
+**L'erreur Zemmour** : débattre contre Zemmour en 2025 alors que celui-ci ne représente plus rien (7 % en 2022, 1 élue au Parlement — Sara Knafo, sa compagne) pour "singer" la stratégie Mélenchon de 2021-2022. Glucksmann réactive une figure morte et rate même ce débat.
+
+**Réaction défensive de ses proches** : ses soutiens défendent "sa posture d'humilité et d'écoute" — ce que la PaduTeam traduit littéralement : "Il n'est pas fait pour la politique en fait. Il n'est pas fait pour l'affrontement conflictuel et idéologique. Dégage du coup."
+
+**Succession** : [[Boris Vallaud]], "fidèle depuis toujours de François Hollande", est désigné comme le candidat PS de remplacement. Le PS ne veut pas de primaire, veut son propre candidat pour capter les 16-17 % de l'électorat macroniste en décomposition.
+
+[^exec_1]: [37:14](https://www.youtube.com/watch?v=4PV9RBcvic4&t=2234) — "Il en a fait croire qu'il aurait la main sur la famille. Au final, il est décédé." — dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]]
+[^exec_2]: [17:02](https://www.youtube.com/watch?v=4PV9RBcvic4&t=1022) — "ce type n'a aucune conflictualité et il croit que la politique c'est de la non conflictualité." — dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]]
+[^exec_3]: [28:28](https://www.youtube.com/watch?v=4PV9RBcvic4&t=1708) — "C'est un type il pose une bombe, il oublie de s'éloigner de la bombe qu'il a posé." — dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]]
+
 ## Vidéos où Glucksmann est analysé (suite — corpus Ukraine 2025-2026)
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Cité comme exemple de candidat adoubé par les médias pour contrer Mélenchon
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Analyse de son rôle dans la déstabilisation de LFI
@@ -120,3 +142,4 @@ Lors de l'enlèvement de [[Nicolas Maduro]] (janvier 2026), Glucksmann tweete "p
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Équivalence structurelle : Glucksmann = gauche démocrate américaine transposée en France. Même programme (limite Pécresse), même vision impérialiste, même ancrage sociologique. Fabrique des défaites à la Jospin 2002.
 - [[GLUCKSMANN NE CHOISIT PAS ENTRE MELENCHON ET LE PEN]] — Applique rigoureusement la stratégie du casse-noisette (police, caméras, futures batailles SMIC/retraites) ; "prophète sacrificiel" du Graphique ; Place Publique = quasi inexistant (1 député ex-macroniste) ; Faure = la noisette du PS condamné à mourir comme le PC sous Mitterrand.
 - [[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] — Mentionné comme figure de la gauche molle face au budget Bayrou ; contraste avec la ligne Bompard (censure sans compromis).
+- [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Bilan du fiasco LCI : exécution par le PS (photo Pontoise/Hollande/Cazeneuve comme piège), défaut structurel de non-conflictualité, score européen 13,8 % réévalué comme catastrophique, succession Boris Vallaud confirmée par la prophétie.

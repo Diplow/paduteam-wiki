@@ -56,8 +56,18 @@ Quand d'un côté il y a un oppresseur et de l'autre un opprimé, se refuser à 
 - La [[Securite Sociale]] de 1945 — contre-exemple positif, résistants armés imposant le rapport de force
 - L'antiracisme comme terrain de conflictualité spécifique aux classes populaires (différencier Mélenchon de Le Pen)
 
+## Le cas Faure : le noyé qui ne crie pas au secours
+
+[[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] fournit un cas d'école de l'incapacité à assumer la conflictualité dans la pratique institutionnelle. [[Olivier Faure]] a bâti toute sa stratégie sur la promesse de ne pas laisser passer le 49.3. En refusant d'assumer un rapport de force réel — voter la censure, risquer la dissolution — il se retrouve à la merci des décisions de son propre camp. Quand [[Boris Vallaud]] et [[Rachid Temal]] ouvrent la porte au "49.3 de compromis", Faure est sans recours : il a neutralisé ses propres armes.
+
+La PaduTeam reformule : "si tu n'assumes pas la conflictualité, tu te retrouves dans cette situation — on est tous les uns à côté des autres à poil, tout mouillé dans la cave"[^faure-conflit]. L'image de la cave résume le mécanisme : le refus du conflit ne protège pas, il place les dominés dans une dépendance permanente aux bonnes grâces du dominant.
+
+[^faure-conflit]: [26:28](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1588) — "si tu n'assumes pas la conflictualité, tu te retrouves dans cette situation. On est tous les uns à côté des autres à poil, tout mouillé dans la cave."
+
 ## Vidéos où le concept est développé
 
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — théorisation centrale : douceur comme privilège de classe, Sécu Sociale par résistants armés, refus du conflit = servir l'ordre établi
 - [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — idéalisme politique et refus du conflit comme angle analytique de Viktorovitch
 - [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — le cancel comme refus du conflit politique substitué par le conflit moral
+- [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — illustration par Faure : bâtir une stratégie sur la promesse de ne pas censurer place le PS en position de dépendance maximale face au macronisme ; l'image de "la cave" pour nommer la condition du refus de conflictualité
+- [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — formulation la plus directe du concept comme critère éliminatoire pour un candidat présidentiel : "ce type n'a aucune conflictualité et il croit que la politique c'est de la non-conflictualité." La non-conflictualité de Glucksmann est présentée comme la raison structurelle pour laquelle il ne peut pas gagner — "quand vous n'êtes pas assez de gauche, vous ne pouvez pas affronter l'extrême droite, vous allez vous faire bouffer par elle."

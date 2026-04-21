@@ -36,8 +36,21 @@ Les structures mentales de classe s'adoptent *immédiatement* par la participati
 
 "Conscience est toujours projective" — elle est orientée vers le futur, conditionnée par le passé, mais déterminée par le présent immanent de la coopération.
 
+## Le sujet collectif masculin
+
+La vidéo sur l'affaire Helydiafugu offre la démonstration la plus concrète du concept dans sa version genrée. Après la vidéo de 50 minutes de [[Fugu]], un sujet collectif masculin se mobilise massivement sur internet — copypasta, likes en masse (43 000, 37 000, 29 000 sur les commentaires), cyberharcèlement contre [[Helydia]].
+
+Ce n'est pas une réaction concertée. "Comme vous voyez par exemple des bourgeois solidaires quand on commence à parler de l'attaque Zucman, ils n'ont pas besoin de se concerter, ils n'ont pas besoin de se connaître, de se fréquenter pour pouvoir tenir le même discours parce qu'ils se sentent attaqués."[^5] Le sujet collectif masculin ne se sent pas attaqué dans ses privilèges abstraits — il se sent attaqué "dans ce qu'il est lui-même en tant que force virile et surtout force d'opposition aux femmes."
+
+La PaduTeam distingue ce sujet collectif masculin du "patriarcat" classique : "C'est pas le patriarcat. C'est des hommes qui ne se projettent pas forcément comme père, comme propriétaire des femmes, mais comme concurrent des femmes et comme supérieur intrinsèquement aux femmes."
+
+En regard : le **sujet collectif féminin** (#MeToo, [[Helydia]] qui parle publiquement, les femmes qui maintiennent le lien avec les victimes) est en formation. Il est encore moins intense, moins organisé, mais il est en train de se constituer. "Il va falloir violenter ce sujet collectif masculin qui aime violenter des femmes. Il va falloir donner de la force aux femmes, faire de la formation militante pour que ce sujet collectif, comme la bourgeoisie, se sente moins à l'aise."
+
 ## Vidéos où le concept est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Les professions intermédiaires placées chez Bardella par l'IFOP, identifiées comme réservoir de vote pour la gauche
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Définition philosophique complète, opposition psychanalyse vs marxisme
 - [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — identifié comme la catégorie centrale que Lordon et Lucbert ne peuvent pas penser : "il n'arrive pas à penser cette traduction [...] c'est le sujet collectif" ; la psychanalyse reste enfermée dans l'intra-psychique individuel
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — Développement sur la multiplicité des sujets collectifs, le jeu de cartes, l'immanence des structures mentales
+- [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]] — Démonstration concrète du sujet collectif masculin mobilisé sur internet contre une victime de violences conjugales ; parallèle avec la bourgeoisie face à la taxe Zucman ; formation du sujet collectif féminin comme riposte
+
+[^5]: [28:17](https://www.youtube.com/watch?v=1V7Xml-44jQ&t=1697) — "Comme vous voyez par exemple des bourgeois solidaires quand on commence à parler de l'attaque Zucman, ils n'ont pas besoin de se concerter, ils n'ont pas besoin de se connaître, de se fréquenter pour pouvoir tenir le même discours parce qu'ils se sentent attaqués."

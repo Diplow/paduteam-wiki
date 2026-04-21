@@ -59,7 +59,20 @@ Au congrès de Nancy, fait ~20% au premier tour et fait pencher la balance vers 
 
 [^vallaud-nancy]: [35:59](https://www.youtube.com/watch?v=109fM1CEu9Q&t=2159) — "Vallaud va y aller en disant [...] un grand parti socialiste doit présenter un candidat, ne doit pas se poser la question des autres et il va recapter ça et il sera le candidat" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
 
+### Le 49.3 de compromis — coup contre Faure (décembre 2025)
+
+Dans [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], Vallaud ouvre la porte à un "49.3 de compromis" sur le PLFSS, en coordination avec [[Rachid Temal]], pendant qu'[[Olivier Faure]] tente de tenir la ligne anti-49.3. La PaduTeam lit ce mouvement comme l'expression directe de l'influence de [[Francois Hollande]] : "Tout le monde suit derrière les Rachid Temal, les Boris Vallaud et la ligne Fort est en train de disparaître." La "main noire" d'Hollande reprend l'initiative par lieutenants interposés — sans avoir besoin de se montrer.[^vallaud-main-noire]
+
+[^vallaud-main-noire]: [29:01](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1741) — "La main noire du PS reprend l'initiative. Tout le monde suit derrière les Rachid Temal, les Boris Vallaud et la ligne Fort est en train de disparaître."
+
+## Confirmation post-Glucksmann (novembre 2025)
+
+Dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]], la PaduTeam prononce la confirmation définitive : la "branche Glucksmann vient de casser", et c'est Vallaud qui va se "frayer un petit chemin" dans cet espace libéré. "Boris Vallaud est un fidèle depuis toujours de François Hollande [...] vous verrez ça va se faire petit à petit."[^valld_finito] C'est le passage logique : le PS veut son propre candidat (pas une primaire), veut capter les 16-17 % macronistes en décomposition — et Vallaud est le seul profil qui le permette sans se griller.
+
+[^valld_finito]: [39:20](https://www.youtube.com/watch?v=4PV9RBcvic4&t=2360) — "Boris Vallaud qui lui est en train de préparer ça et vous verrez Boris Vallaud est un fidèle depuis toujours de François Hollande." — dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]]
+
 ## Vidéos où Vallaud est analysé
+- [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Désigné successeur naturel de Glucksmann dans l'espace PS : "fidèle depuis toujours de Hollande", en train de se "frayer un chemin" après la branche Glucksmann cassée.
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Fait 16,18 % au 1er tour grâce au soutien d'Attal (27 mars 2027). Appelé "le Kamala Harris français" par France Inter et Libération. Appelle à voter Mélenchon au 2nd tour.
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme rival de Hollande pour l'investiture PS 2027 ; la PaduTeam prédit qu'Hollande se fera "filloniser" par Vallaud comme Sarkozy par Fillon en 2017
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Troisième homme au congrès PS, comparé à Sophie Binet au congrès CGT, potentiel présidentiable si ni Faure ni NMR ne dégage de ligne claire
@@ -70,3 +83,4 @@ Au congrès de Nancy, fait ~20% au premier tour et fait pencher la balance vers 
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — cité dans le scénario de la primaire PS : réconciliateur entre les ailes Faure et NMR, clé de voûte potentielle post-congrès
 - [[LE PS A TRAHI (EPISODE 24873)]] — "Élu par le Graphique" : gère bien son coup lors du deal Lecornu 2 / retraites. S'exprime à l'Assemblée pour présenter la suspension comme "une fissure dans le dogme macroniste" et "un premier pas" — le discours des traîtres habiles selon la PaduTeam. Sa stratégie de l'arbitre continue.
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy : faiseur de roi (~20%), confirmation de la prophétie candidat PS 2027, "le seul qui aura une ligne cohérente".
+- [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — ouvre la porte au "49.3 de compromis" avec Temal, torpillant la stratégie Faure ; bras exécutant de la main noire d'Hollande.

@@ -124,6 +124,20 @@ La PaduTeam prévoit que le PS annoncera ensuite un SMIC à 1600€ net — "dan
 
 [^pas-abrutis]: [1:01](https://www.youtube.com/watch?v=UU4G0jEctgs&t=61) — "il ne faut pas les prendre pour des abrutis parce qu'en fait, ce sont des gens qui ont une grande habitude, des manœuvres, des petites techniques"
 
+### Le valet sauve son budget pour sauver sa primaire (10 décembre 2025)
+
+Vote du PLFSS 2026 à l'Assemblée. Faure a "bien joué le Valet" selon la PaduTeam : en orchestrant les abstentions PS, il évite le 49.3 sur le budget de la Sécurité sociale et maintient sa survie politique. La logique : sans ce vote, le budget tombait, Faure était grillé comme chef PS, et la primaire des noisettes perdait sa jambe socialiste.
+
+La PaduTeam l'observe avec mélange d'agacement et de curiosité analytique : "Le Valet a bien joué. On va expliquer comment il a réussi son coup." Mais le titre PPH ("il ne passera pas l'hiver politique") reste d'actualité — la manœuvre du PLFSS lui donne du temps, pas de la légitimité.
+
+### PPH — "Il ne passera pas l'hiver" (décembre 2025)
+
+La vidéo [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] marque un tournant dans la trajectoire de Faure. Alors qu'il avait bâti toute sa stratégie de "gauche responsable" sur la promesse d'empêcher le 49.3, ses propres camarades — [[Boris Vallaud]] et [[Rachid Temal]] — ouvrent la porte à un "49.3 de compromis". C'est la "main noire" de [[Francois Hollande]] qui reprend l'initiative, via ses lieutenants. La ligne Faure est torpillée de l'intérieur.
+
+La PaduTeam lui attribue le surnom **PPH** (Pierre-Palu-Hubert ? ou plus simplement : "il ne passera pas l'hiver"). L'analyse : Faure est "coincé entre faire adopter un truc avec le 493 ou ne pas faire adopter de truc. C'est-à-dire aucune de ces stratégies n'a fonctionné. Il est obligé de s'enlever une jambe dans les deux cas."[^pph-jambe]
+
+[^pph-jambe]: [25:26](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1526) — "aucune de ces stratégies n'a fonctionné. Il est obligé de s'enlever une jambe dans les deux cas."
+
 ## Vidéos où Faure est analysé
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, "donc il est obligé de surjouer le côté la primaire va marcher, ça doit marcher."[^faure-surjoue] Stratégie potentielle : envoyer [[Johanna Rolland]] à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec [[Gabriel Attal]] sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique." Sa métaphore des "éléphants et souris" pour défendre la primaire est jugée nulle à chier.
 
@@ -142,3 +156,5 @@ La PaduTeam prévoit que le PS annoncera ensuite un SMIC à 1600€ net — "dan
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Inaction estivale : combinards pendant que le 10 septembre s'organise ; refus de censurer Bayrou analysé comme solidarité programmatique implicite ; 66 députés obtenus grâce à la FI utilisés contre elle
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Stratégie Faure en trois actes décortiquée (gagner du temps, se repeindre en rose, capter le macronisme de gauche) ; « valet » entre Glucksmann et Mélenchon ; trajectoire vers l'impasse politique annoncée. Annonce de la campagne "Génération Plus jamais PS".
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — la Taxe Zucman comme arme anti-LFI ; non-censure de Lecornu décryptée comme investissement stratégique ; prévision SMIC à 1600€ NFP ; mise en défaut de LFI sur la bataille politique.
+- [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Faure "a bien joué le valet" en orchestrant les abstentions PS sur le PLFSS 2026 ; survie politique court-terme au prix d'une nouvelle trahison structurelle ; démontage des victoires PS sur les retraites (3 mois de décalage), l'ONDAM (équivaut à une baisse), le congé naissance (mesure de classe).
+- [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — Faure torpillé par Vallaud et Temal qui ouvrent la porte au 49.3 de compromis ; la "main noire" d'Hollande reprend l'initiative ; surnom PPH ("ne passera pas l'hiver") ; ligne intenable : obligé de s'enlever une jambe quelle que soit l'issue.

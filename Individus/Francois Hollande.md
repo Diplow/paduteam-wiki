@@ -59,7 +59,19 @@ Hollande organise une "convention" avec [[Bernard Cazeneuve]] comme "premier pas
 Pour la PaduTeam, Hollande rejoue en 2024-2025 la campagne qu'il n'a pas faite en 2017. "Il est dans un multiverse en se disant on est en novembre 2015." Il est "le parrain de toute la gauche réformiste" : patron de la convention Cazneueve, des radicaux de gauche, de Place Publique. [[Olivier Faure]] est son "valet fantoché".
 
 ## Le 49.3 et la "crédibilité"
-Hollande vend sa candidature potentielle sur la "crédibilité" et la "responsabilité". Il n'exclut pas le 49.3 "si le réalisme l'exige". Il jouera le "president qui a déjà exercé", normal face à "deux extrêmes", contre le "chaos de Macron". Il se rachètera une virginité sur le fait que Macron a fait pire sur chaque sujet : répression, loi travail, etc.
+Hollande vend sa candidature potentielle sur la "crédibilité" et la "responsabilité". Il n'exclut pas le 49.3 "si le réalisme l'exige"[^49-3]. Il jouera le "président qui a déjà exercé", normal face à "deux extrêmes", contre le "chaos de Macron". Il se rachètera une virginité sur le fait que Macron a fait pire sur chaque sujet : répression (nassage 2016 → gilets jaunes), loi travail (El Khomri → réforme chômage Macron), etc.
+
+[^49-3]: [27:51](https://www.youtube.com/watch?v=6Oh29FEy0-Y&t=1671) — "J'ai été président de la République [...] Moi, j'ai utilisé le 493. Ça n'a pas été forcément populaire, je l'ai utilisé." — dans [[HOLLANDE prepare t-il SON RETOUR]].
+
+## La "loi accélérationniste" — Hollande comme accélérateur de l'extrême droite
+La PaduTeam formule dans [[HOLLANDE prepare t-il SON RETOUR]] une thèse centrale : appliquer les idées de l'extrême droite "sans être de l'extrême droite" ne bloque pas le fascisme — cela le normalise et pousse le curseur encore plus loin. La déchéance de nationalité sous Hollande en est l'exemple paradigmatique : il a fait une loi d'extrême droite pour "éviter que les gens apparentés d'extrême droite arrivent au pouvoir", mais le résultat est que l'extrême droite, une fois au pouvoir, "fera toujours pire." C'est une "loi accélérationniste" : chaque concession à l'agenda fasciste par le centre gauche élargit le champ du possible pour la prochaine fois.[^accel-hollande]
+
+[^accel-hollande]: [11:21](https://www.youtube.com/watch?v=6Oh29FEy0-Y&t=681) — "il faut que les gens qui ne soient pas apparentés d'extrême droite appliquent des lois d'extrême droite pour éviter que les gens apparentés d'extrême droite arrivent au pouvoir. Et en fait, tu te dis mais en fait ça change quoi ?"
+
+## Darius Rochebin et la courtisanerie médiatique (LCI, fin 2024)
+L'interview de Rochebin à LCI montre le "journalisme de courtisanerie" : il demande si Hollande sera candidat via des métaphores flatteuses, Hollande "ne dit pas non". Le même groupe de presse qui a "massacré Glucksmann est si gentil avec Hollande." La PaduTeam note avec ironie que Rochebin est "à deux doigts de s'attaquer au slip" de Hollande à force de flatteries — "il y a vraiment beaucoup de salive sur les chaussures de François Hollande."[^rochebin]
+
+[^rochebin]: [30:24](https://www.youtube.com/watch?v=6Oh29FEy0-Y&t=1824) — "Moi, je suis gêné de voir ça [...] c'est vraiment le journaliste de courtisanerie quand même." — dans [[HOLLANDE prepare t-il SON RETOUR]].
 
 ## Sur la Syrie et le Liban (décembre 2024)
 
@@ -71,7 +83,14 @@ Hollande publie un communiqué se félicitant de la chute d'Assad. Cem Yoldas ([
 
 La demande d'EELV (Cyel Châelin) d'un "premier ministre issu des rangs du Nouveau Front Populaire" après la chute de Bayrou est décryptée par la PaduTeam comme une arnaque de personnification : "François Hollande pourrait être premier ministre — il est issu des rangs du NFP." La formule permet de mettre une personnalité étiquetée gauche pour appliquer un programme macroniste. La réplique PaduTeam : "Demander que ce soit le programme du NFP qui gouverne et non pas une personnalité du NFP."
 
+## La main noire reprend l'initiative (décembre 2025)
+
+Dans [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], Hollande n'apparaît pas directement mais agit par lieutenants : [[Boris Vallaud]] et [[Rachid Temal]] ouvrent la porte au "49.3 de compromis" pendant qu'[[Olivier Faure]] tente de tenir la ligne. La PaduTeam : "La main noire du PS reprend l'initiative." Le concept de "49.3 de compromis" est rappelé comme une invention de langage de Hollande lui-même sous son propre mandat — ce qui illustre sa méthode : placer les formules, placer les hommes, laisser les cadavres pour les autres.[^main-noire-dec]
+
+[^main-noire-dec]: [29:01](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1741) — "La main noire du PS reprend l'initiative. Tout le monde suit derrière les Rachid Temal, les Boris Vallaud et la ligne Fort est en train de disparaître."
+
 ## Vidéos
+- [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — La réunion de Pontoise (Hollande + Cazeneuve + Glucksmann) décodée comme un piège délibéré : "On a parié sur toi, on te l'a pas fait à l'envers, tu nous as déçu, maintenant tu es mort." Hollande qualifié de "Vito Corléone de la gauche sociale-démocrate" — présenté comme un "requin" sous ses airs bonhommes, formaté au PS depuis le pire du pire des années 1980, "il écrivait pour Jacques Delors dans les années 80." Orchestre la succession via [[Boris Vallaud]].
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — cité comme PM "issu des rangs du NFP" possible ; illustration de l'arnaque personnalité vs programme
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire du reportage Paris Match : bilan quinquennat, lifestyle bourgeois, prédiction fillonisation par Vallaud en 2027
 - [[Hollande vs Melenchon 2e tour]] — Prophétie du 2002 inversé, Hollande comme "mulet" d'Asimov
@@ -81,3 +100,4 @@ La demande d'EELV (Cyel Châelin) d'un "premier ministre issu des rangs du Nouve
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Son fief Tulle perdu (PS+LFI bat par la droite), mais sa ligne de clarté anti-alliance est validée par ce résultat. "En perdant Tulle, il démontre qu'il a raison." Il a fait l'erreur affective d'appeler à l'union avec LFI dans sa propre ville, et subit exactement la défaite qu'il prédit. Sa ligne 2027 (séparation des gauches au 1er tour, PS fort seul contre le centre) est confirmée par les résultats généraux.- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présent à Bram, photographié avec tout le monde (Delga, Glucksmann, Bouamrane). Analysé comme le "flambi empoisonné" qui construit une image de rassembleur sans jamais se faire élire. Sa ligne politique (refus NFP, pro-Macron 2017, anti-manifs palestiniennes avec Delga) représente l'aile la plus droitière du PS.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Analyse détaillée de sa stratégie de retour : convention réformiste, écrasement de Glucksmann, relation vassale avec Faure, invitation d'Aghion comme signature de classe, interview Rochebin à LCI où il ne dit pas non à une candidature. Lancement de la campagne militante "Plus jamais PS".
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Communiqué sur la chute d'Assad, position libérale-impérialiste sur la Syrie et le Liban
+- [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — agit en coulisses via Vallaud et Temal pour imposer le 49.3 de compromis (formule inventée sous son mandat) et torpiller la ligne Faure ; la "main noire" sans visage

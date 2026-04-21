@@ -54,6 +54,12 @@ Contre l'argument "la FI est un mouvement jeune, ça viendra", la PaduTeam répo
 
 La difficulté : concilier ce travail de long terme avec les urgences électorales immédiates. C'est ça la politique selon [[Daniel Bensaid]].
 
+## La structure interne de la FI comme "mouvement gazeux" contenant des partis
+
+Dans l'analyse de la dissidence de [[Emeric Caron]], la PaduTeam rappelle que la FI n'est pas un parti monolithique mais une "Union populaire" qui contient en son sein plusieurs partis réels : le Parti de gauche (ancêtre), la [[Revolution Ecologique pour le Vivant|Rêve]], le [[Parti des Travailleurs|POI]], etc. C'est précisément parce que la FI est un "mouvement gazeux" (pas un parti au sens strict) que ces organisations satellites peuvent exister en son sein — et que le risque de leur autonomisation est permanent. La centralisation du choix des candidats est la réponse à ce risque : elle empêche les satellites de se solidifier en baronies indépendantes.[^mg_caron]
+
+[^mg_caron]: [3:35](https://www.youtube.com/watch?v=p9-VbBg9Xwg&t=215) — "La FI étant un mouvement gazeux n'est pas un parti — un mouvement où à l'intérieur il y a plusieurs parties. Alors il y a effectivement des gens purement FI. Mais il y a aussi la Rêve, il y a aussi le POI. C'est l'Union populaire, la stratégie."
+
 ## Vidéos où le concept est développé
 - [[PADUSTREAM C'EST DEJA FINI]] — première formulation explicite de la critique et de la réponse
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement sur PTB comme anti-modèle, financement public comme cause, et FI comme choix stratégique délibéré (pas une question d'âge).
@@ -61,3 +67,4 @@ La difficulté : concilier ce travail de long terme avec les urgences électoral
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Critique de l'incapacité à s'implanter dans les contre-pouvoirs ; le PS des années 70 comme modèle positif (associations, syndicats) ; LFI empêchée de construire par l'urgence présidentialiste
 - [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Mobilisation directe du couple "mouvement gazeux / condensation" : les purges du MJCF Nord-92 et le carriérisme au PS/PCF comme illustration du problème structurel ; l'URC comme exemple d'initiative de "condensation" à saluer.
 - [[PADUTEAM C'EST FINI]] — Application au champ internet : la "gauche Twitch" comme version numérique du mouvement gazeux (individualisme, refus du collectif, déconnexion des organisations) ; la discipline militante comme seule arme, Badiou cité.
+- [[AYMERIC CARON PURGE DE LFI ON FAIT LE POINT]] — La FI comme mouvement gazeux contenant plusieurs partis (Rêve, POI) ; la centralisation comme réponse au risque d'autonomisation des satellites.
