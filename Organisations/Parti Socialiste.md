@@ -50,7 +50,12 @@ La dynamique : les électeurs qui avaient voté Jadot 2019 (populisme bourgeois 
 Formulation PaduTeam : "On a vraiment un socle PS sur le centre avec je sais pas 15 à 20% de l'électorat qui est prêt à voter pour ça au premier tour."
 
 ## Faure tente d'être PM de Macron (septembre 2025)
-Avant les municipales, Faure tente de positionner le PS comme gouvernement de remplacement de [[Francois Bayrou|Bayrou]]. Il présente un budget alternatif à l'Assemblée et cherche une majorité intégrant macronistes et LR. Il ambitionne 14Md d'économies, retraite à 62 ans, baisse de CSG jusqu'à 1,4 SMIC, taxe Zucman symbolique. Analyse PaduTeam : c'est de l'[[Hollandisme]], le PS fait 2% dans les sondages, Faure est "écrasé entre les lieutenants de Mélenchon et les lieutenants de Glucksmann." La PaduTeam note que le PS n'a ni bastions solides ni ligne cohérente : il est "nul pour le 1er tour, fort pour le 2nd" grâce aux desistements de barrage.
+Avant les municipales, Faure tente de positionner le PS comme gouvernement de remplacement de [[Francois Bayrou|Bayrou]]. Il présente un budget alternatif à l'Assemblée et cherche une majorité intégrant macronistes et LR. Il ambitionne 14Md d'économies, retraite à 62 ans, baisse de CSG jusqu'à 1,4 SMIC, taxe Zucman symbolique à 2% sur les patrimoines de +100M€.[^ps-budget-pm] Analyse PaduTeam : c'est de l'[[Hollandisme]], le PS fait 2% dans les sondages, Faure est "écrasé entre les lieutenants de Mélenchon et les lieutenants de Glucksmann." La PaduTeam note que le PS n'a ni bastions solides ni ligne cohérente : il est "nul pour le 1er tour, fort pour le 2nd" grâce aux désistements de barrage.
+
+La PaduTeam qualifie explicitement le PS de **refroidisseur de l'histoire** : au moment précis où la rue chauffe (mobilisation du 10 septembre, campagne [[On ne veut plus]]), parler de gouverner sous Macron, c'est éteindre l'incendie.[^ps-refroidisseur] Logique implacable : si le PS obtient la suspension de la réforme des retraites, ça prouve que la rue était assez forte pour obtenir 60 ans — pas 62.
+
+[^ps-budget-pm]: [8:51](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=531) — Budget PS : 14 milliards d'économie, déficit réduit à 5% (vs 4,6% pour Bayrou), retraite à 62 ans, 900€/an = 75€/mois pour les familles. "C'est le hollandisme qui est en train de revenir." — dans [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]].
+[^ps-refroidisseur]: [6:16](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=376) — "Toutes les personnes qui parlent de gouverner, de faire élire et cetera [...] tous ces gens-là sont des traîtres et des refroidisseurs de l'histoire." — dans [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]].
 
 ## Récupération de la victoire Mamdani (nov 2025) — « la danse du ventre au centre »
 

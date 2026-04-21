@@ -70,6 +70,14 @@ La PaduTeam formule l'attente normative : "on attend d'un parti communiste [...]
 
 Ce passage est aussi l'occasion de signaler l'[[Union pour la Reconstruction Communiste]] comme alternative en construction.
 
+## Défense de l'héritage et propagande anticommuniste (septembre 2025)
+
+La PaduTeam diagnostique une incapacité structurelle du PCF à tenir un discours de [[Reniement vs depassement|dépassement]] face à la propagande anticommuniste. Quand [[Fabien Roussel]] ou [[Leon Deffontaines]] sont interrogés sur Staline à la télévision, ils « ne savent pas trop quoi faire » et baissent la tête — signalant leur soumission. Ce **reniement** est stratégiquement perdant parce qu'il valide les termes de l'adversaire et prive le PCF de son histoire la plus glorieuse : la Résistance.
+
+Or c'est le PCF qui est le « parti le plus glorieux du 20e siècle en France ». Ses militants ont combattu le fascisme, construit la Sécurité sociale, la retraite par répartition, le statut de la fonction publique. En France, « les seules victimes du communisme, ce sont les nazis et les collaborateurs ».
+
+L'attaque anticommuniste de septembre 2025 (stèles contre [[Leon Landini]] à Saint-Raphaël) aurait dû pousser le PCF à se radicaliser — au lieu de quoi il continue sa trajectoire de droitisation.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -81,3 +89,4 @@ Ce passage est aussi l'occasion de signaler l'[[Union pour la Reconstruction Com
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Deffontaines incapable du discours de dépassement historique ; piégé par Praud sur le chiffre des 50 millions ; reniement vs dépassement comme diagnostic central
 - [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — Gay présenté comme "Fabien supérieur à Roussel" ; distinction entre pratique militante parlementaire de Gay et stratégie de respectabilité médiatique de Roussel
 - [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Discours sécuritaire post-PSG comme exemple du pipeline droitier ; citation du communiqué Balibar 1980 ; le PCF incapable d'analyse matérialiste de la violence ; l'URC présentée comme horizon de reconstruction
+- [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Reniement vs dépassement de l'histoire soviétique ; la stèle Landini comme attaque anticommuniste emblématique ; le PCF incapable de défendre son propre héritage glorieux

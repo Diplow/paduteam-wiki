@@ -65,7 +65,16 @@ Stratégie Tondelier : traiter l'écologie comme un "débouché politique indép
 
 Thèse de Chris dans la vidéo Tondelier/Lumi : les capitalistes trouveront des solutions pour préserver la planète — non par altruisme, mais parce que leur survie en dépend. "Demain ils trouveront autre chose [...] l'important pour eux c'est de s'orienter vers les profits donc ils n'iront pas à leur perte." La mutation vers la voiture électrique en est l'illustration : pas de rupture avec le mode de production, juste une réorientation du profit. Ce qui confirme que l'écologie est *soluble dans le capitalisme* — mais au coût d'une catastrophe sociale pour les pauvres, pas pour les riches.
 
+## Taxer les riches ou tout leur reprendre ?
+
+La capsule [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] pousse la critique de l'[[Ecologie punitive]] jusqu'à son corollaire sur la fiscalité. La PaduTeam explique pourquoi le slogan "taxer les riches" reste insuffisant : taxer les riches, c'est les laisser propriétaires de l'outil de production. Ils continuent à décider quelles voitures produire, comment rénover (ou pas) leurs logements, quelle énergie exploiter — et à produire de la merde rentable plutôt que des biens utiles. La formulation PaduTeam : **"Nous ne voulons pas taxer les riches, nous voulons tout leur reprendre"** — parce que ceux qui fabriquent les voitures, les panneaux solaires, la bouffe, ce sont les travailleurs, pas les actionnaires de Renault ou Bouygues.
+
+## La crise écologique comme crise sociale de classe
+
+Argument développé contre [[Cecile Duflot]] et la collapsologie : le capitalisme a une réponse à la crise climatique — la concurrence. Dans la crise écologique, ce seront les classes possédantes qui survivront. "Ce n'est pas la planète qui est en danger — c'est l'humanité." Et si la réponse reste capitaliste, c'est au coût d'un "massacre de masse assumé socialement et politiquement" des classes populaires, d'abord dans les pays du Sud (Inde, Pakistan, Afrique), puis en France. Sortir du capitalisme n'est pas seulement nécessaire pour arrêter le réchauffement — c'est nécessaire pour survivre à un capitalisme qui gérera la crise en renforçant la concurrence de tous contre tous.
+
 ## Vidéos où le concept est développé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Développé longuement face à Tondelier, ZFE, Gilets Jaunes, organisation logistique du capitalisme
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Développement le plus complet : logistique capitaliste du territoire (années 50-80), désertification néolibérale, Gilets Jaunes comme mouvement de classe populaire rurale, pénurie volontaire EELV vs pénurie capitaliste, vote des crédits de guerre
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — Tondelier incapable de défendre même l'écologie libérale face à Lumi. Stratégie EELV du territoire propriétaire ("l'écologie est indivisible"). Thèse sur la solubilité de l'écologie dans le capitalisme et l'écologie comme problème social.
+- [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Duflot (Oxfam) incarne l'écologie bourgeoise dans sa forme la plus avancée : propose d'arrêter de parler des ultra-riches pour ne pas générer de "ressentiment". Développement de la distinction "taxer vs exproprier" et de la crise écologique comme crise sociale de classe.

@@ -36,5 +36,25 @@ Mélenchon, Jospin, Poperen : tous ex-trotskistes. Pour les trotskistes en Occid
 ## Trotskisme comme voie vers le fascisme ?
 [[FROM TROTSKISTE TO RACISTE]] démontre que le lambertisme peut servir de porte d'entrée vers l'extrême droite pour certains profils — non pas en raison de son programme révolutionnaire, mais à cause d'une rigidité identitaire (refus de l'intersectionnalité, islamophobie latente) que le lambertisme ne purge pas suffisamment. **La PaduTeam précise que les auteurs/tendances proches de Trotski (Luxembourg, Lukács) restent des références valides** — la PaduTeam n'est pas anti-trotskiste.
 
+## Bilan stratégique — forces et limites selon la PaduTeam
+
+### Ce qui vaut la peine dans Trotski (1927-1938)
+La PaduTeam identifie une fenêtre utile : les écrits de Trotski de 1927 à 1938, notamment sa critique du [[Classe contre classe|"classe contre classe"]] stalinien et ses textes sur le fascisme. Sur ce point, Trotski *avait raison* : sans front uni avec la social-démocratie, les classes intermédiaires basculent vers le fascisme. Ce sera confirmé par l'histoire.
+
+### Les tares structurelles du trotskisme
+1. **Le ni-nisme** : La position "ni guerre ni paix" à Brest-Litovsk (1918) est le prototype d'un [[Ni-nisme]] récurrent — répété sur la Libye, l'Irak, le conflit israélo-palestinien. Attendre une troisième voie prolétarienne spontanée qui n'arrive jamais.
+
+2. **L'anticommunisme objectif** : En dénonçant le stalinisme pendant la guerre froide, les trotskistes ont fourni du carburant à l'anticommunisme occidental. Les néoconservateurs de l'administration Bush étaient pour la plupart d'anciens trotskistes.
+
+3. **L'ultra-révolutionnarisme en paroles, la dérive droitière en faits** : "Un ultra-révolutionnarisme en phrases et une position plutôt droitière en fait." Beaucoup de figures trotskistes ont glissé de groupuscules ultra-révolutionnaires vers la social-démocratie puis le social-libéralisme (Mélenchon, Jospin, Poperen dans leurs trajectoires individuelles).
+
+4. **Le dogmatisme de la 4e Internationale** : Fondée en 1938, elle a "vraiment vécu sans Trotski" (mort 2 ans après). Elle a répété des slogans sans les contextes, transformant une pensée vivante en catéchisme.
+
+### Les trotskistes valorisés malgré tout
+- **Révolution Permanente** : réussit à recruter des jeunes, des femmes, des ouvriers — pas seulement des "vieux profs blancs". Si la stratégie produit ces résultats, c'est qu'elle fonctionne.
+- **POI** : plus malins que d'autres sur la question des alliances.
+- **[[Union pour la Reconstruction Communiste]]** (URC) : pas trotskiste, mais léniniste dans une logique d'unité et d'ouverture que la PaduTeam soutient.
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — historique complet des Internationales, tendances françaises, trajectoires individuelles
+- [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — bilan analytique complet de Trotski et du trotskisme : débat Bernstein/Luxemburg/Lénine, Brest-Litovsk, retournement des positions Staline/Trotski, héritage néoconservateur

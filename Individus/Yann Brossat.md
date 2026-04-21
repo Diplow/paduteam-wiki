@@ -25,6 +25,11 @@ La PaduTeam doute que Brossat soit "beaucoup plus communiste que Roussel" mais j
 ## 40e Congrès du PCF (été 2026)
 Moment clé attendu : le 40e congrès du PCF doit trancher la question de la participation à une union de la gauche et à une candidature via des primaires pour 2027. La PaduTeam prédit que ça va se régler entre Roussel (ligne identitaire) et Brossat (ligne unioniste). Si Brossat l'emporte ou influence la ligne, le PCF rejoindrait les primaires noisettes.
 
+## Sur les victimes du communisme en France (septembre 2025)
+
+Face à l'initiative du maire LR de Saint-Raphaël (stèle anticommuniste en remplacement de celle de [[Leon Landini]]), Brossat intervient publiquement : « En France, les seules victimes du communisme ce sont les nazis et les collaborateurs, et c'est notre plus grande fierté. » La PaduTeam cite cette formulation comme la bonne posture — un discours de [[Reniement vs depassement|dépassement]] assumé qui met l'adversaire face à la réalité historique.
+
 ## Vidéos où Brossat est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Venu à Bram à la place de Roussel, successeur probable, ligne unioniste, candidature à la mairie de Paris
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse plus approfondie : sa présence à Bram vs absence de Roussel est "très significatif", défend parfois LFI contre les accusations d'antisémitisme (stratégie intelligente pour un candidat à la mairie de Paris), ligne plus cohérente électoralement que Roussel
+- [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Cité pour sa déclaration sur les victimes du communisme en France

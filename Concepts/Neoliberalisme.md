@@ -31,5 +31,9 @@ Le néolibéralisme détruit le salariat organisé, syndicalisé, collectivisé 
 ## La phase de clôture du néolibéralisme
 Le néolibéralisme fonctionne par extraction de plus-value des pays périphériques via l'[[Echange inegal]]. La Chine jouait le rôle de réservoir de valeur bon marché pour les capitaux occidentaux. Mais la montée en gamme de la Chine (salaires, marché intérieur, concurrence technologique) met fin à cette dynamique. "On a un premier pays qui comprend que le néolibéralisme ne fonctionne pas" — Trump essaie de sortir du néolibéralisme par le protectionnisme libéral à l'ancienne, sans les outils de planification nécessaires. La phase du néolibéralisme est en train de se clore.
 
+## Mécanisme de la dette néolibérale
+
+La PaduTeam articule le néolibéralisme avec la question de la dette via un mécanisme en trois étapes : (1) le "choix du chômage" (courbe de Phillips) — maintenir ~8-10% de chômage structurel comprime les salaires et stabilise la monnaie au profit des créanciers ; (2) le crédit de masse compense la perte de pouvoir d'achat pour maintenir la consommation et éviter les crises de surproduction ; (3) l'État emprunte sur les marchés privés au lieu d'émettre sa monnaie. Résultat : la [[Dette illegitime]] est un racket systémique où les capitalistes prélèvent sur les salaires puis revendent à crédit ce qu'ils ont pris. Voir [[Dette illegitime]] pour l'analyse complète.
+
 ## Opposition
 La stratégie de Mélenchon consiste à "marteler des positions en rupture avec le néolibéralisme" ([[Strategie Le Pen 2002]] inversée). Programme anti-néolibéral: 32h, SMIC à 2000€, nationalisation crédits immobiliers, 6e semaine congés pa

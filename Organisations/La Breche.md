@@ -35,10 +35,23 @@ Les trois fondateurs gardent leurs emplois salariés (principe militant : un mil
 ## Doctrine stratégique (lecture gramscienne)
 Dans la capsule de genèse d'[[On ne veut plus]], Chris expose que La Brèche est pensée dans le cadre gramscien comme l'outil du passage de la [[Guerre de position]] à la [[Guerre de mouvement]]. Les années 2019-2025 ont été une phase d'accumulation ([[Positions Revue]], [[PaduTeam]], [[Graphique]], formations, identités politiques reconnaissables) ; à l'automne 2025, la crise politique s'ouvrant, La Brèche passe à l'offensive via On ne veut plus. Le travail médiatique est assumé comme [[Journalisme integral]] (formule gramscienne) : il a pour fin l'organisation, pas l'information.
 
+## Initiative "On ne veut plus" (automne 2025)
+
+Site générateur de visuels militants lancé pour le 10 septembre 2025. Bilan à fin août / début septembre 2025 :
+- Plus de **100 000 affiches générées** en moins de 2 semaines
+- **Millions de visites** sur onveutplus.fr
+- Envoi de **kits militants** (affiches, tracts, matériel de collage) dans au moins 7 villes : Paris, Lille, Rennes, Bordeaux, Strasbourg, Lyon, Nantes
+- **Table ronde** à la Grande Braderie de Lille le samedi 6 septembre 2025 (stand "On ne veut plus") avec [[Manuel Bompard]] (LFI), un·e militant·e de l'UDCGT, Sarah Rami (DGCOR)
+- **Cagnotte dédiée** lancée pour financer les kits et les captations
+- Annonce d'une **nouvelle chaîne YouTube "On ne veut plus"** centrée sur le mouvement social et la reconstruction politique — avec de "nouvelles têtes" et des "gens de ouf"
+
+L'initiative est conçue sur un principe d'appropriation : chacun peut créer ses propres visuels avec ses propres slogans (éducation, santé, chômage, droits LGBT...). Ce n'est pas une communication descendante mais un outil de fédération.
+
 ## Vidéos clés
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation la plus explicite du cadre stratégique gramscien dans lequel La Brèche se pense
+- [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présentation de l'initiative "On ne veut plus" (100 000 affiches, kits dans 7 villes, table ronde Braderie de Lille, nouvelle chaîne YouTube annoncée) ; appel à la mobilisation 10 septembre
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — La Brèche présentée comme modèle d'association militante décapitalisée ; exposé des revenus réels (≈1000€ Tipeee + 2500€ YouTube) et de leur usage militant
 
 ## Intervenants conférence Poitiers (6 mai 2025)

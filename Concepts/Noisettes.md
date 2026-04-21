@@ -95,6 +95,10 @@ Le PS est qualifié de "roi des noisettes" — la noisette par excellence car pr
 
 [^noisettologie]: [1:03](https://www.youtube.com/watch?v=VIjS60Badeg&t=63) — "La noisettologie c'est pour moi une des disciplines les plus importantes de ces prochaines années parce qu'on va se rendre compte que la noisette va vraiment être centrale dans l'analyse des prochaines élections." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+## Les noisettes originelles : EELV
+
+La PaduTeam qualifie [[Europe Ecologie Les Verts]] de "noisettes originelles, les plus belles, les plus grandes, les plus bio" — désignant l'EELV comme le prototype historique de la noisette avant même Tondelier, Ruffin ou Faure. [[Cecile Duflot]], ancienne cheffe de file EELV et désormais directrice d'Oxfam, incarne ce prototype dans sa forme la plus accomplie : coincée entre le constat des inégalités (qu'Oxfam documente) et l'impossibilité d'en nommer la cause (propriété privée) ni la solution (anticapitalisme), elle aboutit à proposer de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN.
+
 ## Vidéos clés
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
@@ -108,3 +112,4 @@ Le PS est qualifié de "roi des noisettes" — la noisette par excellence car pr
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" : déclinaison bio de la noisette classique. Même discours que toutes les noisettes sur la menace fasciste, sans analyser les renoncements de la gauche qui ont fabriqué le terreau de l'extrême droite.
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanique sondagière des noisettes ; analogie Harris/Trump ; Faure comme noisette girouette ; Édouard Philippe comme "vraie noisette" de droite.
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Le PS "roi des noisettes" en action estivale 2025 : noisettologie formalisée comme discipline, "barre énergétique enrichie en noisette" (Ruffin-Glucksmann-écolos-PCF sans FI), stratégie boutiquière pendant que le mouvement social attend.
+- [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Les noisettes originelles, les plus belles, les plus grandes, les plus bio" : EELV présentée comme prototype historique de la noisette. Duflot comme cas d'école de l'impasse noisette poussée jusqu'au bout.

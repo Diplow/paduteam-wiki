@@ -72,6 +72,21 @@ Interview sur France Inter où elle promeut l'union de la gauche. La PaduTeam :
 - Plus dépolitisante que [[Raphael Glucksmann]] lui-même : Glucksmann assume sa ligne, elle dissout tout dans le sentiment
 - Prévision PaduTeam : finira seule à 3-4%, ni LFI ni PS ne veulent d'elle — l'appareil EELV a besoin de la candidature pour survivre financièrement (remboursements de campagne)
 
+## L'affaire des aimants BFM TV (début septembre 2025)
+
+Passage sur BFM TV avec des aimants pour illustrer que LFI et PS se repoussent "mais qu'il suffit de trouver le bon angle pour les attirer." La PaduTeam démonte l'analogie sur deux plans :
+
+1. **Sur le fond** : ce ne sont pas des aimants. L'effet répulsif entre LFI et PS est un problème de ligne (Gaza, Europe, monnaie), pas d'angle ni de personne. "Non, ce ne sont pas des aimants. On ne vous aime pas, on ne vous aimera jamais. C'est de la politique." Mélenchon avait dit pendant le NFP : "On fait alliance mais je ne les aime pas."
+
+2. **Sur la structure** : elle oublie qu'entre les deux aimants, il y a elle — la noisette. "Quand les deux aimants Glucksmann et Mélenchon vont se rapprocher, tu seras entre les deux et tu te feras écraser comme une noisette, Marine." Ses "copains" Faure, Ruffin et Fort avec elle.
+
+La capsule élargit l'analyse : Tondelier est une "refroidisseuse de mouvement social" — à quelques jours du 10 septembre, son discours sur la coalition et les accords parlementaires vise à confisquer la colère de la rue aux représentants dans les palais. "C'est tuer le mouvement social." Résultat : la PaduTeam la qualifie de "traîtresse aux masses" et "Marine Macron" — en ce qu'elle ferait la même politique que Glucksmann sans l'assumer.
+
+Thèse théorique associée : son idéalisme positiviste ("il faut trouver le bon angle") révèle un rapport au monde typiquement bourgeois — des profs, des marqueteux, des gens dans des "bullshit jobs" qui croient que le discours fait les choses. Mélenchon ne fait pas 22 % à cause d'un slogan : il les fait parce qu'il a pris le terrain de la gauche radicale et n'a pas baissé la tête sur Gaza.
+
+## Incapable de nommer le capitalisme (capsule Duflot, septembre 2025)
+Citée dans la vidéo sur [[Cecile Duflot]] : quand on lui pose la question de ce qu'on met à la place du capitalisme, elle répond "Ben moi, je sais pas quoi mettre à la place." La PaduTeam : "Nous on sait Marine, nous on sait — ça s'appelle le communisme." Illustration que l'impasse de Duflot n'est pas individuelle mais structurelle à toute l'écologie EELV.
+
 ## Vidéos où Tondelier est analysée
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Douceur" : hégémonie noisette, positionnement médiatique, dépendance à la primaire, fin de l'espace écolo autonome
@@ -84,3 +99,6 @@ Interview sur France Inter où elle promeut l'union de la gauche. La PaduTeam :
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" ; psychologisation des désaccords (ego vs lignes) ; défend le barrage républicain avec Macron ; plus dépolitisante que Glucksmann ; prévision 3-4% seule.
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Titre clickbait : Zoé refuse d'accorder la misogynie sur "Karen". Défense de Positions Revue. Critique du féminisme essentialiste écologiste (Rousseau) et de la condescendance de classe envers Médine et Rima Hassan.
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — React à son interview à l'Humanité avec Chris de Positions Revue. Catastrophique sur capitalisme et lutte des classes. Introduction du futur [[Graphique]]. Thèse : son inconsistance n'est pas cynique, c'est un authentique privilège de classe. L'écologie comme territoire propriétaire EELV = stratégie pour refuser tout adjectif (socialiste, marxiste).
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Citée parmi les "amis de gauche" qui critiquent LFI pour le refus d'accréditation aux Amphies. Qualifiée de noisette : "ne sait pas quoi faire en dehors du capitalisme."
+- [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Citée en miroir de Duflot : même incapacité à répondre à la question "quoi mettre à la place du capitalisme". "Nous on sait Marine, nous on sait — ça s'appelle le communisme."
+- [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.

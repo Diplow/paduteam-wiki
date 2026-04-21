@@ -28,9 +28,12 @@ Faure tente de positionner le PS comme gouvernement de remplacement de [[Francoi
 
 **Analyse du budget PS** : retour à 62 ans (pas 60 — c'est le "hollandisme révolutionnaire"), baisse de CSG pour salaires jusqu'à 1,4 SMIC (ce qui désincirive les hausses de salaires et fait payer les salariés), taxe Zucman symbolique à 2% sur patrimoines de +100M€ (une "mesure de dame patronesse"). Les 900€/an promis aux familles = 75€/mois, soit ~5% du SMIC, bien en dessous de l'inflation des 3 dernières années.
 
-**Faure en panique** : sur BFM TV, il est incapable de répondre clairement si les insoumis participeraient à son gouvernement — il tente de faire croire que c'est Mélenchon qui refuse alors que c'est le programme qui est le problème. [[Mathilde Panot]] confirme : censure garantie de tout gouvernement sans programme de rupture.
+**Faure en panique** : sur BFM TV, il est incapable de répondre clairement si les insoumis participeraient à son gouvernement — il tente de faire croire que c'est Mélenchon qui refuse alors que c'est le programme qui est le problème. [[Mathilde Panot]] confirme : censure garantie de tout gouvernement sans programme de rupture.[^panot-faure-pm]
 
-**Écrasé entre deux casse-noisettes** : Faure n'est même pas écrasé entre Mélenchon et Glucksmann — il est écrasé entre leurs lieutenants respectifs. "La noisette des noisettes."
+**Écrasé entre deux casse-noisettes** : Faure n'est même pas écrasé entre Mélenchon et Glucksmann — il est écrasé entre leurs lieutenants respectifs. "La noisette des noisettes."[^noisette-noisettes-faure]
+
+[^panot-faure-pm]: [34:19](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=2059) — Mathilde Panot : "Je vous confirme que nous n'accorderons pas de confiance à un gouvernement qui ne porte pas le programme de rupture." — dans [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]].
+[^noisette-noisettes-faure]: [18:11](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=1091) — "Il y a un casse noisette à l'intérieur du casse noisette pour lui, tellement c'est ridicule." — dans [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]].
 
 ### Récupération Mamdani — « la danse du ventre au centre » (novembre 2025)
 

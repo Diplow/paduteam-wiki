@@ -25,6 +25,12 @@ Significatif : le patron du MEDEF s'est exprimé contre l'une de ses mesures sym
 
 Bayrou a lui-même dit avoir "5% de chances" de s'en sortir. Selon le [[Graphique]], c'est 0,5%.
 
+### Vote de confiance = démission planifiée (septembre 2025)
+
+Bayrou annonce un vote de confiance pour le 8 septembre. La PaduTeam décrypte la mécanique : le vote de confiance exige une majorité absolue active (à la différence de la censure, qui nécessite une majorité pour la destitution). Le RN comme le PS ayant annoncé qu'ils ne voteraient pas la confiance, Bayrou sait dès le départ qu'il va tomber. C'est une sortie choisie — "un jeu en disant 'voyez, je vous donne des gages les parlementaires, on peut pas rester mais je vais partir sans que vous m'ayez censuré.'"
+
+Stratégie double de Macron : (1) priver la [[France Insoumise]] de la victoire symbolique d'avoir mené la censure ; (2) couper l'élan du 10 septembre en donnant satisfaction sur la demande "Bayrou dégage", vidant le mot d'ordre de son contenu. La PaduTeam met en garde : tomber dans ce piège, c'est "personnifier les luttes" — le problème n'est pas Bayrou mais le système néolibéral tout entier.
+
 ## Bayrou comme [[Medvedevron]] de Macron (juillet 2025)
 
 La PaduTeam développe la thèse que Bayrou est le [[Medvedevron]] parfait de [[Emmanuel Macron]] : plus vieux (ne se représentera pas), pas de charisme menaçant, convaincu d'avoir "un destin avec la France" (le rend corvéable à merci), et contrairement à [[Gabriel Attal]], incapable de "trahir" Macron.
@@ -47,9 +53,23 @@ La PaduTeam : "Il était pas au courant le gars, il avait oublié qu'il était a
 
 La PaduTeam ne l'accuse pas directement de pédocriminalité, mais formule une thèse de complicité passive : "par le fait d'aller rencontrer le juge, de recevoir plein de signalements et de ne rien faire et de venir 30 ans après dire 'moi je suis pas au courant' — il y a une forme de complicité là-dedans."
 
+## Discours sur la dette (septembre 2025)
+
+Lors de son allocution précédant le vote de confiance, Bayrou attribue la dette aux citoyens ("les dépenses de protection de nos concitoyens"). La PaduTeam démonte : la dette est le produit du mécanisme néolibéral de compression des salaires + crédit compensatoire. Les capitalistes ont d'abord capté la valeur sur le travail, puis revendu à crédit ce qu'ils avaient pris. Voir [[BAYROU ANNONCE SA DEMISSION LE 8 SEPTEMBRE]] pour l'analyse complète.
+
+## "Agent provocateur du prolétariat" (septembre 2025)
+
+Dans les jours précédant le vote de confiance du 8 septembre, Bayrou multiplie les interventions télévisées et ose présenter les dépenses sociales comme de l'argent que l'État "met à disposition des Français". La PaduTeam retourne la formule avec ironie : il est peut-être un "agent provocateur du prolétariat au sein même de la bourgeoisie" — ses sorties indignantes ne peuvent qu'attiser la colère populaire et accélérer la mobilisation du 10 septembre.
+
+La PaduTeam démonte l'inversion idéologique centrale : les caisses de retraite et d'assurance maladie sont constituées des cotisations des travailleurs, pas d'un cadeau de l'État. Si l'État abonde, c'est parce qu'il a passé des décennies à siphonner ces cotisations vers le capital. Le vrai dilapidateur : la bourgeoisie, les grands patrons, à qui l'État a redistribué 200 milliards d'euros (rapport Guayet). En pointant "les Français qui dépensent", Bayrou dit sans le vouloir une vérité de classe : certains Français, oui — ceux qui s'appellent Bernard Arnault.
+
+La PaduTeam lit aussi dans ce discours un signe de crise de régime : là où Louis XIV disait "L'État c'est moi" (la bourgeoisie affirmant l'État contre la féodalité), Bayrou dit "c'est les Français qui dépensent" — la bourgeoisie en décomposition ne peut plus assumer sa position de domination. Voir [[Crise de regime]].
+
 ## Vidéos où l'individu est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Référence historique au Graphique 2012
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Perd Pau face au PS+gauche. Illustration du centre qui s'effondre vers le PS.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Sa chute imminente (vote de confiance le 8) utilisée par Glucksmann pour justifier l'inutilité du 10 septembre. Analyse PaduTeam : Bayrou n'est qu'un fusible, le problème c'est le système. Pronostic du Graphique : 0,5% de chances.
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Bayrou comme Medvedevron de Macron : analyse de la stratégie de successeur fantoche, historique MoDem/UDF, sa relation de "père" (fondateur du centre) à Macron (accomplisseur)
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — complicité passive dans la protection des agresseurs de Bétharram ; timeline des alertes ignorées depuis 1996 ; démontage de ses dénégations
+- [[BAYROU ANNONCE SA DEMISSION LE 8 SEPTEMBRE]] — vote de confiance comme démission planifiée ; opération anti-FI de Macron ; discours sur la dette démystifié
+- [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — inversion idéologique sur les cotisations ("l'État met à disposition") démontée ; parallèle Louis XIV / crise de régime ; 43 ans de carrière comme imposture ; mot d'ordre sur la dette

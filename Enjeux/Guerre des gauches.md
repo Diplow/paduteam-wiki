@@ -1,10 +1,10 @@
 ---
 type: enjeu
 domaine: [politique-intérieure]
-thèmes: [guerre-des-gauches, élections, marxisme, travail]
+thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
 skill_version: write-enjeu-2026-04-21
 ---
-#domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
+#domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
 # Guerre des gauches
 
@@ -118,6 +118,20 @@ Ce que ces deux cas ont en commun — et qui les rattache à la guerre des gauch
 
 La PaduTeam distingue les deux noisettes par leur ancrage social : Ruffin est "des vieux profs qui bandent sur le prolétariat", prédit à 6,1% ; Villepin est coincé "en sandwich" dans un espace déjà occupé par Retailleau, Ruffin et Tondelier, prédit à 3-4%. Ni l'un ni l'autre ne menaçent LFI — mais ensemble, ils organisent la dilution de l'espace à gauche du PS, qui avantage finalement le PS par défaut.
 
+### 19. La séquence septembre 2025 : la guerre des gauches en temps réel
+
+La séquence du 10 septembre 2025 constitue la démonstration empirique la plus nette de la guerre des gauches comme structure permanente. Deux blocs irréconciliables se révèlent à ciel ouvert face à un même événement — la chute imminente de Bayrou et le mouvement social qui monte.
+
+**Le bloc des refroidisseurs** : [[Raphael Glucksmann]] s'oppose aux blocages du 10 septembre au motif que "Bayrou va tomber le 8" — exactement ce que Macron voulait entendre. [[Marine Tondelier]] arrive avec des aimants sur BFM TV pour expliquer que LFI et PS "pourraient s'attirer avec le bon angle" — réduisant les lignes politiques (Gaza, Europe, monnaie, relance) à un problème d'angle ou de communication. [[Olivier Faure]] cherche à se faire nommer PM par Macron lui-même. [[Cecile Duflot]] (Oxfam) affirme que parler des ultra-riches génère du "ressentiment" qui fait voter RN. Ces quatre figures opèrent la même fonction : refroidir, dépolitiser, ramener vers les institutions.
+
+**Le bloc de la rupture** : [[France Insoumise]] et [[La Breche]] déploient la stratégie inverse — les universités d'été LFI, le site onveulplus.fr (100 000 affiches en 4 jours), les kits militants envoyés dans 7 villes, la grève générale appelée par Mélenchon. Le mouvement social est traité non comme un problème à gérer mais comme une opportunité à catalyser.
+
+**La théorie des refroidisseurs formalisée** : la PaduTeam (via l'article de [[Positions Revue]], "L'histoire se réchauffe") formule le mécanisme : dans les moments chauds, tout discours gouvernemental ou électoral refroidit mécaniquement le mouvement. Parler de PM, de budget alternatif, d'alliance — quand la rue est en train de chauffer — est objectivement une trahison. La distinction réchauffeurs/refroidisseurs n'est pas une question de bonne foi, c'est une position de classe.
+
+**La noisette prise entre deux feux** : Tondelier, Ruffin, Fort et Faure se retrouvent écrasés entre les deux pôles. Quand Glucksmann et Mélenchon tirent chacun dans leur direction, les noisettes "n'ont aucun espace". Si le 10 septembre réussit, c'est Mélenchon qui capitalise. Si Glucksmann occupe le bloc central, les noisettes n'ont plus de base. La guerre des gauches du 10 septembre confirme la catégorie : la noisette n'est pas une position intermédiaire viable, c'est une position condamnée.
+
+**Duflot et l'écologie bourgeoise comme variante** : la tentative de [[Cecile Duflot]] de supprimer la dénonciation des ultra-riches pour "ne pas faire voter RN" est une variante de la guerre des gauches par l'écologie. Elle ne propose pas de nommer la propriété privée des moyens de production — sans quoi il est impossible de proposer une alternative crédible à la crise climatique. Ce silence sur la propriété est ce qui définit structurellement l'écologie bourgeoise (EELV en haut du [[Graphique]]) et la condamne à l'impuissance politique.
+
 ## Adversaires identifiés
 
 - **[[Olivier Faure]]** et le PS — trahison structurelle inévitable, espace de classe incompatible avec la rupture
@@ -129,6 +143,9 @@ La PaduTeam distingue les deux noisettes par leur ancrage social : Ruffin est "d
 - **[[Alain Jakubowicz]]** (LICRA) — instrumentalise l'antiracisme institutionnel contre la gauche de rupture ; opère le syllogisme Palestine→antisémite→nazi→Goebbels ; "préfère Le Pen à Mélenchon" au nom de la protection des Juifs
 - **[[L'Apres]]** — fausse alternative post-FI ; reconstruit un appareil d'arrivistes sans base sociale ni formation politique ; les statuts déposés avant les élections révèlent que la "démocratisation interne" réclamée était en réalité la préservation de leurs postes
 - **Les streamers auto-entrepreneurs de gauche** (modèle ZawaProd) — incapables structurellement d'être militants : en dernière instance, c'est le capital qui tranche sur leur ligne éditoriale
+- **[[Marine Tondelier]]** — "noisette dépolitisante" : réduit les lignes politiques à des problèmes d'angle ou d'ego, refroidit le mouvement social pour ramener vers les coalitions institutionnelles, "Marine Macron"
+- **[[Raphael Glucksmann]]** — refroidisseur structurel : s'oppose aux blocages du 10 septembre, "facteur de corrélation inverse" à Mélenchon, aspire le bloc central en déliquescence pour jouer le rôle du "bon Macron 2017"
+- **[[Cecile Duflot]]** — écologie bourgeoise qui refuse de nommer la propriété privée comme problème, invoque le "ressentiment" pour éviter la conflictualité de classe, quarante ans de renoncements successifs
 
 ### 8. L'Après : fausse alternative, vraie trahison
 
@@ -200,5 +217,9 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — diabolisation absurde comme carburant paradoxal du vote caché ; la guerre des gauches intérieure (Dray/PS) renforce mécaniquement Mélenchon via le vote de ceux qui ne peuvent assumer leur soutien
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — démonstration chiffrée via le Graphique que la quasi-totalité des candidats déclarés ne passeront pas ; espace noisette hyper-fragmenté ; Le Pen confirmée 2e tour malgré les affaires
 - [[ROUSSEL trouve RETAILLEAU TROP MOU]] — Droitisation du PCF : Roussel tient exactement le même discours sécuritaire que Retailleau (lapsus analytique "Fabien Retailleau") ; devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; donne "un permis de taper encore plus fort à la police" ; l'URC présentée comme l'embryon du parti communiste de masse que le PCF n'est plus
+- [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — refroidisseur paradigmatique : Glucksmann dit exactement ce que Macron voulait entendre ; "facteur de corrélation inverse" de Mélenchon ; plan PS-Cazeneuve comme PM de transition pour éteindre la rue ; les noisettes (Tondelier, Ruffin, Fort) sans espace entre les deux pôles
+- [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — dépolitisation comme stratégie de refroidissement ; la métaphore des aimants comme sophisme qui efface les lignes (Gaza, Europe, monnaie) ; "Marine Macron" ; unité arithmétique vs unité par des preuves ; électorat incompressible de 500 000 personnes
+- [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — variante écolo de la guerre des gauches : refus de nommer la propriété privée comme mécanisme central ; l'écologie bourgeoise comme "écologie de riches" ; "taxer les riches" insuffisant vs "tout leur reprendre" ; quarante ans de renoncements successifs liés à la position de classe dans le Graphique (EELV en haut)
+- [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — incarnation paradigmatique du PS roue de secours de Macron : budget hollandiste (retraite à 62 ans, CSG sur salaires, taxe Zucman symbolique) ; Mathilde Panot confirme la censure FI de tout gouvernement sans rupture ; démonstration que gauche séparée > gauche unie en nombre de sièges
 
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"

@@ -38,3 +38,4 @@ La PaduTeam : "Marine Tondelier est beaucoup plus dépolitisante que Raphaël Gl
 
 ## Vidéos où le concept est développé
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — développement le plus complet : Tondelier appelle à "placer les égos en dessous de l'intérêt général" pour justifier l'union
+- [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — variante "physique" : les aimants remplacent l'argument d'ego mais le mécanisme est identique. Oppositions réduites à un problème d'angle (de physique), jamais de ligne programmatique. "C'est du sophisme, on est face à un tour de magie de sophiste."

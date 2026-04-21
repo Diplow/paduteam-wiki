@@ -31,3 +31,4 @@ Passage du *Manifeste* cité par la PaduTeam :
 
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — lecture du passage du Manifeste, application aux trois appelants des GG
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — application au réflexe corporatiste du [[SNJ]] : en signant un communiqué de soutien aux journalistes du Monde refusés aux universités d'été LFI, le syndicat défend l'intérêt de la corporation journalistique avant l'intérêt général. Même logique que les syndicats de branche médicaux : "des petites petites entreprises, des petits intérêts de boutiquiers qui finalement vont mettre leur intérêt pécunier matériel avant les idéaux qu'ils défendent quand leurs intérêts ne sont pas attaqués." [[Blast]] lui aussi critiqué pour avoir signé, malgré ses bonnes réalisations par ailleurs.

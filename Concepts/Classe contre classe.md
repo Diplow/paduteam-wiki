@@ -31,5 +31,11 @@ La période souvent idéalisée comme "classe contre classe" (Marx, Commune de P
 
 La PaduTeam : "nous faire croire que ça était une période bénie sur laquelle on considérait que les ouvriers pouvaient mener un travail de classe contre classe, alors que c'était une période de défaite."
 
+## Paradoxe historique : Staline et Trotski s'inversent
+La PaduTeam pointe un paradoxe remarquable : la stratégie "classe contre classe" de Staline (1927-1935) ressemble formellement à la ligne de Trotski de 1905 — "pas d'alliance avec les bourgeois, pas de front uni, la classe ouvrière seule." Alors que Trotski, à cette période, est celui qui critique Staline en demandant le front uni avec la social-démocratie pour empêcher la montée du fascisme. Les positions s'inversent complètement.
+
+La PaduTeam fait la même analogie avec la France Insoumise aujourd'hui : des marxistes-léninistes qui refusent toute alliance au nom de la pureté révolutionnaire reprennent sans le savoir la logique du "classe contre classe" stalinien qu'ils condamnent — un idéalisme qui mène à l'isolement.
+
 ## Vidéos où le concept est développé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Correction de l'usage soralien ; histoire du Komintern ; Dimitrov et les fronts populaires
+- [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — Retournement Staline/Trotski sur la période 1927-1935, lien avec la stratégie des fronts populaires de Dimitrov

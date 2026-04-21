@@ -44,7 +44,15 @@ La manœuvre : transformer la récupération PS de Mamdani (Faure : « Mamdani s
 
 [^cc]: [17:32](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=1052) — adresse PaduTeam à LFI.
 
+## Glucksmann comme "facteur de corrélation inverse" (septembre 2025)
+
+La PaduTeam formule une thèse structurale précise : Glucksmann n'est pas seulement opposé à Mélenchon par conviction — il est mécaniquement contraint de dire le contraire de Mélenchon, parce que c'est sa fonction dans la guerre des gauches. "Dès que vous entendez Mélenchon dire un truc, hop, il va dire le contraire. C'est ce qu'il doit faire. C'est là qu'il est le meilleur." Le refus du 10 septembre n'est donc pas un dérapage : c'est l'expression la plus pure du rôle de Glucksmann comme pôle opposé dans la polarisation structurelle à gauche.
+
+Cette polarisation est présentée comme **la condition d'un duel au second tour 2027** entre Mélenchon et Glucksmann : "Mélenchon au 2e tour avec Raphael Glucksmann qui sera obligé d'appeler à voter Mélenchon." Cohn-Bendit, lui, "entre Le Pen et Mélenchon, il appelle soit rien, soit peut-être Le Pen."
+
 ## Vidéos où le concept est développé
+- [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Formulation la plus claire du "facteur de corrélation inverse" : Glucksmann comme pôle structurellement opposé à Mélenchon. Prospective duel 2027. Les noisettes (Faure, Tondelier) n'ont aucun espace entre les deux pôles.
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Les "amis de gauche" qui critiquent LFI pour le refus d'accréditation sont identifiés comme noisettes : Tondelier ("ne sait pas quoi faire en dehors du capitalisme"), Ruffin ("a mis Bayrou sur ses tracts"), Roussel ("meilleur en recettes de pain perdu"), Faure. La guerre des gauches est visible même dans ce débat apparemment mineur sur la liberté de la presse.
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]]
 - [[Faut-il en finir avec le NFP]]
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]]
