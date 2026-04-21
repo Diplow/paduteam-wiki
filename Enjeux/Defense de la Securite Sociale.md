@@ -109,6 +109,14 @@ Arguments ajoutés au corpus de l'enjeu :
 
 La Sécurité Sociale ne produit pas seulement de meilleurs soins à moindre coût — elle incarne un rapport de classe opposé à la logique assurancielle marchande. Le libertarianisme est une idéologie de compensation : il vend aux classes moyennes/populaires l'illusion de s'en sortir individuellement là où la solution est collective.
 
+## Le validisme du travail capitaliste : une attaque invisible contre la Sécu
+
+[[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] ajoute une dimension théorique à l'enjeu : le [[Validisme du travail capitaliste]] est une conséquence mécanique du mode de production capitaliste, pas une discrimination arbitraire. Le capital paie la force de travail à un "prix normalisé pour toute la société" — pour extraire de la plusvalue, il doit maximiser ce que produit chaque heure payée. Il va donc "détester les gens qui sont plus lents, qui mettent plus de temps à être formés, qui ont besoin de plus de récupération." Ce validisme n'est pas un défaut du système — c'est une nécessité matérielle du capital.
+
+La démonstration Praud : quand il dit "il y a du job partout", il décrit involontairement pourquoi il faut plusieurs travailleurs pour occuper le même poste — les tâches sont si violentes qu'elles ne sont pas tenables par une seule personne en CDI permanent. La pluralité de l'offre précaire n'est pas un marché dynamique — c'est la preuve que le travail est organisé pour être insupportable. Cette logique de travail insupportable est exactement ce qui génère les arrêts de travail, les ALD, les pathologies chroniques — les cibles des attaques macronistes contre la Sécu.
+
+L'inversion de Praud révèle le mécanisme idéologique : il utilise la conscience collective des travailleurs ("mon travail est utile") pour leur faire croire qu'ils acceptent leurs conditions d'exploitation. C'est la [[Fausse conscience de classe]] à l'état pur, qui sert directement la légitimation des attaques contre la Sécu.
+
 ## La Sécu ne fabrique pas de plus-value — c'est pour ça qu'on l'attaque
 
 [[MACRON NOUS MENT POUR TUER LA SECU]] (mars 2026) constitue le démontage le plus systématique disponible dans le vault. Thèse centrale : "Le problème de la Sécu, c'est que c'est un secteur qui ne fabrique pas d'argent. C'est de l'argent qui ne s'accumule pas, qui ne fabrique pas de plus-value, et pour ça c'est quelque chose qui doit être éliminé." La Sécu est une expérience autogestionnaite comparable à la prise en main de l'appareil productif par les travailleurs — et c'est insupportable pour le capital.
@@ -128,7 +136,8 @@ L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle av
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré
-- [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD
+- [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD ; le mythe des "faux arrêts de travail" (les gens sont mis en arrêt par un médecin, pas par eux-mêmes) ; les jours de carence comme politique contre-productive (arrêts plus longs, contaminations en chaîne) ; la loi fin de vie combinée aux attaques sur les ALD comme logique macroniste cohérente : "vous avez le libre choix" de mourir quand vous ne pouvez plus vivre dignement
+- [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — validisme du travail capitaliste comme nécessité matérielle du capital (pas discrimination arbitraire) ; la rotation des intérimaires comme preuve de l'intenabilité du travail précaire ; l'inversion de Praud : retourner la conscience ouvrière contre elle-même ; la praxis collective (récurer des chiottes) comme moteur du changement de conscience — pas le discours
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — attaque sur l'universalité
 - [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]] — le [[Ratchet droitier sur les droits du travail|ratchet droitier]] comme mécanisme itératif formulé explicitement dès l'introduction ; démontage médical et statistique par Zoé (données DARES, taux d'arrêt par corps de métier, artefact Covid) ; thèse de la soumission comme finalité réelle de la mesure au-delà de l'argument gestionnaire

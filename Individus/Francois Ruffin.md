@@ -88,6 +88,12 @@ Dans la projection 2027, Ruffin suit la trajectoire de Chevènement 2002 et de Z
 [^ruffin2027]: [10:56](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=656) — "Il finit à 6,18 %. Enfin c'est ridicule mais c'est à l'image de ce qu'il est."
 [^clowns]: [35:40](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2140) — "On a un François Ruffin là qui est avec Villepin. [...] c'est les clowns de la politique."
 
+## Merci Patron et la trahison de classe (2015 → 2025)
+
+Dans *Merci Patron* (2015), Ruffin filme [[Marc-Antoine Jamet]] en caméra cachée pour dénoncer LVMH qui licenciait ses sous-traitants. Dix ans plus tard, la PaduTeam constate que Ruffin est en "alliance objective avec le PS — c'est-à-dire avec Marc-Antoine Jamet." "En 2015 il filmait Marc-Antoine Jamet pour le mettre dans la sauce et aujourd'hui il vient lécher les bottes du PS pour une place."[^merci-patron] La boucle est bouclée : le documentariste populiste finit au service de l'élite qu'il prétendait dénoncer.
+
+[^merci-patron]: [29:24](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1764) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
+
 ## Vidéos où Ruffin est analysé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — "Baudruche qui s'est dégonflé" : donné à 16-17 % au pic, finit à 6,18 %. Même trajectoire que Chevènement 2002 et Zemmour 2022. "Destiné à faire des films avec Sarah Saldmann."
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le roi des noisettes" et premier candidat déclaré à la primaire noisette. Tweet minimum "au boulot ! ensemble pour ouvrir un chemin d'espoir entre l'extrême droite et l'extrême argent" — jugé formulaire et sans programme. Il se baladait en cravate pour se présidentialiser, il est revenu en jean basket. La PaduTeam : "ça c'est le truc à 5%." Contexte novembre 2025, avant le lancement officiel de Debout.
@@ -98,3 +104,4 @@ Dans la projection 2027, Ruffin suit la trajectoire de Chevènement 2002 et de Z
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Démonstration complète de l'imposture : circo toujours à gauche, stratégie double face (Mélenchon au 1er/Bayrou au 2e), gaz-light de l'extrême droite, absence de vision du monde, classes populaires jamais mobilisées
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Ruffin se proclame « Mamdani français » (vidéo « Bravo Zoran [...] ça amène une bulle d'air dans l'empire américain trumpiste ») ; la PaduTeam démonte en rappelant qu'il a fait « foot » sur les manifs contre l'islamophobie, a manifesté avec le RN contre la résistance palestinienne, et a lâché la gauche de l'après sur Gaza. Formulation PaduTeam : « tu es un imposteur. » Mamdani a, lui, « tenu les deux jambes » du matériel et du sociétal.
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — "Traître à la classe" : Ruffin a mis [[Sarah Saldmann]] en contact avec la réalité du travail des aides à domicile, lui fournissant les arguments pour opposer les soignantes aux cheminots grévistes. "Tu es un traître à la classe en ayant fait ça."
+- [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Retour sur *Merci Patron* (2015) : il filmait Jamet pour l'exposer ; dix ans après, en alliance avec le PS.

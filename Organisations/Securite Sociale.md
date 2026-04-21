@@ -33,3 +33,4 @@ La PaduTeam distingue deux niveaux :
 
 - [[ON RECADRE PSYKOCOUAC LE PSYCHOLOGUE LIBERTARIEN ANTI-SECU]] — comparaison des frais de gestion Sécu vs assurances privées, histoire de la dépossession des cotisants, plaidoyer pour un retour à la gestion par les cotisants
 - [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — conséquences du déconventionnement, tarification à l'acte, logique de classe dans l'accès aux soins
+- [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — démontage de l'attaque macroniste sur les arrêts de travail et les ALD ; 3% de frais de gestion Sécu vs 21% privé ; rapport HCAAM scénario 3 (5,4 milliards économisés en passant au 100% Sécu)

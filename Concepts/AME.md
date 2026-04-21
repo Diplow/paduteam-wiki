@@ -58,6 +58,7 @@ La séparation de 1999-2000 a créé une catégorie juridique de "soins pour ét
 ## Vidéos clés
 
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — analyse complète avec chiffres
+- [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] — dans le contexte des rafles de juin 2025 : la PaduTeam prédit que la traque des sans-papiers sera doublée d'une attaque contre l'AME ; rappel des chiffres (1 milliard sur 200 milliards = 0,5 %) et de l'argument sanitaire collectif (tuberculose, maladies infectieuses)
 
 [^1]: [7:14](https://www.youtube.com/watch?v=bG4svF-3KLE&t=434) — "l'aide médicale gratuite... c'est une décision de Pasqua en 99... le Parti socialiste à l'époque a entériné cette décision"
 [^2]: [19:39](https://www.youtube.com/watch?v=bG4svF-3KLE&t=1179) — "il y a des pays qui ont essayé de virer l'accès aux soins précoces pour le remplacer par uniquement un accès au soins d'urgence... à la fin ça coûte plus cher"

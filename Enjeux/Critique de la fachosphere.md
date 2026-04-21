@@ -117,6 +117,18 @@ Décembre 2024 ouvre un deuxième axe : la fachosphere **judiciaire**. Plusieurs
 
 Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. OseilleTV incarne la contradiction terminale du droitard — patriote de façade, exilé fiscal depuis 13 ans, qui renonce à sa nationalité par panique irrationnelle face à une loi qui ne le concernait pas. La PaduTeam généralise : ces figures vendent l'individualisme radical tout en parasitant les services publics par leur optimisation fiscale. L'exil fiscal n'est pas une liberté — c'est "voler tout le monde."
 
+### Paye ton droitard #9 : l'idéaliste qui se croit matérialiste
+
+[[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] est la dissection la plus complète d'un profil droitard idéaliste qui mobilise la biologie pour masquer son idéalisme. [[Julien Rochedy]] — ancien FNJ, essayiste masculiniste — incarne la contradiction structurelle de la fachosphère intellectuelle : il prétend partir du réel (evo psych, biologie, nature) mais son analyse est résolument idéaliste — il attribue la baisse de natalité, la dépression et le nihilisme à des idées décadentes (féminisme, wokisme) plutôt qu'aux conditions matérielles capitalistes.
+
+Arguments clés :
+- **L'evo psych comme pseudo-science au service du patriarcat** : la préhistoire comme fondement génétique du patriarcat est empiriquement fausse — les sociétés nomades préagricoles avaient des rôles genrés bien moins rigides (grossesses espacées de 5-6 ans). Les pays les plus patriarcaux (Corée du Sud 0,77 enfant/femme, Japon, Hongrie) ont les taux de natalité les plus bas du monde — la contre-preuve que le patriarcat "nataliste" ne fonctionne pas
+- **La natalité comme enjeu matériel, pas idéaliste** : si Rochedy voulait vraiment relancer la natalité, il proposerait congés paternité de 6 mois, retraite anticipée pour les grands-parents, 32h, sécurité sociale du logement. Il ne le fait pas parce que "ça coûte cher au capital" — sa rhétorique nataliste est une escroquerie qui masque le refus de toucher aux conditions matérielles
+- **L'apologie d'Hitler habillée en lettre à une enfant violée** : Rochedy rédige une lettre à une fillette de 7 ans violée par un migrant pour expliquer que les Européens sont décadents car ils ont honte d'Hitler — la PaduTeam rappelle que 10% des enfants subissent des violences sexuelles, dans l'immense majorité des cas par des membres de la famille (pères en premier), et que Rochedy n'a jamais écrit de lettres pour eux
+- **La paternité tardive comme contradiction vivante** : premier enfant à 37 ans, Rochedy s'occupe de son bébé et "redécouvre" que les pères peuvent créer du lien — mais la raison est matérielle (il travaille à la maison), pas biologique. Formulation PaduTeam : "la raison pour laquelle il s'est rendu compte que les bébés ça le concernait aussi, c'est grâce au lieu féministe"
+
+Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle démontre que même les droitards qui semblent les plus "solides" sur le réel sont en fait les plus idéalistes.
+
 ## Vidéos clés
 
 - [[Un HIPSTER VIRE car MUSULMAN PAYS de RACISTES DEGENERES]] — islamophobie institutionnelle : délit de sale gueule, intervention directe du politique dans les grilles de programme, laïcité comme outil de stigmatisation raciale ; islamophobie à géométrie variable (Kelly évangéliste sans problème vs Benlazar avec bonnet)
@@ -134,3 +146,4 @@ Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. Os
 - [[DE WOKE A FACHO SLAPP RACONTE SA REDPILL]] — redpill bourgeoise sans conditions matérielles ; le template du "militant de gauche nul" → droite ; fascination japonaise comme trope masculiniste normi
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — masculinisme marchand : pseudo-science éthologique, monétisation de la frustration masculine, MGTOW comme aboutissement logique
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — normalisation de l'extrême droite par les médias mainstream (CNews double la fachosphere YouTube) ; la transgression de droite en 2014 = le mainstream en 2025 ; la gauche radicale monte sur YouTube précisément parce qu'ostracisée des plateaux ; pipeline JVC → complotisme → libertarianisme comme démonstration du boutiquierisme sans débouché politique
+- [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — dissection de l'idéalisme masqué en matérialisme ; evo psych comme vernis pseudo-scientifique ; contre-thèse sur la natalité (Corée du Sud, Japon, Hongrie) ; apologie d'Hitler habillée en lettre à une enfant violée ; paternité tardive comme contradiction vivante de sa propre thèse

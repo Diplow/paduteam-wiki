@@ -88,6 +88,16 @@ Le masculinisme identitaire ne se contente pas de racialiser les VSS — il fabr
 
 Ce mécanisme alimente directement la fuite vers des autoritarismes de droite (Hongrie orbaniste) présentés comme solutions à une insécurité largement construite. La PaduTeam note que le PNJ de droite qui migre en Hongrie interviewe exclusivement des Hongroises anglophones d'extrême droite intéressées par les touristes — et présente ce biais de sélection total comme une "étude de terrain". La [[Internationale fasciste|destination hongroise]] n'est pas anodine : Orbán y a "mis au ban" le féminisme. C'est précisément pour ça qu'elle attire ces profils.
 
+## Rochedy : le masculinisme intellectuel et ses contradictions internes
+
+[[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] complète la galerie du masculinisme avec sa version la plus "intellectuelle" — et donc la plus dangereuse pour les profils qui ne se reconnaissent pas dans le coaching incel vulgaire.
+
+[[Julien Rochedy]] — ancien chef du FNJ, essayiste — incarne le [[Masculinisme]] qui se croit matérialiste mais est fondamentalement idéaliste : il attribue la baisse de natalité au féminisme et au wokisme, jamais aux conditions matérielles capitalistes. La contre-thèse PaduTeam est empirique et implacable : Corée du Sud (0,77 enfant/femme), Japon, Hongrie, Pologne sont les pays les plus "antiwoke" et ont les taux de natalité les plus bas. La France a maintenu sa natalité plus longtemps grâce à l'État social.
+
+Le masculinisme comme pipeline de recrutement de l'extrême droite est confirmé par la trajectoire Rochedy/FNJ : Soral recrutait d'abord sur la misogynie, pas sur l'antisémitisme. Rochedy, comme Thaïs d'Escufon, utilise le discours sur les relations hommes-femmes comme point d'entrée vers une pensée réactionnaire plus large.
+
+La contradiction terminale de Rochedy : découvrir à 37 ans, grâce à un congé implicitement paternel, que les pères peuvent créer du lien dès le jour 1 — ce que le féminisme matérialiste explique depuis longtemps. La cause n'est pas biologique mais matérielle : il travaille à la maison. Si on voulait vraiment des pères impliqués, il faudrait 6 mois de congé paternité minimum. "La raison pour laquelle Juju s'est rendu compte que les bébés ça le concernait aussi, c'est grâce au lieu féministe."
+
 ## Le pipeline JVC → masculinisme → complotisme → libertarianisme
 
 La trajectoire de [[Valek]] documente un pipeline de radicalisation droitière où chaque étape prépare la suivante. Un gamin de HLM qui produit du contenu raciste anonyme sous pseudonyme (communauté JVC), glisse vers l'antiantiracisme boutiquerie (PDF à 30€, 45 pages), soutient Zemmour (y croit vraiment — "le Graphique avait déjà prévu qu'il ferait 7%"), bascule dans le complotisme COVID (Klaus Schwab, Great Reset), et finit coach libertarien au Portugal.
@@ -143,6 +153,7 @@ La contradiction structurelle : il se plaint de la "politisation de tous les suj
 
 ## Vidéos associées
 
+- [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — masculinisme intellectuel qui se croit matérialiste ; evo psych comme pseudo-science naturalisant le patriarcat ; contre-thèse nataliste empirique (Corée du Sud, Hongrie, Japon) ; masculinisme comme principal pipeline de recrutement de l'extrême droite sur internet ; contradiction vivante de la paternité tardive ; apologie d'Hitler habillée en lettre à une enfant violée
 - [[DR ZOE RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NEMESIS]]
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]

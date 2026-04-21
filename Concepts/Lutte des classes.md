@@ -48,3 +48,4 @@ Voir aussi [[Socialiser les pertes privatiser les profits]] — mécanisme analy
 
 - [[MOS MAJORUM - ce sont LES SALARIES qui EXPLOITENT LES PATRONS !!]] — démonstration pédagogique via le cas CARM
 - [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — la commission Gay comme terrain de lutte des classes institutionnel ; mécanisme "socialiser les pertes, privatiser les profits" illustré sur 4 entreprises
+- [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — exposition involontaire par [[Pascal Praud]] : en défendant la fierté des ouvriers contre [[Sarah Salman]], il décrit exactement le mécanisme — les travailleurs qui font tourner la société en produisant de la plusvalue, pendant que des gens comme Praud les insultent à la télé ([9:25](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=565))

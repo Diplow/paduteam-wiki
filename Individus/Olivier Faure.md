@@ -72,6 +72,20 @@ Au moment de la conférence, [[Marine Tondelier]] lâche le mot "primaire" — F
 ### Valet du parrain Hollande (fin 2024)
 Dans la convention réformiste, Faure apparaît comme le "patron fantoche" du PS — "celui qui se prend pour le parrain mais en fait qui n'est qu'un objet de la main noire" d'Hollande. Il essaie de "jouer sa partition" sur le budget (obtenir la non-utilisation du 49.3) mais Hollande l'enterre en laissant entendre qu'il n'exclut pas le 49.3 "si le réalisme l'exige". Formulation PaduTeam : "il croit que François Hollande va le laisser faire des trucs dans le Parti socialiste, mais en plus il croit quand il est face à un macroniste, le mec ne va pas utiliser de 493. C'est trop mignon quoi. Il est gentil, il est le petit valet."
 
+### Congrès de Nancy — stratégie "Mélenchon soft" (juin 2025)
+
+Réélu premier secrétaire du PS au congrès de Nancy. Dès le lendemain, affiche une nouvelle ligne : "un grand parti socialiste ne s'abaisse pas à la polémique permanente avec la gauche." Pour la PaduTeam, c'est une stratégie calculée : Faure ne veut pas l'union de la gauche, il veut **fracturer la FI** et en capter l'aile droite[^faure-fracture]. Il sait que taper sur la FI (ligne Mayer-Rossignol) lui serait contreproductif pour capter les électeurs FI 2022.
+
+Sur Gaza, il attend d'être réélu pour utiliser le mot "génocide" — trop risqué avant dans un PS "parmi les plus sionistes de France". Pour la PaduTeam, "c'est un résistant de 1945" : il reconnaît le génocide quand la majorité des pays occidentaux l'admettent déjà[^faure-genoicide]. Sa tactique : mettre la pression sur son aile droite sioniste tout en tentant de séduire les électeurs FI sensibles à la Palestine.
+
+Qualification structurelle : la **girouette**. Référence à Edgar Faure — "ce n'est pas la girouette qui tourne, c'est le vent". Fort est obsédé par la FI, surveille tout ce qu'elle fait pour en profiter. "Comme toutes les girouettes, il ne sera qu'agité par le vent. Jamais il ne pourra faire changer la direction"[^faure-girouette].
+
+La PaduTeam conclut : Faure échouera dans son processus unioniste, se retrouvera avec Tondelier et Ruffin puis sera lâché par le PCF, ne pourra pas être désigné candidat. Boris Vallaud prendra le relais.
+
+[^faure-fracture]: [3:39](https://www.youtube.com/watch?v=109fM1CEu9Q&t=219) — "Je pense qu'en fait ce qu'il veut c'est fracturer la FI" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+[^faure-genoicide]: [30:13](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1813) — "c'est un peu un résistant de 1945. Le gars c'est au moment où tout le monde le reconnaît [...] le gars te dit bon ben maintenant c'est un génocide" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+[^faure-girouette]: [31:49](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1909) — "Fort est obsédé par la FI, il regarde tout ce que fait la FI pour voir comment il peut profiter du vent de la FI. Comme toutes les girouettes, il ne sera qu'agité par le vent." — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+
 ## Vidéos où Faure est analysé
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, donc il est obligé de surjouer son soutien à la primaire. Stratégie potentielle : envoyer Johanna Rolland à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec Attal sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique."
 - [[Faure oblige de trahir]] — Démonstration graphique que Faure était structurellement obligé de trahir le NFP
@@ -81,3 +95,4 @@ Dans la convention réformiste, Faure apparaît comme le "patron fantoche" du PS
 - [[LE PS A TRAHI (EPISODE 24873)]] — Le deal Lecornu 2 / suspension des retraites comme point de départ de la guerre des gauches. Faure est "plus malin que prévu" — le mouvement avant les municipales est calculé pour capter les classes intermédiaires en ville.
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Kit ou double : stratégie de survie par la primaire FP2027. Ruffin gagnera la primaire → Faure mort politiquement. Transpire quand Tondelier lâche "primaire" sans mandat du PS.
 - [[MAMDANI A GAUCHE DE MELENCHON]] — « Mamdani serait au PS aujourd'hui » : synecdoque du blocage des loyers pour postuler l'équivalence globale ; démontage en trois temps (étiquette socialiste ≠ programme, Hollande ≠ extrême gauche, partie ≠ tout) ; réassignation au bloc « Clinton-Cuomo-Harris ».
+- [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, stratégie girouette, fracture FI, Gaza post-élection, prophétie Vallaud.

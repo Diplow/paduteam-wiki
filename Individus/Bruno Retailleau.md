@@ -81,6 +81,24 @@ Dans la séquence post-victoire PSG, Retailleau qualifie les auteurs de violence
 
 Ce qui intéresse la PaduTeam, ce n'est pas la querelle entre Roussel et Retailleau mais sa logique politique : Roussel positionne le PCF à droite du ministre de l'Intérieur dans un contexte de répression assumée, tout en n'ayant "aucun pipeline" vers cet électorat. Le concept de "Fabien Retailleau" — lapsus de Padu maintenu comme diagnostic — signale que leurs discours sont devenus indiscernables.
 
+## La traque des sans-papiers et le modèle allemand (juin 2025)
+
+Le 19 juin 2025, Retailleau déploie 4 000 gendarmes en 48 heures dans les gares françaises pour interpeller les personnes sans papiers. Depuis le début de l'année, 47 000 interpellations ont déjà eu lieu. Il se félicite sur Europe 1 d'avoir "réinstauré" un contrôle aux frontières — fiction que la PaduTeam démonte : les CRA, les opérations à Menton, Calais et à la frontière italienne existaient bien avant lui[^retailleau-1].
+
+La PaduTeam identifie trois registres simultanés :
+
+**Le cynisme politique.** Retailleau prétend que les clandestins "n'étaient pas les bienvenus" sous lui, comme si tous les gouvernements depuis Valls n'avaient pas mené une politique d'expulsion massive. C'est la rhétorique classique de "l'avant/après" pour faire croire qu'il invente quelque chose de nouveau.
+
+**La stratégie de fracturation de la gauche.** En forçant la mise sur la table des rafles, il oblige le PS — qui veut sauver le gouvernement Bayrou pour éviter des législatives — à choisir entre censurer et légitimer la traque. "Je me demande si Retailleau essaie pas de les mettre sous pression pour encore plus fracturer la gauche"[^retailleau-2].
+
+**La référence allemande comme signal historique.** Retailleau se flatte que "l'Allemagne l'a fait" sur le contrôle des frontières. La PaduTeam réagit : "On reconnaît les mecs qui aiment bien s'inspirer des méthodes allemandes. On les connaît." Dans un contexte de crise capitaliste, d'identitarisme croissant et d'attaque de l'état de droit, cette référence est "extrêmement précis et inquiétant"[^retailleau-3]. Une allusion directe à ce que cette rhétorique a historiquement produit.
+
+La PaduTeam signale aussi une pratique concrète : des policiers demandent aux riverains s'ils ont vu des migrants — et des gens donnent des lieux. "Donner les noms à la Gestapo — de vieilles traditions françaises qui sont en train d'être remises au goût du jour."
+
+[^retailleau-1]: [3:08](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=188) — "les gens qui sont dans des centres de rétention [...] seront très contents d'apprendre qu'en fait il y avait pas de policiers"
+[^retailleau-2]: [1:01](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=61) — "je pense qu'il y a une espèce de cynisme de sa part [...] de pousser pousser pousser à bout [...] pour aussi diviser la gauche"
+[^retailleau-3]: [16:39](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=999) — "quand tu as une crise générale du capitalisme [...] et que en plus on se dit 'regarder si l'Allemagne l'a fait nous aussi', je trouve ça extrêmement précis et inquiétant"
+
 ## Vidéos où Retailleau est analysé
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — "Pire configuration pour la gauche" si Bardella le rejoint ; scénario 2nd tour Retailleau vs Philippe ; bourgeoisie le choisit sans hésitation contre Le Pen
@@ -94,3 +112,4 @@ Ce qui intéresse la PaduTeam, ce n'est pas la querelle entre Roussel et Retaill
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Le dîner Bardella/Sarkozy comme acte de positionnement dans la reconstitution du bloc Sarkozy 2007 ; Retailleau a besoin de l'adoubement de Sarkozy pour réussir
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Dissolution des organisations antifascistes ; lien avec Némésis ; théorie de la fascisation
 - [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Roussel lui reproche d'avoir été trop laxiste lors des violences PSG ; la PaduTeam retourne l'analyse : ce n'est pas Retailleau qui est trop mou, c'est Roussel qui a adopté son discours
+- [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] — 4 000 gendarmes dans les gares, 47 000 interpellations en 2025, "référence allemande" comme signal historique, stratégie de fracturation de la gauche

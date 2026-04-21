@@ -134,6 +134,14 @@ Le cas [[Jerome Guedj]] (PS) est anatomisé comme archétype de la trahison habi
 
 La NUPES est analysée comme structurellement instable : "trop faible dans ce qu'il a de fort, trop fort dans ce qu'il a de faible" (formule empruntée à Bainville sur le traité de Versailles). Trop faible car elle laissait le PS recréer des groupes autonomes à l'Assemblée ; trop forte car insupportable pour un PS qui gardait "une tête qui bougeait." La sortie par Gaza — un événement extérieur à la vie politique française — est lue comme le prétexte final pour se séparer sans porter la responsabilité de la rupture.
 
+### 13. Retailleau comme levier de fracturation de la gauche
+
+[[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] illustre une mécanique de guerre des gauches par un acteur extérieur. Retailleau ne vise pas seulement le RN — il vise à mettre sous pression le PS pour le forcer à choisir entre censurer Bayrou et valider les rafles. C'est une stratégie de "3e joueur" : en jouant sur la contradiction interne du NFP entre ses composantes, il fragilise toute possibilité d'union à gauche sans effort rhétorique propre. Cette mécanique confirme que la guerre des gauches n'est pas seulement endogène — elle est activement alimentée par la droite qui a intérêt à maintenir la gauche fragmentée.
+
+### 14. La "noisette" comme marqueur infaillible de la guerre des gauches
+
+[[FAURE VEUT FAIRE DU MELENCHON SOFT]] fournit l'analyse la plus précise de la notion de [[Noisettes|noisette]] comme catégorie stratégique. Tondelier, Ruffin, Fort utilisent le même discours — "l'extrême droite est aux portes du pouvoir, il faut l'union" — ce qui est le marqueur infaillible de la position noisette. Analogie Kamala Harris : les gens ne votent pas pour "faire barrage au pire." La demande d'union sur fond de peur ne mobilise pas — elle résigne. C'est une ligne de défaite mécanique.
+
 ## Vidéos clés
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — L'Après comme fausse alternative post-FI ; Roussel "catastrophique" au regard du Graphique ; l'antiracisme comme ligne de fracture irréconciliable entre gauches
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — mécanique de la diabolisation par la gauche de l'intérieur : la droite du NFP ouvre la boîte de Pandore ; syllogisme Palestine→Goebbels décortiqué ; LICRA retourne son cordon contre la gauche radicale ; Mélenchon comme digue
@@ -147,6 +155,8 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] — confusionnisme intellectuel bourgeois comme arme anti-gauche de rupture
 - [[PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STALINE !!]] — stratégie de reniement PCF vs discours de dépassement ; comment répondre offensivement au piège médiatique
 - [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — mécanisme de la "gauche de droite" dans les médias réactionnaires ; trajectoire Clouscard des libéraux-libertaires vers le néofascisme
+- [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — stratégie Faure girouette comme démonstration structurelle : la girouette qui ne peut changer la direction du vent ; logique des noisettes (union sur fond de peur = défaite mécanique, analogie Kamala Harris) ; projection 2027 PS ultra-morcelé ; Retailleau forçant le PS à choisir entre censurer Bayrou et valider les rafles
+- [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] — la droite comme facteur externe de fracturation de la gauche : forcer le choix entre censure et légitimation des rafles ; stratégie Sarkozy 2025 de Retailleau
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]]
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!]] — Tondelier comme "noisette bio" : plus dépolitisante que Glucksmann lui-même, réduit les lignes politiques à des "histoires d'ego", inclut Macron dans les antifascistes, prépare le "tapis rouge pour le fascisme" ; prévision : 3-4% à la présidentielle 2027

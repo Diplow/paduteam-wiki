@@ -323,21 +323,22 @@ Fiches créées : [[LE PEN DECLARE la GUERRE a BARDELLA !!]], [[Les INCELS ont E
 ---
 ## Batch 18 — Semaines 2025-W25 à 2025-W26 (16 jun 2025 – 29 jun 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w25-w26
+Fiches créées : [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]], [[FAURE VEUT FAIRE DU MELENCHON SOFT]], [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]], [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]], [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]], [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] + enrichissements Iran, Macron, Hollande + 8 individus (Marc-Antoine Jamet, France Jamet, Alain Jamet, Masoud Pezeshkian, Hassan Nasrallah, Mohammed Ben Salman, Bruno Goldnich, Ivan Benedetti) + 8 organisations (MJCF enrichi, Parti communiste Tudeh, Pasdaran, Oeuvre française, Frontex, LVMH, CNED, Jardin d'Acclimatation) + 6 concepts (Psychologie évolutionniste comme idéologie, Pipeline masculiniste vers l'extrémisme, Validisme du travail capitaliste, Croissant chiite comme outil géopolitique, Pétrole de schiste comme levier impérialiste, Pantouflage) + 7 enjeux enrichis
 
-- [ ] GUEDJ au CONGRÈS du PS : "MÉLENCHON EST UN SAL0PARD ANT!SEMITE" !!
-- [ ] FAURE VEUT FAIRE DU MÉLENCHON SOFT !!
-- [ ] Les DERNIERS JOURS de l'IRAN des MOLLAH ? (analyse MARXISTE)
-- [ ] USUL ATTAQUÉ par le PIRE MAIRE PS de FRANCE !!
-- [ ] RETAILLEAU TRAQUE LES SANS-PAPIERS et veut "S'INSPIRER DES ALLEMANDS"
-- [ ] THAÏS : les VSS l'ont rendue NAZIE !?
-- [ ] Les CHÔMEURS sont-ils VRAIMENT des ASSISTÉS ?
-- [ ] PAYE TON DROITARD #9 : JULIEN ROCHEDY, de SURHOMME à PAPA DÉCONSTRUIT
-- [ ] SARAH SALDMANN explique LA LUTTE DES CLASSES à PASCAL PRAUD
-- [ ] MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES !!
-- [ ] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
-- [ ] HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM
+- [x] GUEDJ au CONGRÈS du PS : "MÉLENCHON EST UN SAL0PARD ANT!SEMITE" !!
+- [x] FAURE VEUT FAIRE DU MÉLENCHON SOFT !!
+- [x] Les DERNIERS JOURS de l'IRAN des MOLLAH ? (analyse MARXISTE)
+- [x] USUL ATTAQUÉ par le PIRE MAIRE PS de FRANCE !!
+- [x] RETAILLEAU TRAQUE LES SANS-PAPIERS et veut "S'INSPIRER DES ALLEMANDS"
+- [ ] THAÏS : les VSS l'ont rendue NAZIE !? ⚠️ transcript absent
+- [ ] Les CHÔMEURS sont-ils VRAIMENT des ASSISTÉS ? ⚠️ transcript absent
+- [x] PAYE TON DROITARD #9 : JULIEN ROCHEDY, de SURHOMME à PAPA DÉCONSTRUIT
+- [x] SARAH SALDMANN explique LA LUTTE DES CLASSES à PASCAL PRAUD
+- [ ] MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES !! ⚠️ transcript absent
+- [x] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
+- [x] HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM
 
 ---
 ## Batch 19 — Semaines 2025-W27 à 2025-W28 (30 jun 2025 – 13 jul 2025)

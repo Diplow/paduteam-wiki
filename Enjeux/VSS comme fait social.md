@@ -221,6 +221,12 @@ Arguments développés :
 
 Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collective de [[La Breche]] — Zoé intègre formellement les moyens de production collectivisés avec Positions Revue et Padu. La capsule est ainsi à la fois un acte politique sur les VSS ET une annonce d'organisation militante.
 
+## Le masculinisme comme pipeline vers les VSS : le cas Rochedy
+
+[[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] confirme le lien structurel entre idéologie masculiniste et normalisation des VSS. La PaduTeam identifie le masculinisme comme le principal pipeline de recrutement de l'extrême droite sur internet — et note que Rochedy en 2015 a répondu au viol d'une fillette de 7 ans par un migrant non par des mots sur les VSS mais par une apologie d'Hitler ("un homme a voulu redresser son pays et porter l'Europe... au mépris de tous les autres"). 10% des enfants subissent des violences sexuelles, dans l'immense majorité des cas par des membres de la famille. Rochedy n'a jamais écrit de lettres pour eux.
+
+La PaduTeam formule le mécanisme structurel : "la misogynie et le sexisme sont les meilleurs pipelines de recrutement de l'extrême droite sur internet." Ce n'est pas un accident — c'est une stratégie délibérée. L'eugénisme diffus de Rochedy (*Sous-homme et surhomme* : le progrès médical supprime la sélection naturelle et cause la "dégénérescence") rejoint la logique des droitards qui ont un problème avec les VSS subies et pas commises : ils sélectionnent les victimes à défendre selon leur race.
+
 ## Vidéos associées (corpus mai 2025)
 - [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]] — gaslighting du récit par l'agresseur patron ; féminisme CFDT comme féminisme d'impunité ; boys club numérique ; misoginoir ; structure patronale comme condition de possibilité des VSS
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — phrase fondatrice sur la confraternité médicale : "il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en termes de risque de condamnation au Conseil de l'Ordre"
@@ -234,6 +240,7 @@ Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collect
 - [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — négationnisme du viol dans des formations masculinistes ("impossibilité de violer sans violence physique") ; mécanisme judiciaire où le plaignant expose ses propres contenus infractions ; la procédure bâillonnante comme risque pour qui nie la réalité des VSS
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]] — diffusion de conversations harcelantes par les victimes comme exercice légal de l'"exception de vérité" ; la rhétorique "droit contre morale" de Kroc Blanc comme écran ; domination patriarcale pour expliquer l'asymétrie dans les réactions aux messages sexuels
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — continuum des VSS vs focalisation sur le viol "de l'étranger" ; biais de classe dans les condamnations ; données CVS 2023 (11% d'étrangers condamnés) ; inceste (10% des enfants) ; Depardieu comme preuve que la violence sexuelle est française et blanche
+- [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — masculinisme comme pipeline vers la normalisation des VSS ; réponse au viol d'une fillette par une apologie d'Hitler (jamais par des mots sur les violences contre les enfants) ; mécanisme structurel : la misogynie comme recrutement délibéré de l'extrême droite ; eugénisme diffus et sélection des victimes à défendre selon la race
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]

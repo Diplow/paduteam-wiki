@@ -36,7 +36,14 @@ Philippe fait partie des bénéficiaires indirects des municipales 2026. La droi
 
 La PaduTeam identifie Philippe comme "le post-macronisme de droite" (vs [[Gabriel Attal]] "post-macronisme de gauche"). Philippe vient de [[Les Republicains|LR]], pas du même parti qu'Attal (qui vient du PS) — malgré leur passage commun chez Macron. Philippe est "beaucoup plus libéral" qu'Attal : retraite à 67 ans, opposition au budget de la Sécu en disant "c'est pas assez libéral" (l'inverse de la gauche). Son espace électoral est clair : la droite qui ne veut pas l'extrême droite et veut récupérer le libéralisme macronien. Attal, lui, n'a "aucun espace" entre Philippe et le PS.
 
+## La noisette de droite — mécanique sondagière
+
+La PaduTeam décrit la mécanique qui gonfle artificiellement les scores de Philippe dans les sondages : dans un sondage face-à-face, Philippe bat Mélenchon ou Le Pen parce que les deux polarisent. "Demain faites un sondage Macron contre Édouard Philippe — Philippe va gagner parce que Macron est tellement détesté." Les noisettes "ont l'impression d'être la force brillante" — jusqu'à ce que les deux pinces se resserrent et les broient[^ephi-noisette]. Philippe est "la vraie noisette" de la droite : donné à 20% au second tour dans tous les sondages hypothétiques, mais incapable d'y arriver.
+
+[^ephi-noisette]: [22:58](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1378) — "les noisettes c'est ça. Tant que les deux pinces ne se sont pas resserrées, elles ont l'impression d'être la force brillante" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+
 ## Vidéos
+- [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanisme sondagier noisette : donné gagnant dans les face-à-face jusqu'à l'écrasement réel ; "la vraie noisette" de la droite.
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de l'impossibilité d'alliance avec Retailleau
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Incarne la droite orléaniste historique à 16%, en haut à droite du Graphique (espace Action française/Sarkozy 2012), bien plus crédible qu'Attal (10-11%) comme candidat centriste
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Fera ~10-15%, récupère les débris macronistes + LR modérés. Métaphore Charlemagne : Macron mort, ses "fils dégénérés" héritent de petits royaumes, Philippe est l'un d'eux. Récupérera [[Xavier Bertrand]] après sa défaite à la primaire LR

@@ -39,3 +39,4 @@ La PaduTeam : "on prend rendez-vous sur internet pour dire je réserve un créne
 ## Vidéos où le concept est développé
 - [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — analyse de [[Marc]] comme cas d'école du capitalisme masculiniste
 - [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — application au marché pornographique en ligne : réification tarifée, créneaux d'accès, consentement comme légitimation
+- [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — le concept est explicitement nommé par Zoé comme alternative au terme "patriarcat" pour désigner la domination masculine contemporaine

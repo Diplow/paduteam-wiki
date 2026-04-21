@@ -29,10 +29,16 @@ Après le cessez-le-feu au Liban, [[Francois Hollande]] publie un communiqué di
 
 Contrairement à l'image d'une armée israélienne invincible, Israël n'a pas réussi à avancer de plus de 10 km dans le sud du Liban face aux combattants du Hezbollah. "Cette armée qu'on vend comme l'une des meilleures au monde avec la plus sophistiquée n'a pas réussi à avancer de plus de 10 km dans le sud du Liban." Israël n'avait pas assez de matériels et de bombes pour maintenir ce front sans soutien occidental continu[^3].
 
+## Alliance chiite-sunnite contre Israël
+
+Bien que chiite, le Hezbollah s'est allié avec le Hamas sunnite dans la résistance à Israël — exemple central de l'analyse PaduTeam selon laquelle la religion est un vecteur, pas la cause des alliances géopolitiques. "Les alliances sont pas aussi basiques que les chiites d'un côté, le reste de l'autre"[^4]. Daesh sunnite combat le Hamas sunnite, quand le Hezbollah chiite défend la résistance palestinienne.
+
 ## Vidéos où le Hezbollah est mentionné
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — rôle dans la guerre civile syrienne, affaiblissement post-Liban, cible suivante selon Hollande, résistance militaire à Israël
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — pilier du croissant chiite, alliance Hamas/Hezbollah analysée
 
 [^1]: [22:31](https://www.youtube.com/watch?v=QN89GVrV0u8&t=1351) — "le Hezbollah de base soutenait le régime d'Assad [...] depuis la guerre au Sud Liban le Hezbollah a concentré ses forces au Liban"
 [^2]: [48:02](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2882) — "François Hollande [...] ce qu'Assad est tombé, le prochain c'est le Hezbollah c'est le Liban"
 [^3]: [35:31](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2131) — "Israël n'a pas réussi à avancer de plus de 10 km [...] dans le sud du Liban ils ont été repoussés par les combattants du Hezbollah"
+[^4]: [22:31](https://www.youtube.com/watch?v=LJyxCApZGjc&t=1351) — "les alliances sont pas aussi basiques que les chiites d'un côté, le reste de l'autre [...] le Hezbollah est un parti chiite mais qui sont de très forts soutiens de la résistance palestinienne et notamment à Gaza vis-à-vis du Hamas"
