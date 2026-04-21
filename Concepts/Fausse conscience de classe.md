@@ -37,7 +37,14 @@ C'est la définition opérationnelle de la fausse conscience : Linguisticae se d
 
 Note : ce n'est pas une critique personnelle de Linguisticae — la PaduTeam le dit explicitement. C'est une critique structurelle du mode de production ultra-libéral de l'économie des streamers qui génère mécaniquement cette fausse conscience.
 
+## Les "capots" : fausse conscience dans l'appareil d'État
+
+La PaduTeam nomme une catégorie spécifique : les "capots" — cadres administratifs qui ne sont pas bourgeois eux-mêmes mais qui servent zélaiment les intérêts de la bourgeoisie via l'appareil d'État. [[Samir Galem]] (France Travail) et [[Sylvie Gate]] (GIP Tandem) en sont les exemples types : ils organisent le défilé des RSA de Granville en étant "persuadés que c'est comme ça qu'on aide les gens."
+
+La nuance est importante : la PaduTeam distingue le "capot" du bourgeois. Le capot n'est pas responsable de sa fausse conscience — c'est "un symptôme, pas une cause." L'objectif militant est de le "réveiller", non de le désigner comme ennemi. "Notre but, c'est de les libérer quoi."
+
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
+- [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]] — les "capots" Samir Galem et Sylvie Gaté comme cas d'école de la fausse conscience dans les structures mixtes public/privé
 - [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Cas d'école concret dans l'économie du contenu numérique ; définition explicite par Chris : "la fausse conscience c'est une conscience d'équilibrage entre une position que tu occupes socialement et des rapports de production que tu mets en œuvre réellement" ([13:06](https://www.youtube.com/watch?v=4jVPJ1eaS9I&t=786))
 - [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — [[Pascal Praud]] comme cas d'école de la fausse conscience bourgeoise : il retourne la conscience collective des travailleurs contre eux-mêmes en disant qu'ils "sont fiers" de leur travail, prenant pour acceptation de l'exploitation ce qui est conscience du sens collectif du travail ([23:23](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=1403))

@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
@@ -130,11 +130,27 @@ La vidéo articule deux mécanismes supplémentaires : (1) le néolibéralisme c
 
 L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle avait été conçue en 1945 (CGT, Ambroise Croizat) avant que les ordonnances De Gaulle de 1967 n'en retirent la gestion aux travailleurs.
 
+## Les déterminants sociaux de santé comme argument irréfutable sur les retraites
+
+La capsule sur [[Louis Sarkozy]] à LCI fournit l'argument le plus puissant du corpus pour défendre l'abaissement de l'âge de la retraite : retourner la logique "scientiste" de l'adversaire contre lui. Louis Sarkozy propose d'indexer la retraite sur l'espérance de vie (~66,5 ans en moyenne). La PaduTeam pousse le raisonnement par catégorie socioprofessionnelle : à 65 ans, 25% des 5% les plus pauvres sont déjà morts contre seulement 5% des 5% les plus riches. Avec la logique de Sarkozy poussée à son terme : les ouvriers devraient partir à 50 ans, les cadres à 70 ans.
+
+L'argument théorique central : l'espérance de vie n'est pas une donnée "scientifique" indépendante des rapports sociaux — c'est parce qu'on a travaillé moins longtemps que l'espérance de vie a augmenté. Augmenter l'âge de la retraite fera baisser l'espérance de vie. Traiter une variable sociale comme une donnée naturelle, c'est le "scientisme le plus crétin."
+
+Les données de mortalité différentielle par métier (infographie "Adama") révèlent une surmortalité massive chez les éboueurs, pompiers, serveurs, ouvriers agricoles, conducteurs de transport — et une sous-mortalité chez les enseignants du supérieur, ingénieurs et cadres. Le travail de nuit réduit l'espérance de vie de plus de 10 ans dans certains cas. Yves Calvi, médusé par ces chiffres sur LCI, illustre la rupture de l'argument avec le public habituel du débat sur les retraites.
+
+La conclusion communiste de la PaduTeam dépasse l'ajustement d'âge : le vrai enjeu est de construire une [[Division du travail]] moins violente, moins totale — avec une répartition maximale des tâches entre tous et l'abolition des tâches les plus destructrices par la technique et le collectif.
+
+## Le projet de privatisation de Marion Maréchal comme révélateur
+
+[[Marion Marechal|Marion Maréchal]] agite le chiffre de 800 milliards de dépenses publiques comme argument de privatisation. La PaduTeam déconstruit : privatiser ne réduit pas la dépense, elle la déplace vers les ménages en l'alourdissant. Si ces 800 milliards n'étaient pas publics, ils coûteraient 1 200 milliards en charges privées. Les données comparatives santé le confirment : États-Unis à 18% du PIB pour une espérance de vie inférieure à la France (et à Cuba), contre 12% en France. La Sécurité sociale (97% des cotisations vers les soins, 3% de frais de gestion) est structurellement plus efficace que les assurances privées (78% vers les soins, 22% de frais chez AXA). Le programme Maréchal ne "libère" pas — il facture plus cher pour moins de soin.
+
 ## Vidéos clés
 
 - [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démontage de l'inversion idéologique bayrovienne ("l'État met à disposition") : les caisses sont constituées des cotisations des travailleurs, pas d'un don de l'État ; Bayrou comme symptôme de crise de régime (la bourgeoisie en décomposition nie sa responsabilité d'État là où Louis XIV l'affirmait) ; les 200 milliards donnés aux entreprises comme vraie cause du "déficit" ; mot d'ordre : on ne paiera pas la dette, on améliorera les retraites et l'assurance maladie
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
+- [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — retournement de la logique de l'adversaire : indexer la retraite sur l'espérance de vie différentielle implique les ouvriers à 50 ans, les cadres à 70 ; l'espérance de vie comme variable sociale (pas naturelle) ; espérance de vie sans incapacité à 63-64 ans ; surmortalité par métier (éboueurs, serveurs, ouvriers de nuit) ; conclusion communiste : abattre la division du travail violente, pas ajuster l'âge
+- [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — démontage du mythe des 800 milliards : privatiser coûte 1 200 milliards ; USA 18% PIB pour espérance de vie inférieure à Cuba ; Sécu 97% vers soins vs AXA 78% ; le projet Maréchal facture plus cher pour moins de soin
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD ; le mythe des "faux arrêts de travail" (les gens sont mis en arrêt par un médecin, pas par eux-mêmes) ; les jours de carence comme politique contre-productive (arrêts plus longs, contaminations en chaîne) ; la loi fin de vie combinée aux attaques sur les ALD comme logique macroniste cohérente : "vous avez le libre choix" de mourir quand vous ne pouvez plus vivre dignement

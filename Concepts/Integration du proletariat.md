@@ -34,6 +34,15 @@ Le [[Graphique]] ([[Conscience et sujets collectifs]]) est l'application de cett
 
 Exemple concret : les médecins. Trop intégrés pour accepter une "installation forcée à Mulhouse". Mais 40% des jeunes médecins veulent devenir salariés → proposer le salariat les rend mobilisables politiquement.
 
+## Recomposition public/privé : le bloc du salariat généralisé
+
+En octobre 2025, la PaduTeam s'appuie sur les travaux de Bruno Amable et Stéphane Palombarini (entretien Positions Revue, sept. 2025) pour décrire une transformation structurelle : les fonctionnaires, longtemps plus protégés et donc plus intégrés que les salariés du privé, subissent depuis une décennie la **néolibéralisation de leur quotidien** — violence managériale, indicateurs de performance, perte du sentiment de collectif. Cela réduit paradoxalement leur intégration syndicale (individualisation).
+
+En sens inverse, les salariés du privé, après 20 ans de plein néolibéralisme, commencent à se révolter : leur intégration s'érode par le bas. Les courbes se croisent — fonctionnaires qui descendent en mobilisation (éducation nationale : 18 % le 18 sept., 6 % le 2 oct.), salariés du privé qui montent (restauration, audiovisuel, secteurs historiquement non syndiqués).
+
+Pour la PaduTeam, cette inversion n'est pas une opposition à exacerber mais un **point de jonction** : les deux fractions arrivent au même niveau de conscience, ce qui rend possible la constitution d'un bloc social du "salariat généralisé" mobilisé vers le progrès.
+
 ## Vidéos où ce concept est développé
 - [[Le MARXISME, un TRUC de BLANC]] — développé longuement en lien avec le Graphique et la stratégie léniniste
 - [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — débat Bernstein/Luxemburg/Lénine exposé en détail ; la "troisième voie" léniniste sur le constat intégrationniste (Bernstein avait raison) mais la conclusion révolutionnaire (le parti d'avant-garde)
+- [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — Recomposition structurelle public/privé : les fonctionnaires néolibéralisés descendent en mobilisation tandis que le privé monte ; inversion des courbes comme jonction d'un bloc du salariat généralisé ; s'appuie sur Amable/Palombarini (Positions Revue sept. 2025).

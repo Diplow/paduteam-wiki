@@ -1,12 +1,13 @@
 ---
 type: individu
 domaine: [politique-intérieure]
-thèmes: [élections]
+thèmes: [élections, répression-justice]
 aliases: [Sarkozy]
 date created: Thursday, April 2nd 2026, 1:16:16 am
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 21st 2026, 12:00:00 pm
+skill_version: write-entity-2026-04-21
 ---
-#domaine/politique-intérieure #thème/élections
+#domaine/politique-intérieure #thème/élections #thème/répression-justice
 # Nicolas Sarkozy
 
 ## Profil synthétique
@@ -36,8 +37,26 @@ La coalition Sarkozy 2007 réunit trois blocs incompatibles : retraités, classe
 
 Buisson avait réussi à donner une image "rurale et identitaire" à Sarkozy (pur produit de Neuilly) — Sarkozy lui, ne l'incarnait pas naturellement. Après la mort de Buisson (décédé en Vendée, territoire de Retailleau), cette connexion est perdue.
 
+## Condamnation pénale (2025) : 5 ans de prison ferme
+
+En 2025, le tribunal correctionnel de Paris condamne Sarkozy à **5 ans de prison ferme avec mandat de dépôt différé**, 100 000 € d'amende et 5 ans d'inéligibilité pour **association de malfaiteurs** dans l'affaire des financements libyens. L'accusation : avoir reçu 50 millions € du régime Kadhafi pour financer sa campagne présidentielle de 2007, alors que le plafond légal était de 16 millions € et que le montant officiel déclaré était de 20 millions €.
+
+[[Claude Guean]], son ancien directeur de cabinet et ministre de l'Intérieur, est condamné à 6 ans. Plusieurs intermédiaires libyens et français prennent entre 4 et 6 ans, avec des amendes allant jusqu'à 4 millions €.
+
+La PaduTeam accueille la condamnation avec une réjouissance assumée — "rarement autant apprécié" — tout en maintenant son scepticisme structurel sur la [[Justice de classe]] : la justice bourgeoise a été "obligée de condamner un des leurs pour sauver la face" face à l'accumulation des affaires (plus de trente dossiers judiciaro-politiques au total). La peine réelle sera probablement réduite par les aménagements — "je pense que ça va être au final 3 ans ou 2 ans et demi [...] il va sortir rapidos avec un bracelet."[^sarko-cond]
+
+L'analogie mobilisée : Al Capone tombé pour fraude fiscale et non pour ses meurtres. Sarkozy n'est condamné que sur le chef le plus accessible à la preuve — pas pour l'ensemble de son œuvre. "La justice condamne pas pour l'ensemble de son œuvre de fait."
+
+Sarkozy réagit en invoquant un "complot", une "injustice invraisemblable", une "haine" qui "n'a aucune limite" — tout en faisant appel. La PaduTeam déconstruit la logique symétrique : la parole du tribunal vaut quand ça l'arrange, devient "justice gauchiste" quand ça le condamne.
+
+La condamnation relance la question tactique pour [[Bruno Retailleau]] : faire une "opération Fillon" — distancer symboliquement le réseau Sarkozy pour prendre le leadership de la droite républicaine, comme Fillon avait "flingué" Sarkozy en primaire en 2016 sur les affaires.
+
+[^sarko-cond]: [28:54](https://www.youtube.com/watch?v=zMo6F5Iuwjk&t=1734) — "ça va pas être dans la pierre cellule partagée machin et tout. Je pense que ça va être au final 3 ans de prison ou 2 ans et demi [...] il va sortir rapidos avec un bracelet"
+
 ## Vidéos où l'individu est analysé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme référence de la "fillonisation" : Sarkozy en 2017 a été humilié par Juppé puis Fillon en revenant dans la course primaire. Hollande subira le même sort face à Vallaud.
 - [[Faut-il en finir avec le NFP]]
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Analysé comme "tragédie" face à la "farce" de son fils ; le sarcosysme comme réponse à la crise du néolibéralisme
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Sarkozy comme parrain de la droite, inaugurateur de la Moisation via Buisson, faiseur de roi indispensable pour l'union des droites
+- [[SARKOZY CONDAMNE A 5 ANS DE PRISON FERME]] — condamnation pénale ; justice de classe obligée de sauver les apparences ; analogie Al Capone ; réaction de Sarkozy (complot) ; analyse tactique pour Retailleau
+- [[CNEWS PLEURE POUR UN CRIMINEL]] — la réaction de CNews à sa condamnation ; nostalgie sarkozyste comme cœur idéologique de l'empire Bolloré ; électeurs RN qui se réjouissent de sa chute (le traître)

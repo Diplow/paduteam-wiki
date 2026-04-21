@@ -30,10 +30,19 @@ Bardella joue la drague aux élites libérales (tour des plateaux, appels du pie
 - **Italie** : Meloni = mélonisme parfait (union des droites, libérale-raciste, pro-OTAN)
 - **France** : Le Pen = plus proche du trumpisme ; Bardella = dérive vers le mélonisme
 
+## Le mélonisme français en acte — Marion Maréchal
+
+La vidéo sur Marion Maréchal (septembre 2025) est l'application la plus directe du mélonisme au contexte français. [[Marion Marechal|Marion Maréchal]] et son mouvement "La droite qui gagne" incarnent exactement la formule : union des droites libérale-raciste, alliance revendiquée avec [[Georgia Meloni]], programme économique néolibéral pur, racisme civilisationnel assumé sans les faux-semblants du RN.
+
+La PaduTeam identifie un mécanisme structurel : le mélonisme est plus compatible avec le patronat que le trumpisme populaire du RN, parce qu'il n'a pas à faire de concessions sociales. [[Jordan Bardella]] qui cherche à se rapprocher du MEDEF est en train de migrer du trumpisme vers le mélonisme — et ce faisant, il abandonne l'électorat populaire qui était la base du RN construit par Marine Le Pen.
+
+Prophétie : la coalition Retailleau-Maréchal-Bardella est la forme française du mélonisme en gestation.
+
 ## Concepts associés
-[[Eclatement du bloc central]], [[Moisation]], [[Pacte raciste]], [[Atlantisme]], [[Vassalisation de la France]]
+[[Eclatement du bloc central]], [[Moisation]], [[Pacte raciste]], [[Atlantisme]], [[Vassalisation de la France]], [[Graphique]]
 
 ## Vidéos où le concept est développé
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Définition et application au dilemme Bardella/Le Pen
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Bardella incapable de formuler les réponses trumpistes ; atlantisme structurel ; dérive vers le mélonisme
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction stratégique Le Pen/Bardella (peuple vs nation économique)
+- [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — mélonisme français incarné par Maréchal ; Meloni comme modèle revendiqué ; le MEDEF attire par l'Italie ; prophétie de la coalition Retailleau-Maréchal-Bardella

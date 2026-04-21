@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -136,6 +136,20 @@ Deux vidéos de l'été 2025 documentent la théorisation et la mise en pratique
 
 La lecture léniniste de la situation est explicite : Macron cumule les deux conditions de la situation prérévolutionnaire — "en haut ils ne peuvent plus, en bas on ne veut plus." Les classes intermédiaires (syndicats, partis, militants) doivent rejoindre ceux d'en bas. Le 10 septembre n'est pas un événement ponctuel — c'est le début possible d'une "guerre de position" durable : "peut-être que le 10 septembre, ce sera la fondation de nouveaux groupes qui vont durer pendant des années."[^up_prop2]
 
+## La permanence militante comme condition de l'union populaire
+
+La séquence septembre-octobre 2025 révèle une limite structurelle du mouvement : son incapacité à maintenir une présence organisée entre les grandes dates. La PaduTeam nomme ce phénomène "septembrisme" — l'illusion du grand soir — pour le déconstruire : personne ne s'est réveillé dans un monde différent le lendemain de la prise de la Bastille.
+
+Le diagnostic pratique : le mouvement a buté sur l'absence de [[Permanence militante]]. La triple analogie historique — le journal de Lénine comme nœud de permanence nationale, les clubs des Cordeliers, les réseaux de la Résistance dont la première tâche était de "maintenir des boîtes aux lettres" — sert à poser la même leçon : la construction organisationnelle entre les dates est la tâche décisive. "On n'est pas légitime avant, on est légitime après."
+
+La jonction organisations/masses a aussi échoué par attentisme mutuel : les comités citoyens attendaient les syndicats, les syndicats attendaient une base syndicale, les partis s'auto-neutralisaient. Quand "tout le monde s'attend", ça ne part pas. Les organisations doivent assumer leur stratégie à l'intérieur du mouvement sans avoir peur de prendre le lead.
+
+## L'unité de la classe ouvrière contre la division emploi/chômage
+
+La capsule sur le défilé de mode RSA dans la Manche approfondit la base théorique de l'union populaire. La thèse : l'opposition entre les gens qui ont un emploi et les gens qui n'en ont pas est "factice et bourgeoise de A à Z." C'est la même classe sociale, la même humanité qui est "violentée, déshumanisée, aliénée." La [[Mise en concurrence du proletariat]] sert à faire baisser le coût de la force de travail en divisant ceux qui la vendent.
+
+La stratégie d'humiliation des sans-emploi n'est pas un dysfonctionnement — c'est un mécanisme calculé pour que ceux qui retrouvent un emploi soient en "totale incapacité de pouvoir lutter sur leurs conditions de travail." L'union populaire doit donc intégrer la solidarité avec les privés d'emploi, pas les stigmatiser comme "assistés." C'est la même classe — les séparer, c'est le travail de la bourgeoisie.
+
 ## Macron tue ses héritiers — la prophétie Mélenchon avance mécaniquement
 
 Le corpus de juillet 2025 consolide une thèse centrale sur la mécanique 2027 : **Macron détruit systématiquement ses successeurs potentiels**, ce qui avance mécaniquement la prophétie Mélenchon.
@@ -239,6 +253,9 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[AU CŒUR DU 10 SEPTEMBRE ANALYSES A CHAUD]] — test en conditions réelles de l'infrastructure militante ; stratégie des points stratégiques (raffineries, ports) ; 800 policiers déployés comme preuve de panique du pouvoir ; leçon : s'organiser dans les syndicats et partis pour impulser la radicalité par la base
 - [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — analogie Ali-Foreman comme grille stratégique : Retailleau a misé 80% de ses forces (80 000 policiers) face à un mouvement au niveau du jour 1 des Gilets Jaunes ; cartographie des trois nuances du "bloc bourgeois" (Retailleau, Wauquiez, PS) face au mouvement ; proposition du 21 septembre comme date populaire
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — la chute de Bayrou comme victoire de la pression populaire : "il n'y aurait jamais eu la démission sans le 10 septembre" ; démolition du discours sur la dette (51 ans = 51 ans de politiques Bayrou) ; réfutation du "réel" comme catégorie de droite ; projection référendum proportionnelle comme coup de Macron
+- [[SEPTEMBRE 2025 A ETE UN ENORME FLOP]] — permanence militante entre les grandes dates comme tâche décisive ; septembrisme déconstruit ; analogie Lénine/Cordeliers/Résistance ; division du travail révolutionnaire (partir des gens, pas des tâches) comme anti-capitalisme pratiqué ; "la victoire on la prend, la défaite on apprend"
+- [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — moment prérévolutionnaire mondial inscrit dans la généalogie 1848/mai 68 ; critique des directions syndicales comme refroidissement institutionnel ; distinction bases/direction ; modèle USB italien (blocages anti-guerre, jonction revendications sociales et anti-impérialisme) ; inversion des courbes public/privé comme montée du "salariat généralisé"
+- [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]] — opposition emploi/chômage comme construction bourgeoise factice ; stratégie d'humiliation généralisée du prolétariat pour le diviser et baisser son coût ; solidarité avec les privés d'emploi comme condition de l'union populaire
 - [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — formulation de la règle d'or "pas l'un sans l'autre" ; signification historique du 21 septembre 1792 ; LFI comme relais sans leadership revendiqué ; "On ne veut plus" comme infrastructure organisationnelle des 3 000 militants Telegram
 - [[LA POLICE DE RETAILLEAU MALTRAITE UNE JEUNE FEMME]] — témoignage d'Evvora comme cas d'école de la répression judiciaire ; mnémotechnique AMIS comme outil de formation pratique ; la police comme "outil de classe, pas institution neutre" ; rôle de protection des élus (écharpe tricolore) comme division du travail militant
 - [[18 SEPTEMBRE ON EST LA]] — bilan chiffré du 18 (1 million vs 500 000 officiels) ; action Sudraille à Bercy comme moment fort ("au cœur du pouvoir") ; Lecornu incapable de "hausser le menton" = signal de faiblesse du pouvoir ; Place Publique et les Verts vont voir Lecornu = refroidisseurs à l'oeuvre

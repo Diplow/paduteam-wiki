@@ -37,9 +37,14 @@ Conséquence directe : **les femmes peuvent être des ennemies de classe**. Le f
 - [[Sandrine Rousseau]] comme contre-exemple paradigmatique du féminisme essentialiste
 - [[Marine Tondelier]] comme contre-exemple de condescendance raciale bourgeoise
 
+## Exemples d'application : les vrais risques pour une adolescente
+
+Dans la vidéo sur [[Giulia Sarkozy]], la liste des vraies menaces pour une adolescente (idées suicidaires, harcèlement, violences sexuelles, déliquescence du système éducatif, exploitation capitaliste, crise écologique) est opposée à la liste de Marianne (ongles à strass, selfies, playback TikTok). Le féminisme matérialiste réclame ce déplacement : analyser les conditions matérielles d'existence des jeunes filles, pas policer leur esthétique.
+
 ## Vidéos où le concept est développé
 
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Définition la plus explicite : refus d'accorder la misogynie sur "Karen", critique du féminisme essentialiste des Verts, lecture du terme Karen comme outil du féminisme noir
+- [[GIULIA SARKOZY TRAITEE DE POUFFE PAR MARIANNE]] — Application pratique : démontage d'un article Marianne qui confond police de l'esthétique féminine et féminisme protecteur ; liste des vraies menaces pour les adolescentes vs. panique morale bourgeoise
 
 [^1]: [2:36](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=156) — "Le féminisme ce n'est pas dire que les meufs sont tout le temps super. Elles peuvent être des grosses bourgeoises et se comporter en fonction de leur intérêt de classe."
 [^2]: [11:22](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=682) — "Marion Maréchal a pas pris de la bière dans les cheveux parce que c'est une meuf — elle en prend parce que c'est une dirigeante politique d'extrême droite qui porte un projet de nettoyage ethnique."

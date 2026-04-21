@@ -1,14 +1,18 @@
 ---
 type: individu
 domaine: [politique-intérieure, géopolitique]
-thèmes: [anti-impérialisme]
+thèmes: [anti-impérialisme, élections, guerre-des-gauches]
+aliases: [Gaby, Macron de Wish]
 date created: Monday, March 30th 2026, 3:01:57 pm
-date modified: Monday, April 20th 2026, 1:27:58 pm
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
+skill_version: write-entity-2026-04-21
 ---
+#domaine/politique-intérieure #domaine/géopolitique #thème/anti-impérialisme #thème/élections #thème/guerre-des-gauches
+
 # Gabriel Attal
 
 ## Profil synthétique
-Ancien Premier ministre, figure opportuniste de la politique française. Tente de lancer son propre mouvement avant de se rallier au [[Parti Socialiste]].
+Ancien Premier ministre (2024), figure opportuniste et recyclée du macronisme. Issu d'une famille très bourgeoise (imposable ISF dès 25 ans), formé à Sciences Po Paris, ancien jeune socialiste reconverti marcheur. Tente de lancer son propre mouvement en septembre 2025 avant de se rallier au [[Parti Socialiste]]. Pour la PaduTeam : "Macron de Wish" — même posture, même vide, sans la base.
 
 ## Trajectoire 2027
 - Tente de lancer "Le Progressisme Pragmatique" avec [[Raphael Glucksmann]] — échoue pour "histoires de mœurs"
@@ -23,6 +27,18 @@ Ancien Premier ministre, figure opportuniste de la politique française. Tente d
 - Se rallie à [[Boris Vallaud]] et au [[Parti Socialiste]]
 - Rejette [[Horizon]] car Édouard Philippe bloquerait sa carrière
 - Échoue avec [[Raphael Glucksmann]]
+
+## Meeting de rentrée septembre 2025 : le retournement impossible
+
+En septembre 2025, Attal organise un meeting avec décor coucher de soleil et jeunes engagés en fond de scène pour se relancer. Son discours : "Macron c'est le chaos", "les vieilles recettes du passé", "nous attendons 2027 pour tourner la page." Pour la PaduTeam, c'est le retournement de veste le plus obscène de la période : l'homme qui était Premier ministre six mois plus tôt, et au cœur du pouvoir depuis 2016, se présente comme l'alternative au chaos qu'il a co-produit[^attal_timeline].
+
+La PaduTeam reconstitue sa trajectoire point par point — "milite pour République en marche depuis 2016, député depuis 2017, secrétaire d'État en 2018, porte-parole en 2020, ministre des comptes publics en 2022, ministre de l'éducation en 2023, premier ministre en 2024" — avant de conclure : "Les vieilles recettes, l'ancien monde, le chaos. Bah c'est toi, Gaby."
+
+Son discours est une [[Noisettes|noisette]] en phase de construction : proposition d'une "nouvelle République" qui n'ose pas être une 6e, mais une "5e République du 21e siècle" — même posture "au-dessus des partis" de 2017, mais réchauffée et insipide. La PaduTeam diagnostique : il n'a "aucun avenir", sera à 4-5% dans les sondages, et finira par se ranger derrière le [[Parti Socialiste]].
+
+Sur l'immigration, il défend "la préférence travail" — "accueillir moins mais accueillir mieux" — slogan identifié comme celui de République Souveraine de Kuzmanovic, analysé comme le discours bourgeois classique : besoin de main-d'œuvre racialisée et surexploitée, rhétorique de contrôle pour justifier les conditions. La PaduTeam relie directement aux morts d'épuisement dans les vignobles de champagne.
+
+[^attal_timeline]: [17:00](https://www.youtube.com/watch?v=EBnP9iDWSC8&t=1020) — "Gabriel Atal, milite pour République en marge depuis 2016, député depuis 2017, secrétaire d'État depuis 2018, porte-parole en 2020, ministre en 2022, ministre de l'éducation en 2023, premier ministre en 2024 — les vieilles recettes, l'ancien monde, le chaos... bah c'est toi Gaby ?"
 
 ## Le post-macronisme de gauche sans espace
 
@@ -39,6 +55,7 @@ Face à la revendication américaine sur le Groenland et aux tweets mafieux de l
 [^attal_groen]: [11:51](https://www.youtube.com/watch?v=Z_vN3SrjNzQ&t=711) — « Gabriel Attal qui dit [...] "maintenant c'est la loi du plus fort, donc bah nous on va s'équiper, on va s'armer, on va comment dire recruter des militaires, faire du service militaire ?" [...] Ça c'est ce qu'on appelle l'escalade guerrière. »
 
 ## Vidéos
+- [[GABRIEL ATTAL DEMOLIT MACRON MACRON C'EST LE CHAOS]] — meeting de rentrée septembre 2025 ; tentative de retournement antimacroniste ; noisette en construction ; discours patronal sur l'immigration
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 11% par [[Odoxa]] (contre 26% pour Macron en 2022). Ses électeurs sont identifiés comme les plus anti-Mélenchon du panel : seulement 1% se reporteraient sur Mélenchon au 2nd tour (vs 43% des électeurs Ensemble qui avaient voté LFI face au RN aux législatives 2024). Incarnation du vote "dépolitisé mais votant" qui biaise les sondages
 - [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — Identifié comme "post-macronisme de gauche" sans espace électoral entre Philippe et le PS
 - [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — "Trumpiste pur" face à l'enlèvement de Maduro ; positionnement le plus atlantiste du spectre politique français.

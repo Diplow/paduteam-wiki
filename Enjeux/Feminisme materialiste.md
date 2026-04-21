@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
@@ -87,6 +87,16 @@ Deux erreurs caractéristiques de cet antiféminisme "normi" :
 **La production objective d'outils pour agresseurs** : dans un pays où 95 % des violences sexuelles ne sont pas déclarées et où seulement 633 personnes sont condamnées par an pour viol sur 124 millions d'habitants, des conseils "comment se comporter si une femme vous accuse d'agression dans le métro" servent objectivement les agresseurs, quelle que soit l'intention de leur auteur.
 
 L'antiféminisme "normi" est difficile à combattre parce qu'il se présente comme informatif et équilibré. Mais ses effets pratiques sont identiques à ceux du masculinisme déclaré : évacuation du capitalisme patriarcal comme structure causale, production d'arguments contre le féminisme, et parfois production directe de ressources pour ceux qui agressent.
+
+## La police des mœurs féminins comme conservatisme de classe
+
+L'article de [[Marianne]] sur [[Giulia Sarkozy]] (octobre 2025) fournit un cas d'école du conservatisme de classe habillé en féminisme protecteur. Le journal Marianne critique le style TikTok d'une adolescente de 13 ans (faux ongles à strass, selfies, extensions) sous prétexte de "protection" — tout en ignorant les vraies menaces pour une adolescente (idées suicidaires, harcèlement scolaire, violences sexuelles, système éducatif en déliquescence).
+
+L'argument central de la PaduTeam : ce qui "énerve" dans le style de Giulia Sarkozy, c'est qu'elle "ne correspond pas à la classe sociale qu'on attend d'elle." Les faux ongles avec strass et papillons sont un marqueur de féminité populaire — la condamnation du style "poufiasse" est une condamnation déguisée de la féminité des classes populaires imposée à une fille de bourgeois qui "dévie."
+
+Le journal Marianne y est identifié comme un "faux athéisme laïcard" : "des athées militants qui veulent qu'on se comporte comme des caloaux intégristes." Sa police des mœurs féminine (sondage sur les bretelles de soutien-gorge apparent à l'école, interdiction des minijupes après 40 ans) est structurellement identique à une police des mœurs religieuse — sans le nom.
+
+Le féminisme institutionnel de Marianne révèle son contenu de classe dans les modèles proposés : Marie Curie et George Sand — figures d'exception individuelle dans une société patriarcale, présentées comme preuve que "ça marche." La PaduTeam retourne l'argument : Marie Curie est la seule scientifique qu'on arrive à citer précisément parce que la société était organisée pour que toutes les autres ne puissent pas faire de sciences.
 
 ## La méthode sociologique contre le vécu subjectif
 
@@ -278,6 +288,7 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — ATR comme antiféminisme + transphobie + validisme ; sujet révolutionnaire féminin et trans ; technique comme condition d'émancipation
 - [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]] — travail du sexe comme rapport de production ; consentement insuffisant comme catégorie marxiste ; dissociation comme preuve matérielle de violence ; position non-abolitionniste ; lien Lily Phillips / Mazan sur le rapport de chosification
 - [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — antiféminisme "normi" et ses effets pratiques identiques au masculinisme déclaré ; concours de souffrance comme impasse analytique ; statistiques sans sociologie de leur construction ; conseils "anti-fausses accusations" comme ressources objectives pour agresseurs
+- [[GIULIA SARKOZY TRAITEE DE POUFFE PAR MARIANNE]] — conservatisme de classe habillé en féminisme protecteur ; nail art comme marqueur de féminité populaire condamné par un magazine bourgeois ; Marianne comme "faux athéisme laïcard" structurellement identique à une police des mœurs religieuse ; Marie Curie comme figure d'exception qui prouve le contraire de ce qu'elle illustre ; "laisser les gamines tranquilles, abattre le patriarcat et le capitalisme"
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — réification marchande de la femme ("voiture d'occasion dégradée par l'usage") ; récit de viol banalisé en direct ; l'économie de la visibilité recycle la violence en entertainment
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — masculinités vertueuses ; responsabilité collective (analogie Arendt) ; "et maintenant ?" comme passage de la dénonciation à la transformation structurelle
 - [[J'AI TROUVE LE PIRE PATRON DU MONDE]] — précarité comme technique de prédation sexuelle ; entretien d'embauche comme dépossession de soi ; suppression des aides sociales comme infrastructure de la prédation ; "ce n'est pas le pire patron, c'est un patron ordinaire"

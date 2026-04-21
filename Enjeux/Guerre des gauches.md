@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -136,6 +136,18 @@ La séquence du 10 septembre 2025 constitue la démonstration empirique la plus 
 
 **Wauquiez comme révélateur de la guerre des gauches par sa droite.** La réaction de [[Laurent Wauquiez]] le soir du 10 septembre est analysée comme l'exacte symétrie de la guerre des gauches, vue depuis la droite. Son "aucune colère ne justifie qu'on bloque un pays" invalide mécaniquement la Révolution française, les grèves de 36, tout changement par le rapport de force. La PaduTeam en tire une formule : "ces mecs devraient dire 'je suis royaliste.' La révolution française est illégitime pour eux." Ce légitimisme est identique dans ses effets à la position PS sur les blocages ("je soutiens les blocages mais pas si ça bloque") — dans les deux cas, on envoie les flics. La "convention de DRH" est le concept qui unifie ces trois positions (Retailleau, Wauquiez, PS) : à la fin, même habillage différent, même résultat — l'ordre bourgeois contre le mouvement.
 
+### 21. La séquence octobre 2025 : syndicats, permanence et discipline
+
+Le bilan de la séquence de septembre-octobre 2025 approfondit le diagnostic de la guerre des gauches sur un axe nouveau : l'absence de permanence militante entre les grandes dates, et la critique des directions syndicales comme refroidisseurs institutionnels involontaires.
+
+**La critique de l'intersyndical comme refroidissement structurel.** La PaduTeam reproche à [[Sophie Binet]] et à l'intersyndical de poser des dates "presque faites pour ne pas être en même temps que le mouvement social" et d'attendre la "copie de Lecornu." Ce n'est pas de la trahison délibérée — c'est la logique institutionnelle des appareils qui produit objectivement du refroidissement. La formule : attendre un ministre macroniste de la première heure pour "faire venir le communisme", c'est comme "mettre le maréchal Pétain pour faire venir le communisme en 46." La critique porte sur les **directions**, pas sur les bases : "ça c'est pas la position de base de la CGT."
+
+**Le septembrisme comme illusion du grand soir.** Face aux déceptions de la rentrée 2025, la PaduTeam nomme et déconstruit le biais "septembriste" : l'imaginaire révolutionnaire qui attend qu'on se réveille avec un autre monde le lendemain d'une grande date. Personne ne s'est réveillé dans un monde différent le 15 juillet 1789 non plus. La défaite apparente est une étape, pas une fin — "de défaite en défaite jusqu'à la victoire."
+
+**La permanence militante comme tâche principale.** La PaduTeam formule le diagnostic stratégique central : le mouvement a buté sur l'absence de structures permanentes entre les grandes dates. La triple analogie historique — le journal de Lénine comme nœud de permanence nationale, les clubs des Cordeliers pendant la Révolution française, les réseaux de la Résistance dont la première tâche était de "maintenir des boîtes aux lettres" — sert à poser la même leçon : entre les dates, là est la tâche décisive de l'organisation révolutionnaire.
+
+**La gauche Twitch comme forme de guerre des gauches par l'intérieur.** La PaduTeam étend la critique à la gauche internet : le streaming politique produit de l'engagement parasocial, pas de l'organisation. La "gauche Twitch" est symptomatique — des gens très engagés en ligne qui sont "zéro formés" en termes d'efficacité politique après des années de consommation de contenus. L'horizontal sans discipline cache les dominations internes. La seule arme du prolétariat est sa discipline, pas son nombre seul (Badiou). Et les VSS dans les organisations révèlent la même faille : l'horizontalité prétexte masque le pouvoir informel de ceux qui sont là depuis 15 ans.
+
 ### 20. La réponse patronale comme révélateur de la crise nationale
 
 [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] documente la guerre des gauches par son envers : la réponse du patronat au mouvement social de septembre 2025. Patrick Martin (MEDEF) menace d'une "grande mobilisation patronale" si les impôts augmentent. La PaduTeam lit ce signal non comme une menace crédible, mais comme un marqueur léniniste : "si même les exploiteurs ne peuvent plus et ne veulent plus, la situation révolutionnaire est vraiment très proche."
@@ -235,5 +247,9 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — cartographie des trois nuances du bloc bourgeois face au mouvement (Retailleau/violence, Wauquiez/légitimisme, PS/blocage-qui-ne-bloque-pas) ; "convention de DRH" comme concept unifiant ; Wauquiez comme révélateur droitier : invalide toute révolution par le rapport de force ("aucune colère ne justifie de bloquer un pays")
 - [[18 SEPTEMBRE ON EST LA]] — confirmation de la ligne de partage : Place Publique, Verts, Fort vont voir Lecornu au lendemain du 18 septembre = refroidisseurs qui fractionnent le mouvement en acte ; Mélenchon comme "opposant politique le plus radical" qui ne cherche pas à prendre la tête mais à réchauffer
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — démonstration chiffrée que deux gauches séparées (FI + gauche social-libérale) donnent un total supérieur et une dynamique plus forte qu'une alliance unique ; "la guerre des gauches est une force" ; Cluster 17 comme outil de validation empirique
+- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Festival de la Noisette de Bram comme illustration concrète : Glucksmann applique la stratégie Mitterrand inversée (il sera Marchais, pas Mitterrand) ; Brossat plus cohérent que Roussel sur la porosité électorale LFI ; Boris Vallaud comme stratège de l'arbitre ; les primaires sélectionnent mécaniquement le consensuel (les masses ne votent pas aux primaires) ; "l'antifascisme ne se fait pas au cassoulet"
+- [[SEPTEMBRE 2025 A ETE UN ENORME FLOP]] — bilan de la séquence septembre 2025 ; "septembrisme" comme illusion du grand soir ; le pouvoir a tiré la leçon des GJ (répression immédiate à 80%) ; intersyndical à contretemps ; la permanence militante entre les dates comme tâche principale ; analogie Lénine/Cordeliers/Résistance ; division du travail révolutionnaire comme anti-capitalisme pratiqué
+- [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — critique des directions syndicales comme refroidissement institutionnel structurel (pas trahison délibérée) ; distinction bases/direction ; modèle USB italien (blocages anti-guerre comme levier) ; coordination nationale manquante ; inversion des courbes public/privé comme montée en conscience du "salariat généralisé"
+- [[PADUTEAM C'EST FINI]] — critique structurelle du streaming politique : engagement parasocial vs organisation militante ; "gauche Twitch" zéro formée malgré des années de consommation ; discipline collective (Badiou : "la seule arme du prolétariat c'est sa discipline") contre horizontalité bidon ; VSS dans les orgas comme révélateur de la guerre des gauches par l'intérieur
 
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"

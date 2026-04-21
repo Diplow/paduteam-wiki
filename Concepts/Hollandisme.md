@@ -43,3 +43,4 @@ Le bilan hollandiste élargi comprend : loi Travail, répression des manifestati
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
 - [[Faure oblige de trahir]] — Démonstration graphique du déterminisme de classe qui produit l'hollandisme
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — L'hollandisme comme généalogie de Macron ; bilan quinquennat Hollande (loi Travail, répression, racisme institutionnel, lits supprimés) ; le plan Jospin 96 comme répétition du pattern hollandiste
+- [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — La [[Taxe Zucman]] portée par le PS qualifiée de hollandiste : symbolique, insuffisante, mais brèche à ne pas bloquer ; la PaduTeam distingue la brèche utile du programme suffisant
