@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w43w44
+skill_version: write-enjeu-2026-04-21-enrichi-w45w46-final
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -221,6 +221,14 @@ La capsule sur la réaction de [[Bernard Arnault]] à la taxe Zucman illustre pa
 
 L'analyse historique renforce la critique structurelle : la France est le pays où la grande bourgeoisie a résisté le plus longtemps à toute taxation — l'impôt sur le revenu n'a été adopté qu'en juillet 1914, sous contrainte de guerre. Cette résistance est "un fondamental de cette bourgeoisie ultra hégémonique" que le PS, depuis Hollande, n'a jamais frontalement affrontée.
 
+## L'arme Taxe Zucman : quand le PS est dangereux précisément parce qu'il n'est pas stupide
+
+[[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] (nov. 2025) est la déconstruction la plus précise de la stratégie PS post-non-censure. En refusant de censurer le gouvernement Lecornu, le PS ne trahissait pas par naïveté — il s'achetait délibérément le temps de porter la Taxe Zucman comme mesure phare et de "prendre le lead à gauche sur l'attaque fiscale aux ultra-riches." "Ce sont des gens qui ont une grande habitude des manœuvres, des petites techniques, des petites stratégies." C'est le nœud de l'enjeu "Plus jamais PS" : le PS est une menace précisément parce qu'il sait ce qu'il fait.
+
+**La distinction revenu/patrimoine comme arme rhétorique.** La Taxe Zucman ne touche pas le flux (revenu) mais le stock (patrimoine) : "il dit moi je vais vous enlever 2% de votre capacité à faire du revenu avant même que le cycle se passe." C'est ce qui rend les milliardaires hystériques — on ne leur demande plus un pourcentage de ce qu'ils ont gagné, on leur demande de l'argent sur leurs actions avant qu'elles aient fructifié. L'hystérie de la bourgeoisie ([[Bernard Arnault]], Eric Larchevêque) ne porte pas sur le montant (2%, "c'est rien") mais sur le principe : on touche au stock, pas au flux. Le PS est "en train de commencer à bifurquer du néolibéralisme." C'est précisément pour ça qu'il est dangereux : il offre une bifurcation insuffisante qui court-circuite la demande de bifurcation radicale.
+
+**LFI en défense.** L'arme PS fonctionne parce que LFI se retrouve structurellement à la traîne : quand le PS propose Zucman, la FI répond "non c'est pas vrai Zucman" et débunke. "Quand ils proposent Zucman même s'ils font Zucman Light, ils disent 'Bah non, c'est pas vrai Zucman.' [...] ça c'est un vrai problème." La PaduTeam formule la réponse stratégique nécessaire pour que le "Plus jamais PS" reste pertinent : LFI doit proposer non pas une taxe plus lourde mais des nationalisations, la [[Theorie moderne de la monnaie|souveraineté monétaire (MMT)]], la sortie du circuit des banques privées. La réponse à l'hollandisme PS n'est pas le contre-hollandisme — c'est la rupture.
+
 ## Gabriel Attal comme cas d'école du bloc central recyclé
 
 [[Gabriel Attal]] tente à l'automne 2025 un repositionnement anti-Macron ("Macron c'est le chaos", "les vieilles recettes"). La PaduTeam analyse ce retournement comme une [[Noisettes|noisette]] de deuxième génération : le même vide que le macronisme originel, réchauffé sans la crédibilité de 2017. Attal est "littéralement le bras droit du pouvoir depuis 8 ans" — quand il dit "chaos" et "vieilles recettes", c'est lui qu'il décrit. La prédiction PaduTeam : stagner à 4-5% et finir derrière le [[Parti Socialiste]]. Ce que cela confirme pour l'enjeu "plus jamais PS" : l'espace noisette du bloc central ne peut se recomposer que par une alliance avec le PS — ce que le PS attend précisément.
@@ -240,6 +248,7 @@ Face à cette coalition de refroidisseurs, [[Mathilde Panot]] (FI) tient la lign
 - [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — formulation internationale : "partout en Europe derrière les sociaux-démocrates, c'est des fascistes" ; si vous avez Trump c'est parce que vous avez eu Kamala Harris ; la moïsation concerne aussi le Canada, l'Italie, l'Allemagne
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Thèse Kamala=Jospin 2002=Glucksmann ; gauche de droite perd mécaniquement face à droite de droite ; mécanisme du pinkwashing sans radicalité de classe
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Cuomo « Manuel Valls de New York » ; avertissement sur la discipline primaire (Glucksmann ne se rangera pas) ; victoire PS type démontée
+- [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — la "danse du ventre au centre" du PS sur Mamdani formalisée en direct : Faure s'approprie les positions de gauche radicale (blocage des loyers, référence Mamdani) pour paraître à gauche tout en faisant ses appels du pied au centre ; LFI doit en réponse radicaliser son programme (sortie du dollar) pour que le PS ne puisse pas s'y coller ; le PS comme "girouette structurelle" confirmée
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Faure démontée phrase par phrase ; programme DSA objectivement plus à gauche que NFP sur 10 postes ; appel à LFI de revendiquer plus à gauche que le NFP ; Ruffin « imposteur »
 
 ## Le PS comme vecteur du sionisme de gauche (2024-2025)
@@ -312,5 +321,6 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — bilan quinquennat Hollande comme liste de trahisons concrètes : CICE (300M à Arnault), répression manifs palestiniennes, loi travail, émergence de Macron. Le reportage Paris Match comme révélateur du rapport de classe de la social-démocratie.
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Tondelier assimilée fonctionnellement au PS/macronisme : dépolitise les situations, travaille à refroidir le mouvement social, "Marine Macron" ; preuves d'unité vs déclarations d'unité ; électorat incompressible de 500 000 personnes
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — candidature 2027 : noisette bio prise dans le Casse-Noisette (2%) ; douceur comme privilège de classe bourgeoise blanche ; islamophobie structurelle documentée en quatre faits (Médine, Allahu Akbar, Ali Diouara, Walid Mouali) ; sécu alimentaire accordée mais incohérente sans programme de rupture ; la veste verte comme objet transitionnel de dépolitisation
+- [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — déconstruction de la stratégie PS de la non-censure comme investissement calculé pour prendre le lead fiscal ; "ce sont des gens qui ont une grande habitude des manœuvres" ; Taxe Zucman comme hollandisme bifurcatoire (brèche réelle mais insuffisante) ; hystérie bourgeoise porte sur le principe (stock vs flux), pas le montant ; LFI en défense réactive, appel à LFI de proposer MMT + nationalisations pour que le PS ne puisse pas s'y coller
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Duflot comme cas d'école des quarante ans de renoncements : gauche sans alternative de société, masquer le conflit de classe sous la communication, participer sous Hollande aux politiques qui ont désabusé les classes populaires
 - [[VILLEPIN DERAPE sur ZYED et BOUNA]] — extension de l'enjeu au racisme institutionnel colonial : distinction coercition de population / maintien de l'ordre comme ligne analytique ; loi "permis de tuer" de Hollande comme preuve de la continuité PS ; séquence 2005 (TCE + mort de Zyed et Bouna) comme matrice de la montée de LFI que la gauche institutionnelle a ratée ; Villepin = Édouard Philippe, "du même bois" que le PS

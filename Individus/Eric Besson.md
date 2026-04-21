@@ -24,5 +24,6 @@ La PaduTeam insiste : l'épisode doit être transmis aux générations futures c
 ## Vidéos où l'individu est analysé
 
 - [[SARKOZY CONDAMNE A 5 ANS DE PRISON FERME]] — évoqué comme "le traître ultime" de la campagne 2007 ; illustration de l'opportunisme politique comme ADN du PS
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — convoqué comme étalon de la trahison pour jauger le retournement de veste de Ruffin entre les deux tours des législatives 2024 : "7 sur l'échelle de Besson qui va de 1 à 10". Détail biographique rappelé : Besson a ensuite été secrétaire général adjoint de l'UMP, puis ministre de l'Immigration, de l'Intégration et de l'Identité nationale sous Fillon — "venu du Parti socialiste".
 
 [^1]: [14:27](https://www.youtube.com/watch?v=zMo6F5Iuwjk&t=867) — "pour faire ça, faut être froid et être un traître [...] il faut avoir aucune dignité tu sais [...] il a changé de crémerie entre les deux [tours]"

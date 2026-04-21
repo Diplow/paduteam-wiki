@@ -104,9 +104,28 @@ La primaire est annoncée comme "le meilleur gagne" mais ni Mélenchon ni Glucks
 
 Sa primaire interne EELV est organisée contre Walid Mouali (6 800 votants) — lue par la PaduTeam comme tentative de rachat de son islamophobie structurelle par un sparring partner minoritaire.
 
+## Femme sandwich pour le capitalisme vert (novembre 2025)
+
+Au salon Mif Expo, Tondelier essaie des jeans de la marque 1083 (SAS, société par action simplifiée) pour commenter la polémique Shein. La PaduTeam identifie dans cette séquence un mécanisme analytique nouveau : **Tondelier comme femme sandwich du [[Capitalisme vert]]**.
+
+Le mécanisme en quatre étapes :
+1. Elle encadre la polémique Shein comme un problème de consommation individuelle irresponsable — pas comme une contradiction structurelle du capitalisme
+2. Elle propose la solution consumériste (acheter des jeans "éthiques" à 140€ faits en France) comme si le changement des habitudes pouvait transformer l'appareil de production
+3. Elle fait la publicité gratuite d'entreprises privées (son compte Twitter comme régie publicitaire pour 1083 et la "perma industrie")
+4. Elle masque la violence de classe : 5 jeans à 140€ = ~900€ soit environ deux tiers d'un SMIC — la sobriété "durable" est un discours de classe aisée
+
+La PaduTeam formule la thèse explicitement : "Marine Tondelier est la femme sandwich de ce capitalisme vert qui va fabriquer des boutiquiers français, exploiteurs de travailleurs français pour des classes privilégiées qui peuvent se payer des jeans à 140 balles."[^femme-sandwich]
+
+Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec un manche en bambou plutôt qu'en plastique. C'est pas possible de penser la transformation écologique comme ça." L'alternative programmatique proposée : un jean "démarchandisé, nationalisé, socialisé", contrôlé par les travailleurs — sur le modèle de Duralex (5 millions levés en quelques heures).
+
+[^femme-sandwich]: [21:39](https://www.youtube.com/watch?v=Wp5cDiWWgd4&t=1299) — dans [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]].
+
 ## Vidéos où Tondelier est analysée
+- [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez [[1083]] pendant que les ouvriers galèrent (comparaison Marie-Antoinette — "la marinette de Sofia Coppola").[^tond-jeans-prim] Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing, qu'elle soit pas en train de laver les jeans et en train de les plier à la chaîne." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
+
+[^tond-jeans-prim]: [5:40](https://www.youtube.com/watch?v=tjVIifoybys&t=340) — "la reine toujours dans la reine, elle est pas dans ses trucs d'intriganelle. Elle est candidate. Elle essaie des jeans, chez c'est Marie-Antoinette quoi [...] c'est la marinette de Sofia Coppola."
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Douceur" : hégémonie noisette, positionnement médiatique, dépendance à la primaire, fin de l'espace écolo autonome
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Affaire Karen (Zoé refuse la misogynie), catastrophique à l'Humanité sur le capitalisme, Festival de la Noisette de Bram
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
@@ -121,3 +140,4 @@ Sa primaire interne EELV est organisée contre Walid Mouali (6 800 votants) — 
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Citée en miroir de Duflot : même incapacité à répondre à la question "quoi mettre à la place du capitalisme". "Nous on sait Marine, nous on sait — ça s'appelle le communisme."
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Reine absolue des noisettes après la non-censure : perd la main sur la FI et le PS simultanément. Se félicite d'un « tiers de slip mouillé » (décalage retraite 1 trimestre pour nés 1964-1968). Incapable d'attaquer le PS. Appel PaduTeam : « tu es en slip Marine, rejoins la lutte. »
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.
+- [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Salon Mif Expo : essaie des jeans 1083, démontage du mécanisme "femme sandwich du capitalisme vert" (publicité gratuite pour une SAS capitaliste), critique du changement par la consommation, violence de classe de la sobriété imposée, alternative : jean nationalisé/socialisé sur le modèle Duralex.

@@ -23,3 +23,4 @@ Note : Squeezie s'est positionné pour voter contre l'extrême droite aux légis
 
 ## Vidéos où Squeezie est mentionné
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Le silence sur Gaza comme choix économique vs courage politique
+- [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — implicitement évoqué en creux : JDG comme contre-exemple du silence stratégique, youtuber qui "vient dans le camp"

@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-21-enrichi-w43w44
+skill_version: write-enjeu-2026-04-21-enrichi-w45w46-final
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -338,6 +338,9 @@ L'argument est matérialiste : les possédants ont l'argent et la propriété ; 
 - [[LECORNU DEJA CENSURE]] — FI confirmée comme seul groupe cohérent depuis deux ans sur la censure ; moïsation achevée ; Macron "mort" politiquement ; arithmétique de la motion de censure et rôle décisif du RN
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — validation de la prévision PaduTeam "Macron ne finira pas 2025" ; dissolution comme "politique de terre brûlée" ; même le bloc central (Attal, Philippe) dit publiquement que Macron "fait n'importe quoi"
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — Lukács sur la conscience de classe du prolétariat comme argument théorique pour l'union populaire ; "le prolétariat ne peut pas se réifier lui-même" ; Lordon comme "adversaire à la hauteur" mais insuffisant pour une renaissance communiste ; la conflictualisation comme leçon des grèves de 1948 ("CRS = SS" comme invention du prolétariat)
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — démonstration empirique (données Piketty-Cage) que Ruffin n'occupe pas l'espace populaire qu'il prétend reconquérir ; défense des deux candidatures séparées au premier tour comme permettant un débat idéologique de gauche (retraite 60 ans, nationalisations, antiracisme) vs candidature unique qui déplace le débat sur les thèmes de la droite ; "la pénurie précède le racisme" comme thèse sur les conditions de la reconquête des classes populaires votes RN
+- [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — l'écologie libérale de Tondelier (1083, capitalisme vert, consommation responsable) comme incompatible avec une politique de rupture ; la réponse programmatique (jean nationalisé/socialisé, entreprise contrôlée par les travailleurs) comme ce que l'union populaire doit porter contre le capitalisme vert noisette ; Tondelier comme refroidisseuse par un autre mécanisme : vendre l'illusion que le capitalisme peut se réformer par la consommation
+- [[SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI]] — effacement visuel de Mélenchon (12% représenté visuellement comme équivalent à Hollande 6,5%) comme outil de démobilisation de l'électorat de gauche radicale avant 2027 ; le [[Biais sondagier de droitisation]] ne passe pas que par les chiffres mais aussi par la visualisation ; le Graphique présenté comme outil de "débunker les énormes mensonges des sondeurs"
 
 [^up_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^up_buzin]: [24:47](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=1487) — "Cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes. Gardez ça en tête parce que c'est absolument clé."

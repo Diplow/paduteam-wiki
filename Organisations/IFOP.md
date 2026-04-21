@@ -22,3 +22,4 @@ Institut de sondage français, cible récurrente de la [[PaduTeam]]. Pour la Pad
 ## Vidéos où l'organisation est mentionnée
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Analyse complète du sondage IFOP 2026 sur la présidentielle
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Comparaison avec [[Odoxa]] : mêmes biais méthodologiques, mêmes résultats aberrants. Partenariat historique avec TF1 pour les estimations des soirées électorales
+- [[SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI]] — Mentionné en comparaison : la propagande visuelle de France Info est "pas le même, c'était Ifop, mais c'est le même niveau de connerie"

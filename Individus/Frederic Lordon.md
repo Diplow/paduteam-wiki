@@ -60,6 +60,16 @@ Cette séquence illustre la posture de la PaduTeam envers Lordon : adversaire in
 
 [^barrage-lordon]: [1:01](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=61) — "Frédéric Lordon qui en avril 2021 avait parlé que le prochain barrage serait le barrage. [...] C'était le 5 mars, vous pouvez aller le voir l'entretien du 5 mars 2021 avec Stefano qui a annoncé que justement le prochain barrage serait un barrage contre Jean-Luc Mélenchon."
 
+## Lordon et la thèse des déserts médicaux — contestation par la PaduTeam
+
+Dans son livre *Pulsion* (avec [[Sandra Lucbert]]), Lordon cite les déserts médicaux pour illustrer que "les gens préfèrent ne pas se faire soigner les dents plutôt qu'aller voir un dentiste roumain." La PaduTeam conteste empiriquement cet exemple à partir de l'expérience de terrain : "C'est faux. Chez moi, il y a plein de gens qui sont très racistes, mais s'il faut aller se faire soigner une dent et que le dentiste est roumain, ils vont chez le dentiste roumain." La PaduTeam formule la thèse inverse : **ce n'est pas le racisme qui précède la pénurie, c'est la pénurie qui entraîne le racisme**. Le racisme s'exprime quand les ressources sont en compétition (patient roumain qui "passe avant" à la salle d'attente), pas quand elles sont disponibles (dentiste roumain qui *fournit* une ressource absente). Lordon confond la pénurie comme cause avec le racisme comme mécanisme de gestion du désespoir.
+
+## Lordon et la question "La FI est-elle anticapitaliste ?"
+
+Début octobre 2025, Lordon publie un texte affirmant que la FI n'est pas anticapitaliste. Antoine Salis Papou lui répond que si. La PaduTeam prend position : la FI **est** anticapitaliste, et c'est précisément le problème — anticapitaliste sans être communiste, ce qui est insuffisant. Chris est en cours d'écriture d'un texte sur ce sujet au moment de la vidéo.[^fI-anticap] Voir [[Anticapitalisme vs Communisme]].
+
+[^fI-anticap]: [24:18](https://www.youtube.com/watch?v=gS_PyoZRSDE&t=1458) — "L'Ordon a ouvert le feu en faisant un texte début octobre sur 'La FI est-elle anticapitaliste ?' en disant non."
+
 ## Vidéos où Lordon est analysé
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Validation de la prophétie, discussion de son spinozisme
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Critique de "Pulsion" et de l'usage politique de la psychanalyse
@@ -69,3 +79,5 @@ Cette séquence illustre la posture de la PaduTeam envers Lordon : adversaire in
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur la psychologie marxiste, son livre "Pulsion" critiqué pour sa bibliographie trop centrée sur la psychanalyse/Spinoza
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — sa théorie des affects (remobilisation de Spinoza) est la cible principale du débat ; critique : "le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza"
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — correctif sur la paternité de la prédiction du barrage anti-Mélenchon (Positions Revue 5 mars 2021 avant Lordon en avril 2021) ; critique de son antimarxisme sur la théorie de la valeur ; défense de son courage intellectuel
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — son exemple des déserts médicaux dans *Pulsion* contesté empiriquement par la PaduTeam ; reformulation de la thèse : la pénurie précède et génère le racisme, pas l'inverse
+- [[NICOLAS FRAMONT EST-IL ANTICOMMUNISTE]] — cité pour son texte "La FI est-elle anticapitaliste ?" (oct. 2025) et pour le débat avec Piketty sur le mot "communisme"

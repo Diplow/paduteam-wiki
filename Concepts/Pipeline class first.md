@@ -44,6 +44,7 @@ La PaduTeam ne présente pas le pipeline class first comme une solution universe
 ## Vidéos où le Pipeline class first est analysé
 
 - [[INFAME EST DEVENU WOKE]] — exemple concret du pipeline class first avec Infame
+- [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — JDG comme cas de trajectoire class first atypique (du Pont de Romain → Aselino → conscience anticapitaliste) ; exemple d'un grand youtuber mainstream arrivant au "camp communiste"
 
 [^1]: [15:00](https://www.youtube.com/watch?v=dkaLuyMY-SE&t=900) — La PaduTeam présente le pipeline class first : la conscience de classe comme route de sortie du pipeline réactionnaire.
 [^2]: [20:00](https://www.youtube.com/watch?v=dkaLuyMY-SE&t=1200) — Conditions : organisations, tissu militant, division du travail pour rendre le pipeline class first possible.

@@ -58,6 +58,7 @@ La PaduTeam identifie aussi la **transformation par l'activité** comme mécanis
 - [[JVC BRAV-M DARMANIN GLUPATATE REPOND AUX ACCUSATIONS]] — économie réelle du short, modèle Canard Réfractaire, comparaison droite/gauche
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — critique radicale post-affaire Dany, distinction activité vs rapport social, intellectuel organique de classe
 - [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — affaire Linguisticae comme point de départ pour la proposition d'une [[Securite sociale des medias]] ; annonce d'un projet de fédération de créateurs militants
+- [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — JDG comme cas de youtuber mainstream (gaming/nostalgie) dont la prise de conscience anticapitaliste est un "signe des temps" ; contraste avec Squeezie (silence) et Terracid (positionnement militant assumé)
 
 [^1]: [35:56](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=2156) — "le short je pense c'est ce qui prend le plus de temps et ce qui rapporte le moins [...] tu fais des millions de vues et tu pourrais pas vivre sans avoir un tipi à côté"
 [^2]: [1:26:42](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5202) — "si les gars ils ont envie comme Papacito de se barrer en Espagne et de prendre du bon temps comme le Raptor de fonder une famille [...] les mecs ne sont plus là tu vois"

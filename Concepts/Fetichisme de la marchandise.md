@@ -45,6 +45,12 @@ Conséquence directe : "le fétichisme de la marchandise devient inefficient." U
 
 La PaduTeam note aussi que ce fétichisme n'est pas limité au secteur capitaliste privé : même des organisations militantes peuvent en être victimes si elles adoptent des logiques de mesure quantitative ("pense en termes de cartes, fais des cartes" — un dirigeant de JC transformant le recrutement militant en comptage de cartes).
 
+## Fétichisme et solutions capitalistes aux crises du capitalisme
+
+La vidéo JDG illustre une manifestation du fétichisme particulièrement utile pédagogiquement : face à la contradiction "on produit de plus en plus avec de moins en moins de gens, mais les gens n'ont plus d'argent pour acheter", la solution spontanée est le **revenu universel** — distribuer de la valeur abstraite pour que la consommation continue. Cette "solution" reste entièrement dans la forme-valeur : elle cherche à corriger la contradiction sans sortir du rapport marchand.
+
+La PaduTeam retourne la logique avec l'exemple du slip[^8] : on change de slip non parce qu'on est payé pour le faire, mais parce qu'on en a besoin. La valeur d'usage précède la valeur d'échange dans la vie réelle. "Ça n'existe pas les sociétés où les gens s'assoient par terre et attendent jusqu'à ce qu'ils meurent." Le fétichisme fait oublier que la motivation non-marchande existe déjà — dans le foyer, entre amis, dans toute activité non-salariale — et peut être généralisée.
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
@@ -55,7 +61,9 @@ La PaduTeam note aussi que ce fétichisme n'est pas limité au secteur capitalis
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Application au jankovichisme : le pétrole comme ressource naturelle "en soi" vs le pétrole comme produit des rapports sociaux capitalistes
 - [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — Application au ticketing, à la tarification à l'acte, à la politique du chiffre ; thèse de l'inefficacité structurelle comme preuve matérialiste pour le communisme
 - [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — Le livre comme marchandise fétichisée : la librairie militante "à étagères en pain" cache le laboratoire secret de la production (Sodis, pilon, loi Lang, Amazon) ; "ne soyez pas aveuglés par le fétichisme de la marchandise"
+- [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — Le revenu universel comme solution fétichiste : distribuer de la valeur abstraite pour corriger la contradiction sans sortir de la forme-valeur ; l'exemple du slip comme motivation non-marchande qui existe déjà
 
 [^5]: [31:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1911) — "ce n'est pas le pétrole en soi qui porte l'extraction d'énergie — c'est le monde moderne capitaliste, les rapports sociaux — c'est typiquement le fétichisme de la marchandise de Jankovici de croire que le pétrole en lui-même porte l'extraction énergétique"
 [^6]: [3:37](https://www.youtube.com/watch?v=oJJjXM92mjs&t=217) — "c'est vraiment la fétichisation de la marchandise. Normalement, le ticket est juste un rapport social [...] à la fin c'est fétichisé. Les mecs, ils comptent les tickets sans se poser la question de ce qu'il y a derrière."
 [^7]: [7:43](https://www.youtube.com/watch?v=oJJjXM92mjs&t=463) — "le communisme il va pas s'imposer simplement [...] parce qu'il était plus progressiste ou plus moral ou plus égalitaire. Non c'est aussi que c'est un mode de production qui va faire mieux le boulot."
+[^8]: [41:39](https://www.youtube.com/watch?v=m-tDWzrPgg0&t=2499) — "Ça n'existe pas les sociétés où les gens s'assoient par terre et attendent jusqu'à ce qu'ils meurent. [...] La société capitaliste a fabriqué ça. Des gens qui pensent que si on ne les stimule pas par de l'argent, de la monnaie et de la concurrence, la société tourne toute seule sans eux."

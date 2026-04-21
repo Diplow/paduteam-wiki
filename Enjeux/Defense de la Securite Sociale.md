@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: write-enjeu-2026-04-21-enrichi-w43w44
+skill_version: write-enjeu-2026-04-21-enrichi-w45w46
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -132,6 +132,18 @@ Arguments ajoutés au corpus de l'enjeu :
 - Les libertariens soutiennent Pinochet (coup d'État contre Allende démocratiquement élu, hélicoptères) tout en prônant la "liberté individuelle" — ils ne défendent pas la liberté des communistes.
 
 La Sécurité Sociale ne produit pas seulement de meilleurs soins à moindre coût — elle incarne un rapport de classe opposé à la logique assurancielle marchande. Le libertarianisme est une idéologie de compensation : il vend aux classes moyennes/populaires l'illusion de s'en sortir individuellement là où la solution est collective.
+
+## La bourgeoisie abandonne l'universalisme : signal historique
+
+[[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] ajoute une dimension théorique nouvelle : la bourgeoisie n'est plus seulement en train d'attaquer la Sécu en marge — elle commence à remettre en cause son principe même d'universalité.
+
+[[Nathalie Saint-Cricq]] — directrice des rédactions nationales de France Télévision, fille d'actionnaires de presse, ex-femme de Patrice Duhamel, mère de Benjamin Duhamel, nièce par alliance d'[[Amelie Oudea-Castera]], belle-nièce du PDG de Sanofi — présente l'universalité de la Sécu comme un "tabou irrationnel." Sa proposition : ne pas rembourser pareil les riches et les pauvres, les riches "pouvant se payer eux-mêmes."
+
+**Le piège de la fausse générosité** : cette proposition "paraît de gauche" — alléger les riches, concentrer les remboursements sur les pauvres. La PaduTeam déconstruit le mécanisme : c'est exactement le modèle américain. Dès que les riches ne financent plus le système universel, ils n'ont plus d'intérêt à l'entretenir. L'hôpital public devient vétuste pour les pauvres, les cliniques privées fonctionnent pour les riches. La médecine à deux vitesses n'est pas un dérapage — c'est le but.
+
+**Le conflit d'intérêts Sanofi** : les immunothérapies que Saint-Cricq voudrait financer "par les riches eux-mêmes" sont précisément les médicaments vendus à prix gonflés par des firmes comme Sanofi. MSF a démontré que les coûts réels de R&D sont 50-100 fois inférieurs aux prix annoncés. La position de Saint-Cricq n'est pas une naïveté — c'est un intérêt de classe documenté.
+
+**Signal historique** : pour la PaduTeam, c'est un marqueur de la décomposition de l'universalisme bourgeois. L'universalisme bourgeois — né révolutionnaire (1789), devenu conservateur — est maintenant remis en cause par la bourgeoisie elle-même. Preuve qu'elle est en crise profonde et qu'elle ne peut plus se permettre de financer la solidarité même formelle. "Quand une bourgeoise dit 'tabou', préparez-vous à quelque chose d'absolument dégueulasse."
 
 ## Le validisme du travail capitaliste : une attaque invisible contre la Sécu
 

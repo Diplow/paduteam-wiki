@@ -112,8 +112,20 @@ Macron avait déclaré que la censure serait « un vote pour la dissolution » p
 
 Le jour du vote de confiance, [[Boris Vallaud]] au nom du PS déclare "Nous ne pouvons pas vous faire confiance" puis annonce : "C'est la gauche arrivée en tête de gouverner. Nous sommes prêts." La PaduTeam note l'ironie : "Macron vient du Parti socialiste, donc bon, la boucle est bouclée." Pendant que la rue chauffe pour le 10 septembre, le PS se positionne pour récupérer la PM via Macron — sans le programme du NFP. La PaduTeam souligne l'arnaque EELV (Châelin demande "un PM issu des rangs du NFP") qui pourrait signifier [[Francois Hollande]] lui-même comme PM. "Demander que ce soit le programme du NFP qui gouverne et non pas une personnalité du NFP."
 
+### La Taxe Zucman comme arme anti-LFI (novembre 2025)
+
+En ne censurant pas Lecornu, le PS s'est offert le temps de prendre le lead sur la [[Taxe Zucman]], se repeindre en rouge, et mettre LFI en position défensive. Pour la PaduTeam, c'est une manœuvre calculée depuis le début. Le PS "certes ce sont les pires bâtards de l'univers [...] il ne faut pas les prendre pour des abrutis."[^pas-abrutis] La FI ne peut que suivre la proposition PS ou apparaître comme hostile aux mesures de gauche.
+
+Le PS a proposé une version "light" (1% au lieu de 1,5%) qui leur permet de maintenir l'accord avec les macronistes tout en se présentant comme forces de gauche. Adoptée à l'AN (172 NFP pour, 228 droite/extrême droite contre, sur 400 exprimés), la défaite en vote est une victoire de positionnement.
+
+La PaduTeam prévoit que le PS annoncera ensuite un SMIC à 1600€ net — "dans le programme du NFP" — pour continuer à incarner la gauche parlementaire. Si LFI reste sur la défensive, le PS prendra le lead de la gauche d'accompagnement.
+
+[^pas-abrutis]: [1:01](https://www.youtube.com/watch?v=UU4G0jEctgs&t=61) — "il ne faut pas les prendre pour des abrutis parce qu'en fait, ce sont des gens qui ont une grande habitude, des manœuvres, des petites techniques"
+
 ## Vidéos où Faure est analysé
-- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, donc il est obligé de surjouer son soutien à la primaire. Stratégie potentielle : envoyer Johanna Rolland à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec Attal sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique."
+- [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, "donc il est obligé de surjouer le côté la primaire va marcher, ça doit marcher."[^faure-surjoue] Stratégie potentielle : envoyer [[Johanna Rolland]] à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec [[Gabriel Attal]] sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique." Sa métaphore des "éléphants et souris" pour défendre la primaire est jugée nulle à chier.
+
+[^faure-surjoue]: [17:02](https://www.youtube.com/watch?v=tjVIifoybys&t=1022) — "lui il est obligé de surjouer le côté euh la primaire va marcher, ça doit marcher. [...] si tu échoues [...] viendra ce qu'il vient au valet qui ont voulu trop intriguer, qui ont échoué, vous allez sécher en place publique."
 - [[Faure oblige de trahir]] — Démonstration graphique que Faure était structurellement obligé de trahir le NFP
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Guerre interne Faure/Vallaud/Mayer-Rossignol post-municipales
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — Boris Vallaud annonce la disponibilité du PS pour gouverner dès la chute de Bayrou ; Hollande cité comme PM "issu des rangs du NFP" possible ; démontage de l'arnaque personnalité vs programme
@@ -127,3 +139,4 @@ Le jour du vote de confiance, [[Boris Vallaud]] au nom du PS déclare "Nous ne p
 - [[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] — Faure se démasque en 14 secondes face au budget Bayrou : "toujours ouvert au compromis" = stratégie de maintien de Bayrou pour préserver la boutique PS en vue de 2027 ; contraste avec Bompard qui vote la censure sans compromis.
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Inaction estivale : combinards pendant que le 10 septembre s'organise ; refus de censurer Bayrou analysé comme solidarité programmatique implicite ; 66 députés obtenus grâce à la FI utilisés contre elle
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Stratégie Faure en trois actes décortiquée (gagner du temps, se repeindre en rose, capter le macronisme de gauche) ; « valet » entre Glucksmann et Mélenchon ; trajectoire vers l'impasse politique annoncée. Annonce de la campagne "Génération Plus jamais PS".
+- [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — la Taxe Zucman comme arme anti-LFI ; non-censure de Lecornu décryptée comme investissement stratégique ; prévision SMIC à 1600€ NFP ; mise en défaut de LFI sur la bataille politique.

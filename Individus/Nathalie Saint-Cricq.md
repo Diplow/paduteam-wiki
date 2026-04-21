@@ -46,6 +46,7 @@ Son beau-neveu par alliance est le PDG de Sanofi. Les immunothérapies qu'elle v
 
 ## Vidéos où elle est analysée
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — analyse de sa proposition de mettre fin à l'universalité de la Sécu
+- [[SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI]] — citée parmi les cadres hiérarchiques responsables de la diffusion d'une infographie sondagière falsifiée et de sa correction bâclée ; "coupe suspension de salaire pendant 2 mois"
 
 [^1]: [0:00](https://www.youtube.com/watch?v=TQsW3pWt1yw&t=0) — "Nathalie Saint-Cricq la journaliste neutre et apolitique... fille des actionnaires majoritaires de la Nouvelle République du Centre-Ouest... c'est tout ça, c'est le même milieu"
 [^2]: [6:12](https://www.youtube.com/watch?v=TQsW3pWt1yw&t=372) — "c'est le modèle américain... une médecine publique très vétuste, limitée, minable... et des très belles cliniques pour très riches, inaccessibles aux gens"

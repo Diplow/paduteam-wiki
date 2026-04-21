@@ -35,3 +35,4 @@ La condition absente : les grèves de 1995 (le plus grand mouvement social depui
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Matrice comparative de la [[Gauche de droite]] : "Kamala Harris c'est vraiment le Jospin de 2002" américain, même incompréhension du rapport de force politique
 - [[LA BRECHE LEGALISATION DROGUES AFFAIRE ANDY KERBRAT LFI]] — cité pour le rapport Roques et la tentative avortée de légalisation du cannabis fin des années 1990
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Le PS prétend s'inspirer de son plan, mais sans le mouvement social de 1995 qui l'avait rendu gagnant ; résultat prévisible = 2002 bis
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — Jospin cité comme soutien du tracte de second tour de Ruffin aux législatives 2024, illustration du retournement de veste (avec Glucksmann, Hollande, Bayrou — "François Ruffin n'a rien à voir avec Jean-Luc Mélenchon")

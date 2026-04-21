@@ -118,6 +118,21 @@ La PaduTeam formalise l'image des noisettes « en slip dans une cave » à propo
 
 [^noisette-slip]: [13:27](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=807) — « Ils nous ont kidnappé, ils nous ont mis dans une cave tout nu. [...] Marine dit "OK, tu vas avoir le droit à un slip ?" [...] Un tiers de slip mouillé. »
 
+## Le roi des noisettes avoue sa stratégie (novembre 2025)
+
+Ruffin confirme qu'il abandonne la stratégie de reconquête des territoires populaires RN pour aller chercher les décrocheurs du bloc central. La PaduTeam reformule : "il veut aller chercher les électeurs de Glucksmann." C'est le mécanisme noisette dans sa forme la plus pure — non pas la synthèse des deux blocs (LFI + PS), mais le glissement vers le bloc PS/centre au détriment de l'espace de rupture. Formulation : "Un autre Glucksmann est possible." Données électorales (Piketty/Cagé) confirment que sa circo est semi-urbaine, faible en ouvriers-employés — "toute sa fable est bidon de A à Z."
+
+## La primaire comme façade anti-LFI (novembre 2025)
+
+L'annonce officielle de la primaire des noisettes (15 novembre 2025) révèle le mécanisme dans sa forme complète. La PaduTeam développe deux arguments qui s'articulent :
+
+**Pourquoi deux candidats valent mieux qu'un** : avec une candidature unique, le premier tour se joue sur les thèmes de la droite (immigration, identité). Avec deux candidats à gauche (gauche de rupture + gauche réformiste), le premier tour se joue sur la retraite à 60 ou 62 ans, les nationalisations, la Palestine — "créant une dynamique de second tour."[^noisettes-2candidats] La noisette candidate unique tue cette dynamique.
+
+**Les réunions secrètes révèlent la vraie stratégie** : pendant que la "gauche unitaire" affiche l'union, Le Figaro révèle une réunion secrète PS-Écologistes-[[Gabriel Attal]] dans un bureau de l'Assemblée nationale — objectif : trouver des compromis budgétaires pour isoler LFI. "Ils discutent avec Attal pendant que ça fait la primaire."[^noisettes-secret] La primaire de l'union est une stratégie anti-rupture.
+
+[^noisettes-2candidats]: [24:13](https://www.youtube.com/watch?v=tjVIifoybys&t=1453) — "la campagne du premier tour à la présidentielle va se faire sur des thèmes de gauche. On va discuter sécurité sociale à 100% ou pas" — dans [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]]
+[^noisettes-secret]: [29:52](https://www.youtube.com/watch?v=tjVIifoybys&t=1792) — "ils discutent avec Attal pendant que ça fait la primaire" — dans [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]]
+
 ## Vidéos clés
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
@@ -135,3 +150,5 @@ La PaduTeam formalise l'image des noisettes « en slip dans une cave » à propo
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Les noisettes originelles, les plus belles, les plus grandes, les plus bio" : EELV présentée comme prototype historique de la noisette. Duflot comme cas d'école de l'impasse noisette poussée jusqu'au bout.
 - [[LECORNU DEJA CENSURE]] — GDR et écolos comme "dindons de la farce — la farce aux noisettes"
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Hiérarchie complète du royaume post-non-censure Le Cornu 1 : reine (Tondelier), baron (Corbière), comtesse (Autain), valet (Fort/Faure), roi (Ruffin), bouffon (Roussel). Concept de la noisette « en slip dans une cave » pour le deal retraites. : participent aux consultations de Macron, donnent du "temps républicain" à un gouvernement qu'ils prétendent censurer. [[Dominique de Villepin]] analysé comme "noisette des noisettes" : se pose en recours au-dessus de la mêlée, prédit à 3-4%.
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — aveu de la stratégie noisette dans sa forme complète : abandon des classes populaires RN pour les décrocheurs du bloc central. Ruffin = "un autre Glucksmann possible." Données cartographiques qui démentent la fable géographique. Double tracte comme retournement de veste documenté.
+- [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Tondelier "reine des noisettes" dans sa dimension capitalisme vert : son écologie de boutiquiers (jean 1083, "perma industrie") est la face consumériste de la noisette bio — ni programme, ni rupture, juste du marché de niche progressiste.

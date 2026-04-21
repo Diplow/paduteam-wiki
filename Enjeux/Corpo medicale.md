@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [société, économie]
 thèmes: [santé, corpo-médicale]
-skill_version: ingest-batch-2026-04-14
+skill_version: write-enjeu-2026-04-21-enrichi-w45w46
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -50,6 +50,14 @@ Le [[Conseil de l'Ordre des Medecins]] est plus efficace à sanctionner les méd
 Une fraction de la corpo médicale produit activement du mépris de classe envers les patients comme idéologie structurelle — pas comme dérapage individuel. [[Vie de Carabin]] en est l'exemple analysé : ses BD systématisent l'idée que les urgences débordent parce que "les patients sont cons." La PaduTeam retourne chaque exemple : les patients aux urgences ne viennent pas "pour rien" — ils n'ont pas d'autre point d'accès. L'absence de médecins généralistes disponibles en soirée (pénurie organisée) et l'absence de lits d'aval sont des choix politiques, pas des comportements individuels. Le même mépris culmine en logique eugéniste : Carabin propose un "permis de procréer" ciblant les femmes en situation précaire qui consomment alcool ou tabac pendant la grossesse — la PaduTeam décortique : c'est du misogynie de classe, ces femmes ont des addictions (pathologie médicale), des contraceptions non fiables, et sont souvent seules après abandon du père.
 
 Ce mépris a une fonction politique identifiée par la PaduTeam : le "petit chef qui ne forme jamais son équipe mais se plaint d'être dérangé" reproduit une asymétrie de pouvoir. Refuser de dispenser le savoir médical (formation à la santé, IA médicale encadrée) n'est pas de l'incompétence — c'est un choix de position supérieure. "Moi je sais, toi tu sais pas."[^7]
+
+### Les grèves corporatistes comme révélateur : quand les rentiers font grève
+
+[[17 700 EUROS MOIS LES RADIOLOGUES FONT GREVE]] ajoute un argument décisif au corpus : la **grève de droite** comme miroir grossissant de la conscience de classe corporatiste. Les radiologues privés font grève à plus de 80% pour défendre une rente documentée par le rapport Ligas de l'[[Assurance Maladie]] — des forfaits techniques qui couvrent 163% du coût réel des machines, des marges de 16% en radiologie, 23% en biologie, 27% en radiothérapie. Le directeur de l'AM [[Thomas Fato]] les qualifie lui-même de "rentiers."
+
+Ce que cette grève révèle pour l'enjeu : une "conscience de classe de zinzin" qui se mobilise à 80% pour défendre une rente — taux record — mais ne mobilise jamais pour les conditions de travail des internes qui se suicident 1 tous les 18 jours, ni pour la [[Penurie de medecins|pénurie de médecins]], ni pour les urgences en plan blanc. Cette sélectivité n'est pas une incohérence — c'est la définition même de la conscience corporatiste : se mobiliser uniquement pour défendre des privilèges.
+
+**Le repositionnement tactique PS sur la santé** : l'amendement de [[Sandrine Runel]] (PS), adopté à l'Assemblée nationale, confie au ministre de la Santé le pouvoir de réduire les tarifs des actes à rentabilité excessive. Pour la PaduTeam, c'est un **repositionnement tactique du PS à gauche sur la santé** — après des décennies de libéralisation (le PS a introduit la T2A). Ce repositionnement est limité (sur les rentabilités excessives, pas sur la structure du système), mais il signale que même la droite de la gauche commence à bouger face à la pression populaire sur les dépenses de santé. À ne pas confondre avec un programme de gauche structurel.
 
 ### La délégation de tâches comme solution d'urgence contre le monopole médical
 
@@ -109,6 +117,8 @@ La psychiatrie hérite de la prison asilaire du XIXe siècle — une discipline 
 **2024** (MÉDECINS MENTENT, AUJOURD'HUI TON VILEUR, RADIOLOGUES) : La PaduTeam construit patiemment l'argument sur la pénurie, la rémunération, les VSS. Ton analytique, parfois ironique. Marche sur des œufs juridiquement (confraternité). La critique est sanitaire : "ça va mal pour les soins".
 
 **2025** (CARABIN, MANIFESTATIONS, LFI, LÉAUMENT) : Radicalisation visible. La PaduTeam nomme franchement "la frange la plus réactionnaire de la corporation médicale" et son alliance avec le néolibéralisme. La critique devient **politique de classe** : "la pénurie est un choix, non une fatalité". Propose la fonctionnarisation et la fin de la médecine libérale comme horizon.
+
+**Automne 2025** (RADIOLOGUES, LÉAUMENT batch 28) : La critique de la tarification à l'acte et du financement public privatisé atteint sa formulation la plus documentée. Le rapport Ligas de l'Assurance Maladie chiffre précisément les rentabilités excessives. La grève des radiologues à 80% sert de cas d'école pédagogique sur la "conscience de classe de zinzin" corporatiste. Nouveau : l'amendement Runel (PS) sur les rentabilités excessives signale un repositionnement tactique du PS, analysé comme insuffisant mais notable.
 
 La PaduTeam étend sa critique au **champ psychiatrique** (mars 2025). La psychiatrie asilaire est analysée comme héritière de la prison, avec ses neuf UMD en France. La position n'est pas antipsychiatrique — elle défend les germes progressistes (ambulatoire, pairs aidants) et s'attaque aux pratiques sécuritaires. La critique vise aussi le vocabulaire normalisateur tenu par les professionnels dans les espaces de vulgarisation grand public.
 

@@ -29,9 +29,18 @@ La [[Taxe Zucman]] est une "brèche" utile — la PaduTeam la laisse faire sans 
 - [[Parti Socialiste]] — porte la [[Taxe Zucman]] comme exigence de non-censure du gouvernement Lecornu dans le budget 2026
 - [[Olivier Faure]] — s'en sert pour se positionner à gauche tout en produisant un budget hollandiste
 
+### Zucman face aux journalistes dominants (novembre 2025)
+
+La PaduTeam commente un extrait où Zucman est invité sur une chaîne France Télé et doit expliquer sa taxe à un journaliste qui prétend la corriger — alors que Zucman en est l'inventeur. Formulation PaduTeam : "Frère, c'est moi qui l'ai inventé, je peux m'exprimer. Tu vois, c'est comme s'il y a des gars qui allaient m'expliquer à moi le sein graphique."[^inventeur] L'insolence des intervieweurs face aux experts qui les dérangent est identifiée comme un symptôme structurel de l'idéologie dominante.
+
+Dans cet extrait, Zucman explique clairement le mécanisme : les patrimoines cibles sont pour moitié des actions cotées en bourse (LVMH, L'Oréal — "valeur de marché observable"), pour moitié des entreprises non cotées évaluées par comparaison sectorielle. L'impôt est dû indépendamment des dividendes versés — ce que les milliardaires ne peuvent pas accepter en principe.
+
 ## Vidéos où Zucman est analysé
 
 - [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]]
+- [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — extrait TV, défense du mécanisme face à un journaliste, valorisation des entreprises non cotées, ~20 milliards de rendement estimé
+
+[^inventeur]: [4:39](https://www.youtube.com/watch?v=UU4G0jEctgs&t=279) — "Frère, c'est moi qui l'ai inventé, je peux m'exprimer. [...] c'est comme s'il y a des gars qui allaient m'expliquer à moi le sein graphique"
 
 [^aurore]: [8:16](https://www.youtube.com/watch?v=OOcX-XbD57k&t=496) — "Zucman ses propositions elles sont acceptables par Aurore Laluc."
 [^excuses]: [23:11](https://www.youtube.com/watch?v=OOcX-XbD57k&t=1391) — "Arrêtez de vous excuser en fait. [...] tu es pour taxer parce que aussi tu es dans un combat contre quelque chose qui s'appelle la bourgeoisie."

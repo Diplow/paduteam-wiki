@@ -37,6 +37,7 @@ Les notes des agences de notation (Fitch, etc.) illustrent le mécanisme : elles
 ## Vidéos où le concept est développé
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — évoquée comme voie du "communisme du 21e siècle"
 - [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — démontage complet de la rhétorique "dette et dépenses publiques" ; la dette = somme des intérêts payés aux banques sur une monnaie auto-produite ; les agences de notation comme instrument du racket ; privatisation = coût supérieur (18% PIB santé aux USA vs 12% en France)
+- [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — proposée comme alternative radicale à la Taxe Zucman pour LFI ; explication du circuit banque centrale → banque privée → taux d'intérêt → pression politique ; lien entre Bretton Woods (années 70) et la dette française actuelle ; Stéphanie Kelton et Warren Mosler mentionnés comme références
 
 [^racket]: [19:32](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=1172) — « c'est comme si moi je disais je suis endetté de ouf alors que la seule monnaie qui existe réelle, c'est la mienne que moi j'imprime dans mon garage. »
 [^notation]: [35:04](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=2104) — « quand vous voyez des gens avoir une bonne note chez Fitch, ce n'est pas la performance de leur économie, c'est leur degré de soumission au marché financier et de rentabilité de profit et bancaire. »
