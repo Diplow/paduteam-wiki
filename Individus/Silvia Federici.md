@@ -18,3 +18,4 @@ Chris considère que la pensée de Federici et Fortunati "devient un peu datée"
 
 ## Vidéos où Federici est mentionnée
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — citée comme précurseur de Sara Farris, avec des analyses jugées datées
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — mobilisée avec Leopoldina Fortunati et Dalla Costa pour théoriser le patriarcat comme mode de production qui reproduit gratuitement la force de travail nécessaire au capitalisme

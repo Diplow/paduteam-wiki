@@ -15,3 +15,4 @@ Confédération Générale du Travail, principal syndicat français. Mentionnée
 
 ## Vidéos où l'organisation est mentionnée
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Mention de la CGT chômeurs
+- [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]] — CGT critiquée pour attentisme vis-à-vis du mouvement étudiant 2025 ; soutien financier réel à Poitiers mais bureaucratisation du national pointée du doigt

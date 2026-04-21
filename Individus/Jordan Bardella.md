@@ -86,6 +86,7 @@ La PaduTeam : "Bardella, ça aucun intérêt pour lui trahir... il va juste part
 
 ## Vidéos
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
+- [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud : Bardella remis au premier plan par la condamnation, plus libéral que Le Pen, peut s'allier avec Retailleau — appel d'air droitier
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Analyse post-condamnation Le Pen : le dilemme Bardella amplifié, scénario trahison Chirac 74, pire config pour la gauche
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Saute sur l'opportunité du cordon sanitaire inversé offert par Bergé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]

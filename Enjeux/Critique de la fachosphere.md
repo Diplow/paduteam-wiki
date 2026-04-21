@@ -56,6 +56,12 @@ Un vidéaste anonyme qui "juge tout le monde" depuis derrière un écran incarne
 
 Le panorama que la PaduTeam dresse est intentionnel : Frustration Magazine, Histoires Crépues, Glupatate au [[Canard Refractaire|Canard Réfractaire]], Zawa Prod, leur propre organisation interne. "On est en train tous de faire ce que n'ont jamais été foutus de faire les droitards." La droite n'a pu se structurer que quand une puissance d'argent bourgeoise (Bolloré, V+, la chaîne de Georges) lui a fourni les moyens — ce n'est pas de l'organisation, c'est du financement.
 
+### La normalisation comme piège de la droitsphère YouTube
+
+La trajectoire de [[Valek]] (analysée via [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]]) révèle un paradoxe structurel pour la fachosphere YouTube : en 2014, produire du contenu identitaire-raciste sur JVC était "transgressif." En 2025, allumer CNews donne la même chose. Les nouveaux influenceurs d'extrême droite "ont du mal à percer parce qu'il suffit d'allumer sa télé pour avoir la même chose" — les médias mainstream (Bolloré, V+) ont normalisé et institutionnalisé les contenus de la droitsphère, la rendant redondante.
+
+La PaduTeam tire la leçon inverse pour elle-même : la gauche radicale est en train de monter sur YouTube précisément parce qu'elle est ostracisée des plateaux télévisés. L'exclusion des médias dominants est une condition de la montée des audiences alternatives. Ce qu'était la transgression de la droite en 2014, c'est aujourd'hui la fonction de la gauche radicale sur YouTube — être ce que les médias mainstream ne permettent pas d'entendre.
+
 ## Concepts associés
 
 [[Moisation]], [[Soralisme]], [[Masculinisme]], [[Capitalisme masculiniste]], [[Fetichisme de la marchandise]]
@@ -127,3 +133,4 @@ Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. Os
 - [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — SLAPP retournée ; le tribunal qui note que ses propres propos "sont susceptibles de caractériser des infractions" ; la procédure bâillonnante comme stratégie risquée pour qui tient des discours masculinistes infractions
 - [[DE WOKE A FACHO SLAPP RACONTE SA REDPILL]] — redpill bourgeoise sans conditions matérielles ; le template du "militant de gauche nul" → droite ; fascination japonaise comme trope masculiniste normi
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — masculinisme marchand : pseudo-science éthologique, monétisation de la frustration masculine, MGTOW comme aboutissement logique
+- [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — normalisation de l'extrême droite par les médias mainstream (CNews double la fachosphere YouTube) ; la transgression de droite en 2014 = le mainstream en 2025 ; la gauche radicale monte sur YouTube précisément parce qu'ostracisée des plateaux ; pipeline JVC → complotisme → libertarianisme comme démonstration du boutiquierisme sans débouché politique

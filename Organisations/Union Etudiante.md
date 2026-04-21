@@ -30,3 +30,4 @@ Pour la PaduTeam, ce communiqué révèle que l'organisation a elle-même couver
 
 ## Vidéos où l'Union Etudiante est mentionnée
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]]
+- [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]] — L'UE coordonne [[Union Pirate]] dans le mouvement national 2025 ; appel à des journées nationales de mobilisation

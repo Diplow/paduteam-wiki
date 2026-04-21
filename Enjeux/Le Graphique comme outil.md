@@ -79,6 +79,18 @@ Deux vidéos défendent le Graphique contre des adversaires qui lui reprochent s
 - **[[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]]** : Soral accuse la PaduTeam de fixer les classes comme en 1870. La réponse : le Graphique repart des nomenclatures PCS INSEE pour montrer que le salariat représente 90% de la population — c'est Soral le fixiste, pas la PaduTeam.
 - **[[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]]** : Chouard défend le tirage au sort comme alternative démocratique. La PaduTeam propose à la place le **parlement du travailleur collectif** (Clouscard) : une composition de classe qui respecte les 20% d'ouvriers, 25% d'employés, etc. "Après on peut tirer au sort dans les classes si ça fait plaisir à Étienne."
 
+## Le Graphique face à l'idéalisme des "99%"
+
+[[Debunk Graphique Bad Mulch]] constitue l'explication technique la plus détaillée jamais faite sur le fonctionnement interne des deux axes. Face à [[Bad Mulch]] — streamer qui défend une vision binaire "1% bourgeois vs 99% travailleurs" — la PaduTeam démontre :
+
+- **L'axe horizontal** est construit à partir de la composition du patrimoine des PCS (données INSEE) : plus le patrimoine est composé de capital d'entreprise, plus on est à droite. Le statut de fonctionnaire pondère vers le centre.
+- **L'axe vertical** reflète la position dans la hiérarchie de la division sociale du travail selon la nomenclature PCS INSEE — ce n'est pas le revenu qui compte, c'est la place dans la chaîne de commandement.
+- **Travail vs force de travail** : Bad Mulch confond les deux. Un artisan travaille mais ne loue pas sa force de travail — c'est le rapport social (location à un propriétaire) qui définit le prolétariat, pas l'activité. La petite bourgeoisie + bourgeoisie représente environ 10% de la population, pas 1%.
+- **L'hétérogénéité du salariat** : un ingénieur à 5000€ et un ouvrier à 1400€ sont tous deux exploités, mais n'ont pas les mêmes rapports de production, les mêmes structures mentales, ni les mêmes débouchés politiques. L'abstraction "99%" empêche précisément de comprendre cela.
+- **Le paradoxe des alliances** : quand les partis de gauche font séparément ~32%, le NFP unifié plafonne à 27-28%. Le PS dans l'alliance fait fuir des électeurs vers Macron ou l'abstention. La vision des "99%" conduit à des alliances qui affaiblissent, pas des alliances qui gagnent.
+
+La PaduTeam caractérise Bad Mulch comme un "ingénieur politique" — un profil de cadre qui résout des problèmes sur PowerPoint "indépendamment de savoir si ce possible là est réalisable vu la configuration sociale actuelle."
+
 ## Adversaires de cette position
 - [[Norman Ajari]] : le Graphique n'est que de la "sociologie électorale"
 - Les "gauchistes maximalistes" qui veulent le même programme pour tous
@@ -86,6 +98,7 @@ Deux vidéos défendent le Graphique contre des adversaires qui lui reprochent s
 - [[Marine Tondelier]] et la ligne EELV : "branler la nouille avec des concepts" = démagogie qui prétend que les classes populaires ne comprennent pas la théorie
 - [[Alain Soral]] : accuse le Graphique de "fixisme marxiste des années 1840" — la PaduTeam retourne l'accusation
 - [[Etienne Chouard]] : préfère le tirage au sort à une constituante de classe
+- [[Bad Mulch]] : vision idéaliste des "99%", confusion travail/force de travail, PowerPoint sans ancrage dans les rapports sociaux concrets
 
 ## Concepts associés
 [[Graphique]], [[Conscience et sujets collectifs]], [[Conscience possible]], [[Integration du proletariat]], [[Epistemologie marxiste]], [[Diagonale de pouvoir]], [[Barycentre electoral]], [[Conflictualite interne aux classes populaires]], [[Moisation]], [[Periode de confusion]], [[Proletarisation des cadres]]
@@ -101,3 +114,4 @@ Deux vidéos défendent le Graphique contre des adversaires qui lui reprochent s
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — explication approfondie : diagonale de pouvoir, espaces révolutionnaire et réactionnaire, application médicale, socialisation vs désocialisation
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — application aux profils familiaux : chaque "type de tonton" cartographié comme conscience possible et cible stratégique distincte
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — le positionnement bourgeois confus de Tondelier démontré par le Graphique ; la condescendance de classe comme refus de la formation politique
+- [[Debunk Graphique Bad Mulch]] — explication technique la plus détaillée des axes ; critique de la vision "99% vs 1%" ; hétérogénéité du salariat ; paradoxe NFP (alliance affaiblissante) ; profil "ingénieur politique" comme adversaire type du Graphique

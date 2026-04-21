@@ -42,6 +42,20 @@ La logique : si le patriarcat isole toutes les femmes de la même façon, alors 
 
 La PaduTeam : "C'est la seule et dernière discrimination qui leur reste" — pour les femmes bourgeoises blanches qui ont "éradiqué" les autres discriminations, le sexisme devient le seul enjeu, ce qui explique le surinvestissement.
 
+### Le "Pacte" comme cas d'école de la sororité bourgeoise
+
+Le "Pacte" (appel public de féministes invitant à la solidarité entre toutes les femmes, y compris Marine Le Pen et Georgia Meloni) est analysé dans [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] comme le cas le plus caricatural de la logique de sororité bourgeoise. La PaduTeam y articule trois thèses :
+
+1. **La vision idéaliste-bourgeoise** : "on prend un aspect de la totalité — la domination de genre — et on réduit la totalité à cet aspect." C'est une mauvaise digestion de Christine Delphy (*L'ennemi principal*), qui avait précisément cherché à articuler le genre aux autres dominations.
+
+2. **Le "peuple des femmes" comme fausse conscience** : "l'idée de peuple des femmes, c'est une fausse conscience qui masque le rapport de certaines femmes, de certaines classes et de certaines races qui en exploitent d'autres à l'intérieur." Le même mécanisme que le "peuple de France" populiste.
+
+3. **Le travail domestique sous-traité** : les femmes bourgeoises blanches s'extraient du travail domestique "par la sous-traitance salariale de femmes souvent de classe inférieure et souvent racisées." La sororité entre une bourgeoise parisienne et sa nounou africaine est structurellement impossible — elle exploite l'autre.
+
+Le Pacte dépolitise en chargeant les femmes de gérer la violence des hommes : "l'immense majorité des attaques sexistes et antiféministes viennent d'hommes. Je vois pas pourquoi on n'irait pas attaquer le sexisme en soi plutôt que demander aux femmes d'être en sororité avec des femmes avec qui on n'est pas d'accord et qui jouent contre nos droits."
+
+**Le féminisme idéaliste comme idiote utile du patriarcat** : "le surinvestissement abstrait des féministes bourgeoises est l'idiot utile du patriarcat."
+
 ## La précarité économique, pas le féminisme, empêche les familles
 
 Face au discours réactionnaire selon lequel les "valeurs familiales disparaissent" à cause du féminisme, la PaduTeam oppose une lecture matérialiste stricte : ce qui empêche les gens d'avoir des enfants, c'est l'intérim, l'absence de CDI, la spéculation immobilière et les 50 m² d'appartement. La norme hétérosexuelle familiale reste dominante en France — c'est la précarité économique structurelle qui empêche de fonder une famille, pas le féminisme. L'argument masculiniste (le féminisme = guerre contre la famille) masque les déterminants matériels et dédouane le capitalisme.
@@ -228,7 +242,7 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage de la récupération d'extrême droite, formulation de ce que l'extrême droite veut vraiment
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — bilan structurel : "et maintenant ?", responsabilité collective, banalité du viol (Arendt), masculinités vertueuses
 - [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage personnel de Zoé, documentaire France 2, militantisme du témoignage
-- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — critique du "Pacte sororité" ; définition du concernisme féministe bourgeois ; la PaduTeam : "Je ne considère pas Marine Le Pen comme ma sœur"
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — critique du "Pacte sororité" ; définition du concernisme féministe bourgeois ; "peuple des femmes" comme fausse conscience ; travail domestique sous-traité aux femmes racisées comme preuve structurelle de l'impossibilité de la sororité interclasse ; thèse de la "dernière discrimination" développée ; capitalisme masculin comme dialectique (ni synthèse ni opposition totale) ; la PaduTeam : "le surinvestissement abstrait des féministes bourgeoises est l'idiot utile du patriarcat"
 - [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — analyse du parcours identitaire de Thaïs comme anti-modèle
 - [[PAYE TA DROITARDE 4.2 THAIS D ESCUFON COACH LES INCELS POUR FAIRE DES BEBES BLANCS]] — connexion antiféminisme / agenda nataliste identitaire
 - [[THAIS LES VSS L ONT RENDUE NAZIE]] — le mécanisme VSS → radicalisation droite comme absence de féminisme matérialiste

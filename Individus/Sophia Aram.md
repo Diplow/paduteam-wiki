@@ -38,3 +38,4 @@ Elle défend le voile comme "pas un embellissement" — pour la PaduTeam : "Derr
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Tentative de rapprochement LFI/Le Pen le jour de sa mort
 - [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Molière + discours Gaza ; universalisme abstrait ; inversions complotistes
 - [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA ; discours islamophobie/antisémitisme ; "vision George W. Bush"
+- [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — mentionnée dans le contexte du débat sur la sororité avec Le Pen (voir contexte vault)
