@@ -60,7 +60,31 @@ Après la victoire de [[Zohran Mamdani]] à New York sur un programme [[Democrat
 
 **Retour opérationnel pour LFI** : la PaduTeam conseille de ne *pas* revendiquer le programme NFP (« ils vont le faire [le PS] ») mais de revendiquer un programme *plus à gauche que le NFP* — l'alignement DSA, qui permet de réassigner structurellement le PS au centre-droit.
 
+## Congrès de Nancy (juin 2025) — la ligne "Mélenchon soft"
+
+[[Olivier Faure]] est réélu premier secrétaire. [[Boris Vallaud]] fait ~20% au premier tour et fait pencher la balance. [[Nicolas Mayer-Rossignol]] représente l'aile anti-LFI intransigeante. Deux stratégies s'affrontent :
+
+- **Ligne Fort** : pas d'alliance nationale avec la FI, mais "je parle à tous les électeurs de gauche" — cherche à capter l'électorat FI en adoptant un registre moins clivant. Objectif : fracturer la FI, récupérer son aile droite[^nancy-fracture].
+- **Ligne Mayer-Rossignol/Glucksmann** : affrontement frontal avec la FI, construction d'une gauche sur les "débris de Macron", électorat des déçus du centre.
+
+La PaduTeam souligne l'absurdité de la ligne Fort : le PS représente ~2% dans les sondages, la FI ~22% — "quand tu fais toi-même 2% et que l'extrême gauche entre guillemets fait 22%, tu es un peu obligé quand même de débattre avec eux"[^nancy-debat]. Fort "est même dépendant de leur programme" — il reproduit les positions FI (Gaza, génocide) après coup, non par conviction mais pour ne pas perdre des électeurs.
+
+La "clé de voûte" Fort entre les deux : essaie d'être ni pro-union totale (FI) ni anti-union totale (Glucksmann). Pour la PaduTeam, cette position est intenable — "il y a pas d'espace pour une troisième gauche" entre un bloc FI et un bloc Glucksmann[^nancy-espace].
+
+[^nancy-fracture]: [3:39](https://www.youtube.com/watch?v=109fM1CEu9Q&t=219) — "Je pense qu'en fait ce qu'il veut c'est fracturer la FI" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+[^nancy-debat]: [9:26](https://www.youtube.com/watch?v=109fM1CEu9Q&t=566) — "quand tu fais toi-même 2% et que l'extrême gauche entre guillemets fait 22%, tu es un peu obligé quand même de débattre avec eux" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+[^nancy-espace]: [20:22](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1222) — "s'il y a un bloc central, imaginons il y a un Glucksmann [...] et qu'il y a la FI, il y a pas d'espace pour une troisième gauche entre les deux" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+
+## Le PS comme parti du grand capital — le cas Jamet
+
+[[Marc-Antoine Jamet]], maire PS de Val-de-Reuil et secrétaire général du groupe LVMH, illustre la dégénérescence structurelle : "Au PS, au Parti socialiste entre guillemets, ils ont des gars qui sont secrétaire général du groupe LVMH, c'est incroyable comme truc."[^jamet-lvmh] Il cumule ~22 postes publics et privés (LVMH, CNED, Jardin d'Acclimatation, Tour Eiffel, etc.) tout en étant élu local. Son oncle Alain Jamet est membre fondateur du Front National ; sa cousine France Jamet est députée européenne RN. La PaduTeam : "devrait y avoir un statut qui dit si vous êtes secrétaire général de LVMH, vous ne pouvez pas être dans le parti communiste."[^jamet-statut]
+
+[^jamet-lvmh]: [7:15](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=435) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
+[^jamet-statut]: [31:58](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1918) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
+- [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
+- [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Portrait de Jamet comme incarnation de la dégénérescence PS : secrétaire général LVMH + maire PS + ~22 postes cumulés, neveu d'un fondateur du FN

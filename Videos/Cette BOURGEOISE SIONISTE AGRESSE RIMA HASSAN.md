@@ -44,7 +44,7 @@ CNews, TPMP, [[CGT]]
 [[Discours genocidaire]], [[Double mesure]], [[Lawfare]]
 
 ## Enjeux avancés
-[[Répression des pro-Palestine]] — La haine de Rima Hassan incarnée par la bourgeoisie sioniste ; les menaces et le harcèlement permanent qu'elle subit ; l'asymétrie judiciaire (discours génocidaire impuni vs militants pro-Palestine poursuivis)
+[[Repression des pro-Palestine]] — La haine de Rima Hassan incarnée par la bourgeoisie sioniste ; les menaces et le harcèlement permanent qu'elle subit ; l'asymétrie judiciaire (discours génocidaire impuni vs militants pro-Palestine poursuivis)
 [[Palestine libre]] — Analyse du discours génocidaire comme révélateur de l'idéologie coloniale israélienne ; la connexion entre sionisme de confort bourgeois et génocide en cours
 
 ## Transcript

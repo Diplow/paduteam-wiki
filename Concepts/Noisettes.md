@@ -73,6 +73,18 @@ La PaduTeam décline le terme selon la variante marketing de chaque noisette :
 
 Toutes ces déclinaisons partagent le même discours fondamental : "la menace fasciste est aux portes du pouvoir, faisons l'union." Aucune n'analyse pourquoi l'extrême droite grandit (les 40 ans de renoncements de la gauche).
 
+## La mécanique sondagière des noisettes
+
+Les noisettes sont systématiquement "données gagnantes au second tour" dans les sondages hypothétiques. Mécanisme : un face-à-face sondagier Édouard Philippe vs Marine Le Pen ou Mélenchon donne Philippe gagnant — parce que les deux polarisent et que personne ne connaît vraiment Philippe. "Demain faites un sondage Macron contre Édouard Philippe — Philippe va gagner parce que Macron est tellement détesté." Mais "tu n'y es pas frérot"[^noisette-sondage]. Tant que les deux pinces du casse-noisette (LFI et Glucksmann/Retailleau) ne se sont pas resserrées, la noisette se croit gagnante — jusqu'à l'écrasement.
+
+[^noisette-sondage]: [22:26](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1346) — "les noisettes sont toujours donnés à des 20% gagnants au second tour [...] c'est les gars qui disent au second tour j'ai gagne. Oui, mais tu n'y es pas frérot." — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+
+## Analogie Kamala Harris
+
+La logique noisette est structurellement identique au barragisme américain : "Si vous ne voulez pas Trump, vous m'avez moi." Résultat : Harris s'est fait écraser, plus que Clinton 8 ans auparavant, contre un Trump sans dynamique particulière. "Les gens ne se déplacent pas pour faire barrage au pire." La formulation noisette française — "l'extrême droite est aux portes du pouvoir, on ne peut pas se diviser" — reproduit exactement ce mécanisme perdant[^noisette-harris].
+
+[^noisette-harris]: [6:46](https://www.youtube.com/watch?v=109fM1CEu9Q&t=406) — "Harris n'a pas simplement perdu, elle s'est fait écraser [...] les gens ne se déplacent pas pour faire barrage au pire parce que la situation de crise est tellement avancée" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
+
 ## Vidéos clés
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
@@ -84,3 +96,4 @@ Toutes ces déclinaisons partagent le même discours fondamental : "la menace fa
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Analyse des noisettes (Ruffin, Tondelier, Fort) dans le contexte de la primaire ; Tondelier = "Nathalie Arto des gens en haut au milieu dans le graphique" ; les noisettes seront condamnées aux candidatures de témoignage ; analogie culinaire (mélanger couscous+raclette+cassoulet = immangeable)
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — Lancement de [[Debout]], candidature noisette commune à 6,1% avec [[L'Apres]] et Génération. "La tournée des bours et des tours Michel Sardou." Universités d'été communes = rassemblement des losers noisettes
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — "Noisette locale et fair trade" : déclinaison bio de la noisette classique. Même discours que toutes les noisettes sur la menace fasciste, sans analyser les renoncements de la gauche qui ont fabriqué le terreau de l'extrême droite.
+- [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanique sondagière des noisettes ; analogie Harris/Trump ; Faure comme noisette girouette ; Édouard Philippe comme "vraie noisette" de droite.

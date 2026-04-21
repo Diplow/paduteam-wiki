@@ -31,7 +31,16 @@ La structure nationale des JC est "cadenassée" par le PCF et reste rousselliste
 
 La PaduTeam distingue : "Vous allez avoir des JC assez radicales avec une ligne réellement communiste qui se rapproche de la mienne, et le national des JC qui est plutôt cadenassé par le PCF et qui est plutôt rousselliste."
 
+## Purge de la JC Nord-92 pour soutien à la Palestine (2025)
+
+Le MJCF a purgé un camarade de la JC Nord-92 (animateur de la chaîne YouTube "Pensez rouge") pour avoir "défendu avec sa section le peuple palestinien et sa résistance". La JC Nord-92 a quitté le MJCF en solidarité et s'est constituée en JC indépendante, se mettant "à disposition de toutes les organisations communistes".
+
+La PaduTeam relie cet épisode à l'intervention de Guedj au congrès PS : même mécanisme structurel — les partis mourants "sélectionnent les pires profils, des mecs qui veulent un poste d'adjoint dans une mairie de merde, et vont purger les camarades les plus combatifs et les plus communistes". Ce n'est pas une anomalie mais le résultat d'une sélection délibérée : la direction nationale du MJCF, cadenassée par le PCF, récompense les carriéristes qui espèrent un passage ultérieur dans l'appareil du parti.
+
+La PaduTeam : "Ça dépend si tu as des JC basées ou pas. Étonnamment, les JC qui sont basées, c'est les JC qui sont purgées."
+
 ## Vidéos où le MJCF est analysé
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Critique de la position prohibitionniste du MJCF
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Présentés comme la frange adéquate du PCF, en rupture avec Roussel sur l'islamophobie.
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Détail des factions internes : JC radicales (JC Nord, Loire, Vienne) vs direction nationale rousselliste. Les militantes JC roussellistes y sont critiquées pour leur ligne "être large" et leur refus de nommer le racisme.
+- [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Purge de la JC Nord-92 pour soutien à la résistance palestinienne ; mécanisme de sélection des carriéristes dans les partis mourants.

@@ -29,3 +29,4 @@ Un homme a "la carte pour faire de la merde" — c'est-à-dire les structures so
 ## Vidéos où le concept est développé
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
 - [[NATACHA POLONY VEUT PLUS DE VIOLENCE A L ECOLE]] — la thèse de Polony sur la féminisation scolaire identifiée comme reprise directe du discours masculiniste standard
+- [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — Rochedy comme cas d'école du masculinisme qui prétend s'appuyer sur la biologie, démontage de l'evo psych

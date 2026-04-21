@@ -38,5 +38,20 @@ La PaduTeam propose une définition synthétique de l'extrême droite fondée su
 
 La [[Hierarchisation des etres humains]] est ainsi la fonction idéologique qui permet à la bourgeoisie de détourner la colère populaire vers des boucs émissaires plutôt que vers les véritables responsables.
 
+## La hiérarchisation comme réponse du capitalisme en crise
+
+Dans la vidéo sur les rafles de juin 2025, la PaduTeam étend le concept au présent avec une thèse prospective : le capitalisme en crise profonde ne peut plus "fabriquer assez pour tout le monde". Il va donc distribuer les ressources selon une hiérarchie essentialiste, dans l'ordre suivant[^hiero] :
+
+1. Les migrants clandestins — zéro droit, traqués, "peuvent mourir en silence"
+2. Les migrants légaux — cantonnés aux travaux les plus durs et les plus exploités
+3. Les Français racisés ("des gens français qui ressemblent à des migrants")
+4. Les blancs prolétaires
+5. Les blancs petits-bourgeois
+
+Le [[Producerisme|producérisme]] interviendra ensuite pour diviser les blancs entre eux (travailleurs vs assistés). Cette gradation n'est pas idéologique d'abord — elle est structurelle : "le capitalisme est en crise profonde [...] il va devoir prioriser d'abord pour la bourgeoisie et [...] entre les blancs, les non blancs, les plus méritants."
+
+[^hiero]: [26:31](https://www.youtube.com/watch?v=WGHw2vRLIhc&t=1591) — "D'abord tout en bas, il y aura les migrants clandestins [...] Ensuite, il y aura les migrants légaux [...] Et puis ensuite, vous aurez des gens français qui ressemblent à des migrants [...] Et puis après vous aurez les blancs prolétaires. Et puis après vous aurez les blancs petits bourgeois. C'est vers ça qu'on va."
+
 ## Vidéos où le concept est développé
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — la PaduTeam développe le concept pour analyser la ligne politique de Le Pen et son héritage (avec données chiffrées : facteur 10 prisonniers soviétiques/occidentaux)
+- [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]] — extension au présent : la hiérarchisation comme mécanisme systémique de distribution des ressources dans le capitalisme en crise

@@ -266,7 +266,7 @@ Le cas israélien confirme la thèse : "Israël c'est un État qui se sent en s�
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US
-- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Cadre historique complet (Mossadegh, révolution de 79, guerre Iran-Irak)
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Cadre historique complet (Mossadegh, révolution de 79, guerre Iran-Irak) ; la déstabilisation israélienne comme service direct aux intérêts pétroliers américains (seuil de rentabilité du pétrole de schiste à 65$/baril) ; la situation des femmes iraniennes instrumentalisée par l'impérialisme occidental — les vraies victimes des frappes (Niloufar Galevand 28 ans, Marianne Mobini 26 ans) ne circulent pas dans les médias occidentaux ; la révolution de 1979 comme alliance populaire authentique (communistes-islamistes), pas comme manipulation CIA
 - [[L'IRAN L'EMPIRE LES IRANIENS]] — Décryptage des manifestations début 2026, propagande impérialiste, fémonationalisme
 - [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore
 - [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule

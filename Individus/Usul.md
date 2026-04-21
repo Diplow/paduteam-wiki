@@ -56,6 +56,7 @@ Le trotskisme de la deuxième génération internet (Usul, une partie du NPA) es
 La PaduTeam appelle les militants FI plus jeunes, attirés par Usul sur des questions féministes et antiracistes, à **résister à cette contamination** : on peut apprécier son travail sur d'autres sujets sans suivre sa ligne belliciste.
 
 ## Sources
+- [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Usul attaqué par [[Marc-Antoine Jamet]] (maire PS de Val-de-Reuil + secrétaire général LVMH) pour ses anciennes vidéos de jeux vidéo et une fuite d'une vidéo intime consentie. La PaduTeam prend la défense d'Usul et démonte le profil de Jamet comme incarnation de la dégénérescence PS.
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]]
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — son rôle dans la trajectoire confusionniste de Padu ado via l'épisode Chouard 2014 — Contacté par [[Le Point]] pour commenter la [[Moisation|moïsation]]. Sa réaction par MP : "J'ai été contacté par Le Point pour parler de Moïsation. C'était pas dans mon bingo 2025." La PaduTeam note l'improbabilité comique de la situation — ils ne se parlent pas régulièrement, et le Point les contacte tous les deux sur le même sujet.

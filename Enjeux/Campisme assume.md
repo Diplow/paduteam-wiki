@@ -107,6 +107,14 @@ Les [[Atlantisme|atlantistes]] français (Damien Rieu, Julien Odoul, CNews) sont
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Programme opératoire : seule LFI-type tient techniquement les outils de rupture (dollar, marché) ; campisme articulé à l'anti-impérialisme positif (bloc Chine/Cuba/Venezuela/Mexique/Colombie/Iran)
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Campisme matérialiste appliqué : Newsom macroniste mais « pas en avant dans la destruction de l'empire », analogie Marx-Engels 1840 / empire austro-hongrois
 
+## L'Iran en juin 2025 : campisme contradictoire assumé
+
+[[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] est l'application la plus nuancée du campisme assumé : ni défense inconditionnelle du régime des mollahs (répression des progressistes documentée, contradictions internes réelles), ni assimilation à une menace islamiste instrumentalisée par l'Occident. Le refus simultané de ces deux positions fausses est le campisme à son niveau de sophistication le plus élevé.
+
+La thèse centrale : la déstabilisation iranienne de 2025 sert des intérêts économiques précis (rentabilité du pétrole de schiste américain) — et cette identification matérielle du "pourquoi" de l'agression est la condition du choix de camp. On ne soutient pas l'Iran parce que ses mollahs sont admirables — on s'oppose à l'agression parce qu'on en comprend la mécanique matérielle.
+
+Les contradictions à assumer : le mouvement Femme Vie Liberté de 2022 est populaire et légitime (transclasse, kurdes et béloutches) — et il a été instrumentalisé par la droite islamophobe française. Le campisme assumé ne consiste pas à nier ces contradictions mais à refuser qu'elles servent de prétexte à l'agression impérialiste.
+
 ## Vidéos clés
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Critique frontale du ni-nisme face à l'enlèvement de Maduro, défense du campisme bolivarien
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Glucksmann "agent américain", Macron "futur France-Afrique 2.0", Mélenchon défend la position juste
@@ -116,3 +124,4 @@ Les [[Atlantisme|atlantistes]] français (Damien Rieu, Julien Odoul, CNews) sont
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Le campisme appliqué à la cause palestinienne et à la solidarité internationale
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Paul Elek revendique explicitement "campisme assumé" face au faux débat terrorisme/légitime défense
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Rejet de la "neutralité" occidentale, appel à la mobilisation internationale des peuples contre leurs bourgeoisies
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Campisme contradictoire assumé sur l'Iran : ni défense inconditionnelle des mollahs, ni assimilation à une menace islamiste ; identification matérielle des intérêts pétroliers américains derrière la déstabilisation israélienne ; le mouvement FVL (Femme Vie Liberté) instrumentalisé par la droite islamophobe française sans que cette instrumentalisation invalide la légitimité du mouvement
