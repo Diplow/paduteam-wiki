@@ -132,9 +132,19 @@ La banalité est le vrai scandale — ce que la PaduTeam nomme la [[Banalite du 
 
 Pour la PaduTeam, l'antiféminisme en ligne n'est pas un épiphénomène : c'est **le principal vecteur de recrutement de l'extrême droite sur Internet**. La PaduTeam : "l'antiféminisme c'est le mode de recrutement principal de l'extrême droite sur Internet actuellement — un des modes de recrutement principaux. Et donc il faut s'en occuper en tant que militant politique et féministe."
 
-Ce mécanisme est documenté de l'intérieur par la trajectoire personnelle évoquée dans les vidéos PaduTeam : le passage par [[Alain Soral]] n'avait pas pour moteur initial une idéologie nationaliste, mais une recherche de modèle de virilité. L'accroche était masculiniste avant d'être politique.
+Ce mécanisme est documenté de l'intérieur par les PTD #7.1 et #7.2 : Padu retrace sa propre trajectoire et établit que l'accroche dans l'univers de [[Alain Soral]] n'avait pas pour moteur initial une idéologie nationaliste, mais une recherche de modèle de virilité. C'est la misogynie et le masculinisme qui ont ouvert la porte, pas le nationalisme. L'accroche était masculiniste avant d'être politique — le reste (antisémitisme diffus, souverainisme, vote RN) est venu ensuite par cohérence interne de la trajectoire (Soral → Asselineau → RN).
+
+La sortie de cette trajectoire confirme la grille : ce ne sont pas des arguments intellectuels qui permettent à Padu de quitter le pipeline, mais des **rencontres affectives** qui ouvrent d'autres représentations du rapport aux femmes et au monde. Le dépositionnement affectif précède le dépositionnement politique.
 
 Conséquence stratégique : le combat féministe est indissociable du combat antifasciste. Un féminisme de classe doit donc s'attaquer à l'écosystème mascu/incel/coachs en séduction non seulement comme adversaires idéologiques mais comme **pipeline de recrutement fasciste**.
+
+## La moïation par l'expérience : le féminisme matérialiste confirmé a contrario
+
+Le cas [[Virginie Vota]] (janvier 2025) illustre que la critique matérialiste des rapports sociaux de sexe est plus solide que l'antiféminisme essentialiste — y compris aux yeux de ceux qui l'ont combattu. Vota, ancienne YouTubeuse tradwife de la mouvance catho-intégriste, publie une vidéo où elle dit ne plus être antiféministe. Non pas par un changement idéologique, mais par l'expérience : grossesse, post-partum, épisiotomie, inégale répartition de la charge domestique.
+
+La PaduTeam y voit une démonstration de la thèse matérialiste : Vota découvre par l'expérience vécue ce que le féminisme matérialiste formule théoriquement — "il y a un décalage entre ce qui est écrit d'un point de vue législatif et la réalité des faits." Zoé : "c'est énorme, et ça c'est du marxisme !" L'égalité formelle (droit) n'est pas l'égalité réelle (faits) — maxime marxiste découverte empiriquement par une ancienne adversaire du féminisme.
+
+Le "discours du naturel" (soins capillaires biologiques → anti-contraception → antiféminisme → soumission) est une pipeline réactionnaire que le féminisme essentialiste renforce involontairement — y compris à gauche, quand des éco-féministes essentialisent les femmes comme "naturellement" plus proches de l'environnement.
 
 ## La hiérarchie alpha/sigma comme pseudo-science au service du capitalisme masculiniste
 
@@ -219,7 +229,8 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — défense du féminisme matérialiste face à la droitarde Herga ; méthode sociologique contre le vécu subjectif ; distinction Némésis vs Thaïs d'Escufon sur le viol conjugal ; colonisation algérienne comme contexte structurel
 - [[DR ZOE RECADRE LES MASCUS TOXIQUES]] — antiféminisme comme recrutement fasciste ; virilité réinterprétée
 - [[PAYE TON DROITARD 2 LOBSERVATEUR OFFICIEL]] — libertarianisme = masculinisme ; pénurie appliquée aux femmes
-- [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → RN : l'accroche masculiniste comme porte d'entrée fasciste
+- [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → Asselineau → vote RN documenté de l'intérieur : l'accroche masculiniste précède le politique ; la sortie par la rencontre affective comme dépositionnement qui précède le dépositionnement politique
+- [[VIRGINIE VOTA EST DEVENUE WOKE]] — moïation partielle par expérience de la maternité ; découverte empirique de l'égalité formelle vs réelle ; le "naturel" féminin comme pipeline réactionnaire ; confirmation que le féminisme matérialiste résiste même sans théorie préalable
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — instrumentalisation raciste de la pédocriminalité ; ASE et discours de la pénurie ; misandre de FdeSouche
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — récupération raciste des faits divers ; harcèlement de victimes ; "pas de faits divers, que des faits politiques"
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — protection institutionnelle des prédateurs ; mythe du monstre ; complicité passive de Bayrou ; rapport Sauvé (330 000 victimes)

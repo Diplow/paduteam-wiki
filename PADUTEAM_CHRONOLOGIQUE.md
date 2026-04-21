@@ -177,21 +177,20 @@ Slug branche : ingest-batch/paduteam-2025-w07-w08
 ---
 ## Batch 10 — Semaines 2025-W09 à 2025-W10 (24 fév 2025 – 9 mar 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w09-w10
-
-- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
-- [ ] PADUSTREAM C'EST DÉJÀ FINI !!
-- [ ] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
-- [ ] FDESOUCHE nous ATTAQUE : "PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?" (avec @Dr_Zoé_YT)
-- [ ] FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
-- [ ] DÉBRIEF de mon DÉBAT avec @Zawa_Prod et @PsykoCouac sur la PSY ! (x @Dr_Zoé_YT et Chris de PR)
-- [ ] WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE !!
-- [ ] RAZ et WISSAM ont-ils GACHÉ le ZAWATALK ? (avec @Dr_Zoé_YT)
-- [ ] ANTOINE DANIEL DÉRAPE COMPLÈTEMENT AU SUJET DES MILLIARDAIRES !!
-- [ ] J'EXPLIQUE le COMMUNISME aux FANS d'ANTOINE DANIEL : ils ADHÉRENT !!
-- [ ] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT  et Chris)
-
+Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEBAT ZAWATALK PSY PSYKOCOUAC]], [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]], [[RAZ ET WISSAM ONT-ILS GACHE LE ZAWATALK]], [[ANTOINE DANIEL DERAPE AU SUJET DES MILLIARDAIRES]], [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]] + 15 concepts, 13 individus, 3 organisations — Enjeux enrichis : Guerre des gauches, Union populaire, Plus jamais PS, Féminisme matérialiste, Antiféminisme identitaire comme menace, Critique de la fachosphère
+- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue) ⚠️ transcript absent
+- [x] PADUSTREAM C'EST DÉJÀ FINI !!
+- [x] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
+- [x] FDESOUCHE nous ATTAQUE : “PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?” (avec @Dr_Zoé_YT)
+- [x] FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
+- [x] DÉBRIEF de mon DÉBAT avec @Zawa_Prod et @PsykoCouac sur la PSY ! (x @Dr_Zoé_YT et Chris de PR)
+- [x] WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE !!
+- [x] RAZ et WISSAM ont-ils GACHÉ le ZAWATALK ? (avec @Dr_Zoé_YT)
+- [x] ANTOINE DANIEL DÉRAPE COMPLÈTEMENT AU SUJET DES MILLIARDAIRES !!
+- [x] J'EXPLIQUE le COMMUNISME aux FANS d'ANTOINE DANIEL : ils ADHÉRENT !!
+- [x] NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT  et Chris)
 ---
 ## Batch 11 — Semaines 2025-W11 à 2025-W12 (10 mar 2025 – 23 mar 2025)
 
