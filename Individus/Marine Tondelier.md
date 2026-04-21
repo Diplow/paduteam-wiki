@@ -36,7 +36,7 @@ Interviewée par Lumi à l'Humanité sur la lutte des classes et le capitalisme,
 
 Tondelier s'est également insurgée contre les définitions de "l'écologie avec un adjectif" (écologie socialiste, écologie marxiste) en les qualifiant de tentatives de diviser l'écologie — attitude que la PaduTeam juge complotiste et intellectuellement malhonnête.
 
-## Festival de la Noisette de Bram (2026)
+## Festival de la Noisette de Bram (septembre 2025)
 Présente au rassemblement de la gauche réformiste organisé par [[Carole Delga]] à Bram (Aude). À la table ronde avec Glucksmann, Olivier Fort, PRG. Analyse PaduTeam : c'est le lancement officieux de la course à la primaire des noisettes. Sa présence confirme qu'elle a besoin de ce type de rassemblement pour exister.
 
 ## Tweete comme Bergé (février 2025)

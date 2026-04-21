@@ -38,7 +38,19 @@ Pour la PaduTeam, Consigny est "presque dans les seigneurs" — un individu à p
 [^vendanges1]: [2:05](https://www.youtube.com/watch?v=Pb8WmNTbl_8&t=125) — "C'est pas du tout les gens qui allaient faire les vendanges. C'est pas la même classe sociale, frérot."
 [^vendanges2]: [31:31](https://www.youtube.com/watch?v=Pb8WmNTbl_8&t=1891) — "C'est pas si on paye mieux, c'est si on serrait le citron un peu plus. Si les gens ils mouraient dans la rue [...] alors ils iraient se faire esclavagiser d'eux-même."
 
+## Le libéral bourgeois révolutionnaire (affaire Sarkozy/Jourri)
+
+Dans la réaction CNews à la condamnation de [[Nicolas Sarkozy]], Consigny défend son client Alexandre Jourri (né Ahmed Jourri), co-prévenu de Sarkozy. Il note que "comme par hasard les deux Arabes sont les deux seuls qui dorment en prison ce soir" — discours structuraliste sur la [[Justice de classe]] qu'il tient en toute bonne foi (il est l'avocat du client concerné).
+
+La PaduTeam l'analyse comme "la bourgeoisie révolutionnaire" au sens marxiste : il pense les hommes abstraitement, libres et égaux en droit, "ce qui est hyper abstrait, hyper faux" mais au moins universel. Aux États-Unis, Consigny serait pour Kamala Harris — "il le sait pas mais il serait pour lui quoi."[^cons1]
+
+La distinction opérée par la PaduTeam : Consigny croit vraiment au droit individuel de se défendre jusqu'à l'épuisement des voies de recours. Là où CNews retourne le discours anti-carcéral de manière cynique et circonstancielle, Consigny le tient par cohérence libérale. "Je veux croire en sa sincérité." L'effet politique est le même : il "participe à l'hégémonie de gauche de critiquer le racisme de la justice."[^cons2]
+
 ## Vidéos
 - [[Nicolas qui paye]] — Sa vidéo sur "Nicolas qui paye" sert de point de départ à l'analyse PaduTeam de la prolétarisation des cadres
 - [[MELENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES]] — Adversaire principal de Mélenchon sur le plateau, incarnation du petit bourgeois libéral atlantiste. Tweet pro-bombardement de l'Iran révélé
 - [[CHARLES CONSIGNY VEUT PLUS D'ESCLAVES POUR LES VENDANGES]] — Décomposé sur les vendanges : confusion de classes sociales, rapport abstrait au travail agricole, solution implicite = réduire les protections sociales pour contraindre à l'exploitation
+- [[CNEWS PLEURE POUR UN CRIMINEL]] — Défend son client Ahmed Jourri (co-prévenu de Sarkozy) avec un discours antiraciste structurel ; analysé comme "bourgeoisie révolutionnaire" au sens marxiste
+
+[^cons1]: [32:02](https://www.youtube.com/watch?v=zunLNTeDBoU&t=1922) — "Charles Consigny aux États-Unis, il est pour Kamala Harris, tu vois. Il le sait pas mais [...] il serait pour lui quoi."
+[^cons2]: [35:10](https://www.youtube.com/watch?v=zunLNTeDBoU&t=2110) — "Je veux croire en sa sincérité [...] quand il fait ça, il participe à l'hégémonie de gauche de critiquer le racisme de la justice."

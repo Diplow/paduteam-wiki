@@ -47,12 +47,23 @@ Site générateur de visuels militants lancé pour le 10 septembre 2025. Bilan �
 
 L'initiative est conçue sur un principe d'appropriation : chacun peut créer ses propres visuels avec ses propres slogans (éducation, santé, chômage, droits LGBT...). Ce n'est pas une communication descendante mais un outil de fédération.
 
+## Fermeture de Twitch et pivot terrain (automne 2025)
+
+En octobre 2025, la PaduTeam annonce la fermeture de leur chaîne Twitch. La décision est théorisée : le format Twitch (relation parasociale, train de hype, abonnements captifs) est structurellement incompatible avec leur projet militant collectif. Le temps libéré est réorienté vers :
+- La consolidation de la production YouTube (1 million de vues/mois à ce stade)
+- Le développement d'un **pôle événementiel** : campagnes d'affichage, tracts, cycles de conférences sur plusieurs départements
+- L'ouverture des adhésions à La Brèche (plusieurs dizaines de nouvelles adhésions annoncées)
+- La croissance de la chaîne "On ne veut plus" comme chaîne de mouvement social
+
+L'objectif est de créer le lien entre la production médiatique et l'action concrète de terrain, pour que les analyses PaduTeam se "déclinent sur le terrain concret de personne à personne en campagne."
+
 ## Vidéos clés
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation la plus explicite du cadre stratégique gramscien dans lequel La Brèche se pense
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présentation de l'initiative "On ne veut plus" (100 000 affiches, kits dans 7 villes, table ronde Braderie de Lille, nouvelle chaîne YouTube annoncée) ; appel à la mobilisation 10 septembre
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — La Brèche présentée comme modèle d'association militante décapitalisée ; exposé des revenus réels (≈1000€ Tipeee + 2500€ YouTube) et de leur usage militant
+- [[PADUTEAM C'EST FINI]] — annonce de la fermeture de Twitch ; bilan stratégique automne 2025 ; articulation militantisme internet / terrain
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

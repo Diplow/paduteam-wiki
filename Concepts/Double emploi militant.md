@@ -47,6 +47,7 @@ Le double emploi militant répond précisément à cette tentation : on ne "fuit
 ## Vidéos où le concept est développé
 - [[PADUSTREAM C'EST DEJA FINI]] — formulation théorique la plus explicite ; distinction entre militantisme et "professionnels des médias"
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — épreuve concrète des revenus YouTube vs salaire, critique du "fuir le salariat", articulation avec [[Intellectuel organique]]
+- [[PADUTEAM C'EST FINI]] — application concrète : la fermeture de Twitch comme acte de refus de la dépendance financière au format streaming ; critique de l'autocensure chez les commentateurs politiques dépendants de leurs dons
 
 [^4b]: [12:57](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=777) — "si les 1000 ou 1500 € investis pour faire cette vidéo, c'était 1000 ou 1500 € qui allaient en moins dans nos salaires à Chris et moi, on réfléchirait sûrement différemment"
 [^4c]: [21:41](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=1301) — "c'est pas parce que tu es plus sain que les autres. Non non non mais c'est pour ça moi je dis moral au sens collectif. C'est-à-dire une forme idéologique, une forme de dynamique collective qui va justement te dire ça doit rester un moyen et non une fin"

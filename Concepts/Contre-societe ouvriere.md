@@ -44,8 +44,18 @@ La PaduTeam précise les deux missions complémentaires des organisations de cla
 
 C'est cette double fonction qui explique que les caisses de retraite et la Sécurité sociale aient été d'abord des inventions du mouvement ouvrier lui-même, avant d'être nationalisées par l'État providence.
 
+## Pratiques concrètes de reconstruction
+
+Dans le bilan de septembre 2025, la PaduTeam donne des exemples concrets de ce que pourrait produire un mouvement comme le 10 septembre s'il se structure :
+- **Soutien scolaire, sport gratuit, santé dans les quartiers** — besoins matériels locaux qui permettent d'enraciner une présence militante
+- **Le [[PTB]] (Parti du Travail de Belgique)** s'est construit en partie autour d'un collectif "médecine pour le peuple" — modèle applicable, surtout dans les zones où l'accès aux soins est dégradé
+- **Les clubs sportifs ouvriers** comme vecteur de politisation : "un gamin de 14 ans devient communiste parce qu'il est allé dans un club de boxe financé par la CGT" — la contre-société se reconstruit par les services concrets, pas par le militantisme visible
+
+La PaduTeam insiste sur la **division du travail révolutionnaire** : partir des gens pour trouver leurs tâches (et non l'inverse), permettre à chacun de faire ce qu'il sait faire sans se retrouver en difficulté. C'est l'inverse de la division du travail capitaliste — "ça c'est déjà une forme de communisme."
+
 ## Vidéos où le concept est développé
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Développement substantiel sur la destruction de la contre-société ouvrière par le néolibéralisme et la nécessité de la reconstruire.
-- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Rappel historique des deux fonctions (formation + compensation matérielle) ; nécessité de reconstruire des organisations "beaucoup moins gazeuses, beaucoup plus solides" pour compenser les destructions néolibérales de l'État social.
+- [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Rappel historique des deux fonctions
+- [[SEPTEMBRE 2025 A ETE UN ENORME FLOP]] — Exemples concrets de reconstruction : soutien scolaire, sport gratuit, santé locale, clubs de boxe CGT comme vecteurs de politisation ; modèle PTB (médecine pour le peuple) ; division du travail révolutionnaire (partir des gens, pas des tâches) comme "déjà une forme de communisme" (formation + compensation matérielle) ; nécessité de reconstruire des organisations "beaucoup moins gazeuses, beaucoup plus solides" pour compenser les destructions néolibérales de l'État social.
 
 [^2]: [22:27](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1347) — "historiquement les organisations de classe ont fait deux choses : former la conscience de classe […] mais aussi compenser les problèmes d'inconfort immédiat des ouvriers par la mise en place de structures de solidarité d'entraide"

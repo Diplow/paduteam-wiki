@@ -52,7 +52,7 @@ S'oppose publiquement au mouvement "Bloquons tout" du 10 septembre sur Télémat
 
 **Son plan de refroidissement** : Dégager Bayrou → mettre un PM de transition (Cazeneuve avec un pôle PS droite + Hollande + Nicolas Mayer-Rossignol) → symbolique fiscale → refroidir la rue → Macron tient → préparer le pôle anti-Mélenchon pour 2027. "C'est un coup tentable. C'est vraiment un coup dégueulasse."
 
-## Querelle avec Tondelier à Bram (2026)
+## Querelle avec Tondelier à Bram (septembre 2025)
 Au festival de Bram organisé par [[Carole Delga]], Glucksmann s'oppose publiquement à [[Marine Tondelier]] sur la primaire : il refuse qu'une primaire "de la gauche et des écologistes" inclue [[Jean-Luc Melenchon]]. "On n'a pas la même vision du monde" — pour la PaduTeam, il a raison sur le mécanisme. Mais il sera dans la position de Georges Marchais dans l'analogie 1981 inversée : c'est Mélenchon le Mitterrand, pas lui.
 
 Sa femme [[Lea Salame]] au 20h de France 2 est son pire handicap : "trop gros, trop visible, ça fait tache" — plus compromettant que Patrick Cohen à France Inter.

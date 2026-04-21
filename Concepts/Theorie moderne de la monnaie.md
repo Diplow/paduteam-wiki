@@ -28,5 +28,15 @@ Sortir du dollar comme monnaie d'échange internationale = levier "de fou" pour 
 ## Concepts associés
 [[Primat du politique sur l'economique]], [[Grande bifurcation]], [[Vassalisation de la France]]
 
+## Extorsion monétaire : la dette comme racket
+
+La vidéo sur Marion Maréchal (septembre 2025) développe l'argument le plus complet du vault sur la nature de la dette française comme racket monétaire. La monnaie est une convention collective — les billets ne valent que parce qu'ils sont acceptés. Dans les années 70, les États ont été contraints de ne plus émettre leur propre monnaie et de passer par des banques privées, qui imposent des taux d'intérêt sur une monnaie que les États produisent eux-mêmes. Résultat : la charge de la dette augmente mécaniquement, obligeant à réemprunter indéfiniment. La PaduTeam formule : « c'est comme si moi j'étais endetté alors que la seule monnaie qui existe, c'est la mienne que j'imprime dans mon garage »[^racket]. C'est une extorsion concrète — le système bancaire a réussi à se faire payer pour permettre aux États d'utiliser leur propre production.
+
+Les notes des agences de notation (Fitch, etc.) illustrent le mécanisme : elles ne mesurent pas la performance économique mais le degré de soumission aux marchés financiers. Les pays en "vert" (Allemagne, Pays-Bas, Suède) ont les taux de rentabilité du capital les plus élevés — et aussi les niveaux d'extrême droite les plus importants. L'Italie en "rouge" = moins rentable pour les marchés, mais pas plus pauvre en réalité[^notation].
+
 ## Vidéos où le concept est développé
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — évoquée comme voie du "communisme du 21e siècle"
+- [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — démontage complet de la rhétorique "dette et dépenses publiques" ; la dette = somme des intérêts payés aux banques sur une monnaie auto-produite ; les agences de notation comme instrument du racket ; privatisation = coût supérieur (18% PIB santé aux USA vs 12% en France)
+
+[^racket]: [19:32](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=1172) — « c'est comme si moi je disais je suis endetté de ouf alors que la seule monnaie qui existe réelle, c'est la mienne que moi j'imprime dans mon garage. »
+[^notation]: [35:04](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=2104) — « quand vous voyez des gens avoir une bonne note chez Fitch, ce n'est pas la performance de leur économie, c'est leur degré de soumission au marché financier et de rentabilité de profit et bancaire. »

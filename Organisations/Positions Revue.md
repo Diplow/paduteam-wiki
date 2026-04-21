@@ -16,6 +16,7 @@ Née fin 2019 de l'analyse critique de l'échec des [[Gilets Jaunes]] — le pre
 
 ## Numéros notables
 - **L'Empire masculin** — numéro sur le patriarcat et le genre, avec [[Dr Zoe]], Irène Bertonet, Anne-Claude Ambroise-Rendu et d'autres. Mentionné à l'occasion de la vidéo OnlyFans comme outil théorique sur la domination masculine.
+- **Numéro de septembre 2025** (sorti le 29 sept. 2025) — plusieurs entretiens dont un mené par [[Chris]] avec Bruno Amable et Stéphano Palombarini (spécialistes des blocs sociaux sous le néolibéralisme) sur la recomposition public/privé. Entretien également mené par Zoé avec Nicolas Da Silva, économiste de la santé, sur les mécanismes réels du budget de la Sécu. La PaduTeam qualifie cet entretien de "véritable plaidoyer pour le communisme".
 
 ## Figures clés
 - [[Chris]] — fondateur, directeur de publication
@@ -44,3 +45,4 @@ Série de témoignages publiés sur le site de la revue : des personnes de milie
 - [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — [[Chris]] répond aux critiques de sexisme/racisme du Graphique ; expose la méthode de prédiction par Google Trends et ses résultats 2022.
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — [[Chris]] présente la nouvelle version interactive du Graphique et prédit Villepin à 6-7% max.
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — [[Chris]] développe la thèse "travail collectif vs réalisation individuelle" et référence les Chroniques de l'exploitation
+- [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — Promotion du numéro de septembre 2025 : entretiens Amable/Palombarini (recomposition bloc public/privé) et Nicolas Da Silva (économie de la santé). La PaduTeam qualifie l'entretien Da Silva de "plaidoyer pour le communisme".

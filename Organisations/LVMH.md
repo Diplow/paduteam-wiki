@@ -22,3 +22,4 @@ LVMH est mis en cause dans le documentaire *Merci Patron* de [[Francois Ruffin]]
 ## Vidéos où LVMH est mentionné
 
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
+- [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — [[Bernard Arnault]] comme PDG de LVMH face à la [[Taxe Zucman]] ; la PaduTeam souligne que sans Arnault "LVMH ça tournerait aussi" — ce sont les salariés qui produisent la valeur

@@ -41,10 +41,12 @@ La mise en concurrence du prolétariat exploite la conflictualité existante au 
 
 - **Cheminots vs aides soignantes** (2025) : [[Sarah Saldmann]] présente les grèves SNCF depuis 1947 comme scandaleuses en pointant les aides soignantes qui "ne font pas grève" malgré des conditions plus dures. La PaduTeam démonte : "c'est la mise en concurrence du prolétariat entre soi."[^1] → [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]]
 - **Chômeurs et assistés** : figure récurrente — les "assistés" présentés comme voleurs au détriment des travailleurs pauvres. Voir [[Individualisation des problemes structurels]].
+- **Le défilé de Granville** (2025) : la [[Strategie d humiliation generalise]] des bénéficiaires du RSA est analysée comme un cas extrême de mise en concurrence — les humilier pendant 18 mois pour qu'ils acceptent n'importe quelles conditions de travail quand ils retrouvent un emploi, et ainsi tirer vers le bas l'ensemble des conditions salariales → [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]]
 
 ## Vidéos où le concept est développé
 
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — formulation la plus développée, avec l'image des cookies et la critique de Ruffin
+- [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]] — application à la division emploi/chômage : "l'opposition entre les gens qui ont un emploi et les gens qui n'en ont pas est factice et est bourgeoise de A à Z"
 
 [^1]: [14:34](https://www.youtube.com/watch?v=1zxC8ZTAHEk&t=874) — "c'est exactement ça. C'est la mise en concurrence du prolétariat entre soi. Genre ouais, tu as vu, ils font grève mais ils sont mieux l'ti que toi, c'est un scandale."
 [^2]: [10:26](https://www.youtube.com/watch?v=1zxC8ZTAHEk&t=626) — "en fait les personnels hospitaliers font beaucoup grève [...] les soignants sont réquisitionnés quand ils font grève en fait"

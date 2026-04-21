@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w37w38
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -155,6 +155,16 @@ Position stratégique PaduTeam sur la récupération Mamdani par Faure : **c'est
 
 Le rappel des chiffres Guedj/PS dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] constitue la démonstration arithmétique de la trahison structurelle : "nous les sortons du néant où ils étaient à 1,67%, à peine est-on arrivé, ils refusent de voter les motions de censure." Ce passage est qualifié par la PaduTeam de "trop bien, il les a cou" — Mélenchon retourne l'accusation de déstabilisation en citant froidement les faits. La trahison n'est pas un récit — c'est un chiffre.
 
+## La taxe Zucman comme cas d'école de l'hollandisme
+
+La capsule sur la réaction de [[Bernard Arnault]] à la taxe Zucman illustre par contraste la critique du PS. La [[Taxe Zucman]] (2% sur les patrimoines de plus de 100M€) est portée par le PS comme mesure phare — la PaduTeam la qualifie d'[[Hollandisme]] : symbolique, insuffisante comme programme, mais une "brèche" à ne pas bloquer dans l'intangibilité du patrimoine bourgeois. La formule résume la position PaduTeam vis-à-vis du PS : "Zucman et ses copains du PS vont t'arracher un petit poil ou un point noir sur la jambe et nous on va te rupter la fémorale d'un coup." Ce n'est pas une raison de s'y opposer, mais de ne jamais confondre l'escarmouche avec le programme.
+
+L'analyse historique renforce la critique structurelle : la France est le pays où la grande bourgeoisie a résisté le plus longtemps à toute taxation — l'impôt sur le revenu n'a été adopté qu'en juillet 1914, sous contrainte de guerre. Cette résistance est "un fondamental de cette bourgeoisie ultra hégémonique" que le PS, depuis Hollande, n'a jamais frontalement affrontée.
+
+## Gabriel Attal comme cas d'école du bloc central recyclé
+
+[[Gabriel Attal]] tente à l'automne 2025 un repositionnement anti-Macron ("Macron c'est le chaos", "les vieilles recettes"). La PaduTeam analyse ce retournement comme une [[Noisettes|noisette]] de deuxième génération : le même vide que le macronisme originel, réchauffé sans la crédibilité de 2017. Attal est "littéralement le bras droit du pouvoir depuis 8 ans" — quand il dit "chaos" et "vieilles recettes", c'est lui qu'il décrit. La prédiction PaduTeam : stagner à 4-5% et finir derrière le [[Parti Socialiste]]. Ce que cela confirme pour l'enjeu "plus jamais PS" : l'espace noisette du bloc central ne peut se recomposer que par une alliance avec le PS — ce que le PS attend précisément.
+
 ## Le PS refuse de chauffer en septembre 2025 — confirmation totale
 
 La séquence du 10 septembre 2025 valide la thèse "plus jamais PS" à un moment de crise réelle. Alors que Bayrou s'apprête à tomber et que le mouvement social monte, le PS déploie une stratégie cohérente avec sa nature structurelle : refroidir pour gouverner.
@@ -221,6 +231,9 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel comme variante PCF : joue le jeu de CNews tout en prétendant être à gauche. Mais le PS "a la dignité de fermer sa gueule" — Roussel va sur CNews dire ce que dit CNews.
 - [[ROUSSEL trouve RETAILLEAU TROP MOU]] — stade terminal de la droitisation PCF : discours sécuritaire identique à Retailleau, lapsus "Fabien Retailleau" comme diagnostic involontaire ; "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; prévision moins de 2% à la présidentielle ; URC comme horizon de refondation
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Carole Delga comme figure emblématique de l'enjeu : a failli faire élire 10 députés RN de plus par refus des alliances NFP/NUPES, a voulu interdire les manifs pro-palestiniennes, soutient l'A69. Résumé par Mélenchon sur son blog : "la ligue de l'unité par peur du RN a encore passé son temps à faire le sale boulot du RN en coupant en deux le NFP."
+- [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — la taxe Zucman portée par le PS qualifiée d'hollandisme symbolique : une brèche à ne pas bloquer mais à ne pas confondre avec un programme ; historique de la résistance de la bourgeoisie française à l'impôt ; normalisation du communisme dans les milieux de travail comme vraie condition de la transformation
+- [[GABRIEL ATTAL DEMOLIT MACRON MACRON C'EST LE CHAOS]] — cas d'école du bloc central recyclé : Attal sans avenir, noisette de deuxième génération ; son retournement anti-Macron révèle qu'il finira derrière le PS ; la rhétorique du compromis comme soumission au pouvoir
+- [[SARKOZY CONDAMNE A 5 ANS DE PRISON FERME]] — la logique mafieuse de la droite française (financement Kadhafi) et l'impunité prolongée comme pendant de l'impunité PS ; justice de classe obligée de condamner "pour sauver les apparences" ; la 5e République comme régime qui personnalise l'intérêt général
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Bouamrane assume publiquement vouloir "défoncer" LFI, preuve que l'aile droite PS embrasse frontalement la guerre des gauches. La stratégie "Obama" comme [[Concernisme]] électoral anti-LFI.
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — la PaduTeam dit explicitement "ici on est team plus jamais PS" face à la conférence FP2027 qui inclut Hollande/Rousseau dans son orbite. Démonstration que le FP2027 est une tentative PS de reconstruire un véhicule avec des noisettes.
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Les réunions secrètes PS-Attal derrière la façade unitaire de la primaire révèlent la convergence PS/bloc central. La PaduTeam décrit comment les socialistes tractent avec le gouvernement sur le budget pendant qu'ils font la primaire "de rupture". Jospin 2002 prédit comme sort du candidat noisette.

@@ -25,6 +25,12 @@ Pour la PaduTeam, ce débordement du bas sur la direction est une bonne nouvelle
 
 La critique implicite reste : si Binet ne rejoint pas le mouvement, elle répète l'erreur de Martinez avec les gilets jaunes — débordé mais jamais rejoint.
 
+## Octobre 2025 : l'intersyndical à contretemps
+
+Dans la journée de grève du 2 octobre 2025, la PaduTeam note deux fois moins de manifestants que le 18 septembre. Elle en identifie la cause structurelle : les dates intersyndicales tombent quand "les gens ont repris le boulot", deux à trois semaines après les pics de mobilisation. Ce n'est pas vu comme une trahison délibérée de la CGT mais comme la **logique d'appareil** des centrales syndicales — incapables d'accompagner la spontanéité du mouvement, elles posent des dates qui servent le calendrier institutionnel plutôt que la dynamique de rue.
+
+L'analyse porte aussi sur l'inversion des taux de participation par secteur : l'éducation nationale passe de 18 % le 18 septembre à 6 % le 2 octobre (sous-mobilisation historique), tandis que la restauration, l'audiovisuel et le privé commencent à s'organiser — des secteurs historiquement hors du radar syndical confédéral. La PaduTeam y lit un signe : le mouvement crée de nouvelles bases syndicales que les confédérations n'ont pas encore capturées.
+
 ## Vidéos où l'organisation est mentionnée
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Mention de la CGT chômeurs
 - [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]] — CGT critiquée pour attentisme vis-à-vis du mouvement étudiant 2025 ; soutien financier réel à Poitiers mais bureaucratisation du national pointée du doigt
@@ -32,3 +38,4 @@ La critique implicite reste : si Binet ne rejoint pas le mouvement, elle répèt
 - [[AU CŒUR DU 10 SEPTEMBRE ANALYSES A CHAUD]] — Bilan en temps réel : l'UD CGT Nord a appelé dès début août, la CGT confédérale a "traîné" et appelé "mollement". La PaduTeam critique le manque de radicalité de la direction et appelle à intégrer les syndicats pour y impulser la radicalité par la base.
 - [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — L'intersyndical appelle à la grève le 18 septembre dans de nombreux secteurs. La PaduTeam mentionne que des établissements qui n'avaient pas grévé le 10 prévoient de grèver le 18, et cite l'UD CGT Nord et Jean-Paul de l'ESCO (UD CGT Nord, "la CGT la plus basée de France") dont un entretien est disponible sur la chaîne YouTube On ne veut plus. Samuel Mégins (UDCGT Nord) était aussi présent à la table ronde de Lille avec Bompard. La PaduTeam appelle toutes les CGT à "entrer dans la compétition pour devenir les plus basées de France."
 - [[18 SEPTEMBRE ON EST LA]] — Drapeaux CGT filmés dans les cortèges de Lyon. La PaduTeam commente les chiffres de participation ville par ville : Marseille (100 000 à 120 000 contre 15 000 annoncés), Paris (double des chiffres officiels). Le 18 comme confirmation que le débordement syndical tient sur la durée : 1 million de manifestants selon les estimations militantes, dispositif répressif au maximum mais mouvement non contenu.
+- [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — 2 octobre : la journée de grève est deux fois moins forte que le 18. La PaduTeam identifie la logique d'appareil comme cause structurelle : dates à contretemps, attente institutionnelle de "la copie de Lecornu". Pas une trahison — une limite. L'inversion des courbes (public en recul, privé en hausse) pointe les nouvelles bases syndicales que les confédérations n'ont pas encore captées.

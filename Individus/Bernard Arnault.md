@@ -1,11 +1,13 @@
 ---
 type: individu
-domaine: [économie, société]
-thèmes: [travail, États-Unis]
+domaine: [économie, politique-intérieure]
+thèmes: [travail, guerre-des-gauches]
+aliases: [Nanar, Nanard, Bernard Arnaud]
+skill_version: write-entity-2026-04-21
 date created: Wednesday, April 1st 2026, 10:44:18 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
-#domaine/économie #thème/travail
+#domaine/économie #domaine/politique-intérieure #thème/travail #thème/guerre-des-gauches
 
 # Bernard Arnault
 
@@ -27,7 +29,24 @@ L'argument est mobilisé contre le discours de [[Francois Bayrou]] sur "les Fran
 
 > "Bernard Arnaud pour arriver à la tête de sa fortune a sucé, a exploité une force de travail de millions de personnes. De millions de personnes, d'accord ?" (PaduTeam, sept. 2025)
 
+## La réaction à la taxe Zucman : l'aristocratie de Versailles
+
+En septembre 2025, dans une interview au Sunday Times, Arnault qualifie [[Gabriel Zucman]] de "militant d'extrême gauche" et accuse sa taxe de 2% sur les patrimoines de 100M€ de "vouloir détruire l'économie libérale". La PaduTeam décode la réaction comme un aveu idéologique plus que stratégique.
+
+La distinction analytique centrale : une taxation sur les revenus ne touche pas Arnault — sa fortune se fait par cycles d'accumulation du capital, pas par salaire. Mais toucher au patrimoine, c'est réduire sa capacité à refaire des cycles de capital. "Venir taxer le patrimoine, c'est pour eux zéro, absolument un, parce que ça veut dire qu'on leur enlève leur capacité d'en refaire encore plus."[^patrimoine_v2]
+
+La PaduTeam compare la posture d'Arnault à l'aristocratie du 18e siècle : "On est vraiment face à une aristocratie. [...] tout autour d'elle ça meurt dans la misère et eux ils continuent de tirer des feux d'artifice de faire la fête."[^aristocratie] Il se présente comme "le tout premier contribuable" — rhétorique que la PaduTeam retourne : "tu es le premier réexploiteur français. Tu es tout en haut de la liste des exploiteurs."[^exploiteur]
+
+Sa réaction hystérique à une mesure aussi modeste est analysée comme la preuve que la grande bourgeoisie ne peut plus se permettre de rester distante : "ça prouve quand même qu'il y a quand même bah ils ne peuvent plus là."[^peur] Arnault commence à avoir peur d'une dynamique qui, même avec ses "molassons du progressisme", grignote le principe d'intangibilité de sa fortune.
+
 ## Vidéos où Arnault est mentionné
+- [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]] — cité comme contre-exemple éclatant des couturières à 1 400€ : sa fortune est produite par des travailleurs avec des tendinites, payés une misère sur un "taux de profit monstrueux", pendant qu'il brandit "l'artisanat français"
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — symbolise le grand capital que Bardella défend sous couvert de "libérer les énergies"
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démonstration que sa fortune est produite par des millions de travailleurs ; contre-argument au discours Bayrou sur les "Français qui dépensent" ; le vrai dilapidateur c'est la bourgeoisie
 - [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — cité comme "chef de nos ennemis de classe" et propriétaire du Parisien qui publie l'interview de Patrick Martin ; nommé aux côtés de Macron, Bayrou et Patrick Martin dans la liste des têtes à imprimer sur les canards de la "pêche au connard" du 21 septembre
+- [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — sa réaction à la [[Taxe Zucman]] analysée comme aveu idéologique de classe ; distinction revenu/patrimoine ; comparaison avec l'aristocratie du 18e siècle
+
+[^patrimoine_v2]: [14:58](https://www.youtube.com/watch?v=OOcX-XbD57k&t=898) — "Venir taxer le patrimoine, c'est pour eux zéro, absolument un parce que ça veut dire qu'on leur enlève leur capacité d'en refaire encore plus."
+[^aristocratie]: [10:21](https://www.youtube.com/watch?v=OOcX-XbD57k&t=621) — "On est vraiment face à une aristocratie [...] tout autour d'elle ça meurt dans la misère et eux ils continuent de tirer des feux d'artifice de faire la fête."
+[^exploiteur]: [19:34](https://www.youtube.com/watch?v=OOcX-XbD57k&t=1174) — "tu n'es pas le premier contribuable français, c'est que tu es le premier réexploiteur français. Tu es tout en haut de la liste des exploiteurs."
+[^peur]: [35:02](https://www.youtube.com/watch?v=OOcX-XbD57k&t=2102) — "ça prouve quand même qu'il y a quand même bah ils ne peuvent plus là, tu vois là il commence à vraiment avoir peur."

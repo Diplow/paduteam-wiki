@@ -25,8 +25,20 @@ Fusion atlantisme-sionisme : [[Gill William Goldnadel]] (éditorialiste CNews) e
 
 Rochedy soutient que [[CNews]] s'est positionnée à l'extrême droite parce que sa base démographique (spectateurs âgés de 60+ ans) l'y forçait — simple adaptation à la clientèle. La PaduTeam retourne l'argument : "c'est littéralement l'inverse". [[Vincent Bollore]] a une vision du monde — celle d'un ultra-bourgeois de droite blanc réactionnaire — et s'est servi d'une chaîne de télévision pour la diffuser. La chaîne attire les gens de droite blancs réactionnaires parce que c'est leur vision du monde, pas parce que les algorithmes démographiques ont "optimisé" pour ce public. L'idéologie précède l'audience.[^2]
 
+## CNews se retourne contre la justice : l'affaire Sarkozy
+
+Quand [[Nicolas Sarkozy]] est condamné à 5 ans de prison ferme en 2025, CNews — qui exige H24 la répression maximale contre les pauvres et les racisés — se retourne intégralement contre la justice. [[Laurence Ferrari]] dans "Punchline" accuse les magistrats d'être des gauchistes et présente la détention provisoire comme une honte pour la démocratie. La PaduTeam : "Merci CNews d'être cet anticarcéralisme dont on a besoin à gauche."[^3]
+
+Le retournement n'est pas une incohérence — c'est la cohérence de classe. CNews veut "une justice dure pour les gens les plus précaires, les plus pauvres, les plus violentés" et "laxiste pour les riches".[^4] La nostalgie sarkozyste est centrale : l'ère Sarkozy est "l'époque bénie" pour CNews — business, racisme institutionnel assumé (Guéan, Hortefeux), libéralisme, identité nationale. "Il y avait tout ce qu'est l'empire Bolloré."[^5]
+
+L'autre ironie : CNews mobilise [[Charles Consigny]] pour défendre Alexandre J. (né Ahmed Jourri), co-prévenu de Sarkozy. Consigny note que "comme par hasard les deux Arabes sont les deux seuls qui dorment en prison ce soir." La PaduTeam lui donne raison sur le structurel antiraciste, mais note que le même CNews qui héberge ce discours le contredit chaque soir dans ses émissions habituelles.
+
 ## Vidéos où CNews est analysée
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — décrit comme "appareil de l'atlantisme et du sionisme", en furie contre le pivot chinois de Macron
 - [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — la thèse de Rochedy (CNews s'adapte à son public âgé) démontée : c'est Bolloré qui impose son idéologie, pas le public qui la demande
+- [[CNEWS PLEURE POUR UN CRIMINEL]] — le retournement anti-punitif de CNews à la condamnation Sarkozy ; [[Justice de classe]] en action ; nostalgie sarkozyste comme clé de la ligne éditoriale Bolloré
 
 [^2]: [22:50](https://www.youtube.com/watch?v=chanQENWcJI&t=1370) — "c'est littéralement parce que ils ont une vision du monde adéquate à des rentiers de droite blanc et cetera... C'est leur littéralement leur vision du monde. Donc ils s'adaptent pas."
+[^3]: [9:16](https://www.youtube.com/watch?v=zunLNTeDBoU&t=556) — "Merci CNews d'être cet anticarcéralisme dont on a besoin à gauche quoi."
+[^4]: [12:55](https://www.youtube.com/watch?v=zunLNTeDBoU&t=775) — "Ce qu'ils veulent, c'est une justice dure pour les gens les plus précaires [...] et laxiste pour les riches. C'est tout ce qu'il faut dire."
+[^5]: [5:08](https://www.youtube.com/watch?v=zunLNTeDBoU&t=308) — "Sarkozi c'était vraiment le bling bling [...] pro business un peu réac identité nationale [...] pour eux c'est vraiment l'époque bénie qu'ils regrettent."

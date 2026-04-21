@@ -3,9 +3,9 @@ type: concept
 domaine: [théorie, société]
 thèmes: [santé, travail]
 aliases: [déterminants sociaux de santé, déterminants sociaux]
-skill_version: ingest-batch-2026-04-14
+skill_version: write-concept-2026-04-21
 date created: Tuesday, April 14th 2026, 9:10:35 pm
-date modified: Wednesday, April 15th 2026, 1:40:01 pm
+date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/théorie #domaine/société #thème/santé #thème/travail
 
@@ -22,6 +22,16 @@ En médecine, la notion a mis du temps à s'imposer : "un jour, on s'est rendu c
 L'espérance de vie est un produit des déterminants sociaux. L'écart d'espérance de vie à 35 ans entre cadres et ouvriers est d'environ 6 ans. L'espérance de vie sans incapacité est de 63-64 ans pour tous — signifiant que beaucoup de travailleurs vivent leurs dernières années en mauvaise santé avant même l'âge légal de la retraite.
 
 Indexer l'âge de la retraite sur "l'espérance de vie" sans tenir compte des déterminants sociaux, c'est scientisme : traiter comme naturel et immuable ce qui est politique et réversible.
+
+## Le travail de nuit comme déterminant majeur
+
+Le travail de nuit est quasi exclusivement réservé aux classes populaires (restauration, logistique, transport, soins). Les cadres travaillent tard mais quasiment jamais de nuit. Les horaires fractionnés (alternances nuit/jour/matin) sont encore plus destructeurs. Dans certains métiers, le travail de nuit réduit l'espérance de vie de plus de 10 ans — un déterminant systématiquement absent du débat public sur les retraites.[^nuit-1]
+
+[^nuit-1]: [21:54](https://www.youtube.com/watch?v=sPTaGxN7JFE&t=1314) — "Le travail de nuit, c'est vraiment un truc qui est réservé aux classes populaires [...] ça c'est associé à une énorme diminution de l'espérance de vie. Sur certains boulots, c'est plus de 10 ans"
+
+## Mortalité différentielle par métier
+
+Au-delà de la PCS, l'infographie par métier révèle les hiérarchies de mortalité : sous-mortalité systématique pour enseignants du supérieur, ingénieurs, cadres — surmortalité massive pour éboueurs, pompiers, serveurs, ouvriers agricoles, conducteurs de transport, manœuvres du bâtiment. Les policiers ont une surmortalité moindre qu'on ne le suppose, inférieure à celle des éboueurs. Les militaires ont une surmortalité liée non à la guerre mais à leur origine sociale prolétaire.
 
 ## Alimentation et classe sociale
 
