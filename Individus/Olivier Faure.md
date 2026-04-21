@@ -97,10 +97,15 @@ La PaduTeam estime qu'avec ses 66 députés (obtenus grâce aux concessions de l
 
 [^faure-barricade]: [5:42](https://www.youtube.com/watch?v=VIjS60Badeg&t=342) — "Je sais pas où ils sont partis en vacances... Vas-y Olivier, pars devant sur la barricade, on te regarde." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+### Bayrou tombe : le PS se prépare à récupérer le fauteuil (septembre 2025)
+
+Le jour du vote de confiance, [[Boris Vallaud]] au nom du PS déclare "Nous ne pouvons pas vous faire confiance" puis annonce : "C'est la gauche arrivée en tête de gouverner. Nous sommes prêts." La PaduTeam note l'ironie : "Macron vient du Parti socialiste, donc bon, la boucle est bouclée." Pendant que la rue chauffe pour le 10 septembre, le PS se positionne pour récupérer la PM via Macron — sans le programme du NFP. La PaduTeam souligne l'arnaque EELV (Châelin demande "un PM issu des rangs du NFP") qui pourrait signifier [[Francois Hollande]] lui-même comme PM. "Demander que ce soit le programme du NFP qui gouverne et non pas une personnalité du NFP."
+
 ## Vidéos où Faure est analysé
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, donc il est obligé de surjouer son soutien à la primaire. Stratégie potentielle : envoyer Johanna Rolland à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec Attal sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique."
 - [[Faure oblige de trahir]] — Démonstration graphique que Faure était structurellement obligé de trahir le NFP
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Guerre interne Faure/Vallaud/Mayer-Rossignol post-municipales
+- [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — Boris Vallaud annonce la disponibilité du PS pour gouverner dès la chute de Bayrou ; Hollande cité comme PM "issu des rangs du NFP" possible ; démontage de l'arnaque personnalité vs programme
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM sous Macron, analyse du budget PS hollandiste, panique de Faure face à Panot- [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Sa présence symbolique à Bram comme représentant du PS (sans prendre position) ; la PaduTeam note qu'il est structurellement piégé entre Glucksmann (trop à droite pour LFI) et Mélenchon (trop à gauche pour lui).
 - [[HOLLANDE prepare t-il SON RETOUR]] — Présenté comme le "patron fantoche" que Hollande va manger. Incapable de tenir face au vrai parrain : il croit avoir empêché le 49.3, Hollande lui confirme qu'il ne l'exclut pas.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Le deal Lecornu 2 / suspension des retraites comme point de départ de la guerre des gauches. Faure est "plus malin que prévu" — le mouvement avant les municipales est calculé pour capter les classes intermédiaires en ville.

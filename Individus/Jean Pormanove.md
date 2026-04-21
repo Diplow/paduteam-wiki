@@ -48,9 +48,16 @@ La PaduTeam note qu'un système social fonctionnel — emploi adapté, logement 
 - **[[Kick]]** — plateforme qui finançait le local et bénéficiait directement de l'audience générée
 - **[[Mediapart]]** — avait publié une enquête en décembre 2024 dénonçant la situation ; Naruto mis en garde à vue après l'article, chaîne temporairement fermée puis rouverte
 
+## La récupération islamophobe de sa mort
+
+Après le décès de JP, [[Les Grandes Gueules]] et leur chroniqueur [[Antoine Diers]] (ex-équipe de campagne Zemmour) ont présenté l'affaire sur [[RMC]] comme une attaque "arabe et/ou musulmane" contre un homme blanc — instrumentalisant sa mort dans une rhétorique d'ensauvagement. La PaduTeam qualifie cette récupération de "charongne" : elle efface le validisme, l'emprise et le capitalisme pour les remplacer par un récit racial.
+
+Face à cela, la PaduTeam salue la réponse du médecin TikTok Dr Karim Arou, qui démontre que l'humiliation collective est un phénomène de domination de classe — et non culturel ou maghrébin. L'analyse est développée dans [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]].
+
 ## Vidéos où Jean Pormanove est analysé
 
 - [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]]
+- [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L'ISLAM]] — récupération islamophobe de sa mort par les GG, démontage par la PaduTeam
 
 [^1]: [31:27](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=1887) — Messages lus en direct : "Maman, je pense que là ça va trop loin. Elle a dit j'ai séquestré avec leur concept de merde. / Oui c'est bon on marre je ne veux me barrer autre il veut pas il me séquestre."
 [^2]: [5:41](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=341) — "il y avait peur de l'emmener chez le pneumologue, chez le cardiologue, peur de ce qu'il allait annoncer et donc c'était une discussion récurrente. JP quand tu vas mourir et cetera et cetera."

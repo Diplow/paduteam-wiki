@@ -43,6 +43,7 @@ Glupatate garde une liberté éditoriale négociée : quand le Canard tape trop 
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Référencement explicite comme modèle média indépendant hérité des GJ
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — Recrutement de Glupatate, salué comme bonne nouvelle pour la structuration à gauche
 - [[JVC BRAV-M DARMANIN GLUPATATE REPOND AUX ACCUSATIONS]] — Détail du modèle économique, de la campagne de financement et de la ligne éditoriale
+- [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — Le Canard est cité comme partenaire organisationnel du 21 septembre via sa plateforme "Balance ton action" (référencer les mobilisations partout en France, y compris en ruralité). Sa vidéo d'appel au 21 est citée et intégrée dans la capsule. Formule retenue : "la lutte sera longue donc autant qu'elle soit belle." L'appel du Canard décrit le 21 comme "un grand événement festif dans toute la France" avec musique, bouffe, danse — mais aussi un moment de structuration (groupes de travail, référents, coordination départementale et régionale).
 
 [^glup]: [01:34](https://www.youtube.com/watch?v=qM_z7n7Dk5M&t=94) — "un sacré glupatate très bon très bon recrutement du canard"
 [^salaire]: [44:51](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=2691) — "au Canard Réfractaire tout le monde est sur le même pied d'égalité en terme de salaire [...] c'est un gros SMIC en gros"

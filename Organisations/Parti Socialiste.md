@@ -99,6 +99,20 @@ La PaduTeam accueille favorablement cette clarification : "on a besoin de cette 
 
 [^plan-jospin]: [14:25](https://www.youtube.com/watch?v=VIjS60Badeg&t=865) — "Ce qui se décide c'est vraiment d'exclure la FI, de supprimer Mélenchon de l'équation. Ils vont essayer un maximum de faire une gauche anti-FI" — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+## Le blocage qui ne bloque pas (10 septembre 2025)
+
+Arthur de la Porte, porte-parole PS, déclare sur plateau qu'il "ne soutient pas les blocages qui empêchent les gens d'aller travailler" — alors que le blocage se déroule dans sa propre circonscription. La PaduTeam résume la position PS : "Ils soutiennent les blocages, mais pas si ça bloque. Un blocage qui bloque pas ça peut aller au Parti Socialiste."[^ps-blocage]
+
+Mise en regard des trois postures du "bloc bourgeois" face au 10 septembre :
+- **[[Bruno Retailleau]] (extrême droite)** : violence assumée, zéro tolérance
+- **[[Laurent Wauquiez]] (droite)** : intolérable, les flics font leur travail difficile
+- **PS (gauche système)** : je comprends la colère, mais les blocages qui bloquent vraiment nécessitent les flics
+
+Pour la PaduTeam, c'est "une convention de DRH" : les trois finissent au même endroit sur l'essentiel — le maintien de l'ordre bourgeois. "Ils vont toujours supporter les gouvernements Macron jusqu'à ce qu'ils soient forcés."[^ps-force] La formulation de de la Porte sur Le Cornu (le nouveau PM nommé par Macron) révèle la logique PS : si Macron avait nommé quelqu'un d'autre, peut-être que les gens ne seraient pas descendus dans la rue. Pour la PaduTeam, c'est du PS pur — croire que le problème est le choix du nom, pas le système.
+
+[^ps-blocage]: [38:15](https://www.youtube.com/watch?v=wIPv5rAcllI&t=2295) — "je ne soutiens pas les blocages euh ça manifeste comme ça qui empêche les gens d'aller travailler" — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
+[^ps-force]: [31:03](https://www.youtube.com/watch?v=wIPv5rAcllI&t=1863) — "Ils ne vont toujours supporter les gouvernements Macron jusqu'à ce qu'il soit forcés." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
@@ -106,3 +120,4 @@ La PaduTeam accueille favorablement cette clarification : "on a besoin de cette 
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Portrait de Jamet comme incarnation de la dégénérescence PS : secrétaire général LVMH + maire PS + ~22 postes cumulés, neveu d'un fondateur du FN
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Plan estival anti-LFI : 577 candidats, inspiration Jospin 96, alliance écolos-PCF sans la FI, refus de censurer Bayrou analysé comme solidarité programmatique implicite
+- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — Le PS cartographié comme troisième nuance du "bloc bourgeois" : le blocage qui ne bloque pas, même destination finale (les flics) que Retailleau et Wauquiez

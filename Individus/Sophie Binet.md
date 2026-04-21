@@ -26,7 +26,12 @@ Face au mouvement du 10 septembre, Binet est prise entre les fédérations CGT d
 
 La PaduTeam distingue deux scénarios radicalement différents : une grève générale appelée d'en haut par Binet sans base dans les syndiqués ne vaut rien ; une grève générale qui remonte du bas des fédérations et qui oblige Binet à la valider produit un mouvement réel.
 
+## Le 18 septembre : l'intersyndicale comme aboutissement partiel du débordement
+
+Dans la capsule du 15 septembre, la PaduTeam note que l'intersyndical — dont la CGT fait partie — appelle officiellement à la grève le 18 septembre dans de nombreux secteurs. C'est une étape par rapport au 10 septembre où le positionnement confédéral avait été plus flou : la direction a suivi le bas. La PaduTeam ne revient pas sur Binet nommément dans cette vidéo — c'est la structure syndicale dans son ensemble qui est valorisée. L'accent est mis sur l'UD CGT Nord et Jean-Paul de l'ESCO, cités comme modèles de syndicalisme ancré et radical.
+
 ## Vidéos où elle est mentionnée
 - [[RETAILLEAU MET FIN au WAUQUISME]] — comparée à Vallaud dans le jeu de troisième homme au congrès CGT
 - [[LE PS A TRAHI (EPISODE 24873)]] — Qualifiée de "camarade Sophie" : oppose la position CGT (abrogation) à celle de la CFDT (célébration des miettes). Reproche indirect : l'intersyndicale avec les syndicats traîtres affaiblit les luttes.
 - [[MELENCHON APPELLE A LA GREVE GENERALE LE 10 SEPTEMBRE]] — Analysée comme "embêtée" par le débordement du bas : les fédérations CGT (Métallurgie, Nord, Chimie, Commerce) appellent au 10 septembre avant elle. Sa position initiale floue ("soutenir le 10 septembre mais on ne connaît pas les revendications") critiquée : c'est aussi le rôle des syndicats de faire naître des revendications.
+- [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — Mentionnée en creux : l'intersyndical (dont la CGT) a officialisé la grève du 18, signe que le débordement du bas a produit son effet. La vidéo met davantage en avant l'UD CGT Nord et Jean-Paul de l'ESCO que la direction confédérale.

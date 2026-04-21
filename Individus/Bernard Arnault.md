@@ -30,3 +30,4 @@ L'argument est mobilisé contre le discours de [[Francois Bayrou]] sur "les Fran
 ## Vidéos où Arnault est mentionné
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — symbolise le grand capital que Bardella défend sous couvert de "libérer les énergies"
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démonstration que sa fortune est produite par des millions de travailleurs ; contre-argument au discours Bayrou sur les "Français qui dépensent" ; le vrai dilapidateur c'est la bourgeoisie
+- [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — cité comme "chef de nos ennemis de classe" et propriétaire du Parisien qui publie l'interview de Patrick Martin ; nommé aux côtés de Macron, Bayrou et Patrick Martin dans la liste des têtes à imprimer sur les canards de la "pêche au connard" du 21 septembre
