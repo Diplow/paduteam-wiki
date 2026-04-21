@@ -1,11 +1,11 @@
 ---
 type: individu
-domaine: [société, politique-intérieure]
+domaine: [société, politique-intérieure, économie]
 thèmes: [féminisme, racisme-antiracisme, médias-propagande]
 aliases: [Rochedy, Juju]
 skill_version: write-entity-2026-04-21
 ---
-#domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme #thème/médias-propagande
+#domaine/société #domaine/politique-intérieure #domaine/économie #thème/féminisme #thème/racisme-antiracisme #thème/médias-propagande
 
 # Julien Rochedy
 
@@ -32,6 +32,22 @@ En 2022, il soutient Zemmour contre Marine Le Pen dans la primaire de fait de la
 ### Retour en 2025 : papa et penseur
 
 Rochedy reprend une activité internet régulière (podcast hebdomadaire) après la naissance de son premier enfant à 37 ans. Il commente la droite internet, critique le développement personnel comme dérive apolitique, et reconnaît (involontairement) la supériorité analytique du marxisme comme "grille d'analyse systémique du monde."
+
+## L'idéalisme économique : Nicolas, Mohamed et l'économie de la rente
+
+Dans une vidéo intitulée "Ce que personne ne vous dit sur la politique française", Rochedy prétend produire une analyse matérialiste de l'économie politique française. La PaduTeam (avec Chris en invité) démontre que c'est de l'idéalisme de A à Z.[^7]
+
+**La thèse de Rochedy** : la France est une "économie de la consommation" bloquée, parce que sa population vieillissante exige des retraites et des allocations (deux formes de "rente"). Pour faire tourner le système, l'État taxe Nicolas (le travailleur cadre) et donne à Mohamed (l'immigré qui consomme tout, sans épargne). Immigration et fiscalité seraient donc fonctionnels à ce système — pas idéologiques.
+
+**Les erreurs factuelles** : Rochedy croit qu'un ménage à 3 000 €/mois paie 1 000 € d'impôt sur le revenu par mois. La réalité : un foyer à 5 000 €/mois avec deux enfants paie "peut-être 6 000 à 7 000 € par an" — soit environ 600 €/mois — et souvent moins avec les demi-parts. Il n'a visiblement jamais rempli une déclaration d'impôt avec enfant, et ne sait pas ce qu'est une demi-part.[^8]
+
+**Le fond raciste sous le vernis économique** : le modèle japonais sert d'argument (pas d'immigration → économie de production, pas de consommation). La PaduTeam : "Le Japon est en déficit commercial depuis plus de 10 ans" ; c'est une des économies les plus vieillissantes du monde. La vraie raison pour laquelle Rochedy cite le Japon : "les Japonais c'est bien parce qu'il y a pas d'arabe et de noir."[^9]
+
+**La "politique des inconvénients"** : Rochedy appelle ainsi l'équilibre que tout gouvernement doit trouver entre tenir Mohamed (lui donner assez pour qu'il consomme sans se révolter) et ne pas trop taxer Nicolas. Pour la PaduTeam, c'est la théorisation en langage économique d'un projet de nettoyage ethnique : "le fond du discours, c'est de dire que quelqu'un qui est vraiment radical ce serait quelqu'un qui arriverait en actant le fait qu'il faut déporter une partie de la population sur des critères ethniques."[^10]
+
+**Sur les guerres et la jeunesse** : Rochedy soutient que les pays jeunes font des révolutions et des guerres. La PaduTeam retourne : les nations impérialistes les plus guerrières (États-Unis, Royaume-Uni) sont parmi les plus vieilles. Les pays jeunes à population de 25 ans "périphériques, dominés par l'impérialisme" ne font pas davantage de guerres — ils les subissent, avec moins de ressources pour y répondre.
+
+**Diagnostic PaduTeam** : Rochedy est dans une double crise — crise du néolibéralisme qu'il défendait, et crise d'hégémonie intellectuelle. "Ils essaient de refaire des concepts de la pensée" (infrapolitique, métapolitique, politique des inconvénients) mais "derrière il y a aucune pensée". Comparé à [[Michel Maffesoli]] : le grand proliférateur de faux concepts universitaires vides.
 
 ## Pensée : l'idéaliste qui se croit matérialiste
 
@@ -73,6 +89,12 @@ Rochedy se distingue des autres droitards internet par sa volonté de faire de l
 - [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — portrait complet, trajectoire et pensée
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — tweet sur le procès Mazan démonté par Zoé
 - [[THAIS D ESCUFON AIDE LES INCELS A TROUVER UNE MEUF POUR 19 90 EUROS PAR MOIS]] — cité comme inspiration directe de "Conquête de Valeur"
+- [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — démolition de son analyse économique ("politique des inconvénients", immigration comme économie de la consommation, idéalisme sur l'âge et la jeunesse)
+
+[^7]: [1:09:21](https://www.youtube.com/watch?v=chanQENWcJI&t=4161) — "Il parle d'économie mais il ne comprend rien à rien au mode de production. Il utilise des trucs au hasard. Circulation, travail, production, c'est bidon."
+[^8]: [33:09](https://www.youtube.com/watch?v=chanQENWcJI&t=1989) — "Nicolas qui lâche ses 1000 balles... il avait pas encore rempli sa première déclaration d'impôts avec enfant je crois. Il sait pas ce que c'est une demi-part."
+[^9]: [37:15](https://www.youtube.com/watch?v=chanQENWcJI&t=2235) — "Le seul truc mais les Japonais c'est bien parce qu'il y a pas d'arabe et de noir. C'est ça le truc."
+[^10]: [43:29](https://www.youtube.com/watch?v=chanQENWcJI&t=2609) — "le fond du discours c'est de dire quelqu'un qui est vraiment radical ça serait quelqu'un qui arriverait en actant le fait qu'il faut déporter une partie de la population sur des critères ethniques"
 
 [^1]: [7:50](https://www.youtube.com/watch?v=esHnAi47Kh0&t=470) — "Ivan Benedetti le menace physiquement et je crois qu'il l'attrape par les couilles"
 [^2]: [24:52](https://www.youtube.com/watch?v=esHnAi47Kh0&t=1492) — "des squelettes qu'on avait attribués à des hommes parce qu'il y avait des armes dans la tombe... en faisant de nouvelles recherches on se rend compte que certains étaient des femmes"

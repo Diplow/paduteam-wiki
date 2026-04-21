@@ -31,3 +31,4 @@ Selon la PaduTeam : Saqué souffre d'une "inculture politique" qui lui fait lais
 ## Vidéos où Salomé Saqué est analysée
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — citée comme exemple de la fausse neutralité de France Inter
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — critique de l'interview avec Mauduit sur les "patrons de gauche"
+- [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — citée comme exemple de convergence entre gauche molle et extrême droite sur l'analyse générationnelle ("pays de vieux bloqué") : deux penseurs opposés produisant la même fausse analyse matérialiste

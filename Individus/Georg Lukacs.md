@@ -29,3 +29,6 @@ Lukacs reste entre deux chaises : "pas assez stal pour les stales de son pays" e
 ## Vidéos où Georg Lukacs est analysé
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — *Histoire et conscience de classe* mobilisé pour l'asymétrie bourgeoisie/prolétariat : conscience bourgeoise organique et synchronisée avec la pratique quotidienne vs conscience prolétarienne qui nécessite l'organisation
+- [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — la réification comme développement et prolongement du fétichisme de la marchandise ; la PaduTeam précise que la réification de Lukács ("dans *Histoire et conscience de classe*") va "un peu plus loin" que le fétichisme marxiste classique, sans les opposer[^2]
+
+[^2]: [12:18](https://www.youtube.com/watch?v=oJJjXM92mjs&t=738) — "la réfication. Oui, c'est un développement de Lukács qui reprend le fétichisme et qui va un peu plus loin dans *Histoire et conscience de classe*. Il développe ce concept de réification. Effectivement, le concept de réification de Lukács est un développement et un prolongement du concept de fétichisme de la marchandise."

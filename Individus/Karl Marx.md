@@ -27,3 +27,4 @@ Citation du Manifeste mobilisée par la PaduTeam : "La bourgeoisie a pris le pou
 
 ## Vidéos où Marx est discuté
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — Le Capital recommandé, discussion sur la méthode marxiste et la dénaturalisation du monde
+- [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — la distinction travail abstrait/travail concret et le fétichisme de la marchandise appliqués aux outils de gestion capitaliste (tickets Jira, tarification à l'acte, politique du chiffre) ; thèse : "le monde n'a jamais autant ressemblé à ce que dit Marx" qu'aujourd'hui, car le capital est plus hégémonique qu'en 1867

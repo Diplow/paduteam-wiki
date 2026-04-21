@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme]
-skill_version: write-enjeu-2026-04-21-enrichi
+skill_version: write-enjeu-2026-04-21-enrichi-w27w28
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -86,6 +86,24 @@ La PaduTeam défend que la **catégorie clé du marxisme est le possible, pas le
 
 La conscience collective de classe dépasse l'alternative affect/raison que Spinoza et Lordon maintiennent. "Le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza." Cette critique ne conteste pas la bonne volonté de l'approche — elle en signale l'insuffisance stratégique : une politique qui part des affects sans les dépasser ne peut pas produire la rupture hégémonique.
 
+### 15. La recomposition droite comme miroir de la guerre des gauches
+
+Le corpus de juillet 2025 (Bardella/Sarkozy, Macron 2032) enrichit la guerre des gauches d'une dimension symétrique : pendant que la gauche se fragmente, la droite cherche à se recomposer — et cette recomposition redéfinit les conditions du second tour 2027.
+
+La rencontre Bardella/Sarkozy (juillet 2025) est analysée dans [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] comme le début du processus de reconstitution du bloc Sarkozy 2007. La PaduTeam établit la distinction structurante pour comprendre la guerre des gauches en miroir : **à gauche, la bataille de personnes (Mélenchon vs Glucksmann) cache une vraie guerre idéologique ; à droite, la bataille d'idéologies cache une guerre de personnes** — il n'y a plus aucun écart idéologique entre RN et droite républicaine, seulement des ambitions personnelles antagonistes. "Il n'y a aucune bataille de ligne. Il y a gestion de la pénurie par le racisme."
+
+Cette lecture a une conséquence directe pour la gauche : la droite à deux candidats à 20% chacun garantit la défaite — elle cherche à reconstituer un bloc unifié. Le chemin de la victoire pour LFI passe donc précisément par l'éclatement de ce bloc droite, que la moïsation (Sarkozy → Bardella + Retailleau) est en train de produire malgré elle.
+
+La diabolisation de Mélenchon analysée dans [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] entre dans ce schéma : les accusations absurdes sur son enfance renforcent mécaniquement le vote caché parmi les cadres et classes moyennes qui soutiennent ses positions mais ne peuvent les assumer socialement. La diabolisation est un carburant paradoxal — elle entretient la guerre des gauches tout en renforçant la prophétie.
+
+### 16. Les noisettes comme révélateur structurel de la guerre des gauches
+
+Le corpus juillet 2025 fournit deux cas d'école complémentaires sur la catégorie des [[Noisettes]] : [[Francois Ruffin]] avec "Debout" et [[Dominique de Villepin]] avec "La France Humaniste".
+
+Ce que ces deux cas ont en commun — et qui les rattache à la guerre des gauches — est leur fonction objective : **occuper l'espace "au-dessus des partis" pour diluer le clivage**. Ruffin dit "je ne veux pas cliver" ; Villepin dit "je suis au-dessus des partis". Les deux effacent la lutte des classes comme moteur — Ruffin par condescendance culturelle envers le prolétariat, Villepin par rhétorique gaulliste institutionnelle. L'un et l'autre valident ainsi structurellement l'hégémonie conservatrice qu'ils prétendent combattre.
+
+La PaduTeam distingue les deux noisettes par leur ancrage social : Ruffin est "des vieux profs qui bandent sur le prolétariat", prédit à 6,1% ; Villepin est coincé "en sandwich" dans un espace déjà occupé par Retailleau, Ruffin et Tondelier, prédit à 3-4%. Ni l'un ni l'autre ne menaçent LFI — mais ensemble, ils organisent la dilution de l'espace à gauche du PS, qui avantage finalement le PS par défaut.
+
 ## Adversaires identifiés
 
 - **[[Olivier Faure]]** et le PS — trahison structurelle inévitable, espace de classe incompatible avec la rupture
@@ -160,4 +178,9 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]]
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER !!]] — Tondelier comme "noisette bio" : plus dépolitisante que Glucksmann lui-même, réduit les lignes politiques à des "histoires d'ego", inclut Macron dans les antifascistes, prépare le "tapis rouge pour le fascisme" ; prévision : 3-4% à la présidentielle 2027
+- [[RUFFIN LANCE SON PARTI DEBOUT]] — analyse paradigmatique de la noisette culturaliste : condescendance de classe vs intelligence du peuple ; refus du clivage comme validation de l'hégémonie conservatrice ; prédiction Graphique 6,1%
+- [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — gaullisme sans de Gaulle comme produit structurel de la 5e République ; contradiction arithmétique fatale (gauche Palestine + droite économie ne s'additionne pas) ; 3-4% prédit
+- [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — miroir de la guerre des gauches : à droite bataille de personnes (pas d'idéologie), à gauche bataille d'idéologies sous formes de personnes ; Sarkozy parrain reconstituant le bloc droite ; la moïsation éclate la droite comme LFI espère éclater le centre
+- [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — diabolisation absurde comme carburant paradoxal du vote caché ; la guerre des gauches intérieure (Dray/PS) renforce mécaniquement Mélenchon via le vote de ceux qui ne peuvent assumer leur soutien
+- [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — démonstration chiffrée via le Graphique que la quasi-totalité des candidats déclarés ne passeront pas ; espace noisette hyper-fragmenté ; Le Pen confirmée 2e tour malgré les affaires
 - [[ROUSSEL trouve RETAILLEAU TROP MOU]] — Droitisation du PCF : Roussel tient exactement le même discours sécuritaire que Retailleau (lapsus analytique "Fabien Retailleau") ; devient "l'homme de gauche préféré de la droite pour qui la droite ne votera jamais" ; donne "un permis de taper encore plus fort à la police" ; l'URC présentée comme l'embryon du parti communiste de masse que le PCF n'est plus

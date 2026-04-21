@@ -107,6 +107,7 @@ Rubio incarne le **passage du néoconservatisme au colonialisme assumé**. Il ne
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Rôle dans la politique Venezuela
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — pétrodollar 5 ans, articulation avec la fuite en avant arctique
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Discours Munich : décryptage intégral, colonialisme sans masque, triple crise du capitalisme, ennemis identifiés, ré-archaïsation face à Jules Ferry
+- [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — Cité pour son rôle dans le renforcement du blocus de Cuba : limitation des remessas, sanctions contre les pays qui accueillent du personnel médical cubain, origine familiale d'exilés cubains (exploiteurs dépossédés par la révolution)
 
 [^rub_nazi]: [0:00](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=0) — « on traite tout le monde de nazi en ce moment, mais là on se retrouve face à quelqu'un qu'on pourrait presque traiter de nazi en étant juste. Marco Rubio, le secrétaire d'État de Trump [...] l'aile droite fasciste des Républicains américains qui a fait un discours à Munich [...] c'est le discours le plus colonial qu'on a entendu depuis des décennies vraiment. »
 [^rub_debut]: [18:01](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1081) — extrait du discours Rubio cité par la vidéo : « sous la présidence de Trump, les États-Unis d'Amérique s'attelleront à nouveau à la tâche du renouveau et de la restauration [...] prêts si nécessaire à le faire seul. »

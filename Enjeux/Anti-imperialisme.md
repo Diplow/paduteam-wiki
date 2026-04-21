@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine, États-Unis]
-skill_version: write-enjeu-2026-04-19
+skill_version: write-enjeu-2026-04-21
 date created: Tuesday, April 14th 2026, 4:52:34 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -34,12 +34,21 @@ La PaduTeam insiste sur la nécessité de définir "démocratie" quand ce terme 
 ## La guerre commerciale comme front de l'anti-impérialisme
 La capsule Trump-Chine (mars 2026) enrichit l'enjeu anti-impérialiste d'une dimension économique structurelle : la résistance chinoise aux droits de douane de Trump est présentée comme la réponse d'un pays qui s'émancipe progressivement de l'hégémonie du dollar. La Chine réplique symétriquement, force un accord équilibré (34/34), et maintient une position géopolitique favorable. Elle s'impose comme alternative commerciale pour les pays d'Asie du Sud-Est et les BRICS. La résistance anti-impérialiste passe aussi par l'économie : sortir du bon du trésor américain au profit de l'or, diversifier les partenaires commerciaux, développer un marché intérieur indépendant.
 
+## Le blocus comme arme systémique : Palestine et Cuba, même logique
+
+La vidéo avec [[Resistance et Solidarite]] (juillet 2025) documente la continuité structurelle entre le blocus de Gaza et le blocus de Cuba, révélant que le [[Blocus comme arme imperialiste]] est une technique impérialiste transversale, pas une mesure ad hoc.
+
+L'extraterritorialité du droit américain est le mécanisme commun : toute entreprise mondiale qui traite avec Cuba ou Gaza risque d'être exclue du marché américain. La BNP a écopé de plusieurs milliards de dollars d'amende pour transactions en dollars avec Cuba. Le vote américain à l'ONU contre Cuba ? Seuls deux pays : les États-Unis et Israël. Mêmes votes, mêmes mécanismes de blocus, même logique de destruction des États récalcitrants — l'axe US-Israël n'est pas conjoncturel, il est systémique.
+
+La PaduTeam tire de ce parallèle une leçon anti-impérialiste pratique : la solidarité internationaliste doit être simultanément Palestine et Cuba, pas sectorialisée par conflit. [[Resistance et Solidarite]] le fait concrètement : médicaments pour Gaza et Cuba dans la même structure militante, même combat.
+
 ## Gaza comme révélateur du bipartisanisme impérialiste US
 
 Le corpus Gaza (2024-2026) confirme que l'impérialisme américain est structurel et non partisan. [[Joe Biden]] "trempé jusqu'à la moelle" dans le soutien à Netanyahu — il a armé Israël sans frein alors qu'il aurait pu imposer un cessez-le-feu dès la première année. [[Donald Trump]] assume explicitement ce que Biden cachait : proposition d'une "Côte d'Azur" touristique à Gaza comme nettoyage ethnique déclaré, accord avec Tony Blair pour une occupation US supervisant un "retrait" israélien "progressif" (modèle Allemagne de l'Ouest post-1945). Deux chemins vers la même destination : colonisation directe Netanyahu ou colonisation-par-association impérialiste américaine. La France comme État vassal : espace aérien ouvert à Netanyahu inculpé CPI, refus de sanctions, [[Emmanuel Macron]] reconnaissant tardivement la Palestine sans contenu matériel. Ce corpus articule donc l'anti-impérialisme à l'analyse du génocide en cours : soutenir la Palestine est l'acte anti-impérialiste central de la période.
 
 ## Vidéos clés (suite — corpus Gaza 2024-2026)
 
+- [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — parallèle Cuba/Gaza comme même mécanique impérialiste de blocus extraterritorial ; vote US-Israël à l'ONU comme révélateur de l'axe systémique ; solidarité internationaliste pratique via [[Resistance et Solidarite]]
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Analyse du bipartisanisme US sur Israël, accord Trump-Blair, France complice
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Avec Paul Elek : impunité absolue, France laissant Netanyahu survoler son espace aérien malgré CPI
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Platformage d'un inculpé CPI par la télévision publique, contraste avec Spain/Ireland/Norway
