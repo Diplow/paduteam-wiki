@@ -56,6 +56,7 @@ Enjeu renforcé massivement depuis 2023. Arc à travers les vidéos PaduTeam :
 - **[2025]** Critique de la reconnaissance tardive Macron/Hidalgo ([[MACRON HIDALGO RECONNAISSENT LA PALESTINE]]) — reconnaître l'État quand il est détruit, sans sanctions contre Netanyahu = théâtre bourgeois. Figure de la [[Recuperation posthume]].
 - **[octobre 2025]** Bilan 2 ans après le 7 octobre ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) — théorisation du continuum colonial 80 ans, refus de la narration qui commence le 7-10, appel à la dignité générationnelle, libération d'Abdallah comme preuve que la lutte paie.
 - **[janvier 2026]** Illusion du cessez-le-feu ([[GAZA L'ILLUSION DU CESSEZ-LE-FEU]], avec Paul Elek) — le cessez-le-feu comme houdna temporaire pendant que le front colonial continue, opération « Muraille de Fer » en Cisjordanie, accord Trump-Blair comme colonisation par intermédiaire.
+- **[mars-avril 2026]** Négationnisme institutionnel structurel — le cas [[Marianne]] sous [[Daniel Kretinski]] : deux impondérables éditoriaux imposés ("Israël est une démocratie", "il n'y a pas de génocide à Gaza"). Le journaliste [[Quentin M]] démissionne via clause de conscience. L'incident [[Sylvain Mercadier]] — pigiste arrêté, menotté et battu par l'armée israélienne en Syrie, dont la simple mention en ligne est sanctionnée comme "trop partisane" — expose le mécanisme : l'armée israélienne peut frapper un journaliste français, et signaler l'événement passe pour de la partialité. La PaduTeam pose la nécessité structurelle d'une sécurité sociale des médias. ([[MARIANNE LE JOURNAL NEGA-SIONNISTE]])
 
 La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une victoire du mouvement de solidarité. La leçon Abdallah, citée par la PaduTeam : « c'est en luttant qu'on tient, pas en tenant qu'on fait la lutte ».
 
@@ -72,6 +73,8 @@ Le sionisme de gauche enrichit cet enjeu d'une dimension spécifique : **le sion
 L'argument structurant : **le sionisme venu de gauche est plus nocif car il divise le camp qui devrait être unanime contre le génocide**. La PaduTeam : "Le RN est moins sioniste que le Parti socialiste en France."
 
 ## Vidéos clés
+
+- [[MARIANNE LE JOURNAL NEGA-SIONNISTE]] — Le cas Kretinski/Marianne comme démonstration mécanique de la [[Propriete milliardaire des medias]] : deux impondérables éditoriaux imposés ("Israël est une démocratie", "il n'y a pas de génocide"), journaliste battu par l'armée israélienne dont la mention en ligne est sanctionnée ; la clause de conscience comme seule sortie individuelle face à une structure de propriété bloquant toute résistance collective ; appel à une sécurité sociale des médias
 
 - [[FRANCE INFO OFFRE 10 POUR CENT AU CLUB MED GAZA]] — banalisation de la déportation comme sujet hôtelier ; licenciement d'un journaliste pour "otages palestiniens" ; logique médiatique qui traite les Palestiniens comme non-êtres ; parallèle Valence comme loi générale du traitement médiatique des catastrophes
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] : centralité de la question palestinienne, renaissance du marxisme mondial, retournement du rapport de force

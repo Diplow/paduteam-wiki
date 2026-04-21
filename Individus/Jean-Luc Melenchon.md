@@ -133,3 +133,4 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Réaction blog post-Bram ; Glucksmann impose sa ligne ; Mélenchon dans la position de Mitterrand 1981
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du "dossier" Dray ; diabolisation absurde comme carburant du vote caché
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Mélenchonisme inséparable de Mélenchon ; culture politique "exceptionnelle" saluée ; génération formée devra réorienter après lui
+- [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — La stratégie "2002 inversé" explicitée : Mélenchon doit incarner le pôle antisystème de gauche que Le Pen incarnait à droite en 2002, imposer des thèmes de rupture (32h, nationalisation du crédit, retraite 60 ans) et assumer la diabolisation comme carburant de la dynamique

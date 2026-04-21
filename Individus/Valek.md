@@ -48,9 +48,10 @@ Lors de la vidéo avec Thaïs, Valek tente de convertir son audience à une visi
 
 ## Concepts associés
 
-[[Individualisation des problemes structurels]], [[Psychologie libertarienne]], [[Masculinisme individualiste]], [[Industrie de la seduction]], [[Capitalisme masculiniste]], [[Confusionnisme rouge-brun]]
+[[Individualisation des problemes structurels]], [[Psychologie libertarienne]], [[Masculinisme individualiste]], [[Industrie de la seduction]], [[Capitalisme masculiniste]], [[Confusionnisme rouge-brun]], [[Evopsychologie comme naturalisation]], [[Misogynie protegee par le statut]]
 
 ## Vidéos où Valek est analysé
 
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — trajectoire complète JVC → libertarianisme ; analyse pipeline radicalisation ; contrepoint Thaïs d'Escufon
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — cité en référence comparatiste ; le PNJ de Hongrie suit la même logique d'exil libertarien que Valek au Portugal
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — podcast avec Thaïs ; usage de l'évopsie pour naturaliser le couple monogame et la dévaluation des femmes avec l'âge ; distinction misogynie "saine" (des dominants) / "toxique" (des incels pauvres) ; contradiction réac-libertarien

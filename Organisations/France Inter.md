@@ -26,7 +26,9 @@ France Inter pense que son discours crée des électeurs. L'analyse PaduTeam inv
 - [[Salome Saque]] — journaliste, citée comme autre exemple de "fausse neutralité"
 - [[Clément Petro]] — journaliste politique, auteur de la chronique sur la moïsation
 - [[Sophia Chikirou]] — mentionnée parmi les figures proches de France Inter (présence passée)
+- [[Nicolas Demorand]] — journaliste France Inter, analysé dans le cadre de sa prise de parole publique sur la bipolarité (*Intérieur Nuit*)
 
 ## Vidéos où France Inter est analysée
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — dîner avec le PS pour placer Glucksmann, démontage de l'idée que France Inter crée de l'électorat
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — Clément Petro fait une chronique sur la moïsation en la présentant comme une "stratégie cachée" de Mélenchon ; la PaduTeam démonte le complotisme bourgeois qui transforme toute analyse matérialiste en plan conscient
+- [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] — Nicolas Demorand analysé comme cas d'étude sur la [[Psychophobie]] et le [[Validisme]]

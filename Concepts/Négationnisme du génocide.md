@@ -36,8 +36,10 @@ La PaduTeam fait un parallèle avec les nazis qui ont commencé à cacher la Sho
 - [[Sophia Aram]] au Molières 2024 : "il y a un silence assourdissant autour du 7-octobre" — inversion totale : il y a eu des milliers de discours sur le 7-octobre, quasi-silence sur les 70 000+ morts palestiniens
 - [[Anne Sinclair]] : "Le Hamas est pire que les nazis" + "des relents de génocide dans le 7-octobre" mais "pas de génocide à Gaza"
 - [[Bernard-Henri Levy|BHL]] : "Israël libère le Liban" à propos du bombardement de Beyrouth
+- **[[Marianne]] sous [[Daniel Kretinski]]** : négationnisme institutionnalisé dans la politique éditoriale — deux "impondérables" imposés à la rédaction : "Israël est une démocratie" et "il n'y a pas de génocide à Gaza". Un journaliste qui rappelait les faits (CIJ, CPI, organisations humanitaires) s'est vu reprocher un "tropisme anti-israélien" et a dû quitter par [[Clause de conscience]]. C'est ici du négationnisme structurel, pas individuel : il est encodé dans la ligne éditoriale d'un journal national par décision de propriétaire milliardaire.
 
 ## Vidéos où le concept est développé
 - [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Cas principal : Dray vs Grok, analyse marxiste des rapports sociaux et des faits, parallèle avec la Shoah
 - [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — Le silence assourdissant instrumentalisé ; inversion de la réalité médiatique
 - [[BEYROUTH RASEE BHL VEUT Y APPORTER LA DEMOCRATIE]] — BHL, Pina, Sinclair : trois formes du négationnisme bourgeois sur le Liban
+- [[MARIANNE LE JOURNAL NEGA-SIONNISTE]] — Négationnisme institutionnalisé en politique éditoriale : deux "impondérables" imposés à la rédaction par [[Daniel Kretinski]] via [[Propriete milliardaire des medias]]

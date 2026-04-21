@@ -33,10 +33,10 @@ Pas de chiffres ou sondages dans cette vidéo.
 [[Alain Soral]], [[Michel Clouscard]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Lionel Jospin]], [[Bruno Retailleau]], [[Tatiana Ventose]], [[Ludivine Bantigny]], [[Charles Maurras]]
 
 ## Organisations mentionnées
-[[Valeurs Actuelles]], [[Parti des Travailleurs]], [[Nouveau Parti Anticapitaliste|NPA]], [[Lutte Ouvriere|Lutte Ouvrière]], [[CGT]], [[France Insoumise]], [[Parti Communiste Francais|PCF]], [[Printemps Républicain]]
+[[Valeurs Actuelles]], [[Parti des Travailleurs]], [[Nouveau Parti Anticapitaliste|NPA]], [[Lutte Ouvriere|Lutte Ouvrière]], [[CGT]], [[France Insoumise]], [[Parti Communiste Francais|PCF]], [[Printemps Republicain|Printemps Républicain]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laicite culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Bourgeoisie progressiste]], [[Politisation de valeurs vs politisation materielle]]
+[[Graphique]], [[Moisation|Moïsation]], [[Islamophobie]], [[Laicite culturaliste]], [[Gaullocommunisme]], [[Soralisme]], [[Trotskisme]], [[Accelerationnisme]], [[Bourgeoisie progressiste]], [[Politisation de valeurs vs politisation materielle]]
 
 ## Enjeux avancés
 [[Union populaire]] — solidarité affirmée avec les camarades musulmans face à l'islamophobie, tâche prioritaire de tout militant de gauche conséquent

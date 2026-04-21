@@ -15,6 +15,8 @@ date modified: Monday, April 20th 2026, 1:27:51 pm
 
 # FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !
 
+[![FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !](https://img.youtube.com/vi/4n1s-3x5r-Q/0.jpg)](https://www.youtube.com/watch?v=4n1s-3x5r-Q)
+
 ## Résumé
 
 La PaduTeam réagit en direct à la cartographie de l'extrême gauche publiée par [[Frontiere]], média d'extrême droite dirigé par [[Eric Tegner]]. La vidéo est un react décontracté enregistré le soir du 9 avril, avec participation du chat.
@@ -56,8 +58,15 @@ La carte de [[Frontiere]] révèle deux choses :
 - [[Mathieu Kassovitz]] classé "antiflic" malgré ses déclarations pro-RN aux législatifs 2024.
 - [[Marine Tondelier]] en "islamogauchiste" — la PaduTeam rappelle sa réaction négative aux "Allah Akbar" dans une banlieue et sa surveillance de Médine aux universités d'été, ce qui la rend ironiquement classée islamogauchiste par Frontière.
 
+## Entités
+
+- **Individus** : [[Eric Tegner]], [[Francois Ruffin]], [[Alain Soral]], [[Marine Tondelier]], [[Jean Massiet]], [[Nicolas Framont]], [[Paul Vanier]], [[Mathieu Kassovitz]], [[Assa Traore]], [[Louis Boyard]], [[Daniel Obono]], [[Maboula Soumahoro]], [[Rima Hassan]], [[Lilian Thuram]], [[Sebastien De Logu]]
+- **Organisations** : [[Frontiere]], [[France Insoumise]], [[UNEF]], [[Medecin Sans Frontiere]], [[Secours Catholique]], [[LICRA]], [[MRAP]], [[SOS Racisme]], [[Oxfam]], [[Soulèvements de la Terre]], [[Extinction Rebellion]], [[Urgence notre police assassine]], [[La Jeune Garde]], [[Backseat]]
+- **Concepts** : [[Le Graphique comme outil]], [[Conscience possible]]
+- **Enjeux** : —
+
 ## Liens
 
 - Sujet principal : [[Frontiere]], [[Eric Tegner]]
 - Individus notables mentionnés : [[Francois Ruffin]], [[Alain Soral]], [[Marine Tondelier]], [[Jean Massiet]], [[Nicolas Framont]], [[Paul Vanier]], [[Mathieu Kassovitz]], [[Assa Traore]], [[Louis Boyard]], [[Daniel Obono]], [[Maboula Soumahoro]], [[Rima Hassan]]
-- Comparaison : [[Graphique]], [[Graphique]]
+- Comparaison : [[Le Graphique comme outil]]

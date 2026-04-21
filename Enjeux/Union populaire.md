@@ -39,6 +39,18 @@ Le mécanisme de la crise économique (baisse de la production industrielle, mon
 
 Padu et Chris appellent à porter la "conflictualité" directement dans les territoires : salles des fêtes en ruralité, gymnases en quartier populaire, petites villes de province. L'exemple fondateur : Mélenchon en 2012 à Hénin-Beaumont contre [[Marine Le Pen]] — 21-22% dans un fief FN, une "défaite" qui est en réalité une victoire. Le modèle inverse de la stratégie Viktorovitch (commenter de l'extérieur) : aller au contact, affronter, convertir. Référence à [[Benoit Coquard]] sur la nécessité de porter la conflictualité. "Si Mélenchon vient dans votre salle des fêtes et que les gens qui le détestent viennent poser leurs questions, là il casse le game — et en plus France 2 le reprend."
 
+## La stratégie 2027 formalisée : le 2002 inversé
+
+[[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] constitue la formalisation la plus aboutie de la stratégie électorale PaduTeam pour 2027. La thèse : la configuration électorale de 2027 reproduit 2002 à l'envers — en 2002, la gauche explosée (8 candidats) avait laissé Le Pen au second tour avec 16,86% ; en 2027, c'est la droite et le centre qui s'éparpillent, ouvrant la même fenêtre côté gauche. Mélenchon doit incarner le pôle antisystème radical de gauche que Le Pen incarnait à droite.
+
+Trois conditions sont nécessaires : (1) refuser la peur de la diabolisation — comme Le Pen imposait ses thèmes au RPR, Mélenchon doit imposer des thèmes de rupture (32h, nationalisation du crédit immobilier, retraite à 60 ans) que ni PS ni RN ne peuvent reprendre ; (2) un programme suffisamment radical pour que PS et macronistes le refusent au 1er tour, les piégeant au second (captifs entre Bardella et Mélenchon) ; (3) des États généraux convoqués sur la base du Graphique — 5000 personnes tirées au sort selon la structuration de classe réelle (30% ouvriers, 20% employés…), représentation nationale matérialiste en contraste avec la hiérarchie politique.
+
+La cartographie analogique complète : Le Pen 2002 → Mélenchon 2027 / Chirac → Bardella ou Marine Le Pen / Jospin → Boris Vallaud / Bayrou → Édouard Philippe / Chevènement → Villepin / Mamère → écolos / Gluckstein → Anasse Kazib ou NPA / Mégret → Zemmour.
+
+## La moïsation validée par le mainstream — et ses effets sur l'union populaire
+
+[[FRANCE INTER et LE POINT reprennent MON CONCEPT c'est CATA !!]] documente l'entrée de la [[Moisation]] dans le vocabulaire des médias dominants — avec une déformation caractéristique : ils la présentent comme une "stratégie cachée" de LFI, pas comme une description structurelle de la polarisation. Conséquence directe pour l'union populaire : le complotisme bourgeois des médias (incapables de voir les dynamiques de classe) contribue à la disqualification systématique de LFI comme "danger pour la démocratie" — renforçant le cordon sanitaire que la PaduTeam identifie comme condition paradoxale de la victoire Mélenchon ("il a besoin du cordon sanitaire pour s'imposer comme l'autre pôle"). La PaduTeam prédit que [[Raphael Glucksmann]] fera une "camala-harris" et sera battu par [[Bruno Retailleau]] — confirmant que la social-démocratie ne peut pas reconstruire un espace structurellement mort.
+
 ## Évolution
 Position renforcée au fil des trahisons PS documentées. L'analyse des municipales 2026 (Toulouse, Nantes) a fourni des preuves concrètes que l'alliance avec le PS est un piège. La PaduTeam pousse désormais pour une radicalisation du programme LFI plutôt qu'un élargissement par le centre.
 
@@ -98,6 +110,8 @@ La PaduTeam formule la leçon géopolitique de gauche : les USA ont commencé le
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Avantage structurel français (casse-noix bilatéral) vs marteau de droite US monolatéral ; LFI a capté le bloc populaire que la DSA peine à construire faute d'organisation de masse
 
 ## Vidéos clés
+- [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — formalisation de la prophétie 2002 inversé ; cartographie analogique complète des candidats 2027 ; programme radical comme dispositif de piégeage du PS au second tour ; États généraux du Graphique comme innovation institutionnelle
+- [[FRANCE INTER et LE POINT reprennent MON CONCEPT c'est CATA !!]] — la moïsation récupérée par le mainstream ; complotisme bourgeois comme lecture de LFI ; Glucksmann prédit à la "camala-harris" ; le centre structurellement mort confirmé
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — articulation explicite de la stratégie "95 inversé" : deux gauches au premier tour, polarisation idéologique, crise économique comme fragilisation du bloc bourgeois
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — démontage des fausses équivalences Mélenchon/Le Pen ; définition de l'extrême droite par la hiérarchisation des êtres humains ; la dédabolisation comme opération de façade
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Démonstration que deux candidats à gauche valent mieux qu'une candidature unique : avec deux candidats, le premier tour se joue sur des thèmes de gauche (retraites, Palestine, nationalisations), créant une dynamique de report au second tour. Une candidature unique centre le débat sur la droite. "Le vrai barrage antifasciste c'est la victoire de la gauche de rupture, pas la synthèse avec le centre."

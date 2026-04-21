@@ -19,3 +19,4 @@ Padu mobilise la formule maoïste pour justifier la plasticité du travail PaduT
 
 ## Vidéos où Mao est cité
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — "Soyez comme un poisson dans l'eau" comme métaphore de l'adaptation militante
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — les "médecins aux pieds nus" (paysans formés aux soins de première intention) comme référence pour la [[Delegation de taches medicales|délégation de tâches médicales]] ; la PaduTeam défend la "solution du camarade Mao" sur le fond

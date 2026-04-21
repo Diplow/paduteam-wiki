@@ -4,7 +4,7 @@ domaine: [économie, société]
 thèmes: [santé, travail]
 skill_version: write-enjeu-2026-04-21
 date created: Tuesday, April 14th 2026, 9:10:35 pm
-date modified: Monday, April 21st 2026, 12:00:00 pm
+date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
 
 #domaine/économie #domaine/société #thème/santé #thème/travail
@@ -45,17 +45,27 @@ La proposition de basculer des remboursements vers les complémentaires privées
 
 Les Affections de Longue Durée (cancer, diabète, épilepsie, pathologies psychiatriques chroniques) sont prises en charge à 100% par la Sécu — et c'est une cible. Les [[Jours de carence|jours de carence]] déjà imposés sont contre-productifs : les gens retournent au travail malades, contaminent leurs collègues, font des arrêts plus longs. Augmenter les jours de carence coûte plus cher, pas moins.[^5]
 
-### 5. Le repoussoir américain : ce que la privatisation produit à terme
+### 6. Le repoussoir américain : ce que la privatisation produit à terme
 
 L'assassinat du PDG de [[UnitedHealthcare]] ([[Brian Thompson]], décembre 2024) est l'occasion d'une démonstration comparative. La plus grosse assurance santé américaine (327 milliards de dollars de chiffre d'affaires, 50 millions d'assurés) refuse 27 % des demandes de remboursement — stratégie dite "delay, deny, defend" gravée sur les douilles des balles retrouvées sur les lieux du meurtre. Les États-Unis dépensent 18-20 % du PIB pour la santé contre 12 % en France, pour une espérance de vie inférieure de 5 ans. La PaduTeam tire la leçon directe : "c'est pour ça qu'en France ils veulent détruire la Sécu — c'est un marché monstrueux." La compagnie qui avait annoncé cesser de rembourser les anesthésies dépassant la durée prévue est revenue sur sa décision le lendemain de l'assassinat de Thompson. Preuve supplémentaire que la pression publique et la violence structurelle du système sont liées : les assureurs ne font des concessions que sous contrainte. Brian Thompson n'était pas "méchant" — il jouait les règles d'un jeu dont l'objectif est de maximiser le profit. Tant que la santé est gérée par des assurances privées à but lucratif, le désastre est inévitable.
 
-### 5. La démographie médicale sabotée : pénurie programmée depuis 30 ans
+### 5. Le validisme comme logique capitaliste de tri — IME, ESAT, AAH
+
+Le discours sur le handicap psychiatrique est structurellement intégré à l'offensive contre la Sécu. La PaduTeam le formule dans [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] : la France ne gère pas le handicap, elle le **ségrègue**. La filière IME (enfants) → ESAT (adultes, travail sous le SMIC, sans droit de grève jusqu'en 2024) → AAH (allocation handicap) est une politique de tri des corps productifs, pas une politique de soin. Les personnes handicapées ne sont jamais intégrées à la société ordinaire — d'où la psychophobie qui persiste : "c'est plus simple de ségréguer les handicapés en France que de leur permettre de faire partie de la société."
+
+La PaduTeam retourne la [[Psychiatrisation du social]] : des souffrances produites par des conditions sociales (précarité, traumas, violences) reçoivent un diagnostic individuel, ce qui dissout la responsabilité collective. La bipolarité comme fait social en est l'exemple : les règles hygiéno-diététiques indispensables (sommeil régulier, abstinence d'alcool et de psychoactifs) sont un **privilège de classe** — travailler de nuit, être précaire, combattre des traumas par l'alcool sont des facteurs de rechute imposés par la condition sociale, pas des fautes individuelles.
+
+**Le témoignage de Demorand est analysé comme trop individualisé/bourgeois** : Nicolas Demorand peut assumer publiquement son trouble bipolaire parce que son statut social le protège. "Se qualifier de malade mental, c'est un privilège." Pour quelqu'un sans papiers, sans emploi, victime de violences policières, la psychophobie ne se règle pas par la visibilité individuelle d'un journaliste de France Inter. Le militantisme du témoignage bourgeois ne politise pas — il individualise un problème structurel.
+
+**La critique du programme LFI sur le handicap** : se limiter à "ouvrir plus de places en ESAT" prolonge la logique ségrégative. Un programme de gauche adapte le travail ordinaire, emploie des encadrants, intègre ces personnes dans les entreprises et la fonction publique.
+
+### 7. La démographie médicale sabotée : pénurie programmée depuis 30 ans
 
 La crise des urgences n'est pas due aux patients étrangers — c'est une pénurie organisée. Le flux hospitalier fonctionne comme de la plomberie : si ça bouche aux urgences, c'est parce qu'il y a trop de pression à l'entrée (pas assez de médecine générale en amont, faute de médecins formés) et pas assez de débouché à la sortie (pas assez de lits en aval). La sous-formation médicale est une décision politique des années 80-90 dont les effets s'étalent sur 30 ans — et qui a encore 5 à 10 ans devant elle.
 
 **L'impossibilité du flux tendu en santé** : contrairement à une usine, les flux en santé sont fondamentalement imprévisibles. Un service sait combien d'infarctus il prendra en moyenne sur un an — mais pas combien il en aura dans le mois. Supprimer les variables d'ajustement (lits non occupés en permanence) pour des raisons comptables, c'est condamner le système à la saturation dès le premier pic saisonnier. La logique néolibérale du flux tendu, appliquée à l'hôpital, est structurellement létale. La gestion du cyclone Chido à Mayotte illustre la même logique : refuser de pré-positionner des stocks d'eau parce que "le cyclone passera peut-être à côté".
 
-### 6. La fermeture des services hospitaliers
+### 8. La fermeture des services hospitaliers
 
 Sous Macron : **30 000 lits fermés**. La [[Tarification a l acte|tarification à l'acte]], introduite par le PS, transforme les hôpitaux en entreprises qui coupent des services quand ils ne sont pas rentables — même quand la dégradation des soins coûte finalement plus cher. La fermeture de centres d'accueil de crise psychiatrique en est l'exemple le plus frappant.[^6]
 
@@ -126,6 +136,7 @@ La Sécurité Sociale ne produit pas seulement de meilleurs soins à moindre co�
 - [[ON RECADRE PSYKOCOUAC LE PSYCHOLOGUE LIBERTARIEN ANTI-SECU]] — refus de conventionnement retourné : dépendance au niveau de vie des patients vs dépendance à l'État ; tarification à l'acte comme cause structurelle ; 3% de frais de gestion Sécu vs 21-22% assurances privées ; histoire de la dépossession des caisses par les patrons et l'État ; le paradoxe du psychologue matérialiste libertarien
 - [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — déconventionnement comme défection individuelle ; sélection de la patientèle par l'argent comme tri social ; 500€/an de reste à charge pour un patient mensuel ; transparence militante sur les revenus médicaux ; confraternité comme outil de censure interne
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PLFSS Barnier comme vecteur concret de privatisation par les complémentaires ; chiffres 3-4% vs 21-22% de frais de gestion ; 5,6 milliards d'économies potentielles vs 1 milliard de la mesure phare ; bronchiolite et surcharge pédiatrique comme conséquence directe des 30 000 lits fermés ; [[Nicolas Bouzou]] comme exemple de la classe des économistes qui "ont toujours tort" et n'en subissent jamais les conséquences
+- [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] — validisme comme logique capitaliste de tri (IME → ESAT → AAH) ; psychiatrisation du social ; bipolarité comme fait de classe (règles hygiéno-diététiques comme privilège) ; critique du témoignage bourgeois individualisé ; LFI insuffisante sur la question du handicap (plus de places en ESAT = prolonger la ségrégation)
 - [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — démonstration comparative par l'absurde : 18-20 % du PIB US vs 12 % FR pour 5 ans d'espérance de vie en moins ; 27 % de remboursements refusés chez UnitedHealthcare ; "delay, deny, defend" comme manuel de l'assureur prédateur ; la logique capitaliste produit mécaniquement le désastre — pas les "méchants dirigeants" mais la structure ; crise des opioïdes comme second cas de la violence structurelle du capitalisme pharmaceutique
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"

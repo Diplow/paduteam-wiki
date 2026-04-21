@@ -25,3 +25,4 @@ Maurras était totalement anti-allemand dans son discours — et pourtant, quand
 ## Vidéos où Maurras est cité
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — référence pour comprendre l'[[Atlantisme]] structurel de l'extrême droite
+- [[FROM TROTSKISTE TO RACISTE]] — cité comme figure de la matrice 1 de l'islamophobie (droite réactionnaire catholique antisémite qui reporte son discours sur les musulmans : "nation dans la nation", grand remplacement)
