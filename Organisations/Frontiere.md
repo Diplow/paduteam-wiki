@@ -29,7 +29,7 @@ La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", r
 
 - [[Eric Tegner]] — patron actuel, mis en cause pour VSS
 - Pierre-René Laville — prédécesseur condamné pour violence conjugale
-- Jordan Florentin — journaliste, accusé d'avoir harcelé une femme endeuillée pour ses positions politiques
+- Jordan Florentin — journaliste, accusé d'avoir harcelé une femme endeuillée pour ses positions politiques ; conférencier sur le "fascisme de LFI" (octobre 2025)
 - Dora Muto — ancienne rédactrice adjointe de Combini, partie chez Frontière
 
 ## Affaire Louise (février 2025)
@@ -45,3 +45,9 @@ La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé
 ## Regard de la PaduTeam
 
 "VA+, Frontière : l'extrême droite la plus ridicule de France." La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."
+
+## Vidéos où Frontière est analysé
+
+- [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — cartographie de "l'extrême gauche" : travail bâclé au ChatGPT, logique de race sociale perçue
+- [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — [[Jordan Florentin]] et le harcèlement de la sœur de Louise
+- [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — conférence de Florentin sur le "fascisme de LFI" ; démontage : 1/7 pour LFI, 6/7 pour RN et Reconquête

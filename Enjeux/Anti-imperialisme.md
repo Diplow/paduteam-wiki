@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Venezuela, Palestine, Iran, Amérique-latine, Ukraine, États-Unis]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w29w30
 date created: Tuesday, April 14th 2026, 4:52:34 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -58,15 +58,15 @@ Le corpus Gaza (2024-2026) confirme que l'impérialisme américain est structure
 
 L'Iran est, avec Cuba, le pays qui illustre le mieux la mécanique impérialiste sur la durée. La PaduTeam y consacre quatre vidéos couvrant juin 2025 à mars 2026.
 
-**L'histoire longue (depuis Mossadegh)** : En 1953, le Premier ministre [[Mohammed Mossadegh]], élu démocratiquement, nationalise le pétrole iranien. La CIA organise un coup d'État (opération Ajax) et remet le [[Shah d'Iran]] au pouvoir — dictature proaméricaine jusqu'en 1979. La révolution islamique de [[Rouhollah Khomeini]] renverse le Shah avec une alliance communistes-islamistes. La [[Guerre Iran-Irak]] (1980-1988), déclenchée par [[Saddam Hussein]] avec l'appui US, solidifie le nationalisme anti-impérialiste iranien au lieu de le briser.
+**L'histoire longue (depuis Mossadegh)** : En 1953, le Premier ministre [[Mohammed Mossadegh]], élu démocratiquement, nationalise le pétrole iranien. La CIA organise un coup d'État (opération Ajax) et remet le [[Shah d'Iran]] au pouvoir — dictature proaméricaine jusqu'en 1979. La révolution islamique de [[Rouhollah Khomeini]] renverse le Shah avec une alliance communistes-islamistes. La guerre Iran-Irak (1980-1988), déclenchée par [[Saddam Hussein]] avec l'appui US, solidifie le nationalisme anti-impérialiste iranien au lieu de le briser.
 
 **Le blocus comme arme** : Depuis 1979, l'embargo US asphyxie l'économie iranienne — inflation à 200%, dévaluation du rial, coupures d'électricité. Ce n'est pas la répression interne qui crée la misère populaire, c'est le blocus occidental. La position PaduTeam est claire : la première ligne anti-impérialiste depuis le centre est **arrêter les sanctions contre l'Iran**[^iran1].
 
-**La propagande de guerre** : Chaque crise en Iran donne lieu à la même séquence impérialiste. Les manifestations (2009, 2022, début 2026) sont instrumentalisées par une diaspora pro-Shah en exil qui n'a aucune base dans la population iranienne. Les mêmes associations (Femmes Azadi, liée au fils du Shah) défilent à Paris avec des drapeaux israéliens. Le [[Fémonationalisme]] sert à légitimer l'agenda impérialiste au nom des droits des femmes[^iran2].
+**La propagande de guerre** : Chaque crise en Iran donne lieu à la même séquence impérialiste. Les manifestations (2009, 2022, début 2026) sont instrumentalisées par une diaspora pro-Shah en exil qui n'a aucune base dans la population iranienne. Les mêmes associations (Femmes Azadi, liée au fils du Shah) défilent à Paris avec des drapeaux israéliens. Le [[Femonationalisme|Fémonationalisme]] sert à légitimer l'agenda impérialiste au nom des droits des femmes[^iran2].
 
-**La guerre de février-mars 2026** : Le 27 février 2026, les États-Unis et Israël frappent l'Iran et tuent [[Ali Khamenei]], guide suprême. [[Donald Trump]] déclare la guerre sans vote du Congrès. [[Emmanuel Macron]] fait de même sans vote du Parlement. La vraie raison : faire remonter le [[Pétrodollar]] à 100$ le baril pour sauver l'économie trumpiste en crise[^iran3].
+**La guerre de février-mars 2026** : Le 27 février 2026, les États-Unis et Israël frappent l'Iran et tuent [[Ali Khamenei]], guide suprême. [[Donald Trump]] déclare la guerre sans vote du Congrès. [[Emmanuel Macron]] fait de même sans vote du Parlement. La vraie raison : faire remonter le [[Petrodollar|Pétrodollar]] à 100$ le baril pour sauver l'économie trumpiste en crise[^iran3].
 
-**L'Iran tient** : L'Iran s'y préparait depuis 30 ans. La [[Défense mosaïque décentralisée]] rend l'armée opérationnelle sans ses têtes. Les missiles iraniens à 50 000$ neutralisent les intercepteurs US à plusieurs centaines de milliers d'euros. Après 10 jours, Trump recule. [[Mojtaba Khamenei]], fils d'Ali, est nommé nouveau guide suprême — trolling géopolitique assumé[^iran4].
+**L'Iran tient** : L'Iran s'y préparait depuis 30 ans. La [[Defense mosaique decentralisee|Défense mosaïque décentralisée]] rend l'armée opérationnelle sans ses têtes. Les missiles iraniens à 50 000$ neutralisent les intercepteurs US à plusieurs centaines de milliers d'euros. Après 10 jours, Trump recule. [[Mojtaba Khamenei]], fils d'Ali, est nommé nouveau guide suprême — trolling géopolitique assumé[^iran4].
 
 **L'isolement de Trump** : L'Arabie Saoudite, les Émirats et le Golf se distancient. Pedro Sanchez s'oppose seul en Europe. La décision des Iraniens de nommer le fils de Khamenei montre qu'ils "s'en battent les couilles des conseils des impérialistes sur qui doit être le chef suprême religieux de leur pays."
 
@@ -79,7 +79,7 @@ Ce corpus révèle une fracture au sein de LFI sur la ligne anti-impérialiste :
 La PaduTeam ne demande pas d'approuver la République islamique — elle demande de ne pas fournir des "armes de propagande de guerre au pays le plus fasciste de la planète."
 
 ## Concepts associés (mis à jour)
-[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]]
+[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Femonationalisme|Fémonationalisme]], [[Defense mosaique decentralisee|Défense mosaïque décentralisée]]
 
 ## Le Venezuela : Doctrine Monroe 2.0
 
@@ -91,7 +91,7 @@ L'enlèvement de [[Nicolas Maduro]] (janvier 2026) est le cas le plus spectacula
 
 **La continuité chaviste** : Chavez → Maduro → Rodriguez. Les "trahisons" dénoncées par les trotskistes sont en réalité la même politique de souveraineté pétrolière. La photo Rodriguez-CIA sert avant tout la propagande de Trump ("j'ai gagné"), pas la preuve d'une reddition.
 
-**Les relais politiques** : [[Raphaël Glucksmann]] qualifié d'"agent américain" pour son tweet "pas une larme pour Maduro" au moment du bombardement. [[Emmanuel Macron]] "serpillère de l'impérialisme" pour avoir félicité [[Maria Corina Machado]] (3 % de soutien populaire, appels à l'intervention US, programme de privatisation de PDVSA). [[Gabriel Attal]] encore plus à droite que Le Pen sur ce sujet. [[Jean-Luc Melenchon]] salué pour avoir tenu une ligne anti-impérialiste de principe sans condamner Maduro.
+**Les relais politiques** : [[Raphael Glucksmann|Raphaël Glucksmann]] qualifié d'"agent américain" pour son tweet "pas une larme pour Maduro" au moment du bombardement. [[Emmanuel Macron]] "serpillère de l'impérialisme" pour avoir félicité [[Maria Corina Machado]] (3 % de soutien populaire, appels à l'intervention US, programme de privatisation de PDVSA). [[Gabriel Attal]] encore plus à droite que Le Pen sur ce sujet. [[Jean-Luc Melenchon]] salué pour avoir tenu une ligne anti-impérialiste de principe sans condamner Maduro.
 
 **Le ni-nisme trotskiste** : [[Anasse Kazib]] (Révolution Permanente) dénonce Maduro comme "dictateur 100% anti-ouvrier" le jour de son kidnapping. Pour la PaduTeam, c'est une "honte" : au moment précis où l'impérialisme fasciste agit, alimenter sa propagande avec des éléments de langage identiques à ceux de Glucksmann, c'est se placer objectivement du même côté. Le peuple vénézuélien lui-même manifestait pour le retour de Maduro — ce qui invalide empiriquement la thèse du "dictateur antipopulaire".
 
@@ -104,7 +104,7 @@ La demande "est-ce que Maduro est un dictateur ?" est structurellement identique
 Le concept de [[Dictature post-revolutionnaire]] (Lucien Goldman) permet d'être plus précis : un régime post-révolutionnaire qui doit gérer la pression extérieure impérialiste a des logiques de verrouillage internes qui n'ont rien à voir avec la dictature réactionnaire bourgeoise. La comparer à Hitler, Pinochet ou Kim Jong-un est une escroquerie intellectuelle.
 
 ## Concepts associés (mis à jour)
-[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Fémonationalisme]], [[Défense mosaïque décentralisée]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]], [[Communalisme bolivarien]]
+[[Crise de l'hegemonie americaine]], [[Guerre psychologique imperialiste]], [[Balcanisation imperialiste]], [[Narcoterrorisme comme label imperialiste]], [[Etiquette dictateur]], [[Retraite tactique bolivarienne]], [[Brest-Litovsk des Caraibes]], [[Campisme]], [[Ni-nisme]], [[Tricontinentale]], [[Petrodollar]], [[Femonationalisme|Fémonationalisme]], [[Defense mosaique decentralisee|Défense mosaïque décentralisée]], [[Doctrine Monroe 2.0]], [[Dictature post-revolutionnaire]], [[Occidentalocentrisme]], [[Communalisme bolivarien]]
 
 ## L'Ukraine : guerre impérialiste sans camp progressiste
 
@@ -271,7 +271,8 @@ Le cas israélien confirme la thèse : "Israël c'est un État qui se sent en s�
 - [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]] — Le dispositif "condamnez-vous Maduro" comme équivalent du "condamnez-vous le Hamas"
 - [[ANASSE KAZIB ATOMISE MADURO]] — Critique frontale du trotskisme occidental comme complicité objective de l'impérialisme
 - [[LE VENEZUELA S'EST VENDU A TRUMP ET LA CIA]] — Continuité Rodriguez/Maduro sur le pétrole, Samir Amine, victoire bolivarienne sur les conditions de vente
-- [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — L'anti-impérialisme à travers le prisme de la lutte palestinienne et de la crise de l'hégémonie américaine
+- [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec Said Bouamama : la libération comme produit du rapport de forces (pas de clémence) ; stratégie impérialiste post-URSS de balcanisation ; renaissance de l'intérêt pour la Palestine par le prisme antiraciste ; la France connaît une crise de légitimité sans équivalent en Europe (quatre mouvements de masse) ; l'[[Union pour la Reconstruction Communiste|URC]] et le [[Front Uni des Immigrations et des Quartiers Populaires|FUIQP]] comme réponses organisationnelles
+- [[GEORGES IBRAHIM ABDALLAH ISRAEL VIT SES DERNIERS INSTANTS]] — "Israël vit aujourd'hui ses derniers instants" : preuve que la résistance s'intensifie mondialement ; théorie explicite de la résilience militante collective ("résilient à la hauteur de la mobilisation de ses camarades dehors") ; la libération comme calcul de coût politique de l'impérialisme, pas geste de clémence ; honte envers les peuples arabes passifs face au génocide formulée par Abdallah lui-même depuis sa légitimité de combattant
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Le bilan géorgien de Glucksmann décortiqué : OTAN comme vecteur de libéralisation ultra-violente
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — L'[[Atlantisme]] de l'extrême droite française comme preuve de sa soumission à l'hégémonie US
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La résistance chinoise à l'hégémonie commerciale US

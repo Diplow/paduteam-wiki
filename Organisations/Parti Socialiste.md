@@ -82,9 +82,18 @@ La "clé de voûte" Fort entre les deux : essaie d'être ni pro-union totale (FI
 [^jamet-lvmh]: [7:15](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=435) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 [^jamet-statut]: [31:58](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1918) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 
+## Responsabilité dans la destruction du système de santé
+
+La PaduTeam établit que la destruction de l'hôpital public n'est pas une invention macroniste mais une continuité PS-macroniste-LR. Pièce à charge centrale : **la T2A (tarification à l'acte hospitalière) a été introduite par le gouvernement Jospin** (PS). En transformant les hôpitaux en entreprises rémunérées selon leur volume d'actes, le PS a planté la graine du cercle vicieux actuel : lits fermés → manque à gagner → plans d'économie → moins de soignants → encore moins de lits.
+
+> "Le Parti socialiste est complice sur ce qui s'est passé. Il a littéralement créé Macron donc il est complice et même quand on vous dit la tarification à l'acte hospitalière et tout, c'est eux qui l'ont fait." [13:55](https://www.youtube.com/watch?v=muzy4rcCi8s&t=835)
+
+L'alliance des "assassins de la santé" traverse les trois blocs : PS, macronisme, LR — désignée comme telle par la PaduTeam dans [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]].
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Portrait de Jamet comme incarnation de la dégénérescence PS : secrétaire général LVMH + maire PS + ~22 postes cumulés, neveu d'un fondateur du FN
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — co-responsabilité dans la destruction hospitalière via la T2A (Jospin), alliance de fait avec macronistes et LR contre la Sécu

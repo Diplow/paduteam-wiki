@@ -27,6 +27,7 @@ Lukacs reste entre deux chaises : "pas assez stal pour les stales de son pays" e
 - [[Lucien Goldmann]] — successeur intellectuel, a développé le structuralisme génétique
 
 ## Vidéos où Georg Lukacs est analysé
+- [[REEDUCATION INCEL LIBERTARIEN]] — Lénine et Lukács cités dans la discussion sur dialectique marxiste vs positivisme vulgaire ; la phrase de Marx "quand une idée s'empare des masses, elle devient une force matérielle" comme formulation canonique de la dialectique idée-matière
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — *Histoire et conscience de classe* mobilisé pour l'asymétrie bourgeoisie/prolétariat : conscience bourgeoise organique et synchronisée avec la pratique quotidienne vs conscience prolétarienne qui nécessite l'organisation
 - [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — la réification comme développement et prolongement du fétichisme de la marchandise ; la PaduTeam précise que la réification de Lukács ("dans *Histoire et conscience de classe*") va "un peu plus loin" que le fétichisme marxiste classique, sans les opposer[^2]

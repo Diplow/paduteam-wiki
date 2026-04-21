@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w27w28
+skill_version: write-enjeu-2026-04-21-enrichi-w29w30
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -145,6 +145,16 @@ Mécanisme du [[Vote cache]] des cadres : les 32h et la 6e semaine de congés pa
 La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du dispositif : Mélenchon lui donne ses 500 signatures, Kazib "sert Mélenchon comme Poutou en 2017" en fracassant Le Pen et Retailleau en débat et en mobilisant des abstentionnistes de gauche radicale.
 
 [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] confirme la même thèse en conditions réelles : quand Mélenchon peut dérouler sa ligne sur un terrain médiatique non-hostile (journalistes québécois qui ne le diabolisent pas), la combinaison "communisme + antisystème" est naturellement hégémonique. La leçon : "quand le terrain médiatique est non-hostile, la ligne radicale s'impose d'elle-même." Il déploie ses "deux jambes" — programme radical pour ne pas être "pris par le PS", posture antisystème pour capter l'abstention — en citant les chiffres bruts de la trahison PS : "1,67% en 2017, on les sort du néant, à peine arrivés ils refusent les motions de censure."
+
+## La grève comme seul rapport de force lisible par l'adversaire (juillet 2025)
+
+[[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] enrichit l'union populaire d'une dimension syndicale et de terrain. Face aux 44 milliards d'économies Bayrou qui "tuent les gens" concrètement (renoncement aux soins, enfants sans orthophonistes, infirmières à bout), la PaduTeam appelle à dépasser la censure parlementaire en articulant terrain militant et rapport de force économique. La salutation de l'annonce CGT (Sophie Binet) est couplée à un appel plus radical : syndicalisez-vous, rejoignez des collectifs, bloquez les points nodaux de la production (raffineries, logistique) pour rappeler qui produit réellement la richesse. Le salariat collectif a le nombre et la capacité d'arrêter l'appareil de production — c'est ça le rapport de force compris par l'adversaire.
+
+L'argument est matérialiste : les possédants ont l'argent et la propriété ; le salariat a le nombre. "Un bon blocage général, les raffineries, certains points nodaux — pour rappeler qui produit dans ce pays."
+
+## Deux pôles au premier tour comme règle de la victoire (corpus juillet 2025)
+
+[[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] et [[GLUCKSMANN NE CHOISIT PAS ENTRE MELENCHON ET LE PEN]] confirment ensemble la stratégie des deux pôles séparés comme seule logique viable. Le FP2027 en union fourre-tout est prédit à 5-6% — une candidature unique qui ne parle pas aux mêmes franges de population ne s'additionne pas arithmétiquement. Deux pôles séparés polarisent le premier tour sur des thèmes de gauche, créent des dynamiques propres à chaque espace de classe, et imposent le report au second tour par contrainte de camp — "Glucksmann ne peut pas appeler à voter Le Pen, ça lui donnerait le monopole de gauche."
 
 ## Vidéos clés (corpus mai 2025)
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — diabolisation comme étape prévue par le Graphique ; syllogisme Palestine→Goebbels weaponisé par la LICRA ; Mélenchon comme digue ; les libertés publiques ne sont jamais un principe, seulement une tolérance bourgeoise
