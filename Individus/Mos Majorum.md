@@ -71,7 +71,15 @@ La PaduTeam dénonce explicitement Sowell comme auteur de "propagande, pas d'éc
 - [[La Breche]] — cible principale de ses débunks
 - [[Positions Revue]] — Chris de Positions Revue est l'interlocuteur principal dans les réacts de la PaduTeam sur ses vidéos
 
+## Erreur sur Goldmann et Galilée
+
+Dans la deuxième vidéo de réponse, Mos Majorum prétend s'appuyer sur [[Lucien Goldmann]] pour critiquer la PaduTeam, mais commet une erreur d'histoire fondamentale : il affirme que la bourgeoisie était au pouvoir au 16e siècle et que Galilée était donc "contre la bourgeoisie". C'est l'inverse : c'est la bourgeoisie montante qui porte l'héliocentrisme face au géocentrisme de l'Église alliée à la noblesse. La PaduTeam : "Tous les théoriciens non-marxistes savent que la bourgeoisie n'avait pas le pouvoir sous le féodalisme."[^gold]
+
+Il cite Kolakowski contre Goldmann mais "n'est incapable de comprendre Kolakowski" et ne reprend aucun des concepts fondamentaux de Goldman (conscience possible, lutte des classes, sujets collectifs). Sa prétendue réfutation de *Le Dieu caché* revient à raconter une légende sur Pascal enfant pour nier que Pascal exprimait la vision du monde de la noblesse de robe.
+
+[^gold]: [22:37](https://www.youtube.com/watch?v=eyF1l-60H-Q&t=1357) — "Ce type a débunké le Manifeste [...] il n'a toujours pas compris ce qu'était une classe sociale parce qu'il croit que la bourgeoisie était au pouvoir sous le féodalisme."
+
 ## Vidéos où Mos Majorum est analysé
 - [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — réponse à son débunk de "La bourgeoisie détruit la science" ; application de la [[Conscience possible]]
-- [[REEDUCATION INCEL LIBERTARIEN]] — suite : son comportement sur Twitter envers Zoé ; poursuite du débat épistémologique
+- [[REEDUCATION INCEL LIBERTARIEN]] — suite : son comportement sur Twitter envers Zoé ; poursuite du débat épistémologique ; erreur sur Goldmann et Galilée ; lyssenkisme comme argument de mauvaise foi
 - [[MOS MAJORUM - ce sont LES SALARIES qui EXPLOITENT LES PATRONS !!]] — épisode intercalé de sa série anti-Marx ; démonstration que sa réfutation de l'exploitation expose malgré lui la lutte des classes

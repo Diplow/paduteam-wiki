@@ -53,7 +53,7 @@ La filiation Chouard → Gilets Jaunes : pendant 10 ans, Chouard a imposé un su
 
 ### 4. La trajectoire des libéraux-libertaires : de la gauche au néofascisme
 
-[[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] applique la loi de [[Michel Clouscard]] : "libéraux libertaires devenus néofascistes — ce sont les mêmes personnes." Ce ne sont pas des retournements — ce sont des continuités. Le proudonisme d'Onfray contenait dès le départ les germes de sa droitisation. L'anarchisme proudonien "a pavé la voie au fascisme depuis 150 ans."
+[[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE|ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] applique la loi de [[Michel Clouscard]] : "libéraux libertaires devenus néofascistes — ce sont les mêmes personnes." Ce ne sont pas des retournements — ce sont des continuités. Le proudonisme d'Onfray contenait dès le départ les germes de sa droitisation. L'anarchisme proudonien "a pavé la voie au fascisme depuis 150 ans."
 
 Serge July (ex-rédac chef de Libé maoïste, soutien au Traité constitutionnel européen), Michel Onfray (anarchiste proudonien devenu islamophobe), Naulleau (auteur de *Dialogue des accordés* avec Soral) : même trajectoire, même loi de classe.
 
@@ -95,7 +95,7 @@ Ce triple choc installe la conviction que le clivage droite-gauche est une fauss
 - [[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]] — démontage systématique de l'économie politique soralienne ; Soral n'a pas lu Clouscard ; gaullisme comme néolibéralisme ; dialectique hégélienne ≠ dialectique marxiste
 - [[CE "MARXISTE" A TRÈS PEUR DU GRAND REMPLACEMENT !! (FRANCIS COUSIN)]] — cas le plus élaboré : heideggerianisme, essentialisme ethno-racial, Wertkritik ; armée de réserve du capital utilisée correctement vs usage cousinnien
 - [[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]] — idéalisme bourgeois du tirage au sort ; la constitution ne précède pas le rapport de force ; parlement du travailleur collectif comme alternative matérialiste
-- [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — loi de Clouscard des libéraux-libertaires ; trajectoire proudonienne d'Onfray ; le positionnement politique comme acte objectif mesurable
+- [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE|ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — loi de Clouscard des libéraux-libertaires ; trajectoire proudonienne d'Onfray ; le positionnement politique comme acte objectif mesurable
 - [[PAYE TON DROITARD 7.1 PADU L ADO CONFUS qui apprend a BAISER avec SORAL]] — cas documenté de l'intérieur : le TCE 2005 comme moment fondateur, le triangle Usul/Chouard/Soral, la convergence apparente Le Pen/Mélenchon comme miroir du confusionnisme
 - [[PAYE TON DROITARD 7.2 ELECTEUR RN]] — arc Soral → Asselineau → vote RN ; l'accroche masculiniste précède le politique ; la sortie par la rencontre affective comme dépositionnement qui précède le dépositionnement politique
 - [[WTF RAZ et CASSANDRE me TRAITENT d ANTISEMITE en plein LIVE]] — outil de la gradation du confusionnisme ; mécanisme du déni chez le confus ; distinction entre confus récupérable et antisémite assumé ; la sortie passe par la confrontation à des éléments précis, pas par la condamnation globale

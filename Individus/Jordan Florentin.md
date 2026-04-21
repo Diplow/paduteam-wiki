@@ -22,6 +22,17 @@ La PaduTeam : "Jordan Florentin, honte à toi vraiment. Mais j'espère que tu as
 
 À l'époque des faits, l'identité du coupable n'était pas établie — un suspect avait été placé en garde à vue puis relâché avec alibi.
 
+## Conférence "Le fascisme de LFI" (octobre 2025)
+
+Florentin présente une conférence pour [[Frontiere]] intitulée "Média, l'idéologie face au réel" dans laquelle il affirme que LFI est fasciste. Il utilise une liste de 6 critères tirée de ChatGPT (inspirée d'[[Umberto Eco]]) et soutient que LFI y répond.
+
+La PaduTeam démontre l'opération point par point : Florentin admet lui-même que LFI ne remplit pas le critère essentiel (nationalisme extrême + exclusion des minorités), mais maintient l'accusation — "c'est un peu comme dire qu'une figure à trois côtés, c'est un carré quand même". Score final : 1/7 pour LFI (économie dirigée), 6/7 pour ses propres partis ([[Rassemblement National]] et [[Reconquete]]). La PaduTeam conclut que Florentin est "un fasciste qui s'ignore" : il se prend pour un libéral tout en combattant le libéralisme philosophique.
+
+La méthode de Florentin est aussi ciblée : "S'appelle ChatGPT et je me suis amusé à juste poser la question définition du fascisme à ChatGPT." Pour la PaduTeam : "le niveau de Frontière quoi — eux-mêmes ne savent pas qui ils sont."
+
+Voir [[Accusation de fascisme par retournement]] et [[Definition materialiste du fascisme]].
+
 ## Vidéos
 
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — harcèlement de la sœur de Louise, analyse de la récupération raciste
+- [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — démontage de sa conférence sur le "fascisme LFI" ; 1/7 pour LFI, 6/7 pour ses alliés

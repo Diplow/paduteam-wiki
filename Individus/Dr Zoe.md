@@ -48,6 +48,20 @@ Zoé exerce comme médecin généraliste en zone rurale. L'hiver est sa période
 
 **Évolution visible** : Entre 2024 (ton analytique, précautions juridiques fréquentes) et 2025 (radicalisation politique explicite, appel à la "ligue de médecins communistes", vision de la fin de la médecine libérale comme projet de gauche).
 
+## Expertise psychiatrie
+
+La PaduTeam documente l'expérience de terrain psychiatrique de Zoé à travers plusieurs axes :
+
+**Sur les urgences psychiatriques** : elle adresse régulièrement des patients en risque suicidaire élevé aux urgences générales faute d'alternative, notamment des hommes agriculteurs et ouvriers ruraux qui "ne disent pas que ça ne va pas pendant très très longtemps et d'un coup essaient de se buter". Ces profils n'acceptent une aide qu'une fois, et les 10 heures d'attente aux urgences peuvent briser définitivement cette fenêtre.
+
+**Sur les [[Centre d accueil de crise|CAC]]** : défend leur modèle contre la logique budgétaire qui les ferme. Témoigne de leur supériorité pratique sur l'hospitalisation classique pour les personnes en première crise.
+
+**Sur les traumas sexuels en psychiatrie adolescente** : estime que 40 à 50 % des consultations en psychiatrie de l'adolescente cachent un trauma sexuel. Son centre de psychotrauma public : 18 mois d'attente. Patients — notamment des jeunes femmes victimes de viol sous soumission chimique — qui développent des TCA, des idées suicidaires, parfois passent à l'acte dans l'intervalle.
+
+**Sur la transphobie médicale** : documente la pathologisation des personnes trans aux urgences psychiatriques, l'inadéquation de certains courants psychanalytiques, et les manques de formation (notamment sur les traitements hormonaux). Formée il y a 15 ans, son chef de service avait répondu à sa demande de formation sur les transitions avec une blague sur "la mousse à raser remboursée par la Sécu".
+
+**Sur les besoins structurels** : "il faut 3-4 ans pour avoir des formations, tu payes un peu des formations et tu recrutes des gens, tu doubles tes effectifs à même niveau de compétence."
+
 ## Vidéos médicales clés
 
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — MeToo médecine, cas Nicolas W
@@ -57,6 +71,7 @@ Zoé exerce comme médecin généraliste en zone rurale. L'hiver est sa période
 - [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée, "solution du camarade Mao", auto-arrêt de travail, sélection de classe dans les études de médecine, analyse du tweet de Paul (interne anesthésiste), salariat comme projet de gauche
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en médecine
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — solution de gauche
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — co-présentatrice ; psychiatrie de terrain, CAC Ginette Amado, urgences psychiatriques rurales, 18 mois d'attente psychotrauma, transphobie médicale
 
 ## Témoignage personnel sur les VSS
 
@@ -107,4 +122,5 @@ Dans le react Louis San, Zoé apporte les données clés qui manquent à la vid�
 - [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — co-présentatrice avec Padu ; analyse de l'assassinat du PDG de [[UnitedHealthcare]] [[Brian Thompson]], système de santé américain, crise des opioïdes, comparaison Sécu / assurances privées
 - [[CUISINE ET POLITIQUE NOS AVIS PROBLEMATIQUES]] — co-présentatrice ; déterminisme social de l'alimentation, Denis Colombini, médecine de la qualité de vie, don d'organe, immunomodulateurs et responsabilités collectives
 - [[5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE A NOEL]] — co-présentatrice ; recommande *La Fabrique des masculinités au travail* d'[[Audrey Rivoal]], analyse du [[Feminisme washing]] et des masculinités hiérarchisées au travail
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — co-présentatrice principale ; psychiatrie ambulatoire, CAC Ginette Amado, urgences psychiatriques rurales, traumas sexuels adolescents, transphobie médicale, T2A et cercle vicieux hospitalier
 - [[PADUTEAM C'EST FINI]] — co-présentatrice ; a annoncé à une table ronde Luma la fermeture de Twitch ; développe la polémique sur les VSS dans les organisations militantes et la critique de l'horizontalité ; défend la discipline collective comme condition d'inclusion des femmes dans le militantisme

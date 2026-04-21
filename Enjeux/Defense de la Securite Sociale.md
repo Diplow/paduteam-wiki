@@ -108,7 +108,7 @@ La confraternité médicale fonctionne comme outil de censure interne : critique
 
 ## Le libertarianisme comme horizon de privatisation totale
 
-[[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] ajoute une dimension comparative : le libertarianisme comme "pensée bourgeoise de gogos bourgeois" qui n'est que la privatisation totale des Sécu poussée à son terme logique.
+[[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE|PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] ajoute une dimension comparative : le libertarianisme comme "pensée bourgeoise de gogos bourgeois" qui n'est que la privatisation totale des Sécu poussée à son terme logique.
 
 Arguments ajoutés au corpus de l'enjeu :
 - Le Guiz paie 2 000€/an pour sa famille en assurance privée — les frais de gestion sont de 21-22% vs 3-4% pour la Sécurité Sociale. L'assureur privé n'a aucun intérêt à rembourser.
@@ -140,6 +140,28 @@ La vidéo articule deux mécanismes supplémentaires : (1) le néolibéralisme c
 
 L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle avait été conçue en 1945 (CGT, Ambroise Croizat) avant que les ordonnances De Gaulle de 1967 n'en retirent la gestion aux travailleurs.
 
+## Le budget Bayrou : 44 milliards de rapine de classe
+
+[[ANNONCES DE BAYROU IL VEUT METTRE LE FEU AU PAYS]] est le corpus le plus complet du batch sur l'attaque contre la Sécu. La PaduTeam décortique les 44 milliards d'économies annoncées par [[Francois Bayrou]] le 15 juillet 2025 (lendemain de la Fête Nationale, lu comme provocation délibérée) et les caractérise comme une "rapine de classe" : la bourgeoisie, incapable de développer les forces productives, se contente de pressurer les plus précaires.
+
+Chaque mesure est une attaque contre le système de solidarité :
+
+- **Année blanche sur les allocations** : geler la revalorisation des pensions de retraite, APL, RSA, allocations familiales, AAH et pensions d'invalidité revient à prélever 1 à 2 € sur des gens dont le budget est compté. L'argument de Bayrou ("quasi-disparition de l'inflation") se retourne contre lui : si l'inflation est nulle, l'année blanche ne fait économiser presque rien à l'État mais fait tout perdre à ceux qui comptent chaque euro.
+
+- **Baisse des remboursements médicaments / doublement des franchises** : Bayrou parle de "responsabiliser les patients" — ironie mordante : les médicaments remboursés sont prescrits par des médecins, pas auto-administrés. La mesure cible les malades en ALD, déjà en reste-à-charge, dont les franchises passeraient de 50 € à 100 € par an — pour des gens sous chimio qui reçoivent des courriels en fin d'année réclamant 150 € sur une pension de 800 €. C'est une attaque larvée contre la [[Securite Sociale]] pour pousser vers les assurances privées, sept fois plus chères.
+
+- **Réforme du chômage** : l'objectif réel n'est pas de remettre les gens au travail (400 000 à 500 000 offres non pourvues pour 4 à 5 millions de chômeurs) — c'est de rendre le travail si insupportable que deux personnes en survie se partagent des tâches pénibles à mi-temps pour 500 € chacune, désorganisant ainsi le prolétariat organisé.
+
+Le diagnostic de fond est marxiste : la bourgeoisie ne développe plus les forces productives parce qu'elle n'en a plus besoin — l'État lui redistribue la valeur directement via les aides aux entreprises (200 milliards par an sans contrepartie). La seule issue pour elle est la rapine des classes populaires. Comme cette rapine ne développe rien, elle crée de la dette — les mesures présentées comme anti-déficit vont en réalité creuser davantage le déficit.
+
+## Le macronisme du travail : la 5e semaine de congés payés et les 35 heures
+
+[[ASTRID PANOSYAN LA PIRE MINISTRE MACRONISTE]] illustre la mécanique libérale au travail avec la proposition de supprimer la 5e semaine de congés payés en échange d'une rémunération supplémentaire. La logique est toujours la même : d'abord on dit "il y a des gens qui voudraient bien", puis la norme se déplace vers le bas par pression sur les salariés en entretien d'embauche. La liberté invoquée est celle des dominants à dominer plus fort.
+
+La destruction des accords de branche au profit des accords d'entreprise accomplit la même logique d'atomisation : une branche, c'est 200 000 travailleurs syndicalisés qui négocient pour tout le monde ; au niveau d'une petite entreprise, c'est deux syndiqués dont un est pote avec le patron. C'est l'atomisation maximale pour que les travailleurs négocient seuls face au rapport de force patronal.
+
+"Travailler davantage" n'a pas de sens économique : la production industrielle est planifiée pour répondre à un besoin qui n'augmentera pas mécaniquement si les gens travaillent une semaine de plus. Si les gens ne partent pas en vacances, ils consomment moins — une semaine de congés supprimée peut provoquer une récession de la consommation sans gain de production.
+
 ## Les déterminants sociaux de santé comme argument irréfutable sur les retraites
 
 La capsule sur [[Louis Sarkozy]] à LCI fournit l'argument le plus puissant du corpus pour défendre l'abaissement de l'âge de la retraite : retourner la logique "scientiste" de l'adversaire contre lui. Louis Sarkozy propose d'indexer la retraite sur l'espérance de vie (~66,5 ans en moyenne). La PaduTeam pousse le raisonnement par catégorie socioprofessionnelle : à 65 ans, 25% des 5% les plus pauvres sont déjà morts contre seulement 5% des 5% les plus riches. Avec la logique de Sarkozy poussée à son terme : les ouvriers devraient partir à 50 ans, les cadres à 70 ans.
@@ -156,12 +178,14 @@ La conclusion communiste de la PaduTeam dépasse l'ajustement d'âge : le vrai e
 
 ## Vidéos clés
 
-- [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
+- [[ANNONCES DE BAYROU IL VEUT METTRE LE FEU AU PAYS]] — cartographie complète des 44 milliards de rapine : année blanche sur les allocations, franchises ALD, réforme du chômage, gel des fonctionnaires ; productérisme et suppression des jours fériés ; diagnostic marxiste : crise de suraccumulation du capital qui ne peut plus que pressurer les classes populaires
+- [[ASTRID PANOSYAN LA PIRE MINISTRE MACRONISTE]] — macronisme du travail concentré : 5e semaine de congés payés comme test du ratchet droitier, destruction des accords de branche, "travailler davantage" absurde économiquement, Panosyan comme archétype de la classe dirigeante déconnectée (HEC, Harvard, 6,1 M€ sur 4 ans)
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE|PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démontage de l'inversion idéologique bayrovienne ("l'État met à disposition") : les caisses sont constituées des cotisations des travailleurs, pas d'un don de l'État ; Bayrou comme symptôme de crise de régime (la bourgeoisie en décomposition nie sa responsabilité d'État là où Louis XIV l'affirmait) ; les 200 milliards donnés aux entreprises comme vraie cause du "déficit" ; mot d'ordre : on ne paiera pas la dette, on améliorera les retraites et l'assurance maladie
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
 - [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — retournement de la logique de l'adversaire : indexer la retraite sur l'espérance de vie différentielle implique les ouvriers à 50 ans, les cadres à 70 ; l'espérance de vie comme variable sociale (pas naturelle) ; espérance de vie sans incapacité à 63-64 ans ; surmortalité par métier (éboueurs, serveurs, ouvriers de nuit) ; conclusion communiste : abattre la division du travail violente, pas ajuster l'âge
 - [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — démontage du mythe des 800 milliards : privatiser coûte 1 200 milliards ; USA 18% PIB pour espérance de vie inférieure à Cuba ; Sécu 97% vers soins vs AXA 78% ; le projet Maréchal facture plus cher pour moins de soin
-- [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
+- [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME POUR ATTAQUER LA SECU|BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD ; le mythe des "faux arrêts de travail" (les gens sont mis en arrêt par un médecin, pas par eux-mêmes) ; les jours de carence comme politique contre-productive (arrêts plus longs, contaminations en chaîne) ; la loi fin de vie combinée aux attaques sur les ALD comme logique macroniste cohérente : "vous avez le libre choix" de mourir quand vous ne pouvez plus vivre dignement
 - [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — validisme du travail capitaliste comme nécessité matérielle du capital (pas discrimination arbitraire) ; la rotation des intérimaires comme preuve de l'intenabilité du travail précaire ; l'inversion de Praud : retourner la conscience ouvrière contre elle-même ; la praxis collective (récurer des chiottes) comme moteur du changement de conscience — pas le discours

@@ -39,6 +39,7 @@ La "démocratie pour eux" ne signifie pas tirage au sort ou rotation des mandats
 
 ## Vidéos où L'Après est mentionné
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
+- [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Analyse du congrès du 2 juillet 2025 vu par Bad Mulch : sociologie noisette (vieux, masculin, blanc), expulsion arbitraire d'un adhérent, Garrido "aux abois", absence de démocratie interne. "Un gros sachet de noisettes plein de seum."
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Renéga" : genèse, incident Bad Mulch, recomposition droite FI + gauche PS
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — Cité parmi les alliés noisettes pour les universités d'été communes avec Debout et Génération
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Critique de la "démocratie interne" réclamée : statuts déposés avant dissolution, "démocratie pour eux" = garder leurs postes

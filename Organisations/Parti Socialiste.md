@@ -87,6 +87,14 @@ La "clé de voûte" Fort entre les deux : essaie d'être ni pro-union totale (FI
 [^jamet-lvmh]: [7:15](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=435) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 [^jamet-statut]: [31:58](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1918) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 
+## Responsabilité dans la destruction du système de santé
+
+La PaduTeam établit que la destruction de l'hôpital public n'est pas une invention macroniste mais une continuité PS-macroniste-LR. Pièce à charge centrale : **la T2A (tarification à l'acte hospitalière) a été introduite par le gouvernement Jospin** (PS). En transformant les hôpitaux en entreprises rémunérées selon leur volume d'actes, le PS a planté la graine du cercle vicieux actuel : lits fermés → manque à gagner → plans d'économie → moins de soignants → encore moins de lits.
+
+> "Le Parti socialiste est complice sur ce qui s'est passé. Il a littéralement créé Macron donc il est complice et même quand on vous dit la tarification à l'acte hospitalière et tout, c'est eux qui l'ont fait." [13:55](https://www.youtube.com/watch?v=muzy4rcCi8s&t=835)
+
+L'alliance des "assassins de la santé" traverse les trois blocs : PS, macronisme, LR — désignée comme telle par la PaduTeam dans [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]].
+
 ## Plan anti-Mélenchon (été 2025)
 
 Pendant l'été 2025, alors que se prépare le mouvement social du 10 septembre, le PS travaille à sa stratégie électorale anti-LFI. [[Pierre Jouvet]] annonce le plan : 577 candidats prêts pour une dissolution éventuelle, alliance avec écolos et [[Parti Communiste Francais|PCF]] *en excluant la FI*, inspiration du plan Jospin 1996.
@@ -119,6 +127,7 @@ Pour la PaduTeam, c'est "une convention de DRH" : les trois finissent au même e
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Portrait de Jamet comme incarnation de la dégénérescence PS : secrétaire général LVMH + maire PS + ~22 postes cumulés, neveu d'un fondateur du FN
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — co-responsabilité dans la destruction hospitalière via la T2A (Jospin), alliance de fait avec macronistes et LR contre la Sécu
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Plan estival anti-LFI : 577 candidats, inspiration Jospin 96, alliance écolos-PCF sans la FI, refus de censurer Bayrou analysé comme solidarité programmatique implicite
 - [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — Le PS cartographié comme troisième nuance du "bloc bourgeois" : le blocage qui ne bloque pas, même destination finale (les flics) que Retailleau et Wauquiez
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot du lancement de la guerre des gauches : non-censure du gouvernement Lecornu 2 en échange d'une "suspension" cosmétique de la réforme des retraites (décalage de 6 mois à 1 an sur la courbe). La PaduTeam proclame : "Le PS n'est plus un allié, c'est un adversaire." Lancement d'une campagne anti-PS.

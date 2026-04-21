@@ -44,7 +44,7 @@ Sous Macron : **30 000 lits fermés**. Ce n'est pas une décision comptable abst
 
 ### Les Centres d'Accueil de Crise (CAC)
 
-Les CAC accueillent les patients psychiatriques en crise pour éviter l'hospitalisation complète. [[Sebastien Le Cornu]] a fermé des CAC pour raisons budgétaires. Résultat : crises renvoyées aux urgences générales, surchargées, non équipées — coût systémique bien supérieur.[^5]
+Les [[Centre d accueil de crise|CAC]] accueillent les patients psychiatriques en crise pour éviter l'hospitalisation complète. [[Sebastien Le Cornu]] a fermé des CAC pour raisons budgétaires. Résultat : crises renvoyées aux urgences générales, surchargées, non équipées — coût systémique bien supérieur.[^5]
 
 ### Les "médecins mercenaires"
 

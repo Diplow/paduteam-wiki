@@ -45,3 +45,4 @@ Dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], la PaduTeam analyse le
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Brutus de Mélenchon, instrumentalise l'affaire Quentin Deranque pour attaquer la FI
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Face à Louis Sarkozy sur LCI dans *Face à Face*
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Citée dans le contexte du complément d'enquête France 2 ; positionnée comme minorité pro-article-7 au sein du groupe FI que Guedj instrumentalisait
+- [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Expulse manu militari Badmulch et Bienfait pour tous du congrès de L'Après (congrès invité par Filoche) ; la PaduTeam : "aux abois", mauvais moves en cascade ; L'Après comme panier de crabes ; Garrido = responsable des médias qui joue le rôle du KGB interne.

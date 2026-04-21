@@ -51,6 +51,7 @@ Cette incapacité à se réifier est donc une **force cognitive** : dans les cri
 [^prol-reif]: [18:03](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=1083) — "Il dit il y a qu'une seule classe qui est capable de résister à la réification, c'est-à-dire à croire que tous les rapports sociaux sont des choses objectives, naturelles [...] c'est le prolétariat. [...] il ne peut pas se réifier lui-même."
 
 ## Vidéos où Georg Lukacs est analysé
+- [[REEDUCATION INCEL LIBERTARIEN]] — Lénine et Lukács cités dans la discussion sur dialectique marxiste vs positivisme vulgaire ; la phrase de Marx "quand une idée s'empare des masses, elle devient une force matérielle" comme formulation canonique de la dialectique idée-matière
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — *Histoire et conscience de classe* mobilisé pour l'asymétrie bourgeoisie/prolétariat : conscience bourgeoise organique et synchronisée avec la pratique quotidienne vs conscience prolétarienne qui nécessite l'organisation
 - [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — la réification comme développement et prolongement du fétichisme de la marchandise
