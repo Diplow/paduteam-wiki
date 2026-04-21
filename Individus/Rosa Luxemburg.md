@@ -34,9 +34,13 @@ Articulation avec [[Samir Amin]] : même cadre théorique de fond, même thèse 
 - [[Silvia Federici]] — successeure dans l'enrichissement féministe du marxisme
 - [[Samir Amin]] — continuité théorique sur les conditions de reproduction impérialiste
 
+## Luxemburg et Trotski — même courant sur l'autonomie du prolétariat
+La PaduTeam place Luxemburg et [[Leon Trotski]] dans la même lignée philosophique face à [[Lenine]] : tous deux croient à la spontanéité révolutionnaire du prolétariat, à son autonomie naturelle. Selon le cadre de Goldman repris par [[Chris]], Luxemburg représente la "pensée économique" du trotskisme, Trotski sa "pensée politique", [[Georg Lukacs]] sa "pensée philosophique théorique." La PaduTeam reconnaît la beauté de cette vision — "on aurait aimé que Luxembourg ait raison" — tout en constatant qu'elle n'est jamais advenue politiquement, contrairement à la stratégie léniniste.
+
 ## Vidéos où Rosa Luxemburg est analysée
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — mobilisée pour lire la tentative rubiesque de reconquête du Venezuela comme extension du capital sur un espace « trop socialiste »
+- [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — positionnée dans la trinité Luxemburg/Lukacs/Trotski ; débat sur la spontanéité révolutionnaire vs la nécessité du parti léniniste
 
 [^lux_rubio]: [16:28](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=988) — « c'est ce que va expliquer Luxemburg en disant bah c'est un espace non capitaliste. Ça permet d'avoir une extension du capital et donc de le renouveler. Là en fait, c'est genre une économie trop socialiste. Donc c'est une forme de périphérie non capitaliste qu'on pourrait relancer par du capital. »
 [^lux_inverse]: [16:59](https://www.youtube.com/watch?v=r8ovmwQWv8U&t=1019) — « à l'inverse que normalement le Venezuela devrait être l'avenir de l'humanité alors que dans le 19ᵉ c'était plutôt le passé. Mais là ils vont dire "non, non, c'est presque trop l'avenir, il faut les relibéraliser pour pouvoir encore faire de la rente". »

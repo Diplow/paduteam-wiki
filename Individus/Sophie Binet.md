@@ -20,6 +20,13 @@ Face à l'"accord" PS/Lecornu 2, Binet s'oppose à Marie-Lise Léon (CFDT) en re
 - [[Marie-Lise Leon]] — homologue CFDT, position opposée sur la réforme des retraites
 - [[Boris Vallaud]] — mentionné comme comparaison au congrès CGT
 
+## Le 10 septembre 2025 : embêtée = bonne nouvelle
+
+Face au mouvement du 10 septembre, Binet est prise entre les fédérations CGT de base (Métallurgie, UD Nord, Chimie, Commerce) qui appellent déjà à la grève et la direction confédérale qui hésite. Pour la PaduTeam, le fait qu'elle soit "embêtée" — incapable de gérer le mot d'ordre, incertaine sur la méthode — est une bonne nouvelle : c'est le signe que la mobilisation remonte vraiment du bas. Comparaison avec Martinez pendant les gilets jaunes : lui aussi avait été débordé, mais n'avait jamais essayé de s'y joindre — c'est l'erreur que Binet ne doit pas répéter. "Je préfère voir Sophie Binet embêtée parce que ça veut dire qu'elle est débordée et ça veut dire qu'il y a quand même un mouvement de masse."
+
+La PaduTeam distingue deux scénarios radicalement différents : une grève générale appelée d'en haut par Binet sans base dans les syndiqués ne vaut rien ; une grève générale qui remonte du bas des fédérations et qui oblige Binet à la valider produit un mouvement réel.
+
 ## Vidéos où elle est mentionnée
 - [[RETAILLEAU MET FIN au WAUQUISME]] — comparée à Vallaud dans le jeu de troisième homme au congrès CGT
 - [[LE PS A TRAHI (EPISODE 24873)]] — Qualifiée de "camarade Sophie" : oppose la position CGT (abrogation) à celle de la CFDT (célébration des miettes). Reproche indirect : l'intersyndicale avec les syndicats traîtres affaiblit les luttes.
+- [[MELENCHON APPELLE A LA GREVE GENERALE LE 10 SEPTEMBRE]] — Analysée comme "embêtée" par le débordement du bas : les fédérations CGT (Métallurgie, Nord, Chimie, Commerce) appellent au 10 septembre avant elle. Sa position initiale floue ("soutenir le 10 septembre mais on ne connaît pas les revendications") critiquée : c'est aussi le rôle des syndicats de faire naître des revendications.

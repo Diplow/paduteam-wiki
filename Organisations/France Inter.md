@@ -30,3 +30,4 @@ France Inter pense que son discours crée des électeurs. L'analyse PaduTeam inv
 ## Vidéos où France Inter est analysée
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — dîner avec le PS pour placer Glucksmann, démontage de l'idée que France Inter crée de l'électorat
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — Clément Petro fait une chronique sur la moïsation en la présentant comme une "stratégie cachée" de Mélenchon ; la PaduTeam démonte le complotisme bourgeois qui transforme toute analyse matérialiste en plan conscient
+- [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — analysée comme "Radio Macron" droitisée depuis Sarkozy (patron nommé par l'exécutif) ; éviction progressive des émissions de gauche (Daniel Mermet, Charline Vanhoenacker, Guillaume Meurice) ; contexte structurel de l'[[Autoneutralisation|autoneutralisation]] de Saqué

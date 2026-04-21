@@ -29,3 +29,4 @@ Chris le qualifie de "pas vraiment un marxiste" mais considère qu'il "se rappro
 ## Vidéos où Mills est cité
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — Chris recommande *Le Contrat racial* et le qualifie de "livre de philosophie politique sur la race le plus important"
+- [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Contrat racial convoqué pour analyser l'articulation entre anticommunisme et suprémacisme racial : la violence coloniale capitaliste est rendue invisible par le contrat racial, tandis que la violence communiste est hypervisibilisée. L'ordre racial fonctionne comme discipline pour les dominés non-racisés aussi — « voyez ce que la société peut faire »

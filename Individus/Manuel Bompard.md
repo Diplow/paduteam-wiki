@@ -35,3 +35,4 @@ Contraste avec [[Fabien Roussel]] qui exploite l'affaire sur BFM en comparant M�
 ## Vidéos où Bompard est analysé
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
 - [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
+- [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présent à la table ronde "On ne veut plus" à la Grande Braderie de Lille le 6 septembre 2025 (LFI)

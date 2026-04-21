@@ -22,3 +22,4 @@ Média en ligne se revendiquant d'investigation et progressiste. La PaduTeam cri
 ## Vidéos où Blast est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Blast cosigne le communiqué du [[SNJ]] contre le refus d'accréditation par LFI aux universités d'été. La PaduTeam critique ce réflexe corporatiste tout en reconnaissant que Blast "fait de bonnes choses" par ailleurs et que signer peut aussi répondre à des enjeux de survie matérielle au sein de la corporation.

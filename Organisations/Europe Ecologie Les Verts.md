@@ -39,7 +39,11 @@ EELV défend une [[Ecologie punitive]] qui n'interroge pas le mode de production
 ## Doublons doublons doublons : la noisette bio cherche ses alliés
 Tondelier sur France Inter en 2025 : elle lance des appels solennels à Mélenchon et Glucksmann ("les absents auront tort") qui ne viennent pas. La PaduTeam prédit : elle finira seule à 3-4%, l'appareil de parti a besoin de la candidature pour survivre financièrement (remboursements de campagne), même sans espoir de victoire.
 
+## Noisettes originelles (capsule Duflot, 2025)
+La PaduTeam qualifie EELV de "noisettes originelles, les plus belles, les plus grandes, les plus bio" — avant même [[Marine Tondelier]], c'est [[Cecile Duflot]] qui incarne l'impasse fondamentale : l'écologie sans anticapitalisme ne peut aboutir qu'à des non-solutions (comportements individuels, communication) ou à de la résignation. L'EELV est le cas d'école de ce que produit une force politique incapable de nommer la propriété privée comme problème.
+
 ## Vidéos où l'organisation est analysée
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Effondrement électoral : perd Bordeaux, Strasbourg, Poitiers. Tondelier réunion de crise. Électorat identifié comme bourgeois macroniste reconverti.
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Analyse [[Ecologie punitive]] des Verts (ZFE, voiture, logistique capitaliste du territoire) ; vote crédits de guerre ; prévision 3-4% seule à la présidentielle 2027
+- [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Noisettes originelles". Duflot (Oxfam) propose de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN. Impasse de l'écologie sans anticapitalisme : ni collapsologie nihiliste ni incitations marchandes ne peuvent remplacer la socialisation des moyens de production.

@@ -20,5 +20,10 @@ Son appel à voter FI contre le RN illustre la [[Moisation]] : même à l'intér
 - [[Raphael Glucksmann]] — numéro 2 de son mouvement
 - [[Place Publique]] — organisation
 
+## Glissement à droite sur la dette (septembre 2025)
+
+La PaduTeam signale que Laluc a posté pour mettre en garde contre les "risques sur les marchés financiers" en cas de mouvement insurrectionnel aboutissant à un gouvernement de rupture. La PaduTeam commente : "C'est vraiment l'idéologie de la gauche de droite." Paradoxe : à une époque où elle était encore minoritaire et tentait d'être de gauche, Laluc portait la position de la "dette sans intérêt" via la BCE — une position social-démocrate. En septembre 2025, elle se droitise en acceptant la logique des marchés.
+
 ## Vidéos où Laluc est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[BAYROU ANNONCE SA DEMISSION LE 8 SEPTEMBRE]] — glissement à droite sur la dette, "bons toutous des marchés financiers"

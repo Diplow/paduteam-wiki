@@ -19,5 +19,14 @@ La question du champagne dans la guerre commerciale Trump-EU est révélatrice :
 - [[Jordan Bardella]] — les "potes" que Bardella dîne et qui lui racontent n'importe quoi
 - [[Rassemblement National]] — conseillé par des capitalistes débiles qui croient en Bardella
 
+## Fonction idéologique : la fortune comme exploitation visible
+
+La PaduTeam revient sur Arnault comme cas d'école pour l'analyse de la valeur. Sa fortune de plusieurs centaines de milliards ne peut pas avoir été produite par lui seul : il n'a pas tanné le cuir des sacs LVMH, imprimé le Parisien, vinifié le champagne, ni construit ses usines. Cette fortune est de la valeur extraite de millions de travailleurs. C'est le prolétariat qui produit, c'est lui qui possède.
+
+L'argument est mobilisé contre le discours de [[Francois Bayrou]] sur "les Français qui dépensent l'argent de l'État" : si certains Français dilapident les finances publiques, ils s'appellent les grands patrons — la bourgeoisie, à qui l'État redistribue 200 milliards par an (rapport Guayet). C'est la formulation PaduTeam : "Oui François, tu as pas tort. Certains Français dilapident l'argent de l'État. Ils s'appellent les grands patrons, la bourgeoisie."
+
+> "Bernard Arnaud pour arriver à la tête de sa fortune a sucé, a exploité une force de travail de millions de personnes. De millions de personnes, d'accord ?" (PaduTeam, sept. 2025)
+
 ## Vidéos où Arnault est mentionné
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — symbolise le grand capital que Bardella défend sous couvert de "libérer les énergies"
+- [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démonstration que sa fortune est produite par des millions de travailleurs ; contre-argument au discours Bayrou sur les "Français qui dépensent" ; le vrai dilapidateur c'est la bourgeoisie

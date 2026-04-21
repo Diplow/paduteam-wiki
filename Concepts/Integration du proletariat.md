@@ -36,3 +36,4 @@ Exemple concret : les médecins. Trop intégrés pour accepter une "installation
 
 ## Vidéos où ce concept est développé
 - [[Le MARXISME, un TRUC de BLANC]] — développé longuement en lien avec le Graphique et la stratégie léniniste
+- [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — débat Bernstein/Luxemburg/Lénine exposé en détail ; la "troisième voie" léniniste sur le constat intégrationniste (Bernstein avait raison) mais la conclusion révolutionnaire (le parti d'avant-garde)

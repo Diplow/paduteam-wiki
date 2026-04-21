@@ -41,3 +41,4 @@ En fin d'échange, Praud lui dit : "Monsieur Deffontaines, c'est un communiste t
 - [[Faure oblige de trahir]] — Exemple type de la lutte en classe (vs lutte de classe) : Deffontaines et [[Marion Marechal]] au même endroit sur le Graphique (haut-droite). Ils se battent pour l'hégémonie dans les mêmes espaces de classe — ce n'est pas parce qu'ils ont les mêmes idées, mais parce qu'ils ciblent les mêmes PCS
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Cité brièvement comme figure possible d'un PCF post-Roussel ("Fabien bien")
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Piégé sur Staline, incapable du discours de dépassement, se couche face au piège médiatique Praud
+- [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Cité comme exemple du reniement PCF ; n'a pas le discours construit pour répondre aux attaques anticommunistes

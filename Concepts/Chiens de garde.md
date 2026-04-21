@@ -39,3 +39,4 @@ Dans ce cas, le mécanisme est légèrement différent : ce ne sont pas des "pet
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — démonstration live, lecture de Marx sur le socialisme petit-bourgeois
 - [[CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE]] — Buzin (BFM) et Lasserre (LCI/Figaro) : chiens de garde institutionnels sur le terrain des arrêts de travail
+- [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — évoqué comme contexte historique (Serge Halimi, *Les Nouveaux Chiens de garde*) pour expliquer la formation politique de la PaduTeam et la critique médiatique de longue date

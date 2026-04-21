@@ -133,6 +133,7 @@ L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle av
 ## Vidéos clés
 
 - [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
+- [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — démontage de l'inversion idéologique bayrovienne ("l'État met à disposition") : les caisses sont constituées des cotisations des travailleurs, pas d'un don de l'État ; Bayrou comme symptôme de crise de régime (la bourgeoisie en décomposition nie sa responsabilité d'État là où Louis XIV l'affirmait) ; les 200 milliards donnés aux entreprises comme vraie cause du "déficit" ; mot d'ordre : on ne paiera pas la dette, on améliorera les retraites et l'assurance maladie
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré

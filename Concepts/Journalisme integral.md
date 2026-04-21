@@ -28,3 +28,4 @@ Cela ne veut pas dire que le journalisme intégral ment ou manipule. La PaduTeam
 
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation explicite par la PaduTeam et cadrage gramscien
+- [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — défini en creux par contraste avec la neutralité libérale revendiquée par Saqué : le journalisme intégral assume sa position, là où la neutralité libérale la dissimule

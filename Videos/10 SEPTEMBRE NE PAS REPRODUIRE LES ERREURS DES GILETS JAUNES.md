@@ -10,7 +10,7 @@ enjeux:
   - union-populaire
 date: 2025-09-02
 youtube_id: 2VOtXz9RSUw
-skill_version: write-video-2026-04-12
+skill_version: write-video-2026-04-21
 date created: Sunday, April 12th 2026, 11:05:31 pm
 date modified: Monday, April 20th 2026, 1:27:51 pm
 ---

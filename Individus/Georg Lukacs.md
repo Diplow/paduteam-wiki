@@ -22,9 +22,25 @@ La PaduTeam distingue deux périodes :
 
 Lukacs reste entre deux chaises : "pas assez stal pour les stales de son pays" et "trop stal pour les occidentaux qui disent c'est rouge."
 
+## Lukacs, Luxemburg, Trotski : une trinité théorique
+Selon la PaduTeam (via Lucien Goldman), les trois figures peuvent être vues comme les trois dimensions d'un même moment intellectuel :
+- **[[Rosa Luxemburg]]** — pensée économique (accumulation, spontanéité du capital)
+- **[[Georg Lukacs]]** — pensée philosophique théorique (conscience de classe, réification)
+- **[[Leon Trotski]]** — pensée politique (tactique, insurrection, armée révolutionnaire)
+
+Goldman définit *Histoire et conscience de classe* comme "la pensée philosophique théorique du trotskisme." La PaduTeam (via [[Chris]]) revendique cet héritage tout en pratiquant une "autocritique trotskiste" — reconnaissant que la spontanéité révolutionnaire de Luxemburg et Lukacs était belle mais n'est jamais advenue, contrairement à la stratégie léniniste.
+
+## Dialectique et spontanéité (1925)
+Publié deux ans après avoir été traité d'"idéaliste" par les mécanistes prostaliniens, ce livre prolonge les positions d'*Histoire et conscience de classe*. La PaduTeam y voit la preuve que Lukacs n'a pas renié ses positions sous pression — il a continué le combat sur ses propres termes.
+
+## La maxime politique
+"Le pire pays socialiste est meilleur que le meilleur pays capitaliste" — formulée lors de la montée du fascisme, dans les années 1930, quand certains allaient "taper sur le stalinisme." La PaduTeam y voit une "beaucoup plus grande droiture" et un réalisme que le trotskisme occidental ne pouvait pas assumer.
+
 ## Relations
 - [[Lenine]] — convergence sur la défense de l'épistémologie marxiste
 - [[Lucien Goldmann]] — successeur intellectuel, a développé le structuralisme génétique
+- [[Rosa Luxemburg]] — même courant philosophique (spontanéité révolutionnaire)
+- [[Leon Trotski]] — dimension politique du même courant intellectuel
 
 ## Vidéos où Georg Lukacs est analysé
 - [[Le MARXISME, un TRUC de BLANC]]

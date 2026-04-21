@@ -100,6 +100,18 @@ Mais la PaduTeam tire une leçon positive pour l'union populaire : si la traject
 
 Ce qui sonne comme "un glas" dans la trajectoire de Poutou, c'est l'échec collectif d'une génération à "imposer un nouvel ordre sur l'ordre capitaliste" — pas son choix individuel. L'union populaire ne peut pas se construire sans ce diagnostic lucide des défaites passées.
 
+## La séquence septembre 2025 : l'infrastructure de l'union populaire à l'épreuve
+
+La séquence du 10 septembre 2025 constitue le premier test en conditions réelles de l'infrastructure militante construite par [[La Breche]] et [[On ne veut plus]]. Plusieurs vidéos de fin août - début septembre 2025 documentent cette mise en pratique de la stratégie de l'union populaire.
+
+**Mélenchon comme levier du débordement syndical** : l'appel à la grève générale le 10 septembre est analysé comme un débordement calculé — forcer la [[CGT]] et [[Sophie Binet]] à rejoindre un mouvement déjà en train de monter par le bas. La leçon du [[Front Populaire 1936]] est convoquée : les congés payés et les 40 heures n'étaient pas dans le programme de mai 36, c'est la grève de juin 36 qui les a imposés. Le programme seul ne suffit pas — il faut que le mouvement social le dépasse. "Pour obtenir 1000€ de plus, il faudra que tout le monde soit dans la rue."
+
+**La stratégie gramscienne de La Brèche** : [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] formalise la distinction guerre de position / guerre de mouvement (Gramsci) comme clé stratégique. Les [[Gilets Jaunes]] ont échoué faute d'organisation résiduelle — 500 personnes en AG, aucun moyen de se recontacter après la dispersion. [[On ne veut plus]] est l'offensive : kits militants, binômes paritaires à 15 personnes, affiches A2 et flyers A5 en masse, site générateur de visuels (plus de 100 000 générés). Le principe est "catalyser sans capter" — fournir des outils sans imposer le contenu.
+
+**La réappropriation des moyens de production comme horizon** : la déclaration du secrétaire général de la CGT ArcélorMittal Dunkerque — "on peut faire du métal sans Mittal" — est prise comme cas d'école de l'union populaire en acte. Il n'y a pas besoin d'argent ni d'actionnaires pour fabriquer de l'acier : "le métal n'est qu'un moyen de faire de l'argent. Pour nous, l'argent est un moyen de faire du métal."
+
+**Le refus de personnification** : face à la démission de Bayrou, la PaduTeam met en garde contre le piège de la personnification. Réduire le mouvement à "Bayrou dehors" viderait la mobilisation si Bayrou part. Le problème n'est pas une personne mais le "système néolibéral". La jonction mouvement social + FI comme débouché politique = "catastrophe pour la classe bourgeoise" — et c'est précisément ce que le vote de confiance cherche à empêcher.
+
 ## Le 10 septembre comme expérimentation de la contre-communication populaire
 
 Deux vidéos de l'été 2025 documentent la théorisation et la mise en pratique du mouvement du 10 septembre comme moment de constitution de l'union populaire.
@@ -207,6 +219,10 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — stratégie Macron-Médvedev détaillée ; Mélenchon au 2e tour dans tous les scénarios selon le Graphique (16-17% min, 22% max) ; complotisme gramscien comme obstacle à dépasser
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — cartographie complète des candidats via le Graphique : quasi-totalité éliminés, Le Pen qualifiée malgré condamnation, barre historiquement basse pour Mélenchon grâce à l'éclatement droite et centre
 - [[Nicolas qui paye]] — prolétarisation des cadres comme réservoir pour LFI ; Grande bifurcation comme horizon ; gauchisation électorale confirmée par le Graphique (+5 pts Mélenchon 2017→2022, -10 pts droite)
+- [[MELENCHON APPELLE A LA GREVE GENERALE LE 10 SEPTEMBRE]] — grève générale comme débordement calculé des appareils syndicaux ; leçon du Front Populaire 1936 (programme mai ≠ conquêtes juin) ; Mélenchon en Léon Blum "à sa juste place" ; ArcélorMittal Dunkerque "on peut faire du métal sans Mittal" comme cas d'école de la réappropriation ; le confusionnisme Ruffin/Roussel travaille pour l'ennemi ; RN a besoin du "temps froid"
+- [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formalisation de la stratégie gramscienne guerre de position / guerre de mouvement ; La Brèche et [[On ne veut plus]] comme offensive militante concrète ; binôme paritaire à 15 comme innovation organisationnelle ; "catalyser sans capter" ; journalisme intégral qui assume son rôle d'organisation
+- [[BAYROU ANNONCE SA DEMISSION LE 8 SEPTEMBRE]] — jonction mouvement social + FI comme "catastrophe pour la classe bourgeoise" ; refus de personnification des luttes ; dette comme mécanisme d'extraction de classe ; FI identifiée comme seul débouché politique crédible pour le 10 septembre
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — LFI en forme face aux médias ; diabolisation de Mélenchon comme gage de qualité ("si votre candidat est bien reçu dans les médias, ça pue") ; réfutation du corporatisme journalistique comme socialisme petit-bourgeois
 
 [^up_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^up_buzin]: [24:47](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=1487) — "Cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes. Gardez ça en tête parce que c'est absolument clé."

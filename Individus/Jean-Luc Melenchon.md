@@ -140,6 +140,12 @@ Son émotion est d'autant plus notable que Ruffin et Roussel, eux, refusent mêm
 
 [^courage]: [7:52](https://www.youtube.com/watch?v=-AmidXZp0SA&t=472) — "Il faut du courage politique pour avoir de l'empathie et de la solidarité avec certains de nos compatriotes. Et ben vous rendez compte que là on est tombé dans un niveau d'obscénité."
 
+## Appel à la grève générale le 10 septembre 2025
+
+Lors des préparatifs du 10 septembre, Mélenchon déclare aux Amphis : "Que le 10 septembre soit un jour de blocage général, c'est-à-dire pour ce qui concerne le salariat que le 10 septembre ce soit la grève générale." Pour la PaduTeam, c'est une stratégie de débordement calculée : en utilisant les termes "classe salariale" et "salariat" plutôt que "peuple", il adopte un vocabulaire marxiste assumé et envoie un signal aux syndicats combatifs et aux communistes — pas à Glucksmann.
+
+La PaduTeam l'analyse non comme chef d'un mouvement social, mais comme leader politique qui crée les conditions pour que les masses fassent elles-mêmes leur histoire. Il se voit en Léon Blum plutôt qu'en Robespierre : "chacun son poste." Sa lucidité sur sa propre position — entrer dans les institutions pour les faire dysfonctionner — est qualifiée de "presque trop pragmatique." L'analogie mobilisée : le Front Populaire de mai 36 ne contenait pas les congés payés dans son programme — c'est la grève de juin 36 qui les a arrachés.
+
 ## Vidéos où Mélenchon est analysé
 - [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Traité de "fasciste" et d'"antisémite" comparable à Drumont par BHL ; double standard démontré ; défendu comme cible structurelle du bloc bourgeois en fascisation
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
@@ -166,3 +172,5 @@ Son émotion est d'autant plus notable que Ruffin et Roussel, eux, refusent mêm
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice : projection complète du 1er et 2nd tour 2027. Mélenchon à 16,86 % au 1er tour (donné à 13-14 % dans les sondages), 58,2 % au 2nd tour. Stratégie programmatique centrée sur les 32 heures + 6e semaine de congés payés comme pivot du vote caché des cadres.
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Complément d'enquête France 2 analysé comme confirmation de la diabolisation prévue par le Graphique (étape 1 du plan 2027) ; déconstruction de la trajectoire Guedj (PRS → refus de rejoindre le PG en 2008 → trahison politique) ; démontage de l'accusation sur l'article 7 des retraites (vote de groupe, pas tweet présidentiel) ; réfutation de la comparaison Mitterrand/Guevara de Guedj.
 - [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — Seul responsable politique à nommer l'islamophobie sans détour et à manifester publiquement ; son émotion analysée comme courage politique rare dans un moment d'inversion historique où l'empathie avec les musulmans coûte cher politiquement.
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Interview face à Anneclaire Coudret (TF1) défendu comme "banger" ; thèse centrale que la diabolisation médiatique est un gage de qualité, preuve qu'il porte un programme dangereux pour les dominants ; réplique "head shot" sur Gaza ; LFI présenté comme seule force affront l'hégémonie médiatique d'extrême droite.
+- [[MELENCHON APPELLE A LA GREVE GENERALE LE 10 SEPTEMBRE]] — Analysé comme Léon Blum/Kerenski : leader réformiste-révolutionnaire qui crée les conditions du débordement sans se poser en chef du mouvement social ; analogie Front Populaire 1936 ; stratégie de débordement des appareils syndicaux ; signal aux communistes via le vocabulaire "classe salariale"

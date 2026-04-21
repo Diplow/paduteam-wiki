@@ -25,3 +25,4 @@ Distinction importante : le Réseau Salariat produit des propositions de transfo
 
 ## Vidéos où le Réseau Salariat est analysé
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionné pour distinguer Friot (intellectuel sans appareil) des vrais enjeux de structuration du mouvement.
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Cité comme référence positive dans la proposition de réforme médiatique : La Brèche a rencontré Réseau Salariat pour réfléchir à une "sécurité sociale des médias", pensée de la collectivisation et de la participation citoyenne aux médias.

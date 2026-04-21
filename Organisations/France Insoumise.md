@@ -58,6 +58,7 @@ Dans une discussion avec [[Positions Revue]], la PaduTeam formule une critique p
 
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
+- [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Refus d'accréditation aux universités d'été LFI du journaliste du [[Le Monde]] auteur de *La meute* ; décision validée par la PaduTeam ; thèse que la diabolisation médiatique est structurelle et constitue un gage de radicalité.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan détaillé : victoires en solo, défaites en alliance, stratégie post-municipales
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique du mode de sélection des cadres ; VSS structurelles dans les orgas militantes
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Non-implantation dans les contre-pouvoirs ; cadres technocrates vs professionnels de la révolution ; La Boétie comme université populaire seulement
