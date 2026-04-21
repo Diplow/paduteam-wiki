@@ -18,3 +18,4 @@ L'UDR est systématiquement agrégée au RN dans les analyses sondagières (bloc
 
 ## Vidéos
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Le bloc RN+UDR est en recul dans les sondages Cluster 17
+- [[LECORNU DEJA CENSURE]] — L'UDR qualifiée de "clébar" du RN : "si le RN censure pas, l'UDR censure pas." Dépendance mécanique qui la rend inerte comme acteur autonome.

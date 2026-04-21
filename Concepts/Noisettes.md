@@ -99,6 +99,25 @@ Le PS est qualifié de "roi des noisettes" — la noisette par excellence car pr
 
 La PaduTeam qualifie [[Europe Ecologie Les Verts]] de "noisettes originelles, les plus belles, les plus grandes, les plus bio" — désignant l'EELV comme le prototype historique de la noisette avant même Tondelier, Ruffin ou Faure. [[Cecile Duflot]], ancienne cheffe de file EELV et désormais directrice d'Oxfam, incarne ce prototype dans sa forme la plus accomplie : coincée entre le constat des inégalités (qu'Oxfam documente) et l'impossibilité d'en nommer la cause (propriété privée) ni la solution (anticapitalisme), elle aboutit à proposer de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN.
 
+## La hiérarchie du royaume (octobre 2025)
+
+La PaduTeam formalise la hiérarchie interne au royaume des noisettes dans la séquence post-non-censure :
+
+- **Reine des noisettes** : [[Marine Tondelier]] — ne peut attaquer ni la FI ni le PS, prisonnière du jeu, « en slip »
+- **Baron de la noisette** : [[Alexis Corbiere]] — a compris le mécanisme du casse-noisette mais refuse d'en sortir
+- **Comtesse de la noisette** : [[Clementine Autain]] — plus lucide que Tondelier, commence à s'affranchir du PS
+- **Valet de la noisette** : [[Olivier Faure|Olivier Fort (Faure)]] — joue double jeu, obligé par sa cour à prendre la place de Glucksmann
+- **Roi des noisettes** : [[Francois Ruffin]] — fait du Ruffin (témoignages), refuse la question stratégique
+- **Bouffon des noisettes** : [[Fabien Roussel]] — se félicite d'un tiers de slip comme victoire, à rebours de son propre groupe parlementaire (GDR)
+
+Le trait commun : aucun ne peut se permettre de dire que le PS est l'ennemi. Tous ont besoin de lui pour exister ou survivre.
+
+## La noisette en slip comme concept
+
+La PaduTeam formalise l'image des noisettes « en slip dans une cave » à propos du deal Le Cornu / suspension des retraites : le gouvernement « kidnappa », mis « dans une cave tout nu, aspergé d'eau glacée », et la victoire revendiquée est « le droit à un slip ». Celui qui a moins de 56 ans n'a même pas le slip — il reste nu. Tondelier se félicite du slip comme d'une victoire de son « opinâtreté »[^noisette-slip]. Image qui concentre toute la dynamique : les noisettes vivent dans les conditions imposées par leurs adversaires et y trouvent de petites victoires à célébrer, sans jamais poser la question de sortir de la cave.
+
+[^noisette-slip]: [13:27](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=807) — « Ils nous ont kidnappé, ils nous ont mis dans une cave tout nu. [...] Marine dit "OK, tu vas avoir le droit à un slip ?" [...] Un tiers de slip mouillé. »
+
 ## Vidéos clés
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
@@ -113,3 +132,5 @@ La PaduTeam qualifie [[Europe Ecologie Les Verts]] de "noisettes originelles, le
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanique sondagière des noisettes ; analogie Harris/Trump ; Faure comme noisette girouette ; Édouard Philippe comme "vraie noisette" de droite.
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Le PS "roi des noisettes" en action estivale 2025 : noisettologie formalisée comme discipline, "barre énergétique enrichie en noisette" (Ruffin-Glucksmann-écolos-PCF sans FI), stratégie boutiquière pendant que le mouvement social attend.
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Les noisettes originelles, les plus belles, les plus grandes, les plus bio" : EELV présentée comme prototype historique de la noisette. Duflot comme cas d'école de l'impasse noisette poussée jusqu'au bout.
+- [[LECORNU DEJA CENSURE]] — GDR et écolos comme "dindons de la farce — la farce aux noisettes"
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Hiérarchie complète du royaume post-non-censure Le Cornu 1 : reine (Tondelier), baron (Corbière), comtesse (Autain), valet (Fort/Faure), roi (Ruffin), bouffon (Roussel). Concept de la noisette « en slip dans une cave » pour le deal retraites. : participent aux consultations de Macron, donnent du "temps républicain" à un gouvernement qu'ils prétendent censurer. [[Dominique de Villepin]] analysé comme "noisette des noisettes" : se pose en recours au-dessus de la mêlée, prédit à 3-4%.

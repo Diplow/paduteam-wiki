@@ -60,8 +60,13 @@ Le MEDEF tente de mimer la méthode de [[On ne veut plus]] — mobilisation, mee
 
 Le MEDEF n'est pas un partenaire de négociation — c'est un adversaire de classe. La réponse au MEDEF n'est pas la négociation ("on ne va pas discuter avec ce mec") mais le rapport de force politique. "Ce mec, on lui tort le bras ou rien en fait ou il nous écrase." L'objectif n'est pas de "taxer les riches" mais de "tout leur reprendre" — l'appareil de production, pas juste un prélèvement fiscal.
 
+## Le MEDEF et la thèse des "patrons de gauche"
+
+Le transcript de l'interview Blast/Mauduit apporte un éclairage historique sur la relation MEDEF/extrême droite. La PaduTeam y démontre que l'opposition du CNPF (ancêtre du MEDEF) à Jean-Marie Le Pen en 2002 n'était pas une question de "valeurs républicaines" mais de protection de l'hégémonie de la droite libérale (Chirac). Baron Seillière, président du MEDEF à l'époque, "est un aligné du RPR" — il ne voulait pas de Le Pen parce que ça "aurait été divisé la droite." Pas de morale, pas de valeurs : un calcul d'intérêt de classe.
+
 ## Vidéos clés
 
 - [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — vidéo fondatrice de la fiche : démontage de l'interview de Patrick Martin dans *Le Parisien*, portrait de classe, démonstration du paradoxe "grève des patrons", signal léniniste de la crise nationale, appel au 18 et 21 septembre
+- [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — éclairage historique sur CNPF/MEDEF et l'extrême droite ; démontage de la thèse "valeurs républicaines" du patronat en 2002
 
 [^22]: [22:22](https://www.youtube.com/watch?v=YcsA0DOXtQw&t=1342) — "Le patronat c'est 95 % des richesses. C'est un peu le problème entre les deux tu vois."

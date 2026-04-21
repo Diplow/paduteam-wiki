@@ -36,6 +36,13 @@ La PaduTeam plaisante sur l'homonymie avec **Amélie Oudéa-Castéra** (sigle fr
 
 [^aoc-vs]: [03:03](https://www.youtube.com/watch?v=6K3SRK1Jl_0&t=183) — « la AOC américaine. Je rappelle que nous AOC c'est Amélie Oudéa-Castéra, chez eux c'est Alexandria Ocasio-Cortez. Donc encore un truc sur lequel ils sont un peu mieux. »
 
+## La structure comme limite à la radicalisation
+
+Dans un passage comparant AOC à [[Greta Thunberg]], la PaduTeam développe : AOC "aurait pu devenir comme Greta mais le fait d'être dans un parti démocrate qui est extrêmement réactionnaire [...] fait que en fait elle a une ligne de merde. C'est une ligne qui est pas du tout radicale." La structure partisane *contraint* les possibles programmatiques. C'est la même thèse que pour [[Jeremy Corbyn]] vs [[Jean-Luc Melenchon|Mélenchon]] : ceux qui restent dans les vieilles structures ne peuvent pas se radicaliser librement.[^aoc-struct]
+
+[^aoc-struct]: [26:18](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=1578) — "elle a une ligne de merde. C'est une ligne qui est pas du tout radicale. Alors pour les États-Unis, ça passe pour une communiste tu vois. Mais genre la structure fait que elle est obligée de tenir dans des classiques, on va dire du parti démocrate américain."
+
 ## Vidéos où AOC est mentionnée
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — Généalogie BNC : AOC première victoire (2018, Bronx/Queens), Mamdani deuxième génération (2025, NYC)
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Double figure de la moïsation US (avec Trump) ; running gag AOC vs Amélie Oudéa-Castéra ; évoquée comme candidate DSA possible pour 2028 (« ça pourrait être Ocasio-Cortez ou quelqu'un d'autre qui viendrait de DSA »)
+- [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — comparée à Greta Thunberg : la structure du Parti Démocrate l'empêche de se radicaliser là où Greta est libre ; "ligne de merde" imposée par l'appartenance partisane

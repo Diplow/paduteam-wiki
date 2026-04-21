@@ -87,6 +87,15 @@ Thèse théorique associée : son idéalisme positiviste ("il faut trouver le bo
 ## Incapable de nommer le capitalisme (capsule Duflot, septembre 2025)
 Citée dans la vidéo sur [[Cecile Duflot]] : quand on lui pose la question de ce qu'on met à la place du capitalisme, elle répond "Ben moi, je sais pas quoi mettre à la place." La PaduTeam : "Nous on sait Marine, nous on sait — ça s'appelle le communisme." Illustration que l'impasse de Duflot n'est pas individuelle mais structurelle à toute l'écologie EELV.
 
+## Panique post-non-censure du gouvernement Le Cornu (octobre 2025)
+
+La non-censure du gouvernement Le Cornu par le PS place Tondelier dans une position intenable. Elle a voté la censure, mais elle ne peut pas attaquer le PS — elle a besoin de lui pour exister. Résultat : elle se félicite de son « opinâtreté » qui aurait permis d'obtenir un décalage d'un trimestre pour les personnes nées entre 1964 et 1968 — soit « un tiers de slip mouillé » selon la PaduTeam[^cornu-slip]. Pour les personnes nées après 1968 (la majorité), le gain est nul.
+
+La PaduTeam lui adresse un appel direct : « Rejoins la lutte. [...] Tu es en slip, Marine. Et nous aussi. Mais nous au moins on est conscient qu'on est en slip. » Elle est désormais « reine absolue des noisettes » — elle a perdu la main sur la FI et sur le PS en même temps, et ne peut ni attaquer l'un ni l'autre[^cornu-reineabs].
+
+[^cornu-slip]: [14:00](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=840) — « Ce qui va changer c'est pour les personnes qui sont nées entre 1964 et 1968 qui vont gagner un trimestre. Un slip mouillé. Non, un tiers de slip mouillé. »
+[^cornu-reineabs]: [12:26](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=746) — « Elle a redevenu la reine absolue des noisettes. [...] Elle elle a perdu la main sur la FI et là elle a perdu la main sur le PS. »
+
 ## Vidéos où Tondelier est analysée
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Douceur" : hégémonie noisette, positionnement médiatique, dépendance à la primaire, fin de l'espace écolo autonome
@@ -101,4 +110,5 @@ Citée dans la vidéo sur [[Cecile Duflot]] : quand on lui pose la question de c
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]] — React à son interview à l'Humanité avec Chris de Positions Revue. Catastrophique sur capitalisme et lutte des classes. Introduction du futur [[Graphique]]. Thèse : son inconsistance n'est pas cynique, c'est un authentique privilège de classe. L'écologie comme territoire propriétaire EELV = stratégie pour refuser tout adjectif (socialiste, marxiste).
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Citée parmi les "amis de gauche" qui critiquent LFI pour le refus d'accréditation aux Amphies. Qualifiée de noisette : "ne sait pas quoi faire en dehors du capitalisme."
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Citée en miroir de Duflot : même incapacité à répondre à la question "quoi mettre à la place du capitalisme". "Nous on sait Marine, nous on sait — ça s'appelle le communisme."
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Reine absolue des noisettes après la non-censure : perd la main sur la FI et le PS simultanément. Se félicite d'un « tiers de slip mouillé » (décalage retraite 1 trimestre pour nés 1964-1968). Incapable d'attaquer le PS. Appel PaduTeam : « tu es en slip Marine, rejoins la lutte. »
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.

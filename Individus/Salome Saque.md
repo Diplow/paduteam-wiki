@@ -26,7 +26,7 @@ La PaduTeam analyse cette posture avec nuance : elle comprend les contraintes ma
 La PaduTeam lui formule un conseil : dans une période de repolaristation sociale, assumer ses convictions (féministe, écologiste, anti-extrême droite) lui permettrait "d'attirer le respect des masses populaires" plutôt que de chercher vainement la bienveillance des grandes rédactions.
 
 ### L'interview catastrophique avec Mauduit
-Son interview avec [[Laurent Mauduit]] est qualifiée de "catastrophique" — elle légitime l'idée qu'il existe des "patrons de gauche" (Laurence Parisot présentée comme résistante à l'extrême droite), préparant le terrain à une alliance de classe traîtresse avec le patronat.
+Son interview avec [[Laurent Mauduit]] sur [[Blast]] est qualifiée de "catastrophique" — elle légitime l'idée qu'il existe des [[Patrons de gauche|"patrons de gauche"]] (Laurence Parisot présentée comme résistante à l'extrême droite pour ses "valeurs"), préparant le terrain à une alliance de classe traîtresse avec le patronat. La PaduTeam lui adresse une critique directe pour ne pas avoir repris Mauduit sur des affirmations "factuellement fausses" : "Quelle inculture politique de se laisser dicter ce genre de connerie sans le reprendre."[^mauduit-saque] L'analyse PaduTeam : c'est "normal" que Blast laisse passer ce discours — le média est lui-même détenu par un patron "dit de gauche", ce qui fait de l'interview un exercice de fabrication de fausse conscience.
 
 ## Contexte de violence misogyne
 La PaduTeam cite explicitement les montages pornographiques que l'extrême droite a fait circuler à partir de son image — "l'avilissement de ta personne, ta réduction à un objet sexuel." Ce contexte de violence structurelle est central pour comprendre pourquoi Saqué cherche à se neutraliser : "je comprends vraiment la violence que c'est pour elle."
@@ -44,3 +44,6 @@ La PaduTeam cite explicitement les montages pornographiques que l'extrême droit
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — citée comme exemple de la fausse neutralité de France Inter
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — critique de l'interview avec Mauduit sur les "patrons de gauche"
 - [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — citée comme exemple de convergence entre gauche molle et extrême droite sur l'analyse générationnelle ("pays de vieux bloqué") : deux penseurs opposés produisant la même fausse analyse matérialiste
+- [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — analyse approfondie de l'interview catastrophique ; critique de son rôle de vecteur des thèses Mauduit sans contrediscours
+
+[^mauduit-saque]: [16:01](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=961) — "Je vais mettre une balle à Salomé là. Mais quelle inculture politique de se laisser dicter ce genre de connerie sans le reprendre quoi."

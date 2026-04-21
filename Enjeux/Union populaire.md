@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-21-enrichi-w37w38
+skill_version: write-enjeu-2026-04-21-enrichi-w39w42
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -24,6 +24,22 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 
 ## Adversaires de cette position
 Le [[Parti Socialiste]] et sa résurgence néokeynésienne. [[Francois Ruffin]] et sa ligne "populisme de gauche sans antiracisme" ([[Faches pas fachos]]). Les partisans d'une candidature unitaire sans LFI. Les médias qui disqualifient Mélenchon comme "clivant".
+
+## La conflictualisation assumée comme méthode d'hégémonie (2012-2025)
+
+[[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] fournit un document fondateur pour comprendre la stratégie d'union populaire dans sa dimension offensive : un extrait de Mélenchon datant de 2012 dans lequel il formule la thèse centrale en clair. "La conquête de l'hégémonie politique a un préalable. Il faut tout conflictualiser. Tout conflictualiser." La politesse et la bienséance sont "l'arme des bourgeois." Et : "notre diabolisation nous gagne le respect de ceux qui ne supportent plus ce système."
+
+Ce document a 13 ans et demeure intégralement valable pour la PaduTeam. Il prouve que la stratégie de conflictualisation n'est pas une erreur tactique de Mélenchon — c'est une méthode délibérée et théorisée. La [[Conflictualisation]] est la condition de la [[Polarisation a gauche]] nécessaire pour que la gauche de rupture qualifie au second tour.
+
+Le cas [[Benjamin Duhamel]] illustre la mécanique inverse : fils de Patrice Duhamel (ex-DG France Télévisions), neveu d'Alain Duhamel, formé à Henri IV puis Sciences Po, embauché à RTL à 24 ans — la reproduction en vase clos de la caste médiatique produit structurellement des journalistes incapables d'analyse de classe. La diabolisation opérée par ces milieux confirme, plutôt qu'elle n'infirme, la pertinence de la stratégie.
+
+## La FI comme seul groupe cohérent depuis deux ans sur la censure
+
+[[LECORNU DEJA CENSURE]] et [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] documentent la cohérence de la ligne LFI comme pierre de touche de l'union populaire en conditions réelles. La France Insoumise est "droite dans ses bottes" — elle censure depuis deux ans, sans hésiter, sans participer aux consultations à Matignon. Face à elle, les noisettes (EELV, PCF) jouent un double jeu : annoncent la censure tout en donnant des "gages républicains" que la FI refuse. Ce positionnement les rend "dindons de la farce aux noisettes" : ils obtiennent du temps de Macron en échange de rien.
+
+La ligne de rupture tenue par LFI est formalisée par Mathilde Panot : "nous n'accorderons pas de confiance à un gouvernement qui ne porte pas le programme de rupture." C'est cette cohérence — et non l'arithmétique — qui fonde la légitimité populaire de LFI pour 2027.
+
+La moïsation est analysée comme achevée dans ce corpus : Macron est "mort" politiquement parce qu'il est obligé de détricoter son propre bilan. Le bloc central se délite, son propre camp (Attal, Philippe) le dit publiquement. Cette décomposition avance mécaniquement la prophétie Mélenchon.
 
 ## La stratégie des deux gauches au premier tour
 
@@ -261,6 +277,10 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[18 SEPTEMBRE ON EST LA]] — bilan chiffré du 18 (1 million vs 500 000 officiels) ; action Sudraille à Bercy comme moment fort ("au cœur du pouvoir") ; Lecornu incapable de "hausser le menton" = signal de faiblesse du pouvoir ; Place Publique et les Verts vont voir Lecornu = refroidisseurs à l'oeuvre
 - [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — signal léniniste de la crise nationale : même les exploiteurs "ne peuvent plus et ne veulent plus" ; Patrick Martin comme "aristocrate du 18e siècle qui ne comprend pas" ; la grève des patrons est structurellement impossible (ils ne produisent pas) — le bras de levier est du côté des travailleurs
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — LFI en forme face aux médias ; diabolisation de Mélenchon comme gage de qualité ("si votre candidat est bien reçu dans les médias, ça pue") ; réfutation du corporatisme journalistique comme socialisme petit-bourgeois
+- [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — conflictualisation comme méthode théorisée depuis 2012 ("il faut tout conflictualiser") ; la diabolisation confirme plutôt qu'elle n'infirme la stratégie ; Benjamin Duhamel comme cas d'école de la reproduction de la caste médiatique ; annonce de la campagne anti-PS explicite de La Brèche
+- [[LECORNU DEJA CENSURE]] — FI confirmée comme seul groupe cohérent depuis deux ans sur la censure ; moïsation achevée ; Macron "mort" politiquement ; arithmétique de la motion de censure et rôle décisif du RN
+- [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — validation de la prévision PaduTeam "Macron ne finira pas 2025" ; dissolution comme "politique de terre brûlée" ; même le bloc central (Attal, Philippe) dit publiquement que Macron "fait n'importe quoi"
+- [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — Lukács sur la conscience de classe du prolétariat comme argument théorique pour l'union populaire ; "le prolétariat ne peut pas se réifier lui-même" ; Lordon comme "adversaire à la hauteur" mais insuffisant pour une renaissance communiste ; la conflictualisation comme leçon des grèves de 1948 ("CRS = SS" comme invention du prolétariat)
 
 [^up_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^up_buzin]: [24:47](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=1487) — "Cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes. Gardez ça en tête parce que c'est absolument clé."

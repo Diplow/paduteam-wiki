@@ -30,3 +30,6 @@ Le concept est connecté à la thèse de [[Grande bifurcation|Duménil et Lévy]
 
 ## Vidéos
 - [[Nicolas qui paye]] — Démonstration que les cadres sont prolétaires et que leur intérêt est commun avec les ouvriers/employés
+- [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]] — Berdah elle-même déclare préférer pour sa fille "être salariée dans une boîte avec la sécu, avec le chômage, avec les garanties" ; la PaduTeam commente : "Salariat généralisé. Voilà c'est ça qu'a dit Magalie."[^berdah]
+
+[^berdah]: [27:42](https://www.youtube.com/watch?v=Uw4ZBPtuG_w&t=1662) — "Magalie a dit vous voulez le progrès, il faut le salariat généralisé. Bienvenue camarade Magali prends ta carte, on va lutter ensemble."

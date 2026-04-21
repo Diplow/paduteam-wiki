@@ -37,10 +37,14 @@ La vente de formations à l'exil fiscal ("Offshore Mastery") est un révélateur
 
 - **[[OseilleTV]]** — renonce à sa nationalité française devant notaire par anticipation d'une loi non votée, résident fiscal au Panama depuis 7 ans, comptes à Singapour, multiple passeports, vend des formations "Offshore Mastery" pour accompagner d'autres dans l'exil fiscal
 - **Les Américains** — modèle inversé cité dans la vidéo : ceux qui renoncent à la nationalité américaine pour ne plus payer l'impôt US, cas documenté sur YouTube sous "renounce citizenship"
+- **[[Magali Berdah]]** — vit à Dubaï, représente des influenceurs exilés fiscaux, dénonce les impôts sur BFM TV — mais reste "fiscalement française" et ne quitte pas la France "grâce à ses enfants" car "j'ai mes enfants ici en France, il y a plein de choses" dont "l'école gratuite, la santé". La PaduTeam : "elle se rend pas compte qu'elle est en train de vendre le système français en voulant l'attaquer."[^berdah]
 
 ## Vidéos où le concept est développé
 
 - [[CE DROITARDE RENONCE A SA NATIONALITE FRANCAISE POUR LES IMPOTS]] — cas d'école fondateur : OseilleTV, impôt universel sur passeport (PLF 2025), 2,5 millions d'expatriés concernés, réfutation par l'exemple américain
+- [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]] — variante : exilée à Dubaï mais restée fiscalement française, attachement involontairement avoué aux protections collectives françaises
+
+[^berdah]: [36:58](https://www.youtube.com/watch?v=Uw4ZBPtuG_w&t=2218) — "elle se rend pas compte qu'elle est en train de vendre le système français en voulant l'attaquer. [...] elle dit 'Non mais là, j'ai des enfants. Bah forcément, si je veux les élever correctement et que je veux pas que ce soit trop galère, je reste en France.'"
 
 [^1]: [19:02](https://www.youtube.com/watch?v=7SAQFmZQWBU&t=1142) — "le mec il pense tout en terme de bénéfice — est-ce que le passeport me permet des bénéfices ou est-ce qu'il me coûte"
 [^2]: [5:06](https://www.youtube.com/watch?v=7SAQFmZQWBU&t=306) — "les gens qui ont profité de la solidarité nationale de nos routes de nos écoles de nos hôpitaux... que s'ils se barrent juste pour des raisons pécunières on pourrait très bien imaginer qu'on les taxe"

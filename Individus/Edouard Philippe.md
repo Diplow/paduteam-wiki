@@ -42,8 +42,17 @@ La PaduTeam décrit la mécanique qui gonfle artificiellement les scores de Phil
 
 [^ephi-noisette]: [22:58](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1378) — "les noisettes c'est ça. Tant que les deux pinces ne se sont pas resserrées, elles ont l'impression d'être la force brillante" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
 
+## La crise Lecornu : Philippe se positionne en garant de la bourgeoisie
+
+En octobre 2025, lors de la crise du gouvernement Lecornu (14 heures), Philippe prend la parole à RTL avec un message calculé : il n'est "pas pour la démission immédiate et brutale" de Macron, ni pour une dissolution, mais propose une voie de sortie en deux temps — faire voter un budget pour "rassurer les marchés", puis organiser une présidentielle anticipée. La PaduTeam décrypte : "Il veut un budget ultra-libéral avant de faire une élection présidentielle." Philippe incarne la figure du "garant de la bourgeoisie" qui veut stabiliser les marchés (le CAC 40 a chuté de 2-3 points à l'annonce de la démission Lecornu) avant toute transition politique[^ephi-lecornu].
+
+Ce discours remplit une double fonction : donner des gages à son électorat de droite ("je suis pour la République et la continuité"), tout en se positionnant comme successeur naturel — "l'homme qui a trouvé la solution". La PaduTeam : c'est aussi un moyen pour lui d'apparaître "comme le successeur" et d'éviter que Macron continue à s'enfoncer en l'associant à lui.
+
+[^ephi-lecornu]: [16:02](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=962) — "Philippe c'est vraiment le garant de la bourgeoisie qui veut vraiment rassurer les marchés comme on dit. Rassurer le CAC 40 quoi."
+
 ## Vidéos
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanisme sondagier noisette : donné gagnant dans les face-à-face jusqu'à l'écrasement réel ; "la vraie noisette" de la droite.
+- [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — Philippe appelle à une présidentielle anticipée après budget ; se positionne en garant de la bourgeoisie et en successeur naturel
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de l'impossibilité d'alliance avec Retailleau
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Incarne la droite orléaniste historique à 16%, en haut à droite du Graphique (espace Action française/Sarkozy 2012), bien plus crédible qu'Attal (10-11%) comme candidat centriste
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Fera ~10-15%, récupère les débris macronistes + LR modérés. Métaphore Charlemagne : Macron mort, ses "fils dégénérés" héritent de petits royaumes, Philippe est l'un d'eux. Récupérera [[Xavier Bertrand]] après sa défaite à la primaire LR

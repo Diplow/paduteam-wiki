@@ -117,6 +117,15 @@ La PaduTeam souligne l'inanité de la stratégie : "il y a aucun pipeline" vers 
 
 Contexte : les statistiques officielles du ministère de l'intérieur montrent l'absence d'explosion des délits. Le taux d'homicide français (1,2 pour 100 000) est parmi les plus bas du monde — et inférieur aux années 1980. Les sociétés les plus répressives (États-Unis, Russie, Hongrie) ont des taux respectivement 6, 10 et 2 fois plus élevés.
 
+## Bouffon des noisettes : le tiers de slip comme victoire (octobre 2025)
+
+Malgré le vote de la censure par le groupe GDR (dont les communistes font partie) à l'Assemblée nationale, Roussel déclaré que la suspension partielle de la réforme des retraites est « une première victoire pour les 500 000 salariés qui en profiteront » et « le fruit de toutes les mobilisations »[^roussel-victoire]. La PaduTeam : « Il ose dire c'est le fruit de toutes les mobilisations — un truc de palais, il a honte de rien. »
+
+Stéphane Peu (GDR), lui, adopte une position bien différente et plus énervée, confirmant la division interne entre les communistes de l'Assemblée (qui ont voté la censure) et Roussel (qui valide le résultat comme une victoire). La PaduTeam lui réserve « le titre de bouffon des noisettes » et propose une minute de silence collective « en l'hommage à tous les camarades communistes qui sont encore au parti communiste français et qui doivent se taper ce mec comme chef »[^roussel-silence]. Force à eux.
+
+[^roussel-victoire]: [28:27](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1707) — Roussel : « La suspension de la réforme des retraites à 62 ans 9 mois 170 trimestres est une première victoire pour les 500 000 salariés qui en profiteront de cette année. »
+[^roussel-silence]: [28:57](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1737) — « Je vous propose que nous fassions tous après cette vidéo, chacun chez nous, une minute de silence en l'hommage à tous les camarades communistes qui sont encore au parti communiste français et qui doivent se taper ce mec comme chef. »
+
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
@@ -131,3 +140,4 @@ Contexte : les statistiques officielles du ministère de l'intérieur montrent l
 - [[ROUSSEL TROUVE RETAILLEAU TROP MOU]] — Discours sécuritaire sur BFM TV ; "Fabien Retailleau" comme lapsus analytique ; zéro preuve de l'efficacité du durcissement pénal ; présenté comme fin de course du PCF, transition vers l'URC.
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Cité parmi les "amis de gauche" qui critiquent LFI pour le refus d'accréditation, qualifié de noisette. Ironie sur ses compétences réelles : "Quitte le PCF et ouvre une chaîne YouTube. Meilleures recettes et meilleurs campings de France."
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Cité pour sa posture de reniement face aux attaques anticommunistes ; n'a pas de discours construit sur l'histoire soviétique
+- [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Bouffon des noisettes » : se félicite de la suspension partielle des retraites comme d'une « première victoire » alors que GDR a voté la censure. PaduTeam : une minute de silence pour les camarades qui doivent le subir comme chef.
