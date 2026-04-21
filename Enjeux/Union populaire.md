@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w27w28
+skill_version: write-enjeu-2026-04-21-enrichi-w31w32
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -146,6 +146,20 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 
 [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] confirme la même thèse en conditions réelles : quand Mélenchon peut dérouler sa ligne sur un terrain médiatique non-hostile (journalistes québécois qui ne le diabolisent pas), la combinaison "communisme + antisystème" est naturellement hégémonique. La leçon : "quand le terrain médiatique est non-hostile, la ligne radicale s'impose d'elle-même." Il déploie ses "deux jambes" — programme radical pour ne pas être "pris par le PS", posture antisystème pour capter l'abstention — en citant les chiffres bruts de la trahison PS : "1,67% en 2017, on les sort du néant, à peine arrivés ils refusent les motions de censure."
 
+## Le mouvement social comme base matérielle de l'union populaire — le 10 septembre 2025
+
+Le corpus de juillet-août 2025 apporte un argument structurant pour l'union populaire : le mouvement social autonome n'est pas un concurrent du projet électoral, c'est sa condition de possibilité.
+
+Le mouvement du 10 septembre 2025 — convoqué par des réseaux informels issus des Gilets Jaunes, sur fond de coupes budgétaires Bayrou — est analysé dans [[10 SEPTEMBRE ON NE VEUT PLUS]] comme une situation pré-révolutionnaire au sens léniniste. La formule de Lénine dans *La maladie infantile du communisme* s'applique : "ceux d'en haut ne peuvent plus gouverner comme avant, ceux d'en bas ne veulent plus être gouvernés comme avant." Les conditions objectives sont réunies : néolibéralisme en crise, gouvernement aux coupes impopulaires, légitimité Macron effondrée.
+
+La leçon stratégique centrale est celle de la forme d'action : **bloquer l'appareil productif, pas défiler**. Une manifestation devant une mairie ne change rien. Bloquer une raffinerie crée un rapport de force qui contraint les dominants à négocier. Les GJ ont montré la voie — leur force (blocage des ronds-points, spontanéité populaire, conscience de classe qui s'élève vite) et leurs limites (absence d'organisation structurée, dispersion).
+
+[[La MASTERCLASS DE MELENCHON SUR LE 10 SEPTEMBRE]] complète l'analyse. Mélenchon publie une note défendant l'**indépendance et l'autonomie du mouvement social** comme conditions de son succès. La PaduTeam approuve complètement : le temps politique (programmes, mots d'ordre partisans) tourne à 16°C, le temps de la contestation sociale tourne à 200°C. Tenter de mettre le second au service du premier refroidit mécaniquement la dynamique. La FI ne doit pas être le "débouché" du mouvement — elle peut accompagner mais jamais diriger.
+
+La formulation la plus radicale vient de Chris : "je préfère les soviets à la France insoumise." L'auto-organisation populaire, les assemblées de base qui émergent spontanément — c'est le vrai sujet révolutionnaire. La FI est un outil, pas une fin.
+
+Par ailleurs, [[LORDON MELENCHON peut GAGNER en 2027]] ajoute une validation externe supplémentaire : Lordon, depuis [[Blast]], déclare que "strictement sur les données électorales, ça ne se présente pas si mal" pour la FI en 2027. La PaduTeam y lit une validation de la prophétie du Graphique — et note que Mélenchon à 17% dans les sondages à 20 mois de la présidentielle confirme la dynamique. Le débat sur le positionnement de [[RED Jeunes]] (MJCF) illustre le dilemme classique : se faire absorber par la FI ou rester marginaux comme LO. La PaduTeam : la FI "est transparente sur ses objectifs" et accepte l'entrisme si ça renforce sa base.
+
 ## Vidéos clés (corpus mai 2025)
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — diabolisation comme étape prévue par le Graphique ; syllogisme Palestine→Goebbels weaponisé par la LICRA ; Mélenchon comme digue ; les libertés publiques ne sont jamais un principe, seulement une tolérance bourgeoise
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — démonstration chiffrée du scénario 2027 : Retailleau=Sarkozy 2007 divise la droite, Mélenchon passe ; Bompard confirme que LFI peut tenir les deux jambes (radicalité + bon sens républicain)
@@ -162,6 +176,8 @@ La vidéo pose explicitement la stratégie [[Anasse Kazib]] comme pièce du disp
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Démonstration que deux candidats à gauche valent mieux qu'une candidature unique : avec deux candidats, le premier tour se joue sur des thèmes de gauche (retraites, Palestine, nationalisations), créant une dynamique de report au second tour. Une candidature unique centre le débat sur la droite. "Le vrai barrage antifasciste c'est la victoire de la gauche de rupture, pas la synthèse avec le centre."
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Défense du communiqué LFI sur la condamnation Le Pen ; la position de Mélenchon est rationnelle et cohérente avec la stratégie de bloc populaire ; risque d'isolation si recomposition droite
 - [[LORDON MELENCHON peut GAGNER en 2027]] — [[Frederic Lordon]] valide implicitement la thèse en arrivant aux mêmes conclusions sur 2027 ; la FI décrite comme "aimant" incontournable pour tous les mouvements à sa gauche ; débat sur le positionnement de [[RED Jeunes]] comme cas d'école du dilemme autonomie vs absorption
+- [[10 SEPTEMBRE ON NE VEUT PLUS]] — situation pré-révolutionnaire léniniste ; leçons GJ : blocage productif comme seul rapport de force réel ; Le Canard Réfractaire comme organisateur autonome ; la FI ne doit pas "récupérer" le mouvement
+- [[La MASTERCLASS DE MELENCHON SUR LE 10 SEPTEMBRE]] — indépendance du mouvement social comme condition de son succès ; temps politique (16°C) vs temps de la contestation (200°C) ; "je préfère les soviets à la France insoumise" ; Mélenchon unique en Europe : ni Podemos, ni Syriza, ni Link
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — scénario 2027 chiffré complet : score 16,86% au 1er tour grâce à l'éclatement du bloc central en trois fragments ; vote caché des cadres (+3 points) par les 32h ; rôle Kazib comme Poutou 2017 ; second tour 58,2% vs 41,8% ; fin de la boucle du 21 avril 2002
 - [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — stratégie des "deux jambes" (communisme + antisystème) testée sur terrain non-hostile ; confirmation que la ligne radicale est naturellement hégémonique quand non-diabolisée ; analyse matérialiste de Trump vs psychologisation ; moïsation internationale
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Pourquoi la résurgence PS est mortelle pour la gauche de rupture et pourquoi LFI doit radicaliser

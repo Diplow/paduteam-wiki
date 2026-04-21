@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w31w32
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
@@ -240,6 +240,26 @@ La vidéo articule féminisme et division du travail : ce qui semble "normal" de
 
 L'argument anti-idéologique de Zoé médecin : "ça ne m'est jamais arrivé d'avoir quelqu'un qui arrive en me disant tout va bien dans mon entreprise et pourtant je vais quand même mal" — sur des milliers d'arrêts de travail signés. La réalité est exactement l'inverse du tableau de Julia.
 
+## L'anti-punitivisme comme position féministe cohérente
+
+[[VALEK ACCUSE ZOE D ETRE COMPLICE DES PEDOCRIMINELS]] documente une attaque directe contre la position féministe matérialiste de Zoé sur la pédocriminalité. Valek l'accuse d'être "complice des pédocriminels" parce qu'elle défend une position anti-punitiviste.
+
+La PaduTeam défend rigoureusement la distinction : l'**anti-punitivisme n'est pas de la complicité**. C'est une position marxiste classique — le système pénal n'est pas neutre, il punit inégalement selon la classe sociale. Exiger la prison pour tous ne supprime pas les rapports de pouvoir qui permettent les agressions. La vraie protection des victimes passe par **déposer les agresseurs de leur position de pouvoir** : retirer la garde parentale, la tutelle, l'autorité professionnelle. L'emprisonnement peut s'y ajouter, mais ce n'est pas la seule ni toujours la meilleure réponse.
+
+La référence théorique mobilisée est [[Sandor Ferenczi]] (1932) : l'adulte mêle tendresse (registre de l'enfant) et passion sexuelle (registre adulte). Ce n'est pas un acte de désir enfantin mal compris — c'est une violence de l'adulte qui exploite l'asymétrie de pouvoir. Les données épidémiologiques (10 à 20% d'enfants victimes) montrent que les agressions sexuelles sur enfants sont massives et systémiques, non des incidents isolés — ce qui exige une réponse structurelle, pas seulement pénale.
+
+## La famille choisie comme expérience matérielle, non choix bourgeois
+
+[[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]] enrichit le féminisme matérialiste d'une démonstration sur la famille et la solidarité queer.
+
+[[Écharpe]] (femme trans YouTubeuse) apporte une correction matérialiste à la théorie de Lagasnerie sur la "famille choisie" : ce n'est pas un choix libre d'un bourgeois qui préfère ses amis à sa famille. C'est une **nécessité née de la violence familiale, de l'exclusion, de la survie**. Lagasnerie universalise une expérience de classe privilégiée — il peut critiquer la famille parce qu'il n'en a jamais eu besoin pour survivre.
+
+Les réseaux trans décrits par Écharpe (aide au logement, soutien médical, garde d'enfants, accompagnement PMA pour lesbiennes) illustrent ce que la famille choisie est vraiment : une infrastructure matérielle de solidarité, pas une posture intellectuelle. C'est l'opposé du projet lagasnerien.
+
+La convergence avec la PaduTeam : Lagasnerie est le type du **capitalisme masculiniste** — pouvoir masculin post-patriarcal qui récupère les catégories des dominés pour dominer autrement. Il n'interroge jamais la matérialité de sa masculinité ni de sa bourgeoisie, et c'est pour ça qu'il peut se présenter comme critique radical sur France Inter sans déranger personne.
+
+La leçon stratégique sur le mouvement queer : Stonewall était une émeute initiée par des femmes trans noires, séropositives, travailleuses du sexe ([[Marsha P. Johnson]]). Très vite, une fraction gay blanche bourgeoise a récupéré le mouvement pour des droits compatibles avec le capitalisme. Le mouvement queer est traversé par des antagonismes de classe depuis l'origine — cette histoire doit informer le féminisme matérialiste.
+
 ## La lutte féministe comme lutte de longue haleine avec ses propres camarades
 
 [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] développe la thèse que le féminisme touche l'intime là où les autres combats politiques ne touchent que l'externe. Contrairement à une position sur les 32h (qui ne change pas votre comportement personnel quotidien), le féminisme "oblige chacun à se poser la question de son propre comportement chaque jour dans sa famille, dans son couple, dans son travail." Lâcher la domination masculine est une perte réelle pour les hommes — ils ne le feront pas spontanément. "On va devoir se cartonner tout le temps avec des gens qui sont nos camarades. On ne va pas vous lâcher là-dessus. La main est tendue mais la main est ferme."
@@ -272,6 +292,8 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — protection institutionnelle des prédateurs ; mythe du monstre ; complicité passive de Bayrou ; rapport Sauvé (330 000 victimes)
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation (discours structurel + dépositionnement) ; la parole comme acte matériel ; féminisme touche l'intime là où les autres combats ne touchent que l'externe ; "la main est tendue mais la main est ferme"
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique interne structurelle plutôt que punitivisme ; management militant toxique dans les orgas militantes
+- [[VALEK ACCUSE ZOE D ETRE COMPLICE DES PEDOCRIMINELS]] — anti-punitivisme ≠ complicité ; Ferenczi sur la "confusion de langues" adulte/enfant ; déposition des agresseurs de leur position de pouvoir comme réponse centrale ; 10-20% d'enfants victimes comme fait structurel
+- [[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]] — famille choisie comme nécessité matérielle (violence, exclusion, survie) vs choix bourgeois ; réseaux trans comme infrastructure de solidarité concrète ; Lagasnerie comme capitalisme masculiniste récupérateur ; généalogie Stonewall (Marsha P. Johnson) et luttes de classe dans le mouvement queer
 - [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]] — idéologie bourgeoise par abstraction comme violence sociale ; conditions objectives du bonheur contre le relativisme ; division du travail patriarcal à domicile comme prolongement du travail salarié ; femme "subalterne dans l'unité de production domestique"
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
 - [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]] — Dr Zoé / Lou Girard (OST) : matérialisme trans, précarité trans, autosupport, lutte de classe trans, contexte Trump
