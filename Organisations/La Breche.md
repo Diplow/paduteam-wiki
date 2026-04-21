@@ -39,6 +39,7 @@ Dans la capsule de genèse d'[[On ne veut plus]], Chris expose que La Brèche es
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation la plus explicite du cadre stratégique gramscien dans lequel La Brèche se pense
+- [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — La Brèche présentée comme modèle d'association militante décapitalisée ; exposé des revenus réels (≈1000€ Tipeee + 2500€ YouTube) et de leur usage militant
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

@@ -35,8 +35,10 @@ La diabolisation est intégrée dans la prophétie : les médias et le bloc bour
 - "Dossier" Julien Dray sur l'enfance au Maroc (juillet 2025)
 - Accusations de stalinisme
 - "Extrémiste", "dangereux pour la démocratie"
+- Comparaison avec Goebbels par [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) sur BFM TV, mai 2025 — forme paroxystique de la [[Assimilation antisemite|diabolisation par assimilation antisémite]]
 
 ## Vidéos où le concept est développé
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Forme la plus extrême : la société civile antiraciste retourne son cordon contre la gauche radicale
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du mécanisme vote caché comme résultat de la diabolisation
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Formulation initiale de la diabolisation comme carburant du vote caché
 - [[Hollande vs Melenchon 2e tour]] — La diabolisation dans le cadre du 2002 inversé

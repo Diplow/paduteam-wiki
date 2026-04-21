@@ -270,19 +270,20 @@ Fiches créées : [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]], [[LES 
 ---
 ## Batch 15 — Semaines 2025-W19 à 2025-W20 (5 mai 2025 – 18 mai 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w19-w20
+Fiches créées : [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]], [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]], [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]], [[Fabien Gay]], [[Alain Jakubowicz]], [[Marie Coquille Chambel]], [[DFla]], [[Sanofi]], [[Empire Mulliez]], [[Socialiser les pertes privatiser les profits]], [[Assimilation antisemite]], [[Intellectuel organique]] + 3 enjeux enrichis (Guerre des gauches, Union populaire, VSS comme fait social)
 
-- [ ] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES ? (@Dr_Zoé_YT x @pasduhring)
-- [ ] Ces PDG se font DÉTRUIRE par ce SÉNATEUR COMMUNISTE ! ( @Dr_Zoé_YT X @pasduhring)
-- [ ] SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhringx Chris)
-- [ ] RETAILLEAU DISSOUT la JEUNE GARDE et URGENCE PALESTINE !! (avec Cem Yoldas)
-- [ ] JAKUBOWICZ COMPARE MÉLENCHON à G0EBBELS !? (@pasduhring x Chris de Positions Revue)
-- [ ] Les MILITANTS de L'APRÈS et les PRO-ROUSSEL sont CATASTROPHIQUES !! (@cathedrale_osseuse)
-- [ ] BOMPARD DÉTRUIT la CARRIÈRE de WAUQUIEZ sur BFMTV !! (@pasduhring X Chris)
-- [ ] AFFAIRE DANY : COMMENT la ZAWAPROD a MANIPULÉ TOUT LE MONDE !? (@Dr_Zoé_YT x @pasduhring x Chris)
-- [ ] Faut-il ENVOYER les STREAMERS au G0ULAG ? (@pasduhring x Chris)
-- [ ] LOUIS SARKOZY : LE + GROS DÉBILE DU MOMENT ? (@pasduhring x Chris)
+- [x] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES ? (@Dr_Zoé_YT x @pasduhring)
+- [x] Ces PDG se font DÉTRUIRE par ce SÉNATEUR COMMUNISTE ! ( @Dr_Zoé_YT X @pasduhring)
+- [x] SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhringx Chris)
+- [x] RETAILLEAU DISSOUT la JEUNE GARDE et URGENCE PALESTINE !! (avec Cem Yoldas)
+- [x] JAKUBOWICZ COMPARE MÉLENCHON à G0EBBELS !? (@pasduhring x Chris de Positions Revue)
+- [x] Les MILITANTS de L'APRÈS et les PRO-ROUSSEL sont CATASTROPHIQUES !! (@cathedrale_osseuse)
+- [x] BOMPARD DÉTRUIT la CARRIÈRE de WAUQUIEZ sur BFMTV !! (@pasduhring X Chris)
+- [x] AFFAIRE DANY : COMMENT la ZAWAPROD a MANIPULÉ TOUT LE MONDE !? (@Dr_Zoé_YT x @pasduhring x Chris)
+- [x] Faut-il ENVOYER les STREAMERS au G0ULAG ? (@pasduhring x Chris)
+- [x] LOUIS SARKOZY : LE + GROS DÉBILE DU MOMENT ? (@pasduhring x Chris)
 
 ---
 ## Batch 16 — Semaines 2025-W21 à 2025-W22 (19 mai 2025 – 1 jun 2025)

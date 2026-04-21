@@ -47,12 +47,20 @@ La technique fonctionne uniquement si la gauche est défensive. Elle cesse de fo
 
 La PaduTeam : "On a devant nous des mecs qui sont des gens payés par un milliardaire d'extrême droite, ultra-offensifs toute la journée à rabâcher des conneries pour essayer de diviser la population [...] Il faut les attaquer, il faut arrêter de s'excuser." [22:50]
 
+## Variante : le piège de l'assimilation antisémite
+
+Plus redoutable que le piège stalinien, le piège par [[Assimilation antisemite|assimilation antisémite]] consiste à transformer un soutien à la Palestine en nazisme par syllogisme : critiquer Israël → antisémitisme → nazisme → Goebbels. Ce piège est plus difficile à retourner car la charge symbolique de la Shoah est asymétrique : on peut renvoyer Bolloré et l'Afrique face à "Staline", mais on ne peut pas facilement retourner une comparaison avec Goebbels sans risquer d'être accusé de minimiser la Shoah.
+
+L'exemple central : [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) compare [[Jean-Luc Melenchon]] à Goebbels sur [[BFM TV]] en mai 2025, sans contradiction des journalistes. La PaduTeam souligne l'asymétrie : la LICRA n'a jamais comparé Marine Le Pen à Himmler ou Göring.
+
 ## Concepts liés
 
+- [[Assimilation antisemite]] — variante spécifique du piège via la Palestine
 - [[Strategie de reniment]] — la posture défensive que le piège cherche à induire
 - [[Eurocentrisme du deuil]] — l'asymétrie sur laquelle repose le piège
 - [[Collusion mediatique-politique]] — le cadre structurel (Bolloré, CNews) qui rend le piège possible
 
 ## Vidéos
 
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Variante assimilation antisémite du piège : syllogisme Palestine → Goebbels
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Analyse clinique du piège en action et de la riposte offensive que la PaduTeam formule

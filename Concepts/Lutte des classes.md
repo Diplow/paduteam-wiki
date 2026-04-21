@@ -38,6 +38,13 @@ La PaduTeam utilise le cas [[Mos Majorum]] comme illustration pédagogique : en 
 - [[Luttes en classe vs luttes de classe]] — distinction entre conflits internes à une classe et lutte entre classes
 - [[Bloc bourgeois]] — notion de bloc de classe dans l'analyse électorale PaduTeam
 
+## La commission parlementaire comme terrain de lutte des classes
+
+La PaduTeam souligne que la lutte des classes se joue aussi dans les institutions. La commission d'enquête sénatoriale animée par [[Fabien Gay]] (PCF, directeur de [[L Humanite|L'Humanité]]) sur les aides publiques aux grandes entreprises (Mulliez, Sanofi, Michelin, Google France) est présentée comme un moment rare de mise en visibilité directe du mécanisme : aides publiques captées, emplois supprimés, dividendes versés à la famille ou aux actionnaires, sans rendre de comptes. Le PDG de Google France qui arrive "les mains dans les poches" sans savoir combien son entreprise touche en exonérations — c'est l'arrogance de classe rendue visible. La commission a une limite : "En vrai, c'est juste une commission" — pas de pouvoir coercitif direct — mais elle produit un moment de vérité publique qui peut nourrir la formation politique.
+
+Voir aussi [[Socialiser les pertes privatiser les profits]] — mécanisme analysé en détail dans cette vidéo.
+
 ## Vidéos où le concept est développé
 
 - [[MOS MAJORUM - ce sont LES SALARIES qui EXPLOITENT LES PATRONS !!]] — démonstration pédagogique via le cas CARM
+- [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]] — la commission Gay comme terrain de lutte des classes institutionnel ; mécanisme "socialiser les pertes, privatiser les profits" illustré sur 4 entreprises
