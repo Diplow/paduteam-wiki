@@ -47,3 +47,4 @@ La PaduTeam : "quand j'entends laïcité aujourd'hui, j'ai 9 chances sur 10 que 
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse des deux matrices, critique de la laïcité comme outil culturaliste
 - [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — cas pratique du laïcisme coercitif dans la tradition trotskiste (LO) ; contre-exemple léniniste historique (non-interventionnisme religieux dans les républiques soviétiques à population musulmane)
+- [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Développement le plus complet sur la laïcité de 1905 comme loi politique (fin du Concordat napoléonien), pas loi religieuse ; paradoxe colonial (1905 ne s'applique pas aux colonies) ; "C'est l'État qui est laïque en France, c'est pas la rue" ; Mélenchon défini comme "le plus fidèle à 1905"

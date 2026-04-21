@@ -38,6 +38,7 @@ L'objection "retour du rationnement" est systématiquement réfutée par la Padu
 ## Vidéos où le concept est développé
 
 - [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]]
+- [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]] — application à la production industrielle intégrée (paiements différés à 30/60/90 jours) comme proto-planification ; thèse que les monopoles capitalistes font déjà ce que le Gosplan visait (anticipation des besoins, mesure de la demande en temps réel ascendante)
 
 [^1]: [18:40](https://www.youtube.com/watch?v=a_IRACDXLkU&t=1120) — "le système productif est déjà bon pour passer au communisme et donc ça va pas s'effondrer si d'un coup on dit bah non en fait on fait juste plus le transfert d'argent entre les deux"
 [^2]: [7:42](https://www.youtube.com/watch?v=a_IRACDXLkU&t=462) — "la sécurité sociale c'est le soin vous avez une file d'attente quand vous prenez un rendez-vous chez votre médecin vous croyez que c'est quoi si c'est pas une file d'attente"

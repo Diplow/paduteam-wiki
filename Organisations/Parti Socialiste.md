@@ -146,7 +146,31 @@ La PaduTeam analyse la [[Taxe Zucman]] non comme une mesure sociale isolée mais
 
 La "défaite" du vote (172 pour, 228 contre) est en réalité une victoire de positionnement. Le PS sait que la mesure sera rejetée — ce qui lui permet de dire "regardez, on a proposé, les macronistes et la droite ont refusé." C'est la même logique que le budget PS de Faure présenté à l'Assemblée en septembre : un budget pour exister politiquement, pas pour gouverner.
 
+## Vote du PLFSS 2026 : le PS sauve le budget pour sauver la primaire (décembre 2025)
+
+Le 10 décembre 2025, le PLFSS 2026 est adopté grâce aux abstentions PS. Sur les 64 élus PS présents, 10 % seulement s'abstiennent (les "frondeurs" : Christoph de la Drô, Courbon, Vico, Carlo Achi, Barusso, Diop). Le reste vote pour ou ne s'y oppose pas.
+
+La logique est implacable : si le budget tombait, [[Olivier Faure]] était grillé politiquement avant même l'annonce des modalités de la primaire noisette (prévue mi-décembre). Sans Faure comme chef visible du PS, la primaire perdait sa jambe socialiste et s'effondrait. Le PS a donc sauvé le budget de [[Francois Bayrou|Le Cornu]] — un budget qu'il qualifie lui-même de "catastrophique" — pour sauvegarder son propre calendrier électoral.
+
+La PaduTeam nomme le mécanisme : la campagne [[Plus jamais PS]] "est en train de tourner" et doit être accentuée. Faure est qualifié de "valet" qui a "bien joué" techniquement mais au prix d'une nouvelle trahison structurelle.
+
+Les "victoires" affichées par le PS :
+- Abandon du gel du RSA et des allocations familiales
+- Abandon du doublement des franchises médicales
+- Congé de naissance de 2 mois (indemnisé à 70 % puis 60 %)
+- "Suspension" de la réforme des retraites (réalité : décalage de 3 mois pour nés 1964-1978)
+
+La PaduTeam résume : "On a moins perdu que ce qui était prévu mais ça veut pas dire qu'on a gagné."
+
+## Le 49.3 de compromis — trahison interne de Faure (décembre 2025)
+
+Alors qu'[[Olivier Faure]] tentait de tenir la ligne anti-49.3 sur le PLFSS 2026, [[Boris Vallaud]] et [[Rachid Temal]] ouvrent la porte à un "49.3 de compromis" — formule inventée par [[Francois Hollande]] sous son mandat pour habiller un passage en force d'une apparence de consensus. La PaduTeam interprète ce mouvement comme la "main noire" d'Hollande reprenant l'initiative via ses lieutenants. Faure est torpillé de l'intérieur, contraint de s'aligner ou de disparaître.
+
+L'épisode illustre la thèse structurelle : le PS ne peut pas assumer la conflictualité face au macronisme. Quand Faure essaie de tenir une ligne, c'est Hollande qui passe derrière et rétablit la collaboration. La PaduTeam qualifie Faure de "PPH" (ne passera pas l'hiver politique).
+
 ## Vidéos où l'organisation est analysée
+- [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 le 10 décembre 2025 : le PS s'abstient (6 frondeurs isolés) pour sauver Faure et la primaire. Démontage des "victoires" (ONDAM +2,1 % = baisse réelle, retraites décalées de 3 mois, congé naissance de classe, taxe complémentaires répercutée). Révélateur de la recomposition en 5 blocs pour 2027.
+- [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — Feuilleton PLFSS décembre 2025 : Vallaud/Temal torpillent Faure avec le "49.3 de compromis" (formule hollandiste), démonstration que le PS ne peut pas assumer la conflictualité, portrait de classe d'[[Amelie de Montchalin]] comme "expression de l'ennemi de classe".
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — Analyse de la Taxe Zucman comme arme anti-LFI : prise de lead sur l'agenda, LFI en position défensive, vote 172/228 comme victoire de positionnement, contexte moïsation internationale ; démontage de [[Eric Larcheveque]] et [[Maud Bregeon]] ; annonce campagne "Plus jamais PS" de La Brèche
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot

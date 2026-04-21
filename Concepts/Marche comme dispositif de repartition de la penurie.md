@@ -43,6 +43,7 @@ L'objection systématique est "retour du rationnement". La PaduTeam répond : le
 
 - [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]]
 - [[ANTOINE DANIEL DERAPE AU SUJET DES MILLIARDAIRES]]
+- [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]] — développement le plus détaillé sur l'origine historique de la monnaie comme convention de pénurie ; exemples concrets d'eau potable (2,60 €/an) et de carte vitale comme zones déjà sorties du marché
 
 [^1]: [9:17](https://www.youtube.com/watch?v=a_IRACDXLkU&t=557) — "qui dit marché et monnaie dit pénurie à partir du moment où tu fais une planification il y a pas de pénurie il y a pas besoin de marché"
 [^2]: [5:07](https://www.youtube.com/watch?v=a_IRACDXLkU&t=307) — "la rareté elle est dans le mode de production capitaliste elle est purement subjective Bernard Arnaud pour lui il y a rien qui est rare c'est une bouteille de roman Conti à 15000 balles c'est pas rare pour lui"

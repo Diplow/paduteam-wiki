@@ -43,8 +43,19 @@ La PaduTeam : si le taux de profit est aboli (C + V seulement), quand le CA augm
 
 La valeur-travail marxiste implique que la valeur est produite **collectivement** dans le processus de production — pas individuellement tâche par tâche. Décomposer un processus coopératif pour attribuer à chaque maillon une "valeur" distincte est une opération idéologique (la sphère brisée de Chris), pas une opération scientifique. Tout maillon manquant arrête la production entière.
 
+## Deux usages antagonistes du même mot : "valeur travail"
+
+La vidéo [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] développe une distinction cruciale entre deux usages radicalement différents de l'expression "valeur travail" :
+
+**Usage droitier / moraliste** (Sarkozy, Pétain, MEDEF, Cukierman) : le travail comme valeur *morale* positive — marqueur identitaire du "bon citoyen" qui "se lève tôt". Ce cadre implique que ne pas travailler est une faute individuelle ou un manque de mérite. Il valorise le travail *aliéné* capitaliste sans questionner les rapports de production.
+
+**Usage marxiste** : le travail est une *activité nécessaire* anthropologique à la reproduction sociale — pas une valeur. Ce qui compte n'est pas de louer le travail mais de transformer ses conditions : qui contrôle le processus de production, comment la plusvalue est redistribuée, comment sortir de l'exploitation. "Le travail c'est pas une valeur, c'est une activité nécessaire anthropologique. C'est comme ça que le monde humain existe. Mais d'où c'est une valeur ?"
+
+Cette distinction a une généalogie politique longue : la droite a toujours été "du côté du travail" (travail exploité, libéral, individuel) ; la gauche a toujours été du côté des *travailleurs*. Pétain ("Travail, Famille, Patrie") et la fête du Travail (1er mai pétainiste) vs la fête des Travailleurs (1er mai de gauche). Tenir un discours de "valeur travail" sans articuler la lutte des classes est, pour la PaduTeam, "faire du bénévolat pour le MEDEF."
+
 ## Vidéos où le concept est développé
 
 - [[MOS MAJORUM - ce sont LES SALARIES qui EXPLOITENT LES PATRONS !!]] — application pratique et pédagogique via le cas CARM
 - [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — contexte plus large du débat épistémologique sur le marxisme
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — démontage de la distinction "valeur intellectuelle vs valeur manuelle" : toute force de travail produit de la valeur économique, la division manuelle/intellectuelle est idéologique pas économique ; les gens sans diplôme "produisent le plus et sont payés le moins"
+- [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — démarcation systématique valeur travail droitière (moraliste) vs conception marxiste (activité nécessaire) ; application au slogan rouselliste "parti du travail" ; généalogie Pétain/Sarkozy/MEDEF

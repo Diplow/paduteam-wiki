@@ -43,6 +43,7 @@ La démocratie et le pluripartisme ne sont pas une concession mais une condition
 - [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Formulation explicite de Mélenchon (extrait 2012) ; appropriation par La Brèche ; annonce de la campagne anti-PS comme application concrète
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La conflictualisation comme réponse aux attaques post-mort de Quentin Deranque
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Conflictualisation en acte face à TF1 : refus de la déférence journalistique
+- [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Commission parlementaire sur l'islamisme comme cas d'école de conflictualisation institutionnelle : Mélenchon arrive protagoniste, impose son récit, retourne le format accusatoire ; les contradicteurs de CNews avouent leur impuissance
 
 [^melenchon2012]: [33:32](https://www.youtube.com/watch?v=33j6Pv7BzOo&t=2012) — "La conquête de l'hégémonie politique a un préalable. Il faut tout conflictualiser. Tout conflictualiser." (extrait Mélenchon 2012)
 [^extrait2012]: [33:32](https://www.youtube.com/watch?v=33j6Pv7BzOo&t=2012) — "Si vous laissez passer les choses passent avec la grammaire et la syntaxe. Le consentement à l'ordre. Tout doit être interpellé."

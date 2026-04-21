@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Ukraine, États-Unis]
-skill_version: write-enjeu-2026-04-19
+skill_version: write-enjeu-2026-04-21-enrichi-w47w48
 date created: Tuesday, April 14th 2026, 1:20:44 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -28,6 +28,12 @@ La gauche doit rester le camp de la paix. Face au tambour de guerre que battent 
 ## L'accusation de tankisme
 
 Les défenseurs du camp de la paix se font systématiquement traiter de "pro-Poutine", "tankistes", "munies de la Russie." La PaduTeam répond : cette rhétorique est la même que celle qui accusait de soutenir le Hamas quiconque analysait le 7 octobre en contexte. Elle empêche l'analyse matérialiste. "Poutine est méchant" n'est pas une politique — c'est une posture médiatique[^7].
+
+## Macron et la guerre comme sortie de crise personnelle
+
+[[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] ajoute une dimension institutionnelle au bellicisme : Macron cherche peut-être à rester au pouvoir via la guerre, "exactement comme son camarade Zelenski est resté au pouvoir." Le service militaire volontaire, les classes de défense et sécurité globale (CDSG) dans les lycées pro des zones populaires, la rhétorique guerrière — tout cela prépare un pivot vers l'état de guerre qui permettrait de suspendre les institutions. L'union sacrée 2.0 (Macron-Glucksmann-NPA-Usul) confirme que si la gauche pacifiste tombe, il n'y aura plus rien pour empêcher les pleins pouvoirs.
+
+La militarisation de l'enseignement est ciblée sur les jeunes sans capital culturel ou économique (lycées pro en RP+ et zones rurales) : "des gens qui n'ont pas de capital guerrier, ce sont des hommes qui n'ont pas de capital culturel, pas de capital économique, pas de capital éducatif, il leur reste leurs bras et leurs muscles." Le pipeline de recrutement militaire est un pipeline de classe.
 
 ## La ligne FI comme ligne à tenir
 

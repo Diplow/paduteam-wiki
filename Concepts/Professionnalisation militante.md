@@ -34,18 +34,31 @@ La PaduTeam ne condamne pas tous les choix individuels de professionnalisation. 
 
 Padu maintient son emploi à l'hôpital (psychiatre) et ne prévoit pas de l'abandonner — non par contrainte financière (le tipi et l'AdSense rapportent) mais par conviction théorisée. Il préfère investir les revenus de Pas du Stream dans le montage plutôt que de se payer lui-même comme "commentateur." L'argent sert à payer le monteur Sam, pas à permettre à Padu de quitter son taf[^4].
 
+## Le politicien professionnel comme cas extrême
+
+[[Jordan Bardella]] est mobilisé comme cas d'école de la professionnalisation pathologique côté institutionnel. Entré au FN à 17 ans, il n'a "rien fait de [sa] vie à part barboter dans des milieux politiques." Il n'a pas d'expérience du travail, a abandonné ses études par échec (pas par engagement). Le RN lui a donné "un poste de dingue" à 22 ans parce qu'il n'y avait "globalement personne."
+
+La PaduTeam propose une alternative institutionnelle : des **caisses de maintien de salaire** sur le modèle du chômage ou de l'assurance maladie, permettant des mandats de 5 à 10 ans maximum avant retour obligatoire à la vie active. Ce système éviterait la création de "politiqueurs" dont l'unique objectif est "maintenir la boutique, maintenir leur poste" — des auto-entrepreneurs de leur propre carrière.
+
+Critique complémentaire : le recrutement politique par les filières grande bourgeoisie (prépa, Sciences Po, HEC) sélectionne des personnes qui "ne sont pas des travailleurs, ne sont pas dans l'appareil de production." Conséquence : il est impossible de penser la transformation industrielle, du soin ou de l'éducation sans représentants qui y travaillent. La PaduTeam adresse explicitement aussi les partis de gauche : avoir 70% de Sciences-Pistes en candidature à la députation "est chelou" quand on a "le travail, le mérite" comme valeur cardinale.
+
+La violence de classe symétrique : les classes populaires, notamment les femmes, se disqualifient spontanément de la prise de parole politique ("je suis pas assez calée") alors qu'elles en savent souvent 20 fois plus que les professionnels politiques.[^5]
+
 ## Exemples
 
 - [[Glupatate]] — professionnalisation partielle au [[Canard Refractaire]] ; a quitté l'ingénierie pour la communication numérique + temps partiel au Canard
 - [[Psychodelique]] et [[Kroc Blanc]] — professionnalisation totale à ~10 000€/mois, sans engagement militant
 - Padu — refus de la professionnalisation comme commentateur ; garde son emploi de psychiatre
+- [[Jordan Bardella]] — cas extrême institutionnel : aucune expérience du travail, grenouillage depuis 17 ans, 133 000€ de fonds publics pour apprendre à sourire
 
 ## Vidéos où le concept est développé
 
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — premier développement théorique explicite
 - [[JVC BRAV-M DARMANIN GLUPATATE REPOND AUX ACCUSATIONS]] — débat Padu/Glupatate sur leurs choix respectifs, position comparée
+- [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — Bardella comme cas extrême institutionnel ; proposition des caisses de maintien de salaire ; critique du recrutement Sciences Po ; violence de classe de l'humilité populaire
 
 [^1]: [1:25:09](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5109) — "pouvoir garder comme objectif principal un objectif politique et militant et pas un objectif de payer ton loyer et faire bouffer ta famille"
 [^2]: [1:25:39](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5139) — "devenir un commentateur pur de la vie politique je trouve que c'est quelque chose de très désincarné [...] c'est vraiment la position bourgeoise par excellence"
 [^3]: [1:26:11](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5171) — "le fait d'arriver en retard à notre interview parce que j'avais des trucs à faire [...] ça te rappelle aussi ce que c'est le travail"
 [^4]: [1:27:43](https://www.youtube.com/watch?v=MX23MdVk5JQ&t=5263) — "je préfère que l'argent il passe dans du montage [...] plutôt que j'arrête mon taf du coup faut me payer moi"
+[^5]: [06:10](https://www.youtube.com/watch?v=PBDnxew6e34&t=370) — "95% des gens qui prennent la parole en politique s'ils connaissent 20 fois moins que toi, c'est une folie"

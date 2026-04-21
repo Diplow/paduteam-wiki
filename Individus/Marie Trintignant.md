@@ -16,3 +16,4 @@ Actrice française, tuée par [[Bertrand Cantat]] en 2003 dans une chambre d'hô
 ## Vidéos où Marie Trintignant est mentionnée
 
 - [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]]
+- [[HELYDIAFUGU COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES]] — citée en réponse à l'argument de Fugu ("si la porte n'était pas fermée à clé, c'est bizarre qu'elle ne soit pas partie") : "C'est bizarre que Marie Trintignant elle soit pas barrée ?"
