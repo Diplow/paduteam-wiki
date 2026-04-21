@@ -53,7 +53,23 @@ Politzer voulait construire une "psychologie concrète" en articulant plusieurs 
 - Bernard Lahire — dialectique biologie/société
 - [[Benjamin Schenderf]] — psychologue marxiste, thérapie des cadres relationnels (RFT)
 
+## Le dualisme épistémologique — l'impasse Lordon/Althusser
+
+La critique que la PaduTeam adresse à Lordon (et, derrière lui, à Althusser) est précisément l'introduction d'un **dualisme épistémologique** qui court-circuite la dialectique marxiste. Il y aurait d'un côté le marxisme pour penser les structures historiques, de l'autre la psychanalyse (ou le spinozisme) pour penser le sujet individuel. Ce dualisme :
+
+1. **Reproduit la séparation bourgeoise** individu/société qu'il prétend résoudre
+2. **Prive la psychologie de marxisme** : la psyché devient un espace autonome régi par ses propres lois (rapport père/mère, mythes lacaniens) sans lien organique avec les rapports de production
+3. **Empêche de penser le sujet collectif** : la psychanalyse reste enfermée dans l'individu et ses dynamiques intra-psychiques — elle ne sort jamais de l'intrafamilial pour atteindre les formes historiques d'individualité (Sève)
+
+[[Lev Vygotski|Vygotski]] et [[Jean Piaget|Piaget]] (même si Piaget est lui-même critiqué pour son biais individualiste) montrent qu'une génétique du sujet *empiriquement fondée* existe déjà. En 2025, construire une théorie du sujet sans se confronter à cette tradition expérimentale est "cracher à la gueule de l'histoire de la psychologie du développement".
+
+## Lordon comme limite externe — le Zeitgeist comme diagnostic
+
+La PaduTeam situe Lordon historiquement : il "sent le Zeitgeist" mais reste prisonnier d'une épistémologie bourgeoise. Son mouvement Spinoza → Freud reproduit Althusser → psychanalyse. La période (renouveau marxiste, nouvelle génération — [[Marina Simonin]], Feron, Alix Bouffard) exige de dépasser ce moment. Voir [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] pour le développement complet de l'analogie Hegel/jeunes hégéliens.
+
 ## Vidéos où le concept est développé
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — annonce de la série, critique de Lucbert
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — développement de l'analogie Hegel/jeunes hégéliens, critique du dualisme épistémologique, Piaget/Vygotski comme standard
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — développement le plus complet avec Sève au centre
+- [[ON RECADRE PSYKOCOUAC LE PSYCHOLOGUE LIBERTARIEN ANTI-SECU]] — cas pratique : un psychologue libéral qui reconnaît l'impact des conditions sociales sur la santé mentale dans ses vidéos, mais nie cette articulation sur la question du conventionnement Sécu (voir [[Psychologie libertarienne]])

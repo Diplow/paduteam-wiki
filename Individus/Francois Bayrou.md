@@ -35,7 +35,7 @@ L'original MoDem vs sa copie macroniste : la différence entre Bayrou et Macron,
 
 ## Affaire Bétharram (2025)
 
-Bayrou était maire de Pau, ministre de l'Éducation nationale, père de six enfants scolarisés à Notre-Dame de Bétharram, épouse ayant enseigné le catéchisme dans l'établissement. L'école est au cœur d'un scandale de 112 plaintes pour violences physiques et pédocriminalité couvrant 1950-2010 (rapport Sauvé total sur l'Église catholique : 330 000 victimes en France).
+Bayrou était maire de Pau, ministre de l'Éducation nationale, père de six enfants scolarisés à Notre-Dame de Bétharram ([[Congregation Notre-Dame de Betharram]]), épouse ayant enseigné le catéchisme dans l'établissement. L'école est au cœur d'un scandale de 112 plaintes pour violences physiques et pédocriminalité couvrant 1950-2010 (rapport Sauvé total sur l'[[Eglise catholique]] : 330 000 victimes en France).
 
 Timeline des alertes ignorées par Bayrou :
 - **1996** : un père d'élève distribue des tracts après qu'un surveillant a laissé des séquelles auditives à son fils de 14 ans. Bayrou est alerté à trois reprises par des parents d'élèves et une enseignante (Françoise Gulung). Réponse : il minimise. Il se rend ensuite à Bétharram pour *soutenir l'établissement* publiquement après les premières plaintes. Citation devant la presse : "Toutes les informations que le ministre pouvait demander, il les a demandées — les vérifications étaient favorables et positives."

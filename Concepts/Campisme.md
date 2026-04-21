@@ -29,3 +29,4 @@ Précision doctrinale formulée par la PaduTeam dans [[TRUMP VEUT ANNEXER LE GRO
 ## Vidéos où le concept est développé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — formulation la plus nette du campisme étendu : « deux solutions », droit international vs retournement d'alliances, loi du plus fort comme phase du capitalisme
+- [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — [[Paul Elek]] revendique explicitement le campisme assumé sur la Palestine : refus de la neutralité fictive, droit à la résistance armée anticoloniale (protocole additionnel 1977), critique du faux débat « terrorisme vs légitime défense »

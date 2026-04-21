@@ -46,4 +46,5 @@ Non discutée explicitement, mais la PaduTeam la situe clairement dans la bourge
 
 ## Vidéos où Sandra Lucbert est analysée
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — mentionnée comme co-auteur de *Pulsion* ; la PaduTeam note qu'elle "a un peu moins d'aura à gauche que Lordon parce qu'elle est un peu moins connue", mais l'estime pleinement co-responsable du livre
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]

@@ -35,3 +35,4 @@ Sève dit : "Politzer aurait pu vivre jusqu'aux années 70-80 s'il n'avait pas �
 
 ## Vidéos où Politzer est analysé
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — la formule de *Critique des fondements de la psychologie* (1928) citée en direct comme réfutation anticipée de Lordon : "la psychologie ne détient nullement le secret des faits humains, simplement parce que ce secret n'est pas d'ordre psychologique — il a terminé le Game"

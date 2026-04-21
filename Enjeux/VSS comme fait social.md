@@ -2,9 +2,9 @@
 type: enjeu
 domaine: société
 thèmes: [féminisme, VSS]
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-21
 date created: Monday, April 13th 2026, 11:23:10 pm
-date modified: Sunday, April 20th 2026, 12:00:00 pm
+date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 
 #domaine/société #thème/féminisme #thème/VSS
@@ -138,6 +138,18 @@ Rassemblement devant le ministère de la Santé (29 mai 2024, cf. vidéo AUJOURD
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — affaire Nicolas W, MeToo Médecine, mécanismes d'impunité
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la confraternité comme bouclier
 
+## La prédation codifiée de rue et la sélection par la vulnérabilité
+
+Le "coaching en séduction" documente un segment du continuum VSS qui opère hors espace domestique : la prédation de rue systématisée. Le mécanisme central est la **sélection de la vulnérabilité** : parmi 1 000 femmes abordées, les 10 avec lesquelles "ça marche" ne sont pas les plus attirées mais les moins capables de dire non — fragilisées, trop polies, intimidées. Le "taux de réussite" est en réalité un taux d'exploitation de la vulnérabilité.
+
+Ce protocole industriel — vocabulaire commercial ("infield", sessions chronométrées, taux de conversion), escalade codifiée (opener → Kino compliance test → pied dans la porte), communauté construite autour du contournement du refus — n'est pas de la séduction ratée mais un système qui produit mécaniquement l'agression. La logique terminale est explicite dans les commentaires les plus likés : nostalgie du viol sans consentement ("à la Préhistoire il suffisait de se mettre derrière madame").
+
+## La complicité masculine active dans le showbiz comme Boys Club structurel
+
+L'affaire Moix/Depardieu en Corée du Nord illustre que le Boys Club n'est pas une tolérance passive — c'est une participation active. Moix n'est pas un spectateur gêné : il accompagne, renchérit, prend lui-même l'initiative de propos sexualisés sur les femmes coréennes. "À aucun moment Yann Moix ne donne de consignes de tournage" mais il est "l'auteur des propos sexistes et dégradants" dans plusieurs séquences.
+
+Le mécanisme structurel : des hommes "font ça devant des caméras" parce que tout leur signale que "tout est OK". Cette aisance est la mesure de l'impunité institutionnalisée. Ce n'est pas de la déviance — c'est le fonctionnement normal d'un entre-soi qui cimente le lien masculin autour de la violence contre les femmes. "On a des sociétés qui s'organisent pour que ces mecs-là soient en haut de la chaîne alimentaire."
+
 ## L'économie de la visibilité comme amplificateur de violence
 
 L'affaire [[Alex Hitchens]] / [[Carla Vyx]] illustre un mécanisme propre à l'internet masculiniste : la violence est transformée en contenu consommable. L'émission d'Alex Hitchens utilise le récit de Carla Vyx — qui décrit des expériences que la PaduTeam identifie comme des viols — pour "démontrer" la "dévaluation" d'une femme avec un bodycount élevé. La violence de son parcours (précariat, emprise, famille endettée qui l'emmène dans un club de strip) est recyclée en entertainment et en argument masculiniste.
@@ -173,6 +185,7 @@ Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collect
 
 ## Vidéos associées
 
+- [[LE COACH SEDUCTION FLIPPANT]] — prédation de rue codifiée ; sélection de la vulnérabilité comme moteur du taux de réussite ; déshumanisation par protocole commercial ; communauté construite autour du contournement du refus
 - [[VIOL, SOUMISSION CHIMIQUE — Dr Zoé raconte son histoire]] — témoignage personnel de Zoé ; soumission chimique dans tous ses contextes (conjugal, professionnel, festif, familial) ; le silence malgré un entourage aidant comme preuve de la culture du viol structurelle ; lancement de la chaîne YouTube de Zoé
 - [[MILA REFUSE LES AVANCES DE KROC BLANC IL PORTE PLAINTE]] — harcèlement par messages privés comme mécanique patriarcale documentée ; idéologie de domination masculine comme condition structurelle des comportements de violence sexuelle ; asymétrie de pouvoir homme/femme même dans la droitsphère ; témoignages de femmes de droite donnant plus de crédit aux accusations
 - [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — négationnisme du viol dans des formations masculinistes ("impossibilité de violer sans violence physique") ; mécanisme judiciaire où le plaignant expose ses propres contenus infractions ; la procédure bâillonnante comme risque pour qui nie la réalité des VSS
@@ -181,7 +194,7 @@ Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collect
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW BUSINESS]]
-- [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]]
+- [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]] — complicité masculine active (Boys Club) ; asymétrie linguistique comme espace de prédation ; impunité par position dans les réseaux ; défense "fiction/personnage" comme bouclier systémique récurrent
 - [[CAUET ENCORE UNE VICTIME DE LA CANCEL CULTURE]]
 - [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]]
 - [[LAMENACEOFFICIAL CONDAMNE POUR VIOLENCES CONJUGALES]]

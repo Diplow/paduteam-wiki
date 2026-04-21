@@ -45,3 +45,4 @@ Défend la ligne de rupture comme seule voie crédible pour la gauche. Soutien c
 - [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme invité notable de La Brèche 2024
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — invité principal, analyse de la stratégie de la gauche entre les deux tours des législatives 2024
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Son parcours PCF → NPA → LFI cité comme modèle exemplaire du dilemme militant : articuler radicalité théorique et poids dans le rapport concret
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — cité comme ayant soutenu le projet "France révolutionnaire" de PDH depuis une perspective marxiste ; critiqué pour y perdre le fil en citant Marx de 1848 dans un contexte où la nation a une tout autre signification qu'alors

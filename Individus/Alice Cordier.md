@@ -33,7 +33,9 @@ Extrême droite identitaire, hors du salariat généralisé. Némésis est son e
 
 Papacito a révélé dans son podcast Burger Ring qu'Alice Cordier ("AC") fréquentait des militants d'extrême droite. Il décrit notamment ses relations sexuelles avec plusieurs hommes de la droitsphère, dont Baptiste Marché, à travers des anecdotes de la vie nocturne parisienne d'extrême droite. La PaduTeam y voit la confirmation que Némésis ne représente pas les "valeurs" qu'elle prétend défendre, et que le milieu réactionnaire est structuré par une hypocrisie totale sur les "mœurs décadentes".
 
-La PaduTeam commente avec distance : "je me bats les couilles de qui Alice Cordier baise et avec qui — c'est pas le sujet." Le sujet est son projet politique.
+La PaduTeam commente avec distance : "je me bats les couilles de qui Alice Cordier baise et avec qui — c'est pas le sujet." Le sujet est son projet politique. Sur le plan analytique, le mécanisme utilisé par Papacito est un [[Bodycount comme arme politique]] — une logique propre à la droite conservatrice que la PaduTeam refuse de reproduire.
+
+Alice Cordier, formée en communication via le réseau Atlas, n'a probablement pas répondu à l'attaque — c'est sa méthode : ne jamais répondre à une attaque directe, attendre pour contre-attaquer sur un point précis plus tard.
 
 ## Relations
 - Fondatrice du [[Collectif Nemesis]]

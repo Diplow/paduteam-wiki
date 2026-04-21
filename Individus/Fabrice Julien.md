@@ -23,6 +23,8 @@ La PaduTeam note que ce qui est enseigné n'est pas de la séduction — c'est u
 
 La spécificité de Fabrice Julien dans l'écosystème mascu-coaching : il est moins idéologue que les autres (pas de grandes théories sur les alphas, le complotisme ou le féminisme) — il est plus directement opérationnel dans la codification de la prédation physique.
 
+Le commentaire le plus liké sur sa chaîne exprime explicitement la nostalgie du viol ("j'aimerais revenir à la Préhistoire [...] se mettre derrière madame pendant qu'elle faisait la cueillette des framboises"). Sa réponse : "Qui a parlé de fleurs ou de resto ?" — ni condamnation, ni humour distancié. Validation par l'esquive.
+
 ## Relations
 - [[Dr Zoe]] — analyste dans la vidéo Le Coach en Séduction
 - [[Killian Sensei]], [[Valek]], [[Alex Hitchens]] — pairs dans l'[[Industrie de la seduction]]

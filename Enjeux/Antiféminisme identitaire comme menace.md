@@ -2,9 +2,9 @@
 type: enjeu
 domaine: politique-intérieure
 thèmes: [féminisme, racisme-antiracisme, extrême-droite]
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-21
 date created: Monday, April 13th 2026, 2:43:00 pm
-date modified: Sunday, April 20th 2026, 12:00:00 pm
+date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 
 #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme #thème/extrême-droite
@@ -55,6 +55,12 @@ Némésis applique une méthode précise documentée dans plusieurs vidéos :
 5. Recycler en "violence faite aux femmes" ce qui est en réalité de la conflictualité politique
 
 Cette méthode est documentée par des conversations internes révélées par L'Humanité : Némésis coordonne des guet-apens avec des groupuscules néofascistes lyonnais (Audace Lyon) pour "choper les gauches".
+
+## La droite tue la famille — contre-thèse matérialiste sur la natalité
+
+L'antiféminisme identitaire accuse le féminisme de détruire la famille et d'empêcher les femmes de faire des enfants. La PaduTeam retourne l'argument avec des données : la Corée du Sud (taux de fécondité 0,77), le Japon, la Hongrie, la Pologne — les pays les plus "antiwok" — ont des taux de natalité nettement inférieurs à la France. "C'est la droite qui tue la famille, pas le wokisme."
+
+Les déterminants réels sont matériels : intérim, précarité, spéculation immobilière, impossibilité d'avoir un CDI avant 30 ans, manque de crèches. Les figures de droite qui "font des enfants" sont des grands bourgeois qui peuvent "s'arrêter un an sans bosser." Thaïs d'Escufon, Papacito, Némésis ne parlent jamais des conditions de travail ni du logement — leur natalisme racial est une escroquerie intellectuelle qui masque les vraies causes matérielles de la baisse de la natalité.
 
 ## Arguments récurrents
 

@@ -29,9 +29,16 @@ Dans son analyse de la vidéo Papacito/Rougeyron, Raz formule une thèse que la 
 - [[Papacito]] — analysé dans la vidéo commentée par la PaduTeam
 - [[Sandra Lucbert]] — invitée chez Dany et Raz dans [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]
 
+## Débat affects/conscience de classe
+
+Dans [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]], Raz est l'un des défenseurs du concept d'affects (au sens lordonien) face à la critique de Padu et Chris. Il donne l'exemple de la transphobie : la réaction de dégoût précède la politisation. Il défend également la nuance de Wisam (PDH) sur le drapeau français — qui n'aurait pas dit que le drapeau mobilise par magie, mais que c'est un objet de lutte dont on peut s'emparer.
+
+Le débat aboutit à une convergence partielle : Raz concède que les affects ne se suffisent pas, et admet que leur désaccord avec Padu/Chris est en partie nominal. Il ne défend pas une ligne rufiniste.
+
 ## Vidéos où Raz est mentionné
 - [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]] — react de la PaduTeam sur un extrait de sa vidéo Papacito/Rougeyron
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — émission Dany et Raz où Sandra Lucbert est invitée
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — débat affects/conscience de classe/drapeau français
 
 ## Footnotes
 

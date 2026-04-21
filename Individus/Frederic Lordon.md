@@ -44,9 +44,19 @@ Malgré leur désaccord théorique, la PaduTeam salue le courage de Lordon dans 
 - [[Sandra Lucbert]] — co-auteur de "Pulsion"
 - [[Louis Althusser]] — filiation spinoziste
 
+## Lordon comme "Hegel des années 1840"
+
+Dans la vidéo de réaction à son interview sur [[Le Media]] (voir [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]]), la PaduTeam développe une analogie historique : Lordon est au marxisme actuel ce que Hegel était aux jeunes hégéliens des années 1830-1840. Il propose le maximum de progressisme possible *à partir d'une épistémologie bourgeoise* — ce qui le condamne à des limites structurelles qu'il ne peut pas franchir, quelle que soit sa bonne volonté. Sa trajectoire le confirme : Spinoza → Freud, c'est le même chemin qu'Althusser → psychanalyse.
+
+La PaduTeam lui reproche également de critiquer un marxisme fantôme — des "cadres du PCF des années 50" — sans se confronter à la tradition réelle : Sève, Politzer, Wallon, Vygotski, Léontiev. "Quand il dit qu'il y a des marxistes qui disent que la seule science c'est le marxisme [...] ce n'est pas vraiment le cas" — et il ne cite personne par nom.
+
+Sa camaraderie est néanmoins reconnue : "l'épistémologie marxiste montre que les épistémologies dépendent de leur contexte sociohistorique" — Lordon fait son possible. Et la question qu'il pose (la génétique du sujet individuel à gauche) est "excellente", même si la réponse psychanalytique est jugée insuffisante.
+
 ## Vidéos où Lordon est analysé
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Validation de la prophétie, discussion de son spinozisme
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Critique de "Pulsion" et de l'usage politique de la psychanalyse
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — Réaction à son interview sur Le Média ; critique épistémologique approfondie avec Chris ; analogie Hegel/jeunes hégéliens
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — Lordon = "tragédie altussérienne" dont Lucbert est la "farce"
-- [[CAGE et PIKETTY PREFERENT RUFFIN a MELENCHON|CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!]] — Critique de Piketty reprise par Chris
+- [[CAGE et PIKETTY PREFERENT RUFFIN a MELENCHON|CAGÉ et PIKETTY PRÉFÈRENT RUFFIN À MÉLENCHON !!]] — Critique de Piketty reprise par Chris
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur la psychologie marxiste, son livre "Pulsion" critiqué pour sa bibliographie trop centrée sur la psychanalyse/Spinoza
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — sa théorie des affects (remobilisation de Spinoza) est la cible principale du débat ; critique : "le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza"

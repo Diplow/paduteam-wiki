@@ -52,6 +52,7 @@ La Sécu pose un problème fondamental au capitalisme : elle est un espace de mu
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage complet du discours BFM-Macron sur le déficit
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — Maud Brégon et les ALD
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PLFSS Barnier en action : les amendements NFP (20 milliards sur le capital) écartés par 49.3, remplacés par un transfert vers les complémentaires privées présenté comme économie — alors qu'il coûte plus cher (21-22% vs 3-4% de frais de gestion)
+- [[ON RECADRE PSYKOCOUAC LE PSYCHOLOGUE LIBERTARIEN ANTI-SECU]] — rappel de l'histoire de la Sécu (caisses gérées par les cotisants, dépossession progressive) et comparaison chiffrée des frais de gestion : 3 % Sécu / 21-22 % assurances privées / 8 % mutuelles
 
 [^1]: [5:13](https://www.youtube.com/watch?v=jtDb2meKMn8&t=313) — "la sécurité sociale n'est pas une entreprise... ce qu'ils appellent un déficit en fait c'est qu'ils choisissent de ne pas faire payer assez de cotisation sociale pour financer ce qu'on a besoin de financer"
 [^2]: [6:16](https://www.youtube.com/watch?v=jtDb2meKMn8&t=376) — "il y a des dizaines et des dizaines et des dizaines de milliards d'euros d'exonération de cotisation patronale qui bénéficie à des grandes entreprises qui suffirait largement à combler quatre à cinq fois le déficit"

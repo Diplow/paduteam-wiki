@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme]
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-21
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -54,6 +54,28 @@ Cette critique n'invalide pas le soutien — elle le conditionne à une réforme
 
 [[PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STALINE !!]] illustre la posture du PCF face à son histoire : incapable d'assumer ou de dépasser, il se couche. La PaduTeam propose une alternative — le **discours de dépassement** : critiquer et assumer dans le même mouvement, situer Staline dans son processus historique (a-t-il porté un processus de libération ou de hiérarchisation raciale ?), retourner l'attaque vers le bilan impérialiste de Churchill. "À partir du moment où tu te couches sur ces trucs-là, tu es foutu."
 
+### 6. La fracture décolonial/marxiste-léniniste : le cas Bouteldja
+
+Le débat autour de [[Houria Bouteldja]] et [[Parole d Honneur]] inaugure un front supplémentaire dans la guerre des gauches : non plus entre gauche de classe et gauche molle, mais entre deux traditions radicales — le décolonialisme et le marxisme-léniniste.
+
+[[Parole d Honneur]] (PDH), autour de Bouteldja et [[Stathis Kouvelakis]], a pris position pour réhabiliter le signifiant "France" comme projet antiraciste révolutionnaire : les "bourgs et les tours" s'unirent autour d'une France de Robespierre et Louise Michel, multiculturelle et anticoloniale.
+
+La critique PaduTeam/Kazib est en deux temps :
+
+**a) Confondre la conséquence et la cause.** Le drapeau français n'est pas un point de départ — c'est un objet de lutte. Ce sont les projets collectifs antagonistes qui font agiter des drapeaux, pas l'inverse. Mobiliser le symbole national sans mobiliser la conscience de classe mène au mieux à répéter ce que Mélenchon fait depuis 20 ans.
+
+**b) Un signifiant national ne peut pas être anti-impérialiste.** Kazib le formule explicitement : le drapeau français "c'est le drapeau de l'opération Barkhane, c'est le drapeau qui va au Sahel protéger les sites de nickel." Pour un militant anti-impérialiste, défendre ce symbole revient à "infiné défendre son propre impérialisme." PDH avait même affirmé que la défense de la classe (et non de la race) était "une position de la gauche blanche" — ce que Kazib identifie comme une marque de populisme qui, dans les crises, converge structurellement vers le réformisme.
+
+Cette fracture n'est pas un "clash" performatif — c'est une divergence théorique ancienne : peut-on unir les "bourgs et les tours" autour d'un signifiant national, ou faut-il construire l'unité sur la conscience de classe en traversant les appartenances raciales et nationales ?
+
+### 7. Affects spinozistes vs conscience de classe : le vrai enjeu stratégique
+
+Le débat sur Bouteldja est aussi l'occasion de reformuler la critique de l'usage des "affects" (au sens lordonien/spinoziste) comme catégorie politique.
+
+La PaduTeam défend que la **catégorie clé du marxisme est le possible, pas le réel** : "vers où est-ce qu'on peut conscientiser les gens ?" Rester dans les affects des gens tels qu'ils sont (islamophobes, homophobes, racistes) c'est rester dans le réel — c'est la différence entre Mélenchon (qui construit un projet pour tirer le réel vers le possible) et Ruffin (qui part des affects et reste dans le réel).
+
+La conscience collective de classe dépasse l'alternative affect/raison que Spinoza et Lordon maintiennent. "Le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza." Cette critique ne conteste pas la bonne volonté de l'approche — elle en signale l'insuffisance stratégique : une politique qui part des affects sans les dépasser ne peut pas produire la rupture hégémonique.
+
 ## Adversaires identifiés
 
 - **[[Olivier Faure]]** et le PS — trahison structurelle inévitable, espace de classe incompatible avec la rupture
@@ -63,6 +85,7 @@ Cette critique n'invalide pas le soutien — elle le conditionne à une réforme
 - **[[Eric Naulleau]], [[Manuel Valls]], [[Julien Dray]]** — fonctions de "quota gauche" dans les médias réactionnaires
 
 ## Vidéos clés
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — fracture décolonial/marxiste-léniniste : le projet "France révolutionnaire" de PDH comme capitulation idéologique selon Kazib ; confondre conséquence et cause (le drapeau comme objet de lutte, pas point de départ) ; anti-impérialisme impossible sous signifiant national ; affects spinozistes vs conscience de classe ; "la catégorie clé du marxisme c'est le possible, pas le réel"
 - [[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] — démonstration graphique de la trahison structurelle, stratégie des deux équipes, luttes en classe vs luttes de classe
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT À LFI et PAS au PCF ?]] — analyse du dilemme militant PCF/LFI, critique structurelle de LFI, problème de la refondation post-Mélenchon
 - [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] — confusionnisme intellectuel bourgeois comme arme anti-gauche de rupture

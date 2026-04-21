@@ -157,20 +157,22 @@ Slug branche : ingest-batch/paduteam-2025-w05-w06
 ---
 ## Batch 09 — Semaines 2025-W07 à 2025-W08 (10 fév 2025 – 23 fév 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait
 Slug branche : ingest-batch/paduteam-2025-w07-w08
 
-- [ ] M€URTRE de LOUISE : L'EXTRÊME-DROITE HARC€LE sa SOEUR et son PÈRE !! (avec @Dr_Zoé_YT)
-- [ ] AFFAIRE BÉTHARRAM : BAYROU PROTÈGE LES P€D0PHILES ? (avec @Dr_Zoé_YT )
-- [ ] Le COACH en SÉDUCTION le + FLIPPANT !! (avec @Dr_Zoé_YT)
-- [ ] MOS MAJORUM : "ce sont LES SALARIÉS qui EXPLOITENT LES PATRONS" !! (avec Chris de Positions Revue)
-- [ ] GAZA : L'ILLUSION DU CESSEZ-LE-FEU !! (avec Paul Elek)
-- [ ] YANN MOIX : PLUS GROS P0RC QUE DEPARDIEU ? (avec @Dr_Zoé_YT)
-- [ ] On RECADRE PSYKOCOUAC le PSYCHOLOGUE LIBERTARIEN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
-- [ ] PAPACITO BALANCE L'ÉNORME B0DYCOUNT D'ALICE CORDIER (collectif NÉMÉSIS) !! (avec @Dr_Zoé_YT)
-- [ ] FRÉDÉRIC LORDON NOUS CLASHE : "ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE" !! (X Chris)
-- [ ] DR ZOÉ EN SUEUR face à cette MÉDECIN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
-- [ ] "BOUTELDJA A CAPITULÉ" : Débat TENDU avec Anasse Kazib, Raz, Cassandre et Chris de Positions Revue !
+- [x] M€URTRE de LOUISE : L'EXTRÊME-DROITE HARC€LE sa SOEUR et son PÈRE !! (avec @Dr_Zoé_YT)
+- [x] AFFAIRE BÉTHARRAM : BAYROU PROTÈGE LES P€D0PHILES ? (avec @Dr_Zoé_YT )
+- [x] Le COACH en SÉDUCTION le + FLIPPANT !! (avec @Dr_Zoé_YT)
+- [x] MOS MAJORUM : "ce sont LES SALARIÉS qui EXPLOITENT LES PATRONS" !! (avec Chris de Positions Revue)
+- [x] GAZA : L'ILLUSION DU CESSEZ-LE-FEU !! (avec Paul Elek)
+- [x] YANN MOIX : PLUS GROS P0RC QUE DEPARDIEU ? (avec @Dr_Zoé_YT)
+- [x] On RECADRE PSYKOCOUAC le PSYCHOLOGUE LIBERTARIEN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
+- [x] PAPACITO BALANCE L'ÉNORME B0DYCOUNT D'ALICE CORDIER (collectif NÉMÉSIS) !! (avec @Dr_Zoé_YT)
+- [x] FRÉDÉRIC LORDON NOUS CLASHE : "ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE" !! (X Chris)
+- [x] DR ZOÉ EN SUEUR face à cette MÉDECIN ANTI-SÉCU !! (avec @Dr_Zoé_YT)
+- [x] "BOUTELDJA A CAPITULÉ" : Débat TENDU avec Anasse Kazib, Raz, Cassandre et Chris de Positions Revue !
+
+Fiches créées : 11 vidéos, 8 individus (Psykocouac, Alexia Michelin, Marina Simonin, Cassandre, Sophie Marceau, Jeremy Assous, Thomas Sowell, Fabrice Julien enrichi), 3 organisations (Eglise catholique, Congregation Notre-Dame de Betharram, Parole d Honneur, Securite Sociale, Parti des Indigenes de la Republique), 10 concepts (Psychologie libertarienne, Inversion liberale de la lutte des classes, Valeur-travail marxiste, Lutte des classes, Structuralisme genetique, Deconventionnement, Complicite masculine, Bodycount comme arme politique, Escalade de la violence des predateurs publics, Affects vs conscience de classe)
 
 ---
 ## Batch 10 — Semaines 2025-W09 à 2025-W10 (24 fév 2025 – 9 mar 2025)
