@@ -41,3 +41,4 @@ Thèse centrale d'Althusser : à partir de 1845 (Idéologie Allemande, Thèses s
 ## Vidéos où Althusser est mentionné
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — utilisé comme précédent du dualisme épistémologique (marxisme pour les structures + psychanalyse pour l'individu) que Lordon/Lucbert reproduisent ; rappel qu'il n'avait pas lu les *Grundrisse*

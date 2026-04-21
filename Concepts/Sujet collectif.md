@@ -39,4 +39,5 @@ Les structures mentales de classe s'adoptent *immédiatement* par la participati
 ## Vidéos où le concept est mentionné
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Les professions intermédiaires placées chez Bardella par l'IFOP, identifiées comme réservoir de vote pour la gauche
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Définition philosophique complète, opposition psychanalyse vs marxisme
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — identifié comme la catégorie centrale que Lordon et Lucbert ne peuvent pas penser : "il n'arrive pas à penser cette traduction [...] c'est le sujet collectif" ; la psychanalyse reste enfermée dans l'intra-psychique individuel
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]] — Développement sur la multiplicité des sujets collectifs, le jeu de cartes, l'immanence des structures mentales

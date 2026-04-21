@@ -26,7 +26,7 @@ Trois conditions permettent à ce système de fonctionner :
 
 ## Exemples
 
-**L'Église catholique**
+**L'[[Eglise catholique]]**
 Rapport Sauvé (France) : 330 000 victimes depuis les années 1950. Méthode systématique : déplacement des prêtres vers l'Afrique, vers les communautés autochtones canadiennes, parfois simplement vers une autre paroisse française. Le père Caricar de Bétharram mis en examen pour viol est exfiltré au Vatican — et se suicide quand le juge le reconvoque. La confession comme mécanisme d'absolution de l'agresseur, pas de protection de la victime.
 
 **Notre-Dame de Bétharram**
@@ -38,6 +38,9 @@ Gymnantique, patinage artistique, tennis : corrélation documentée entre cultur
 **Le cinéma**
 Kechiche / *La Vie d'Adèle* (violence psychologique et physique sur le plateau, dénoncée par Adèle Exarchopoulos). Benoît Jacquot. Le réalisateur de *Police* (attouchements sur les équipes). "La nécessité de l'art" comme prétexte à des structures de domination inouïes où les subordonnés prennent "super cher".
 
+**Le showbiz français — [[Gerard Depardieu]] et [[Yann Moix]]**
+Depardieu agressait les femmes de rang subordonné lors des tournages (maquilleuses, habilleuses, figurantes — pas les actrices principales). [[Sophie Marceau]] témoigne en avoir été témoin lors du film *Police* de Pialat. [[Lio]] confirme l'existence de listes informelles circulant dans le milieu. Pourtant Depardieu reste une figure protégée pendant des décennies. La mécanique : son avocat [[Jérémy Assous]] invoque la "fiction" pour les images du voyage nord-coréen avec Moix ; Moix lui-même, documenté en train de participer aux comportements, publie après coup une déclaration condamnant les blagues sans jamais mentionner sa propre participation. La protection n'est pas seulement institutionnelle — elle est aussi portée par les pairs (voir [[Complicite masculine]]).
+
 ## Ce que ça implique
 
 — La pédocriminalité ne se réduit pas à quelques individus "déviants" : elle est *structurelle*, produite par des institutions qui valorisent la domination et protègent les agresseurs
@@ -48,3 +51,4 @@ Kechiche / *La Vie d'Adèle* (violence psychologique et physique sur le plateau,
 
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — analyse principale : Bétharram, rapport Sauvé, Bayrou, sport/cinéma
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — contexte ASE, familles d'accueil, vulnérabilité des enfants placés
+- [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]] — showbiz français : complicité masculine documentée, défense "fiction", maintien dans les réseaux malgré 30 ans de casier documenté

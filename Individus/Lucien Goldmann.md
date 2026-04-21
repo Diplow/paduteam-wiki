@@ -23,9 +23,16 @@ Philosophe et sociologue marxiste roumano-français (1913-1970). Théoricien du 
 ## Rapport à Sève
 [[Lucien Seve|Sève]] reconnaît le mérite de Goldman sur le structuralisme génétique — l'idée d'historiciser les structures plutôt que d'en faire des invariants. En revanche, il ne le suit pas toujours, notamment sur certains aspects du rapport entre structure et individu.
 
+## Rapport à Jean Piaget
+
+Goldmann a travaillé avec [[Jean Piaget]] à Genève — il était son secrétaire. Ce lien est significatif : Piaget, sans être marxiste, valide avec ses expériences sur le développement de l'enfant des conclusions proches du structuralisme génétique (les structures psychologiques ne sont pas données mais se construisent dans une genèse). Vygotski, en relisant Piaget, pousse encore plus loin dans le sens marxiste : l'enfant part d'une indistinction avec le social, pas d'un égocentrisme primitif. Goldmann fait le pont théorique entre ces travaux empiriques et l'épistémologie marxiste.
+
+Son livre *Sciences humaines et philosophie* (sous-titré "Pour un structuralisme génétique") est présenté dans ce transcript comme le livre "le plus important de l'épistémologie marxiste" — "autrement plus progressiste et autrement plus matérialiste" que les ouvrages d'épistémologie des années 2000. Bourdieu, que Lordon cite volontiers, est un lecteur de Goldmann mais n'atteint pas "sa hauteur" — il emprunte ses catégories sans la rigueur dialectique.
+
 ## Vidéos où Goldmann est cité
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Cité par Chris comme alternative dialectique à Clouscar
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Cité pour "les structures ne descendent pas dans la rue"
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — *Sciences humaines et philosophie* présenté comme le livre d'épistémologie marxiste de référence ; sa relation avec Piaget rappelée (secrétaire à Genève) ; Bourdieu critiqué pour avoir emprunté ses catégories sans le suivre vraiment
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — mentionné dans le débat sur le structuralisme génétique
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Long extrait de Goldmann expliquant Marx contre Proudhon sur la conscience de la petite bourgeoisie ; *Le Dieu caché* cité pour la noblesse comme continuum
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]] — Cité pour "ce n'est pas une structure significative" (un concept sans épithète ne signifie rien) ; mentionné dans le contexte CIA/marxisme occidental

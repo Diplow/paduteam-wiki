@@ -7,7 +7,7 @@ thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme, campisme-assumé]
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
-skill_version: ingest-batch-2026-04-13
+skill_version: write-video-2026-04-21
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #enjeu/Palestine-libre #enjeu/anti-impérialisme #enjeu/campisme-assumé
 # GAZA — L'ILLUSION DU CESSEZ-LE-FEU (avec Paul Elek)
@@ -25,7 +25,7 @@ skill_version: ingest-batch-2026-04-13
 
 3. **Trump comme porte-voix des rêves expansionnistes de l'extrême-droite israélienne.** La proposition trumpienne de « Côte d'Azur » touristique à Gaza est un nettoyage ethnique déclaré sous couverture immobilière. Elle intervient pendant une visite de Netanyahu aux USA : convergence Trump-Netanyahu contre tout accord permanent.
 
-4. **Gaza n'a jamais été « désoccupée » malgré le retrait de 2005.** [[Ariel Sharon]] architecte du retrait, qui a permis à Israël de ne plus être juridiquement reconnu comme puissance occupante tout en conservant le contrôle des frontières, de l'espace aérien, maritime, des registres, de l'eau, de l'électricité. En 2006, le Hamas remporte les élections ; le blocus total s'impose dans la foulée. 278 violations du cessez-le-feu documentées par le Hamas dans les jours suivants l'entrée en vigueur de janvier 2026.
+4. **Gaza n'a jamais été « désoccupée » malgré le retrait de 2005.** [[Ariel Sharon]] architecte du retrait, qui a permis à Israël de ne plus être juridiquement reconnu comme puissance occupante tout en conservant le contrôle des frontières, de l'espace aérien, maritime, des registres, de l'eau, de l'électricité. En 2006, le Hamas remporte les élections ; le blocus total s'impose dans la foulée. 269 violations du cessez-le-feu documentées par le Hamas dans les jours suivants l'entrée en vigueur de janvier 2026.[^violations]
 
 5. **Opération « Muraille de Fer » en Cisjordanie.** Nom emprunté explicitement à l'ouvrage fasciste de [[Vladimir Jabotinski]] (1923). Filiation idéologique assumée Jabotinski → Likoud → Ben-Gvir → Netanyahu. 40 000 déplacés depuis janvier 2026, 850+ morts, 20 000 blessés depuis le 7 octobre, légalisation record de colonies et saisies de terres. **Pendant que le cessez-le-feu de Gaza est célébré, la Cisjordanie subit une intensification coloniale** — le front s'est déplacé géographiquement.
 
@@ -65,3 +65,5 @@ skill_version: ingest-batch-2026-04-13
 
 ## Transcript
 [[GAZA  L'ILLUSION DU CESSEZ-LE-FEU !! (avec Paul Elek)]]
+
+[^violations]: [24:18](https://www.youtube.com/watch?v=YpOkaTJB_vk&t=1458) — « nous on liste 269 violations du cessez-le-feu de la part de l'occupation israélienne »

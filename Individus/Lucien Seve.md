@@ -69,4 +69,5 @@ Pour Sève, le militantisme est la seule forme d'activité qui permet à l'indiv
 ## Vidéos où Sève est analysé
 - [[Videos/MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — cité pour le "fétichisme de la personnalité"
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — référence implicite via la critique de Lordon/Lucbert
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — mobilisé explicitement contre Lordon : "il n'y a pas de psychologie marxiste" à extraire dogmatiquement du marxisme, mais la psychologie doit articuler son épistémologie sur le marxisme ; Politzer (1928) cité en direct : "la psychologie ne détient nullement le secret des faits humains, simplement parce que ce secret n'est pas d'ordre psychologique"
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — live entier consacré à Sève

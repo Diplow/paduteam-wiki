@@ -33,7 +33,9 @@ La défense de Moix via son avocat Jérémy Assous : "c'est une œuvre de fictio
 
 ## Dans l'analyse PaduTeam
 
-Moix illustre un mécanisme spécifique : l'homme de médias qui accompagne, documente, et finalement légitime la violence, tout en cultivant une image de témoin critique. Son maintien "sur tous les plateaux" alors que son rapport aux femmes est clairement fétichiste et que sa complaisance avec Depardieu est documentée démontre que les réseaux du showbiz protègent leurs membres.
+Moix illustre le mécanisme de la [[Complicite masculine]] dans le milieu culturel : l'homme de médias qui accompagne, documente, renchérit et finalement légitime la violence, tout en cultivant une image de témoin critique. À 26 minutes de rushes visionnés par Libération, Moix "s'oppose pas aux propos de Depardieu, il les accompagne voire les encourage quand il n'est pas lui-même l'auteur des propos sexistes et dégradants."
+
+Son maintien "sur tous les plateaux" depuis 30-40 ans alors que son casier est documenté (antisémitisme, homophobie, fétichisme, complicité) démontre la [[Protection institutionnelle des agresseurs]] dans le showbiz : les réseaux professionnels protègent leurs membres non par inadvertance mais parce que la solidarité de milieu prime sur la protection des victimes.
 
 La PaduTeam : "Comment ça se fait qu'il soit pas autant dans la sauce que Depardieu ? Je veux dire, le mec va le filmer, il est hyper problématique depuis 30 ans, et il arrive à faire croire que non mais c'est juste pour le côté artistique."
 

@@ -38,12 +38,17 @@ Dans une vidéo de décembre 2024, Padu convoque Psychodélique comme modèle-re
 
 La PaduTeam estime ses revenus à environ 10 000€ par mois, cités comme exemple d'une professionnalisation réussie dans la production de contenu — mais sans engagement militant à gauche.[^rev]
 
+## Affaire Louise (février 2025)
+
+Produit plusieurs vidéos sur l'assassinat de Louise (11 ans, retrouvée poignardée le 7 février 2025), en diffusant le nom d'un suspect avant toute mise en examen et en désignant la famille de la victime comme "gauchiste" — malgré la demande explicite des parents de ne pas faire de récupération politique. La PaduTeam qualifie cela de monétisation de la mort d'une enfant.
+
 ## Vidéos où Psychodélique est analysé
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]
 - [[PSYHODELIK AVOUE AVOIR AGRESSE PHYSIQUEMENT UNE FEMME]]
 - [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — cité comme modèle de format (génie de la communication) et comme repoussoir (format d'extrême droite reproduit à gauche)
 - [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]] — cité comme exemple de créateur à ~10 000€/mois, dans la discussion sur la professionnalisation militante
+- [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — monétisation de l'affaire Louise, diffusion du nom du suspect, désignation de la famille comme "gauchiste"
 
 [^rev]: [05:11](https://www.youtube.com/watch?v=qM_z7n7Dk5M&t=311) — "un type comme psychodélique ou comme croblanc il gagne 10 000 € par mois je pense"
 

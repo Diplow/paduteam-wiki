@@ -21,18 +21,28 @@ La PaduTeam : "c'est un romantique — il vend un passé qui était joyeux et be
 
 ## Rôle dans ce corpus : dénonciateur d'Alice Cordier
 
-Dans son podcast Burger Ring, Papacito révèle le "bodycount" d'Alice Cordier ("AC" — patronne de Némésis) : il décrit ses relations sexuelles avec plusieurs hommes de la droitsphère (dont Baptiste Marché). Il critique également les "mœurs décadentes" de la droitsphère parisienne — ces mêmes personnes qui le critiquaient pour avoir "poursuivi une femme avec son chien".
+Dans son podcast Burger Ring, Papacito utilise un [[Bodycount comme arme politique]] contre [[Alice Cordier]] ("AC" — patronne de Némésis) : il décrit ses relations sexuelles avec plusieurs hommes de la droitsphère (dont Baptiste Marché). Il critique également les "mœurs décadentes" de la droitsphère parisienne — ces mêmes personnes qui le critiquaient pour avoir "poursuivi une femme avec son chien".
 
 Positionnement PaduTeam : ses critiques de la droitsphère zemouriste sont partiellement fondées, mais Papacito lui-même reproduit la logique qu'il critique — il est un "petit bourgeois" qui vend du terroir dépolitisé sans jamais toucher aux vrais rapports de classe.
 
-## Contradiction body/discours
+## Contradiction corps/discours
 
 Papacito critique la "décadence des mœurs" de la droitsphère parisienne tout en :
-- Publiant une story Instagram où il "poursuit une amie alcoolisée avec son chien" (présenté comme blague de village)
-- Racontant des anecdotes de feriaé incluant du couronner un homme trisomique (présenté comme tradition festive inclusive)
-- Collectionnant lui-même un "bodycount" important (la PaduTeam invite ses spectateurs à deviner le chiffre en commentaires sans jugement : "je trouve que c'est pas le problème")
+- Publiant une story Instagram où il "poursuit une amie alcoolisée avec son chien" (présenté comme blague de village depuis 5 ans)
+- Racontant une feria où on a "couronné un homme trisomique" sur une chaise Kronenbourg avec une couronne en scotch et des verres de bière, en lui donnant un sceptre en saucisson basque
+- Collectionnant lui-même un "bodycount" important (la PaduTeam invite ses spectateurs à deviner le chiffre en commentaires sans jugement : "quel que soit le chiffre, je trouve que c'est pas le problème")
 
 La [[Collectif Nemesis|méthode Némésis]] a répondu à la story du chien : "un étranger qui harcèle dans la rue n'est pas le bienvenu" — même si Papacito est né en France de parents espagnols. La PaduTeam : "ça montre que leur cerveau est fondu par le racisme — le premier réflexe c'est toujours 'c'est les étrangers'."
+
+## Feria, validisme et inclusion réelle
+
+L'anecdote du couronnement du trisomique à la Feria de Vic-Fezensac (2000-2001) que Papacito raconte comme modèle d'inclusion communautaire donne lieu à une digression de Zoé sur le validisme. Elle observe que dans certaines communautés compactes (gens du voyage, villages soudés), le handicap intellectuel est effectivement moins classifié et moins stigmatisé que dans le monde "froid du citadin rationalisé" — où on envoie les personnes porteuses de handicap dans des IME ou des ESAT séparés du reste de la société.
+
+La PaduTeam pointe la contradiction française : l'ONU a retoqué la France pour son approche "ségrégative" du handicap (enfants handicapés envoyés tôt dans des institutions à part), ce qui rend les droitards choqués par la story du chien particulièrement mal placés — car ils soutiennent Zemmour, pour qui démanteler les services publics restants est le programme.
+
+## Transgression sans rapports de domination
+
+Papacito mobilise la notion de transgression (anti-conformisme, anti-puritanisme) pour défendre ses pratiques festives. La PaduTeam retourne l'argument : "quand tu as le discours de la liberté et de la transgression sans te poser la question des structures de domination, tu sers l'ordre établi." Exemple : les mandarins de médecine — "grands bourgeois depuis des générations" — qui se permettaient des violences sexuelles sous couvert de "tradition de la salle de garde." Les fresques pornographiques des salles de garde d'internat (recouvertes dans les mois précédant la vidéo) illustrent exactement cette logique : ce n'est pas de la transgression subversive, c'est des dominants qui appliquent leur pouvoir sur des personnes moins en position de se défendre.
 
 ## Relations
 - [[Kroc Blanc]] — a dénoncé pour pédophilie ; Kroc Blanc lui reproche à son tour des choses

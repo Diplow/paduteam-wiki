@@ -40,7 +40,9 @@ La PaduTeam assume de faire de la politique à partir des faits divers — mais 
 - Femme tuée par son conjoint = fait systémique (violence masculine, patriarcat)
 - Louise : pas assez d'informations au moment de la vidéo pour conclure quoi que ce soit
 
-"Pas de faits divers, que des faits politiques" — mais les faits politiques doivent partir des mécanismes réels, pas du profil ethnic du suspect.
+"Pas de faits divers, que des faits politiques" — mais les faits politiques doivent partir des mécanismes réels, pas du profil ethnique du suspect.
+
+La question posée par les rares cas de meurtres publics par des inconnus récidivistes est une question de politique pénale (voir [[Escalade de la violence des predateurs publics]]), pas d'immigration.
 
 ## Cas limite : l'attentat de Magdebourg (décembre 2024)
 

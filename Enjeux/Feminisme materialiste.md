@@ -3,9 +3,9 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-21
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Sunday, April 20th 2026, 12:00:00 pm
+date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/théorie #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS
 
@@ -128,6 +128,14 @@ Conséquence directe : supprimer les filets de sécurité (RSA, allocations chô
 
 La banalité est le vrai scandale — ce que la PaduTeam nomme la [[Banalite du viol]] : pas des monstres, des gens ordinaires à qui le système donne "la carte."
 
+## L'industrie du coaching en séduction comme protocole de prédation codifiée
+
+La PaduTeam démontre que le "coaching en séduction" de rue n'est pas de la maladresse ni du romantisme maladroit : c'est un protocole industriel de prédation qui sélectionne les femmes par vulnérabilité. Quand un homme aborde 1 000 femmes dans la rue, les 10 avec lesquelles "ça marche" ne sont pas les plus séduites — ce sont celles qui ont du mal à dire non, qui cèdent par empathie ou fragilité. Ce que le coach appelle "taux de réussite" est en réalité un taux d'exploitation de la vulnérabilité.
+
+Le vocabulaire révèle la logique : "infield" (terrain), sessions chronométrées, taux de conversion commercial. Le contenu de ces chaînes produit mécaniquement une communauté dont l'expression logique est la nostalgie du viol ("à la Préhistoire, il suffisait de se mettre derrière madame pendant la cueillette"). La gauche doit impérativement s'emparer de la question de la masculinité : "on peut pas laisser les hommes dans ça."
+
+La complicité masculine active dans le showbiz est une forme structurelle analogue : Yann Moix avec Depardieu ne se contente pas de ne pas intervenir — il accompagne, renchérit, prend lui-même l'initiative de propos sexualisés. Le Boys Club est ainsi documenté non comme tolérance passive mais comme participation active qui cimente l'entre-soi. Des hommes "font ça devant des caméras" parce que tout leur signale que "tout est OK" — c'est la mesure de leur impunité institutionnalisée.
+
 ## L'antiféminisme comme porte d'entrée de l'extrême droite
 
 Pour la PaduTeam, l'antiféminisme en ligne n'est pas un épiphénomène : c'est **le principal vecteur de recrutement de l'extrême droite sur Internet**. La PaduTeam : "l'antiféminisme c'est le mode de recrutement principal de l'extrême droite sur Internet actuellement — un des modes de recrutement principaux. Et donc il faut s'en occuper en tant que militant politique et féministe."
@@ -234,4 +242,7 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — masculinités vertueuses ; responsabilité collective (analogie Arendt) ; "et maintenant ?" comme passage de la dénonciation à la transformation structurelle
 - [[J'AI TROUVE LE PIRE PATRON DU MONDE]] — précarité comme technique de prédation sexuelle ; entretien d'embauche comme dépossession de soi ; suppression des aides sociales comme infrastructure de la prédation ; "ce n'est pas le pire patron, c'est un patron ordinaire"
 - [[COUILLES BLEUES MYTHES REALITE]] — mythe des couilles bleues comme chantage affectif et coercition sexuelle ; exemples cliniques de contrainte post-chirurgie ; citation de Thaïs d'Escufon sur le viol conjugal comme version théorisée de la même culture du viol
+- [[LE COACH SEDUCTION FLIPPANT]] — coaching en séduction comme protocole industriel de prédation ; sélection de la vulnérabilité comme moteur du "taux de réussite" ; déshumanisation de l'autre par la logique commerciale ; responsabilité de la gauche d'occuper le terrain de la masculinité
+- [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]] — complicité masculine active dans le showbiz (Boys Club) ; asymétrie linguistique comme espace de prédation ; défense "fiction/personnage" comme bouclier systémique ; impunité par position dans le champ médiatique
+- [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]] — slut-shaming désamorcé comme arme politique : "je me bats les couilles de qui Alice Cordier baise — c'est son projet politique fasciste qui compte" ; thèse "la droite tue la famille" (conditions matérielles vs féminisme comme bouc émissaire)
 

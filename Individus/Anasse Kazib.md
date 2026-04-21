@@ -34,5 +34,18 @@ La vidéo [[ANASSE KAZIB ATOMISE MADURO]] est entièrement consacrée à décons
 
 Le trotskisme est qualifié d'"antimarxisme" occidental : "ils n'ont jamais dirigé aucune révolution, ils n'ont jamais participé à aucune transformation" — un mouvement "occidental littéraire" qui fait la leçon à toutes les expériences de socialisme réel.
 
+## Débat Bouteldja : capitalisation idéologique et stratégie de classe
+
+Dans [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]], Kazib s'invite spontanément dans un live de Padu pour apporter la perspective de [[Revolution Permanente]] sur le tournant de [[Houria Bouteldja]] vers la "France révolutionnaire".
+
+Ses arguments principaux :
+
+- PDH n'a "pas de stratégie de classe" : leur orientation est populiste, non prolétarienne. Ils avaient même dit que "la défense de la classe et non de la race, c'est une position de la gauche blanche."
+- Le drapeau français est "le drapeau de l'opération Barkhane, le drapeau du génocide en Palestine, de l'oppression à Mayotte, à la Martinique" — défendre ce symbole en tant qu'antiraciste décolonial revient à "défendre son propre impérialisme."
+- La stratégie de réappropriation du signifiant national est "une capitulation idéologique" — une concession à la logique nationaliste dans un contexte où il faudrait batailler pour la conscience de classe.
+
+Kazib articule aussi sa divergence avec la ligne Mélenchon : il est contre l'union de gauche comme stratégie permanente, car elle dilue la radicalité. Il critique notamment la décision de LFI de ressusciter le PS via le NFP. Sa stratégie préférée : construire un pôle révolutionnaire autonome, critiquer la bureaucratie syndicale, et prioritairement sortir les 57% de prolétaires qui votent RN — pas chercher des abstentionnistes.
+
 ## Vidéos
 - [[ANASSE KAZIB ATOMISE MADURO]] — Sa position "dictateur 100% anti-ouvrier" déconstruite comme occidentalocentrisme trotskiste
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Débat sur le tournant nationaliste de PDH et la stratégie de classe

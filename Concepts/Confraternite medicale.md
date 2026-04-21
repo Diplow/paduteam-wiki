@@ -50,6 +50,7 @@ La confraternité limite structurellement la capacité des médecins de gauche o
 - [[AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR]] — cas Nicolas W, confraternité vs dénonciation d'agression
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — "il vaut mieux agresser que dénoncer"
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — La PaduTeam sur la nécessité de "rester confraternelle" malgré le désaccord profond
+- [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — Dr Zoé sous menace de plainte pour non-respect de la confraternité (défense de l'éducation sexuelle ; critique des dépassements d'honoraires) ; un confrère qui se "sent visé" sans avoir été nommé ; la confraternité comme outil de censure politique
 
 [^1]: [1:32](https://www.youtube.com/watch?v=V14W9I6sqjA&t=92) — "actuellement en médecine, il vaut mieux agresser sexuellement ses patients que dire du mal d'un de ses confrères en terme de risque de condamnation au conseil de l'ordre"
 [^2]: [28:34](https://www.youtube.com/watch?v=xrGePx2JwbM&t=1714) — "actuellement encore aujourd'hui il est beaucoup plus facile de faire condamner un confrère pour non respect de la confraternité parce qu'il a dénoncé les agissements d'un médecin agresseur"

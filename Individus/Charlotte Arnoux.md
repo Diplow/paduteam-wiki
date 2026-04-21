@@ -16,5 +16,6 @@ Première femme à avoir porté plainte pour viol contre [[Gerard Depardieu]], m
 ## Vidéos où Charlotte Arnoux est mentionnée
 
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]]
+- [[YANN MOIX PLUS GROS PORC QUE DEPARDIEU]]
 
 [^1]: [54:31](https://www.youtube.com/watch?v=CwbSH0oyCcY&t=3271) — "Charlotte Arnoux c'est une femme qui a porté plainte pour viol contre Gérard Depardieu, où il est mis en examen là récemment"

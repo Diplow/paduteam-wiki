@@ -24,7 +24,7 @@ En décembre 2023, un reportage révèle que [[Yann Moix]] accompagnait Depardie
 
 ## Le milieu qui savait
 
-[[Lio]], chanteuse et témoin direct du milieu, confirme l'existence de listes informelles circulant dans le cinéma et la télévision. Depardieu agressait surtout des femmes de rang social inférieur (maquilleuses, figurantes) — sa propre sœur de Lio a refusé un tournage après qu'on l'a prévenue de ses comportements. Sophie Marceau avait dénoncé ses comportements lors du film de Pialat en 1985 — sans être entendue. "Il y avait mille choses à dire, elles n'ont pas été entendues."
+[[Lio]], chanteuse et témoin direct du milieu, confirme l'existence de listes informelles circulant dans le cinéma et la télévision. Depardieu agressait surtout des femmes de rang social inférieur (maquilleuses, figurantes) — sa propre sœur de Lio a refusé un tournage après qu'on l'a prévenue de ses comportements. [[Sophie Marceau]] témoigne de ses comportements lors du film *Police* de Pialat (1985) : il ciblait spécifiquement les femmes les moins protégées institutionnellement (maquilleuses, habilleuses, figurantes — pas les actrices principales). "Il y avait mille choses à dire, elles n'ont pas été entendues."
 
 ## Charlotte Arnoux — première plaignante pour viol
 
