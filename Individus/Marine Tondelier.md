@@ -96,7 +96,16 @@ La PaduTeam lui adresse un appel direct : « Rejoins la lutte. [...] Tu es en sl
 [^cornu-slip]: [14:00](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=840) — « Ce qui va changer c'est pour les personnes qui sont nées entre 1964 et 1968 qui vont gagner un trimestre. Un slip mouillé. Non, un tiers de slip mouillé. »
 [^cornu-reineabs]: [12:26](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=746) — « Elle a redevenu la reine absolue des noisettes. [...] Elle elle a perdu la main sur la FI et là elle a perdu la main sur le PS. »
 
+## Candidature présidentielle et annonce (octobre 2025)
+
+Tondelier annonce sa candidature sur un plateau de télévision avec un discours d'"acte d'amour pour la France", la promesse de "réparer ce qui a été cassé" et d'"apaiser". La PaduTeam analyse : les éléments de langage sont indéfendables — "n'importe quel candidat d'extrême gauche, d'extrême droite aurait pu dire ça" (test : impossible de tenir l'inverse). Ses propositions concrètes incluent la sécurité de l'alimentation (accordée comme mesure anticapitaliste, mais incohérente sans programme) et la "suspension" (pas abrogation) de la réforme des retraites. Elle n'évoque pas l'écologie dans son annonce.
+
+La primaire est annoncée comme "le meilleur gagne" mais ni Mélenchon ni Glucksmann n'y participeront — prédiction PaduTeam : 2% en 2027, broyée entre les deux pinces du Casse-Noisette. Elle se désignera candidate même sans primaire car la primaire est déjà un échec.
+
+Sa primaire interne EELV est organisée contre Walid Mouali (6 800 votants) — lue par la PaduTeam comme tentative de rachat de son islamophobie structurelle par un sparring partner minoritaire.
+
 ## Vidéos où Tondelier est analysée
+- [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La reine des noisettes" — elle essaie des jeans chez 1083 pendant que les ouvriers galèrent (comparaison Marie-Antoinette). Déjà candidate déclarée. La PaduTeam : "vu son niveau dans le graphique, il y a de fortes chances qu'elle soit DRH ou directrice marketing." Elle est pour la primaire mais sa propre base est sociologiquement bourgeoise.
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète de la "maison Douceur" : hégémonie noisette, positionnement médiatique, dépendance à la primaire, fin de l'espace écolo autonome
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Affaire Karen (Zoé refuse la misogynie), catastrophique à l'Humanité sur le capitalisme, Festival de la Noisette de Bram

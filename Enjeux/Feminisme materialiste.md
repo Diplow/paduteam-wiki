@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-21-enrichi-w37w38
+skill_version: write-enjeu-2026-04-21-enrichi-w43w44
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -198,6 +198,14 @@ L'aboutissement conspirationniste (Killian 5.2 : le "matriarcat pédosataniste" 
 
 Le livre d'[[Audrey Rivoal]] (*La Fabrique des masculinités au travail*, présenté par Dr Zoé comme outil de formation militante) apporte une démonstration de la grille matérialiste sur le terrain concret. La distinction virilité/masculinités dans l'entreprise montre que le discours pseudo-féministe du DRH (formations anti-sexisme, affichage progressiste) coexiste avec des inégalités structurelles persistantes. Plus grave : c'est le RH au discours féministe — et non le chauffeur routier aux posters pin-up — qui a le plus d'impact négatif sur les femmes, car ses structures mentales patriarcales pilotent ses décisions de recrutement et de promotion. Le mythe que "les femmes ont moins d'augmentations parce qu'elles ne les demandent pas" est démenti : elles les demandent, on ne les écoute pas. La question ne se joue pas à l'échelle des comportements individuels mais dans les "structures d'organisation du travail et plus généralement de la société."
 
+## La conscience possible comme racine commune du masculinisme et du scientisme — le cas Mos Majorum
+
+Le diptyque [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] et [[REEDUCATION INCEL LIBERTARIEN]] (octobre 2025) apporte une démonstration supplémentaire de la thèse centrale du féminisme matérialiste : l'incompréhension du patriarcat et l'incompréhension du marxisme ne sont pas deux lacunes séparées — elles partagent une racine de classe commune.
+
+[[Mos Majorum]] est analysé comme "petit-bourgeois autonome" : son activité de débunker indépendant (sans patron, sans subordonné, son intelligence individuelle comme seul capital) produit des structures mentales fermées à la critique de l'exploitation comme à la critique du patriarcat. Sa position dans les rapports de production lui interdit l'accès à l'une et à l'autre — ce n'est pas un problème d'intelligence, c'est la [[Conscience possible]] au travail.
+
+La confirmation vient de son comportement sur Twitter envers Dr Zoé : Mos Majorum insinue qu'elle lui envoyait des DM pour "lui expliquer le féminisme" — une invention destinée à se valoriser. La PaduTeam retourne immédiatement son propre critère : "C'est empirique ça ? Tu peux le prouver ?" Le masculinisme ordinaire affleure précisément là où son scientisme prétend s'appliquer — prouvant que la posture scientiste s'effondre dès qu'il s'agit des femmes. C'est la même grammaire de classe que [[Lobservateur Officiel]] : les mascus libertariens sont structurellement incapables de prendre au sérieux ni le marxisme ni le féminisme, parce que les deux remettent en cause leur position individuelle dans l'ordre social.
+
 ## Libertarianisme et masculinisme : un invariant
 
 La PaduTeam observe que les figures les plus explicitement mascus rencontrées dans leurs vidéos sont quasi systématiquement aussi libertariennes. Ce n'est pas un hasard : le libertarianisme et le masculinisme partagent la même grammaire — refus des solidarités collectives, génie individuel, marché comme régulateur naturel.
@@ -333,4 +341,6 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]] — slut-shaming désamorcé comme arme politique : "je me bats les couilles de qui Alice Cordier baise — c'est son projet politique fasciste qui compte" ; thèse "la droite tue la famille" (conditions matérielles vs féminisme comme bouc émissaire)
 - [[NOTRE AVIS SUR L AFFAIRE DANY CALIGULA]] — DARVO, emprise conjugale, asymétrie de domination (patron/employée + domination masculine) ; position antipunitiviste ; la structure prime sur le discours progressiste
 - [[DR ZOE APPREND A BAISER A CE PUCIX]] — pipeline masculiniste analysé de l'intérieur ; individualisation des problèmes sociaux ; loi de l'attraction comme pensée magique capitaliste ; patriarcat comme hiérarchie entre les hommes ; rapport de consommation/objectivation des femmes
+- [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — démonstration que scientisme petit-bourgeois et masculinisme partagent la même racine de classe (conscience possible) ; Mos Majorum "diplômé analphabète" incapable de comprendre ni l'exploitation ni le patriarcat pour la même raison structurelle ; on répond pour son public, pas pour lui
+- [[REEDUCATION INCEL LIBERTARIEN]] — comportement Twitter de Mos Majorum envers Dr Zoé comme preuve empirique : le masculinisme ordinaire révèle que le scientisme s'effondre dès qu'il s'agit des femmes ; "C'est empirique ça ? Tu peux le prouver ?" comme retournement de la posture scientiste
 

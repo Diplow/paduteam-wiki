@@ -27,3 +27,4 @@ Le syndicat illustre la contradiction apparente — mais en réalité cohérente
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — au cœur de l'analyse
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — mentionnée comme illustration de la cohérence extrême-droite : stigmatiser l'immigration en politique tout en l'exploitant dans les champs ; le double meurtre de Sosignac (inspecteurs du travail tués par un agriculteur proche du syndicat) cité comme cas exemplaire

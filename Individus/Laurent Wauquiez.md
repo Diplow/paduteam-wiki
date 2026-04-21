@@ -43,10 +43,17 @@ Il s'indigne des manifestants masqués (au moment où les CRS sont également ma
 
 [^wauquiez-1]: [28:57](https://www.youtube.com/watch?v=wIPv5rAcllI&t=1737) — "Ces mecs sont devraient dire 'je suis royaliste.' [...] Ce sont des légitimistes. Ce sont des gens qui sont toujours du côté du pouvoir." — dans [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]]
 
+## Ligne méloniste contre Retailleau (oct. 2025)
+
+En octobre 2025, Wauquiez (président du groupe LR à l'Assemblée) s'affronte avec [[Bruno Retailleau]] (président du parti). Wauquiez est sur la ligne **méloniste** : union des droites de [[Edouard Philippe]] à [[Nicolas Sarkozy]], gouvernement responsable, coopération avec Bardella. Retailleau est sur la ligne **trumpiste** : capter l'électorat populaire de [[Marine Le Pen]], radicalité antimacroniste.
+
+La PaduTeam diagnostique le schéma classique : "ligne nationale contre ligne des notables-députés, ça foire à chaque fois." La tête du groupe parlementaire (Wauquiez) et la tête du parti (Retailleau) tirent dans des directions opposées, preuve que la fracture [[Melonisme et Trumpisme|trumpisme/mélonisme]] est structurelle.
+
 ## Vidéos
 - [[Hollande vs Melenchon 2e tour]]
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Analyse de sa défaite à la présidence de LR
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Perdra la primaire, soutiendra Retailleau-Bardella
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Détruit en débat par le lieutenant de Mélenchon, "finito"
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Stratégie union des droites symétrique aux noisettes de gauche ; "Tondelier/Ruffin de droite" ; ira jusqu'à Reconquête
-- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — légitimiste en sueur devant les blocages, pleure des poubelles brûlées mais reste muet sur Gaza, classé comme "toujours du côté du pouvoir"
+- [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]] — légitimiste en sueur devant les blocages
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Incarnation de la ligne méloniste à LR ; affrontement avec Retailleau (trumpiste) ; duplique exactement la fracture Bardella/Le Pen au RN, pleure des poubelles brûlées mais reste muet sur Gaza, classé comme "toujours du côté du pouvoir"

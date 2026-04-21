@@ -55,9 +55,17 @@ Dans [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]], la PaduTeam il
 
 [^mayotte_cookie]: [4:36](https://www.youtube.com/watch?v=1OUcDuz-HjY&t=276) — "plutôt que d'aller s'énerver contre le gros capitaliste et nos dirigeants qui ont une montagne de cookies devant eux on dit à la personne qui a qu'un seul cookie dans son assiette regarde le mec qui a zéro cookies là"
 
+## Application : la hiérarchisation des tâches capitaliste fabrique la race
+
+Dans [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]], la PaduTeam formule explicitement le mécanisme de racialisation par la division du travail : "Cette hiérarchisation profonde que crée le capitalisme dans ses tâches pour pouvoir en extirper de la valeur, elle fabrique et reproduit de la race derrière."[^sardoche_race] Mettre aux travaux les plus subalternes et les moins chers ceux qui sont "nouveaux, plus corvéables, qu'on considère comme moins civilisés, plus barbares" : c'est la race produite par le mode de production, pas l'inverse. L'exemple Sardoche illustre que cette logique peut être reproduite de bonne foi, sans conscience raciste explicite — ce qui rend le mécanisme d'autant plus efficace.
+
+[^sardoche_race]: [16:37](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=997) — "Cette hiérarchisation profonde que crée le capitalisme dans ses tâches pour pouvoir en extirper de la valeur, elle fabrique et reproduit de la race derrière."
+
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — développement central du concept
 - [[CHARLES CONSIGNY VEUT PLUS D'ESCLAVES POUR LES VENDANGES]] — application au secteur viticole : la racialisation comme dernier recours quand les conditions d'exploitation sont trop dégradées pour attirer la main d'œuvre nationale ; quatre niveaux de rapport aux vendanges selon la classe sociale
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — application à la crise hospitalière : le racisme comme écran aux responsabilités néolibérales
 - [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — application à Mayotte : tension Mahorais/Comoriens comme gestion par le pacte raciste d'une pénurie de services publics organisée
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — mécanisme de racialisation par hiérarchisation capitaliste des tâches : la race produite par le mode de production
+- [[VILLEPIN DERAPE SUR ZYED ET BOUNA]] — application à la mort de [[Zyed Benna]] et [[Bouna Traore]] (2005) : racisme structurel d'État comme coercition ontologique des quartiers populaires racialisés ; France et États-Unis comparés comme sociétés fondées sur une contradiction entre universalisme promis et racialisation pratiquée

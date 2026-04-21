@@ -24,8 +24,18 @@ Sur les marchés financiers, la note de l'Italie reste mauvaise (rouge) malgré 
 - [[Matteo Salvini]] — prédécesseur/concurrent dans l'espace de l'extrême droite italienne ; Meloni a réussi là où Salvini a culminé puis décliné
 - [[Internationale fasciste]] — Meloni représente une étape de la dynamique nationale-autoritaire qui tente de transformer l'UE de l'intérieur
 
+## Marine Le Pen contre le modèle Meloni (oct. 2025)
+
+Lors de son interview sur France Inter, Marine Le Pen est interrogée sur Meloni comme modèle. Sa réponse est hésitante et hostile : "la seule chose que je jalouse c'est peut-être l'énormité du plan de relance" — 240 milliards de l'UE que la France va rembourser. Le Pen ne reprend rien du programme Meloni (ni l'immigration, ni le discours identitaire) et attaque sa compatibilité avec l'Europe.
+
+La PaduTeam commente que cette hostilité révèle deux choses : d'abord que Le Pen reste sur une ligne maurassienne (France seule, souveraineté nationale contre les autres droites européennes) ; ensuite qu'elle "doit avoir des gens dans son parti qui lui disent ça" — sa nièce [[Marion Marechal|Marion Maréchal]] incarne précisément la ligne méloniste au sein de la droite française, ce qui est une source de tension interne.
+
+La PaduTeam ironise : "L'Europe donne-le nous [...] 240 milliards, on en fait des trucs hein, même avec la moitié" — 240 milliards pour la santé plutôt que pour un gouvernement d'extrême droite.
+
 ## Vidéos où Meloni est analysée
 - [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — mélonisme comme modèle pour Maréchal ; fiscalité italienne comme Eldorado patronal ; note Fitch comme mesure de soumission aux marchés ; contradiction immigration/patronat agricole
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Marine Le Pen hostile à Meloni comme modèle ; 240 milliards UE reçus par l'Italie ; Le Pen critique l'alignement de Meloni sur l'Europe
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — contre-exemple emblématique : Meloni a régularisé ~500 000 immigrés sous pression du patronat agricole, démontrant que même l'extrême droite au pouvoir ne peut pas se passer de la main d'œuvre immigrée
 
 [^exil-fiscal]: [28:17](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=1697) — « l'Italie a fixé un forfait de seulement 200 000 € d'impôts par an pour les revenus réalisés à l'étranger des nouveaux résidents fiscaux. Elle les attire désormais de plus en plus. »
 [^notation]: [35:04](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=2104) — « quand vous voyez des gens avoir une bonne note chez Fitch, ce n'est pas la performance de leur économie, c'est leur degré de soumission au marché financier et de rentabilité de profit. »

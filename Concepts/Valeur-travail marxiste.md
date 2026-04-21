@@ -47,3 +47,4 @@ La valeur-travail marxiste implique que la valeur est produite **collectivement*
 
 - [[MOS MAJORUM - ce sont LES SALARIES qui EXPLOITENT LES PATRONS !!]] — application pratique et pédagogique via le cas CARM
 - [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — contexte plus large du débat épistémologique sur le marxisme
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — démontage de la distinction "valeur intellectuelle vs valeur manuelle" : toute force de travail produit de la valeur économique, la division manuelle/intellectuelle est idéologique pas économique ; les gens sans diplôme "produisent le plus et sont payés le moins"

@@ -71,7 +71,16 @@ La liste des "refuseurs du choix" que la PaduTeam place dans la même case : [[R
 
 [^papacito-choix]: [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]] [08:12](https://www.youtube.com/watch?v=XZ_3qzXSsig&t=492)
 
+## Les 7 ressorts de l'humour Papacito (analyse Jafari, 2025)
+
+[[Alexandre Jafari]] formalise dans un fil Twitter les mécanismes qui font de l'humour de Papacito un vecteur de radicalisation. La PaduTeam commente et valide cette analyse en y ajoutant la dimension structurelle (voir [[Humour de droite comme pipeline]]).
+
+La PaduTeam reconnaît explicitement le talent de Papacito : "il est drôle parce qu'il fait des accents, des imitations de rugby. Il a une facilité à parler." Ses grandes vidéos font 3 à 4 millions de vues — soit huit fois plus que les meetings de Mélenchon comparables à l'époque. Si ce public adhère au discours plutôt qu'il n'y rit, "ça envoie" : "ça veut dire que Papacito en temps comme politique fait huit fois plus de vues que Mélenchon."[^papacito_vues]
+
+[^papacito_vues]: [26:22](https://www.youtube.com/watch?v=3i1WdOAscvg&t=1582) — "Si c'est pas de l'humour et c'est que les gens adhèrent à son discours, c'est beaucoup plus inquiétant que si c'est parce que les gens rigolent."
+
 ## Vidéos où Papacito est mentionné
+- [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — 7 ressorts du pipeline, 3-4M vues, talent reconnu, ambiguïté virilisme masculiniste/universel
 - [[KROC BLANC 100 000E AMENDE ET 7 ANS DE PRISON]]
 - [[KROC BLANC ENGAGE UN DETECTIVE PRIVE CONTRE PADU PAPACITO ET MILA]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]

@@ -101,3 +101,12 @@ Dès novembre 2024, la PaduTeam formule la structure du **pacte racial américai
 ## Pacte raciste populaire vs pacte raciste bourgeois
 Le [[Graphique]] révèle deux expressions de classe distinctes du racisme : le [[Rassemblement National]] (pacte raciste populaire, en bas à gauche — classes peu diplômées en situation de pénurie) et [[Reconquete|Reconquête]] (pacte raciste bourgeois, en haut à droite — catégories aisées, suprémacisme culturel "gratuit"). Les deux se détestent : l'électeur Reconquête trouve le RN "trop social", l'électeur RN ne connaît même pas Zemmour. Ce sont deux logiques fondamentalement différentes : le racisme fonctionnel (gérer la pénurie) vs le fascisme culturel (suprémacisme par conviction)
 
+## Le pacte raciste de bonne foi : le cas Sardoche
+
+[[Sardoche]] (streamer, petit bourgeois autodidacte) illustre une troisième forme du pacte raciste : **le pacte raciste inconscient de quelqu'un qui se croit factuel**. Sa distinction expatrié/immigré — les uns venant de "pays civilisés et riches", les autres sans valeur — reproduit mécaniquement la hiérarchie raciale des nations sans jamais se revendiquer raciste. "Le pacte raciste tient profondément là-dedans. C'est-à-dire quand quelqu'un vous dit : non, mais moi, je vous dis ça, ça n'a rien de raciste. Pour moi, c'est du factuel pur et dur."[^sardoche_pacte]
+
+Ce cas est analytiquement précieux : Sardoche n'est pas Papacito, il n'est pas dans la fachosphère assumée. Il est de "bonne foi", applique des "pires saloperies" en étant "persuadé d'être de bonne foi." C'est "toujours été comme ça dans les moments les pires de l'histoire."[^sardoche_histoire] Ce n'est pas de la naïveté individuelle — c'est le fonctionnement ordinaire du pacte raciste dans les classes intermédiaires autodidactes.
+
+[^sardoche_pacte]: [15:36](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=936) — [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — "le pacte raciste tient profondément là-dedans"
+[^sardoche_histoire]: [15:36](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=936) — [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — "des gens qui sont persuadés d'être de bonne foi, d'être des gens bien et cetera en appliquant les pires saloperies"
+

@@ -53,6 +53,14 @@ Chris analyse : c'est une bonne nouvelle sur le plan judiciaire, pas sur le plan
 
 Marine Le Pen a 56 ans en 2026. Avec 5 ans d'inéligibilité, elle aura 63 ans en 2032. "Elle est encore très très jeune" pour revenir en politique. Si [[Jordan Bardella]] échoue ou trahit (stratégie Chirac 74), elle revient en sauveur sur son propre parti familial. Elle n'a aucune raison de vouloir que Bardella réussisse — si Bardella prend le pouvoir sans elle, "c'est fini, elle est Terminado". Inversement, son échec ou sa trahison est son meilleur scénario de retour.
 
+## Le maurassisme assumé (oct. 2025)
+
+Sur France Inter face à Benjamin Duhamel, Le Pen formule sa ligne avec une clarté rare : "La France seule." La PaduTeam identifie ce slogan comme directement emprunté à [[Charles Maurras]] et à l'Action Française — la tradition monarchiste réactionnaire des années 1930-40, celle du "nationalisme révolutionnaire." Paradoxe historique pointé : l'extrême droite française est née *contre* de Gaulle (OAS, Tixier-Vignancour, le père de Le Pen était élu avec la droite anti-gaulliste en 1965). En se revendiquant "dernière gaulliste", Marine Le Pen renverse l'histoire[^mlp-moras].
+
+Sa stratégie envers les abstentionnistes est diagnostiquée : elle vise la masse en bas à gauche du [[Graphique]] (classes populaires abstentionnistes) avec son discours ni-droite-ni-gauche, union nationale. Erreur stratégique selon la PaduTeam : cet espace est maintenant occupé par [[Jean-Luc Melenchon]], qui offre une "perspective égalitaire cohérente" là où il n'y avait rien en 2002.
+
+[^mlp-moras]: [13:19](https://www.youtube.com/watch?v=YWEjQQLMKbA&t=799) — "Moras c'est vraiment elle tient le discours morasien le slogan morasien qui était vraiment la tradition d'extrême droite française [...] 'la France seule'"
+
 ## Trumpisme vs Mélonisme : la ligne Le Pen
 Marine Le Pen incarne le **trumpisme** — national-protectionniste, antisystème populaire, captant les classes populaires déclassées — face au **mélonisme** de [[Jordan Bardella]] (union des droites libérale-raciste). Cette coupure de ligne rend leur cohabitation impossible à terme. Sa ligne est "intenable pendant une campagne" : elle dit être "plus proche de fort que de Retailleau" sur certains sujets, ce qui satisfait personne.
 
@@ -62,6 +70,7 @@ L'**origine de l'électorat populaire RN** : cet électorat ne vient pas du PCF,
 Marine Le Pen a imposé une stratégie de [[Dediabolisation]] : distancer le RN du passé de son père, ne plus tenir de discours frontalement racistes, rebaptiser le parti. Mais pour la PaduTeam, c'est une opération de façade : des figures comme [[Frederic Chatillon]] (proche des réseaux néo-fascistes, est allé signer des autographes à [[Leon Degrelle]] dans les années 90) font toujours partie du "good". Elle "essaie de ne pas trop communiquer là-dessus" mais ne les met pas au ban. La continuité est réelle.
 
 ## Vidéos où Le Pen est analysée
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Refus de l'union des droites contre 88% de ses sympathisants ; ligne maurassienne (France seule) ; stratégie abstentionnistes diagnositquée comme erreur tactique ; Meloni critiquée (240 milliards de l'UE "c'est nous qui allons payer")
 - [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]] — Continuité FN→RN ; dédiabolisation comme opération de communication ; réseaux néo-fascistes toujours présents
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud à la condamnation (avec Zoé) : Le Pen comme frein à l'Union des droites, paradoxe Bardella, scénario Sarkozy 2007, appel d'air droitier
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Condamnation et inéligibilité immédiate ; analyse des conséquences pour 2027 ; paradoxe stratégique pour Bardella

@@ -43,6 +43,7 @@ Tondelier sur France Inter en 2025 : elle lance des appels solennels à Mélench
 La PaduTeam qualifie EELV de "noisettes originelles, les plus belles, les plus grandes, les plus bio" — avant même [[Marine Tondelier]], c'est [[Cecile Duflot]] qui incarne l'impasse fondamentale : l'écologie sans anticapitalisme ne peut aboutir qu'à des non-solutions (comportements individuels, communication) ou à de la résignation. L'EELV est le cas d'école de ce que produit une force politique incapable de nommer la propriété privée comme problème.
 
 ## Vidéos où l'organisation est analysée
+- [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature officielle ; primaire interne avec 6 800 votants contre Walid Mouali ; islamophobie structurelle (Médine, Rima Hassan, Ali Diouara) ; sécurité sociale de l'alimentation proposée sans programme anticapitaliste cohérent ; douceur comme marque de fabrique de l'espace haut-milieu du Graphique
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Effondrement électoral : perd Bordeaux, Strasbourg, Poitiers. Tondelier réunion de crise. Électorat identifié comme bourgeois macroniste reconverti.
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Analyse [[Ecologie punitive]] des Verts (ZFE, voiture, logistique capitaliste du territoire) ; vote crédits de guerre ; prévision 3-4% seule à la présidentielle 2027

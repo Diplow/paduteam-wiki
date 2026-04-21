@@ -119,6 +119,7 @@ La PaduTeam formalise l'image des noisettes « en slip dans une cave » à propo
 [^noisette-slip]: [13:27](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=807) — « Ils nous ont kidnappé, ils nous ont mis dans une cave tout nu. [...] Marine dit "OK, tu vas avoir le droit à un slip ?" [...] Un tiers de slip mouillé. »
 
 ## Vidéos clés
+- [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle novembre 2025 : les noisettes se lancent sans Mélenchon ni Glucksmann. Réunions secrètes PS-Attal révèlent la vraie stratégie anti-LFI derrière la façade unitaire. Prédiction : le candidat noisette sera le "Jospin 2002" à 16%.
