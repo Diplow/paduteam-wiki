@@ -40,6 +40,12 @@ Le RN vote la motion de censure NFP contre le gouvernement Barnier sur le PLFSS 
 
 Le [[Graphique]] avait prédit cette scission. Deux lignes irréconciliables cohabitent : [[Marine Le Pen]] incarne la tradition antisystème populiste (trumpienne, capte les classes populaires et les outre-mer), [[Jordan Bardella]] joue la "vraie droite" et l'union des droites (proche de [[Bruno Retailleau]]). Cet écart de ligne — aggravé par la guerre de légitimité présidentielle — rend la cohabitation impossible. La PaduTeam mobilise la comparaison avec le PS : tant que Mitterrand donnait une ligne cohérente, les égos se rangeaient derrière ; quand la ligne s'est fracturée entre néolibéraux et socialistes traditionnels, les égos ont pris le dessus.
 
+## Scission trumpisme/mélonisme : le clivage Wauquiez-Retailleau
+
+Le clivage interne au RN entre [[Marine Le Pen]] (trumpiste) et [[Jordan Bardella]] (méloniste) se *duplique* à l'identique chez [[Les Republicains]] : [[Laurent Wauquiez]] incarne la ligne méloniste (union des droites, pro-business), [[Bruno Retailleau]] tente de capter l'électorat populaire marine (trumpiste). La PaduTeam diagnostique que cette symétrie parfaite entre les deux partis de droite prouve que la fracture n'est pas personnelle mais structurelle — une fracture époquale liée à la fin du macronisme et à l'approche de la présidentielle.
+
+La mécanique : l'effondrement du bloc central macroniste a retiré le point de référence commun qui permettait au RN et à LR de se définir en opposition à Macron. Sans cet ennemi commun, les contradictions internes de ligne sont devenues irréconciliables.
+
 ## Vidéos où l'organisation est analysée
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
@@ -48,3 +54,4 @@ Le [[Graphique]] avait prédit cette scission. Deux lignes irréconciliables coh
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — 4 millions d'euros détournés, 2 millions d'amende pour le RN ; condamnation révèle que l'extrême droite est "exactement pareil que le reste du bloc bourgeois, voire pire au niveau de la fraude"
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Recomposition RN post-condamnation ; Bardella hérite du dilemme ; pire config pour la gauche = alliance Bardella-Retailleau
 - [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Début de la scission : tacle Nouvelle-Calédonie, guerre de légitimité présidentielle, deux lignes irréconciliables ; prophétie du Graphique qui se réalise
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Fracture trumpisme/mélonisme qui se duplique chez LR ; Le Pen refusant l'union des droites contre 88% de ses sympathisants ; Bardella qui bascule vers le libertarianisme à la Milei

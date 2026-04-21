@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w39w42
+skill_version: write-enjeu-2026-04-21-enrichi-w43w44
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -42,11 +42,61 @@ Le batch de janvier 2025 enrichit l'enjeu d'une dimension théorique : le mécan
 
 Ces deux cas confirment la thèse structurelle : la gauche qui ne rompt pas avec la propriété produit inévitablement, en période de crise, ses propres figures du racisme d'État.
 
+## Tondelier candidate : la noisette bio prise dans le Casse-Noisette (octobre 2025)
+
+[[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] est l'analyse de référence sur la candidature Tondelier à la présidentielle 2027 — et la démonstration la plus complète que la dynamique EELV est structurellement identique au mécanisme PS.
+
+**La position de classe comme générateur du discours de la douceur.** La PaduTeam situe Tondelier "en haut dans le graphique, au milieu" — des classes à l'écart de l'inconfort matériel du capitalisme ET à l'écart de la possession des moyens de production. C'est l'espace de l'idéalisme maximum. Contrairement aux cadres supérieurs (haut-droite) qui "savent qu'ils te baisent", ces classes croient sincèrement qu'on "ne peut pas faire autrement". La douceur n'est pas une stratégie calculée — c'est une vision du monde de classe. La PaduTeam reformule : Tondelier "peut se payer le luxe de la douceur" parce qu'elle est une femme bourgeoise blanche dont les pairs CRS ne la touchent pas. En faire un discours politique, c'est naturaliser le rapport de force comme horizon.
+
+**La prophétie du Casse-Noisette.** Ni Mélenchon ni Glucksmann n'iront à une primaire. Tondelier sera prise entre les deux pinces du Casse-Noisette sans espace politique autonome. Prédiction chiffrée : 2% à la présidentielle 2027. Argument structurel : si elle assume qu'il y a deux visions politiques irréconciliables (ligne atlantiste vs ligne de rupture), elle ne peut plus poser la primaire. Sa stratégie de dépolitisation (réduire les oppositions à des conflits d'ego) est le symptôme de son absence d'espace propre.
+
+**L'islamophobie structurelle documentée.** La compilation Jafari sur Twitter fournit quatre faits : (1) Tondelier se pose en "Karen blanche de classe supérieure qui surveille l'arabe" vis-à-vis de Médine ; (2) elle qualifie "Allahu Akbar" de "débile, choquant, amalgamant" lors d'une manif pour la Palestine — "si elle est à côté d'un chrétien qui dit 'Amen', elle va trouver ça très grave ?" ; (3) elle retire son logo EELV à [[Ali Diouara]], candidat officiel NFP, au profit de Raquel Garrido dans la même circonscription ; (4) elle organise une primaire interne EELV contre [[Walid Mouali]] — sparring partner arabo-musulman visible pour se "rattraper" tout en l'écrasant. La PaduTeam synthétise : "On est dans la même Marine est possible. La même Marine de l'islamophobie structurelle française."
+
+**La sécurité sociale de l'alimentation : mesure accordée mais incohérente.** La PaduTeam reconnaît la sécu alimentaire comme "vraiment une mesure anticapitaliste" — et la concède. Mais Tondelier est incapable d'articuler ce qu'elle implique : sortir certains secteurs du marché, réorienter les financements publics, affronter l'Europe. Quand on lui pose une question de financement (1 milliard 400 millions pour la suspension des retraites), elle "bafouille pendant 40 minutes". Point clé : la sécurité sociale de 1945 a été construite par des résistants communistes armés qui ont imposé le rapport de force au patronat — pas avec de la douceur. Tondelier propose la mesure sans le programme capable de la tenir.
+
+**La veste verte comme dépolitisation assumée.** Tondelier cite son livre : "ma tenue était devenue un objet transitionnel [...] qui montre qu'on peut dire les choses sans hurler. Sans diviser." La PaduTeam : "c'est une vision politique d'enfant de 14 ans bourgeois qui se lève en se disant 'est-ce qu'on ne pourrait pas prendre le meilleur des idées de gauche et le meilleur des idées de droite ?'"
+
+## Villepin, le racisme d'État et la continuité PS — octobre 2025
+
+[[VILLEPIN DERAPE sur ZYED et BOUNA]] (30 oct. 2025) étend l'enjeu "Plus jamais PS" à la question du racisme institutionnel colonial. Le communiqué de [[Dominique de Villepin]] sur le 20e anniversaire de la mort de [[Zyed Benna]] et [[Bouna Traore]] est décortiqué comme un double discours : l'apparence d'autocritique masque un déni de responsabilité et un positionnement de campagne présidentielle 2027. Villepin est présenté comme "Édouard Philippe" — un néolibéral conservateur sans capacité ni volonté de transformation sociale réelle.
+
+**La distinction centrale : coercition de population vs maintien de l'ordre.** Le dérapage analytique de Villepin est d'amalgamer la violence lors des manifestations (Malik Oussekine, gilets jaunes) avec la mort de Zyed et Bouna. La PaduTeam nomme la distinction fondamentale : ce que vivent les habitants des quartiers populaires racisés n'est pas du "maintien de l'ordre" — c'est de la **coercition de population**. La violence ne répond pas à des actes ; elle s'applique à des personnes pour ce qu'elles *sont*, leur lieu de vie et leur race, indépendamment de tout comportement.
+
+**La séquence 2005 comme matrice de la montée de LFI.** La PaduTeam articule deux événements fondateurs : le référendum sur le TCE (victoire du Non, portée notamment par les quartiers populaires) et la mort de Zyed et Bouna. La gauche institutionnelle — y compris le PS — a manqué les deux : incapable de capitaliser sur le Non au TCE, elle a répondu aux émeutes par la priorité "comment arrêter les émeutes" plutôt que par une critique de l'État raciste. "Si LFI est si forte aujourd'hui, c'est qu'elle a rattrapé cette génération qui est née politiquement entre 2005 contre le néolibéralisme et avec une compréhension de ce qu'était le racisme structurel dans ce pays."
+
+**Le PS dans la continuité.** La loi "permis de tuer" passée sous Hollande (2017) a multiplié les refus d'obtempérer mortels. PS et Villepin sont "du même bois" — ni l'un ni l'autre n'a prévu de s'attaquer au système capitaliste raciste qui produit ces morts. "Plus jamais Dominique de Villepin certes, mais plus jamais PS non plus, tous ces gens sont faits du même bois."[^villepin_pjps]
+
+**La confession sans dépositionnement comme symptôme.** Un vrai dépositionnement signifierait quitter le projet présidentiel de droite, rejoindre des organisations militantes antiracistes comme le [[Front Uni des Immigrations et des Quartiers Populaires]] (FUIQP), lire les travaux de [[Said Bouamama]]. La PaduTeam formule la provocation : "Je te propose de rejoindre la France insoumise. Vas-y Dominique."
+
+[^villepin_pjps]: [37:41](https://www.youtube.com/watch?v=R0g0NlHF6RY&t=2261) — "Plus jamais Dominique de Villepin certes, mais plus jamais PS non plus, tous ces gens sont faits du même bois."
+
 ## Conférence "Plus jamais PS" (février 2026)
 Conférence avec trois intervenants :
 - [[Stephane Palombarini]] : historique de la conversion néolibérale du PS depuis les années 60-70
 - [[Said Bouamama]] : conversion du PS à l'international (alignement sur l'impérialisme) et politiques sécuritaires racistes
 - [[Nicolas Da Silva]] : bilan économique des quinquennats Jospin et Hollande — comment les mesures "de gauche" (35h etc.) sont passées sans remettre en cause la répartition capital/travail, préparant le virage à droite
+
+## La stratégie Faure formalisée : trois actes pour capter l'électorat macroniste
+
+[[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] est la formalisation la plus précise de la stratégie PS d'octobre 2025. La PaduTeam dissèque l'interview de Faure dans [[Mediapart]], promue par [[Edwy Plenel]] quelques jours après que le PS a refusé de voter la censure contre le gouvernement Le Cornu.
+
+Faure n'est pas un naïf — c'est "un truqueur de haut niveau formé par vingt ans d'appareils socialistes." Sa stratégie repose sur trois actes explicites :
+
+1. **Gagner du temps.** Une dissolution immédiate écraserait PS et macronistes. En l'évitant, Faure laisse les "petits partis" (PS, EELV) dérouler leurs éléments de langage avec le soutien médiatique.
+2. **Se repeindre en rose.** Obtenir des amendements au budget (taxe Zucman, suspension partielle des retraites) pour se présenter comme "gauche responsable qui obtient des résultats" — en réalité 9 milliards sur 50.
+3. **Capter l'électorat macroniste de gauche.** Viser les 10-12 % d'électeurs qui votaient Macron 2017 et ne peuvent plus. Faure passe de 2 % (Hidalgo 2022) à un potentiel 16-17 % — sans jamais rompre avec la ligne macroniste sur le fond.
+
+La PaduTeam retourne l'argument anti-dissolution de Faure : Hitler n'est pas arrivé au pouvoir dans une période de "confusion" mais dans une période de clarification, quand les patrons l'ont choisi. C'est la moïsation, pas la confusion, qui ouvre la voie au fascisme.
+
+Plenel, analysé comme "boussole inversée", incarne la trajectoire de la [[Deuxieme gauche]] : trotskisme antisoviétique → atlantisme de fait → soutien à Villepin → cireur de pompes de Faure. "Quand il vient de la gauche comme Plenel, c'est une critique de droite."
+
+La vidéo marque aussi le lancement officiel de la campagne militante "Génération Plus jamais PS" : collages d'affiches en binômes paritaires, générateur sur labreche.fr, groupes de 15 personnes.
+
+## La T2A comme crime PS contre la santé publique (octobre 2025)
+
+[[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] apporte un argument supplémentaire au dossier : la [[Tarification a l acte|tarification à l'acte hospitalière (T2A)]] a été introduite sous le gouvernement Jospin. Ce mécanisme — qui rémunère les hôpitaux selon le volume d'actes, pas selon leurs capacités — est le moteur principal du cercle vicieux de destruction hospitalière. Sous Macron : 30 000 lits fermés. La PaduTeam est directe : "Le PS est complice sur ce qui s'est passé... la T2A, c'est eux qui l'ont fait."
+
+L'alliance "assassins de la santé" est triangulaire : le PS a créé les conditions (T2A, émergence de Macron), les macronistes les ont systématisées (Le Cornu affirmant qu'il y a "trop d'argent" dans les hôpitaux, masques en tissu de slip sous Pannier-Runacher), LR finalise (fermeture du CAC Ginette Amado, inauguré par Larcher lui-même). La complicité historique du PS n'est pas rhétorique — elle est tracée dans la plomberie des financements hospitaliers.
 
 ## Le PS parachève sa trahison sur les retraites (octobre 2025)
 
@@ -250,6 +300,8 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Les réunions secrètes PS-Attal derrière la façade unitaire de la primaire révèlent la convergence PS/bloc central. La PaduTeam décrit comment les socialistes tractent avec le gouvernement sur le budget pendant qu'ils font la primaire "de rupture". Jospin 2002 prédit comme sort du candidat noisette.
 - [[LE PS A TRAHI (EPISODE 24873)]] — Vidéo pivot : lancement de la campagne anti-PS avec [[On ne veut plus]] et [[La Breche|La Brèche]]. La "suspension" des retraites comme trahison exemplaire : le PS accepte une miette (décalage de courbe de quelques mois) et la présente comme victoire historique. Déclaration solennelle : "Dès que vous entendez PS, si vous êtes vraiment pour la rupture avec le néolibéralisme, c'est un adversaire." Appel à cesser toute tentative d'alliance avec le PS — "la séquence est terminée."
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Le PS a fait "un vrai choix tactique" : pas une trahison (qui suppose une promesse), un positionnement de classe assumé. La non-censure du gouvernement Lecornu II révèle que le PS a délibérément choisi d'affronter Mélenchon. Les noisettes (Tondelier, Ruffin, Roussel) célèbrent un "tiers de slip" — un trimestre gagné sur les retraites — comme victoire, prouvant leur incapacité structurelle à exiger l'abrogation.
+- [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — La stratégie Faure en trois actes formalisée ; Plenel comme boussole inversée de la deuxième gauche ; lancement officiel de la campagne militante "Génération Plus jamais PS" ; démontage de l'argument anti-dissolution (Hitler est arrivé par la clarification, pas la confusion).
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — La T2A introduite par le PS comme mécanisme de destruction hospitalière ; co-responsabilité PS-macroniste-LR dans les 30 000 lits fermés ; preuve que la trahison PS n'est pas rhétorique mais inscrite dans la plomberie des politiques publiques.
 - [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — Démonstration que les "patrons de gauche" PS des années 80 (Gomez, Schweitzer, Bergé) sont les artisans directs du délabrement néolibéral qui a produit l'extrême droite actuelle. Le "plus jamais PS" est une conclusion structurelle, pas un caprice de chapelle. La thèse social-démocrate sur la responsabilité communiste dans l'avènement de Hitler est retournée contre ses auteurs : c'est le SPD qui a permis Hitler, pas le KPD.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Lancement de la campagne physique "Plus jamais PS"
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Retournement de veste PS sur Gaza ; Backseat comme vecteur de sionisme progressiste
@@ -259,4 +311,6 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — [[Marc-Antoine Jamet]], secrétaire général de LVMH et maire PS, comme incarnation concrète de la thèse : un cadre du grand capital (22 postes cumulés, pantouflage permanent) peut être PS sans contradiction. Ce n'est pas une anomalie, c'est la norme structurelle du PS.
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — bilan quinquennat Hollande comme liste de trahisons concrètes : CICE (300M à Arnault), répression manifs palestiniennes, loi travail, émergence de Macron. Le reportage Paris Match comme révélateur du rapport de classe de la social-démocratie.
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Tondelier assimilée fonctionnellement au PS/macronisme : dépolitise les situations, travaille à refroidir le mouvement social, "Marine Macron" ; preuves d'unité vs déclarations d'unité ; électorat incompressible de 500 000 personnes
+- [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — candidature 2027 : noisette bio prise dans le Casse-Noisette (2%) ; douceur comme privilège de classe bourgeoise blanche ; islamophobie structurelle documentée en quatre faits (Médine, Allahu Akbar, Ali Diouara, Walid Mouali) ; sécu alimentaire accordée mais incohérente sans programme de rupture ; la veste verte comme objet transitionnel de dépolitisation
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Duflot comme cas d'école des quarante ans de renoncements : gauche sans alternative de société, masquer le conflit de classe sous la communication, participer sous Hollande aux politiques qui ont désabusé les classes populaires
+- [[VILLEPIN DERAPE sur ZYED et BOUNA]] — extension de l'enjeu au racisme institutionnel colonial : distinction coercition de population / maintien de l'ordre comme ligne analytique ; loi "permis de tuer" de Hollande comme preuve de la continuité PS ; séquence 2005 (TCE + mort de Zyed et Bouna) comme matrice de la montée de LFI que la gauche institutionnelle a ratée ; Villepin = Édouard Philippe, "du même bois" que le PS

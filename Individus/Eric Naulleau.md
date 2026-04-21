@@ -54,10 +54,23 @@ La PaduTeam qualifie Naulleau de "synthèse parfaite" des [[Islamophobie|deux ma
 
 Son angoisse face à Rima Hassan est analysée comme la réaction d'un "vieux mec blanc" qui "comprend qu'il n'a plus le contrôle" sur les femmes et la jeunesse racisée. Il traduit l'émergence d'un sujet révolutionnaire (jeune, féminisé, racisé, diplômé mais précaire) en menace islamiste parce qu'il est structurellement incapable de penser la classe.
 
+## Préface du livre d'Éric Zemour (oct. 2025)
+
+La PaduTeam consacre la dernière partie de la vidéo sur l'explosion des droites à Naulleau qui présente en direct sur CNews le nouveau livre d'[[Eric Zemmour]], livre qu'il a préfacé. Sa phrase : Zemour "touche aux questions essentielles de notre temps [...] nul penseur de bonne foi ne peut ignorer cette contribution."
+
+La PaduTeam démonte : Zemour est "un répéteur de citation, un sous-Finkielkraut de plateau télé." Son électorat réel ? "Saint-Tropez, Neuilly, Versailles" — la grande bourgeoisie, pas les "petits droitards incultes" qui croyaient aux sondages à 30 %[^naulleau-zemour].
+
+Le livre tourne autour du "sursaut judéo-chrétien" — la PaduTeam répond : l'Église catholique mondiale est peuplée d'hommes d'église africains, car la pratique vivante est là-bas, pas dans les paniques identitaires blanches de Zemour et Naulleau. Zemour et Naulleau trouvent le pape François "trop à gauche." Indicateur de leur position.
+
+Sur la collection dans laquelle le livre est publié (Pensée libre chez Fillard), la PaduTeam note l'inceste : Naulleau préface un livre de Zemour, reçu sur CNews par un journaliste dont la collègue pilote la collection qui édite le livre. "Tout le monde a la queue leu leu comme ça."
+
+[^naulleau-zemour]: [36:31](https://www.youtube.com/watch?v=YWEjQQLMKbA&t=2191) — "Le cœur de l'électorat d'Éric Zemour, je vous rappelle les plus gros scores d'Éric Zemour, c'est Saint-Tropez, Neuilly sur scène, Versailles c'est la grande bourgeoisie."
+
 ## Vidéos où il est analysé
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — analyse centrale : l'arc "vraie gauche" Naulleau-Hanouna
 - [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — cynisme de Naulleau comme stratégie de placement médiatique ; *Dialogue des accordés* avec Soral
 - [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — islamophobie de synthèse, "parti de l'étranger", fabrication du complot islamiste LFI
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Présente le livre de Zemour sur CNews après en avoir écrit la préface ; "sursaut judéo-chrétien" ; inceste journalistique ; Zemour comme "sous-Finkielkraut"
 
 [^3]: [6:14](https://www.youtube.com/watch?v=BoVUbcya4xc&t=374) — "nolo il joue sa gamelle [...] il a besoin qu'on continue à l'inviter pour dire voilà notre plateau pluraliste Eric nolo représentant de la gauche d'extrême droite"
 [^4]: [16:06](https://www.youtube.com/watch?v=BoVUbcya4xc&t=966) — "on les connaît les gars qui passent leur temps avec des mecs d'extrême droite en disant que c'est pour s'y opposer"

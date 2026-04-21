@@ -34,6 +34,22 @@ La gauche est "coincée" : si elle se range derrière le bloc européiste contre
 ## Lien avec le [[Lawfare]]
 Le bloc européiste utilise l'appareil judiciaire et institutionnel pour contrer l'internationale fasciste : condamnation de [[Marine Le Pen]], annulation du premier tour en Roumanie ([[Călin Georgescu]]). Problème : cette jurisprudence peut demain s'appliquer à des opposants de gauche ([[Jean-Luc Melenchon]]).
 
+## L'internationale fasciste contre le péténisme
+
+La PaduTeam insiste sur une distinction critique : la droite radicale contemporaine n'est **pas** une réhabilitation du régime de Vichy ou du nazisme — c'est une droite libérale-autoritaire héritière des années 70 conservatrices (Pinochet, Hayek, Friedman). Ce qu'on retrouve chez Meloni, l'AFD, Trump, c'est :
+
+- Violence antisyndicale
+- Propriété privée absolue du privé par le privé
+- Vision friedmanienne/hayékienne de la destruction de l'État social
+- Racisme fonctionnel (pacte raciste) sans référence néo-nazie explicite
+
+Assimiler le vote RN au pétainisme ou au négationnisme est qualifié d'"analyse de feignant" et "se faire plaisir" — ça permet à l'extrême droite de riposer facilement ("vous nous traitez encore d'Hitler"). L'électeur RN moyen est gaulliste dans sa culture politique, pas pétainiste.
+
+La PaduTeam renvoie à une émission d'**Isonomia** sur l'internationale fasciste qui développe cette thèse de retour conservateur de l'ordre libéral[^if_isonomia].
+
+[^if_isonomia]: [29:16](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=1756) — "très bonne émission de nos camarades d'Isonomia là qui avait fait ça sur l'international fasciste qui justement est un retour conservateur de l'ordre libéral [...] on est bien plus proche effectivement des années 70 dévastatrices, conservatrices [...] de Pinochet"
+
 ## Vidéos où le concept est développé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — l'AFD comme membre de l'internationale ; son idéologie islamophobe produit des passages à l'acte terroriste
+- [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — distinction centrale péténisme vs droite libérale-autoritaire contemporaine ; Hayek/Friedman/Pinochet comme vraie généalogie ; renvoi à Isonomia

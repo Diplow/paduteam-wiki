@@ -41,8 +41,15 @@ Prophétie : la coalition Retailleau-Maréchal-Bardella est la forme française 
 ## Concepts associés
 [[Eclatement du bloc central]], [[Moisation]], [[Pacte raciste]], [[Atlantisme]], [[Vassalisation de la France]], [[Graphique]]
 
+## La fracture se duplique chez LR (oct. 2025)
+
+La preuve que la fracture trumpisme/mélonisme est structurelle et pas personnelle : elle se reproduit à l'identique dans [[Les Republicains]]. [[Laurent Wauquiez]] (groupe parlementaire) joue la ligne méloniste — union des droites libérale, compatible avec le grand capital, ouverture à une alliance gouvernementale. [[Bruno Retailleau]] (président du parti) essaie de capter l'électorat populaire de [[Marine Le Pen]] avec une ligne trumpiste antimacroniste.
+
+La PaduTeam formule la thèse : ce n'est pas un conflit de personnes. C'est un conflit d'époque — la fin du bloc central macroniste impose à chaque acteur de droite de choisir son électorat-cible, et les deux électorats disponibles (populaire-trumpiste vs bourgeois-méloniste) sont sociologiquement incompatibles sous un même parti.
+
 ## Vidéos où le concept est développé
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Définition et application au dilemme Bardella/Le Pen
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Bardella incapable de formuler les réponses trumpistes ; atlantisme structurel ; dérive vers le mélonisme
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction stratégique Le Pen/Bardella (peuple vs nation économique)
 - [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — mélonisme français incarné par Maréchal ; Meloni comme modèle revendiqué ; le MEDEF attire par l'Italie ; prophétie de la coalition Retailleau-Maréchal-Bardella
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — La fracture se duplique chez LR (Wauquiez/mélonisme vs Retailleau/trumpisme) ; Le Pen hostile à Meloni comme modèle ; Bardella libertarien-méloniste face à Le Pen trumpiste

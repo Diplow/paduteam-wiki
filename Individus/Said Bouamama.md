@@ -33,4 +33,6 @@ A synthétisé la pensée politique de [[Georges Ibrahim Abdallah]] dans le livr
 - [[Front Uni des Immigrations et des Quartiers Populaires]] — membre
 - Analyste sur [[Investigation]] (émission hebdomadaire de géopolitique)
 
-## Vidéos où Bouamama est m
+## Vidéos où Bouamama est mentionné
+
+- [[VILLEPIN DERAPE SUR ZYED ET BOUNA]] — cité comme auteur incontournable sur les classes et quartiers populaires, le racisme structurel, le mythe national ; la PaduTeam recommande son livre *Les classes et quartiers populaires* et indique qu'il repassera sur la chaîne ; le [[Front Uni des Immigrations et des Quartiers Populaires|FUIQP]] qu'il co-anime organise la marche du 11 novembre contre les guerres impérialistes

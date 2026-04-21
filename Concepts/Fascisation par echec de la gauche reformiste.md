@@ -36,6 +36,15 @@ Mélenchon formule la thèse à Radio Canada en termes universels : "Tout en Eur
 
 La formule condensée PaduTeam : "La gauche pourrie sociale-traître va juste finir par faire monter l'extrême droite. Tant que vous vous contenterez de ce genre de gauche qui n'en est pas une, qui est à la remorque de toutes les puissances, et ben vous aurez les mêmes désastres."
 
+## La validation des diagnostics du RN sur 40 ans
+
+La PaduTeam souligne que ce n'est pas Macron qui a inauguré la validation des diagnostics réactionnaires — c'est une dynamique sur 40 ans. Dès 1983 (grèves Talbot, premier tournant islamophobe implicite), le PS valide des diagnostics du RN sur l'immigration et la "préférence nationale". Tous les politiques depuis ont dit "il y a quand même un problème avec l'immigration, mais nous on va pas faire l'immigration zéro."
+
+Macron ne valide pas les diagnostics — il commence à valider les **solutions**, "c'est ça le problème." L'antériorité est cruciale : avant lui, des lois racistes (loi de 2004, printemps républicain, problèmes à Crayille), l'islamophobie déployée via le PS et l'UMP. "Il y a plein de lois racistes dans ce pays — il faut attendre ni Le Pen ni Macron."[^fascisationps]
+
+[^fascisationps]: [38:30](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=2310) — "il y a plein de lois racistes dans ce pays [...] toute la dynamique islamophobe, elle attend ni Macron ni Le Pen [...] c'est des choses qui se déploient dans l'ordre nationaliste français via le PS et via l'UMP"
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Application directe : la stratégie noisette reproduit celle des "gens des années 30" qui voulaient "se réunir vers le centre pour combattre le fascisme"
 - [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — Extension internationale : Trump via Harris, RN via Hollande/Trudeau ; formulation de la thèse sur Radio Canada
+- [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — validation des diagnostics RN sur 40 ans (PS dès 1983) ; la distinction "valider les diagnostics" vs "valider les solutions" ; Macron comme aboutissement d'une dynamique longue

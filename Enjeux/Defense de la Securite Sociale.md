@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: write-enjeu-2026-04-21-enrichi-w37w38
+skill_version: write-enjeu-2026-04-21-enrichi-w43w44
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -68,6 +68,20 @@ La crise des urgences n'est pas due aux patients étrangers — c'est une pénur
 ### 8. La fermeture des services hospitaliers
 
 Sous Macron : **30 000 lits fermés**. La [[Tarification a l acte|tarification à l'acte]], introduite par le PS, transforme les hôpitaux en entreprises qui coupent des services quand ils ne sont pas rentables — même quand la dégradation des soins coûte finalement plus cher. La fermeture de centres d'accueil de crise psychiatrique en est l'exemple le plus frappant.[^6]
+
+### 9. Le CAC Ginette Amado : cas d'école de la psychiatrie ambulatoire liquidée
+
+[[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] documente un cas concret de la destruction par la coalition PS-macroniste-LR : le [[Centre d accueil de crise|CAC]] Ginette Amado (GHU Paris 14e arrondissement). Le paradoxe est sanglant : inauguré dans les locaux du Sénat par [[Gerard Larcher]] lui-même il y a dix ans, il est fermé par les mêmes alliés macronistes et LR. La restructuration prévue : fin de l'accueil de nuit et du week-end, suppression de la totalité des lits d'hébergement.
+
+Ce que le CAC représentait concrètement : zéro contention en pratique, pas d'isolement, équipe pluridisciplinaire 24h/24. Ce qu'il remplacera : aux urgences générales, 10 à 12 heures d'attente pour un risque psychiatrique, dans un contexte inadapté, sans psychiatre avant le lundi si l'entrée a lieu un vendredi.
+
+La PaduTeam formule la loi du secteur psychiatrique : chaque secteur devrait couvrir 100 000 habitants, il en couvre en réalité le double. La santé mentale n'est pas un problème médical — ses causes sont politiques. 40 à 50 % des consultations en psychiatrie adolescente cachent un trauma sexuel. Les centres de psychotrauma ont 18 mois d'attente. "Si tu veux faire de la santé mentale, il faut pas faire un budget qui fait que les gens vont devoir crever au travail."
+
+### 10. Le mensonge gestionnaire comme technique d'assassinat
+
+Le Cornu affirme avoir mis "trop d'argent" dans les hôpitaux et montre un hôpital neuf à Mâcon comme preuve. La PaduTeam démonte le sophisme : un exemple isolé ne dit rien d'un système. Le bilan réel : 30 000 lits fermés pendant que la génération baby-boom (née dans les années 40) entre massivement en grand âge et a besoin de soins intensifs. "Ces gens ne sont pas de bons gestionnaires. C'est pas vrai. Ils vous mentent toute la journée."
+
+L'argument sur les masques Covid sous Pannier-Runacher (contrat avec le Slip Français pour des masques en tissu inutilisables) illustre la même logique : les décisions se prennent sans consulter les professionnels, le résultat est catastrophique, mais le discours reste "bonne gestion." Ce n'est pas de la mauvaise gestion — c'est la gestion délibérée d'un système au profit d'une classe.
 
 ## L'alliance des "assassins"
 
@@ -172,6 +186,14 @@ Les données de mortalité différentielle par métier (infographie "Adama") ré
 
 La conclusion communiste de la PaduTeam dépasse l'ajustement d'âge : le vrai enjeu est de construire une [[Division du travail]] moins violente, moins totale — avec une répartition maximale des tâches entre tous et l'abolition des tâches les plus destructrices par la technique et le collectif.
 
+## La sécurité sociale de l'alimentation : mesure anticapitaliste sans programme — octobre 2025
+
+[[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] (oct. 2025) fournit un argument supplémentaire à l'enjeu : même une mesure réellement anticapitaliste peut être proposée de façon incohérente si elle n'est pas articulée à un programme capable de la tenir.
+
+La PaduTeam reconnaît la sécurité sociale de l'alimentation de [[Marine Tondelier]] comme "vraiment une mesure anticapitaliste" et la concède. Mais Tondelier est incapable d'en articuler les implications : sortir certains secteurs du marché, réorienter les circuits de financement publics, affronter l'Europe. Quand on lui pose une question de financement (1 milliard 400 millions pour la suspension des retraites en 2027), elle "bafouille pendant 40 minutes" sans répondre.
+
+Le point clé pour l'enjeu : la Sécurité Sociale de 1945 a été construite par des résistants communistes armés qui ont imposé le rapport de force au patronat — pas avec "de la douceur." La sécu alimentaire proposée par Tondelier reproduit le mécanisme inverse : une mesure empruntée à l'agenda de la gauche de rupture, portée sans le programme ni le rapport de force nécessaires pour l'imposer. Ce cas illustre la loi générale que la fiche défend : les conquêtes sociales ne viennent pas de la bonne volonté — elles viennent du rapport de force.
+
 ## Le projet de privatisation de Marion Maréchal comme révélateur
 
 [[Marion Marechal|Marion Maréchal]] agite le chiffre de 800 milliards de dépenses publiques comme argument de privatisation. La PaduTeam déconstruit : privatiser ne réduit pas la dépense, elle la déplace vers les ménages en l'alourdissant. Si ces 800 milliards n'étaient pas publics, ils coûteraient 1 200 milliards en charges privées. Les données comparatives santé le confirment : États-Unis à 18% du PIB pour une espérance de vie inférieure à la France (et à Cuba), contre 12% en France. La Sécurité sociale (97% des cotisations vers les soins, 3% de frais de gestion) est structurellement plus efficace que les assurances privées (78% vers les soins, 22% de frais chez AXA). Le programme Maréchal ne "libère" pas — il facture plus cher pour moins de soin.
@@ -189,7 +211,7 @@ La conclusion communiste de la PaduTeam dépasse l'ajustement d'âge : le vrai e
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD ; le mythe des "faux arrêts de travail" (les gens sont mis en arrêt par un médecin, pas par eux-mêmes) ; les jours de carence comme politique contre-productive (arrêts plus longs, contaminations en chaîne) ; la loi fin de vie combinée aux attaques sur les ALD comme logique macroniste cohérente : "vous avez le libre choix" de mourir quand vous ne pouvez plus vivre dignement
 - [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — validisme du travail capitaliste comme nécessité matérielle du capital (pas discrimination arbitraire) ; la rotation des intérimaires comme preuve de l'intenabilité du travail précaire ; l'inversion de Praud : retourner la conscience ouvrière contre elle-même ; la praxis collective (récurer des chiottes) comme moteur du changement de conscience — pas le discours
-- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu
+- [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — bilan de la coalition anti-Sécu : T2A introduite par le PS, cercle vicieux hospitalier documenté, CAC Ginette Amado comme cas d'école de la psychiatrie ambulatoire liquidée, mensonge gestionnaire Le Cornu démonté, 30 000 lits fermés chiffrés et contextualisés, déterminants sociaux de la santé mentale formulés.
 - [[NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE]] — attaque sur l'universalité
 - [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]] — le [[Ratchet droitier sur les droits du travail|ratchet droitier]] comme mécanisme itératif formulé explicitement dès l'introduction ; démontage médical et statistique par Zoé (données DARES, taux d'arrêt par corps de métier, artefact Covid) ; thèse de la soumission comme finalité réelle de la mesure au-delà de l'argument gestionnaire
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — pénurie organisée de médecins depuis 30 ans comme vraie cause de la crise des urgences ; impossibilité du flux tendu en santé ; le racisme d'État (argument "Mamadou") comme cache-misère du désastre néolibéral hospitalier
@@ -201,6 +223,7 @@ La conclusion communiste de la PaduTeam dépasse l'ajustement d'âge : le vrai e
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — le PLFSS Barnier comme vecteur concret de privatisation par les complémentaires ; chiffres 3-4% vs 21-22% de frais de gestion ; 5,6 milliards d'économies potentielles vs 1 milliard de la mesure phare ; bronchiolite et surcharge pédiatrique comme conséquence directe des 30 000 lits fermés ; [[Nicolas Bouzou]] comme exemple de la classe des économistes qui "ont toujours tort" et n'en subissent jamais les conséquences
 - [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] — validisme comme logique capitaliste de tri (IME → ESAT → AAH) ; psychiatrisation du social ; bipolarité comme fait de classe (règles hygiéno-diététiques comme privilège) ; critique du témoignage bourgeois individualisé ; LFI insuffisante sur la question du handicap (plus de places en ESAT = prolonger la ségrégation)
 - [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — démonstration comparative par l'absurde : 18-20 % du PIB US vs 12 % FR pour 5 ans d'espérance de vie en moins ; 27 % de remboursements refusés chez UnitedHealthcare ; "delay, deny, defend" comme manuel de l'assureur prédateur ; la logique capitaliste produit mécaniquement le désastre — pas les "méchants dirigeants" mais la structure ; crise des opioïdes comme second cas de la violence structurelle du capitalisme pharmaceutique
+- [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — la sécurité sociale de l'alimentation comme mesure anticapitaliste réelle portée sans programme capable de la tenir ; la Sécu de 1945 construite par des résistants communistes armés, pas avec de la douceur ; la conquête sociale implique le rapport de force, pas la bonne volonté
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"
 [^2]: [11:24](https://www.youtube.com/watch?v=jtDb2meKMn8&t=684) — "la fraude massive qui existe en France qui est estimée entre 80 et 100 milliards d'euros par an, c'est la fraude fiscale"

@@ -84,6 +84,16 @@ Avec [[Marine Le Pen]] condamnée et inéligible immédiatement (mars 2026), Bar
 
 La PaduTeam : "Bardella, ça aucun intérêt pour lui trahir... il va juste partir avec quelques classiques du RN pour faire une union des droites avec Retailleau. Il sera accueilli les bras ouverts. Il sera accueilli comme un prince."
 
+## Bardella = Milei (oct. 2025)
+
+Lors d'une émission télévisée en octobre 2025, Bardella déploie un programme libertarien complet — reduction des agences publiques, des ARS, du nombre de fonctionnaires — pendant que Marine Le Pen, dans la même émission, refuse de réduire les fonctionnaires. La PaduTeam commente : "Il monte au créneau, il va tuer la chef." Bardella donne des "gages au MEDEF" que Le Pen refuse de donner — révélant que les deux candidats jouent pour des électorats incompatibles[^bardella-milei].
+
+La PaduTeam démonte le programme Bardella sur la santé : réduire le "personnel non soignant" est une "vue de l'esprit" — sans administratifs, logisticiens, maintenance, le soin ne fonctionne pas. La sous-traitance coûte *plus* cher car le profit patronal s'y ajoute. Les libertariens "ne comprennent pas comment on organise le travail de manière efficace et efficiente."
+
+Son contre-budget présenté le 23 octobre vise 4 milliards d'économies — "même les libertariens en dessous se foutent de sa gueule en mode 4 milliards, c'est pas assez."
+
+[^bardella-milei]: [20:30](https://www.youtube.com/watch?v=YWEjQQLMKbA&t=1230) — "je dois donner des gages au MEDEF alors que l'autre fait n'importe quoi avec son truc national euh protectionniste"
+
 ## Vidéos
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud : Bardella remis au premier plan par la condamnation, plus libéral que Le Pen, peut s'allier avec Retailleau — appel d'air droitier
@@ -101,4 +111,5 @@ La PaduTeam : "Bardella, ça aucun intérêt pour lui trahir... il va juste part
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Comparé à Louis Sarkozy : Bardella "a au moins un parcours" même si arriviste ; a des chances de devenir président, Louis Sarkozy aucune
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Dilemme électorat incompatible (populaire RN vs libéral-patronal) ; image de gendre idéal comme outil de Le Pen ; prophétie barbe ; distinction mélonisme (Bardella) vs trumpisme (Le Pen)
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — tweet de condoléances qualifiant l'attentat d'"islamiste" alors que l'auteur est un apostat affilié à l'AFD ; complicité idéologique désignée
-- [[LECORNU DEJA CENSURE]] — effacement de Bardella dans la séquence Lecornu II (c'est Le Pen qui prend les devants, "on l'a très peu vu") ; tension ligne Bardella (non-bordéliser, droite de gouvernement) vs ligne Marine/Tanguy (opposition frontale) ; la PaduTeam diagnostique que ce double jeu est intenable à terme
+- [[LECORNU DEJA CENSURE]] — effacement de Bardella dans la séquence Lecornu II
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Programme libertarien Milei (réduction agences, ARS, fonctionnaires) opposé à la ligne Le Pen ; gages au MEDEF ; contre-budget 23 oct. 4 milliards ; mélonisme en acte (c'est Le Pen qui prend les devants, "on l'a très peu vu") ; tension ligne Bardella (non-bordéliser, droite de gouvernement) vs ligne Marine/Tanguy (opposition frontale) ; la PaduTeam diagnostique que ce double jeu est intenable à terme

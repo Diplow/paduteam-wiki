@@ -36,6 +36,13 @@ La PaduTeam signale un second glissement cousinnien : après avoir utilisé l'ar
 
 La PaduTeam s'appuie sur le concept opposé de [[Choc d'abondance]] pour montrer que la pénurie n'est pas naturelle mais socialement produite : l'abondance existe et est captée par les classes dominantes.
 
+## Application : le non-sens marxiste anti-immigration
+
+Dans [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]], la PaduTeam énonce directement la thèse : "Si l'immigration a un effet négatif sur le salaire des travailleurs locaux, c'est seulement d'un point de vue capitalistique et non d'un point de vue anticapitaliste. Donc utiliser le concept marxiste de l'armée de réserve du capital pour critiquer l'immigration est un non-sens."[^sardoche_armee] Ce n'est jamais l'immigré qui fait baisser les salaires — c'est le capital qui veut toujours payer la force de travail le moins cher possible. L'outil (chômeurs, allocataires du RSA, stagiaires, immigrés) change ; le mécanisme reste le même. S'attaquer à l'outil plutôt qu'au capital, c'est "attaquer aux effets plutôt qu'à la cause."
+
+[^sardoche_armee]: [48:12](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=2892) — [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — "utiliser le concept marxiste de l'armée de réserve du capital pour critiquer l'immigration est un non-sens"
+
 ## Vidéos où le concept est développé
 
 - [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — Exposé du concept et critique du détournement cousinnien ; distinction entre usage marxiste et grand remplacement marxien
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — formulation directe : utiliser l'armée de réserve pour critiquer l'immigration est un non-sens anticapitaliste

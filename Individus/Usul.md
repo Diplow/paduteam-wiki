@@ -55,7 +55,18 @@ Le trotskisme de la deuxième génération internet (Usul, une partie du NPA) es
 
 La PaduTeam appelle les militants FI plus jeunes, attirés par Usul sur des questions féministes et antiracistes, à **résister à cette contamination** : on peut apprécier son travail sur d'autres sujets sans suivre sa ligne belliciste.
 
+## Le débat Luma sur l'humour de droite (octobre 2025)
+
+Avant la rupture consommée sur le bellicisme, la PaduTeam avait déjà documenté une divergence de méthode avec Usul : lors d'un débat à Luma sur "l'humour comme arme politique", Usul met publiquement au pied du mur Pierre-Antoine Valade, journaliste animateur du panel, pour avoir regardé des vidéos de [[Papacito]] sans manifester de dégoût viscéral. Usul dit explicitement que "sa décontraction est suspecte." [[Cly Marx]] adopte une position similaire mais avec une intensité moindre.
+
+La PaduTeam contextualise la réaction d'Usul : Papacito l'a directement visé (mannequin poignardé à son effigie), ce qui rend sa réaction viscérale compréhensible. Mais en la transposant en norme universelle pour la gauche, Usul bascule dans "l'onanisme intellectuel" — il ne dit rien, ne fait rien, ne transforme rien. Il reste dans le registre affectif sans entrer dans la signification politique[^usul_luma].
+
+Cette posture est comparée à l'antifascisme de lycée : aller à la manif le 21 avril 2002 pour se mettre une médaille sans avoir rien à faire de l'élection dix jours avant. "Mode de lutte antifasciste du lycée." La PaduTeam lui oppose l'analyse matérialiste d'[[Alexandre Jafari]] sur les 7 ressorts du [[Humour de droite comme pipeline]].
+
+[^usul_luma]: [16:30](https://www.youtube.com/watch?v=3i1WdOAscvg&t=990) — "C'est du pur affect. Ça ne dit rien, ça ne fait rien, ça ne transforme rien. C'est juste ça se fait plaisir à lui-même."
+
 ## Sources
+- [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — débat Luma, posture morale contre Pierre-Antoine, rejet par la PaduTeam de l'antifascisme affectif
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Usul attaqué par [[Marc-Antoine Jamet]] (maire PS de Val-de-Reuil + secrétaire général LVMH) pour ses anciennes vidéos de jeux vidéo et une fuite d'une vidéo intime consentie. La PaduTeam prend la défense d'Usul et démonte le profil de Jamet comme incarnation de la dégénérescence PS.
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]]

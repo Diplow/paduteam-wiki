@@ -40,6 +40,7 @@ La PaduTeam diffuse une archive de Duhamel encore étudiant à Sciences Po en tr
 ## Vidéos où Benjamin Duhamel est analysé
 
 - [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Déconstruction de sa généalogie médiatique et de sa technique d'intimidation ; archivage de l'échange de 2012
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Interviewe Marine Le Pen sur France Inter (oct. 2025) ; la PaduTeam note qu'il est "vachement plus sympa avec elle" qu'avec Mélenchon ; absence d'arrêt maladie après l'épisode du "doigt d'honneur"
 
 [^genealogie]: [23:16](https://www.youtube.com/watch?v=33j6Pv7BzOo&t=1396) — "Il est fils de Patrice Duamel ancien directeur général de France Télévision et de Nathalie Saintcric ancienne chef du service politique de France 2. La famille est actionnaire majoritaire dans le groupe de la nouvelle République du Centre-Ouest."
 [^selection]: [30:27](https://www.youtube.com/watch?v=33j6Pv7BzOo&t=1827) — "Tu es là parce que tu as hérité, tu es là parce qu'on a une société qui sélectionne des profils comme le tien qui sont des profils de débiles."

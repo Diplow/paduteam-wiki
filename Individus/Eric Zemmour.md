@@ -30,3 +30,4 @@ L'attentat de Magdebourg (décembre 2024) offre un retournement analytique que l
 ## Vidéos où Zemmour est analysé
 
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — paradoxe de l'assimilation : l'auteur de l'attentat s'est "si bien assimilé" qu'il a adopté l'idéologie islamophobe de Zemmour lui-même
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Nouveau livre préfacé par [[Eric Naulleau]] et présenté sur CNews (oct. 2025) ; thèse du "sursaut judéo-chrétien" ; "répéteur de citations, sous-Finkielkraut" ; électorat réel = grande bourgeoisie (Saint-Tropez, Neuilly, Versailles)

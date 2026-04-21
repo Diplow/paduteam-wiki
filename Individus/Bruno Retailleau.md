@@ -133,6 +133,12 @@ Retailleau joue ensuite sa carte en refusant de venir aux consultations dans le 
 
 [^ret-lecornu]: [4:39](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=279) — "Retailleau se voit encore dans une logique de... ce qu'ils appellent le pacte avec Macron mais il reste la droite [...] Le Maire lui c'est quelqu'un qui a rejoint Macron dès 2017. C'est vraiment les... pour eux c'était la ligne rouge"
 
+## Affrontement avec Wauquiez (oct. 2025)
+
+En octobre 2025, la tension entre Retailleau (président du parti) et [[Laurent Wauquiez]] (président du groupe parlementaire) éclate au grand jour. La PaduTeam décrit le schéma classique : "ligne nationale contre ligne des notables-députés, ça foire à chaque fois." Retailleau a exclu les élus LR rentrés au gouvernement de Lecornu (notamment Rachida Dati), se posant comme "l'authentique opposant" face à Wauquiez qui représente la droite de gouvernement compatible avec Macron.
+
+Sur la stratégie : Retailleau tente de "pomper l'électorat Marine Le Pen" (ligne trumpiste anti-Macron, anti-gauche), pendant que Wauquiez se positionne pour une union des droites de Philippe à Sarkozy (ligne méloniste). La PaduTeam diagnostique que Retailleau a "une radicalité et donc il va essayer d'avoir des gens [du RN]."
+
 ## Barrage anti-Mélenchon dans la partielle du Tarn-et-Garonne
 
 Dans une législative partielle dans le Tarn-et-Garonne, Retailleau appelle à ne pas voter pour la candidate NFP face à l'alliance UDR-RN. Il ne dit pas "votez RN" — il dit "pas une voix pour la gauche." La PaduTeam décrypte la posture stratégique : Retailleau se positionne exactement comme Chirac en 1981, qui avait dit "à titre personnel je ne voterai pas" pour faire élire Mitterrand contre Giscard. Objectif : éliminer Marine Le Pen en lui retirant ses votes sans se compromettre explicitement avec le RN, pour s'imposer comme seule droite d'opposition en vue de 2027[^barrage-partielle].
@@ -162,3 +168,4 @@ Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définiti
 - [[18 SEPTEMBRE ON EST LA]] — violence policière gratuite documentée en vidéo (jeune fille poussée en train de partir) ; même niveau de déploiement répressif que le 10 septembre (80-90% des effectifs) ; objectif lu comme dissuasion avant le 21 : "la police de Retailleau cherche à discréditer le mouvement, à le salir, à faire en sorte que les prochaines étapes n'arrivent pas"
 - [[LECORNU DEJA CENSURE]] — analyse de sa stratégie d'étau : refus d'entrer au gouvernement, maintien de la réforme des retraites comme ligne rouge, "stratégie Sarkozy 2007" assumée ; la PaduTeam défend qu'il "joue une carte maline" malgré les commentateurs qui le trouvent incohérent
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — appel à ne pas voter NFP dans la partielle du Tarn-et-Garonne ; stratégie Chirac 81 analysée ; confirmation de la prophétie du 2002 inversé
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Fracture avec Wauquiez ; exclusion des élus allés au gouvernement ; positionnement trumpiste pour capter l'électorat Le Pen

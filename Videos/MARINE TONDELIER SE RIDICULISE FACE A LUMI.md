@@ -40,7 +40,7 @@ React à une interview de [[Marine Tondelier]] par la journaliste Lumi à l'Huma
 | Notation LFI vs EELV par les ONG écologistes | À égalité (campagnes présidentielles) |
 
 ## Individus mentionnés
-[[Marine Tondelier]], [[Yannick Jadot]], [[Francois Ruffin]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Sandrine Rousseau]], [[Francois Hollande]], [[Alexandre Jaffari]], [[Laurent Berger]]
+[[Marine Tondelier]], [[Yannick Jadot]], [[Francois Ruffin]], [[Jean-Luc Melenchon]], [[Rima Hassan]], [[Sandrine Rousseau]], [[Francois Hollande]], [[Alexandre Jafari]], [[Laurent Berger]]
 
 ## Organisations mentionnées
 [[Europe Ecologie Les Verts]], [[Positions Revue]], [[France Insoumise]], [[Parti Socialiste]], [[CFDT]]
