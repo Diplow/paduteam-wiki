@@ -68,6 +68,10 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 - [[Collectif Nemesis|Némésis]] — a déposé une plainte contre elle pour un post relayé d'un collectif étudiant
 - Paul Vannier — l'accompagne dans l'offensive après la garde à vue
 
+## Criminalisation de la solidarité pro-palestinienne en France
+
+La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisation de la solidarité avec la Palestine en France — et la met en parallèle avec la répression physique de la Global March for Gaza en Égypte. Les deux phénomènes relèvent de la même logique : empêcher la solidarité internationale par tous les moyens disponibles (judiciaire en France, policier/militaire en Égypte).
+
 ## Vidéos où Hassan est mentionnée
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Éric Coquerel propose sa candidature à Saint-Ouen, ce qui déclenche la fureur de Bouamrane
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Épisode Karen/Tondelier : l'invitation de Rima Hassan par Mélenchon comme déclencheur de la polémique
@@ -79,3 +83,4 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 - [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Harcèlement filmé dans l'avion Tel Aviv-Paris ; analyse du discours génocidaire de la bourgeoise via Chapoutot ; asymétrie judiciaire (propos génocidaires impunis vs militants poursuivis)
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Dénonce la ligne éditoriale de BFM TV
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan
+- [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — citée parmi les actions de solidarité visibles (flotille, sit-ins) et la répression qu'elles subissent

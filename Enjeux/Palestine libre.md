@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
-skill_version: write-enjeu-2026-04-20
+skill_version: write-enjeu-2026-04-21
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 # Palestine libre
@@ -75,6 +75,7 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 
 ## Vidéos clés
 
+- [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — guide d'action pratique ; humanitaire et politique inséparables ; blocus Cuba/Gaza comme même mécanique impérialiste ; Global March for Gaza comme embryon d'internationale citoyenne ; résistance palestinienne comme point d'appui moral, pas seulement victimisation
 - [[FRANCE INFO OFFRE 10 POUR CENT AU CLUB MED GAZA]] — banalisation de la déportation comme sujet hôtelier ; licenciement d'un journaliste pour "otages palestiniens" ; logique médiatique qui traite les Palestiniens comme non-êtres ; parallèle Valence comme loi générale du traitement médiatique des catastrophes
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]] — Entretien avec [[Said Bouamama]] : centralité de la question palestinienne, renaissance du marxisme mondial, retournement du rapport de force
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]] — Bascule terminologique vers « génocide » ; critique ministres israéliens ; proposition État unique multiethnique
@@ -105,6 +106,22 @@ L'argument structurant : **le sionisme venu de gauche est plus nocif car il divi
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Les influenceurs populaires qui se mouillent pour la Palestine méritent soutien actif
 - [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — loi 2014 PS comme outil de répression des militants pro-Palestine ; proposition Bernalicis pour retransférer le délit dans le droit de la presse ; cas Delescaut, Assbague, UJFP ; LFI comme seul rempart parlementaire
 - [[Cette BOURGEOISE SIONISTE AGRE$$E RIMA HASSAN]] — harcèlement de Rima Hassan dans l'avion après le rapatriement de la flottille ; analyse du discours génocidaire via Johann Chapoutot (structure identique aux Einsatzgruppen nazis) ; sociologie de la bourgeoisie sioniste du 7e arrondissement ; menaces de mort quotidiennes comme réalité ordinaire pour Rima Hassan
+
+## La solidarité concrète comme prolongement militant
+
+La vidéo avec [[Resistance et Solidarite|Résistance et Solidarité]] (juillet 2025) introduit un angle nouveau dans l'enjeu Palestine libre : **comment agir matériellement**, pas seulement analyser ou cliver médiatiquement. La réponse de la PaduTeam est cohérente avec sa ligne générale : la solidarité humanitaire ne suffit pas — elle doit être couplée à la pression politique.
+
+- **Humanitaire et politique sont inséparables.** [[Resistance et Solidarite]] refuse l'humanitaire classique : chaque campagne de médicaments (23 000 € collectés post-octobre 2023, financement de 12 lits à Nuseirat) est systématiquement couplée à des revendications politiques — fin du blocus, rupture des accords UE-Israël, isolement d'Israël. L'argent seul ne stoppe pas un génocide ; seule la pression politique le peut.
+
+- **Le morcellement territorial comme stratégie de destruction de la société civile.** Israël a interdit 6 ONG palestiniennes en Cisjordanie pour "liens avec le FPLP" — accusations que l'UE a jugées infondées. Objectif : assécher le financement des organisations palestiniennes avant même de détruire les infrastructures. Gaza et la Cisjordanie fonctionnent en silos organisationnels forcés.
+
+- **Le blocus comme guerre à bas bruit.** La mécanique est la même à Gaza depuis 2007 et à Cuba depuis les années 1960 : l'extraterritorialité du droit américain rend impossible tout commerce international avec ces territoires. La BNP a écopé de plusieurs milliards de dollars d'amende pour des transactions en dollars avec Cuba. Des dizaines de milliers de morts sur des décennies : des guerres sans bombes.
+
+- **L'internationale citoyenne comme horizon.** Ce qui s'est formé autour de la Global March for Gaza — délégations de 50 pays, sans mot d'ordre gouvernemental ni structure politique préexistante — est l'embryon d'une réponse transnationale. La caravane Soumou (Maghreb), la flottille malaisienne, le sit-in de Bruxelles lors de la renégociation de l'accord UE-Israël : autant de nœuds d'une solidarité citoyenne à relier. "Cette espèce d'internationale citoyenne que personnellement j'appelle de mes vœux depuis longtemps."
+
+- **La résistance palestinienne comme point d'appui moral.** Face au génocide, la PaduTeam insiste pour ne pas voir les Palestiniens uniquement comme victimes : l'hôpital de Djabalia ayant reçu 6 à 7 ordres d'évacuation depuis octobre 2023 et resté jusqu'au bout incarne cette combativité. Cette résilience rend la solidarité nécessaire, pas seulement morale.
+
+- **La complicité de l'Égypte comme révélateur systémique.** La Global March for Gaza a été réprimée par des mercenaires payés 200 livres égyptiennes par jour, passeports confisqués, hôtels transformés en mouchards. L'Égypte sous Sissi est structurellement alignée sur les intérêts israéliens. Israël préfère soit des dictatures soumises, soit des États détruits — toute autonomie populaire est l'ennemi.
 
 ## La bataille médiatique des clashs pro-Palestine
 

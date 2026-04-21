@@ -37,6 +37,14 @@ Correction précise sur la définition du fétiche : Marx n'utilise pas le terme
 
 La PaduTeam identifie le fétichisme de la marchandise comme l'erreur centrale du jankovichisme : Jankovici croit que le pétrole en lui-même porte l'extraction d'énergie, comme si la raréfaction de la ressource déterminait mécaniquement l'effondrement économique. Il ne voit pas que c'est le rapport social capitaliste qui a fait du pétrole une source d'énergie — et que c'est en transformant ces rapports sociaux qu'on dépassera le problème énergétique, pas en comprimant la consommation dans les mêmes rapports de classe[^5].
 
+## Fétichisme et inefficacité du travail capitaliste
+
+La PaduTeam développe une application directe aux outils de gestion du travail dans [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] : les systèmes de ticketing (Jira, GLPI), la tarification à l'acte à l'hôpital, la politique du chiffre dans la police — tous fonctionnent selon la même logique. Une abstraction (ticket, acte, plainte) qui était initialement un rapport social utile (coordonner une intervention, financer l'hôpital) se fétichise : elle devient l'objectif en soi. Les managers ne regardent plus ce qu'il y a derrière — ils comptent les abstractions. "Les mecs, ils comptent les tickets sans se poser la question de ce qu'il y a derrière."[^6]
+
+Conséquence directe : "le fétichisme de la marchandise devient inefficient." Un médecin psychiatre consacre 2 heures sur 10 heures de consultations possibles à coter ses actes — temps de soin perdu au profit du travail abstrait. Un technicien informatique refuse les tâches complexes pour faire ses 12 tickets quotidiens. Ce résultat contre-intuitif (le capitalisme rend le travail moins efficace) est la base de la thèse que le communisme s'imposera non pour des raisons morales mais parce qu'il "fera mieux le boulot"[^7].
+
+La PaduTeam note aussi que ce fétichisme n'est pas limité au secteur capitaliste privé : même des organisations militantes peuvent en être victimes si elles adoptent des logiques de mesure quantitative ("pense en termes de cartes, fais des cartes" — un dirigeant de JC transformant le recrutement militant en comptage de cartes).
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
@@ -45,5 +53,8 @@ La PaduTeam identifie le fétichisme de la marchandise comme l'erreur centrale d
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — illustration parfaite du fétichisme de la marchandise : Yasuk possède des sacs Hermès à 10 000-50 000 € (40 mois de salaire de sa nanie) sans percevoir que la valeur d'un objet dépasse celle d'une vie humaine dans son imaginaire. La PaduTeam : "elle considère qu'un sac vaut plus que 4 ans de travail pour être avec ses enfants"
 - [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]] — Précision sur ce que le fétichisme n'est pas (complexité ≠ fétichisme) ; correction sur la métaphore du fétiche (religions archaïques, pas monothéisme) ; le Capital comme critique de la prétention de l'économie à être une science autonome
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — Application au jankovichisme : le pétrole comme ressource naturelle "en soi" vs le pétrole comme produit des rapports sociaux capitalistes
+- [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] — Application au ticketing, à la tarification à l'acte, à la politique du chiffre ; thèse de l'inefficacité structurelle comme preuve matérialiste pour le communisme
 
 [^5]: [31:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1911) — "ce n'est pas le pétrole en soi qui porte l'extraction d'énergie — c'est le monde moderne capitaliste, les rapports sociaux — c'est typiquement le fétichisme de la marchandise de Jankovici de croire que le pétrole en lui-même porte l'extraction énergétique"
+[^6]: [3:37](https://www.youtube.com/watch?v=oJJjXM92mjs&t=217) — "c'est vraiment la fétichisation de la marchandise. Normalement, le ticket est juste un rapport social [...] à la fin c'est fétichisé. Les mecs, ils comptent les tickets sans se poser la question de ce qu'il y a derrière."
+[^7]: [7:43](https://www.youtube.com/watch?v=oJJjXM92mjs&t=463) — "le communisme il va pas s'imposer simplement [...] parce qu'il était plus progressiste ou plus moral ou plus égalitaire. Non c'est aussi que c'est un mode de production qui va faire mieux le boulot."
