@@ -232,6 +232,20 @@ Le témoignage public de Zoé (janvier 2025, documentaire *Soumission chimique p
 
 Décembre 2024 voit aussi une extension de la grille féministe matérialiste à deux terrains nouveaux. D'abord le travail du sexe : l'affaire [[Lily Phillips]] permet à la PaduTeam de tester l'outil marxiste (consentement insuffisant comme catégorie d'analyse) sur un terrain où le consentement est formellement présent mais structurellement problématique. C'est la même grille que Mazan, formulée sur un terrain différent — ce qui permet de généraliser le mécanisme au-delà du non-consentement évident. Ensuite l'antiféminisme "normi" : la vidéo sur [[Louis San]] documente qu'un antiféminisme non déclaré, qui mobilise des données réelles dans un cadre qui évacue le capitalisme patriarcal, produit des effets pratiques identiques à ceux du masculinisme déclaré.
 
+## Le travail comme terrain du féminisme matérialiste — Julia de Funès et les conditions objectives du bonheur
+
+[[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]] est la démonstration la plus directe de l'articulation entre féminisme matérialiste et conditions de travail. [[Julia de Funes]] défend que le bien-être au travail est "très subjectif" et "très contingent" — la PaduTeam identifie là la technique idéologique bourgeoise centrale : rendre abstrait un problème concret pour ne pas avoir à le résoudre. En contre-point, la PaduTeam formule une thèse positive : il existe des [[Conditions objectives du bonheur]] (semaine à 32h, SMIC à 2 000€, sécurité sociale du logement et de l'alimentation) que la lutte politique peut mettre en œuvre.
+
+La vidéo articule féminisme et division du travail : ce qui semble "normal" de déléguer au bureau (nettoyer les toilettes, faire la vaisselle) est souvent délégué à une femme à la maison. Le [[Feminisme materialiste]] a montré comment la femme est "subalterne dans l'unité de production domestique" — et comment les "cartes de possibilités" offertes par la division du travail reproduisent cette domination.
+
+L'argument anti-idéologique de Zoé médecin : "ça ne m'est jamais arrivé d'avoir quelqu'un qui arrive en me disant tout va bien dans mon entreprise et pourtant je vais quand même mal" — sur des milliers d'arrêts de travail signés. La réalité est exactement l'inverse du tableau de Julia.
+
+## La lutte féministe comme lutte de longue haleine avec ses propres camarades
+
+[[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] développe la thèse que le féminisme touche l'intime là où les autres combats politiques ne touchent que l'externe. Contrairement à une position sur les 32h (qui ne change pas votre comportement personnel quotidien), le féminisme "oblige chacun à se poser la question de son propre comportement chaque jour dans sa famille, dans son couple, dans son travail." Lâcher la domination masculine est une perte réelle pour les hommes — ils ne le feront pas spontanément. "On va devoir se cartonner tout le temps avec des gens qui sont nos camarades. On ne va pas vous lâcher là-dessus. La main est tendue mais la main est ferme."
+
+Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux conditions pour qu'un retour soit légitime. (1) Tenir un discours structurellement juste sur ses actes — pas une confession punitive pour être absous, mais un discours qui permette aux autres de comprendre le mécanisme et de ne pas le reproduire. (2) Avoir mis en place des transformations concrètes de sa position (dépositionnement) pour que le comportement ne se reproduise pas. Le dépositionnement n'est pas la cancellation — c'est adapter la personne à une activité compatible avec les qualités qu'elle a démontrées.
+
 ## Vidéos clés
 
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — hiérarchie alpha/sigma comme pseudo-science naturaliste ; fonction réelle : vendre une compensation symbolique aux hommes économiquement défavorisés ; MGTOW comme aboutissement logique ; monétisation de la frustration masculine
@@ -256,8 +270,9 @@ Décembre 2024 voit aussi une extension de la grille féministe matérialiste à
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — instrumentalisation raciste de la pédocriminalité ; ASE et discours de la pénurie ; misandre de FdeSouche
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — récupération raciste des faits divers ; harcèlement de victimes ; "pas de faits divers, que des faits politiques"
 - [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — protection institutionnelle des prédateurs ; mythe du monstre ; complicité passive de Bayrou ; rapport Sauvé (330 000 victimes)
-- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation ; la parole comme acte matériel
+- [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — lutte féministe permanente y compris avec ses camarades ; conditions de la réhabilitation (discours structurel + dépositionnement) ; la parole comme acte matériel ; féminisme touche l'intime là où les autres combats ne touchent que l'externe ; "la main est tendue mais la main est ferme"
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique interne structurelle plutôt que punitivisme ; management militant toxique dans les orgas militantes
+- [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]] — idéologie bourgeoise par abstraction comme violence sociale ; conditions objectives du bonheur contre le relativisme ; division du travail patriarcal à domicile comme prolongement du travail salarié ; femme "subalterne dans l'unité de production domestique"
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — défense du féminisme matérialiste contre le féminisme essentialiste ; "Karen" comme terme antiraciste du féminisme noir
 - [[Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)]] — Dr Zoé / Lou Girard (OST) : matérialisme trans, précarité trans, autosupport, lutte de classe trans, contexte Trump
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — ATR comme antiféminisme + transphobie + validisme ; sujet révolutionnaire féminin et trans ; technique comme condition d'émancipation

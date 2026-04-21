@@ -113,7 +113,9 @@ La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Dès 
 - [[Clivage generationnel]] — quand la diagonale oui/non est perpendiculaire à la diagonale de classe, c'est un clivage générationnel ou de mode de production (et non un clivage de classe)
 
 ## Vidéos où le concept est développé
-- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice : démonstration complète du Graphique appliqué à la présidentielle 2027
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice : démonstration complète du Graphique appliqué à la présidentielle 2027. Trois graphiques mis en regard : 2002 (éparpillement total, abstention centrale transclasse, espace vide bas-gauche), 2022 (consolidation des blocs, diagonale de lutte des classes), 2027 (retour à l'éparpillement à droite, abstention déportée à droite, Mélenchon capte l'abstention populaire et monte vers les cadres). La vidéo introduit les scores chiffrés de la projection (RN 19,8 %, FI 16,86 %, PS 16,18 %, LR 13,67 %, Horizon 10,84 %) et l'abstention à 18 % historiquement basse[^graphique2027vid]
+
+[^graphique2027vid]: [30:28](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=1828) — "Voilà donc le graphique du futur. Est-ce que vous êtes prêts à voir le futur ? [...] L'abstention en 2027 est à 18 %. Voilà comment gagner. On sort du dooming."
 - [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — Défense du Graphique contre les critiques de sexisme/racisme, explication complète des dimensions tierces, validation de la méthode Google Trends (Mélenchon prédit à ~22%, résultat 21,95% ; Zemmour prédit à 7-8%, annoncé à 18%)
 - [[Debunk Graphique Bad Mulch]] — Masterclass pédagogique : réponse à [[Bad Mulch]], explication technique des axes, de la [[Diagonale de pouvoir]], et défense du matérialisme contre la pensée idéaliste
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Application du Graphique à l'analyse de la ruralité et du vote RN

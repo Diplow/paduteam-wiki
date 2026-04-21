@@ -46,6 +46,13 @@ Ses arguments principaux :
 
 Kazib articule aussi sa divergence avec la ligne Mélenchon : il est contre l'union de gauche comme stratégie permanente, car elle dilue la radicalité. Il critique notamment la décision de LFI de ressusciter le PS via le NFP. Sa stratégie préférée : construire un pôle révolutionnaire autonome, critiquer la bureaucratie syndicale, et prioritairement sortir les 57% de prolétaires qui votent RN — pas chercher des abstentionnistes.
 
+## Meeting du 4 mai 2027 : la consolidation entre les deux tours
+
+Grand meeting à Sarcelles (70 000 personnes). Kazib monte à la tribune main dans la main avec Mélenchon. Moment symbolique décisif : la gauche radicale se range derrière la candidature FI, sans ambiguïté. La PaduTeam décrit cet événement comme "absolument fabuleux"[^meeting].
+
+[^meeting]: [37:48](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2268) — "On va voir Anas entre les deux tours dans un meeting de Jean-Luc Mélenchon. [...] un grand meeting à Sarcelles, Jean-Luc Mélenchon, 70 000 personnes, avec Anas à la tribune, main dans la main avec Jean-Luc."
+
 ## Vidéos
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Rôle de polarisateur à gauche au 1er tour 2027 (4,72 %, 500 signatures de Mélenchon, fracasse Le Pen et Retailleau en débat) ; meeting Sarcelles 4 mai 2027 avec Mélenchon
 - [[ANASSE KAZIB ATOMISE MADURO]] — Sa position "dictateur 100% anti-ouvrier" déconstruite comme occidentalocentrisme trotskiste
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Débat sur le tournant nationaliste de PDH et la stratégie de classe

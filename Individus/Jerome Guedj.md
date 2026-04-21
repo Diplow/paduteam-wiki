@@ -41,5 +41,32 @@ La vidéo lie l'intervention de Guedj au congrès au contexte plus large : le MJ
 - [[Jean-Luc Melenchon]] — inimitié personnelle et politique ancienne
 - [[Bernard Cazeneuve]] — même tendance
 
+## Trajectoire PRS → PS : l'opportuniste du congrès de Reims (2008)
+
+La PaduTeam retrace en détail la trajectoire de Guedj dans la vidéo [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]]. Guedj était membre de la tendance PRS (Pour la République Sociale) fondée par Mélenchon au PS début des années 2000 — une tendance anti-traité constitutionnel européen, positionnée à gauche du PS contre la ligne de Chevènement droitière. Au congrès de Reims en 2008, après l'échec définitif de la ligne Mélenchon dans le PS (la candidature royale + l'élection de Sarkozy avaient fermé la fenêtre), Mélenchon quitte le PS pour fonder le Parti de Gauche. PRS fourni **80 % des fondateurs du PG**. Guedj fait partie des très rares figures importantes de PRS à rester au PS.
+
+La PaduTeam : "On a vu l'opportuniste Jérôme Guedj rester. C'est une trahison de la part de Jérôme Guedj — il ne l'aurait pas dit comme ça dans ce reportage." La lecture est explicitement politique, pas personnelle : rester au PS en 2008, "c'est ce qui allait donner Hollande, Valls — c'est cette ligne politique là."
+
+Guedj est cité comme l'une des quelques personnalités importantes de PRS à ne pas rejoindre Mélenchon (avec Marie-Noël Lienemann). Mélenchon avait commenté à l'époque : "après la catastrophe atomique, il restera les cafards et Marie-Noël Lienemann" — formule ambiguë (compliment ou insulte) que la PaduTeam restitue sans tranchement.
+
+## Mélenchon comme "fils spirituel" : une dépolitisation journalistique
+
+Le reportage France 2 présente la rupture entre Guedj et Mélenchon comme la fin d'une "réelle amitié", Mélenchon considérant Guedj "comme son fils spirituel". La PaduTeam retourne la grille : présenter une ligne politique comme une amitié brisée, c'est dépolitiser. "Faut arrêter cette espèce de truc comme quoi on pourrait séparer l'homme du politique. Ce que vous faites avec des gens vous conditionne." En politique militante, la rupture de ligne *crée* la rupture affective — pas l'inverse.
+
+## Rôle dans la NUPES et la retraite à 64 ans (2022-2023)
+
+Guedj incarne la ligne pro-vote de l'article 7 (recul de l'âge légal de 62 à 64 ans) lors du débat parlementaire sur la réforme des retraites en janvier-mars 2023. Il accuse Mélenchon d'avoir "fait voler en éclat" un accord d'un tweet. La PaduTeam déconstruit : (a) la position insoumise était tranchée par **un vote du groupe parlementaire FI**, pas par un tweet[^vote] ; (b) Guedj était "sûrement d'accord avec les insoumis qui s'appelaient Clémentine Autain, Raquel Garrido, Daniel Simonet" — c'est-à-dire une minorité du groupe, pas le groupe lui-même[^minorite]. La stratégie FI (20 500 amendements pour gagner du temps et laisser la grève faire pression) était politiquement cohérente face à un mouvement social "énorme" — transports, raffineries, éducation nationale — alors que 90 % des Français s'opposaient à la réforme.
+
+Guedj jouait sur les deux tableaux : "ils savaient très bien que la FI ne ferait pas ça, c'est pour ça qu'ils ont essayé de faire que ce soit la FI qui quitte la NUPES." L'objectif était de se dégager de l'orbite Mélenchon sans en assumer la responsabilité politique.
+
+## La comparaison Mitterrand/Che Guevara : un numéro bidon
+
+Guedj formule dans le reportage une punchline préparée : "J'attendais de toi que tu fasses Mitterrand, tu as fait Che Guevara." La PaduTeam la démonte sur deux plans : (a) Mitterrand en 1971 n'a pas "rassemblé" en faisant des concessions — il a pris la ligne la plus à gauche (CERES de Chevènement), fait un discours "celui qui n'est pas pour la rupture ne peut pas être socialiste", et *ensuite* construit le programme commun avec le PCF. Guedj inverse la séquence ; (b) si Guedj voulait vraiment cette unité-là, il aurait dû "dire ce qu'on vient de dire : congrès de refondation et alignement de tout le monde sur le programme de l'avenir en commun. Jamais Guedj n'a parlé de refondation."[^refondation]
+
 ## Vidéos où Guedj est analysé
 - [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Discours du congrès ; analyse de la laïcité comme code islamophobe ; double poids de mesure ; purge MJCF Nord-92
+- [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Trajectoire PRS/PG/NUPES ; trahison politique de 2008 ; démontage de l'accusation sur l'article 7 ; fausse comparaison Mitterrand/Guevara ; stratégie de sortie par Gaza
+
+[^vote]: [35:16](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2116) — "la position insoumise, elle est tranchée par un vote du groupe insoumis"
+[^minorite]: [35:02](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2102) — "il était sûrement d'accord avec les insoumis qui s'appelaient Clémentine Autain, Raquel Garrido, Daniel Simonet — ils étaient sûrement d'accord entre eux, mais pas avec d'autres insoumis"
+[^refondation]: [29:28](https://www.youtube.com/watch?v=5d_O04ofrhw&t=1768) — "si Guedj voulait vraiment cette unité dont il parle de Mitterrand en 71, il aurait dû dire congrès de refondation [...] Jamais Guedj n'a parlé de refondation"

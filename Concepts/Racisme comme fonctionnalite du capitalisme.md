@@ -3,6 +3,7 @@ type: concept
 domaine: [théorie, économie, société]
 thèmes: [racisme-antiracisme, travail]
 aliases: [Racisme comme fonctionnalité du capitalisme]
+skill_version: ingest-2026-04-21
 date created: Friday, April 3rd 2026, 2:31:33 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
@@ -24,7 +25,10 @@ C'est de là que naît le racisme moderne — non pas d'une xénophobie ou d'une
 
 Si le racisme a une cause matérielle, il a une fin matérielle possible. La tâche du progressiste n'est pas de "gérer" le racisme ou de promouvoir "l'égalité entre les races" — c'est d'**abolir la race**, de la même manière que le servage a été aboli quand ses conditions matérielles ont disparu.
 
-"Nous ne sommes pas pour la gestion du racisme. Nous sommes pour l'abolition de la race de la même manière que nous sommes pour l'abolition de la classe." (La PaduTeam)
+"Nous ne sommes pas pour la gestion du racisme. Nous sommes pour l'abolition de la race de la même manière que nous sommes pour l'abolition de la classe."[^abolition] La race, la classe, le genre : "des agencements historiques, des formes de division de l'humanité [...] Ce sont des choses qui doivent être abolies."[^abolition2]
+
+[^abolition]: [18:38](https://www.youtube.com/watch?v=sGjOpM5NjWM&t=1118) — formulation centrale de la PaduTeam dans le commentaire du documentaire Street Press.
+[^abolition2]: [19:08](https://www.youtube.com/watch?v=sGjOpM5NjWM&t=1148) — "La race, la classe, le genre sont des agencements historiques, des formes de division de l'humanité dont l'humanité s'est servie pour se développer avec de la violence ou non. Ce sont des choses qui doivent être abolies."
 
 ## Contre l'idéalisme
 

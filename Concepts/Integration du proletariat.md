@@ -22,10 +22,12 @@ La force révolutionnaire du prolétariat à son apogée tient à deux facteurs 
 Quand le capitalisme moderne lui accorde des institutions (syndicats, partis, État-providence), le prolétariat devient plus réformiste : il a un peu "la main" sur la société, mais cela le rend aussi plus conservateur sur ses acquis.
 
 ## Débat historique
-Débat fondamental de la fin de la IIe Internationale :
-- **[[Eduard Bernstein]]** : l'intégration est réelle → transformation réformiste possible
-- **[[Rosa Luxemburg]]** : spontanéité révolutionnaire, l'intégration n'est pas fatale
-- **[[Lenine]]** : Bernstein a raison sur le constat, mais la réponse est le **parti d'avant-garde** — des professionnels de la révolution qui maintiennent la conscience de classe malgré l'intégration
+Débat fondamental de la fin de la IIe Internationale, d'abord en Allemagne — le pays capitaliste le plus avancé d'Europe, donc le premier à voir cette intégration :
+- **[[Eduard Bernstein]]** : l'intégration est réelle, le prolétariat va progressivement transformer le capitalisme en socialisme réforme par réforme → révisionnisme
+- **[[Rosa Luxemburg]]** : spontanéité révolutionnaire, l'intégration n'est pas fatale, le prolétariat peut maintenir sa capacité révolutionnaire
+- **[[Lenine]]** : Bernstein a raison sur le *constat* — le prolétariat s'intègre tendanciellement. Mais la réponse n'est pas le réformisme, c'est le **parti d'avant-garde** : des professionnels de la révolution qui maintiennent la conscience révolutionnaire contre l'intégrationnisme. "Il est attiré vers le bas et l'avant-garde c'est la main qui le retient vers l'intégrationnisme par la conscience de classe, par les professionnels de la révolution et par le parti." Lénine "sort de la contradiction" réforme/révolution : oui réforme, donc parti, donc révolution.
+
+Cette synthèse s'applique également à la tradition radicale noire américaine : l'évolution d'[[Angela Davis]] de sa période révolutionnaire vers une pensée plus réformiste suit exactement la même logique matérialiste — elle n'a pas changé d'opinion arbitrairement, sa position sociale a changé.
 
 ## Application au Graphique
 Le [[Graphique]] ([[Conscience et sujets collectifs]]) est l'application de cette analyse : différentes fractions du prolétariat (cadres, professions intermédiaires, employés, ouvriers) ont des niveaux d'intégration différents et donc des niveaux de "[[Conscience possible]]" différents. On ne peut pas proposer le même programme à toutes.

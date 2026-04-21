@@ -28,8 +28,19 @@ Dans chaque cas, la contrainte présentée comme naturelle est en réalité le r
 
 ## Application au [[Mythe du deficit de la Secu|mythe du déficit de la Sécu]]
 
-Le néolibéralisme capture même l'énergie anti-riche en la retournant contre la Sécu universelle : "Les riches ne devraient pas bénéficier de la même Sécu que les pauvres." Ce discours, qui *paraît* de gauche, brise l'universalité et installe la médecine à deux vitesses — résultat final identique à l'attaque frontale.
+Le néolibéralisme capture même l'énergie anti-riche en la retournant contre la Sécu universelle : "Les riches ne devraient pas bénéficier de la même Sécu que les pauvres." Ce discours, qui *paraît* de gauche, brise l'universalité et installe la médecine à deux vitesses — résultat final identique à l'attaque frontale.[^2]
+
+## La logique pénuriste comme activateur du [[Pacte raciste]]
+
+La pénurie n'est pas seulement un discours économique — c'est le terreau du [[Pacte raciste]]. "On est typiquement dedans : il n'y en a pas assez pour tout le monde." C'est exactement dans ce cadre que la logique raciale prend son efficacité : si le gâteau est trop petit, il faut choisir qui y a accès. La logique pénuriste sur la Sécu peut ainsi produire le même effet que sur le logement ou l'emploi : "les étrangers abusent du système."
+
+## La logique pénuriste et la [[Resilience ouvriere comme matiere a resistance|résilience ouvrière détournée]]
+
+La logique pénuriste est l'outil principal par lequel le néolibéralisme capte la solidarité ouvrière pour la retourner contre elle-même. "Moi je préfère travailler 2 ans de plus pour que mes enfants aient droit à la retraite" — cette formule illustre comment la capacité collective des travailleurs est mobilisée par le discours pénuriste pour faire accepter les régressions sociales.[^3]
 
 ## Vidéos clés
 
-- [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage de la logique pénuriste appliquée au "déficit" de la Sécu
+- [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage de la logique pénuriste appliquée au "déficit" de la Sécu ; capture de l'énergie anti-riche contre l'universalité ; paradoxe de la résilience ouvrière
+
+[^2]: [8:52](https://www.youtube.com/watch?v=jtDb2meKMn8&t=532) — "le néolibéralisme va capter... l'anti-riche pour remettre en question le système universel de la sécurité sociale"
+[^3]: [9:53](https://www.youtube.com/watch?v=jtDb2meKMn8&t=593) — "Moi je préfère travailler 2 ans de plus mais que mes enfants ils aient droit à la retraite"

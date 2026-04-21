@@ -58,9 +58,9 @@ Suite à la mort de [[Quentin Deranque]], Macron, Glucksmann et Garrido l'attaqu
 
 Suite aux aveux de violences conjugales d'[[Adrien Quatennens]] (gifle + violences plus larges), Mélenchon tweete : "Je salue sa dignité et son courage. Je lui dis ma confiance et mon affection." Il utilise la formule "faute avouée à moitié pardonnée" dans sa défense.
 
-La PaduTeam qualifie ce tweet de catastrophique : il met à égalité Quatennens et son ex-femme, gomme l'asymétrie profonde (économique, psychologique) qui structure la violence conjugale. La formule "faute avouée à moitié pardonnée" présuppose que l'aveu seul suffit — sans dépositionnement ni transformation réelle.
+La PaduTeam qualifie ce tweet de catastrophique : il met à égalité Quatennens et son ex-femme, gomme l'asymétrie profonde (économique, psychologique) qui structure la violence conjugale. La formule "faute avouée à moitié pardonnée" présuppose que l'aveu seul suffit — sans [[Depositionnement vs cancellation|dépositionnement]] ni transformation réelle. C'est l'erreur de la [[Justice transformatrice]] mal comprise : utiliser le registre de la réhabilitation pour éviter tout parcours de transformation réelle.
 
-Position PaduTeam : "Je pense que c'est le meilleur candidat pour 2027 et s'il se présente je ferai sa campagne. Mais à chaque fois qu'il y aura une question de VSS, je vais fortement regarder comment il se positionne."
+Position PaduTeam : soutien maintenu pour 2027 malgré la critique sans concession — "Je pense que c'est le meilleur candidat pour 2027 et s'il se présente je ferai sa campagne. Mais à chaque fois qu'il y aura une question de VSS, je vais fortement regarder comment il se positionne." La cohérence exige que la critique féministe vaille aussi pour ses propres camarades de lutte.
 
 ## Communiqué post-condamnation Le Pen (mars 2026)
 
@@ -111,6 +111,35 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[Frederic Lordon]] — convergence analytique sur 2027 malgré des désaccords théoriques
 - [[Anasse Kazib]] — à gauche de Mélenchon, son existence potentielle renforcée à 6% signifierait que la FI est "recentrée" dans le paysage = hégémonie de gauche en construction
 
+## Tournée internationale 2025 (Québec → États-Unis)
+
+Mélenchon effectue un séjour à Montréal en 2025 (conférence à l'université, meeting en salle "en feu" quand il prononce le mot communisme) avant de rejoindre les États-Unis où son livre est traduit en anglais. Il rencontre [[Quebec Solidaire]]. La PaduTeam lit ce déplacement comme un test grandeur nature de la stratégie pour 2027 : les deux jambes (communisme + antisystème) fonctionnent devant un public non-diabolisé.
+
+Sur Radio Canada (une des radios les plus écoutées du Québec), il délivre ce que la PaduTeam appelle une "masterclass" :
+
+- Il rappelle les chiffres qui ne mentent pas : PS à 1,67% en 2017, LFI les "sort du néant" pour les faire élire à une trentaine puis une cinquantaine — et eux refusent de voter les motions de censure ("couchés comme d'habitude").
+- Il refuse la psychologisation de Trump ("arrêtez les analyses psychologiques, il a une cohérence") et analyse structurellement : défense de la domination US face à la Chine comme premier producteur mondial, crise du dollar, expansionnisme pour les ressources arctiques.
+- Il formule la [[Fascisation par echec de la gauche reformiste|thèse de la fascisation]] en termes universels : "Si vous avez Trump c'est parce que vous avez eu Kamala Harris" ; "partout en Europe, derrière les sociaux-démocrates, c'est des fascistes."
+- Il chiffre l'[[Eclatement du bloc central]] : le bloc PS+UMP faisait 60% en 2007/2012, il fait 20% aujourd'hui.
+
+La force de l'interview tient au terrain : les journalistes québécois ne le diabolisent pas, ce qui lui permet de dérouler sans résistance. La PaduTeam en tire une leçon stratégique : sur un terrain non-hostile, la ligne radicale est naturellement hégémonique.
+
+## Stratégie programmatique 2027 : le travail comme pivot
+
+Pour passer au second tour tout en gardant ses deux électorats (classes populaires et cadres), Mélenchon place la **semaine à 32 heures** au centre absolu de son programme, avec la 6e semaine de congés payés et la qualité au travail (réappropriation, lutte contre le chômage). Le SMIC à 2 000 € brut (1 800 € net) maintient le socle populaire. Cette combinaison est précisément construite pour produire le [[Vote cache]] des cadres : des professions intermédiaires qui ne peuvent pas assumer publiquement leur vote mais glissent le bulletin dans l'isoloir pour "gratter le petit vendredi, gratter le petit lundi"[^travail2027].
+
+[^travail2027]: [33:37](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2017) — "Mélenchon on vous l'a dit a mis la semaine à 32h au centre de son programme [...] il a continué de garder les classes populaires parce qu'il n'a rien renié sur le SMIC."
+
+## Larmes pour Aboubakar Cissé (2025) — le courage politique de l'empathie
+
+Lors de la manifestation Place de la République après la mort d'[[Aboubakar Cisse|Aboubakar Cissé]], Mélenchon prend dans ses bras une femme musulmane qui exprime sa peur. Cette image devient pour la PaduTeam le symbole d'un courage politique rare : en 2025, aller manifester contre l'islamophobie et nommer le crime comme tel "te coûte cher politiquement." Il faut désormais "du courage politique pour avoir de l'empathie et de la solidarité avec certains de nos compatriotes."[^courage]
+
+La PaduTeam note l'inversion historique totale : il y a 20 ans, "même Sarkozy serait allé à la manifestation en faisant mine de s'y intéresser." Aujourd'hui la dynamique est inverse — des gens sincèrement touchés se disent "je ne peux pas y aller, sinon je suis mort politiquement." Mélenchon est analysé comme le seul responsable politique qui fait exception à cette loi d'airain, et c'est précisément cette singularité qui lui confère une place irremplaçable pour les musulmans de France.
+
+Son émotion est d'autant plus notable que Ruffin et Roussel, eux, refusent même d'utiliser le terme "islamophobie", préférant "acte antimusulman" — ce que la PaduTeam analyse comme un refus structurel de s'engager vraiment dans le combat antiraciste.
+
+[^courage]: [7:52](https://www.youtube.com/watch?v=-AmidXZp0SA&t=472) — "Il faut du courage politique pour avoir de l'empathie et de la solidarité avec certains de nos compatriotes. Et ben vous rendez compte que là on est tombé dans un niveau d'obscénité."
+
 ## Vidéos où Mélenchon est analysé
 - [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Traité de "fasciste" et d'"antisémite" comparable à Drumont par BHL ; double standard démontré ; défendu comme cible structurelle du bloc bourgeois en fascisation
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
@@ -133,3 +162,7 @@ Second message dans le tweet : "Comment prétendre faire un cordon sanitaire con
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Réaction blog post-Bram ; Glucksmann impose sa ligne ; Mélenchon dans la position de Mitterrand 1981
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du "dossier" Dray ; diabolisation absurde comme carburant du vote caché
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Mélenchonisme inséparable de Mélenchon ; culture politique "exceptionnelle" saluée ; génération formée devra réorienter après lui
+- [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — Tournée Québec/USA 2025 ; "deux jambes" communisme+antisystème ; refus de la psychologisation de Trump ; PS à 1,67% rappelé deux fois ; thèse de la fascisation par la social-démocratie formulée à Radio Canada
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Vidéo fondatrice : projection complète du 1er et 2nd tour 2027. Mélenchon à 16,86 % au 1er tour (donné à 13-14 % dans les sondages), 58,2 % au 2nd tour. Stratégie programmatique centrée sur les 32 heures + 6e semaine de congés payés comme pivot du vote caché des cadres.
+- [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Complément d'enquête France 2 analysé comme confirmation de la diabolisation prévue par le Graphique (étape 1 du plan 2027) ; déconstruction de la trajectoire Guedj (PRS → refus de rejoindre le PG en 2008 → trahison politique) ; démontage de l'accusation sur l'article 7 des retraites (vote de groupe, pas tweet présidentiel) ; réfutation de la comparaison Mitterrand/Guevara de Guedj.
+- [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — Seul responsable politique à nommer l'islamophobie sans détour et à manifester publiquement ; son émotion analysée comme courage politique rare dans un moment d'inversion historique où l'empathie avec les musulmans coûte cher politiquement.

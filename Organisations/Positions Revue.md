@@ -27,6 +27,12 @@ La PaduTeam appelle [[Marine Tondelier]] "Karen" dans une capsule — provoquant
 
 À l'occasion du documentaire de [[Lily Phillips]], [[Positions Revue]] publie un tweet ayant fait 500 000 vues : "Les 100 hommes qui ont participé à cela ne valent pas mieux que les prévenus de Mazan. Les producteurs qui ont créé cela ne valent pas mieux que Pelicot. Nous voyons ici que la réification du capitalisme patriarcal ne sera jamais combattue par la notion de consentement." Le tweet est délibérément centré sur les hommes participants et les producteurs — là où toute la réception se concentrait sur la femme. Cette stratégie rhétorique est au cœur de la vidéo analysée avec [[Dr Zoe]].
 
+## Chroniques de l'exploitation
+
+Série de témoignages publiés sur le site de la revue : des personnes de milieux professionnels variés témoignent de leur expérience de travail. Objectif : "partir de nos expériences concrètes du terrain, penser le travail ensemble, essayer de pointer les différentes difficultés qu'on y trouve et y remettre du collectif dans tout ça."[^chrono] Parmi les chroniques publiées : une ingénieure victime de burnout, une étudiante en médecine à l'hôpital (par Zoé), un livreur de pizza. La revue invite les lecteurs à soumettre leurs propres chroniques.
+
+[^chrono]: [28:38](https://www.youtube.com/watch?v=1zxC8ZTAHEk&t=1718) — "on invite des personnes de plein de milieux professionnels différents à venir témoigner de leur expérience de travail"
+
 ## Vidéos où Positions Revue est mentionnée
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Généalogie explicite : Positions Revue comme première brique de la [[Guerre de position]] PaduTeam, née de l'analyse critique de l'échec GJ
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — La PaduTeam défend PR contre accusations de misogynie ; explique "Karen" comme terme antiraciste ; attaque le féminisme essentialiste de Tondelier/Rousseau
@@ -37,3 +43,4 @@ La PaduTeam appelle [[Marine Tondelier]] "Karen" dans une capsule — provoquant
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|Capsule Graphique Positions Revue]] — [[Chris]] présente en détail le [[Graphique]] de Positions Revue : les deux axes, la distribution des PCS, l'algorithme construit à partir des données INSEE, et l'analyse électorale comparative 2017/2022/européennes 2024. C'est la capsule de référence pour comprendre la méthode.
 - [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — [[Chris]] répond aux critiques de sexisme/racisme du Graphique ; expose la méthode de prédiction par Google Trends et ses résultats 2022.
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — [[Chris]] présente la nouvelle version interactive du Graphique et prédit Villepin à 6-7% max.
+- [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — [[Chris]] développe la thèse "travail collectif vs réalisation individuelle" et référence les Chroniques de l'exploitation

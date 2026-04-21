@@ -49,6 +49,48 @@ Au dernier congrès du [[Parti Communiste Francais|PCF]], les militants de la [[
 
 Dans sa sortie CNews, [[Fabien Roussel]] défend l'inscription des principes de la Charte olympique dans la loi pour exclure "religion et politique" du sport. Il compare implicitement le port du voile de [[Myriam Soumare]] au salut nazi dans les tribunes. Pour la PaduTeam, c'est l'incarnation de la matrice 2 (bourgeoisie progressiste laïcarde) dans sa version la plus vide — Roussel "répète les éléments de langage de CNews" sur le voile sans même savoir que la Charte olympique autorise précisément le port du hijab.
 
+## Troisième matrice : le colonialisme racial
+
+En plus des deux matrices idéologiques "exprimables" (antisémitisme structurel + anticléricalisme bourgeois), la PaduTeam identifie une **troisième matrice** contre les musulmans : la matrice coloniale. Celle-ci est plus profonde, moins théorisée, et plus diffuse — partagée avec d'autres populations racisées (personnes noires, asiatiques, etc.) et moins exprimable sur des plateaux TV[^col1]. Elle opère au niveau des **processus de racialisation** : les musulmans de France sont massivement issus des ex-colonies (Maghreb, Afrique subsaharienne), ce qui ajoute à l'hostilité religieuse et culturelle une dimension coloniale de dépréciation de l'indigène.
+
+## Chronologie française de l'islamophobie
+
+La PaduTeam retrace dans [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] les étapes concrètes de la construction islamophobe en France :
+
+1. **1984 — Grève des usines Talbot.** 88 % de travailleurs étrangers (majoritairement maghrébins) dans l'industrie automobile française. Pierre Mauroy, Premier ministre socialiste, déclare que la grève est due à "l'ingérence des islamistes iraniens." Premier usage du bouc émissaire islamiste par la gauche de gouvernement.
+2. **1983 — Marche des beurs.** Récupérée et neutralisée par le PS.
+3. **1989 — Affaire du voile à Creil.** Avec Jospin — début de la normalisation du rejet du voile.
+4. **2004 — Loi d'interdiction du voile dans les lycées.** Qualifiée d'"inadmissible" par la PaduTeam. Conséquence concrète : des jeunes filles musulmanes ont arrêté d'aller à l'école. Contradiction avec la tolérance simultanée des "relations sexuelles à 15 ans avec Matznev."[^2004]
+5. **2023 — Interdiction de l'abaya.** Preuve que c'est l'*esthétique islamique* en tant que telle qui est rejetée — pas la pratique religieuse. Des filles non-musulmanes portant l'abaya se la sont vu interdire. La PaduTeam : "Demain ils vont interdire le prénom Mohamed."
+
+## La laïcité comme outil colonial
+
+La loi de 1905 n'a pas été appliquée aux "indigènes" des colonies françaises. Pour ces populations, contrôler les imams et les autorités religieuses était un outil de domination impériale — l'État refusait précisément la séparation de l'ordre politique et du pouvoir religieux qu'il promouvait en métropole[^laicite_col]. Conséquence théorique : la laïcité bourgeoise est "universalisme abstrait et suprémacisme concret."
+
+## Le contrat racial islamophobe
+
+Dans [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]], la PaduTeam applique le [[Contrat racial]] de [[Charles Mills]] à l'islamophobie française. Le contrat racial islamophobe est un **double contrat** :
+- Pour les musulmans : "vous pouvez mourir à tout instant" (permis de les tuer)
+- Pour les non-musulmans non visés : "ce n'est pas la peine de vous indigner parce que la société tient comme ça" (permis de ne pas s'indigner)[^contrat]
+
+La mort d'[[Aboubakar Cisse|Aboubakar Cissé]] dans une mosquée est la matérialisation concrète de ce contrat.
+
+## Islamophobie et néolibéralisme en crise
+
+Formulation théorique centrale issue du même transcript : "le néolibéralisme en crise ne peut pas résoudre ces crises pénuriques sans un nouvel ordre symbolique et une hiérarchie sociale entre les gens. Il va devoir hiérarchiser les gens et l'islamophobie est fondamentale dans la manière dont il va hiérarchiser les gens."[^neo] Analogie : l'ordre racial de la fin des années 1930 était "une nécessité pour organiser un mode de production incapable de servir tout le monde."
+
+## L'abaya comme cas analytique décisif
+
+L'interdiction de l'abaya valide l'usage du terme *islamophobie* contre le terme *racisme antimusulman*. L'abaya n'est pas un marqueur religieux — c'est une tenue culturelle. Des femmes non-musulmanes qui la portaient se la sont vu interdire. Cela prouve que c'est "une esthétique qui pourrait faire penser à l'islam" qui est rejetée — soit une *culture*, une *civilisation*, une *forme d'habillement*. Le terme "islamophobie" recouvre exactement ce phénomène là où "racisme antimusulman" ne le peut pas[^abaya].
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
+- [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — chronologie complète (Talbot 1984 → abaya 2023), troisième matrice coloniale, laïcité coloniale, application du contrat racial, islamophobie comme nécessité structurelle du néolibéralisme en crise.
+
+[^col1]: [23:56](https://www.youtube.com/watch?v=-AmidXZp0SA&t=1436) — "Il y a aussi beaucoup plus de processus de racialisation, c'est la matrice coloniale — qui est beaucoup plus profonde, qui est partagée par l'ensemble. Donc elle est moins théorisée, donc moins exprimable."
+[^2004]: [35:55](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2155) — "On dit que des jeunes filles sont libres d'avoir des rapports sexuels à 15 ans avec Matznev mais qu'elles ne peuvent pas décider de ce qu'elles portent sur leur tête."
+[^laicite_col]: [30:39](https://www.youtube.com/watch?v=-AmidXZp0SA&t=1839) — "On a refusé la laïcité pour les indigènes parce que contrôler leurs imams, contrôler leurs autorités religieuses, c'était un moyen de les avoir."
+[^contrat]: [43:52](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2632) — "Le contrat racial sur les musulmans [...] est un double contrat. Un contrat qui dit 'vous pouvez mourir à tout instant' — et un contrat pour ceux qui ne sont pas visés : 'ce n'est pas la peine de vous indigner'."
+[^neo]: [41:46](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2506) — "Le néolibéralisme en crise ne peut pas résoudre ces crises pénuriques sans un nouvel ordre symbolique et une hiérarchie sociale entre les gens."
+[^abaya]: [39:10](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2350) — "C'est l'idée d'une culture, d'une civilisation, d'une forme d'habillement, d'une certaine esthétique qu'on rejette. Le terme antimusulman ne permet pas de comprendre cette pratique du rejet de l'abaya."

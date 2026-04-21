@@ -47,7 +47,14 @@ Face au dîner Legrand-Cohen-Jouvet, la PaduTeam fait la distinction : Glucksman
 ### Primaire PS — scénario Bouamrane
 Dans la vidéo Bouamrane, Chris analyse que dans une primaire PS, Vallaud serait en compétition avec Bouamrane, une éventuelle [[Johanna Rolland]], et potentiellement Hollande. Vallaud reste le "réconciliateur" qui peut apparaître après l'affrontement Faure/NMR au congrès. Son rôle de "clé de voûte" : pas attaqué par la ligne Faure, acceptable par la ligne NMR.
 
+## Le soutien Attal (27 mars 2027)
+
+Mécanique précise de la montée à 16,18 % : le 27 mars 2027, [[Gabriel Attal]] appelle à soutenir le Parti Socialiste et Boris Vallaud. Les deux font une conférence de presse commune pour "empêcher la gauche Mélenchon d'arriver au pouvoir". Attal est surnommé le "progressisme pragmatique" puis rejoint le PS car "il pouvait devenir ministre des finances ou premier ministre de Boris Vallaud" — sa carrière est mieux assurée au PS qu'chez Horizon où Philippe bloquerait sa progression[^attal]. La PaduTeam note qu'Attal "était un jeune socialiste" et que ce retour est "plus logique" qu'Horizon.
+
+[^attal]: [9:27](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=567) — "En mars 2027, Gabriel Attal appelle à soutenir le Parti socialiste, ce qui fait que le Parti socialiste devient si important à presque 16,18 %."
+
 ## Vidéos où Vallaud est analysé
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Fait 16,18 % au 1er tour grâce au soutien d'Attal (27 mars 2027). Appelé "le Kamala Harris français" par France Inter et Libération. Appelle à voter Mélenchon au 2nd tour.
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme rival de Hollande pour l'investiture PS 2027 ; la PaduTeam prédit qu'Hollande se fera "filloniser" par Vallaud comme Sarkozy par Fillon en 2017
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Troisième homme au congrès PS, comparé à Sophie Binet au congrès CGT, potentiel présidentiable si ni Faure ni NMR ne dégage de ligne claire
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Présent en "sumsum" à Bram, stratégie de l'arbitre, sortie du bois prévue pour mi-2026

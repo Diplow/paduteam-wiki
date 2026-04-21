@@ -37,8 +37,14 @@ Le vote caché Mélenchon est concentré sur les **cadres et professions interm�
 
 La [[Diabolisation]] de Mélenchon amplifie ce mécanisme : "Si quand tu votes Mélenchon, tu as l'impression que les gens pensent que c'est parce que tu veux persécuter des enfants juifs, tu vas dire 'Non, non, ben je vote Raphaël Glucksmann'."
 
+## 2002 inversé : des ouvriers à des cadres
+
+La symétrie est explicite dans le transcript : "On se retrouve avec 2002 inversé voyez, où en 2002 des ouvriers en crise votent Jean-Marie Le Pen sans le dire. Là on se retrouve avec des cadres en crise qui votent Jean-Luc Mélenchon sans le dire." Le vote caché migre de classe à l'autre selon le contexte politique — il révèle toujours la même chose : la pression sociale empêche la déclaration, pas le vote[^2002inversé].
+
+[^2002inversé]: [34:56](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2096) — "Là on se retrouve avec des cadres en crise qui votent Jean-Luc Mélenchon sans le dire."
+
 ## Vidéos
-- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Formulation précise du mécanisme : 32h + 6e semaine de congés payés → cadres votent en secret. "Donné à 13-14 % dans les sondages, il se retrouve presque à 17 % par le vote caché des cadres."
 - [[Hollande vs Melenchon 2e tour]] — Rappel du mécanisme de diabolisation/vote caché appliqué à Mélenchon 2027
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Vote Asselineau 2017 comme exemple de vote d'évitement pré-moïsation
 - [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Laurent Alexandre sort la thèse islamophobe des "mosquées qui donnent les instructions de vote" ; la PaduTeam démonte en montrant que les musulmans votent Mélenchon pour les mêmes raisons rationnelles que les catholiques votent à droite — vote de classe, pas vote-consigne

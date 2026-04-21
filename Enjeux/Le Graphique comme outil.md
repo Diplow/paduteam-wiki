@@ -91,6 +91,12 @@ Deux vidéos défendent le Graphique contre des adversaires qui lui reprochent s
 
 La PaduTeam caractérise Bad Mulch comme un "ingénieur politique" — un profil de cadre qui résout des problèmes sur PowerPoint "indépendamment de savoir si ce possible là est réalisable vu la configuration sociale actuelle."
 
+## Le Graphique comme outil léniniste face aux théories raciales
+
+[[Le MARXISME, un TRUC de BLANC]] défend explicitement le Graphique comme instrument léniniste d'analyse des sujets collectifs et de construction programmatique — pas comme simple sociologie électorale. La logique est la même que Lénine face à la paysannerie russe : identifier le "maximum de conscience possible" de chaque fraction, formuler le programme correspondant, éviter ce qui "fait fuir." Exemple concret : 40% des jeunes médecins veulent devenir salariés → proposer le salariat comme transition mobilisatrice. "On ne peut pas proposer exactement les mêmes choses à tout le monde."
+
+La vidéo répond à [[Norman Ajari]] et [[Wissam Xelka]] qui reprochent au marxisme d'être "un truc de blanc." La PaduTeam y défend que l'enrichissement du marxisme par les femmes et les racisés ([[Silvia Federici]], [[CLR James]], [[Black Panthers]]) reste dans le cadre épistémologique marxiste — comme Newton → Einstein améliore la physique sans en changer l'épistémologie. Les théories qui introduisent une épistémologie rivale (afropessimisme de [[Frank B. Wilderson III]]) sont critiquées comme "descriptives" et incapables de transformation : Norman Ajari reconnaît lui-même que l'afropessimisme "n'est que descriptif." À l'inverse, le Graphique identifie des causalités actionnables — il permet de devenir "entrave au racisme" plutôt que simple "gestionnaire."
+
 ## Adversaires de cette position
 - [[Norman Ajari]] : le Graphique n'est que de la "sociologie électorale"
 - Les "gauchistes maximalistes" qui veulent le même programme pour tous
@@ -109,7 +115,7 @@ La PaduTeam caractérise Bad Mulch comme un "ingénieur politique" — un profil
 - [[FAURE était OBLIGÉ de TRAHIR : VOICI POURQUOI !]] — application politique majeure : trahison structurelle, luttes en classe vs luttes de classe, stratégie des deux équipes de gauche
 - [[FURAX, SORAL M'INSULTE PETIT C0N, PETIT MER-DEUX INCULTE !! (avec Chris de Positions Revue)]] — défense contre l'accusation de fixisme marxiste
 - [[ÉTIENNE CHOUARD CATASTROPHIQUE FACE À YOHAN DU CANARD RÉFRACTAIRE ? (avec Chris de Positions Revue)]] — Graphique comme alternative matérialiste au tirage au sort bourgeois
-- [[Le MARXISME, un TRUC de BLANC]] — défense explicite du Graphique comme outil léniniste contre la critique d'Ajari
+- [[Le MARXISME, un TRUC de BLANC]] — défense explicite du Graphique comme outil léniniste contre la critique d'Ajari et de Xelka ; enrichissement marxiste par les racisés reste dans le cadre épistémologique ; afropessimisme critiqué comme descriptif et impuissant ; Lénine face à la paysannerie russe comme modèle du raisonnement graphique
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue]] — présentation la plus complète : construction, distribution PCS, applications électorales 2017/2022/2024, stratégie 2027
 - [[2 MALES TOXIQUES MARXPLIQUENT le GRAPHIQUE]] — explication approfondie : diagonale de pouvoir, espaces révolutionnaire et réactionnaire, application médicale, socialisation vs désocialisation
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — application aux profils familiaux : chaque "type de tonton" cartographié comme conscience possible et cible stratégique distincte

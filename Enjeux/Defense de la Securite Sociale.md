@@ -109,10 +109,23 @@ Arguments ajoutés au corpus de l'enjeu :
 
 La Sécurité Sociale ne produit pas seulement de meilleurs soins à moindre coût — elle incarne un rapport de classe opposé à la logique assurancielle marchande. Le libertarianisme est une idéologie de compensation : il vend aux classes moyennes/populaires l'illusion de s'en sortir individuellement là où la solution est collective.
 
+## La Sécu ne fabrique pas de plus-value — c'est pour ça qu'on l'attaque
+
+[[MACRON NOUS MENT POUR TUER LA SECU]] (mars 2026) constitue le démontage le plus systématique disponible dans le vault. Thèse centrale : "Le problème de la Sécu, c'est que c'est un secteur qui ne fabrique pas d'argent. C'est de l'argent qui ne s'accumule pas, qui ne fabrique pas de plus-value, et pour ça c'est quelque chose qui doit être éliminé." La Sécu est une expérience autogestionnaite comparable à la prise en main de l'appareil productif par les travailleurs — et c'est insupportable pour le capital.
+
+Les trois "solutions" macronistes démontées une par une :
+- **Fraude** : la CAF (2 milliards estimés) est la fraude la mieux contrôlée et la plus petite, c'est pourtant la seule qu'on traque. La fraude fiscale (80-100 milliards) et la fraude aux cotisations patronales (6-8 milliards estimés) sont 50 fois plus importantes mais ignorées.
+- **Complémentaires** : elles représentent ~50% des cotisations pour seulement ~20% des soins remboursés. Passer au 100% Sécu économiserait 5,6 milliards par an immédiatement (rapport HCAAM).
+- **Remboursement selon les revenus** : attaque contre l'universalité qui se retourne — dès qu'on accepte que les riches soient moins remboursés, ils ont un argument pour sortir du système. L'universalité n'est pas négociable.
+
+La vidéo articule deux mécanismes supplémentaires : (1) le néolibéralisme capte l'énergie "anti-riche" pour la retourner contre l'universalité de la Sécu — même mécanique que pour les retraites ; (2) la résilience ouvrière collective est la matière sociale du néolibéralisme — "plutôt que ça serve le néolibéralisme, faisons-en une résistance."
+
+L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle avait été conçue en 1945 (CGT, Ambroise Croizat) avant que les ordonnances De Gaulle de 1967 n'en retirent la gestion aux travailleurs.
+
 ## Vidéos clés
 
 - [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
-- [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste
+- [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée
 - [[NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS]] — l'arc idéologique Boloré
 - [[MACRON VEUT NOUS FAIRE TRAVAILLER JUSQU A LA MORT]] — attaque sur les arrêts de travail et ALD
