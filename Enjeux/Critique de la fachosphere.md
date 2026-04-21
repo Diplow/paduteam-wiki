@@ -127,3 +127,6 @@ Un troisième axe s'affirme : la **dissonance de classe** de la droitsphère. Os
 - [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]] — SLAPP retournée ; le tribunal qui note que ses propres propos "sont susceptibles de caractériser des infractions" ; la procédure bâillonnante comme stratégie risquée pour qui tient des discours masculinistes infractions
 - [[DE WOKE A FACHO SLAPP RACONTE SA REDPILL]] — redpill bourgeoise sans conditions matérielles ; le template du "militant de gauche nul" → droite ; fascination japonaise comme trope masculiniste normi
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — masculinisme marchand : pseudo-science éthologique, monétisation de la frustration masculine, MGTOW comme aboutissement logique
+- [[LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES]] — milice supplétive d'extrême droite à Rennes ; distinction milice supplétive (pour l'État) vs milice oppositionnelle (contre l'État) ; brutalisation comme stratégie
+- [[DELAVIER LEAK SUR LE JARL]] — dossier judiciaire : multi-condamné, insolvable, interdit de gestion ; la figure virile détruite de l'intérieur ; prédation des milieux d'extrême droite sur leurs propres membres
+- [[DANIEL WOIRIN ET CYRIL DIABATE DETRUISENT LE JARL]] — validation par des insiders du milieu MMA ; "yarlatan" connu depuis longtemps dans le milieu sportif

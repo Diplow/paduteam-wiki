@@ -105,3 +105,5 @@ La conscience collective de classe dépasse l'alternative affect/raison que Spin
 - [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — mécanisme de la "gauche de droite" dans les médias réactionnaires ; trajectoire Clouscard des libéraux-libertaires vers le néofascisme
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]]
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]
+- [[GLUCKSMANN ADORE LA DEMOCRATIE SAUF A PLACE PUBLIQUE]] — Glucksmann verrouille les statuts de Place Publique, ferme le canal Télégramme des membres, exclut sans procédure démocratique : la démocratie libérale est à géométrie variable ; "prophétie graphique" : la position de classe de PP (centre-gauche, classes moyennes supérieures) rend impossible la construction d'une organisation démocratique de masse
+- [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Roussel sur BFM sans aucune résistance ; analyse graphique des deux pôles ; la PaduTeam appelle Roussel à reconstruire quelque chose qui ressemble au Front de Gauche plutôt que d'être le faire-valoir médiatique de la droite
