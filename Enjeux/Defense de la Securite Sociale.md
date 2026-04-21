@@ -122,8 +122,19 @@ La vidéo articule deux mécanismes supplémentaires : (1) le néolibéralisme c
 
 L'horizon : revenir à une **Sécu gérée par les cotisants**, telle qu'elle avait été conçue en 1945 (CGT, Ambroise Croizat) avant que les ordonnances De Gaulle de 1967 n'en retirent la gestion aux travailleurs.
 
+## La loi fin de vie comme révélateur du désastre sanitaire
+
+La loi fin de vie (aide active à mourir) débattue à l'Assemblée nationale en 2025 constitue, pour la PaduTeam, le révélateur le plus brutal de l'état du système sanitaire. L'argument est direct : si on parle de droit à mourir dans la dignité, c'est parce qu'on est incapable d'organiser une vie et une mort dignes. Ce n'est pas un progrès social — c'est l'aveu d'un échec.
+
+Dr Zoé détaille les conditions réelles de l'accompagnement en soins palliatifs dans sa pratique : équipe mobile de soins palliatifs à 3 médecins pour tout un département, impossibilité d'entrées directes en service (passage obligatoire par des urgences saturées pour des patients en phase terminale de cancer), passages à domicile de 30 minutes trois fois par jour laissant les familles seules avec la pompe à morphine. Ces conditions ne sont pas une fatalité — elles résultent du choix délibéré de ne pas financer les soins.
+
+Le lien avec la Défense de la Sécu est explicite : les cadeaux fiscaux de Macron aux grandes entreprises et ultra-riches auraient largement permis de financer des soins palliatifs corrects et des EHPAD dignes. Les EHPAD privés qui rémunèrent des actionnaires sur 2000-2500€/mois de maltraitance organisée avec du personnel sous-payé sont la démonstration concrète que la logique du marché appliquée aux soins produit la mort.
+
+La première cause de recours à l'aide active à mourir en Oregon (étude documentée) n'est pas la douleur incontrôlable — c'est **"je ne veux pas être un poids pour mes proches"**. Ce sentiment est directement produit par l'absence de services publics dignes : si les familles n'avaient pas à porter seules et sans soutien l'accompagnement des personnes dépendantes, si les EHPAD étaient dignes, si les soins palliatifs à domicile étaient correctement dotés, les gens se sentiraient beaucoup moins un poids.
+
 ## Vidéos clés
 
+- [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — révélateur du désastre sanitaire : soins palliatifs à 3 médecins pour un département ; EHPAD privés qui rémunèrent des actionnaires sur la maltraitance ; "je ne veux pas être un poids pour mes proches" comme première cause de recours en Oregon ; connexion directe entre cadeaux fiscaux et impossibilité de financer une fin de vie digne
 - [[PAYE TON DROITARD #6 — LE GUIZ ET OSEILLETV : LES LIBERTARIENS LES + BÊTES DU MONDE ?]] — démonstration comparative chiffrée : 3-4% vs 21-22% de frais de gestion ; 27% de refus UnitedHealthcare ; surdiagnostic américain ; Colombie como "paradis libertarien" ; soutien à Pinochet comme aveu
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage systématique du discours macroniste ; thèse centrale : la Sécu ne produit pas de plus-value donc elle doit être éliminée ; trois axes macronistes décortiqués (fraude, complémentaires, remboursement selon revenus) ; argument 100% Sécu (5,6 milliards d'économies) ; horizon Sécu gérée par les cotisants
 - [[BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME]] — l'AME comme écran de fumée

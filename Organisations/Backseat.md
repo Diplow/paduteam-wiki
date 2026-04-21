@@ -23,8 +23,11 @@ Exemples critiqués par la PaduTeam :
 
 Malgré tout, la PaduTeam reconnaît que Backseat peut produire du bon : quand [[Usul]] est "redevenu de gauche" en disant que l'électorat PS est bourgeois et que les classes populaires ont fermé leur gueule pendant les années Hollande. La PaduTeam y voit la preuve que la pression militante fonctionne.
 
+**Le rôle d'octobre 2023 sur Gaza** : la PaduTeam documente que le 13 octobre 2023, Backseat a diffusé des sionistes de gauche (dont Anna Asuline) sans aucune contradiction pour défendre la thèse qu'Israël est "un projet décolonial anti-impérialiste." Ce storytelling a contribué à poser le cadre Hamas=terrorisme/Israël=légitime défense, qui a "permis aux pays occidentaux de ne pas réagir face au génocide en cours." En mai 2025, Backseat invite [[Chloe Ridel]] pour un nouveau "numéro de retournement de veste" PS sur la Palestine — accordant ainsi une plateforme respectable à une réécriture de l'histoire.
+
 La PaduTeam classe Backseat, avec les Jean Massiet et les médias type Mediapart, parmi les "intellectuels organiques" du bloc social-libéral — surreprésentés médiatiquement par rapport à leur assise électorale réelle.
 
 ## Sources
 - [[BACKSEAT vs PADUTEAM COMMENT EMPÊCHER LE RN EN RURALITÉ]]
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Backseat critique pour avoir platformé des sionistes de gauche sans contradiction en octobre 2023, puis pour avoir laissé [[Chloe Ridel]] "réécrire l'histoire" PS sur Gaza en mai 2025

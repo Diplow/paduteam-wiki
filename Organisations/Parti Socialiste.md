@@ -60,7 +60,24 @@ Après la victoire de [[Zohran Mamdani]] à New York sur un programme [[Democrat
 
 **Retour opérationnel pour LFI** : la PaduTeam conseille de ne *pas* revendiquer le programme NFP (« ils vont le faire [le PS] ») mais de revendiquer un programme *plus à gauche que le NFP* — l'alignement DSA, qui permet de réassigner structurellement le PS au centre-droit.
 
+## Le PS comme parti le plus sioniste de France
+
+La PaduTeam formule une thèse tranchée sur la Palestine : "Je ne sais même pas quel parti est plus sioniste que le Parti socialiste en France. Le RN est moins sioniste que le PS." Cette position s'appuie sur une accumulation de faits documentés :
+
+- **Marche du 12 novembre 2023** : le PS participe à une marche "contre l'antisémitisme" dans un cortège avec l'extrême droite et un "parti fondé par des nazis", au moment où LFI est convoqué chez les flics pour des prises de position pro-Palestine. Des figures PS sont "moteurs" de cette marche — qui est en réalité une manœuvre de stigmatisation des militants pro-Palestine.
+- **Qualification terroriste du 7 octobre** : le PS qualifie immédiatement les attaques du 7 octobre de "terrorisme" — ce qui, pour la PaduTeam, a fourni à Israël la couverture morale pour le génocide. "Elle [Ridel] est en train de dire qu'ils ont laissé les mains libres à Israël pour génocider sa population en lui donnant tout ce qu'il lui fallait au niveau moral et idéologique."
+- **Double discours sur le génocide** : [[Chloe Ridel|Ridel]] dit "génocide" sur Backseat (public de gauche) mais dans ses écrits de mars 2024 elle ne parlait que de "risque de génocide". La tribune qu'elle vient de cosigner pour pousser Macron à reconnaître la Palestine ne contient pas le mot "génocide".
+- **Tentative du cercle des amis d'Israël** : au congrès PS de 2025, un texte proposait de créer un "cercle socialiste des amis d'Israël" — deux ans après le début du génocide.
+- **Figures sionistes** : le PS est "bourré de sionistes" — [[Manuel Valls]], [[Jerome Guedj]], [[Carole Delga]], et des anciens qui ont émané du PS.
+
+La PaduTeam : "Je suis désolé, c'est un des partis à l'avant-garde sur le sionisme en France. Je mets au défi de trouver un parti plus sioniste que le PS."
+
+## Congrès de juin 2025
+
+Le congrès PS de mai-juin 2025 donne au premier tour : 42% Faure, 40% Meyer-Rossignol, 18% Vallaud. Vote final prévu le 5 juin, avec Vallaud en faiseur de roi. La ligne Faure proposait des alliances à gauche mais sans LFI — déjà une concession à l'aile droite. La PaduTeam analyse qu'Olivier Faure "a fini par se soumettre à l'aile droite du parti."
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — PS comme parti le plus sioniste de France ; retournement de veste sur Gaza ; congrès juin 2025 ; rôle de Backseat comme plateforme

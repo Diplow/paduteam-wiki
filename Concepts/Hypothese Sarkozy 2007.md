@@ -39,3 +39,4 @@ Conséquence pour la gauche : le bloc Retailleau laisse de l'espace à une "gauc
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Version aggravée post-condamnation Le Pen ; Bardella devant le choix trahison/loyauté ; scénario Retailleau-Philippe au 2e tour
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Identification du risque que le RN perde des plumes en jouant la droite respectable
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Retailleau comme incarnation de l'hypothèse Sarkozy : donne des gages à l'extrême droite depuis l'intérieur du pouvoir, paraît "nouveau" et crédible vs Wauquiez trop marqué establishment
+- [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] — Version islamophobie : Copé comme signe qu'une fraction de la droite envisage un concordat avec l'électorat musulman conservateur plutôt que la surenchère islamophobe ; stratégie identique à Sarkozy 2007 pour capter classes populaires musulmanes (artisans, commerçants)

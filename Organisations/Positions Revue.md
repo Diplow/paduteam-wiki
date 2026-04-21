@@ -44,3 +44,4 @@ Série de témoignages publiés sur le site de la revue : des personnes de milie
 - [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]] — [[Chris]] répond aux critiques de sexisme/racisme du Graphique ; expose la méthode de prédiction par Google Trends et ses résultats 2022.
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — [[Chris]] présente la nouvelle version interactive du Graphique et prédit Villepin à 6-7% max.
 - [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]] — [[Chris]] développe la thèse "travail collectif vs réalisation individuelle" et référence les Chroniques de l'exploitation
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — [[Chris]] présente un diaporama d'analyse économique marxiste de la guerre commerciale Trump-Chine ; Padu mentionne le site de Positions Revue et les chroniques de l'exploitation en clôture

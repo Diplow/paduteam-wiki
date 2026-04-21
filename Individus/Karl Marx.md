@@ -27,3 +27,4 @@ Citation du Manifeste mobilisée par la PaduTeam : "La bourgeoisie a pris le pou
 
 ## Vidéos où Marx est discuté
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — Le Capital recommandé, discussion sur la méthode marxiste et la dénaturalisation du monde
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Lettre à Maurice Lachatâtre (1872) lue en conclusion : Marx reconnaît lui-même que la méthode "abstrait au concret" "rend assez ardu la lecture des premiers chapitres" pour le "public français, toujours impatient de conclure" — et répond : "il n'y a pas de route royale pour la science"

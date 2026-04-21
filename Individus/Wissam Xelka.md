@@ -31,3 +31,4 @@ La PaduTeam précise la nature du débat avec lui : sur "la majorité des sujets
 ## Vidéos où Wissam Xelka est mentionné
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[Le MARXISME, un TRUC de BLANC]]
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — mentionné comme représentant du courant décolonial-psychanalytique auquel Bégaudeau hésite à s'associer ; la PaduTeam l'utilise pour illustrer le "cul entre deux chaises" de Bégaudeau dans le débat épistémologique

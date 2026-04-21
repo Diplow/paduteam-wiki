@@ -28,3 +28,4 @@ La PaduTeam établit une analogie : prétendre que "parler de classes sociales d
 
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Bégaudeau comme cas exemplaire : se réclamer du "réel" et du "concret" est ici l'expression d'une vision de classe sensible et contemplative, pas un accès privilégié à la réalité

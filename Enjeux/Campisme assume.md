@@ -108,6 +108,8 @@ Les [[Atlantisme|atlantistes]] français (Damien Rieu, Julien Odoul, CNews) sont
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Campisme matérialiste appliqué : Newsom macroniste mais « pas en avant dans la destruction de l'empire », analogie Marx-Engels 1840 / empire austro-hongrois
 
 ## Vidéos clés
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — analyse marxiste de la guerre commerciale Trump-Chine : la Chine résistant à l'hégémonie US comme camp à soutenir ; sortir du néolibéralisme par l'ultralibéralisme protectionniste est impossible ; "pour faire ce que Trump voudrait faire, il faudrait un Mélenchon" — formulation qui articule campisme et programme intérieur de rupture
+- [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — refus du campisme PS sur la Palestine ; le storytelling Hamas=terrorisme comme abandon du camp anti-impérialiste ; la position LFI d'octobre 2023 ("crime de guerre" vs "terrorisme") défendue comme position campiste rigoureuse
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]] — Critique frontale du ni-nisme face à l'enlèvement de Maduro, défense du campisme bolivarien
 - [[DECRYPTAGE TRUMP BOMBARDE LE VENEZUELA ET KIDNAPPE MADURO]] — Glucksmann "agent américain", Macron "futur France-Afrique 2.0", Mélenchon défend la position juste
 - [[MACRON SERPILLERE DES ETATS-UNIS APRES AGRESSION VENEZUELA]] — La hiérarchie des positions : Attal (trumpiste pur), Macron (trumpiste honteux), Le Pen (gaulliste opportuniste), Mélenchon (anti-impérialiste de principe)

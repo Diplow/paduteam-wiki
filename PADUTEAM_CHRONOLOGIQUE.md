@@ -288,19 +288,19 @@ Fiches créées : [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]], [[JAK
 ---
 ## Batch 16 — Semaines 2025-W21 à 2025-W22 (19 mai 2025 – 1 jun 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ ingéré
 Slug branche : ingest-batch/paduteam-2025-w21-w22
 
-- [ ] RETAILLEAU MET FIN au WAUQUISME !! (@pasduhring X Chris)
-- [ ] BÉGAUDEAU : "WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL"
-- [ ] EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ? (@Dr_Zoé_YT X @pasduhring)
-- [ ] CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!
-- [ ] LÉNA SITUATIONS et JEAN-FRANÇOIS COPÉ sont-ils VRAIMENT FRÉRISTES ?
-- [ ] GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE !!
-- [ ] KARIM BOUAMRANE (PS) : "on va DÉFONCER ÉRIC COQUEREL et la FI" !!
-- [ ] NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!
-- [ ] CHLOÉ RIDEL (PS) à BACKSEAT : le SI0NISME S'INFILTRE à GAUCHE ?
-- [ ] TRUMP en GUERRE contre la CHINE : VOICI POURQUOI !! (analyse MARXISTE)
+- [x] RETAILLEAU MET FIN au WAUQUISME !! (@pasduhring X Chris)
+- [x] BÉGAUDEAU : "WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL"
+- [x] EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ? (@Dr_Zoé_YT X @pasduhring)
+- [x] CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!
+- [x] LÉNA SITUATIONS et JEAN-François COPÉ sont-ils VRAIMENT FRÉRISTES ?
+- [x] GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE !!
+- [x] KARIM BOUAMRANE (PS) : "on va DÉFONCER ÉRIC COQUEREL et la FI" !!
+- [x] NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!
+- [x] CHLOÉ RIDEL (PS) à BACKSEAT : le SI0NISME S'INFILTRE à GAUCHE ?
+- [x] TRUMP en GUERRE contre la CHINE : VOICI POURQUOI !! (analyse MARXISTE)
 
 ---
 ## Batch 17 — Semaines 2025-W23 à 2025-W24 (2 jun 2025 – 15 jun 2025)

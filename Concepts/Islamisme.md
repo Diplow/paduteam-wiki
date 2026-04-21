@@ -18,3 +18,4 @@ Courant politique spécifique au sein du monde musulman, distinct de l'islam com
 ## Vidéos où le concept est mentionné
 
 - [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]] — distinction entre islam (religion large) et islamisme (courant politique) face aux amalgames de L'Observateur Officiel
+- [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] — les Frères Musulmans comme mouvement social ayant une base réelle (Égypte, Algérie) mais représentant 0,1 % des musulmans de France ; distinction entre islamisme comme phénomène politique réel et "frérisme" comme fantasme complotiste

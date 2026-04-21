@@ -24,3 +24,4 @@ La PaduTeam oppose cette méthode à celle d'[[Emmanuel Todd]], qualifié d'"esp
 
 ## Vidéos où le concept est développé
 - [[10 LIVRES POUR LA RENTREE SOCIALE]] — la PaduTeam explique la méthode en recommandant Bihr et le Capital
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — défense centrale de la méthode marxiste contre l'empirisme de Bégaudeau ; la lettre de Marx à Lachatâtre (1872) lue en conclusion ("il n'y a pas de route royale pour la science")

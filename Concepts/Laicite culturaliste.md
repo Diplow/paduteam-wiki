@@ -46,3 +46,4 @@ La PaduTeam : "quand j'entends laïcité aujourd'hui, j'ai 9 chances sur 10 que 
 
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse des deux matrices, critique de la laïcité comme outil culturaliste
+- [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — cas pratique du laïcisme coercitif dans la tradition trotskiste (LO) ; contre-exemple léniniste historique (non-interventionnisme religieux dans les républiques soviétiques à population musulmane)

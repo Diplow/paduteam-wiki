@@ -44,3 +44,4 @@ Le marxisme peut et doit être enrichi par les apports des femmes ([[Silvia Fede
 - [[Le MARXISME, un TRUC de BLANC]] — discussion centrale et approfondie, articulation avec le Graphique
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — application à la question race/mode de production
 - [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]]
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — défense de l'épistémologie marxiste contre l'empirisme de Bégaudeau ; distinction sensible/concept comme reformulation de l'opposition abstrait/concret

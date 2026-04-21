@@ -61,3 +61,4 @@ L'alternative marxiste est précisément de penser la genèse de ces structures 
 - [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — Goldman cité explicitement pour *Sciences humaines et philosophie* ; articulation structuralisme génétique / critique de Lordon développée
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]] — Sève comme héritier philosophique du structuralisme génétique
 - [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]] — exposé de la distinction marxisme dialectique vs structuraliste, et du paradoxe du poststructuralisme issu d'Althusser
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — héritage implicite de la tradition Goldman/Lukács dans la réponse à Bégaudeau ; le roman comme expression d'une vision du monde de classe (Goldman) mobilisé contre l'empirisme sensible

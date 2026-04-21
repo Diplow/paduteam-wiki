@@ -45,3 +45,4 @@ Le débat révèle une tension ancienne, non une querelle de chapelle. Bouteldja
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Mentionnée de manière périphérique.
 - [[Le MARXISME, un TRUC de BLANC]] — Citée pour avoir mobilisé [[William Reich]] qui cite lui-même [[Otto Strasser]], illustrant la dérive des théories non matérialistes vers des références fascistes.
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Premier développement analytique direct sur son tournant politique.
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Citée brièvement dans la discussion sur le style hybride essai/poésie ; la PaduTeam note que son écriture mêle l'essai et le littéraire, ce qui est selon eux une faiblesse formelle (même si certains passages sont "sublimes").

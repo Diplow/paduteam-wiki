@@ -137,5 +137,8 @@ La NUPES est analysée comme structurellement instable : "trop faible dans ce qu
 - [[BHL trouve MÉLENCHON FASCISTE mais PAS LE PEN !!]] — confusionnisme intellectuel bourgeois comme arme anti-gauche de rupture
 - [[PASCAL PRAUD MET LÉON DEFFONTAINES EN PLS SUR STALINE !!]] — stratégie de reniement PCF vs discours de dépassement ; comment répondre offensivement au piège médiatique
 - [[ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! (avec Dr Zoé)]] — mécanisme de la "gauche de droite" dans les médias réactionnaires ; trajectoire Clouscard des libéraux-libertaires vers le néofascisme
+- [[CAGE et PIKETTY PREFERENT RUFFIN a MELENCHON]] — erreur analytique de Cagé-Piketty : confusion problème/solution ; vote rural RN non récupérable sans attaquer le contrat racial ; Mélenchon barrage empirique au RN ; la stratégie Ruffin (concorde rurale) est voée à l'échec
+- [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Ruffin imposteur structurel : capture les voix LFI au 1er tour, va chercher le centre au 2e ; seuls Mélenchon et Glucksmann ont une ligne cohérente ; le Graphique prédit que les primaires mobilisent le haut-droite pas les classes populaires
+- [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — aile droite PS embrasse frontalement la guerre des gauches ; concernisme offensif de Bouamrane comme brouillage de classe ; additionner PS + FI = erreur analytique fondamentale démontrée par le Graphique
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]]
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]

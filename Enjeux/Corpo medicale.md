@@ -98,6 +98,7 @@ La PaduTeam étend sa critique au **champ psychiatrique** (mars 2025). La psychi
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en action, jusqu'à la logique eugéniste du permis de procréer ; outil de radicalisation de conscience de classe
 - [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]] — extension du combat au champ psychiatrique : contradiction soin/contrôle, vocabulaire normalisateur, critique des soins sans consentement, ESAT comme exclusion validiste
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — la solution de gauche
+- [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — les soins palliatifs comme angle mort de la corpo médicale : 3 médecins palliatifs pour tout un département, impossibilité d'entrées directes, familles livrées à elles-mêmes ; articulation avec la critique antivalidiste
 
 [^1]: [2:33](https://www.youtube.com/watch?v=XT_0YFmY_lM&t=153) — "il y a 87 % du territoire français qui est actuellement désertifié et contrairement à ce qu'on pense, c'est pas que dans les campagnes. Le plus grand désert médical de France, c'est l'Île-de-France 96 % du territoire qui est désertifié"
 [^2]: [36:52](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=2212) — "ils ont une conscience de classe de zinzin et la réalité c'est qu'ils sont très forts du coup dans des rapports de force"

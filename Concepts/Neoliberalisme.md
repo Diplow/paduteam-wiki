@@ -33,3 +33,6 @@ Le néolibéralisme fonctionne par extraction de plus-value des pays périphéri
 
 ## Opposition
 La stratégie de Mélenchon consiste à "marteler des positions en rupture avec le néolibéralisme" ([[Strategie Le Pen 2002]] inversée). Programme anti-néolibéral: 32h, SMIC à 2000€, nationalisation crédits immobiliers, 6e semaine congés pa
+
+## Vidéos où le concept est développé
+- [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La "phase de clôture du néolibéralisme" : Trump essaie de sortir du néolibéralisme par le protectionnisme à l'ancienne, sans les outils de planification nécessaires. La Chine, elle, représente le seul modèle qui sort effectivement du néolibéralisme par la planification.

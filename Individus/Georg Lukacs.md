@@ -29,3 +29,4 @@ Lukacs reste entre deux chaises : "pas assez stal pour les stales de son pays" e
 ## Vidéos où Georg Lukacs est analysé
 - [[Le MARXISME, un TRUC de BLANC]]
 - [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]] — *Histoire et conscience de classe* mobilisé pour l'asymétrie bourgeoisie/prolétariat : conscience bourgeoise organique et synchronisée avec la pratique quotidienne vs conscience prolétarienne qui nécessite l'organisation
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Référence centrale sur la méthode dialectique marxiste dans la réponse à Bégaudeau ; son livre *L'âme et les formes* (1911, pré-marxiste) cité pour l'analyse des formes romanesques comme expressions de visions du monde

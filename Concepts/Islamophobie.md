@@ -83,10 +83,20 @@ Formulation théorique centrale issue du même transcript : "le néolibéralisme
 
 L'interdiction de l'abaya valide l'usage du terme *islamophobie* contre le terme *racisme antimusulman*. L'abaya n'est pas un marqueur religieux — c'est une tenue culturelle. Des femmes non-musulmanes qui la portaient se la sont vu interdire. Cela prouve que c'est "une esthétique qui pourrait faire penser à l'islam" qui est rejetée — soit une *culture*, une *civilisation*, une *forme d'habillement*. Le terme "islamophobie" recouvre exactement ce phénomène là où "racisme antimusulman" ne le peut pas[^abaya].
 
+## L'"islamophobie comme progressisme des imbéciles"
+
+Formulation centrale développée dans [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] : "L'islamophobie est le progressisme des imbéciles aujourd'hui." En référence explicite à August Bebel qui disait que l'antisémitisme était "le socialisme des imbéciles" — une critique déviée, une colère réelle mal orientée. Conséquence : "Il n'y a aucun passe-droit, aucun moyen de soi-disant critiquer les religions [...] Toute forme d'islamophobie est antiprogressiste et réactionnaire."
+
+## Double bind patriarcal dans l'islamophobie
+
+La vidéo sur l'affaire Léna Situations/Cannes 2025 développe un mécanisme complémentaire : le contrôle patriarcal du corps des femmes se double d'islamophobie dans un système de double contrainte intenable. Trop dénudée = "pute" ; trop couverte = "frériste" ; tenue androgyne = "masculine". Les femmes racisées ou perçues comme musulmanes n'ont aucune tenue légitime — chaque choix vestimentaire peut être retourné contre elles.
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
 - [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — chronologie complète (Talbot 1984 → abaya 2023), troisième matrice coloniale, laïcité coloniale, application du contrat racial, islamophobie comme nécessité structurelle du néolibéralisme en crise.
+- [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] — affaire Léna Situations/Cannes 2025 ; frérisme comme nouvel antisémitisme ; chiffres réels du rapport parlementaire ; double bind patriarcal ; fissure dans le bloc islamophobe de droite (Copé).
+- [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — islamophobie involontaire du class-first trotskiste ; position léniniste historique contra le laïcisme coercitif ; effets concrets de la loi de 2004 (baisse de scolarisation) ; argument matérialiste contre l'analyse libérale de la liberté individuelle.
 
 [^col1]: [23:56](https://www.youtube.com/watch?v=-AmidXZp0SA&t=1436) — "Il y a aussi beaucoup plus de processus de racialisation, c'est la matrice coloniale — qui est beaucoup plus profonde, qui est partagée par l'ensemble. Donc elle est moins théorisée, donc moins exprimable."
 [^2004]: [35:55](https://www.youtube.com/watch?v=-AmidXZp0SA&t=2155) — "On dit que des jeunes filles sont libres d'avoir des rapports sexuels à 15 ans avec Matznev mais qu'elles ne peuvent pas décider de ce qu'elles portent sur leur tête."
