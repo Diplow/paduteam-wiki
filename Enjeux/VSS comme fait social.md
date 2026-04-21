@@ -1,10 +1,10 @@
 ---
 type: enjeu
-domaine: société
-thèmes: [féminisme, VSS]
-skill_version: write-enjeu-2026-04-21-enrichi
+domaine: [société, théorie]
+thèmes: [féminisme, VSS, travail, psychiatrie-psychologie]
+skill_version: write-enjeu-2026-04-21
 date created: Monday, April 13th 2026, 11:23:10 pm
-date modified: Monday, April 21st 2026, 12:00:00 pm
+date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 
 #domaine/société #thème/féminisme #thème/VSS
@@ -221,11 +221,28 @@ Arguments développés :
 
 Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collective de [[La Breche]] — Zoé intègre formellement les moyens de production collectivisés avec Positions Revue et Padu. La capsule est ainsi à la fois un acte politique sur les VSS ET une annonce d'organisation militante.
 
+## L'emprise comme mécanisme trans-genré : le cas Pormanove
+
+[[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]] étend le cadre VSS à une situation qui n'est pas "génération classique" : un homme handicapé mort au travail dans des conditions d'emprise totale. La PaduTeam y voit un cas d'école qui confirme et élargit la thèse centrale des VSS comme fait social.
+
+**L'emprise n'est pas genrée — elle est structurelle.** [[Jean Pormanove]], streamer handicapé sur Kick, vivait au même endroit que ses exploiteurs [[Naruto]] et Safine, sans aucun autre lien social, dans une dépendance financière et affective totale. Ses messages de détresse à sa mère ("je suis séquestré") contredisent directement le discours du consentement libre — exactement comme dans les violences conjugales. Les mêmes mécanismes : violence alternée avec affection (chaud-froid), renversement de responsabilité, isolement des liens extérieurs. Le parallèle explicite avec [[Bertrand Cantat]] confirme : ce ne sont pas des situations différentes par nature, ce sont les mêmes mécanismes d'emprise.[^vss_jp1]
+
+**La mort de JP est une mort au travail.** Payé 6 000 € par mois pour être humilié et frappé en direct, JP était dans un rapport employeur-salarié. La PaduTeam insiste : "c'est pas la même chose d'avoir un décès comme ça. C'est un décès d'un type au travail dans des conditions de travail qui sont quand même très particulières."[^vss_jp2] La plateforme Kick finançait le local — c'est une relation de travail, pas un loisir.
+
+**Le discours libéral du consentement protège les exploiteurs, pas les victimes.** "Il était consentant" est exactement le discours de Naruto, des réseaux de traite d'êtres humains, des patrons d'Amazon et des proxénètes. Le consentement n'a de sens qu'indexé sur les rapports de force. JP avait accès à 6 000 € par mois dans ces conditions — ou 1 000 € dans des conditions également violentes. "Le choix n'en était pas un."[^vss_jp3] La formulation libérale qui traite les deux comme équivalents est "structurellement au service des dominants."
+
+**Le [[Validisme du travail capitaliste]] comme infrastructure de l'exploitation.** Le système français fabrique l'isolement des personnes handicapées : école ségrégative, tutelles surchargées, absence d'accès aux soins spécialisés, logement inaccessible. Sans lien social autonome, sans revenus propres, la chaîne Kick représentait pour JP "mieux que ce qu'il avait vécu" — c'est pourquoi il y restait. La réponse ne peut être que structurelle : système de soins, éducation inclusive, accès inconditionnel au logement et à la nourriture — impossible dans le système capitaliste actuel.
+
+**La réponse pénale individuelle ne résout rien.** La vraie question n'est pas la prison pour Naruto — c'est : "pourquoi peut-on faire de la tune sur l'humiliation de personnes handicapées, et pourquoi ces personnes n'ont-elles pas d'autre option ?" La PaduTeam relie cela à la "double besogne" : gains immédiats (protéger les personnes) + lutte longue (abattre le capitalisme).[^vss_jp4]
+
 ## Le masculinisme comme pipeline vers les VSS : le cas Rochedy
 
 [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] confirme le lien structurel entre idéologie masculiniste et normalisation des VSS. La PaduTeam identifie le masculinisme comme le principal pipeline de recrutement de l'extrême droite sur internet — et note que Rochedy en 2015 a répondu au viol d'une fillette de 7 ans par un migrant non par des mots sur les VSS mais par une apologie d'Hitler ("un homme a voulu redresser son pays et porter l'Europe... au mépris de tous les autres"). 10% des enfants subissent des violences sexuelles, dans l'immense majorité des cas par des membres de la famille. Rochedy n'a jamais écrit de lettres pour eux.
 
 La PaduTeam formule le mécanisme structurel : "la misogynie et le sexisme sont les meilleurs pipelines de recrutement de l'extrême droite sur internet." Ce n'est pas un accident — c'est une stratégie délibérée. L'eugénisme diffus de Rochedy (*Sous-homme et surhomme* : le progrès médical supprime la sélection naturelle et cause la "dégénérescence") rejoint la logique des droitards qui ont un problème avec les VSS subies et pas commises : ils sélectionnent les victimes à défendre selon leur race.
+
+## Vidéos associées (corpus été 2025)
+- [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]] — mort au travail sous emprise ; le validisme capitaliste comme condition matérielle de l'exploitation ; l'emprise démontée mécanisme par mécanisme (chaud-froid, isolement, dépendance financière) ; discours du consentement comme protection des exploiteurs ; réponse structurelle nécessaire (soins, logement, éducation inclusive)
 
 ## Vidéos associées (corpus mai 2025)
 - [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]] — gaslighting du récit par l'agresseur patron ; féminisme CFDT comme féminisme d'impunité ; boys club numérique ; misoginoir ; structure patronale comme condition de possibilité des VSS
@@ -257,3 +274,7 @@ La PaduTeam formule le mécanisme structurel : "la misogynie et le sexisme sont 
 - [[ARTHUR ANIMATEUR TELE OU PREDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES]] — la fortune comme bâillon juridique (600M€) ; la puissance économique comme arme de censure des critiques ; la domination de classe comme prérequis de la domination de genre en prime time TF1
 - [[ARTHUR NOUS CENSURE DR ZOE EST FOLLE DE RAGE]] — la vraie cancel culture : faire taire les critiques par le droit d'auteur ; le rapport de force inégal assumé et refusé
 
+[^vss_jp1]: [47:23](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=2843) — "ça me rappelle vraiment mais vraiment la rhétorique des mecs violents en couple [...] en fait ça rentre dans l'emprise aussi le fait d'être immonde, immonde, immonde, et de temps en temps être sympa. Ce qui fait que ça donne un espèce d'effet de chaud froid"
+[^vss_jp2]: [13:00](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=780) — "c'est pas la même chose d'avoir un décès comme ça. Enfin nous ça nous paraît être un stream et presque un loisir mais en fait c'est un décès d'un type au travail dans des conditions de travail qui sont quand même très particulières"
+[^vss_jp3]: [44:18](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=2658) — "mettre la sacrosainte liberté et consentement de la personne sur le devant de la scène dans ce cadre là en disant bah du coup ça veut dire qu'il faut laisser le faire. C'est vraiment une vision libérale individualiste des choses qui profite à qui ? Qui profite au gars qui se fait de la tune sur ses mecs"
+[^vss_jp4]: [53:30](https://www.youtube.com/watch?v=Szw7Cli2ltE&t=3210) — "si on avait un système social qui faisait en sorte que JP il gagnait 1600 balles avec un job adapté à ce qu'il peut faire, jamais il se serait trouvé dans ce truc-là"

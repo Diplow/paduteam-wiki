@@ -58,5 +58,6 @@ Dans [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]], la PaduTeam il
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — développement central du concept
+- [[CHARLES CONSIGNY VEUT PLUS D'ESCLAVES POUR LES VENDANGES]] — application au secteur viticole : la racialisation comme dernier recours quand les conditions d'exploitation sont trop dégradées pour attirer la main d'œuvre nationale ; quatre niveaux de rapport aux vendanges selon la classe sociale
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — application à la crise hospitalière : le racisme comme écran aux responsabilités néolibérales
 - [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — application à Mayotte : tension Mahorais/Comoriens comme gestion par le pacte raciste d'une pénurie de services publics organisée

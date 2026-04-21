@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 date created: Tuesday, March 31st 2026, 11:47:20 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-21-enrichi-w33w34
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
 # Palestine libre
@@ -66,7 +66,7 @@ La libération de [[Georges Ibrahim Abdallah]] en 2025 a été vécue comme une 
 Le sionisme de gauche enrichit cet enjeu d'une dimension spécifique : **le sionisme de gauche comme menace interne à la gauche**.
 
 - [[Sophia Aram]] au Molière : "Il y a un silence assourdissant autour du 7-octobre" — instrumentalisation du 7-octobre pour faire croire qu'on parle trop des Palestiniens, sous couvert d'"équilibre".
-- [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne.
+- [[Julien Dray]] : "il y a des bars à glace à Gaza, les gens touchent 697 dollars par mois" — négationnisme de la famine en direct sur plateau, sans poursuites. Pendant ce temps, Anasse Kazib et Jean-Paul Escuro sont mis en examen pour avoir soutenu la résistance palestinienne. La PaduTeam va plus loin que le simple démontage factuel : mobilisant la 1ère thèse sur Feuerbach, elle explique que les "faits" de Dray ne sont pas des erreurs à corriger, ils "font partie de l'activité génocidaire de sa classe." Les fact-checkeurs se trompent de stratégie : "lui opposer une autre vérité ne suffit pas. Il faut aussi opposer à cette vision du monde génocidaire une lutte et une vision du monde progressiste."[^pal_dray_feuerbach]
 - [[Bernard-Henri Levy|BHL]] (Beyrouth, octobre 2024) : qualifie le bombardement de Beyrouth de "libération" — le sionisme de gauche atlantiste soutient aussi l'extension de la guerre au Liban.
 - [[Chloé Ridel]] sur [[Backseat]] : retourne sa veste en 2025, prétend avoir "toujours dénoncé le génocide". Deux ans plus tôt, des sionistes passaient sans contradiction sur le même plateau pour établir le storytelling Hamas=terrorisme.
 - Macron remet le prix LICRA antiraciste à [[Arthur]] et [[Sophia Aram]] — l'État légitime ceux qui ont travaillé à criminaliser la solidarité pro-Palestine. La PaduTeam : "C'est un prix de soutien au génocide en Palestine, pas un prix antiraciste."
@@ -134,3 +134,5 @@ Arguments nouveaux :
 - Le rapport ONU sur les viols des femmes palestiniennes en détention par les forces israéliennes : détention arbitraire, violences sexuelles, femmes gardées en cage sous la pluie, photos de soldats avec des sous-vêtements volés. Aurore Bergé, chantre du féminisme, silencieuse.
 - **Polska** comme exemple de classe : immigrée polonaise, a fait de l'OnlyFans pour s'en sortir, vient au débat sur TPMP et fait bégayer Nadine Morano. La PaduTeam défend Polska contre la misogynie qui la réduit à son corps — et souligne que ce sont précisément les gens qui "n'oublient pas d'où ils viennent" qui se positionnent pour la Palestine.
 - La dissolution de [[La Jeune Garde]] et [[Urgence Palestine]] comme acte de fascisation : Retailleau les dissout après le meurtre d'Abouakar. La cible n'est pas la violence — c'est l'efficacité organisée.
+
+[^pal_dray_feuerbach]: [15:28](https://www.youtube.com/watch?v=pmkfvlIocN0&t=928) — "Ça fait partie de l'activité génocidaire. Il participe vraiment de cette vision du monde qui permet le génocide de dire 'non mais de toute façon c'est bon.' C'est là où les fact-checkeurs se trompent : lui opposer une autre vérité ne suffit pas."

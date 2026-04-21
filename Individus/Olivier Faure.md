@@ -86,6 +86,14 @@ La PaduTeam conclut : Faure échouera dans son processus unioniste, se retrouver
 [^faure-genoicide]: [30:13](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1813) — "c'est un peu un résistant de 1945. Le gars c'est au moment où tout le monde le reconnaît [...] le gars te dit bon ben maintenant c'est un génocide" — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
 [^faure-girouette]: [31:49](https://www.youtube.com/watch?v=109fM1CEu9Q&t=1909) — "Fort est obsédé par la FI, il regarde tout ce que fait la FI pour voir comment il peut profiter du vent de la FI. Comme toutes les girouettes, il ne sera qu'agité par le vent." — dans [[FAURE VEUT FAIRE DU MELENCHON SOFT]].
 
+### Vacances pendant que le mouvement social s'organise (été 2025)
+
+La PaduTeam le montre "bien bronzé, bien grillé, bien croquant" à préparer la rentrée stratégique au lieu de travailler à l'organisation du 10 septembre. Au lieu d'accompagner le peuple face au budget Bayrou, le PS "fait passer l'intérêt de son petit appareil politique devant l'intérêt du peuple français." Métaphore récurrente : "vas-y Olivier, pars devant sur la barricade, on te regarde."[^faure-barricade]
+
+La PaduTeam estime qu'avec ses 66 députés (obtenus grâce aux concessions de la FI dans l'accord NFP 2024), Faure manœuvre pour donner l'impression d'une force qu'il n'a pas.
+
+[^faure-barricade]: [5:42](https://www.youtube.com/watch?v=VIjS60Badeg&t=342) — "Je sais pas où ils sont partis en vacances... Vas-y Olivier, pars devant sur la barricade, on te regarde." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos où Faure est analysé
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, donc il est obligé de surjouer son soutien à la primaire. Stratégie potentielle : envoyer Johanna Rolland à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec Attal sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique."
 - [[Faure oblige de trahir]] — Démonstration graphique que Faure était structurellement obligé de trahir le NFP
@@ -96,3 +104,4 @@ La PaduTeam conclut : Faure échouera dans son processus unioniste, se retrouver
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Kit ou double : stratégie de survie par la primaire FP2027. Ruffin gagnera la primaire → Faure mort politiquement. Transpire quand Tondelier lâche "primaire" sans mandat du PS.
 - [[MAMDANI A GAUCHE DE MELENCHON]] — « Mamdani serait au PS aujourd'hui » : synecdoque du blocage des loyers pour postuler l'équivalence globale ; démontage en trois temps (étiquette socialiste ≠ programme, Hollande ≠ extrême gauche, partie ≠ tout) ; réassignation au bloc « Clinton-Cuomo-Harris ».
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, stratégie girouette, fracture FI, Gaza post-élection, prophétie Vallaud.
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Inaction estivale : combinards pendant que le 10 septembre s'organise ; refus de censurer Bayrou analysé comme solidarité programmatique implicite ; 66 députés obtenus grâce à la FI utilisés contre elle

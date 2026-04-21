@@ -21,5 +21,12 @@ Cette formule est utilisée pour expliquer pourquoi [[Alain Soral]], issu d'un m
 ## Relations
 - [[Petite bourgeoisie]] — concept central de son analyse
 
+## *La révolte des élites* et la guerre culturelle américaine
+
+Lasch est cité dans [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] pour son analyse de l'autonomisation culturelle des élites américaines. Son livre *La révolte des élites* (années 80-90) montre que les classes supérieures se sont progressivement séparées des classes populaires pour former une sphère culturelle autonome. Cette séparation a créé le rapport de "guerre culturelle" entre le bas et le haut : d'un côté, des élites new-yorkaises ou californiennes qui dictent les codes culturels ; de l'autre, des classes populaires qui ressentent cette imposition comme une humiliation.
+
+La PaduTeam note que Lasch "est quand même un conservateur" — il identifie le mécanisme correctement mais sans analyse de classe, sans nommer le capital. [[Thomas Frank]] ira plus loin en montrant les conséquences politiques : l'abandon des préoccupations matérielles par les Démocrates.
+
 ## Vidéos où Lasch est cité
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — Cité sur la petite bourgeoisie et son indécision structurelle
+- [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]] — *La révolte des élites* citée pour expliquer la guerre culturelle américaine et son importation française

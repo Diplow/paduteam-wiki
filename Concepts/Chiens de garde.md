@@ -27,5 +27,15 @@ Cas d'école analysé lors du 10 septembre 2024. L'émission a platéformé troi
 
 Tous trois identifiés instantanément par leur position dans le [[Graphique]]. La PaduTeam : "la sociologie est une science exacte, plus dure que les mathématiques."
 
+## Application : Buzin et Lasserre sur les arrêts de travail (août 2024)
+
+Deuxième cas d'école, complémentaire. Cette fois, les chiens de garde ne sont pas des appelants petits-bourgeois mais des expertes institutionnelles et médiatiques qui interviennent pour défendre le budget Bérou (5,5 milliards d'économies sur la santé) :
+
+- **[[Agnes Buzin]]** — ancienne ministre de la Santé, ex-cheffe de la HAS, défend sur BFM TV les réformes d'économies en traitant la hausse des arrêts maladies comme un phénomène naturel extérieur aux rapports sociaux. Elle oublie de citer les 900 suicides/an liés au travail, et ignore que le système de soins qu'elle a contribué à dégrader allonge mécaniquement les arrêts.
+- **[[Isabelle Lasserre]]** — journaliste au Figaro/LCI, déclare que "le travail vous permet d'être libre" (*Arbeit macht frei*) et critique l'expression "je me mets en arrêt" comme symptôme d'un rapport au travail dégradé — depuis sa position de commentatrice qui pouvait télétravailler pendant le Covid.
+
+Dans ce cas, le mécanisme est légèrement différent : ce ne sont pas des "petits-bourgeois présentés comme peuple" mais des figures d'autorité (expertise médicale, presse de référence) dont la légitimité institutionnelle sert à naturaliser les politiques d'austérité sanitaire.
+
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — démonstration live, lecture de Marx sur le socialisme petit-bourgeois
+- [[CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE]] — Buzin (BFM) et Lasserre (LCI/Figaro) : chiens de garde institutionnels sur le terrain des arrêts de travail

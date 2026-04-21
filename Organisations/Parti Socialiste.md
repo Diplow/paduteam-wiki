@@ -82,9 +82,22 @@ La "clé de voûte" Fort entre les deux : essaie d'être ni pro-union totale (FI
 [^jamet-lvmh]: [7:15](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=435) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 [^jamet-statut]: [31:58](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1918) — dans [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 
+## Plan anti-Mélenchon (été 2025)
+
+Pendant l'été 2025, alors que se prépare le mouvement social du 10 septembre, le PS travaille à sa stratégie électorale anti-LFI. [[Pierre Jouvet]] annonce le plan : 577 candidats prêts pour une dissolution éventuelle, alliance avec écolos et [[Parti Communiste Francais|PCF]] *en excluant la FI*, inspiration du plan Jospin 1996.
+
+La PaduTeam démonte l'ironie : le plan Jospin 97 avait réussi *parce que* les grèves de 1995 (le plus grand mouvement social depuis mai 68) avaient mis la gauche sur orbite. Reproduire le plan sans le substrat social, c'est préparer le résultat de 2002 — l'éjection de la gauche au second tour.
+
+Ligne Jouvet : construire un bloc de Ruffin à Glucksmann, exclure la FI. Le PS prépare des candidats face aux sortants LFI. Si le [[Rassemblement National|RN]] gagne, la stratégie de désistement républicain permettra au PS de se repositionner comme "rempart" sans alliance avec Mélenchon[^plan-jospin].
+
+La PaduTeam accueille favorablement cette clarification : "on a besoin de cette bataille à gauche." Rangs séparés PS/LFI = clarification définitive des lignes.
+
+[^plan-jospin]: [14:25](https://www.youtube.com/watch?v=VIjS60Badeg&t=865) — "Ce qui se décide c'est vraiment d'exclure la FI, de supprimer Mélenchon de l'équation. Ils vont essayer un maximum de faire une gauche anti-FI" — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos où l'organisation est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Bilan complet du retour PS : Strasbourg, Paris, Montpellier, Nantes, Pau. Droitisation vers l'électorat Horizon.
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Tentative de PM Macron, budget hollandiste, Faure en panique sur BFM TV face à Panot
 - [[MAMDANI A GAUCHE DE MELENCHON]] — Récupération Mamdani par Faure ; démontage en direct ; stratégie de revendication « plus à gauche que le NFP » conseillée à LFI
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy, deux stratégies (Fort vs Mayer-Rossignol/Glucksmann), ligne girouette, Vallaud comme candidat inévitable 2027
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Portrait de Jamet comme incarnation de la dégénérescence PS : secrétaire général LVMH + maire PS + ~22 postes cumulés, neveu d'un fondateur du FN
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Plan estival anti-LFI : 577 candidats, inspiration Jospin 96, alliance écolos-PCF sans la FI, refus de censurer Bayrou analysé comme solidarité programmatique implicite
