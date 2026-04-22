@@ -39,7 +39,14 @@ Annonce stratégique : au second tour, désistements républicains pour le candi
 
 [^jouvet-plan]: [15:28](https://www.youtube.com/watch?v=VIjS60Badeg&t=928) — "On sait que depuis le 7 juillet, il peut dissoudre. Notre plan est d'anticiper le plus possible et aussi d'affirmer de manière ferme que l'on n'a pas peur de revenir devant les électeurs pour défendre une politique plus juste." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
 
+## La "girouette à quatre faces" et la "veste réversible quadruple" (mars 2026)
+
+Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam formalise le portrait de Jouvet en "girouette à quatre faces" — une veste Lacoste réversible mais à quatre faces. Il est décrit comme capable de tenir toutes les positions : pro-insoumis en 2022 (aux "Amphies"), pro-alliance en 2024, "opiniâtre" dans le compromis avec Lecornu en 2025, désormais présenté par Le Monde comme un homme de "grande adaptabilité". La citation du Monde est retournée comme aveu involontaire : "adaptabilité" = absence de ligne.
+
+Sa citation en secrétaire général du PS expliquant vouloir "se concentrer sur la bataille budgétaire" avant de parler primaire est analysée comme une tactique délibérée — pas une priorité sincère — au moment même où le PS était divisé sur le vote du budget.
+
 ## Vidéos où Pierre Jouvet est analysé
 - [[BORIS VALLAUD N A PAS DIT SON DERNIER MOT]] — Congrès PS, bureau national post-municipales
 - [[LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN]] — au cœur de la fuite du dîner avec Legrand et Cohen
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Porte-parole du plan anti-LFI : 577 candidats, alliance de Ruffin à Glucksmann, désistements républicains. Revirement depuis ses positions pro-NUPES
+- [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Portrait de la "girouette à quatre faces", décryptage de son discours sur le report de l'annonce de la primaire

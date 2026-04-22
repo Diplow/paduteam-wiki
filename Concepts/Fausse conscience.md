@@ -41,3 +41,4 @@ Le Syndicat National des Journalistes signe un communiqué contre le refus d'acc
 
 - [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — analyse centrale de l'autoneutralisation comme fausse conscience
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — "la fausse conscience permet tout" ; application au SNJ, à Anneclaire Coudret et à la question Gaza
+- [[MELENCHON DRAGUE LES PETITS PATRONS]] — fausse conscience de Mélenchon sur les TPE-PME : il glisse du "patron de PME" à "l'artisan/coiffeur" sans voir la différence de classe ; fausse conscience de classe sur la nature des TPE-PME (qui sont du salariat, pas du patronat autonome)

@@ -39,6 +39,18 @@ Chroniqueuse dans *Face à Face* sur [[LCI]] face à [[Louis Sarkozy]] à partir
 
 Dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], la PaduTeam analyse le complément d'enquête France 2 sur Mélenchon dans lequel Garrido (et Corbière) témoignent contre leur ancien mentor. La PaduTeam ne cite pas explicitement leurs témoignages dans la vidéo mais les positionne dans la même séquence que Guedj : des figures issues de l'orbite Mélenchon qui utilisent le format journalistique pour instiller l'idée qu'il est "le problème" — tout en se présentant comme les défenseurs de l'unité. La PaduTeam signale également dans ce contexte que Garrido faisait partie, avec Daniel Simonet, des insoumis qui auraient pu être d'accord avec la position pro-vote de l'article 7 lors des retraites en 2023 — une minorité au sein du groupe FI utilisée par Guedj pour prétendre à tort qu'il y avait "un accord" côté insoumis.
 
+## Sur T18 (début 2026) : islamophobie et règlement de comptes
+
+Dans [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]], Garrido intervient sur [[T18]] (chaîne proche de [[Daniel Kretinski]] et du réseau [[Franc-Tireur]]) pour attaquer Mélenchon sur son mode de vie, sa stratégie et sa légitimité. La PaduTeam relève plusieurs registres :
+
+1. **L'argument du confort** : "il vit avec sa retraite de sénateur socialiste, il n'a pas envie de gagner." Démontage : Mélenchon a fait 22 % en 2022 et a failli qualifier à la place de Le Pen ; la sécurité personnelle est justifiée par des tentatives d'assassinat avérées.
+
+2. **La NUPES revisée** : Garrido prétend que les députés NUPES ont été élus "grâce au logo PS." La PaduTeam rappelle que l'affiche de campagne était "Mélenchon, Premier ministre" et que le PS avait fait 1,7 % à la présidentielle — c'est le PS qui avait besoin de la NUPES, pas LFI.
+
+3. **Le dog whistle islamophobe** : Garrido évoque une organisation de LFI "en fonction de considérations ethniques ou religieuses" et utilise l'expression "Nouvelle-France" pour suggérer que Mélenchon ne veut pas gouverner la France réelle. La PaduTeam : "tu es en train de nous faire une version de l'ennemi de l'intérieur." Zoé qualifie cela de "serpillère islamophobe dans un moment de fascisation du pays." La formule, que Garrido aurait pu sortir selon la PaduTeam, "pourrait être tenue mot pour mot par Sarah Knafo."
+
+4. **L'ironie biographique** : Garrido a elle-même accusé en 2017 Clémentin Autain de "chercher de la gamelle dans les médias pour taper sur Mélenchon." Elle reproduit exactement ce schéma. La PaduTeam : "Bienvenue au club, Raquel."
+
 ## Vidéos où Garrido est mentionnée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Fondatrice de L'Après, fuite vers Libération, retournement paradoxal vs sa critique d'Autain en 2017
@@ -46,3 +58,4 @@ Dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], la PaduTeam analyse le
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Face à Louis Sarkozy sur LCI dans *Face à Face*
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Citée dans le contexte du complément d'enquête France 2 ; positionnée comme minorité pro-article-7 au sein du groupe FI que Guedj instrumentalisait
 - [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Expulse manu militari Badmulch et Bienfait pour tous du congrès de L'Après (congrès invité par Filoche) ; la PaduTeam : "aux abois", mauvais moves en cascade ; L'Après comme panier de crabes ; Garrido = responsable des médias qui joue le rôle du KGB interne.
+- [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]] — Sur T18 : attaque Mélenchon sur son confort matériel, réécrit la NUPES, tient un discours islamophobe qualifié de "serpillère" par la PaduTeam ; la formule canonique sur la "place au soleil médiatique" est ici retournée contre elle.

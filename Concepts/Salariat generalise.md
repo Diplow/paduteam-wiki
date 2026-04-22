@@ -40,5 +40,6 @@ Le chômeur n'est pas extérieur au rapport d'exploitation : il est la pression 
 - [[Nicolas qui paye]] — Démonstration que les cadres sont prolétaires et que leur intérêt est commun avec les ouvriers/employés
 - [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]] — Berdah elle-même déclare préférer pour sa fille "être salariée dans une boîte avec la sécu, avec le chômage, avec les garanties" ; la PaduTeam commente : "Salariat généralisé. Voilà c'est ça qu'a dit Magalie."[^berdah]
 - [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — le chômage comme armée de réserve capitaliste ; le salariat généralisé inclut les privés d'emploi ; critique de la "valeur travail" rouselliste comme antimatérialiste
+- [[MELENCHON DRAGUE LES PETITS PATRONS]] — application centrale : les 45-50 % de salariés dans les PME et micro-entreprises sont la cible à unifier, pas les patrons de ces entreprises ; contre-proposition des 51 % de pouvoir salarié dans les CA comme mécanisme de bifurcation du salariat généralisé
 
 [^berdah]: [27:42](https://www.youtube.com/watch?v=Uw4ZBPtuG_w&t=1662) — "Magalie a dit vous voulez le progrès, il faut le salariat généralisé. Bienvenue camarade Magali prends ta carte, on va lutter ensemble."

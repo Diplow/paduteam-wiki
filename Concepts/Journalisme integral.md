@@ -26,6 +26,13 @@ Cela ne veut pas dire que le journalisme intégral ment ou manipule. La PaduTeam
 - La future chaîne YouTube "[[On ne veut plus]]" est pensée comme "le [[Canard Refractaire]] marxiste-léniniste" : un média de mouvement qui naît pour cristalliser le moment offensif.
 - Le fait que la PaduTeam soit parfois attaquée pour "ne pas être un vrai média" est retourné en preuve : elle n'a jamais prétendu l'être, elle fait du journalisme intégral assumé.
 
+## Le contre-modèle : le "journalisme de cour"
+
+Terme utilisé par la PaduTeam pour qualifier le journalisme politique qui protège les acteurs qu'il couvre en les traitant avec une neutralité factuelle de surface. Le journalisme de cour accumule les citations et les dates sans jamais analyser les rapports de force, les stratégies d'appareils ni les jeux internes aux partis. Sa neutralité est une prise de position : il légitime le paysage existant en refusant de le critiquer.
+
+Cas d'école : l'article d'[[Olivier Perou]] dans [[Le Monde]] sur la primaire FP2027 ("Présidentiel 2027 : à gauche cette primaire qui traîne des pieds", décembre 2025), décortiqué dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]]. Il prend pour argent comptant l'alibi du PS ("la séquence budgétaire"), ne nomme jamais les jeux internes, utilise des guillemets discrets en lieu et place d'analyse. "C'est pas qu'il y a aucune analyse, c'est que c'est fait exprès." Le Monde attend qu'un candidat noisette soit désigné pour se mettre à fond derrière — d'ici là, il protège la coalition en n'en analysant jamais les contradictions.
+
 ## Vidéos où le concept est développé
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — formulation explicite par la PaduTeam et cadrage gramscien
 - [[SALOME SAQUE N'EST PLUS DE GAUCHE]] — défini en creux par contraste avec la neutralité libérale revendiquée par Saqué : le journalisme intégral assume sa position, là où la neutralité libérale la dissimule
+- [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — article Pérou/Le Monde décortiqué comme anti-modèle ; formalisation du concept de "journalisme de cour" comme forme de protection politique du FP2027

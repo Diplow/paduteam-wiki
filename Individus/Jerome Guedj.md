@@ -63,7 +63,19 @@ Guedj jouait sur les deux tableaux : "ils savaient très bien que la FI ne ferai
 
 Guedj formule dans le reportage une punchline préparée : "J'attendais de toi que tu fasses Mitterrand, tu as fait Che Guevara." La PaduTeam la démonte sur deux plans : (a) Mitterrand en 1971 n'a pas "rassemblé" en faisant des concessions — il a pris la ligne la plus à gauche (CERES de Chevènement), fait un discours "celui qui n'est pas pour la rupture ne peut pas être socialiste", et *ensuite* construit le programme commun avec le PCF. Guedj inverse la séquence ; (b) si Guedj voulait vraiment cette unité-là, il aurait dû "dire ce qu'on vient de dire : congrès de refondation et alignement de tout le monde sur le programme de l'avenir en commun. Jamais Guedj n'a parlé de refondation."[^refondation]
 
+## Le 49.3 et la reprise du lead à droite (janvier 2026)
+
+Dans [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]], après la capitulation d'[[Olivier Faure]], Guedj reprend immédiatement le lead de l'aile droite du PS. Son argument : LFI "a préféré appeler à l'usage du 493" en refusant de dialoguer, donc ce sont eux les responsables du 49.3. Pour la PaduTeam, c'est du sophisme pur : "rompre les négociations parce que tu sais que tu vas perdre, puis ensuite dire que c'est la faute de ceux qui n'ont pas voulu négocier."[^guedj-sophisme-49]
+
+Il emploie le vocabulaire qu'il a perfectionné : parler de "vision" pour son camp, de "posture" pour LFI, et d'"illusions" pour les adversaires. La PaduTeam : "un mec qui pour son propre camp parle de vision sans te dire ce que c'est la vision hein [...] c'est vraiment du dialecte d'entrepreneur vide de sens qui est nul à chier."[^guedj-vision]
+
+La PaduTeam conclut que Guedj est désormais "lui-même un qualificatif" — insulter les sociaux-traîtres de "Jérôme Guedj" serait peut-être "plus simple et plus évident pour tout le monde."
+
+[^guedj-sophisme-49]: [15:28](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=928) — "C'est le 493 maintenant ce sont ceux qui précisément ont poussé au 493. quand vous ne négociez pas, quand vous refusez même de dialoguer."
+[^guedj-vision]: [19:07](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1147) — "un mec qui pour son propre camp parle de vision sans te dire ce que c'est la vision hein. Tu sais ouais, lui il est super, il a une vision. Pour moi, c'est vraiment mais du dialecte d'entrepreneur vide de sens."
+
 ## Vidéos où Guedj est analysé
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — reprend le lead PS à droite après la capitulation Faure ; retourne la responsabilité du 49.3 contre LFI ; dialecte de la "vision" vs la "posture" ; déclaré "lui-même un qualificatif" par la PaduTeam.
 - [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Discours du congrès ; analyse de la laïcité comme code islamophobe ; double poids de mesure ; purge MJCF Nord-92
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Trajectoire PRS/PG/NUPES ; trahison politique de 2008 ; démontage de l'accusation sur l'article 7 ; fausse comparaison Mitterrand/Guevara ; stratégie de sortie par Gaza
 

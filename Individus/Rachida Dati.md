@@ -25,3 +25,4 @@ La PaduTeam démonte l'argument : "Dati par rapport à Grégoire, c'est pas elle
 
 ## Vidéos où Dati est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Sa candidature utilisée pour pression sur LFI Paris
+- [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Citée comme adversaire principale de Knafo ; Knafo refuse de l'attaquer pour ménager la stratégie "Union des droites" avec Wauquiez ; la PaduTeam note que Knafo promet de "travailler avec elle loyalement" si Dati est élue

@@ -72,6 +72,7 @@ La PaduTeam documente l'expérience de terrain psychiatrique de Zoé à travers 
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — mépris de classe en médecine
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — solution de gauche
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — co-présentatrice ; psychiatrie de terrain, CAC Ginette Amado, urgences psychiatriques rurales, 18 mois d'attente psychotrauma, transphobie médicale
+- [[GREVE DES MEDECINS CAPRICE DE RICHES OU LUTTE LEGITIME]] — analyse principale de la grève des médecins libéraux : revenus détaillés (3 500€ nets/mois pour Zoé elle-même, 6 500€ moyenne), surmédication et antibiotiques, mise sous objectif arrêts de travail, bus à Bruxelles, liberté d'installation, Cuba comme contre-modèle, risque de radiation assumé pour avoir critiqué la médecine libérale
 
 ## Témoignage personnel sur les VSS
 

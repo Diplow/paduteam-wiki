@@ -29,3 +29,4 @@ Simonet, après avoir obtenu 4 % aux municipales 2020 à Paris sous étiquette F
 ## Vidéos où Simonet est mentionné
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Identifié comme membre de la 2e génération partis de la FI pour fonder L'Après
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Ralliement à l'union PS-Verts-PCF après avoir été FI à 4 % en 2020 sur un discours "plus jamais PS".
+- [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]] — Cité en contrepoint de Garrido : prêt à rallier l'union PS-Verts derrière Emmanuel Grégoire à Paris, invoquant "la culture de l'unité." La PaduTeam : "alerte noisette." Trajectoire miroir de Garrido — même génération, même abandon du "plus jamais PS."

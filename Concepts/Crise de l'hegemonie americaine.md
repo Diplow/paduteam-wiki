@@ -56,3 +56,4 @@ L'hégémonie américaine ne craque plus seulement à la périphérie (Iran, Ven
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Front intérieur de la crise : 20% exports chinois via Californie, négociations Londres concomitantes aux émeutes, tarifs de douane californiens autonomes
+- [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Tripartition Chine/Europe/USA ; acculement de l'empire ; Trump en "poisson hors de l'eau" ; [[Bulle de l IA]] comme seul débouché fictif des capitaux américains

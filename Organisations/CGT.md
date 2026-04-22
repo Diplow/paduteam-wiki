@@ -31,6 +31,16 @@ Dans la journée de grève du 2 octobre 2025, la PaduTeam note deux fois moins d
 
 L'analyse porte aussi sur l'inversion des taux de participation par secteur : l'éducation nationale passe de 18 % le 18 septembre à 6 % le 2 octobre (sous-mobilisation historique), tandis que la restauration, l'audiovisuel et le privé commencent à s'organiser — des secteurs historiquement hors du radar syndical confédéral. La PaduTeam y lit un signe : le mouvement crée de nouvelles bases syndicales que les confédérations n'ont pas encore capturées.
 
+## Janvier 2026 : Martinez sur liste PS, Binet condamne Maduro
+
+En janvier 2026, deux événements concentrent la critique PaduTeam sur la CGT direction :
+
+1. [[Philippe Martinez]] (secrétaire général 2015-2023) figure sur une liste PS pour les municipales à Villiers-sur-Marne, sans la [[France Insoumise]]. La PaduTeam y lit la conclusion logique d'un mandat catastrophique : l'homme qui a freiné l'action radicale pendant la réforme des retraites, qui était "dans la roue de la CFDT", finit à soutenir le PS. Son élection inaugurait déjà une rupture sociologique (premier dirigeant non-ouvrier) prolongée par [[Sophie Binet]].
+
+2. Binet signe un communiqué CGT condamnant "les violations des droits de l'homme sous Maduro" sans exiger sa libération — déclenchant un "désaccord formel" public de [[Jean-Luc Melenchon]]. Pour la PaduTeam, ne pas soutenir le Venezuela est la même ligne droitière que de soutenir le PS en interne.
+
+La PaduTeam défend les ailes combatives de la CGT (UD Nord, CGT Énergie, Bouches-du-Rhône) contre la direction confédérale qui incarne le "[[Syndicalisme rassemble|syndicalisme rassemblé]]" — l'alliance intersyndicale qui se fait toujours sur le programme le moins ambitieux.
+
 ## Vidéos où l'organisation est mentionnée
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Mention de la CGT chômeurs
 - [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]] — CGT critiquée pour attentisme vis-à-vis du mouvement étudiant 2025 ; soutien financier réel à Poitiers mais bureaucratisation du national pointée du doigt
@@ -39,3 +49,4 @@ L'analyse porte aussi sur l'inversion des taux de participation par secteur : l'
 - [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — L'intersyndical appelle à la grève le 18 septembre dans de nombreux secteurs. La PaduTeam mentionne que des établissements qui n'avaient pas grévé le 10 prévoient de grèver le 18, et cite l'UD CGT Nord et Jean-Paul de l'ESCO (UD CGT Nord, "la CGT la plus basée de France") dont un entretien est disponible sur la chaîne YouTube On ne veut plus. Samuel Mégins (UDCGT Nord) était aussi présent à la table ronde de Lille avec Bompard. La PaduTeam appelle toutes les CGT à "entrer dans la compétition pour devenir les plus basées de France."
 - [[18 SEPTEMBRE ON EST LA]] — Drapeaux CGT filmés dans les cortèges de Lyon. La PaduTeam commente les chiffres de participation ville par ville : Marseille (100 000 à 120 000 contre 15 000 annoncés), Paris (double des chiffres officiels). Le 18 comme confirmation que le débordement syndical tient sur la durée : 1 million de manifestants selon les estimations militantes, dispositif répressif au maximum mais mouvement non contenu.
 - [[LES SYNDICATS EMPECHENT LA REVOLUTION EN FRANCE]] — 2 octobre : la journée de grève est deux fois moins forte que le 18. La PaduTeam identifie la logique d'appareil comme cause structurelle : dates à contretemps, attente institutionnelle de "la copie de Lecornu". Pas une trahison — une limite. L'inversion des courbes (public en recul, privé en hausse) pointe les nouvelles bases syndicales que les confédérations n'ont pas encore captées.
+- [[MUNICIPALES PHILIPPE MARTINEZ SOUTIENT LE PS FACE A LFI]] — Martinez sur liste PS (Villiers-sur-Marne) ; Binet condamne Maduro sans exiger sa libération (désaccord formel de Mélenchon) ; bilan Martinez 2015-2023 comme "catastrophe absolue" ; analyse de la sociologie du syndicalisme français (montée des professions intermédiaires à la direction) ; défense des ailes combatives (UD Nord, CGT Énergie) contre le "syndicalisme rassemblé" confédéral.

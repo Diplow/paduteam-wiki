@@ -130,6 +130,20 @@ Los Angeles flambe : raids ICE intensifiés, émeutes massives. Trump **envoie l
 [^la_dislo]: [19:45](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1185) — « si Trump veut la fascisation, il aura en même temps la dislocation. »
 [^la_pacte]: [24:24](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=1464) — « c'est vraiment le pacte racial [...] eux maintenant sont américains [...] ils ne veulent pas des derniers arrivés. »
 
+## Trump à Davos — 72 minutes de "dingueries" (janvier 2026)
+
+Lors du discours de 72 minutes de Trump au [[Forum economique de Davos]], la PaduTeam documente plusieurs erreurs factuelles caractéristiques de l'empire en crise :
+- Confond plusieurs fois le Groenland et l'Islande
+- Affirme que les Suisses parleraient allemand "si les USA n'avaient pas été là" — alors que les Suisses parlent bel et bien allemand (parmi d'autres langues), et que ce sont les soviétiques qui ont tué 86% des soldats nazis
+- Affirme que les États-Unis paient 100% de l'OTAN alors qu'ils en couvrent 16% du budget[^davos_trump]
+
+Ce discours contraste directement avec celui de Macron au même forum : là où Macron rassure avec précision et maîtrise le langage des actionnaires, Trump exhibe son ignorance et son imprévisibilité — renforçant le message de Macron sur la stabilité européenne face au chaos trumpiste.
+
+La PaduTeam résume la situation géopolitique : Trump "reculé sur le Groenland dès qu'il a eu un coup de pression" (200 soldats français), il a menacé des droits de douane à 200% sur le champagne puis s'est rétracté — "un gars qui fait des menaces comme il n'a plus les moyens qu'on lui obéisse."[^davos_trump2]
+
+[^davos_trump]: [26:28](https://www.youtube.com/watch?v=m_yowJv-TVw&t=1588) — "Il a aussi affirmé que les États-Unis avaient payé 100 % de l'OTAN alors qu'il paye 16 % du budget de l'OTAN."
+[^davos_trump2]: [31:38](https://www.youtube.com/watch?v=m_yowJv-TVw&t=1898) — "il fait des menaces comme il n'a plus les moyens qu'on lui obéisse. Bah en fait les gens disent 'Ah bon ? Bah non.'"
+
 ## Vidéos où Trump est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
@@ -140,3 +154,4 @@ Los Angeles flambe : raids ICE intensifiés, émeutes massives. Trump **envoie l
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — Colonialisme assumé, OTAN comme instrument US, tweet FAFO, deux chemins pour le monde
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Discours Rubio Munich : le colonialisme sans masque
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Crise constitutionnelle Newsom, désagrégation de l'empire, contrat racial hispanique
+- [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Davos : 72 minutes d'erreurs factuelles, NASDAQ effondré, Trump "poisson hors de l'eau", acculé par la concurrence Macron pour les capitaux chinois

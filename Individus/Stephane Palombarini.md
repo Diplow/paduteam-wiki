@@ -16,4 +16,5 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 La PaduTeam cite un entretien de 2021 avec Palombarini dans [[Positions Revue]], intitulé *S'il ne reste qu'un barrage républicain, ce sera contre la gauche*. Cet entretien constitue la trace écrite la plus ancienne et la plus approfondie de la théorisation de la [[Moisation|moïsation]] — notamment l'analyse de la mort du bloc central, de l'émergence d'une gauche radicale et d'une droite populiste comme seuls débouchés. Disponible sur le site Positions Revue via la recherche "Stéphane Palombarini positions revue".
 
 ## Vidéos où il est mentionné
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — annoncé comme intervenant à la soirée "Plus jamais PS" du 20 février 2026 ; fera l'historique du PS depuis les années 80, de sa conversion en accompagnateur du néolibéralisme (comparaison avec le Chili de Pinochet et le Royaume-Uni de Thatcher comme variantes plus brutales).
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — Chris recommande l'entretien Positions Revue de 2021 comme lecture de fond sur la moïsation
