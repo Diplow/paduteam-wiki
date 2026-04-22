@@ -504,5 +504,36 @@ La fin novembre 2025 concentre trois événements qui, lus ensemble, marquent la
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — noisettification du PCF parisien : 77% des adhérents approuvent l'alliance PS, base structurellement haut-droite du Graphique ; clivage intra-PCF (Saint-Denis ouvrier vs Paris fonctionnaire supérieur) comme forme avancée de la guerre des gauches ; Chikirou Mamdani contre Brossat-PS
 - [[ANASSE KAZIB ATOMISE MADURO]] — rupture avec le trotskisme sur les questions internationales : occidentalocentrisme trotskiste structural, ni-nisme comme complicité objective, «on n'est pas camarade et on le sera jamais» ; extension du clivage guerre des gauches à l'axe trotskisme/marxisme anti-impérialiste
 
+## Les municipales mars 2026 : recomposition de la guerre des gauches
+
+Les municipales 2026 constituent une séquence révélatrice : chaque acteur de la guerre des gauches y joue sa partition en temps réel, rendant les lignes de fracture plus visibles qu'en période inter-électorale.
+
+### Hollande patron du bloc anti-LFI, la "clarté" comme arme
+
+Hollande sort de sa réserve depuis France Inter au lendemain du premier tour pour imposer sa définition des conditions de fusion : "clarté" sur l'antisémitisme, la violence, la laïcité. La PaduTeam identifie la manœuvre : il ne parle pas de gestion municipale, il pose les règles du jeu de la présidentielle 2027. Le mot "clarté" est le code du PS pour refuser les alliances avec LFI — Hollande fournit le langage fédérateur de l'obstruction à l'échelle nationale. C'est la même rhétorique que Tondelier utilise à Lille ou que Glucksmann utilise dans les médias.
+
+### Tondelier incohérente ville par ville : la guerre des gauches révélée
+
+Tondelier refuse à Lille la fusion LFI-EELV proposée sur une base 50/50, permettant au PS de rester en lice. À Lyon, elle accepte l'alliance avec FI — mais uniquement parce que le PS n'est pas en position. À Strasbourg, elle s'allie avec FI contre le PS. À Poitiers, les pronostics de la PaduTeam la voient s'allier au PS plutôt qu'à FI. La seule constante : Tondelier favorise toujours le PS quand les deux options sont ouvertes. La "noisette douceur" se révèle au fond PS quand il s'agit de choisir — "morte politiquement" après les municipales selon la PaduTeam.
+
+### Garrido retourne la guerre des gauches contre LFI elle-même
+
+[[Isabel Seras Garrido|Garrido]] tweete que les fusions post-premier-tour prouvent que le Plus jamais PS et l'"entrisme" sont morts à LFI. La PaduTeam démonte l'inversion : le PJPS porte sur le premier tour (ne pas faire de liste commune, ne pas offrir de mairie au PS). Au second tour, chercher les meilleures fusions possibles est distinct et cohérent avec la stratégie. "Le Plus jamais PS, c'est au premier tour. Au deuxième tour, évidemment, si on peut être moins à droite ou empêcher l'extrême droite, oui ça fait partie des équilibres." La PaduTeam conclut : "Je sais pas si c'est qu'elle est bête ou si c'est qu'elle fait semblant de pas comprendre."
+
+### La stratégie des "deux jambes" formalisée
+
+Les municipales permettent à la PaduTeam de formaliser la stratégie comme une mécanique en deux temps : "au premier tour, on élimine le PS et ensuite on choisit la gauche au second tour." C'est une réponse directe aux accusateurs qui voient une contradiction entre PJPS et les fusions. La guerre des gauches est menée au premier tour ; l'antifascisme de terrain s'applique au second. Les deux temps sont cohérents, pas contradictoires.
+
+### LFI "coup parfait" — le RN demi-victoire qui se dissout
+
+La PaduTeam lit les résultats comme une validation totale de la stratégie LFI dans la guerre des gauches : LFI "fait le coup parfait", seul ou bien placé dans les grandes villes populaires (Roubaix, Toulouse, Paris 10e-17e) ; Tondelier "morte politiquement" ; Hollande consolide sa posture de candidat de l'anti-LFI pour 2027 ; Garrido révèle sa nature. En face, le RN fait une "demi-victoire qui dilue le projet" : ses gains le forcent à adopter le discours de la droite traditionnelle, ce qui crée une compétition directe avec LR et fragilise son identité antisystème.
+
+## Vidéos clés (batch 37 — mars-avril 2026)
+
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — post-premier-tour : Hollande dicte la "clarté" depuis France Inter ; Tondelier incohérente ville par ville (Lille protège le PS, Lyon et Strasbourg selon l'intérêt) ; Garrido retourne le PJPS en accusation ; stratégie des "deux jambes" formalisée ; LFI "coup parfait" ; la guerre des gauches révèle ses lignes de force en temps réel
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Hollande comme patron émergent du bloc bourgeois anti-LFI ; analogie Le Pen 2002 appliquée à la montée lente par le contexte (Trump, stabilité) ; 11 600 affiches "Plus jamais PS" distribuées ; la guerre des gauches se joue aussi dans l'espace informationnel (qui monte, qui descend)
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — extension de la guerre des gauches à la frange trotskiste : NPA scindé en 3 tendances, Poutou/Besancenot soutien Mélenchon = pire stratégie pour les deux camps ; appel à Kazib (RP) comme alternative révolutionnaire cohérente ; "il faut que la gauche radicale conserve sa propre candidature"
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — pré-électorale : les municipales surmobilisent les classes supérieures (PS/Verts), démobilisent les classes populaires (base LFI) ; cartographie de 13 villes comme répétition générale de la guerre des gauches city by city
+
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^gdg_florentin]: [13:53](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=833) — "lui en plus c'est un fasciste qui s'ignore, tu vois. C'est il se prend pour un libéral et tout."

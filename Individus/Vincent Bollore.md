@@ -31,8 +31,15 @@ Bolloré est "la coordination de la bourgeoisie autoritaire libérale conservatr
 - [[Jordan Bardella]] — ligne politique que Bolloré pousse (union des droites libéral-réactionnaire)
 - [[Marine Le Pen]] — adversaire stratégique de la ligne Bolloré
 
+## Actionnaire d'Obol et réseau catholique d'extrême droite
+
+Le groupe Bolloré est actionnaire d'Obol (29,26% via Canal+, depuis 2024) — start-up qui organise le Dîner des Bâtisseurs, soirée annuelle de 600 leaders catholiques. Bolloré était présent à l'édition 2024 du dîner en personne. La PaduTeam : "apolitique avec Vincent Bolloré qui vient bouffer. Bref." Pour la PaduTeam, la présence de Bolloré suffit à qualifier l'événement — pas besoin d'agenda réactionnaire explicite : "Ce prétend àpolitique, il y a pas besoin de préciser qu'il y avait Bolloré pour dire que c'était de droite."
+
+La PaduTeam formule également une critique ecclésiologique : Bolloré et les milieux CNews "vomissent le pape François" tout en se réclamant du catholicisme — ce sont des **protestants qui s'ignorent**, incarnation de "l'esprit du capitalisme" (Weber), pas du catholicisme fondamental basé sur l'universalisme et la subordination au Vatican.
+
 ## Vidéos où Bolloré est analysé
 - [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — Démontage de la "boloréisation" comme explication de la montée de l'extrême droite ; Bolloré comme effet de la montée du RN, non comme cause ; rôle réel : influer pour la ligne Bardella contre la ligne Le Pen
+- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — Actionnaire d'Obol (29,26% via Canal+) ; présent en personne au Dîner des Bâtisseurs 2024 ; critique ecclésiologique : "protestant qui s'ignore", son catholicisme est l'esprit du capitalisme, pas le catholicisme fondamental
 
 [^1]: [43:41](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=2621) — "Moi, j'ai même un avis qui est pire que ça. Boloré est là pour empêcher Le Pen et sa ligne de 2012 d'arriver au pouvoir."
 [^2]: [44:44](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=2684) — "Moi je pense que s'il y avait pas Boloré aujourd'hui et si les médias étaient comme ils étaient en 2012, le RN serait tout aussi haut voir peut-être même plus haut dans les sondages."

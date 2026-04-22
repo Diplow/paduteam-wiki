@@ -238,6 +238,32 @@ La PaduTeam formule la leçon stratégique : Mélenchon est une digue. Même à 
 
 La confirmation de la PaduTeam : le cordon sanitaire que Wauquiez dit vouloir établir sur LFI est contredit par le fait d'aller débattre avec Bompard — "si tu voulais vraiment le faire, tu venais pas." Wauquiez n'est qu'un lieutenant ; Retailleau maintient vraiment le cordon, ce qui paradoxalement renforce Mélenchon comme "l'autre pôle."
 
+## Les municipales mars 2026 comme répétition générale de 2027
+
+Le corpus du batch 37 (mars-avril 2026) fournit la première validation empirique en conditions réelles de la stratégie de l'union populaire pour 2027 : les municipales mars 2026 confirment point par point les prédictions du Graphique et permettent à LFI de valider sa ligne stratégique en acte.
+
+**LFI ressort victorieuse sur le fond.** Les résultats city par city confirment que LFI perce là où la sociologie le permettait — Roubaix (David Guirot à 44%), avance à Toulouse (Piquemal devant le PS), implantation dans les grandes villes. La PaduTeam diagnostique "le coup parfait" : au premier tour, LFI a éliminé le PS de sa position hégémonique dans plusieurs villes ; au second tour, elle a forcé le PS à des fusions humiliantes avec ceux qu'il traitait d'antisémites. "Les municipales 2026 pour la France insoumise, c'est le coup parfait."
+
+**La prophétie du Graphique validée par ville.** [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] constitue l'application la plus détaillée du Graphique à une élection réelle : chaque ville lue à l'aune de ses blocs sociaux (Roubaix "Jado basse" à 52% Mélenchon en 2022, Rennes "Jado haute" avec gauche bourgeoise significative), les résultats de 2022 comme boussole pour lire les sondages. La PaduTeam démontre que le Graphique prédit mieux que n'importe quel sondage la réalité du vote.
+
+**La logique "deux jambes" validée.** [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] formalise la ligne stratégique : au premier tour, on élimine le PS — on arrive en tête, on montre que son hégémonie sur la gauche est révolue. Au second tour, antifascisme de terrain sans fusion de programme. "Au premier tour on élimine le PS, et ensuite on choisit la gauche au second tour." C'est l'exact retournement de l'adage classique — la PaduTeam le théorise explicitement comme innovation stratégique.
+
+**La légitimité républicaine comme gain supplémentaire.** En fusionnant au second tour avec le PS à Toulouse ou Nantes, LFI sort de la diabolisation. Elle démontre qu'elle est "un parti fréquentable avec qui on peut s'allier" — ce qui renforce sa position pour 2027 sans rien concéder sur sa ligne de premier tour.
+
+**Poutou et le réservoir de voix à gauche de LFI.** [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] développe la thèse que l'union populaire a besoin d'un pôle révolutionnaire à sa gauche pour maximiser ses chances en 2027 : des candidats comme Anasse Kazib (RP) servent de réservoir de mobilisation d'abstentionnistes et de pression au second tour. La recommandation : Mélenchon doit donner ses signatures à Kazib plutôt que de laisser la gauche révolutionnaire se dissoudre dans la FI.
+
+**Bardella comme Jospin 2002 — la prophétie se déroule.** [[BARDELLA est-il le MAILLON FAIBLE du RN]] confirme le mécanisme du 2002 inversé : Bardella est en train de préparer le deuxième tour en oubliant le premier tour, exactement comme Jospin. Sa ligne libérale (refus du blocage des prix, alliance avec LR aux municipales) lui fait perdre sa base populaire. Pronostic PaduTeam daté du 8 mars 2026 : "Ce type ne fera même pas 20%."
+
+**Hollande comme Le Pen 2002 inversé — la prophétie s'affine.** [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] constitue le document de prévision le plus abouti depuis [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] : Hollande va reproduire la dynamique de Le Pen 2002 (partir très loin dans les sondages, être déclaré mort, remonter progressivement jusqu'au second tour). La PaduTeam insiste : ce n'est pas "spécialement lui, c'est le bloc bourgeois a un espace." Hollande est une fonctionnalité structurelle — le recours du bloc bourgeois qui a toujours besoin d'un candidat capable de l'unifier.
+
+## Vidéos clés (batch 37 — mars-avril 2026)
+
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — formalisation la plus complète de la prophétie du 2002 inversé : Le Pen=Hollande, Jospin=Bardella, Chirac=Mélenchon ; analyse sondagière 2001-2002 démontrant que l'impossible politique ne l'est jamais vraiment ; articulation avec la campagne "Plus jamais PS" (11 600 affiches) ; espace Hollande comme fonctionnalité structurelle du bloc bourgeois
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — démonstration que l'union populaire a besoin d'un pôle révolutionnaire autonome (Kazib/RP) à sa gauche ; les candidatures révolutionnaires déplacent le cadre du débat vers la gauche et bénéficient à Mélenchon ; critique du défaitisme anti-RN qui profite à Hollande
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — application la plus complète du Graphique à une élection réelle ville par ville ; le taux de participation comme mécanisme de surmobilisation des classes supérieures ; les élections comme "brèche" (Lénine) pas comme fin en soi
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — formalisation de la stratégie "deux jambes" : premier tour contre le PS, second tour antifascisme de terrain ; "le coup parfait" ; LFI sort de la diabolisation par les fusions au second tour
+- [[BARDELLA est-il le MAILLON FAIBLE du RN]] — Bardella=Jospin 2002, tué par ses lunes de droite (Retailleau, Knafo) ; refus du blocage des prix comme trahison de sa base populaire ; scénario "Ségolène Royal du RN" où Marine Le Pen sabote délibérément sa candidature ; pronostic moins de 20%
+
 ## Le scénario 2027 chiffré par le Graphique
 
 [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] est la vidéo fondatrice de la stratégie 2027 chiffrée. Publiée le 21 avril 2025 — date anniversaire du traumatisme du 21 avril 2002 —, elle projette Mélenchon au second tour avec seulement **16,86%** au premier tour (contre 22% en 2022) grâce à l'[[Eclatement du bloc central]] : les 27% de Macron 2022 se fragmentent en trois candidats (PS 16,18%, LR 13,67%, Horizon 10,84%). La barre est plus basse parce que la droite est elle aussi éparpillée — "fin de la boucle" ouverte le 21 avril 2002.

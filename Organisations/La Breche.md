@@ -57,6 +57,10 @@ En octobre 2025, la PaduTeam annonce la fermeture de leur chaîne Twitch. La dé
 
 L'objectif est de créer le lien entre la production médiatique et l'action concrète de terrain, pour que les analyses PaduTeam se "déclinent sur le terrain concret de personne à personne en campagne."
 
+## État de l'association (mars 2026)
+
+Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam dresse un bilan organisationnel précis : **une quarantaine de membres** (contre quelques membres au lancement). Quatre salariés, soit trois équivalents temps plein (deux monteurs, un graphiste, un organisationnel), plus des prestations ponctuelles (Guim : 3-4 fois par an, captation événements). Objectif tipi : **15 000€ de dons récurrents mensuels** — choix délibéré des dons récurrents sur les dons ponctuels car les CDI ne peuvent reposer sur du ponctuel. La vidéo explicite aussi la règle de croissance : "on ne peut pas faire adhérer 500 personnes d'un coup dans l'association" — les nouveaux adhérents doivent trouver leur place dans des sections locales structurées, avec des formations préalables.
+
 ## Vidéos clés
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
@@ -64,6 +68,7 @@ L'objectif est de créer le lien entre la production médiatique et l'action con
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présentation de l'initiative "On ne veut plus" (100 000 affiches, kits dans 7 villes, table ronde Braderie de Lille, nouvelle chaîne YouTube annoncée) ; appel à la mobilisation 10 septembre
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — La Brèche présentée comme modèle d'association militante décapitalisée ; exposé des revenus réels (≈1000€ Tipeee + 2500€ YouTube) et de leur usage militant
 - [[PADUTEAM C'EST FINI]] — annonce de la fermeture de Twitch ; bilan stratégique automne 2025 ; articulation militantisme internet / terrain
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — bilan organisationnel mars 2026 : quarantaine de membres, 4 salariés (3 ETP), objectif 15 000€ de dons récurrents mensuels, règle anti-gonflement rapide, projet locaux et documentaires
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

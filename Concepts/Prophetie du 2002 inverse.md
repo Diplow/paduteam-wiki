@@ -63,6 +63,19 @@ En octobre 2025, deux événements confirment simultanément la prophétie : [[A
 
 [^confirmation-w42]: [13:26](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=806) — "Vraiment nous c'est ce qu'on a dit, c'est 2002 sera un 2002 à l'envers. [...] Belles et but, c'est vraiment devenu belles et but. Faut l'assumer à fond."
 
+## La dynamique de campagne en détail : pourquoi les sondages se trompent
+
+Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam documente empiriquement le mécanisme par lequel les sondages ne capturent pas les dynamiques de campagne. Compilation de tous les sondages présidentiels 2001-2002 (source : liste Wikipédia des sondages 2002, moyennés par mois) :
+
+- Jospin à 30% en janvier 2001, finit à 16,2%
+- Le Pen à 7-8% pendant toute l'année 2001, finit à 17,4%
+- Le dernier sondage le plus défavorable à Jospin le donnait à 18% — Le Pen ne dépassait pas 14%
+- L'inversion finale (Le Pen devant Jospin) survient dans la dernière semaine
+
+Le mécanisme : les sondages "n'interprètent pas des dynamiques mais des réponses de gens déjà triés, biaisés et qui ne sont pas en situation de vote réelle." Celui qui a la dynamique de campagne (Le Pen en 2002 sur la sécurité, Hollande en 2027 sur la guerre et la stabilité) accumule des voix que les sondages ne voient pas.
+
+Conséquence tactique pour 2027 : si pendant 6 mois les sondages donnent Mélenchon-Bardella au second tour, "personne ne va se mouiller" pour dire Hollande peut y être. Mais la panique médiatique "duel des extrêmes" crée l'aspiration, et quand Hollande atteindra 14% dans les sondages, les sondeurs eux-mêmes commenceront à "rapprocher la réalité."
+
 ## Vidéos où le concept est analysé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — La version initiale de la prophétie (second tour Mélenchon/Le Pen) : Mélenchon à 16,86 %, Le Pen à 19,8 %, victoire 58,2 % / 41,8 %. Inclut l'analyse Graphique de 2002, 2022 et 2027. Différente de la "prophétie du 2002 inversé complet" (variante Hollande) — c'est ici le scénario "standard" où c'est bien Mélenchon/Le Pen au second tour[^initial]
 
@@ -72,5 +85,6 @@ En octobre 2025, deux événements confirment simultanément la prophétie : [[A
 - [[Hollande vs Melenchon 2e tour]] — Présentation complète de la prophétie, avec analyse du Graphique 2002, 2012 et projection 2027
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Le sondage IFOP 2026 confirme la dispersion de 2012 (avant moïsation), Hollande apparaît à 8% dès son premier sondage sans avoir annoncé sa candidature
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin Deranque confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Approfondissement le plus complet de la mécanique de campagne : compilation sondages 2001-2002 (Jospin 30%→16%, Le Pen 8%→17%), explication du siphonnage de l'extrême gauche, dynamique de l'aspiration Hollande créée par le radicalisme de Mélenchon, projection Bardella 27-28% / Mélenchon 16% / Hollande 14% puis croisement des courbes. Documentaire de soirée électorale 21 avril 2002 utilisé pour illustrer la sidération au QG du PS.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toutes les forces de la prophétie confirmées par les résultats. "On va avoir raison de A à Z." Scénarios 2027 développés avec les 4 possibilités de second tour.
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — Double confirmation en octobre 2025 : Finkielkraut vote Le Pen, Retailleau refuse de voter NFP ; parallèle Chirac 81 ; "ils font exactement ce qu'on a prédit dans la prophétie"

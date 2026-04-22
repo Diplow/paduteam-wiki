@@ -106,7 +106,37 @@ La critique n'est pas l'absence de diplôme (contre-exemple : [[Ambroise Croizat
 
 La PaduTeam confirme sa prédiction : Bardella finira "le Ségolène Royal du RN" — envoyé se tanker pour que Le Pen revienne en 2032. Comparaison avec Mitterrand mettant Rocard premier ministre en 1988 : "Dans un an et demi, on verra au travers."
 
+## Bardella = Jospin, tué par ses "lunes" (approfondissement 2026)
+
+Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam affine la comparaison Bardella/Jospin. En 2002, Jospin — donné premier à 30% en janvier 2001 — a été "tué par sa majorité plurielle" : Chevènement, Mamère, Taubira, Besancenot, Laguiller lui ont pris les voix dans son camp. En 2027, Bardella sera tué par les candidats de sa droite (Retailleau, Knafo, et d'autres) qui se partageront son espace. Mécanisme spécifique : donné à 36-38% dans les sondages ("bidon de A à Z, ça ne recouvre aucune réalité sociologique"), Bardella sera trop sûr de son hégémonie pour faire campagne au premier tour. Les électeurs raisonneront par l'absurde — "c'est sûr qu'il est au second tour, donc autant voter Knafo qui est plus proche de mes idées" — et personne n'ira voter Bardella.[^bardella-jospin]
+
+Marine Le Pen elle-même a toujours été surestimée dans les sondages : donnée à 30% un an avant 2022, elle finit à 23%. Les sondages surestiment systématiquement l'extrême droite.
+
+[^bardella-jospin]: [34:31](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=2071) — "Si tout le monde se dit c'est sûr que Bardella il est au second tour, bah personne va aller voter Bardella. Et les gens vont voter [...] Knafo parce que moi elle est plus proche de mes idées." — dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]].
+
+## Prédiction chiffrée du 8 mars 2026 : moins de 20 %
+
+Dans [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]], la PaduTeam formule une prédiction explicitement datée et chiffrée : "Ce type ne fera même pas 20 %. Voilà, je prends le pari, on est le 8 mars 2026." L'argument : Bardella jouera "le RN libéral seul" — ni la ligne antisystème mariniste, ni l'Union des droites. Cette position intermédiaire l'expose à deux fronts : les marinistes en interne (Le Pen a dit "je ne serai pas Premier ministre de Bardella") et les libéraux en externe (Retailleau, Édouard Philippe qui tiennent la même ligne avec une plus grande légitimité bourgeoise). Une ligne "RN libéral seul" est une ligne à moins de 20 %.
+
+## Longfall : le blocage des prix et l'alliance LR (mars 2026)
+
+Dans [[BARDELLA est-il le MAILLON FAIBLE du RN]], la PaduTeam documente le "début du longfall" de Bardella à travers trois extraits imbriqués.
+
+**Sur le blocage des prix du carburant** : Bardella refuse le gel des prix en le qualifiant de "mesure communiste" à la Cuba/Venezuela — alors que la France contrôle déjà les prix du médicament, et qu'un plafond informel avait été appliqué pendant la guerre en Ukraine sans provoquer de communisme. La contradiction interne est brutale : Bardella était pour supprimer la TVA sur le carburant (pour le rendre moins cher), mais refuse de bloquer les prix quand le carburant flambe à cause de la politique commerciale de Trump — qu'il soutient par ailleurs. Il veut "qu'on paye 2,50€ mais sans que ça rapporte d'argent à l'État."[^bardella-gel]
+
+L'argument économique démoli : en enlevant la TVA sans bloquer les prix, les fabricants absorberont l'espace libéré pour restaurer leurs marges (taux de profit en baisse structurelle) — "tu donneras jamais de pouvoir d'achat." C'est la mesure libérale de Bardella, pas le gel des prix, qui crée des mécanismes d'inflation.
+
+**Sur l'alliance LR** : traumatisé par le barrage qui l'a empêché d'être premier ministre en 2024, Bardella n'exclut pas une alliance RN/LR aux municipales contre LFI. Diagnostic PaduTeam : il "sacrifie les 15% de base historique des 40 dernières années pour les 10% les plus volatils" — les ex-fillonistes susceptibles de migrer vers Retailleau. L'analogie est formulée explicitement : c'est comme si Mélenchon abandonnait la radicalité pour conserver les gens qui pourraient voter Tondelier ou Glucksmann.
+
+**Sur la récupération politique** : face à une journaliste, Bardella lâche "C'est mon travail madame de faire de la récupération politique" — exposant publiquement ce que les gens détestent le plus dans les politiques. Sa correction improvisée contient une double négation logique : "pour éviter que ça ne se repasse plus" = il veut que ça se repasse (c'est son travail de le récupérer).
+
+Conclusion PaduTeam : il est "en train de jouer le deuxième tour en oubliant le premier" — exactement comme Jospin en 2002, concentré à rassurer pour le second tour et éliminé au premier. Il "parle au MEDEF" mais sans bloc social, "ça n'a aucun intérêt."[^bardella-medef]
+
+[^bardella-gel]: [08:57](https://www.youtube.com/watch?v=ukGofdDhUmk&t=537) — "il veut qu'on paye 2,50 € tu sais mais sans que ça rapporte d'argent à l'État. Ça a aucun sens quoi."
+[^bardella-medef]: [15:09](https://www.youtube.com/watch?v=ukGofdDhUmk&t=909) — "parler au MEDEF, ça n'a aucun intérêt quand tu n'as pas un bloc social."
+
 ## Vidéos
+- [[BARDELLA est-il le MAILLON FAIBLE du RN]] — longfall : blocage des prix refusé (Venezuela/Cuba), alliance LR contre LFI, prestation télé catastrophique sur la récupération politique ; "Jospin 2002" qui prépare le second tour et oublie le premier
 - [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — media training 133 000€ ; mécanisme de la nullité fonctionnelle ; narratif classe populaire démoli ; dilemme Chirac 74 vs Ségolène Royal du RN
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Réaction à chaud : Bardella remis au premier plan par la condamnation, plus libéral que Le Pen, peut s'allier avec Retailleau — appel d'air droitier
@@ -121,6 +151,8 @@ La PaduTeam confirme sa prédiction : Bardella finira "le Ségolène Royal du RN
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Incapable de répondre face aux droits de douane de Trump ; atlantisme structurel ; programme de vassalisation ; comparaison avec Maurras et la "divine providence"
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — Distinction stratégique Le Pen (peuple français) vs Bardella (nation/performance économique) ; invention du "parasite du milieu" (le fonctionnaire) ; dérive vers la droite système
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — RN stagne dans les grandes villes et dans le Nord ; avance dans les petites et moyennes villes du Sud. Clivage géographique = clivage de ligne idéologique interne au RN.
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Comparé à Jospin 2002 tué par sa majorité plurielle : surdonnée dans les sondages (36-38%), sera sabré par ses candidats de droite (Retailleau, Knafo), ne fera pas campagne au 1er tour en croyant être au 2nd. Marine Le Pen donnée à 30% un an avant 2022, finit à 23% — les sondages surestiment toujours l'extrême droite.
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — Prédiction datée (8 mars 2026) : moins de 20 %. Analyse de la ligne "RN libéral seul" comme ligne perdante, pris entre marinistes internes et libéraux externes.
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Comparé à Louis Sarkozy : Bardella "a au moins un parcours" même si arriviste ; a des chances de devenir président, Louis Sarkozy aucune
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Dilemme électorat incompatible (populaire RN vs libéral-patronal) ; image de gendre idéal comme outil de Le Pen ; prophétie barbe ; distinction mélonisme (Bardella) vs trumpisme (Le Pen)
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — tweet de condoléances qualifiant l'attentat d'"islamiste" alors que l'auteur est un apostat affilié à l'AFD ; complicité idéologique désignée
