@@ -98,6 +98,22 @@ La PaduTeam démontre que le discours de Cukierman sur la valeur travail n'est p
 
 Le slogan "parti du travail" de Roussel efface la distinction historique fondamentale : la gauche a toujours été du côté des *travailleurs*, jamais du *travail*. Pétain avait fait la même inversion. Le PCF actuel, en reprenant ce cadre, "fait du bénévolat pour le MEDEF."
 
+## Alliance PS-PCF à Paris vs front PCF-FI dans le 93 (janvier 2026)
+
+[[Yann Brossat]] signe un accord pour les municipales de Paris 2026 avec le [[Parti Socialiste]] et les Verts, derrière [[Emmanuel Gregoire]]. Ce choix est voté à **77 % des adhérents PCF**. La PaduTeam démonte le prétexte du "danger Dati" : Paris ne risque pas de tomber au RN, Dati représente le macronisme de droite, pas l'extrême droite. C'est la stratégie noisette classique — aller à la gamelle plutôt que rejoindre la force la plus à gauche ([[Sophia Chikirou]], LFI à 30 % à Paris en 2022).
+
+Simultanément, la fédération PCF de Seine-Saint-Denis conclut un accord avec la FI pour une dizaine de villes populaires (Bobigny, Aubervilliers, Saint-Denis, Noisy-le-Grand…). L'état-major national ([[Leon Deffontaines]]) dénonce cet accord — preuve que le vote parisien va être utilisé comme levier pour faire capoter les alliances PCF-FI là où le PS gouverne des villes populaires.
+
+La PaduTeam : "C'est gagnant-gagnant pour eux" à Paris — ils soutiennent le PS et tuent la FI en même temps. À Saint-Denis, ils n'ont aucune raison d'accepter un accord favorable aux insoumis.
+
+## Sociologie du déclin : 40 000 adhérents, majoritairement retraités
+
+La PaduTeam chiffre l'effondrement organisationnel : le PCF est passé d'**un million d'adhérents** à environ **40 000**, "beaucoup de vieux, beaucoup de gens qui sont plutôt en haut milieu à droite dans le graphique, c'est du vieux fonctionnaire." Des gens dont les conditions matérielles ne les poussent pas aux luttes radicales : "ils ont pas aussi les conditions matérielles pour être très combatifs quand tu vis encore bien quand ton problème c'est que ta retraite de fonctionnaire, au lieu d'être à 2008, elle va être à 2005." Cette sociologie vieillissante explique les votes de direction — elle n'est pas dans "les espaces de radicalité" portés par les syndicats combatifs, les communistes extérieurs, ou la FI.
+
+## Militants communistes refoulés : le mécanisme de purge
+
+Les jeunes militants qui veulent "être communistes au PC" se font mettre en minorité pendant des années. Quand ils deviennent trop nombreux, ils sont soit purgés, soit forcés au départ. Exemple : les jeunesses communistes du Nord, de la Loire, des Bouches-du-Rhône — mis devant le fait accompli de devoir "faire la campagne du PS", ils refusent et se font harceler "par des espèces de clampins qui sont pas communistes et qui sont des espèces d'arrivistes un peu à la Léon des Fontaines." La PaduTeam : "C'est la tristesse des communistes de ce pays d'avoir un parti communiste aussi minable."
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -112,3 +128,4 @@ Le slogan "parti du travail" de Roussel efface la distinction historique fondame
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Reniement vs dépassement de l'histoire soviétique ; la stèle Landini comme attaque anticommuniste emblématique ; le PCF incapable de défendre son propre héritage glorieux
 - [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]] — Interview Cukierman comme symptôme de la déchéance : ignorance de la position officielle du parti, inversion du centralisme démocratique, notabilisation accomplie vs formation ouvrière de l'âge d'or
 - [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — Deuxième épisode de la même interview : la valeur travail rouselliste comme convergence avec Sarkozy et le MEDEF ; démontage de la stratégie d'adaptation à la "conscience réelle" ; distinction démagogie/pédagogie
+- [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance Brossat-PS-Verts à Paris votée à 77 % des adhérents PCF ; contre-exemple Saint-Denis (accord PCF-FI dénoncé par l'état-major) ; chiffre du déclin : 1 million → 40 000 adhérents ; mécanisme de purge des jeunes militants combatifs.

@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-21-enrichi-w45w46-w47w48-w49w50
+skill_version: write-enjeu-2026-04-22
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -254,6 +254,24 @@ La séquence décembre 2025 produit la démonstration la plus nette de la droiti
 
 **La jonction des deux fronts : le mécanisme de la notabilisation.** Ce qui unit islamophobie et valeur travail sarkozyste n'est pas une ligne politique consciente mais le même mécanisme de notabilisation : les élus PCF parlent depuis leur espace de classe institutionnalisé (sénateurs, maires), pas depuis la pratique des travailleurs. Ils adaptent leur discours au registre dominant plutôt qu'à la conscience de classe révolutionnaire. La double droitisation de décembre 2025 est la preuve que le PCF sous Roussel n'est plus en mesure de corriger ses propres dérives — parce que les mécanismes de correction interne (formation militante, centralisme démocratique, pratique collective) ont été démantelés.
 
+### 34. La configuration de la guerre des gauches en janvier 2026 : le Casse-Noisette se referme
+
+Le corpus de janvier 2026 (W01-W02) produit la démonstration empirique la plus nette à ce stade que la prophétie du Casse-Noisette est en train de s'accomplir concrètement.
+
+**Le bilan des noisettes selon les Seigneurs ([[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]]).** La PaduTeam passe en revue les quatre maisons : la maison Picarde ([[Francois Ruffin]]) est en déchéance totale — raté l'opportunité NFP, incapable de fédérer, projeté à ~5% en solo. La maison Renéga ([[Clémentine Autain]] / [[L'Apres]]) est démystifiée : les statuts déposés avant la dissolution révèlent que la "démocratisation interne" était une préservation de postes. La maison Douceur ([[Marine Tondelier]] / EELV) a besoin de la primaire pour ne pas finir sous les 5%. La maison Saucisson ([[Fabien Roussel]] / PCF) est dans la farce de Marchais : le PCF parle, selon le [[Graphique]], aux mêmes catégories sociales que [[Eric Zemmour]] — vieux retraités propriétaires. La conclusion de la PaduTeam est sans appel : «le Casse-Noisette (LFI + PS) se referme. Les noisettes n'ont plus d'espace.»
+
+**L'alliance PCF-PS à Paris comme preuve empirique ([[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]]).** [[Yann Brossat]] (PCF) s'allie formellement au PS pour les municipales Paris 2026 en excluant LFI. 77% des adhérents PCF parisiens ont approuvé l'alliance — ce n'est pas une trahison de la direction, c'est la ligne voulue par une base structurellement haut-droite du Graphique. La guerre des gauches ne se joue plus seulement entre partis : elle se joue à l'intérieur du PCF, entre ses bases ouvrières (Saint-Denis, qui reste allié de LFI) et ses bases parisianisées de fonctionnaires supérieurs (qui rejoignent le PS). Ce clivage intra-PCF est la forme la plus avancée de la guerre des gauches à ce stade.
+
+### 35. La rupture avec le trotskisme comme front supplémentaire de la guerre des gauches
+
+[[ANASSE KAZIB ATOMISE MADURO]] documente un front de la guerre des gauches qui ne se réduit pas au clivage réformiste/radical : la fracture entre trotskisme occidental et marxisme anti-impérialiste.
+
+**L'occidentalocentrisme trotskiste comme biais structurel.** La PaduTeam identifie dans la position de [[Revolution Permanente]] / [[NPA]] sur le Venezuela un «occidentalocentrisme trotskiste structural» : les organisations trotskistes françaises appliquent aux situations des pays du Sud des catégories développées pour l'Europe occidentale, sans tenir compte des conditions matérielles concrètes (blocus, guerre économique US, isolement post-URSS). Ce n'est pas une erreur conjoncturelle — c'est le produit de leur ancrage de classe dans l'université et la gauche littéraire française.
+
+**La rupture frontale formulée.** La PaduTeam, contre la position de RP critiquant Maduro, formule une rupture qui dépasse le seul Venezuela : «on n'est pas camarade et on le sera jamais» avec les organisations qui ne comprennent pas que la solidarité internationale marxiste exige de défendre les pays en résistance contre l'impérialisme, même imparfaits. C'est le même clivage qu'avec Usul sur l'Ukraine — mais étendu au Venezuela et au corpus trotskiste dans son ensemble. La guerre des gauches se joue désormais aussi entre traditions révolutionnaires, pas seulement entre gauche de rupture et gauche réformiste.
+
+**Le ni-nisme comme complicité objective.** L'accusation de «ni-ni» est retournée : dire «ni Maduro ni l'impérialisme» dans un contexte où l'impérialisme cherche à renverser Maduro par la force revient objectivement à soutenir l'impérialisme. La PaduTeam applique ici le même raisonnement qu'avec l'Ukraine : l'absence de camp dans un conflit asymétrique est un camp — celui du plus fort. Ce développement consolide la frontière entre la gauche anti-impérialiste (PaduTeam, LFI, URC) et la gauche trotskiste/NPA sur les questions internationales.
+
 ## Adversaires identifiés
 
 - **[[Olivier Faure]]** et le PS — trahison structurelle inévitable, espace de classe incompatible avec la rupture
@@ -481,6 +499,10 @@ La fin novembre 2025 concentre trois événements qui, lus ensemble, marquent la
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — bellicisme comme nouveau front de la guerre des gauches dans l'espace internet : Usul, figure de la gauche alternative (trajectoire trotskiste), soutient le service militaire volontaire et rejoint [[Raphael Glucksmann]] sur l'Ukraine ; le service militaire volontaire est un ciblage de classe (lycées professionnels, zones de recrutement populaires) ; LFI comme "dernier rempart" contre la conscription et la guerre ; la trajectoire trotskiste→atlantisme répète mécaniquement celle de Jadot 2022 ; la guerre des gauches ne se joue plus seulement entre partis mais à l'intérieur de la gauche internet
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — vote du PLFSS 2026 comme révélateur de la recomposition en 5 blocs distincts pour 2027 : chaque bloc (PS, EELV aile droite, LR, Horizon, RN) vote selon ses calculs de survie électorale, pas selon son programme ; 13 voix d'écart — les 26 abstentions Verts auraient suffi à faire tomber le budget ; la "zumba du PS" sur les retraites (décalage de 3 mois présenté comme abrogation) ; PS sauve Faure pour sauver la primaire 2026, EELV aile droite s'abstient pour maintenir Tondelier ; le schéma graphique de la recomposition : deux pôles (LAAFI + RN contre ; bloc central pour) et trois variantes de la noisette (PS, EELV, LR) qui calculent leurs positions selon les primaires, pas les classes populaires
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — le PS prend le lead fiscal sur LFI via la Taxe Zucman comme investissement stratégique (non-censure achetant le temps du repositionnement) ; LFI structurellement en défense ("ils débunkent au lieu de proposer") ; bifurcation hollandiste vs bifurcation radicale comme enjeu de la prochaine séquence ; appel implicite à LFI à monter en radicalité (MMT + nationalisations) pour que le PS ne puisse pas s'y coller
+
+- [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — bilan 2025 des quatre maisons noisettes : Ruffin/Picarde (~5% en solo), Autain/Renéga (statuts déposés avant dissolution), Tondelier/Douceur (sous 5% sans primaire), Roussel/Saucisson (parle aux mêmes classes que Zemmour selon le Graphique) ; le Casse-Noisette se referme en acte, pas en prévision
+- [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — noisettification du PCF parisien : 77% des adhérents approuvent l'alliance PS, base structurellement haut-droite du Graphique ; clivage intra-PCF (Saint-Denis ouvrier vs Paris fonctionnaire supérieur) comme forme avancée de la guerre des gauches ; Chikirou Mamdani contre Brossat-PS
+- [[ANASSE KAZIB ATOMISE MADURO]] — rupture avec le trotskisme sur les questions internationales : occidentalocentrisme trotskiste structural, ni-nisme comme complicité objective, «on n'est pas camarade et on le sera jamais» ; extension du clivage guerre des gauches à l'axe trotskisme/marxisme anti-impérialiste
 
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^gdg_florentin]: [13:53](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=833) — "lui en plus c'est un fasciste qui s'ignore, tu vois. C'est il se prend pour un libéral et tout."

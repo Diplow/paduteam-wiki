@@ -3,12 +3,15 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2026-01-30
+date: 2026-01-02
 youtube_id: ZTIConeMQW8
+skill_version: ingest-batch-2026-04-22
 date created: Wednesday, April 1st 2026, 6:58:09 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
+
+![Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)](https://www.youtube.com/watch?v=ZTIConeMQW8)
 
 # Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)
 

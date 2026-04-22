@@ -11,6 +11,8 @@ aliases: [STARTUPPERS PROJETS DÉSASTREUX POUR NOS ENFANTS]
 ---
 #domaine/société #domaine/théorie #domaine/politique-intérieure #thème/travail #thème/médias-propagande #thème/élections #enjeu/union-populaire
 
+![On DÉCOUVRE les PROJETS DÉSASTREUX de ces STARTUPPERS pour NOS ENFANTS !!](https://www.youtube.com/watch?v=uRyKZrDAsgc)
+
 # On DÉCOUVRE les PROJETS DÉSASTREUX de ces STARTUPPERS pour NOS ENFANTS !!
 
 ## Résumé

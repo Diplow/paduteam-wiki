@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w49w50
+skill_version: write-enjeu-2026-04-22
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -123,6 +123,38 @@ La vidéo sur la sortie raciste de Macron ("Mamadou") fournit un élément de pr
 La sortie "Mamadou" — Macron déclarant en comité restreint que "le problème des urgences dans ce pays, c'est que c'est rempli de Mamadou" — n'est pas lue comme un dérapage mais comme la cohérence d'un président dont les origines idéologiques sont réactionnaires (travaux d'Eldelwell cités dans la vidéo). Ce même Macron utilisait "rabzous" (argot raciste pour les Maghrébins) devant *Valeurs Actuelles* en 2019 — terme supprimé de la version publiée relue par l'Élysée. Ces deux faits s'inscrivent dans la [[Moisation|Moïsation]] de droitisation présidentielle que la PaduTeam lit comme cohérence idéologique.
 
 L'argument Mamadou masque en outre les vraies causes structurelles de la crise hospitalière (pénurie organisée de médecins depuis 30 ans, destruction des lits) — exactement comme le discours PS masque les causes de classe de la misère populaire. Le président que le PS a engendré légitime maintenant le racisme d'État au plus haut niveau, confirmant que la trahison PS a des conséquences qui durent bien au-delà de chaque quinquennat.
+
+## L'alliance PCF-PS à Paris : la noisettification du communisme (janvier 2026)
+
+[[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] documente le cas le plus avancé de la convergence PCF vers le mécanisme PS : l'alliance formelle entre [[Yann Brossat]] (PCF) et le PS pour les municipales Paris 2026, en excluant explicitement LFI.
+
+**La sociologie du PCF parisien comme clé de lecture.** Les 40 000 adhérents PCF sont majoritairement des retraités de la fonction publique, positionnés en haut-droite du [[Graphique]] — fonctionnaires, enseignants supérieurs, cadres du public. La PaduTeam note que 77 % des adhérents PCF ont voté pour l'alliance PS, confirmant que ce n'est pas une manœuvre de direction mais l'expression d'une base électoralement alignée avec la social-démocratie. L'alliance n'est pas une trahison de la ligne — c'est la ligne.
+
+**Saint-Denis comme contre-modèle.** [[Stéphane Peu]] (PCF) dans [[Seine-Saint-Denis]], avec [[Mathieu Hanotin]], maintient une alliance avec LFI qui est «une réussite». La PaduTeam mobilise Saint-Denis pour montrer que la voie PCF-LFI est viable là où la base électorale PCF est ouvrière et populaire — ce qui n'est pas le cas à Paris. Ce n'est pas le PCF en tant que tel qui pose problème, c'est l'espace de classe dans lequel il opère.
+
+**Les sondages Ipsos comme outil de fabrication de l'opinion.** Les sondages présentant la gauche à Paris avec 28-29 % sont décortiqués : méthode des quotas excluant les moins de 35 ans et les classes populaires, résultats publiés avant la constitution des listes pour orienter les alliances. La PaduTeam diagnostique ce que la liste Brossat-PS cherche à éviter : un score Mamdani à la française avec [[Sophia Chikirou]] (LFI) dans le 17e, déjà comparée visuellement aux visuels Mamdani NYC.
+
+**La noisettification du PCF comme aboutissement.** L'alliance Brossat-PS à Paris est la démonstration empirique que le PCF sous [[Fabien Roussel]] a achevé sa conversion en noisette : il occupe l'espace du PS, parle aux mêmes classes sociales, et produit des alliances avec la gauche de gouvernement contre la gauche de rupture. Le "Plus jamais PS" s'étend ici au "Plus jamais PCF-noisette".
+
+## Le bilan des maisons noisettes confirme la prophétie (janvier 2026)
+
+[[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] est le bilan 2025 de toutes les forces situées entre LFI et le PS — et sa conclusion confirme sans appel la thèse du Casse-Noisette.
+
+**Chaque maison prise dans les pinces.** La maison Picarde ([[Francois Ruffin]]) s'est effondrée : raté la chance du NFP, incapable de fédérer, prédit à ~5% en solo. La maison Renéga ([[Clémentine Autain]] / [[L'Apres]]) est une coterie d'arrivistes sans base militante. La maison Douceur ([[Marine Tondelier]] / EELV) a besoin d'une primaire pour survivre à 2%. La maison Saucisson ([[Fabien Roussel]] / PCF) est dans «la farce de Marchais» : parle aux mêmes catégories que [[Eric Zemmour]] sur le [[Graphique]].
+
+**La PaduTeam conclut** : le Casse-Noisette (LFI + PS) se referme inexorablement. Les noisettes ne peuvent ni rejoindre LFI (trop radicale pour leur base) ni rejoindre le PS (trop à gauche pour sa stratégie de captation macroniste). Chaque tentative de troisième voie aboutit au même résultat : servir de faire-valoir au PS en affaiblissant la gauche de rupture.
+
+## Le procès Chikirou : le lawfare comme arme anti-gauche de rupture (janvier 2026)
+
+[[PROCES CHIKIROU JUSTICE OU MANIPULATION]] introduit une dimension nouvelle dans l'enjeu "Plus jamais PS" : le lawfare comme prolongement judiciaire de la guerre des gauches.
+
+**Trois étapes du lawfare documentées.** (1) L'accusation judiciaire produite par l'appareil judiciaire ; (2) amplifiée par la presse dite "progressiste" (Mediapart, Libération) qui la légitime dans l'espace de gauche ; (3) récupérée par l'extrême droite qui s'en sert pour marteler "LFI = corruption". La chaîne est complète et chaque maillon est fonctionnel.
+
+**La disproportion comme preuve.** 67 000 € réclamés à [[Sophia Chikirou]] pour «favoritisme» dans des contrats de communication, pendant que Bardella et Le Pen ont été condamnés à des millions sans être retirés de la vie publique, et que l'affaire Karachi n'a toujours pas abouti à des condamnations effectives. La PaduTeam formule : «il y a deux justices en France — celle pour les gens comme Chikirou, et celle pour les gens comme Bardella.»
+
+**Le timing électoral comme signature.** Le procès intervient précisément au moment où Chikirou représente LFI dans le 17e arrondissement de Paris pour les municipales 2026, face à une liste Brossat-PS qui a tout intérêt à la décrédibiliser. Ce n'est pas une coïncidence : c'est la mécanique.
+
+**La base formée comme résistance.** La PaduTeam note que l'enjeu n'est pas le verdict mais l'effet sur la mobilisation : une base militante formée sur le lawfare ne se laisse pas démobiliser par une procédure judiciaire. L'affaire Chikirou doit être instrumentalisée en sens inverse — comme preuve que LFI menace suffisamment les intérêts établis pour que l'appareil judiciaire soit mobilisé contre elle.
 
 ## Extension : Roussel comme variante PCF du même problème
 
@@ -331,3 +363,6 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — déconstruction de la stratégie PS de la non-censure comme investissement calculé pour prendre le lead fiscal ; "ce sont des gens qui ont une grande habitude des manœuvres" ; Taxe Zucman comme hollandisme bifurcatoire (brèche réelle mais insuffisante) ; hystérie bourgeoise porte sur le principe (stock vs flux), pas le montant ; LFI en défense réactive, appel à LFI de proposer MMT + nationalisations pour que le PS ne puisse pas s'y coller
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Duflot comme cas d'école des quarante ans de renoncements : gauche sans alternative de société, masquer le conflit de classe sous la communication, participer sous Hollande aux politiques qui ont désabusé les classes populaires
 - [[VILLEPIN DERAPE sur ZYED et BOUNA]] — extension de l'enjeu au racisme institutionnel colonial : distinction coercition de population / maintien de l'ordre comme ligne analytique ; loi "permis de tuer" de Hollande comme preuve de la continuité PS ; séquence 2005 (TCE + mort de Zyed et Bouna) comme matrice de la montée de LFI que la gauche institutionnelle a ratée ; Villepin = Édouard Philippe, "du même bois" que le PS
+- [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — noisettification achevée du PCF parisien : 77% des adhérents votent pour l'alliance PS, base sociologique haut-droite du Graphique, Brossat-PS contra LFI ; Saint-Denis comme contre-modèle viable (là où la base est ouvrière) ; sondages Ipsos comme outil de fabrication de l'opinion avant constitution des listes ; Chikirou comme Mamdani français dans le 17e
+- [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — bilan 2025 des quatre maisons noisettes : Ruffin/Picarde (~5% en solo), Autain/Renéga (coterie sans base), Tondelier/Douceur (besoin de primaire pour survivre), Roussel/Saucisson (parle aux mêmes classes que Zemmour selon le Graphique) ; le Casse-Noisette se referme : toutes les tentatives de troisième voie confirment que seul le PS ou LFI peut structurer la gauche
+- [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — lawfare en trois étapes (judiciaire → presse progressiste → extrême droite) ; disproportion 67k€ vs Bardella/Le Pen/Karachi ; timing électoral comme signature ; base formée comme seule résistance efficace

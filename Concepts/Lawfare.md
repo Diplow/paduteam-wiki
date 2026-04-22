@@ -54,7 +54,22 @@ Ironie politique : c'est une loi socialiste (PS) qui est devenue l'instrument pr
 
 En mai 2025, Mélenchon porte plainte contre [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) pour injure publique après la comparaison Goebbels sur BFM TV. La PaduTeam juge la plainte justifiée — "à un moment ça va trop loin" — mais souligne le paradoxe : aller au tribunal risque de synchroniser médias et justice, de réalimenter l'affaire pendant des années, et de produire plus de couverture médiatique sur l'accusation que sur l'issue favorable du procès. C'est précisément la dynamique de l'offert / lawfare à l'espagnole (cas Podemos/Iglesias). La FI fait donc gaffe à ne pas systématiser : la plainte Jakubowicz est une exception justifiée par le fait que la ligne rouge est clairement franchie, pas un modèle à répliquer.
 
+## Le cas Chikirou — l'offert électoral complet (janvier 2026)
+
+Le procès de [[Sophia Chikirou]] en pleine campagne municipale de Paris 2026 est présenté par la PaduTeam comme le cas d'école le plus complet du lawfare électoral en France. Structure en 3 étapes[^chik] :
+
+1. **Les juges choisissent leur agenda** : une enquête de 6 ans sur un différend commercial de 67 000 € (close entre les parties) est rouverte au moment de la campagne. Le procès est fixé au 12 mai — après les élections — mais l'annonce est faite pendant la campagne. "L'OBen est trop bonne."
+2. **La presse progressiste relaie** : Libération, Mediapart, L'Humanité, France bleue couvrent l'escroquerie et oblitèrent la campagne de Google actualité. [[Edwy Plenel]] et [[Laurent Mauduit]] jouent le rôle de relais sous couvert de neutralité.
+3. **L'extrême droite amplifie** : les comptes militants diffusent l'info comme si elle était réelle, achevant la destruction d'image.
+
+La PaduTeam avait averti lors de la condamnation de Marine Le Pen que le dispositif tomberait ensuite sur la gauche radicale. L'affaire Chikirou confirme le pronostic. La disproportion est utilisée comme révélateur : 67 000 € contre les 4 millions de Le Pen, les ~50 millions de l'affaire Karachi. Ce n'est pas la gravité des faits qui détermine les poursuites — c'est la menace politique.
+
+**Parallèle direct avec Podemos/[[Pablo Iglesias]]** : après les législatives espagnoles de 2015, la CIA et l'extrême droite fabriquent un faux rapport (PISA) affirmant un financement iranien de Podemos, diffusé dans tous les médias et envoyé aux fact-checkers — même mécanique, même cible.
+
+[^chik]: [07:44](https://www.youtube.com/watch?v=1VDLFd3PVp8&t=464) — "première étape du lawfare, c'est la mise en action des juges contre un candidat oppositionnel progressiste et de gauche, c'est-à-dire trouver un timing qui empêche la campagne politique"
+
 ## Vidéos où le concept est développé
+- [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Cas d'école complet de l'offert électoral en France : timing judiciaire + relais presse progressiste + amplification extrême droite ; contre-modèle Podemos/Iglesias
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Analyse du dilemme FI face au lawfare : quand porter plainte (Jakubowicz) et pourquoi ne pas systématiser
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Cas d'école complet de l'offert : judiciaire + médiatique + loi liberticide

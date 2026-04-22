@@ -2,14 +2,17 @@
 type: vidéo
 domaine: [société]
 thèmes: [médias-propagande, travail, féminisme]
-enjeux: []
-date: 2026-01-30
+enjeux: [bataille-culturelle]
+date: 2026-01-08
 youtube_id: ay98YM5P2jE
+skill_version: ingest-batch-2026-04-22
 date created: Wednesday, April 1st 2026, 9:43:42 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [1000 CAPSULE - PROCÈS DU MINIATURISTE]
 ---
-#domaine/société #thème/médias-propagande #thème/travail #thème/féminisme
+#domaine/société #thème/médias-propagande #thème/travail #thème/féminisme #enjeu/bataille-culturelle
+
+![1000 CAPSULE : ON FAIT LE PROCÈS DU MINIATURISTE (feat. le miniaturiste)](https://www.youtube.com/watch?v=ay98YM5P2jE)
 
 # 1000 CAPSULE : ON FAIT LE PROCÈS DU MINIATURISTE (feat. le miniaturiste)
 
