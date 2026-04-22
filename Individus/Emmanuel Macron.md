@@ -102,6 +102,17 @@ La logique de la crise confirme la prévision de début d'année : Macron est "p
 
 La PaduTeam analyse la loi fin de vie dans [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] comme doublement significative pour le macronisme : d'un côté, Macron envisage un référendum sur le sujet (nouveau "coup de Trafalgar" pour forcer un vote binaire sur une question complexe) ; de l'autre, la loi révèle que les cadeaux fiscaux aux ultra-riches et grandes entreprises ont directement financé l'impossibilité d'offrir des soins palliatifs dignes. Légaliser le droit à mourir dans un système dégradé par ses propres choix budgétaires, c'est "rentabiliser la fin de vie" — en faisant de la mort assistée la réponse à une crise des soins qu'on aurait pu éviter.
 
+## Macron PDG à Davos — la "masterclass anti-Trump" (janvier 2026)
+
+Au [[Forum economique de Davos]] le 22 janvier 2026, Macron tient un discours anti-Trump en lunettes d'aviateur qui devient viral. La PaduTeam décrypte : ce n'est pas de l'anti-impérialisme, c'est le positionnement d'un PDG devant ses actionnaires. Face à un [[Donald Trump|Trump]] qui effondre le NASDAQ par son imprévisibilité, Macron vend la stabilité européenne aux capitaux mondiaux — "votre capital fructifiera tranquillement chez nous."[^davos1]
+
+Plus significatif encore : Macron appelle explicitement les investissements chinois en Europe, se positionnant en "périphérie" demandant les capitaux du nouveau "centre" chinois. La PaduTeam note l'ironie : 40 ans après avoir délocaliser en Chine, les Européens demandent à la Chine de financer ce qu'ils ont eux-mêmes vidé.
+
+La contradiction est immédiate : ce même Macron qui vante "rule of law" et pluralisme est celui qui a éborgné des Gilets Jaunes et soutenu le génocide palestinien. Et surtout, pour que son offre aux capitaux chinois soit tenue, il faudrait redistribuer et refaire l'État-providence — l'inverse exact du macronisme. "En tant que président, c'est une catastrophe. Mais en PDG, il est dans son élément."[^davos2]
+
+[^davos1]: [8:57](https://www.youtube.com/watch?v=m_yowJv-TVw&t=537) — "il rassure les actionnaires. Il vient faire un show de grands PDG. [...] votre capital fructifiera tranquillement."
+[^davos2]: [8:26](https://www.youtube.com/watch?v=m_yowJv-TVw&t=506) — "en tant que président, c'est une catastrophe parce que justement il porte la destinée de pays [...] Mais en fait là, il parle comme un PDG."
+
 ## Vidéos
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — Crise Lecornu 14h ; isolement total (Attal, Philippe, Retailleau, Le Pen, toute la gauche) ; 20% d'approbation ; CAC -2 à -3 pts ; scénario "terre brûlée" vs "dignité" ; "de Gaulle d'opérette"
 - [[GRAPHOMARXISME x Positions Revue]] — Positionné en 2017 sur la diagonale (moment populiste haut/bas). Se droitise en 2022. Son espace de 2017 est exactement celui que Villepin essaie de reconquérir 10 ans plus tard
@@ -113,3 +124,4 @@ La PaduTeam analyse la loi fin de vie dans [[EUTHANASIE MACRON veut-il RENTABILI
 - [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]] — visite post-Chido : comportement de colon assumé, [[Abandon colonial des DOM-TOM]] comme politique structurelle, analyse de l'[[Injonction a la dignite]]
 - [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]] — Analyse de la crise économique post-inflation, impuissance politique de bunker, pronostic de chute en 2025 et présidentielle anticipée
 - [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — référendum comme "coup de Trafalgar" envisagé ; cadeaux fiscaux aux grandes entreprises comme financement de l'impossibilité d'offrir des soins palliatifs dignes ; la loi comme instrument de "rentabilisation de la fin de vie"
+- [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Davos janvier 2026 : Macron PDG rassurant ses actionnaires mondiaux, appel aux capitaux chinois, positionnement en "périphérie" de la Chine, contradiction interne (ne peut tenir ses promesses sans redistribution)

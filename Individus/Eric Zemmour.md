@@ -27,7 +27,11 @@ En 2022, Zemmour avait fait une trajectoire de "baudruche" similaire à [[Franco
 
 L'attentat de Magdebourg (décembre 2024) offre un retournement analytique que la PaduTeam pointe directement. Zemmour tweete que l'auteur "a décidé d'accueillir des gens qui nous détestent et mènent la guerre à tout ce qui incarne notre civilisation." Or l'auteur (Taleb al-Abdulmohsen) est précisément quelqu'un qui "a voulu embrasser la civilisation occidentale parce que lui il était contre la religion et la culture saoudienne." Il est venu en Europe pour ça. "Fait le problème c'est que il a été si bien assimilé qu'il s'est assimilé à l'idéologie portée par les gens d'extrême droite contre toi Eric." La PaduTeam lui conseille de "la mettre en veilleuse un petit peu parce que c'est indécent quand on propage la haine comme ça de venir la ramener."
 
+## Position sur les violences sexuelles
+Dans l'un de ses livres, Zemmour nostalgise "l'époque où le jeune chauffeur de bus pouvait glisser une main concupissante sur un charmant fessier féminin sans risquer de poursuites" — à propos d'un film des années 70 ("Elle court, elle court la banlieue"). Pour la PaduTeam, cette phrase illustre la normalisation des agressions sexuelles dans son œuvre, en contradiction directe avec le discours de sa compagne [[Sarah Knafo]] sur la "sécurité des femmes."
+
 ## Vidéos où Zemmour est analysé
 
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — paradoxe de l'assimilation : l'auteur de l'attentat s'est "si bien assimilé" qu'il a adopté l'idéologie islamophobe de Zemmour lui-même
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Nouveau livre préfacé par [[Eric Naulleau]] et présenté sur CNews (oct. 2025) ; thèse du "sursaut judéo-chrétien" ; "répéteur de citations, sous-Finkielkraut" ; électorat réel = grande bourgeoisie (Saint-Tropez, Neuilly, Versailles)
+- [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Cité pour ses écrits nostalgisant les agressions sexuelles dans les transports ; "baudruche" que Reconquête a décidé d'écarter au profit de Knafo ; candidat naturel de Reconquête pour 2027 mais Knafo refuse de l'annoncer à sa place lors de l'interview TF1

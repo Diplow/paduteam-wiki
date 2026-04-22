@@ -61,3 +61,4 @@ Cette formulation précède de plus d'un an les données empiriques (287 Mds dro
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale (novembre 2024)** : USA consommateurs pas producteurs, Silicon Valley/Pepsi/Kellogg's/Coca, baisse tendancielle du taux de profit, néokeynésianisme de Biden insuffisant
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
+- [[MELENCHON DRAGUE LES PETITS PATRONS]] — application au programme LFI : le protectionnisme keynésien de relance proposé pour les PME a 15 ans de retard ; la France n'a pas la puissance militaire US pour contraindre ses partenaires commerciaux ; même Meloni échoue avec les milliards de l'UE ; la vraie solution est la déprivatisation, pas la relance monétaire dans une économie ultra-privatisée

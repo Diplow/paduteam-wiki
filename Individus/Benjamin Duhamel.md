@@ -39,6 +39,7 @@ La PaduTeam diffuse une archive de Duhamel encore étudiant à Sciences Po en tr
 
 ## Vidéos où Benjamin Duhamel est analysé
 
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — cité en aparté : la PaduTeam rappelle une "capsule Benjamin Duhamel" sur l'incident du doigt de Mélenchon. Faure est interviewé par Duhamel et accepte le budget sans conditions remplies ; Duhamel est présenté comme contexte de la lâcheté de Faure qui "obtempère" même face à ce journaliste.
 - [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Déconstruction de sa généalogie médiatique et de sa technique d'intimidation ; archivage de l'échange de 2012
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Interviewe Marine Le Pen sur France Inter (oct. 2025) ; la PaduTeam note qu'il est "vachement plus sympa avec elle" qu'avec Mélenchon ; absence d'arrêt maladie après l'épisode du "doigt d'honneur"
 

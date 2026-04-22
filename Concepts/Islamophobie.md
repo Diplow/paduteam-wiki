@@ -110,6 +110,7 @@ Formulation centrale développée dans [[LENA SITUATIONS et JEAN-FRANCOIS COPE s
 La vidéo sur l'affaire Léna Situations/Cannes 2025 développe un mécanisme complémentaire : le contrôle patriarcal du corps des femmes se double d'islamophobie dans un système de double contrainte intenable. Trop dénudée = "pute" ; trop couverte = "frériste" ; tenue androgyne = "masculine". Les femmes racisées ou perçues comme musulmanes n'ont aucune tenue légitime — chaque choix vestimentaire peut être retourné contre elles.
 
 ## Vidéos où le concept est développé
+- [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]] — dog whistle islamophobe de Garrido sur T18 ("Nouvelle-France", organisation "ethnique ou religieuse" de LFI) ; exemples concrets AP-HP (calot/infirmière) et RATP (bouteilles d'eau/cartons dans toilettes) ; vote LFI des musulmans analysé comme vote défensif face à l'islamophobie généralisée (~70 %) ; analogie historique avec l'antisémitisme en crise aux 19e-20e siècles.
 - [[FROM TROTSKISTE TO RACISTE]] — analyse systémique des deux matrices, mécanisme de classe, exemples législatifs
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Roussel valide le racisme antiblanc et compare voile et salut nazi ; débat terminologique islamophobie/racisme antimusulman au PCF.
 - [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] — chronologie complète (Talbot 1984 → abaya 2023), troisième matrice coloniale, laïcité coloniale, application du contrat racial, islamophobie comme nécessité structurelle du néolibéralisme en crise.

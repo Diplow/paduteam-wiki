@@ -22,10 +22,11 @@ La FMF s'oppose à toute régulation de la rémunération des médecins et à to
 
 ## Figures
 
-- Un représentant de la FMF (identifié par Zoé comme Jean-Paul Amont) affronte [[Antoine Leaument]] sur BFM TV dans le contexte du PLFSS — analyse dans [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]].
+- [[Jean-Paul Amond]] — figure historique de la FMF, bientôt 80 ans, interviewé France Info pendant la grève sur "les médecins libéraux contre une dérive autoritaire", également face à [[Antoine Leaument]] sur BFM TV
 
 ## Vidéos
 
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — un représentant FMF face à Léaument sur BFM TV
+- [[GREVE DES MEDECINS CAPRICE DE RICHES OU LUTTE LEGITIME]] — Jean-Paul Amond invité France Info, analyse de la grève des médecins
 
 [^1]: [5:09](https://www.youtube.com/watch?v=gMRUskGZPMw&t=309) — "la FMF est au pôle sud... on est vraiment sur de la défense de la médecine libérale. On est sur des bons droitards"

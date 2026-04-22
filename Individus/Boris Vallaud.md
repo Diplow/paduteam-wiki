@@ -71,7 +71,16 @@ Dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]], la PaduTeam prononce la conf
 
 [^valld_finito]: [39:20](https://www.youtube.com/watch?v=4PV9RBcvic4&t=2360) — "Boris Vallaud qui lui est en train de préparer ça et vous verrez Boris Vallaud est un fidèle depuis toujours de François Hollande." — dans [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]]
 
+### "La mort dans l'âme" — le 49.3 sur le budget général (janvier 2026)
+
+Dans [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]], Vallaud assume la non-censure du groupe PS en se montrant "bougon" mais déterminé. Il dit ne pas "baisser la tête" parce que quelques ménages toucheront un peu plus en fin de mois. La PaduTeam résume : il a obtenu "un slip mouillé" — les gains présentés comme victoires ne sont que des non-dégradations de l'existant (pas de doublement des franchises médicales, pas de réforme de l'assurance chômage). Le budget contient pourtant 7 milliards de coupes dans les collectivités.[^vallaud-49.3]
+
+La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTeam pour souffrir", le charisme n'est "pas encore là." Son positionnement d'arbitre tient : il n'est ni aussi déconsidéré que Faure ni aussi clivant que Guedj.
+
+[^vallaud-49.3]: [25:49](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1549) — "Donc moi je vais vous dire je veux pas baisser la tête parce que un certain nombre d'hommes et de femmes vont toucher un petit peu plus à la fin du mois."
+
 ## Vidéos où Vallaud est analysé
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — assume la non-censure "la mort dans l'âme" ; présente des non-dégradations comme victoires ; bougonnement qui confirme son positionnement d'arbitre tenu à distance du désastre Faure.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Désigné successeur naturel de Glucksmann dans l'espace PS : "fidèle depuis toujours de Hollande", en train de se "frayer un chemin" après la branche Glucksmann cassée.
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Fait 16,18 % au 1er tour grâce au soutien d'Attal (27 mars 2027). Appelé "le Kamala Harris français" par France Inter et Libération. Appelle à voter Mélenchon au 2nd tour.
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme rival de Hollande pour l'investiture PS 2027 ; la PaduTeam prédit qu'Hollande se fera "filloniser" par Vallaud comme Sarkozy par Fillon en 2017

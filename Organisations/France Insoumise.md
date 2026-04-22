@@ -66,6 +66,10 @@ La stratégie des villes ciblées (Paris avec [[Sophia Chikirou]], Montpellier, 
 
 [^lfi_rep]: [18:36](https://www.youtube.com/watch?v=p9-VbBg9Xwg&t=1116) — "Les municipales, c'est pas simplement d'aller chercher des mairies et tout, c'est aussi de compter les troupes. Ça va être les forces militantes qui vont participer au municipal, ça va être les forces militantes qui vont devoir participer à la présidentielle. Faut que tout le monde soit aligné. On est vraiment dans la répétition générale."
 
+## Stratégie TPE-PME (2026)
+
+LFI annonce un tournant vers les petits patrons et les TPE-PME : proposition de loi coécrite avec la [[Confederation des PME|CPME]], projet de réseau de chefs d'entreprise insoumis (porté par [[Aurelie Trouvee|Aurélie Trouvé]]), et "pacte productif" conditionné à des salaires dignes et à la souveraineté économique. La PaduTeam soutient l'intuition (fracturer le patronat) mais critique la méthode : le programme proposé (protectionnisme, marchés publics, fonds de recouvrement) est trop proche du PS pour constituer une ligne de rupture réelle, et ne conditionne pas le soutien aux PME à une entrée du pouvoir salarié dans les conseils d'administration.
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Refus d'accréditation aux universités d'été LFI du journaliste du [[Le Monde]] auteur de *La meute* ; décision validée par la PaduTeam ; thèse que la diabolisation médiatique est structurelle et constitue un gage de radicalité.
@@ -73,3 +77,4 @@ La stratégie des villes ciblées (Paris avec [[Sophia Chikirou]], Montpellier, 
 - [[HUGO PREVOST DEPUTE LFI DEMISSIONNE APRES ACCUSATIONS DE VIOLENCES SEXUELLES]] — critique du mode de sélection des cadres ; VSS structurelles dans les orgas militantes
 - [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Non-implantation dans les contre-pouvoirs ; cadres technocrates vs professionnels de la révolution ; La Boétie comme université populaire seulement
 - [[AYMERIC CARON PURGE DE LFI ON FAIT LE POINT]] — stratégie des municipales comme répétition générale ; refus de la baronisation interne ; comparaison PS/PS féodal
+- [[MELENCHON DRAGUE LES PETITS PATRONS]] — stratégie TPE-PME : proposition de loi CPME, réseau de chefs d'entreprise insoumis, pacte productif ; critique PaduTeam sur la confusion patronat/salariat et sur l'anachronisme keynésien ; risque de convergence avec le programme PS

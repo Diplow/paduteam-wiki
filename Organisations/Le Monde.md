@@ -32,3 +32,4 @@ La PaduTeam valide sans réserve la décision de Mélenchon : "C'est pareil. C'e
 ## Vidéos où Le Monde est analysé
 
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — refus d'accréditation aux Amphies, défense par la PaduTeam du droit de LFI à choisir ses invités
+- [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — L'article d'[[Olivier Perou]] ("Présidentiel 2027 : à gauche cette primaire qui traîne des pieds") décortiqué comme cas d'école du journalisme politique de cour : accumulation de citations sans analyse structurelle, protection implicite du FP2027 en n'analysant jamais ses contradictions internes

@@ -24,3 +24,4 @@ La PaduTeam envisage de l'inviter sur le stream : "il faut que Lumi elle vienne 
 
 ## Vidéos où Lumi est mentionnée
 - [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]]
+- [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Citée pour avoir tenté d'expliquer à [[Olivier Faure]] (dit "Olivier Fort" dans le transcript) le mécanisme de distribution du temps de parole CSA : la multiplication des candidats de droite dilue le temps de parole de la gauche. Faure "bugue" et ne comprend pas l'argument. La PaduTeam : "Force à toi Lumi."

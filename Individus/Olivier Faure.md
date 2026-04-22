@@ -130,6 +130,14 @@ Vote du PLFSS 2026 à l'Assemblée. Faure a "bien joué le Valet" selon la PaduT
 
 La PaduTeam l'observe avec mélange d'agacement et de curiosité analytique : "Le Valet a bien joué. On va expliquer comment il a réussi son coup." Mais le titre PPH ("il ne passera pas l'hiver politique") reste d'actualité — la manœuvre du PLFSS lui donne du temps, pas de la légitimité.
 
+### Mort dans le film : le 49.3 sur le budget général (janvier 2026)
+
+[[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] consomme la fin politique d'Olivier Faure. Il avait posé deux conditions pour ne pas censurer le gouvernement : disposer de la copie complète du budget et des garanties que les économies ne seraient pas faites "sur le dos des Français". Aucune des deux n'est remplie — il annonce malgré tout qu'il ne censurera pas. La PaduTeam : "la crucifixion d'Olivier Fort au sein du PS hein. Clairement c'est une catastrophe pour lui [...] il n'a plus aucun avenir politique."[^fort-crucifixion]
+
+Faure avait bâti toute sa stratégie de "gauche responsable" sur la promesse que le gouvernement n'utiliserait pas le 49.3. Le 49.3 est utilisé. Il se retrouve sans moyen de pression, sans gain concret, et sous l'offensive de l'aile droite ([[Jerome Guedj]]) qui lui reprend immédiatement le lead. [[Francois Hollande]], qui connaissait la copie du budget plusieurs jours avant Faure, est le vrai architecte de la situation — confirmant la thèse du "valet du parrain".
+
+[^fort-crucifixion]: [3:07](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=187) — "c'est la crucifixion d'Olivier Fort au sein du PS hein. Clairement c'est une catastrophe pour lui [...] il n'a plus aucun avenir politique. C'est c'est fini."
+
 ### PPH — "Il ne passera pas l'hiver" (décembre 2025)
 
 La vidéo [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] marque un tournant dans la trajectoire de Faure. Alors qu'il avait bâti toute sa stratégie de "gauche responsable" sur la promesse d'empêcher le 49.3, ses propres camarades — [[Boris Vallaud]] et [[Rachid Temal]] — ouvrent la porte à un "49.3 de compromis". C'est la "main noire" de [[Francois Hollande]] qui reprend l'initiative, via ses lieutenants. La ligne Faure est torpillée de l'intérieur.
@@ -139,6 +147,7 @@ La PaduTeam lui attribue le surnom **PPH** (Pierre-Palu-Hubert ? ou plus simplem
 [^pph-jambe]: [25:26](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1526) — "aucune de ces stratégies n'a fonctionné. Il est obligé de s'enlever une jambe dans les deux cas."
 
 ## Vidéos où Faure est analysé
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — "mort dans le film" après validation du 49.3 sans conditions remplies ; crucifixion au sein du PS ; Hollande révélé comme vrai architecte (connaissait la copie avant lui) ; l'aile Guedj reprend le lead immédiatement.
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le valet" de la primaire noisette. Il a gagné un congrès où il était minoritaire, "donc il est obligé de surjouer le côté la primaire va marcher, ça doit marcher."[^faure-surjoue] Stratégie potentielle : envoyer [[Johanna Rolland]] à sa place, pour ne pas se brûler si ça échoue. Réunion secrète PS-Écologistes-bloc central révèle la double face : il fait la primaire unitaire tout en tractant avec [[Gabriel Attal]] sur le budget. Formulation PaduTeam : "si tu échoues, tu vas sécher en place publique." Sa métaphore des "éléphants et souris" pour défendre la primaire est jugée nulle à chier.
 
 [^faure-surjoue]: [17:02](https://www.youtube.com/watch?v=tjVIifoybys&t=1022) — "lui il est obligé de surjouer le côté euh la primaire va marcher, ça doit marcher. [...] si tu échoues [...] viendra ce qu'il vient au valet qui ont voulu trop intriguer, qui ont échoué, vous allez sécher en place publique."
@@ -155,6 +164,7 @@ La PaduTeam lui attribue le surnom **PPH** (Pierre-Palu-Hubert ? ou plus simplem
 - [[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] — Faure se démasque en 14 secondes face au budget Bayrou : "toujours ouvert au compromis" = stratégie de maintien de Bayrou pour préserver la boutique PS en vue de 2027 ; contraste avec Bompard qui vote la censure sans compromis.
 - [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Inaction estivale : combinards pendant que le 10 septembre s'organise ; refus de censurer Bayrou analysé comme solidarité programmatique implicite ; 66 députés obtenus grâce à la FI utilisés contre elle
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Stratégie Faure en trois actes décortiquée (gagner du temps, se repeindre en rose, capter le macronisme de gauche) ; « valet » entre Glucksmann et Mélenchon ; trajectoire vers l'impasse politique annoncée. Annonce de la campagne "Génération Plus jamais PS".
+- [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Mentionné (sous le nom "Olivier Fort" dans le transcript — probable erreur de dénomination) en tant que candidat PS à la présidentielle 2027 ne comprenant pas le mécanisme de distribution du temps de parole CSA quand [[Lumi]] l'interroge sur la fragmentation des candidatures.
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — la Taxe Zucman comme arme anti-LFI ; non-censure de Lecornu décryptée comme investissement stratégique ; prévision SMIC à 1600€ NFP ; mise en défaut de LFI sur la bataille politique.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Faure "a bien joué le valet" en orchestrant les abstentions PS sur le PLFSS 2026 ; survie politique court-terme au prix d'une nouvelle trahison structurelle ; démontage des victoires PS sur les retraites (3 mois de décalage), l'ONDAM (équivaut à une baisse), le congé naissance (mesure de classe).
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — Faure torpillé par Vallaud et Temal qui ouvrent la porte au 49.3 de compromis ; la "main noire" d'Hollande reprend l'initiative ; surnom PPH ("ne passera pas l'hiver") ; ligne intenable : obligé de s'enlever une jambe quelle que soit l'issue.

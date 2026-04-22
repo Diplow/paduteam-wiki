@@ -43,6 +43,19 @@ La "gauche unitaire" se réunit le 15 novembre 2025 et annonce officiellement la
 
 La PaduTeam note la réunion secrète révélée par Le Figaro entre PS, Écologistes et représentants du bloc central ([[Gabriel Attal]]) — derrière la primaire unitaire, des tractations avec le gouvernement pour faire passer un budget. La primaire de l'union cache une stratégie anti-LFI.
 
+## La "catastrophe" de début 2026 (mars 2026)
+
+Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam dresse un bilan de l'état de la primaire début 2026 :
+- La conférence de presse annoncée pour mi-décembre 2025 a été annulée (alibi : "séquence budgétaire")
+- Aucune règle de la primaire n'a été arrêtée malgré la promesse faite à la convention de Trappes
+- [[Lucie Castets]] avait annoncé les modalités pour la première quinzaine de décembre — il n'en fut rien
+- Le PS est divisé : [[Boris Vallaud]] doute sans [[Raphael Glucksmann]], [[Jerome Gage]] exige un programme commun d'abord, [[Helene Jaufrois]] refuse la participation PS
+- [[Olivier Faure]] marche sur des œufs dans son propre appareil
+- [[Raphael Glucksmann]] est absent et "mort" politiquement
+- [[Francois Hollande]] monte en coulisses, bénéficiant de l'effacement de Glucksmann et de la désorganisation générale
+
+La PaduTeam compare la mise en scène de la convention de Trappes (tables pliantes de salle des fêtes, rollops colorés sans budget) à une cousinade — révélateur de la crédibilité de toute l'opération.
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
@@ -50,3 +63,4 @@ La PaduTeam note la réunion secrète révélée par Le Figaro entre PS, Écolog
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Festival de la Noisette de Bram comme lancement officieux de la course, Rousseau bloquée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Mort officielle : Tondelier en réunion de crise, perd Bordeaux/Strasbourg/Poitiers. "Tout dit le contraire d'aller à la primaire."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
+- [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Bilan catastrophique début 2026 : conférence de décembre annulée, aucune règle arrêtée, PS totalement divisé, Glucksmann mort, Hollande qui monte. La convention de Trappes décortiquée comme révélateur du budget et de la crédibilité de toute l'opération.

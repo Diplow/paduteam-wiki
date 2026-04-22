@@ -89,7 +89,30 @@ Dans [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], Hollande n'appar
 
 [^main-noire-dec]: [29:01](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1741) — "La main noire du PS reprend l'initiative. Tout le monde suit derrière les Rachid Temal, les Boris Vallaud et la ligne Fort est en train de disparaître."
 
+## Hollande et le Venezuela — le ni-niisme comme accord objectif avec l'impérialisme (mars 2026)
+
+Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam décortique la position de Hollande sur le Venezuela : il dénonce "l'acte illégal du gouvernement Trump" tout en qualifiant Maduro de dictateur. Ce ni-niisme est analysé comme un accord objectif avec le bloc bourgeois impérialiste : dans la guerre de conscience que se livrent les récits, qualifier Maduro de dictateur — comme 99% du bloc bourgeois — légitime plus fortement les interventions impérialistes que ne les dénonce la condamnation de Trump. La PaduTeam : "avec qui vous êtes en train de faire un accord objectif" — Hollande, Glucksmann et Trump partagent le même cadre cognitif sur Maduro.[^venezuela_hollande]
+
+[^venezuela_hollande]: [25:49](https://www.youtube.com/watch?v=9OIswON_az0&t=1549) — "Qui prend tout le monde de cours en ce qui concerne le Venezuela, Hollande dénonce l'acte illégal du gouvernement Trump tout en qualifiant Maduro de dictateur."
+
+## Le congrès de Brest 1997 et la "belle" 2027
+
+30 ans après le congrès de Brest (1997), Hollande et Mélenchon se retrouvent pour ce qui est présenté dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] comme une confrontation finale — "la belle". Score cumulé : 1997 (congrès de Brest, victoire Hollande), 2012 (présidentielle, victoire Hollande — 2-0), 2017 (FI passe devant le PS — 2-1), 2022 (FI passe à nouveau devant le PS — 2-2). 2027 est la belle.[^belle_brest]
+
+[^belle_brest]: [27:20](https://www.youtube.com/watch?v=9OIswON_az0&t=1640) — "On sera 30 ans après ce congrès de Brest en 2027, première manche du congrès de Brest gagnée par François Hollande. [...] La belle en 2027 entre Hollande et Mélenchon, entre les deux gauches."
+
+## L'architecte du 49.3 sur le budget (janvier 2026)
+
+Dans [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]], Hollande est révélé comme le vrai architecte de la situation. Il connaissait la copie du budget général plusieurs jours avant [[Olivier Faure]] lui-même — preuve selon la PaduTeam qu'il "est à la manœuvre depuis le début" et qu'il "est en train de baiser tout le monde", y compris son propre premier secrétaire.[^hollande-49-copie]
+
+Sa déclaration publique — "pourquoi ne pas laisser passer ce budget ?" — referme simultanément la primaire de la gauche large en excluant LFI : "François Hollande vient de refermer la primaire de gauche". La PaduTeam souligne qu'il avait toujours été favorable au recours au 49.3 quand il le juge nécessaire — ses "garanties" à Faure étaient un leurre.
+
+La mort politique de Faure sur ce sujet sert directement la stratégie d'Hollande : elle dédouane [[Boris Vallaud]] (qui assume le non-vote de censure "la mort dans l'âme") tout en discréditant la ligne "gauche responsable anti-49.3" que Faure incarnait. Hollande fait ce qu'il sait faire : "il est en train de baiser tout le monde."
+
+[^hollande-49-copie]: [31:25](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1885) — "Il a l'air de bien mieux connaître la copie que Fort ce matin. Du curieux ça. [...] C'est à croire que le mec est à la manœuvre depuis le début et qu'il est en train de baiser tout le monde."
+
 ## Vidéos
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — révélé comme vrai architecte du 49.3 sur le budget général (connaissait la copie avant Faure) ; sa déclaration publique referme la primaire de gauche en excluant LFI ; la mort de Faure lui profite en dégageant Vallaud.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — La réunion de Pontoise (Hollande + Cazeneuve + Glucksmann) décodée comme un piège délibéré : "On a parié sur toi, on te l'a pas fait à l'envers, tu nous as déçu, maintenant tu es mort." Hollande qualifié de "Vito Corléone de la gauche sociale-démocrate" — présenté comme un "requin" sous ses airs bonhommes, formaté au PS depuis le pire du pire des années 1980, "il écrivait pour Jacques Delors dans les années 80." Orchestre la succession via [[Boris Vallaud]].
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — cité comme PM "issu des rangs du NFP" possible ; illustration de l'arnaque personnalité vs programme
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — commentaire du reportage Paris Match : bilan quinquennat, lifestyle bourgeois, prédiction fillonisation par Vallaud en 2027
@@ -101,3 +124,5 @@ Dans [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], Hollande n'appar
 - [[HOLLANDE prepare t-il SON RETOUR]] — Analyse détaillée de sa stratégie de retour : convention réformiste, écrasement de Glucksmann, relation vassale avec Faure, invitation d'Aghion comme signature de classe, interview Rochebin à LCI où il ne dit pas non à une candidature. Lancement de la campagne militante "Plus jamais PS".
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Communiqué sur la chute d'Assad, position libérale-impérialiste sur la Syrie et le Liban
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — agit en coulisses via Vallaud et Temal pour imposer le 49.3 de compromis (formule inventée sous son mandat) et torpiller la ligne Faure ; la "main noire" sans visage
+- [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Position Venezuela décortiquée comme ni-niisme en accord objectif avec l'impérialisme ; prophétie du congrès de Brest 1997, "la belle" 2027 Hollande vs Mélenchon formulée explicitement
+- [[MUNICIPALES PHILIPPE MARTINEZ SOUTIENT LE PS FACE A LFI]] — Évoqué comme candidat potentiel 2027 : Martinez et Berger feraient campagne pour lui contre Mélenchon. La PaduTeam discute le fossé générationnel, son "génie" politique, le scénario d'un Hollande à 17 % au premier tour. Rêve militant : "Mélenchon qui prend sa revanche et qui baise Hollande au premier tour, ce serait bon ça."

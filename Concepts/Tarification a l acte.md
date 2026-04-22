@@ -69,6 +69,7 @@ La [[100 pour cent Securite Sociale]] faciliterait cette transition en concentra
 - [[ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE]] — T2A hospitalière introduite par le PS, CAC psychiatriques
 - [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — Dr Zoé propose de "fixer ensemble ce qu'est un revenu acceptable pour un médecin" et d'arrêter d'être payé à l'acte comme alternative structurelle au déconventionnement
 - [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — la tarification à l'acte explique pourquoi baisser le numerus clausus était "rationnel" du point de vue comptable (moins de médecins = moins d'actes) ; le salariat comme sortie de la tarification à l'acte défendu comme projet de gauche
+- [[GREVE DES MEDECINS CAPRICE DE RICHES OU LUTTE LEGITIME]] — détail des composantes de la rémunération libérale (consultation 30€, forfait médecin traitant, ROSP, forfait structure) ; proposition du salaire à vie à indice fixe (Chris/Friot) ; spécialistes libéraux à Bruxelles défendent les dépassements d'honoraires
 
 [^1]: [8:14](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=494) — "le fond du problème c'est la tarification à l'acte. Le soin ne devrait pas être tarifé à l'acte. Il devrait y avoir des investissements qui sont des investissements publics"
 [^2]: [28:39](https://www.youtube.com/watch?v=7yzD_OE6WDM&t=1719) — "les forfaits techniques surrémunèrent l'investissement et conduisent à une gestion inflationniste des équipements... le forfait technique couvre en moyenne 163 % des coûts liés aux machines"
