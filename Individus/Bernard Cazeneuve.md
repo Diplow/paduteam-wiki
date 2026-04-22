@@ -29,4 +29,4 @@ La PaduTeam le désigne comme "un de ses premiers soldats" dans le retour de [[F
 ## Vidéos où Cazeneuve est mentionné
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité dans le bilan Hollande pour son rôle dans la répression des manifestations et la permissivité accordée à la police
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Cité comme PM de transition envisagé par l'aile droite PS (Baumel) pour remplacer Bayrou et désamorcer le mouvement du 10 septembre.
-- [[HOLLANDE prepare t-il SON RETOUR]] — Rôle central : premier soldat de Hollande, co-organisateur de la convention réformiste, "presse hydraulique" autour de Glucksmann avant son écrasement à LCI.
+- [[HOLLANDE prepare t-il SON RETOUR]] — Rôle central : premier soldat de Hollande, co-organisateur de la convention réformiste, "presse hydraulique" autour de Glucksmann avant son écrasement à LCI. Présenté comme "patron" de la gauche réformiste par Hollande lui-même ("je salue l'initiative de Bernard Cazeneuve de rassembler la gauche réformiste").

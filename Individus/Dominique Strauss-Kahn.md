@@ -25,3 +25,4 @@ Chris l'utilise comme argument massue contre ceux qui additionnent naïvement le
 
 ## Vidéos où DSK est mentionné
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — cité pour démontrer la continuité bourgeoise de l'électorat PS : Hollande 2012 → Macron 2017, même sociologie
+- [[HOLLANDE prepare t-il SON RETOUR]] — l'affaire Sofitel citée comme "circonstance" qui a permis à Hollande de se présenter en 2012. Critique féministe des commentaires de l'époque sur la victime ("elle devrait s'estimer heureuse"). La PaduTeam ironise sur le fait que Hollande se dit dépendant des "circonstances" pour se représenter — en 2012, la circonstance c'était l'affaire DSK.

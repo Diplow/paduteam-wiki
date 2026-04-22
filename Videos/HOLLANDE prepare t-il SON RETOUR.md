@@ -6,6 +6,8 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
 aliases: [HOLLANDE prépare t-il SON RETOUR]
+date created: Sunday, April 12th 2026, 5:28:16 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
@@ -33,11 +35,13 @@ La PaduTeam décortique la stratégie de [[Francois Hollande]] pour reprendre la
 
 7. **"Hollande a accouché de Macron" — responsabilité directe dans le chaos.** Hollande l'a nommé secrétaire général de l'Élysée (bras droit), puis ministre de l'économie. Macron s'est barré du gouvernement "1 an et demi avant l'élection présidentielle — juste assez pour arriver en disant je suis un gars nouveau" et faire "le holdup qu'on connaît".[^7] Demander la solution à Hollande sur le chaos actuel, c'est "la phrase d'Einstein : essayer de demander la solution aux gens qui ont créé le problème."
 
-8. **La "crédibilité" hollandiste comme arme électorale contre Mélenchon.** Hollande construit son retour sur le registre du "président normal", "responsable", "qui a déjà exercé". Il n'exclut pas le 49.3 "si le réalisme l'exige"[^8] et présente le fait que Macron a fait pire que lui sur chaque sujet (loi travail → réforme chômage Macron, nassage 2016 → gilets jaunes Macron) comme une forme de réhabilitation. Stratégie : se racheter une virginité par comparaison relative avec Macron.
+8. **Darius Rochebin / courtisanerie médiatique.** L'interview de Rochebin à LCI montre le "journalisme de courtisanerie" : il demande si Hollande sera candidat à travers des métaphores flatteuses, Hollande ne dit pas non. Le même groupe de presse qui a "massacré Glucksmann" est "si gentil avec Hollande".
 
-9. **La stratégie NUPES — trop faible dans ce qu'elle avait de dur.** L'accord NUPES 2022 était potentiellement meilleur que le NFP selon la PaduTeam, mais Mélenchon "leur a cloué une main et laissé l'autre libre pour s'arracher le clou eux-mêmes." L'hypothèse d'un seul groupe parlementaire à la rentrée 2022 aurait forcé le PS à se diviser — il ne l'a pas fait, et c'est là que le PS s'est "re-libéré".[^9]
+9. **La "crédibilité" hollandiste comme arme électorale contre Mélenchon.** Hollande construit son retour sur le registre du "président normal", "responsable", "qui a déjà exercé". Il n'exclut pas le 49.3 "si le réalisme l'exige"[^8] et présente le fait que Macron a fait pire que lui sur chaque sujet (loi travail → réforme chômage Macron, nassage 2016 → gilets jaunes Macron) comme une forme de réhabilitation. Stratégie : se racheter une virginité par comparaison relative avec Macron.
 
-10. **Lancement de la campagne militante "Plus jamais PS".** [[La Breche]] et [[On ne veut plus]] lancent une campagne d'affichage avec kits gratuits pour les groupes locaux (quinzaine de personnes, binôme paritaire). Événement IRL à Paris annoncé pour février 2026. Objectif : "faire le bilan du PS, savoir pourquoi plus jamais PS, pourquoi ces gens ne sont pas de notre camp" — avec "pelles platoniques".[^10]
+10. **La stratégie NUPES — trop faible dans ce qu'elle avait de dur.** L'accord NUPES 2022 était potentiellement meilleur que le NFP selon la PaduTeam, mais Mélenchon "leur a cloué une main et laissé l'autre libre pour s'arracher le clou eux-mêmes." L'hypothèse d'un seul groupe parlementaire à la rentrée 2022 aurait forcé le PS à se diviser — il ne l'a pas fait, et c'est là que le PS s'est "re-libéré".[^9]
+
+11. **Lancement de la campagne militante "Plus jamais PS".** [[La Breche]] et [[On ne veut plus]] lancent une campagne d'affichage avec kits gratuits pour les groupes locaux (quinzaine de personnes, binôme paritaire). Événement IRL à Paris annoncé pour février 2026. Objectif : "faire le bilan du PS, savoir pourquoi plus jamais PS, pourquoi ces gens ne sont pas de notre camp" — avec "pelles platoniques".[^10]
 
 ## Données chiffrées
 
@@ -59,8 +63,12 @@ La PaduTeam décortique la stratégie de [[Francois Hollande]] pour reprendre la
 [[Gauche de rupture]], [[Gauche molle]], [[Hollandisme]], [[Neoliberalisme]], [[Guerre des gauches]], [[Graphique]]
 
 ## Enjeux avancés
-[[Plus jamais PS]] — lancement officiel de la campagne militante avec kits d'affichage, groupes "On Ne Veut Plus", annonce d'un événement IRL à Paris en février ; formulation de la "loi accélérationniste" qui fait d'Hollande un accélérateur du fascisme malgré son discours antifasciste
+[[Plus jamais PS]] — lancement officiel de la campagne militante : kits d'affichage gratuits, groupes [[On ne veut plus]] sur Telegram (onveutplus.fr), bilan PS en plusieurs vidéos à venir, annonce d'un événement IRL à Paris en février 2026, collages déjà en cours dans plusieurs villes ; formulation de la "loi accélérationniste" qui fait d'Hollande un accélérateur du fascisme malgré son discours antifasciste
 [[Union populaire]] — la gauche de rupture LFI/Mélenchon comme seul horizon réel face au pôle Hollande ; démonstration que toute "troisième voie" entre Mélenchon et Hollande est un projet politique mort-né
+
+## Annonces en fin de capsule
+- Événement à **Chambéry le 6 décembre** (à partir de 16h30) : deux conférences — une sur la santé avec Zoé, une sur la stratégie politique municipale avec Chris. Mention possible d'apporter le Graphique pour analyser Chambéry.
+- Campagne de financement pour **[[Positions Revue]]** : refonte du site, podcasts Chroniques de l'Exploitation, mise en ligne du Graphique, préparation d'un événement en 2026.
 
 ## Transcript
 [[HOLLANDE prepare t-il SON RETOUR]]

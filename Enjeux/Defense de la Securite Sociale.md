@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [économie, société]
 thèmes: [santé, travail]
-skill_version: write-enjeu-2026-04-21-enrichi-w45w46
+skill_version: write-enjeu-2026-04-21-enrichi-w49w50
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -220,6 +220,20 @@ Le lien avec la Défense de la Sécu est explicite : les cadeaux fiscaux de Macr
 
 La première cause de recours à l'aide active à mourir en Oregon (étude documentée) n'est pas la douleur incontrôlable — c'est **"je ne veux pas être un poids pour mes proches"**. Ce sentiment est directement produit par l'absence de services publics dignes : si les familles n'avaient pas à porter seules et sans soutien l'accompagnement des personnes dépendantes, si les EHPAD étaient dignes, si les soins palliatifs à domicile étaient correctement dotés, les gens se sentiraient beaucoup moins un poids.
 
+## Le PLFSS 2026 : des "victoires" qui sont des demi-défaites — décembre 2025
+
+[[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] documente l'adoption du PLFSS 2026 (budget de la Sécurité sociale) le 10 décembre 2025, et fournit les outils analytiques pour démonter le récit de "victoires" PS sur la Sécu.
+
+**L'ONDAM comme baisse déguisée.** L'ONDAM (budget de l'assurance maladie) est augmenté de 2,1%. La PaduTeam applique la loi structurelle : les dépenses de santé croissent structurellement de 4% par an (vieillissement, innovations, inflation médicale). Une hausse de 2,1% équivaut donc à une baisse réelle de 1,9 points. Ce mécanisme est le ratchet droitier appliqué à la Sécu : présenter une hausse nominale insuffisante comme un investissement, alors que c'est un recul réel.
+
+**La technique macroniste des annonces maximales.** La PaduTeam formalise le mécanisme standard : annoncer des mesures maximales horribles (gel du RSA, doublement des franchises médicales), rogner sur une partie pour faire passer le reste — dont l'ONDAM sous-dimensionné. Ce qui disparaît (gel du RSA, doublement des franchises) est présenté comme une victoire PS. Ce qui reste (ONDAM à 2,1%) est le vrai contenu de classe du budget.
+
+**La taxe sur les complémentaires sera répercutée sur les cotisants.** La taxe sur les mutuelles et assurances complémentaires (AXA, MGEN) est présentée comme une mesure de redistribution. La PaduTeam démontre la mécanique implacable du capitalisme : toute taxe devient un poste de dépense répercuté sur les prix. AXA ne peut pas absorber la taxe sur ses marges — elle l'impute sur les cotisations des assurés. Frais de gestion AXA (22%) vs Sécurité Sociale (3%) : le différentiel confirme que la vraie solution n'est pas de taxer les complémentaires mais de les supprimer (100% Sécu).
+
+**Le congé naissance comme mesure de classe.** Deux mois de congé supplémentaires, indemnisés à 70% puis 60% du salaire : ingérable pour les classes populaires dont le salaire de base est à 1 300€. Une mesure structurellement réservée aux classes aisées, présentée comme progressiste. La PaduTeam : toute mesure calibrée pour les classes moyennes-supérieures et inapplicable aux classes populaires est une mesure de classe, qu'elle soit portée par la gauche ou la droite.
+
+**L'écart Sécu/complémentaires comme argument structurel.** Les économies potentielles d'un passage au 100% Sécu (5 à 6 milliards) ne sont pas actionnées. Le PLFSS 2026 préserve intact l'écosystème des complémentaires privées (frais de gestion × 7 par rapport à la Sécu). C'est la preuve que ce budget ne défend pas la Sécurité Sociale — il la rogne à petit feu tout en préservant les intérêts privés qui prospèrent sur son affaiblissement.
+
 ## Vidéos clés
 
 - [[ANNONCES DE BAYROU IL VEUT METTRE LE FEU AU PAYS]] — cartographie complète des 44 milliards de rapine : année blanche sur les allocations, franchises ALD, réforme du chômage, gel des fonctionnaires ; productérisme et suppression des jours fériés ; diagnostic marxiste : crise de suraccumulation du capital qui ne peut plus que pressurer les classes populaires
@@ -247,6 +261,7 @@ La première cause de recours à l'aide active à mourir en Oregon (étude docum
 - [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]] — validisme comme logique capitaliste de tri (IME → ESAT → AAH) ; psychiatrisation du social ; bipolarité comme fait de classe (règles hygiéno-diététiques comme privilège) ; critique du témoignage bourgeois individualisé ; LFI insuffisante sur la question du handicap (plus de places en ESAT = prolonger la ségrégation)
 - [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]] — démonstration comparative par l'absurde : 18-20 % du PIB US vs 12 % FR pour 5 ans d'espérance de vie en moins ; 27 % de remboursements refusés chez UnitedHealthcare ; "delay, deny, defend" comme manuel de l'assureur prédateur ; la logique capitaliste produit mécaniquement le désastre — pas les "méchants dirigeants" mais la structure ; crise des opioïdes comme second cas de la violence structurelle du capitalisme pharmaceutique
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — la sécurité sociale de l'alimentation comme mesure anticapitaliste réelle portée sans programme capable de la tenir ; la Sécu de 1945 construite par des résistants communistes armés, pas avec de la douceur ; la conquête sociale implique le rapport de force, pas la bonne volonté
+- [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — ONDAM à 2,1% = baisse réelle (croissance structurelle = 4%) ; technique macroniste des annonces maximales pour faire passer les coupes ; taxe complémentaires répercutée sur les cotisants (AXA 22% de frais vs Sécu 3%) ; congé naissance ingérable à 60% d'un SMIC = mesure de classe ; 5-6 milliards d'économies 100% Sécu non actionnées ; démonstration que la "victoire" PS préserve intact le système de dépossession des cotisants
 
 [^1]: [0:00](https://www.youtube.com/watch?v=jtDb2meKMn8&t=0) — "ils vont venir nous ressortir la petite musique du déficit de la sécurité sociale et nous expliquer comment ils vont aller gratter de la tune sur des choses dont nous avons tous besoin"
 [^2]: [11:24](https://www.youtube.com/watch?v=jtDb2meKMn8&t=684) — "la fraude massive qui existe en France qui est estimée entre 80 et 100 milliards d'euros par an, c'est la fraude fiscale"

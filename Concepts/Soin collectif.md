@@ -45,6 +45,7 @@ Dr Zoé étend le concept à la parentalité : les jeunes parents se retrouvent 
 ## Vidéos où le concept est développé
 
 - [[DEBRIEF DEBAT ZAWATALK PSY PSYKOCOUAC]] — développement central par Dr Zoé et Chris, en réaction au modèle de soin libéral de [[Psykocouac]] ; annonce d'un travail futur sur le concept
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — Zoé développe la solitude post-partum comme angle mort du "réarmement démographique" : bébés secoués par des mères épuisées et seules, congé maternité de 10 semaines, congé paternité de 11 jours. La solution à la natalité ne peut pas être que les 2% de femmes les plus riches utilisent des femmes pauvres — il faut des systèmes collectifs de soin. Aussi : les femmes migrantes qui envoient leurs enfants se faire garder par leur grand-mère en Ouganda pour garder les enfants des influenceuses de Dubaï, c'est l'exact inverse du [[Soin collectif]] ([41:12](https://www.youtube.com/watch?v=6Q9Sj1E-pqs&t=2472))
 
 [^1]: [24:26](https://www.youtube.com/watch?v=E6keQBxtrt0&t=1466) — "il faudrait qu'on arrive à se réapproprier cette notion de care de prendre soin qui est une manière de dire oui nous assumons que notre projet politique son objectif le truc le plus important c'est qu'on fasse du collectif entre nous pour prendre soin les uns des autres"
 [^2]: [25:29](https://www.youtube.com/watch?v=E6keQBxtrt0&t=1529) — "on pense une société où il est normal de se libérer du temps pour que beaucoup de gens aille auprès d'eux [...] ça veut dire penser notre temps de travail"

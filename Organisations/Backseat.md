@@ -31,3 +31,4 @@ La PaduTeam classe Backseat, avec les Jean Massiet et les médias type Mediapart
 - [[BACKSEAT vs PADUTEAM COMMENT EMPÊCHER LE RN EN RURALITÉ]]
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Backseat critique pour avoir platformé des sionistes de gauche sans contradiction en octobre 2023, puis pour avoir laissé [[Chloe Ridel]] "réécrire l'histoire" PS sur Gaza en mai 2025
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Usul défend le service militaire volontaire de Macron sur Backseat ; la PaduTeam note que Backseat est le milieu où la gauche atlantiste est hégémonique et contamine les intervenants

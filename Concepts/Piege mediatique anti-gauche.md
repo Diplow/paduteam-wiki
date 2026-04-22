@@ -71,3 +71,4 @@ Ce n'est pas un complot — c'est une dynamique structurelle. Les médias concen
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Variante assimilation antisémite du piège : syllogisme Palestine → Goebbels
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Analyse clinique du piège en action et de la riposte offensive que la PaduTeam formule
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Variante de la prime médiatique aux anti-Mélenchon : Corbière mieux traité par les médias depuis qu'il attaque LFI
+- [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Commission parlementaire comme piège institutionnel retourné : Mélenchon transforme le format d'accusation en cours d'histoire, les promoteurs du piège avouent leur échec sur CNews

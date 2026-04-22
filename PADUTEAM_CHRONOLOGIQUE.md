@@ -555,21 +555,22 @@ Slug branche : ingest-batch/paduteam-2025-w47-w48
 ---
 ## Batch 30 — Semaines 2025-W49 à 2025-W50 (1 déc 2025 – 14 déc 2025)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w49-w50
+Fiches créées : [[HOLLANDE prepare t-il SON RETOUR]], [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]], [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]], [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]], [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]], [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]], [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] + concepts : Abolition de la monnaie, Centralisme democratique, Fabrication de l ennemi interieur, Notabilisation du PCF, Philosophie comme outil, VSS comme fait social + individus : Amelie de Montchalin, Rachid Temal, Badmulch, Ambroise Croizat, Laurent Voquat, Cecile Cukierman (enrichie) + enjeux enrichis : Plus jamais PS, Guerre des gauches, Féminisme matérialiste, Union populaire, Défense de la Sécurité Sociale
 
-- [ ] CETTE INFLUENCEUSE à DUBAÏ se JUSTIFIE D'AVOIR UNE DOMESTIQUE
-- [ ] HOLLANDE prépare t-il SON RETOUR ?
-- [ ] USUL REJOINT GLUCKSMANN? SON AVIS CATASTROPHIQUE SUR LA GUERRE
-- [ ] LA PORTE-PAROLE DU PCF DÉRAPE SUR LE VOILE ?!
-- [ ] SURPRISE : LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES 
-- [ ] On ÉDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME, la VALEUR et la MONNAIE !!
-- [ ] BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES? (130 000€ POUR APPRENDRE À SOURIRE)
-- [ ] LE PCF rejoint SARKOZY sur la "VALEUR TRAVAIL" ?!
-- [ ] COMMISSION MÉLENCHON : LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS !!
-- [ ] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
-- [ ] LE PS et LES ÉCOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON
-- [ ] BÉGAUDEAU se RIDICULISE sur le DÉTERMINISME et le MARXISME !!
+- [x] CETTE INFLUENCEUSE à DUBAÏ se JUSTIFIE D'AVOIR UNE DOMESTIQUE
+- [x] HOLLANDE prépare t-il SON RETOUR ?
+- [x] USUL REJOINT GLUCKSMANN? SON AVIS CATASTROPHIQUE SUR LA GUERRE
+- [x] LA PORTE-PAROLE DU PCF DÉRAPE SUR LE VOILE ?!
+- [x] SURPRISE : LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES 
+- [x] On ÉDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME, la VALEUR et la MONNAIE !!
+- [x] BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES? (130 000€ POUR APPRENDRE À SOURIRE)
+- [x] LE PCF rejoint SARKOZY sur la "VALEUR TRAVAIL" ?!
+- [x] COMMISSION MÉLENCHON : LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS !!
+- [x] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
+- [x] LE PS et LES ÉCOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON
+- [ ] BÉGAUDEAU se RIDICULISE sur le DÉTERMINISME et le MARXISME !! ⚠️ transcript absent
 
 ---
 ## Batch 31 — Semaines 2025-W51 à 2025-W52 (15 déc 2025 – 28 déc 2025)

@@ -55,6 +55,17 @@ La PaduTeam identifie une fenêtre utile : les écrits de Trotski de 1927 à 193
 - **POI** : plus malins que d'autres sur la question des alliances.
 - **[[Union pour la Reconstruction Communiste]]** (URC) : pas trotskiste, mais léniniste dans une logique d'unité et d'ouverture que la PaduTeam soutient.
 
+## Les deux dégénérescences (trotskisme vs marxisme-léninisme)
+
+La PaduTeam distingue les **trajectoires de dégénérescence** selon le courant :
+
+- **Trotskisme qui dégénère → impérialisme libéral (atlantisme)** : le triptique communiste-révolutionnaire-internationaliste perd d'abord le communisme, puis la révolution, mais garde l'internationalisme en dernier. Soumis à l'ordre occidental, cet internationalisme résiduel devient défense de la "démocratie" contre les "autres civilisations." C'est la trajectoire de [[Edwy Plenel]] et de [[Usul]] sur l'Ukraine.
+
+- **Marxisme-léniniste qui dégénère → nationalisme autoritaire (campisme)** : le même triptique perd d'abord l'internationalisme, gardant la révolution et le communisme "dans un seul pays." Il tend vers le nationalisme, pas vers l'impérialisme (il n'y a qu'un seul impérialisme — le capitalisme). Ces dégénérescences peuvent devenir des formes de tankisme ou de campisme pro-Russie.
+
+**Pourquoi ces trajectoires différentes ?** Elles ne touchent pas les mêmes classes sociales. Le trotskisme occidental est resté ancré dans des classes intellectuelles et petites-bourgeoises ; le marxisme-léninisme a touché des classes très prolétarisées dans les pays colonisés (agriculteurs pauvres, classes colonisées d'Asie, d'Afrique, d'Amérique latine). Les bases sociales produisent des débouchés différents à la dégénérescence idéologique.
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — historique complet des Internationales, tendances françaises, trajectoires individuelles
 - [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — bilan analytique complet de Trotski et du trotskisme : débat Bernstein/Luxemburg/Lénine, Brest-Litovsk, retournement des positions Staline/Trotski, héritage néoconservateur
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — théorisation des deux trajectoires de dégénérescence (trotskisme → atlantisme libéral vs marxisme-léninisme → nationalisme autoritaire) articulée à partir du cas Usul

@@ -65,3 +65,4 @@ Thaïs affirme que les femmes qui disent ne pas vouloir de rapports sexuels avec
 - [[LE COACH SEDUCTION FLIPPANT]] — prédation de rue, sélection des femmes vulnérables
 - [[PAYE TON DROITARD 5.2 KILLIAN SENSEI MATRIARCAT PEDOSATANISTE]] — négationnisme du viol, mythe des fausses accusations
 - [[VIOL SOUMISSION CHIMIQUE DR ZOE RACONTE SON HISTOIRE]] — témoignage de Zoé sur le silence à 15 ans malgré un environnement familial favorable ; épisode du tram bondé où Léa, blessée et à moitié dénudée après son agression, n'est pas interpellée par un seul passager
+- [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] — la réhabilitation d'Abittan comme normalisation culturelle de l'impunité des agresseurs puissants ; Brigitte Macron comme illustration de la solidarité de classe qui reconduit la culture du viol

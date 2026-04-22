@@ -41,7 +41,15 @@ La PaduTeam distingue deux trajectoires chez les bellicistes de gauche :
 ## Concepts associés
 [[Union sacree]], [[Propagande de guerre]], [[Camp de la paix]], [[Atlantisme]], [[Militarisation de l enseignement]], [[Ni-nisme]]
 
+## Le cas Boris Johnson — intérêts matériels du bellicisme
+
+Le transcript de [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] cite un fait matériel qui illustre la mécanique du bellicisme : [[Boris Johnson]] a personnellement empêché un accord de paix Zelenski/Poutine au printemps 2022, puis a reçu un don personnel d'un million de livres d'un actionnaire de firme vendeuse d'armes à Kiev. Ce n'est pas anecdotique — c'est le circuit : guerre prolongée → profits d'armement → rétribution du politique belliciste.
+
+## L'analogie 1914
+
+La PaduTeam insiste sur l'analogie avec 1914 : la Première Guerre mondiale naît d'une crise du capitalisme où le profit ne peut plus se faire sur la classe ouvrière domestique et doit se faire à l'extérieur. Les partis socialistes votent alors les crédits de guerre — c'est l'[[Union sacree]]. En 2025-2026, même crise, même discours : "la lutte des classes est secondaire, la démocratie d'abord." Les Usul d'aujourd'hui sont les Jaurès qui auraient dit oui aux crédits de guerre.
+
 ## Vidéos où le concept est développé
-- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première mise en évidence du continuum belliciste
+- [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première mise en évidence du continuum belliciste ; théorisation de la trajectoire trotskiste vers l'atlantisme ; cas Boris Johnson
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Analyse complète : Glucksmann, Usul, trajectoires distinctes vers le même bellicisme
 - [[MACRON ET GLUCKSMANN VEULENT LA GUERRE]] — NPA belliciste, militarisation de l'enseignement, union sacrée 2.0

@@ -42,9 +42,18 @@ Tondelier sur France Inter en 2025 : elle lance des appels solennels à Mélench
 ## Noisettes originelles (capsule Duflot, 2025)
 La PaduTeam qualifie EELV de "noisettes originelles, les plus belles, les plus grandes, les plus bio" — avant même [[Marine Tondelier]], c'est [[Cecile Duflot]] qui incarne l'impasse fondamentale : l'écologie sans anticapitalisme ne peut aboutir qu'à des non-solutions (comportements individuels, communication) ou à de la résignation. L'EELV est le cas d'école de ce que produit une force politique incapable de nommer la propriété privée comme problème.
 
+## Le vote du PLFSS 2026 : sacrifier le programme pour sauver la primaire (décembre 2025)
+
+Lors du vote du PLFSS 2026 le 10 décembre 2025, l'aile droite des Écologistes (les encartés EELV, par opposition aux anciens de la FI intégrés dans le groupe) s'abstient, permettant au budget macroniste de passer. Les 26 abstentions écologistes étaient arithmétiquement suffisantes pour faire basculer le vote : sans elles, le budget tombait.
+
+La logique derrière : maintenir [[Marine Tondelier]] comme cheffe de file d'une primaire viable. Si le budget était tombé (via un 49.3), [[Olivier Faure]] était éliminé, et sans Faure comme chef PS, la primaire des noisettes perdait sa raison d'être. Les Verts ont donc sacrifié leur vote programmatique pour sauvegarder le calendrier électoral de leur propre candidate.
+
+L'aile gauche du groupe — [[Francois Ruffin]], Hendrick Davi, Sabrina Sbai, Daniel Simonet, Clémentin — qui sont les anciens de la FI, ont voté contre. [[Dominique Voynet]] (jospiniste, ex-candidate à la présidentielle) et deux autres figures ont voté pour — signe de l'aile droite EELV qui penche vers le PS de fait. La PaduTeam : "vous comprenez bien que ça veut dire que les verts ceux qui sont dans le parti, les écologistes, ça veut dire qu'ils se sont abstenus et donc qu'ils ont permis le passage de ce budget."
+
 ## Vidéos où l'organisation est analysée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature officielle ; primaire interne avec 6 800 votants contre Walid Mouali ; islamophobie structurelle (Médine, Rima Hassan, Ali Diouara) ; sécurité sociale de l'alimentation proposée sans programme anticapitaliste cohérent ; douceur comme marque de fabrique de l'espace haut-milieu du Graphique
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Effondrement électoral : perd Bordeaux, Strasbourg, Poitiers. Tondelier réunion de crise. Électorat identifié comme bourgeois macroniste reconverti.
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Analyse [[Ecologie punitive]] des Verts (ZFE, voiture, logistique capitaliste du territoire) ; vote crédits de guerre ; prévision 3-4% seule à la présidentielle 2027
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Noisettes originelles". Duflot (Oxfam) propose de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN. Impasse de l'écologie sans anticapitalisme : ni collapsologie nihiliste ni incitations marchandes ne peuvent remplacer la socialisation des moyens de production.
+- [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 : l'aile droite EELV s'abstient (26 voix décisives) pour sauver Faure et maintenir la primaire des noisettes. L'aile gauche (anciens FI : Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture interne entre les deux tendances.
