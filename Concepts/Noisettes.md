@@ -133,6 +133,12 @@ L'annonce officielle de la primaire des noisettes (15 novembre 2025) révèle le
 [^noisettes-2candidats]: [24:13](https://www.youtube.com/watch?v=tjVIifoybys&t=1453) — "la campagne du premier tour à la présidentielle va se faire sur des thèmes de gauche. On va discuter sécurité sociale à 100% ou pas" — dans [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]]
 [^noisettes-secret]: [29:52](https://www.youtube.com/watch?v=tjVIifoybys&t=1792) — "ils discutent avec Attal pendant que ça fait la primaire" — dans [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]]
 
+## Alliance noisette PCF-PS Paris : "je trahis car il y a l'extrême droite en face"
+
+La PaduTeam formalise dans [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] le discours-type de la trahison noisette : "Discours classique des noisettes, on vous l'a déjà dit : je trahis car il y a l'extrême droite en face." Appliquer ce principe à Paris — où l'extrême droite est à 7 % et où Dati est une ancienne LR passée au macronisme — illustre la dégradation sémantique du concept de "menace" : n'importe quelle droite, si elle n'est pas de gauche, devient "l'extrême droite" dont il faut se protéger par la capitulation.
+
+La conclusion est identique à toutes les configurations noisettes précédentes : "des stratégies de gens qui partent déjà en ayant perdu [...] si je le déshonneur et pas la guerre, à la fin, ils ont la guerre et le déshonneur."
+
 ## Vidéos clés
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
@@ -153,3 +159,4 @@ L'annonce officielle de la primaire des noisettes (15 novembre 2025) révèle le
 - [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — aveu de la stratégie noisette dans sa forme complète : abandon des classes populaires RN pour les décrocheurs du bloc central. Ruffin = "un autre Glucksmann possible." Données cartographiques qui démentent la fable géographique. Double tracte comme retournement de veste documenté.
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Tondelier "reine des noisettes" dans sa dimension capitalisme vert : son écologie de boutiquiers (jean 1083, "perma industrie") est la face consumériste de la noisette bio — ni programme, ni rupture, juste du marché de niche progressiste.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Verdict : "au combat des noisettes, la branche Glucksmann vient de casser." Présente la mécanique du casse-noisette appliquée à Glucksmann : il se croyait une "pince du casse-noisette" (force tirant de l'espace centre-gauche), mais il était lui-même une noisette du grand casse-noisette PS. "Tout est relatif comme dirait Einstein : vous pouvez être une branche du casse-noisette à l'échelle d'une configuration [...] mais une noisette dans un plus grand casse-noisette."
+- [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance PCF-PS-Verts à Paris comme cas d'école de la rhétorique noisette : invocation du danger d'extrême droite dans une ville à 7 % RN. Formalise le discours-type : "je trahis car il y a l'extrême droite en face."

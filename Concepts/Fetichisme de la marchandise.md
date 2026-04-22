@@ -51,6 +51,12 @@ La vidéo JDG illustre une manifestation du fétichisme particulièrement utile 
 
 La PaduTeam retourne la logique avec l'exemple du slip[^8] : on change de slip non parce qu'on est payé pour le faire, mais parce qu'on en a besoin. La valeur d'usage précède la valeur d'échange dans la vie réelle. "Ça n'existe pas les sociétés où les gens s'assoient par terre et attendent jusqu'à ce qu'ils meurent." Le fétichisme fait oublier que la motivation non-marchande existe déjà — dans le foyer, entre amis, dans toute activité non-salariale — et peut être généralisée.
 
+## Fétichisme et antitechnologisme
+
+La vidéo [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] ajoute une application sur l'écologie réactionnaire : les arguments d'[[Antitech Resistance]] sur les "industries qui vous mentent" ou les "techniques démocratiques" sont du fétichisme de la marchandise. "L'industrie" y est personnifiée comme un agent intentionnel, masquant les rapports sociaux réels. La PaduTeam : "les industries sont elles-mêmes objet de rapports sociaux, objet de dialectique, objet de conflit [...] les bourgeois sont eux-mêmes aliénés par leur mode de production."
+
+Les "Robinsonades" (Marx) constituent l'envers du fétichisme : croire qu'il existait un temps où chacun maîtrisait de A à Z son environnement de production est aussi une fable libérale que de croire que la marchandise a une valeur autonome.
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
@@ -64,6 +70,7 @@ La PaduTeam retourne la logique avec l'exemple du slip[^8] : on change de slip n
 - [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — Le revenu universel comme solution fétichiste : distribuer de la valeur abstraite pour corriger la contradiction sans sortir de la forme-valeur ; l'exemple du slip comme motivation non-marchande qui existe déjà
 - [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]] — [[Badmulch]] comme cas d'école du fétichisme libéral : vision des individus isolés produisant chacun un bien et s'échangeant via des coquillages (le mythe du 18e siècle). Il "ne voit pas que c'est la différence entre l'hôpital public et une clinique privée."
 - [[On ANALYSE le PIRE PHILOSOPHE dans un TEAM BUILDING de MANAGERS]] — Distinction aliénation/abrutissement ancrée dans le fétichisme : la séparation du producteur de son travail et de son produit est la définition même de l'aliénation, qui "ne se ressent pas, elle se conceptualise"
+- [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] — personnification de l'industrie comme agent intentionnel ("les industries vous mentent") ; les Robinsonades comme envers du fétichisme ; ATR comme cas d'école du fétichisme de la marchandise appliqué à l'écologie
 
 [^5]: [31:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1911) — "ce n'est pas le pétrole en soi qui porte l'extraction d'énergie — c'est le monde moderne capitaliste, les rapports sociaux — c'est typiquement le fétichisme de la marchandise de Jankovici de croire que le pétrole en lui-même porte l'extraction énergétique"
 [^6]: [3:37](https://www.youtube.com/watch?v=oJJjXM92mjs&t=217) — "c'est vraiment la fétichisation de la marchandise. Normalement, le ticket est juste un rapport social [...] à la fin c'est fétichisé. Les mecs, ils comptent les tickets sans se poser la question de ce qu'il y a derrière."

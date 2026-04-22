@@ -17,6 +17,12 @@ Organisation antitechnologie absolutiste active en ligne depuis octobre 2022. An
 
 ## Dynamique
 
+ATR se présente comme "le mouvement révolutionnaire non violent d'écologie radicale" avec un "unique objectif : démanteler le système." Fondé en 2022, présent dans plusieurs villes (Rennes, Paris, Grenoble), plus de 11 000 abonnés sur Instagram, avec des relais comme Nirina YTB (140 000 abonnés). La PaduTeam identifie la précision "non violent" comme un red flag en soi : c'est "se mettre du côté du pouvoir", dire "on n'est pas des gauchistes."
+
+ATR s'inspire de Théodore Kaczynski (Unabomber) — auteur de 3 morts et 24 blessés entre 1978 et 1995, dont des universitaires en informatique. ATR se "reconnaît dans ses écrits" tout en "dénonce ses actes." La PaduTeam rejette cette séparation : "si Kaczynski a utilisé ce mode d'action, c'est que c'est cohérent avec sa pensée. Tu peux pas prendre que les bouts qui t'arrangent."
+
+ATR rejette les clivages politiques traditionnels : ni de gauche ni de droite, la seule ligne de fracture est pro ou anti-technique. Les "progressistes" y sont traités d'"idiots utiles de l'expansion industrielle." Pour la PaduTeam, c'est du confusionnisme et l'utilisation du mot "progressiste" comme insulte trahit une position de classe.
+
 La PaduTeam distingue deux positions distinctes : la [[Antitechnologie vs technocritique|technocritique]] (critiquer l'usage social de la technique — position PaduTeam) et l'antitechnologie (s'opposer à la technique en tant que telle — position ATR). L'absolutisme antitech d'ATR a des conséquences politiques précises et non accidentelles :
 
 **Sur les droits des femmes** : refus de l'industrie pharmaceutique = refus de la contraception, de l'IVG, de l'obstétrique médicalisée. La PaduTeam illustre : sans obstétrique moderne, une de leurs membres serait morte à l'accouchement. Pas d'IVG, pas de pilule — retour à la grossesse subie tous les 18 mois entre 16 et 40 ans.
@@ -41,4 +47,5 @@ La PaduTeam : "Il n'y a aucun monde où les arguments d'ATR peuvent être repris
 
 ## Vidéos où ATR est analysée
 
-- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — analyse de fond, avec Chris
+- [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] — analyse théorique : origine réactionnaire de l'écologie antitech, antihumanisme de fond, Kaczynski, ni de gauche ni de droite, médecine ancestrale
+- [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — analyse de fond, avec Chris : antiféminisme, transphobie, pipeline fasciste

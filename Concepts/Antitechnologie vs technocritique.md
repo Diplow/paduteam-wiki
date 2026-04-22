@@ -49,6 +49,13 @@ ATR ne peut être repris que par des fascistes. La PaduTeam : "Il n'y a aucun mo
 
 [[Sujet revolutionnaire]], [[Feminisme materialiste]], [[Transphobie]]
 
+## Métabolisme humain et technique
+
+Formulation marxiste centrale développée dans la vidéo #1 : la technique est le "métabolisme de l'humanité" (Marx). L'humanité ne se distingue des autres espèces que par sa "suractivité technique." Il n'existe pas de pensée de l'humanité sans la technique — les anthropologues eux-mêmes différencient les stades de l'humanité par la technique (collecte/chasse, âge de fer, âge de bronze, agriculture). "L'idée même de sortir du mode technologie, ça n'a aucun sens."
+
+L'idée ATR de "technique méchante depuis la révolution industrielle" est une limite arbitraire : avant 200 ans, les humains exploitaient déjà d'autres humains dans des "conditions dégueulasses" — ce n'est pas la technique qui exploite les hommes, c'est le mode de production capitaliste.
+
 ## Vidéos associées
 
+- [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] — pose la distinction, analyse ATR comme antitechnologie : Kaczynski, technique comme métabolisme humain, fétichisme de la marchandise
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — analyse complète ATR, distinction antitechnologie/technocritique, lien avec féminisme et droits trans

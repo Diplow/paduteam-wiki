@@ -1,15 +1,38 @@
 ---
 type: individu
 domaine: [politique-intérieure]
-thèmes: []
+thèmes: [répression-justice, élections, guerre-des-gauches]
+aliases: [Chikirou]
 date created: Tuesday, March 31st 2026, 10:47:51 am
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
+skill_version: write-entity-2026-04-22
 ---
-#domaine/politique-intérieure
+#domaine/politique-intérieure #thème/répression-justice #thème/élections #thème/guerre-des-gauches
 # Sophia Chikirou
 
 ## Profil synthétique
-Cadre [[France Insoumise]], candidate aux municipales de Paris 2026. Fait environ 7% au premier tour. Figure de la campagne [[Plus jamais PS]]. Se maintient au second tour malgré la pression des "castors" pour qu'elle se désiste pour [[Emmanuel Gregoire]] (PS).
+Cadre [[France Insoumise]], candidate aux municipales de Paris 2026. Première cible du [[Lawfare]] contre LFI à Paris : poursuivie pour escroquerie en pleine campagne municipale, dans une affaire commerciale vieille de 8 ans et close entre les parties. Figure de la campagne [[Plus jamais PS]]. Fait environ 7 % au premier tour, se maintient au second malgré la pression des "castors" pour qu'elle se désiste pour [[Emmanuel Gregoire]] (PS).
+
+## Le procès comme lawfare (janvier 2026)
+
+En janvier 2026, le parquet de Paris annonce vouloir poursuivre Chikirou pour **escroquerie** — un différend commercial de 67 000 € vieux de 8 ans avec [[Le Media TV]] (alors dirigé par [[Gerard Miller]]), déjà réglé à l'amiable entre les parties. Aucun plaignant, aucun préjudice subsistant — mais le parquet saisit l'"opportunité" de la campagne municipale pour informer la presse et fixer le procès au 12 mai 2026, après les élections.
+
+La PaduTeam déroule la mécanique en trois étapes[^proc1] : les juges choisissent leur timing politique ; la presse "progressiste" (Libération, Mediapart, L'Humanité) relaie et efface la campagne de Google actualité ; l'extrême droite amplifie pour achever la destruction d'image. Résultat : taper "Chikirou" ne renvoie plus à la mairie de Paris, mais à l'escroquerie.
+
+La disproportion parle d'elle-même : 67 000 € contre les 4 millions volés par [[Marine Le Pen]] (assistants fictifs), les ~50 millions de l'affaire Karachi-Sarkozy, le coaching "sourire" de [[Jordan Bardella]] à 140 000 €. Ce n'est pas la gravité des faits qui détermine les poursuites — c'est la menace politique que représente la candidate.
+
+Chikirou est ainsi placée dans la continuité internationale du lawfare : Lula (Lava Jato), Podemos/[[Pablo Iglesias]] (rapport PISA fabriqué par la CIA), Bachelet, Correa. "Même méthode, même cible"[^proc2].
+
+[^proc1]: [07:44](https://www.youtube.com/watch?v=1VDLFd3PVp8&t=464) — "première étape du lawfare, c'est la mise en action des juges contre un candidat oppositionnel progressiste et de gauche"
+[^proc2]: [08:15](https://www.youtube.com/watch?v=1VDLFd3PVp8&t=495) — L'insoumission et Diaro Red avaient publié cette analyse de ce qui se passe en Espagne — "même méthode, même cible. L'insoumission et le média espagnol"
+
+## Avant les municipales : la PaduTeam prédit son essor (janvier 2026)
+
+Bien avant les municipales, la PaduTeam analyse Chikirou comme une "Zoran Mamdani" — seule face à un front PS-Verts-PCF qui se constitue pour l'écraser, mais portée par une base de 30 % de Parisiens ayant voté Mélenchon en 2022[^chikirou-base]. Les sondages Ipsos la donnent à 13 % — chiffre jugé absurde : "Il est impossible que ça fasse 32 et 13" quand la base Mélenchon 2022 est à 30 %.
+
+Pour gagner, la PaduTeam lui prescrit une stratégie précise : des **mesures de rupture simples et immédiatement compréhensibles**, notamment sur le logement — plafonnement du loyer au mètre carré par arrondissement, formulation "votre loyer sera tant" calculable sur place. C'est ce qui a permis à Mamdani de gagner à New York : des "mesures où les gens voient que très rapidement leur vie peut changer."
+
+[^chikirou-base]: [20:00](https://www.youtube.com/watch?v=MatvO6L4H7Y&t=1200) — "la base de Chikirou c'est 30 % de gens de Paris qui ont voté Mélenchon en 2022. Il est impossible que ça fasse 32 et 13."
 
 ## Municipales de Paris 2026 : la campagne "Plus jamais PS"
 
@@ -27,6 +50,10 @@ La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des mu
 ## Relations
 - [[Emmanuel Gregoire]] — adversaire PS à Paris
 - [[Rachida Dati]] — candidate droite à Paris
+- [[Le Media TV]] — partie civile initiale du différend commercial (affaire close)
+- [[Gerard Miller]] — dirigeait Le Média au moment du litige
 
 ## Vidéos où Chikirou est analysée
+- [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Lawfare en 3 étapes : timing politique, relais presse progressiste, amplification extrême droite ; disproportion des 67 000 € ; cas d'école de l'offert contre une candidate LFI en campagne.
+- [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Avant les municipales : base de 30 % (Mélenchon 2022) sous-estimée par les sondages ; prescriptions stratégiques (mesures logement, modèle Mamdani) ; figure de "Zoran Mamdani" parisienne face au front PS-Verts-PCF.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Campagne "Plus jamais PS" à Paris ; se maintient malgré la pression ; démonstration que Grégoire gagne sans elle et que Dati n'est pas Hitler.
