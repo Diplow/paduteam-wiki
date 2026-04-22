@@ -52,6 +52,7 @@ Ce mécanisme n'est pas le racisme biologique (hiérarchie des races naturelles,
 
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — formulation explicite du mécanisme en réponse à la distinction bons/mauvais immigrés de Sardoche
 - [[Cet INCEL LIBERTARIEN nous CLASHE ON le REEDUQUE sur la SCIENCE reponse a Mos Majorum]] — même logique appliquée à la valeur différenciée des types de travail
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — deux exemples de racisation par le travail domestique : (1) la négrophobie à Dubaï comme rapport racialisé entre la bourgeoisie locale et les travailleurs ougandais ; (2) en France, les personnels de maison sont "souvent des gens tamoul, pakistanais ou bangladais" — la racisation est attachée aux tâches subalternes ([36:32](https://www.youtube.com/watch?v=6Q9Sj1E-pqs&t=2192))
 
 ---
 

@@ -5,7 +5,7 @@ youtube_id: -Q-ulX_kTmU
 domaine: [société, politique-intérieure]
 thèmes: [VSS, féminisme]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
-skill_version: ingest-batch-2026-04-13
+skill_version: ingest-2026-04-21
 date created: Monday, April 13th 2026, 6:31:54 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
@@ -35,6 +35,7 @@ Grande vidéo analytique de la PaduTeam. [[Brigitte Macron]] assiste au spectacl
 
 - [[Brigitte Macron]] — l'incident central
 - [[Ary Abittan]] — le bénéficiaire du soutien de Brigitte
+- [[Priscilla Even]] — défense publique de Brigitte Macron au nom de la "présomption d'innocence"
 
 ## Organisations mentionnées
 

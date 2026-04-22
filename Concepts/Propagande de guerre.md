@@ -26,6 +26,8 @@ La propagande de guerre opère sur plusieurs registres simultanément :
 - Glucksmann sur chaque plateau : "envoyer des armes" comme réponse unique sans analyse
 - Le "tankiste" comme équivalent du "pro-Hamas" : neutraliser l'adversaire avant qu'il ne parle
 - La [[Militarisation de l enseignement|militarisation de l'enseignement]] comme préparation culturelle de la jeunesse populaire à la guerre
+- **Boris Johnson empêchant les négociations de paix (printemps 2022)** — Johnson a personnellement torpillé un accord de paix Zelenski/Poutine quelques semaines après le début de la guerre. Il a ensuite reçu un don personnel d'un million de livres d'un actionnaire d'une firme vendeuse d'armes à Kiev. Information invisibilisée dans les médias bellicistes.
+- **La corruption retournée en "gage de démocratie"** — Quand le bras droit de Zelenski est contraint à démissionner pour corruption, Le Parisien (Bernard Arnaud) et L'Express (Alain Weil) titrent que cela "renforcerait la crédibilité de l'Ukraine" et lui "donnerait des gages de transparence." La preuve de la corruption devient preuve de la démocratie — paroxysme de la propagande de guerre.
 
 ## Concepts associés
 [[Bellicisme social-democrate]], [[Union sacree]], [[Militarisation de l enseignement|Militarisation de l'enseignement]], [[Camp de la paix]], [[Guerre psychologique imperialiste]]

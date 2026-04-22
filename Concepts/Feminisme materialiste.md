@@ -45,6 +45,7 @@ Dans la vidéo sur [[Giulia Sarkozy]], la liste des vraies menaces pour une adol
 
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Définition la plus explicite : refus d'accorder la misogynie sur "Karen", critique du féminisme essentialiste des Verts, lecture du terme Karen comme outil du féminisme noir
 - [[GIULIA SARKOZY TRAITEE DE POUFFE PAR MARIANNE]] — Application pratique : démontage d'un article Marianne qui confond police de l'esthétique féminine et féminisme protecteur ; liste des vraies menaces pour les adolescentes vs. panique morale bourgeoise
+- [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] — Les femmes bourgeoises en position de gardienne du système patriarcal : Brigitte Macron choisit la solidarité de classe (avec Abittan, homme puissant) contre la solidarité de genre (avec les militantes de NousToutes) ; [[Priscilla Even]] comme contre-type du féminisme médiatique macroniste
 
 [^1]: [2:36](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=156) — "Le féminisme ce n'est pas dire que les meufs sont tout le temps super. Elles peuvent être des grosses bourgeoises et se comporter en fonction de leur intérêt de classe."
 [^2]: [11:22](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=682) — "Marion Maréchal a pas pris de la bière dans les cheveux parce que c'est une meuf — elle en prend parce que c'est une dirigeante politique d'extrême droite qui porte un projet de nettoyage ethnique."

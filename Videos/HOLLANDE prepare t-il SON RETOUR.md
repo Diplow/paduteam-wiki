@@ -8,8 +8,11 @@ enjeux: [plus-jamais-PS, union-populaire]
 aliases: [HOLLANDE prépare t-il SON RETOUR]
 date created: Sunday, April 12th 2026, 5:28:16 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+skill_version: ingest-2026-04-21
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
+
+[![HOLLANDE prépare t-il SON RETOUR ?](https://img.youtube.com/vi/6Oh29FEy0-Y/0.jpg)](https://www.youtube.com/watch?v=6Oh29FEy0-Y)
 
 # HOLLANDE prépare t-il SON RETOUR
 
@@ -30,7 +33,13 @@ La PaduTeam décortique la stratégie de [[Francois Hollande]] pour reprendre la
 
 6. **Philippe Aghion = symbole du hollandisme économique.** Présent à la convention Hollande-Cazeneuve-Glucksmann, conseiller de Macron, théoricien du ruissellement. Son invitation est une signature de classe : la gauche réformiste ménage le capital.
 
-7. **Darius Rochebin / courtisanerie médiatique.** L'interview de Rochebin à LCI montre la "journalisme de courtisanerie" : il demande si Hollande sera candidat à travers des métaphores flatteuses, Hollande ne dit pas non. Le même groupe de presse qui a "massacré Glucksmann" est "si gentil avec Hollande".
+7. **Darius Rochebin / courtisanerie médiatique.** L'interview de Rochebin à LCI montre le "journalisme de courtisanerie" : il demande si Hollande sera candidat à travers des métaphores flatteuses, Hollande ne dit pas non. Le même groupe de presse qui a "massacré Glucksmann" est "si gentil avec Hollande".
+
+8. **La stratégie NUPES comme avertissement.** Mélenchon en 2022 a fait une erreur : "trop faible dans ce qu'il a de dur" — il a cloué la main du PS à l'accord mais leur a laissé l'autre bras libre. Aurait fallu soit un seul groupe parlementaire (pour écraser le PS), soit les "finir à coup de pelle platonique". La PaduTeam identifie ce moment — le refus du groupe unique à la rentrée 2022 — comme le point où le PS a réussi à se régénérer.
+
+9. **L'affaire DSK comme "circonstance" hollando-avouée.** Hollande dit qu'il faut "des circonstances" pour se présenter. La PaduTeam ironise : en 2012, la circonstance c'était l'affaire DSK au Sofitel — "moi j'avais la volonté mais quand on m'a appelé ce dimanche matin…" Critique féministe explicite : commentaires de l'époque sur la victime de Strauss-Kahn ("elle devrait s'estimer heureuse").
+
+10. **La citation de Bainville.** Pour analyser la stratégie Mélenchon/NUPES 2022, la PaduTeam cite l'historien royaliste Bainville sur le traité de Versailles — "trop dur dans ce qu'il a de faible, trop faible dans ce qu'il a de dur." Appliqué au PS : Mélenchon a été trop souple après avoir été trop dur.
 
 ## Résultats / projections
 
@@ -51,8 +60,12 @@ La PaduTeam décortique la stratégie de [[Francois Hollande]] pour reprendre la
 [[Gauche de rupture]], [[Gauche molle]], [[Hollandisme]], [[Neoliberalisme]], [[Guerre des gauches]]
 
 ## Enjeux avancés
-[[Plus jamais PS]] — lancement officiel de la campagne militante avec kits d'affichage, groupes "On Ne Veut Plus", annonce d'un événement IRL à Paris en février
-[[Union populaire]] — la gauche de rupture LFI/Mélenchon comme seul horizon réel face au pôle Hollande
+[[Plus jamais PS]] — lancement officiel de la campagne militante : kits d'affichage gratuits, groupes "[On ne veut plus](On ne veut plus)" sur Telegram (onveutplus.fr), bilan PS en plusieurs vidéos à venir, annonce d'un événement IRL à Paris en février 2026 avec des invités incroyables, et collages déjà en cours dans plusieurs villes.
+[[Union populaire]] — la gauche de rupture LFI/Mélenchon comme seul horizon réel face au pôle Hollande.
+
+## Annonces en fin de capsule
+- Événement à **Chambéry le 6 décembre** (à partir de 16h30) : deux conférences — une sur la santé avec Zoé, une sur la stratégie politique municipale avec Chris. Mention possible d'apporter le Graphique pour analyser Chambéry.
+- Campagne de financement pour **[[Positions Revue]]** : refonte du site, podcasts Chroniques de l'Exploitation, mise en ligne du Graphique, préparation d'un événement en 2026.
 
 ## Transcript
 [[HOLLANDE prepare t-il SON RETOUR]]

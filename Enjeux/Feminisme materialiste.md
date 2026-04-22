@@ -3,7 +3,7 @@ type: enjeu
 domaine: [théorie, société, politique-intérieure]
 thèmes: [féminisme, VSS]
 aliases: [Féminisme matérialiste, féminisme de classe]
-skill_version: write-enjeu-2026-04-21-enrichi-w43w44
+skill_version: write-enjeu-2026-04-21-enrichi-w49w50
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Monday, April 21st 2026, 6:00:00 pm
 ---
@@ -296,6 +296,28 @@ La leçon stratégique sur le mouvement queer : Stonewall était une émeute ini
 
 Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux conditions pour qu'un retour soit légitime. (1) Tenir un discours structurellement juste sur ses actes — pas une confession punitive pour être absous, mais un discours qui permette aux autres de comprendre le mécanisme et de ne pas le reproduire. (2) Avoir mis en place des transformations concrètes de sa position (dépositionnement) pour que le comportement ne se reproduise pas. Le dépositionnement n'est pas la cancellation — c'est adapter la personne à une activité compatible avec les qualités qu'elle a démontrées.
 
+## La solidarité de classe au-delà du genre : Brigitte Macron et l'affaire Abittan
+
+[[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] illustre une thèse centrale du féminisme matérialiste : la solidarité de classe est plus forte que la solidarité de genre. Brigitte Macron, femme de la bourgeoisie d'État, traite de "ces salopes" les militantes de [[NousToutes]] venues protester contre le non-lieu obtenu par l'acteur [[Ary Abittan]] — accusé de viol par plusieurs femmes. La formule de La Fontaine citée par la PaduTeam résume le mécanisme : "selon que vous serez puissant ou misérable, les jugements de cour vous rendront blanc ou noir." Une femme bourgeoise défend un homme riche contre des militantes populaires — la variable pertinente n'est pas le genre mais la classe.
+
+**Le non-lieu n'est pas l'innocence.** La PaduTeam rappelle les données structurelles : 94 % des plaintes pour viol sont classées sans suite en France. Un non-lieu signifie que les preuves n'ont pas satisfait au niveau requis pour aller en procès — non que l'accusation était fausse. Dans un système judiciaire qui produit structurellement cette proportion de classements, le non-lieu est la norme, pas la preuve d'innocence.
+
+**Le dépositionnement comme réponse centrale.** La PaduTeam réaffirme sa position anti-punitiviste : la bonne réponse aux accusations de VSS n'est pas nécessairement l'emprisonnement, mais le dépositionnement — retirer à la personne la position de pouvoir qui lui a permis d'agir. Un acteur accusé de viol qui continue à tourner n'est pas dépositionnement — il conserve l'outil de son impunité. La solidarité de Brigitte Macron avec Abittan est précisément une solidarité pour maintenir ce dépositionnement impossible : protéger sa position dans l'industrie du spectacle.
+
+**La solidarité de classe transgenre** : le fait que ce soit une femme (bourgeoise) qui défende un homme (bourgeois) contre des femmes (militantes populaires) est la démonstration empirique que la sororité universelle est une fiction. Les solidarités de classe traversent le genre — et la PaduTeam avait prédit ce mécanisme depuis la critique du "Pacte".
+
+## Le fémonationalisme comme économie politique mondiale : le cas de l'influenceuse à Dubaï
+
+[[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] applique les outils du féminisme matérialiste à une figure d'économie politique mondiale : une influenceuse française à Dubaï qui emploie une nourrice ougandaise à 700€/mois, séparée de ses propres enfants restés en Ouganda.
+
+**La distinction subalternisation/exploitation.** La PaduTeam, s'appuyant sur [[Sara Farris]] (*In the Name of Women's Rights*), introduit la distinction entre exploitation (extraction de plus-value sur le travail) et subalternisation (assignation à une position d'infériorité structurelle qui dépasse le rapport salarial). La nourrice ougandaise est exploitée (son travail est sous-payé), mais aussi subalternisée : elle est assignée à une fonction de soin pour des enfants qui ne sont pas les siens, au détriment de ses propres enfants, en raison de sa position dans la hiérarchie mondiale des nations et des corps.
+
+**Le fémonationalisme comme économie mondiale.** Sara Farris a formalisé le concept pour désigner la récupération des droits des femmes par les discours nationalistes anti-immigration. La PaduTeam l'élargit : le même mécanisme fonctionne à l'échelle mondiale par le marché. Les femmes du centre impérialiste (Europe, Dubaï-comme-périphérie-occidentale) externalisent leur propre subalternisation domestique vers des femmes de la périphérie — ce qui crée une solidarité entre femmes bourgeoises du centre et ordre mondial capitaliste-patriarcal, au détriment des femmes racisées du Sud global.
+
+**Dubaï comme "pure occidentalité périphérique"** : la PaduTeam qualifie Dubaï de "pure occidentalité périphérique" — un espace qui reproduit les structures du capitalisme occidental sans ses contradictions (syndicats, droits sociaux, régulation). L'influenceuse n'est pas une anomalie — elle est le produit logique d'un système qui combine mobilité des femmes du centre et immobilité des femmes de la périphérie.
+
+**Le fétichisme de la marchandise comme révélateur de classe.** Les sacs Hermès achetés à Dubaï représentent 40 mois de salaire de la nourrice ougandaise. La PaduTeam mobilise le concept marxiste de [[Fetichisme de la marchandise]] : la marchandise cache les rapports sociaux de production qui l'ont rendue possible. Acheter un sac Hermès à Dubaï, c'est consommer le rapport de subalternisation qui a permis d'en avoir les moyens — sans que ce rapport soit visible dans la transaction.
+
 ## Vidéos clés
 
 - [[PAYE TON DROITARD 5.1 KILLIAN SENSEI MALES SIGMA]] — hiérarchie alpha/sigma comme pseudo-science naturaliste ; fonction réelle : vendre une compensation symbolique aux hommes économiquement défavorisés ; MGTOW comme aboutissement logique ; monétisation de la frustration masculine
@@ -345,4 +367,6 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 - [[DR ZOE APPREND A BAISER A CE PUCIX]] — pipeline masculiniste analysé de l'intérieur ; individualisation des problèmes sociaux ; loi de l'attraction comme pensée magique capitaliste ; patriarcat comme hiérarchie entre les hommes ; rapport de consommation/objectivation des femmes
 - [[INCEL LIBERTARIEN CLASHE MOS MAJORUM]] — démonstration que scientisme petit-bourgeois et masculinisme partagent la même racine de classe (conscience possible) ; Mos Majorum "diplômé analphabète" incapable de comprendre ni l'exploitation ni le patriarcat pour la même raison structurelle ; on répond pour son public, pas pour lui
 - [[REEDUCATION INCEL LIBERTARIEN]] — comportement Twitter de Mos Majorum envers Dr Zoé comme preuve empirique : le masculinisme ordinaire révèle que le scientisme s'effondre dès qu'il s'agit des femmes ; "C'est empirique ça ? Tu peux le prouver ?" comme retournement de la posture scientiste
+- [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] — solidarité de classe transgenre : femme bourgeoise défend homme riche contre militantes populaires ; non-lieu ≠ innocence (94% de classements sans suite) ; dépositionnement vs emprisonnement comme réponse centrale ; La Fontaine "selon que vous serez puissant ou misérable" comme formule du mécanisme ; démonstration empirique que la sororité universelle est une fiction
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — distinction subalternisation/exploitation (Sara Farris) ; nourrice ougandaise à 700€/mois séparée de ses enfants = subalternisation économique mondiale ; fémonationalisme comme externalisation de la subalternisation domestique vers la périphérie ; Dubaï comme "pure occidentalité périphérique" ; sacs Hermès = 40 mois de salaire de la nourrice = fétichisme de la marchandise en acte
 
