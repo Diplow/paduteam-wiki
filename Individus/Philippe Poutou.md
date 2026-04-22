@@ -50,9 +50,23 @@ La trajectoire de Poutou "sonne comme un glas" — c'est aussi le bilan d'une g�
 - [[Francois Fillon]], [[Marine Le Pen]] — cibles de l'attaque du débat 2017
 - [[Revolution Permanente]], [[Union pour la Reconstruction Communiste]] — pôles communistes que la PaduTeam préférerait voir Poutou rejoindre
 
+## La déclaration Poutou de mars 2026 : soutien à Mélenchon
+
+Sur Backseat en mars 2026, Poutou déclare qu'il soutiendra "probablement" Mélenchon à la présidentielle 2027 sans avoir engagé le NPA. La PaduTeam analyse cette sortie comme "la pire stratégie possible" — pour le NPA, pour Mélenchon, pour la gauche en général.
+
+L'argument central : les partis trotskistes ont une existence nationale précisément parce qu'ils présentent des candidats à la présidentielle. Se rallier à la FI sans accord programmatique revient à "se dissoudre dedans" — la France Insoumise "c'est le SMIC à 2000 €, aucune nationalisation, il n'y a pas du tout un programme communiste." Si le NPA se range derrière Mélenchon, les électeurs qui voulaient voter pour un trotskiste indépendant n'iront pas vers Mélenchon — ils iront vers [[Revolution Permanente]] ou le NPAC. Et Mélenchon se retrouve sans réservoir de voix à sa gauche au second tour.[^6]
+
+La PaduTeam rappelle aussi la valeur des débats à 11 : Poutou dans le débat 2017 contre Fillon et Le Pen a aidé Mélenchon en déportant le débat à gauche. Si tous les candidats révolutionnaires se rallient, Mélenchon se retrouve seul face à neuf adversaires qui lui tapent dessus — "la gauche lui tapera dessus, l'extrême droite dira que la gauche avec Mélenchon lui tape dessus."
+
+Verdict de la PaduTeam : "Poutou est rincé, ça se voit, il est fatigué. Merci pour tout Poutou."[^7] La cohérence de l'analyse matérialiste : sa boutique à Bordeaux le rend indisponible pour une campagne nationale, et le libéralisme autoritaire en crise "coûte un peu cher" aux anciens confort militants.
+
+[^6]: [9:17](https://www.youtube.com/watch?v=sI-XFGMRPbM&t=557) — "Si c'est juste on soutient la France insoumise. La France insoumise c'est le SMIC à 2000 euros, aucune nationalisation. Il y a pas du tout un programme communiste à la France insoumise."
+[^7]: [37:12](https://www.youtube.com/watch?v=sI-XFGMRPbM&t=2232) — "conclusion : Poutou est rincé ça se voit il est fatigué. Merci pour tout Poutou."
+
 ## Vidéos où Philippe Poutou est analysé
 
 - [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — analyse centrale de sa trajectoire
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — déclaration de soutien à Mélenchon mars 2026 ; pourquoi c'est contre-productif pour le NPA, pour Mélenchon et pour la gauche ; critique du discours théorique ("l'État c'est l'extrême droite")
 
 [^1]: [6:12](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=372) — "Poutou a permis à Mélenchon d'être CEO en 2017 quand il y a eu ce fameux débat avec tous les candidats et que Poutou est rentré dans la tête de Fillon"
 [^2]: [9:17](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=557) — "c'est ce jour-là qu'on découvre la librairie. Et c'est ce jour-là qu'on apprend que Isabelle la libraire part à la retraite en avril"

@@ -31,6 +31,14 @@ Duflot distingue la collapsologie (parler d'effondrement inévitable) comme caus
 ## Bilan politique
 Elle a fait partie du gouvernement Hollande, a démissionné quand "ça devenait vraiment trop de la merde" — mais elle y est quand même allée. Pour la PaduTeam, c'est précisément ce type de participation aux renoncements successifs de la gauche qui a désabusé les classes populaires et les a rendues imperméables aux projets de gauche.
 
+## Dîner des Bâtisseurs — rôle d'introductrice (2023-2025)
+
+Duflot a participé aux éditions 2023 et 2024 du Dîner des Bâtisseurs — soirée mondaine réunissant 600 leaders catholiques dans un réseau financé par [[Pierre-Edouard Sterin]] et [[Vincent Bollore]]. Formée au militantisme via la Jeunesse Ouvrière Chrétienne, elle assume publiquement sa foi depuis longtemps. C'est elle qui a soufflé le nom de [[Marine Tondelier]] aux organisateurs, le réseau fonctionnant par cooptation.
+
+Sa justification : "c'était une expérience humaine enrichissante. J'ai rencontré des personnes avec des opinions différentes. En tant que représentante d'un courant catholique de gauche, j'étais par contre clairement minoritaire." Pour la PaduTeam, c'est le numéro de claquettes classique de la dépolitisation : traiter un réseau de lobbying réactionnaire bourgeois financé par Stérin et Bolloré comme une "rencontre avec la différence".
+
+Dans un livre paru fin octobre 2025 (*Gagnons*), Duflot revient sur son départ du gouvernement Hollande en 2014 et qualifie ce geste d'"erreur politique aux lourdes conséquences". Formulation PaduTeam : elle affaiblit la limite entre conviction personnelle et politique — symptôme d'une ligne incapable de tracer des frontières de classe.
+
 ## Relations
 - [[Europe Ecologie Les Verts]] — ancienne cheffe de file
 - [[Marine Tondelier]] — successeure à EELV, même impasse analytique
@@ -39,3 +47,4 @@ Elle a fait partie du gouvernement Hollande, a démissionné quand "ça devenait
 
 ## Vidéos où Duflot est analysée
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — Analyse principale : sa thèse sur les ultra-riches, l'écologie sans anticapitalisme, la collapsologie nihiliste, et la distinction taxer vs exproprier
+- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — Son rôle d'introductrice de Tondelier au Dîner des Bâtisseurs ; sa propre participation 2023-2024 ; justification dépolitisante ("expérience humaine enrichissante") ; son livre *Gagnons* et l'auto-critique de 2014 comme affaiblissement de la ligne

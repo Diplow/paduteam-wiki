@@ -51,6 +51,22 @@ Dans [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]], Garrid
 
 4. **L'ironie biographique** : Garrido a elle-même accusé en 2017 Clémentin Autain de "chercher de la gamelle dans les médias pour taper sur Mélenchon." Elle reproduit exactement ce schéma. La PaduTeam : "Bienvenue au club, Raquel."
 
+## Le contresens délibéré sur le Plus Jamais PS (mars 2026)
+
+En réaction aux résultats du premier tour des municipales 2026, Garrido tweete à propos de la fusion entre la liste FI de Damien Modé (arrivé en tête à gauche) et la liste PS : "Les électeurs et les électrices de gauche sont en train de forcer les gauches à l'union. Le plus jamais PS et l'entrisme sont morts à LFI."
+
+La PaduTeam démonte le raisonnement : quand la FI est première et force le PS — qui avait traité LFI d'"antisémite" et de "promo Mola" — à fusionner avec elle au second tour, c'est le PS qui est humilié et contraint. La fusion *au second tour* est la conséquence logique d'une hégémonie FI *au premier tour*. C'est exactement la stratégie [[Plus jamais PS]] : éliminer l'hégémonie PS au premier tour, puis décider au cas par cas au second.[^garrido-mensonge]
+
+"Raquel Garrido, elle nous fait croire que là on est en train de jouer le premier tour. Voilà, en disant 'Ah bah voilà, la ligne plus jamais PS, elle a disparu.' Non, là on est en train de jouer le 2e tour Raquel."[^garrido-2etour]
+
+**L'ironie biographique** : [[Stéphane Palombarini]] (économiste, présent à la soirée "Plus jamais PS") la ratio sur Twitter : "La ligne qui mène aux accords a été défendue avec constance par JLM et les dirigeants LFI pendant toute la campagne. Ça ne vous gêne pas de mentir tout le temps ?" Garrido répond en se moquant de lui comme "porte-parole de la ligne plus jamais PS."[^garrido-ratio]
+
+La PaduTeam : elle n'est pas bête, elle sait ce qu'elle fait. Elle entretient délibérément la confusion entre premier et second tour pour justifier sa ligne de primaire au premier tour — faire croire que l'alliance FI-PS au second tour implique qu'on devrait s'allier au premier.
+
+[^garrido-mensonge]: [31:29](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=1889) — "Je sais pas si c'est qu'elle est bête ou si c'est qu'elle fait semblant de pas comprendre."
+[^garrido-2etour]: [33:35](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=2015) — "Raquel Garido, elle nous fait croire que là on est en train de jouer le premier tour. Non, là on est en train de jouer le 2e tour."
+[^garrido-ratio]: [37:11](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=2231) — "La ligne qui mène aux accords a été défendue avec constance par JLM et TW dirigeant LFI pendant toute la campagne. Ça ne vous gêne pas de mentir tout le temps ?"
+
 ## Vidéos où Garrido est mentionnée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Fondatrice de L'Après, fuite vers Libération, retournement paradoxal vs sa critique d'Autain en 2017
@@ -59,3 +75,4 @@ Dans [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]], Garrid
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Citée dans le contexte du complément d'enquête France 2 ; positionnée comme minorité pro-article-7 au sein du groupe FI que Guedj instrumentalisait
 - [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Expulse manu militari Badmulch et Bienfait pour tous du congrès de L'Après (congrès invité par Filoche) ; la PaduTeam : "aux abois", mauvais moves en cascade ; L'Après comme panier de crabes ; Garrido = responsable des médias qui joue le rôle du KGB interne.
 - [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]] — Sur T18 : attaque Mélenchon sur son confort matériel, réécrit la NUPES, tient un discours islamophobe qualifié de "serpillère" par la PaduTeam ; la formule canonique sur la "place au soleil médiatique" est ici retournée contre elle.
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Tweet post-premier tour des municipales 2026 : contresens délibéré sur le Plus jamais PS, confusion premier/second tour pour justifier la primaire de la gauche, ratiée par Palombarini.

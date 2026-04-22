@@ -120,6 +120,37 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 
 [^femme-sandwich]: [21:39](https://www.youtube.com/watch?v=Wp5cDiWWgd4&t=1299) — dans [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]].
 
+## Dîner des Bâtisseurs (novembre 2025)
+
+Marine Tondelier participe pour la **deuxième année consécutive** au Dîner des Bâtisseurs, une soirée mondaine réunissant 600 leaders catholiques français dans un réseau financé par [[Pierre-Edouard Sterin]] et [[Vincent Bollore]] (actionnaire d'Obol à 29,26%). C'est [[Cecile Duflot]], participante aux éditions 2023-2024, qui a soufflé son nom aux organisateurs. Parmi les convives : le PDG de Carrefour, [[Bruno Retailleau]], une députée RN. Ticket d'entrée : 195 €.
+
+La PaduTeam analyse l'épisode à travers trois angles :
+
+**L'impossibilité structurelle de l'entrisme bourgeois.** Tondelier présente sa présence comme une tentative de ramener ces milieux à une écologie de gauche. Pour la PaduTeam, c'est structurellement impossible : on ne peut pas convaincre Stérin d'adopter la lutte des classes, qui implique son expropriation. Les structures mentales de classe rendent certaines idéologies — dont la lutte des classes — inaccessibles aux bourgeois.
+
+**L'écologie comme fausse conscience transclasse.** La présence de Tondelier illustre précisément la thèse : l'écologie peut être "rejointe" par n'importe quelle classe sociale sans remettre en cause sa position. Des milliardaires catholiques peuvent s'y intéresser — et la résoudre par des logiques d'extrême droite (inégalité Nord/Sud assumée, stérilisation). C'est parce que l'écologie n'est pas une idéologie mais une fausse conscience translutte-des-classes.
+
+**Le mauvais réseau.** Quand Tondelier dit vouloir parler à des catholiques, la PaduTeam pointe qu'elle aurait pu aller au Secours Catholique, aux prêtres actifs à Calais, aux communautés chrétiennes d'immigrés. Au lieu de ça, elle choisit le réseau le plus réactionnaire et le plus bourgeois.
+
+La crise interne chez les Verts est révélatrice : la venue n'a fait l'objet d'aucun débat, des militants parlent de "honte". Pour la PaduTeam, c'est le signe que la base EELV commence à comprendre que l'écologie sans anticapitalisme ne tient pas — et que les Verts vont devoir se [[Moisation|Moïser]].
+
+## Municipales 2026 : la stratégie "qui n'a ni queue ni tête"
+
+**Premier tour, réactions post-résultats.** La PaduTeam analyse la position de Tondelier comme structurellement incohérente : elle renvoie Mélenchon et Hollande dos à dos, mais sa pratique sur le terrain révèle qu'elle protège toujours le PS.
+
+Son équilibre impossible : pour maintenir la [[Primaire des noisettes]], elle a besoin du PS comme allié central. Elle ne peut donc pas laisser les Verts s'allier avec la FI contre le PS. Résultat :
+
+- **À Lille** : refuse la fusion Verts-FI (alliance 50/50 proposée, accord programmatique complet) — protège la mairie PS
+- **À Lyon** : laisse les Verts s'allier avec la FI parce qu'il n'y a pas de PS face à eux — ça ne nuit pas au PS
+- **À Strasbourg** : les Verts s'allient avec la FI contre le PS pour sauver la mairie sortante de Catherine Trotman (aile Hollande) — exception tactique
+
+"Sa ligne c'est de cornériser la FI quand elle le peut ou utiliser la FI quand elle le peut."[^tonneg-corn]
+
+La PaduTeam identifie la conséquence finale : elle attaque Hollande (sa ligne de clarté anti-FI) sans attaquer Olivier Faure — elle doit maintenir l'équilibre PS/FI pour que la primaire reste viable. Mais cet équilibre est visible et illisible : "Vraiment là, c'est vraiment de la tambouille politique."[^tond-tambouille]
+
+[^tonneg-corn]: [16:04](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=964) — "l'équilibre de Marine Tondelier pour pouvoir sauver sa ligne de la primaire et cetera et ben c'est de cornéiser la FI quand elle le peut ou utiliser la FI quand elle le peut."
+[^tond-tambouille]: [27:27](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=1647) — "vraiment ça n'a ni queue ni tête. C'est vraiment mais vraiment c'est vraiment de la tambouille politique."
+
 ## Vidéos où Tondelier est analysée
 - [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
@@ -130,6 +161,7 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Affaire Karen (Zoé refuse la misogynie), catastrophique à l'Humanité sur le capitalisme, Festival de la Noisette de Bram
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Réunion de crise post-second tour : perd Bordeaux, Strasbourg, Poitiers. Électorat EELV identifié comme électorat bourgeois macroniste qui retourne vers PS+Horizon. "Mettez la clé sous la porte."
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour : stratégie d'équilibre PS/FI décryptée et jugée illisible. Refuse la fusion Verts-FI à Lille (50/50) pour sauver la mairie PS. Attaque Hollande sans attaquer Faure. "Vraiment la personne la moins crédible pendant la période."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présente à Bram, joue la "déléguée de classe" qui appelle Glucksmann et Mélenchon par leurs prénoms, tente de faire croire que le conflit est personnel et non structurel. Parie sur la primaire comme mécanisme consensuel pour s'imposer. Réaction de Mélenchon sur son blog : elle et le PCF "tenaient la chandelle" et ont été "sifflés à juste titre."
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Conférence FP2027 : vote anti-symboles communistes, "abus de langage" sur la primaire, sociotype de son électorat de bus. "On n'est peut-être pas d'accord."
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Prédit à 3-4% comme "Nathalie Arto des gens en haut au milieu dans le graphique" ; annonce elle-même une candidature de témoignage si la primaire ne se fait pas.
@@ -142,3 +174,4 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Salon Mif Expo : essaie des jeans 1083, démontage du mécanisme "femme sandwich du capitalisme vert" (publicité gratuite pour une SAS capitaliste), critique du changement par la consommation, violence de classe de la sobriété imposée, alternative : jean nationalisé/socialisé sur le modèle Duralex.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — L'aile droite EELV s'abstient sur le PLFSS 2026 (26 abstentions décisives) pour sauver Faure et maintenir la primaire. L'aile gauche (Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture entre anciens FI et encartés Verts autour de Tondelier.
+- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — Dîner des Bâtisseurs : 2e participation, réseau Stérin-Bolloré, Duflot comme introducatrice. Thèse : l'écologie est une fausse conscience transclasse qui lui interdit de rompre avec la bourgeoisie catholique. Crise interne chez les Verts. Trajectoire 2027 : faire exploser son parti quel que soit le choix.

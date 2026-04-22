@@ -386,3 +386,33 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — bilan 2025 des quatre maisons noisettes : Ruffin/Picarde (~5% en solo), Autain/Renéga (coterie sans base), Tondelier/Douceur (besoin de primaire pour survivre), Roussel/Saucisson (parle aux mêmes classes que Zemmour selon le Graphique) ; le Casse-Noisette se referme : toutes les tentatives de troisième voie confirment que seul le PS ou LFI peut structurer la gauche
 - [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — lawfare en trois étapes (judiciaire → presse progressiste → extrême droite) ; disproportion 67k€ vs Bardella/Le Pen/Karachi ; timing électoral comme signature ; base formée comme seule résistance efficace
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — La désorganisation de la primaire FP2027 (annonce de décembre reportée, règles toujours absentes, PS divisé sur le budget) comme confirmation du sabotage PS attendant l'émergence de Hollande. Appel à rejoindre "On ne veut plus" pour la campagne de collage, événement public le 20 février à Paris. Bilan du congrès de Brest 1997 à aujourd'hui : "la belle" 2027 entre Hollande et Mélenchon formalisée.
+
+## Les municipales mars 2026 : validation empirique et Hollande comme patron du bloc bourgeois
+
+Les municipales mars 2026 constituent la vérification empirique la plus complète de la thèse « Plus jamais PS » depuis sa formulation. La PaduTeam les lit comme un double événement : la confirmation que l'adversaire PS est structurellement incapable d'unité sincère avec la gauche de rupture, et la désignation de Hollande comme nouveau patron de cette adversité.
+
+### Hollande dictateur de la "clarté" depuis France Inter
+
+Hollande intervient sur France Inter au lendemain du premier tour pour poser la règle : les candidats LFI doivent "faire preuve de clarté" sur l'antisémitisme, la violence, la laïcité — et ce n'est qu'à cette condition que des fusions pourront avoir lieu. La PaduTeam identifie immédiatement la manœuvre : ce n'est pas de la gestion de mairies, c'est la construction de la candidature 2027. "Il est déjà en train d'organiser les exigences de gens qui ont besoin de sa candidature." Le mot "clarté" est le même utilisé par les directions PS locales pour refuser les unions — Hollande fournit la rhétorique fédératrice de l'obstruction.
+
+### Tondelier protège le PS à Lille, se contredit partout ailleurs
+
+Tondelier refuse à Lille la fusion LFI-EELV proposée sur une base 50/50, protégeant ainsi le PS qui peut rester en lice. La PaduTeam documente l'incohérence systématique : Lyon (accord avec FI parce que le PS n'est pas en position), Strasbourg (alliance FI contre PS), Poitiers (prévisible alliance avec PS plutôt qu'avec FI). La seule constante est que Tondelier s'aligne sur ce qui arrange le PS à chaque fois. Conséquence : "Tondelier est morte politiquement après les municipales."
+
+### Garrido retourne le Plus jamais PS pour le neutraliser
+
+[[Isabel Seras Garrido|Garrido]] tweete que le Plus jamais PS et l'"entrisme" sont morts à LFI, preuve selon elle que la stratégie de rupture a échoué. La PaduTeam démonte l'inversion logique : le PJPS porte sur le premier tour — ne jamais faire de liste commune avec le PS, ne jamais lui donner de mairie. Au second tour, faire des fusions avec qui peut réduire la droite est distinct et cohérent. "Le Plus jamais PS, c'est au premier tour. Au deuxième tour, évidemment, si on peut être moins à droite ou empêcher l'extrême droite, oui ça fait partie des équilibres." Garrido confond délibérément les deux tours pour présenter la stratégie LFI comme une capitulation.
+
+### 11 600 affiches distribuées comme jalon de campagne
+
+Avant le premier tour, 11 600 affiches "Plus jamais PS" ont été distribuées — la PaduTeam cite le chiffre comme indicateur de la montée en puissance de la campagne militante. La Brèche est passée de 8 à 43 adhérents en six mois pendant la même période. L'affichage physique est une des rares métriques concrètes de l'ancrage territorial de la campagne.
+
+### Hollande comme "Jean-Marie Le Pen de 2027" : la menace que PJPS devait anticiper
+
+La PaduTeam formalise la dynamique Hollande en lui appliquant le mécanisme Le Pen 2002 : prédit mort, il monte lentement par le contexte (Trump, guerre, nostalgie de "président normal"). Le Pen est passé de 8% à 17,4% en 2002 pendant que Jospin s'effondrait de 30% à 16,2%. Hollande suivrait la même courbe : "C'est pas spécialement lui, c'est le bloc bourgeois a un espace." Le bloc bourgeois a besoin d'un candidat — et Hollande est le seul disponible. Le Plus jamais PS est ainsi la réponse préventive à ce scénario : si les classes populaires gardent en mémoire les trahisons concrètes (CICE, loi travail, 49.3, budget 2026), la remontée Hollande par l'oubli devient impossible.
+
+## Vidéos clés (batch 37 — mars-avril 2026)
+
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Formalisation de la dynamique Hollande 2027 par analogie avec Le Pen 2002 ; mécanisme en trois étapes (Bardella bidon → Jospin 2002 → espace bloc bourgeois pour Hollande) ; 11 600 affiches distribuées ; la "prophétie du 2002 inversé" comme cadre pour comprendre pourquoi PJPS est structurellement nécessaire
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour : Hollande dicte la "clarté" depuis France Inter ; Tondelier incohérente ville par ville (Lille, Lyon, Strasbourg, Poitiers) ; Garrido retourne le PJPS ; LFI "coup parfait" confirmé ; stratégie des "deux jambes" formalisée
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Préparation pré-électorale : analyse des ~13 villes calibrées par les résultats 2022 ; ~12 000 affiches distribuées ; Roubaix comme bastion populaire (Guirot à 44%) ; mécanique de surmobilisation des classes supérieures aux municipales

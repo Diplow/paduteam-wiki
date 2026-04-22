@@ -41,9 +41,20 @@ Vote ouvrier, positionnement bas-gauche. En 2002, Laguiller ([[Lutte Ouvriere]])
 - [[Philippe Poutou]] — candidat présidentiel 2012, 2017, 2022 ; désormais libraire à Bordeaux et soutien FI
 - [[Anasse Kazib]] — issu de [[Revolution Permanente]], reprend le rôle de polarisateur à gauche
 
+## La tendance "anti-scission et anti-conflit" (NPA-anticapitaliste)
+
+La PaduTeam précise la cartographie des trois tendances en mars 2026 :
+
+- **NPA-anticapitaliste** (ligne Besancenot-Poutou) — "anti-scission et anti-conflit" : refus de se prononcer sur l'alliance avec la FI pour rester unitaire. Dérive progressive vers le soutien à la France Insoumise. La PaduTeam note l'ironie : des trotskistes anti-scission dans une tradition qui présuppose la 4e Internationale — "je suis pas trop sûr qu'ils puissent encore être affiliés à la 4e."
+- **NPAB** — choisit explicitement l'alliance FI ("Pascal, le fascisme qui arrive").
+- **NPAC** (NPA révolutionnaire, +40 % des voix au congrès de scission) — refuse toute alliance réformiste, position proche de [[Revolution Permanente]] ou [[Lutte Ouvriere]].
+
+L'enjeu 2027 : si le NPA-anticapitaliste se rallie à Mélenchon sans se présenter, les électeurs qui voulaient voter trotskiste indépendant voteront RP ou NPAC — et si le NPAC se présente sous l'étiquette "NPA", la confusion sera totale pour les électeurs non spécialistes de la nomenclature trotskiste.
+
 ## Vidéos où le NPA est analysé
 
 - [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — analyse de l'éclatement du NPA, carte de la recomposition, géopolitique atlantiste
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — anatomie des trois tendances ; pourquoi ne pas se présenter est la pire stratégie pour le NPA ; enjeu des candidatures révolutionnaires dans le débat présidentiel
 
 [^1]: [24:47](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1487) — "faut qu'ils arrêtent d'avoir ce nom NPA, tu peux pas avoir [...] on croit que c'est une tendance dans le NPA alors que ça n'en est plus une. Prenez un nouveau nom ou fusionnez avec un parti qui est proche"
 [^2]: [21:41](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1301) — "le NPA c'est l'NPA Atlantiste [...] il est plus à gauche que le NPA sur sur la géopolitique [...] le NPA arrête pas de dire qu'il faut envoyer des armes en Ukraine"

@@ -56,6 +56,14 @@ Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam dresse u
 
 La PaduTeam compare la mise en scène de la convention de Trappes (tables pliantes de salle des fêtes, rollops colorés sans budget) à une cousinade — révélateur de la crédibilité de toute l'opération.
 
+## La primaire comme instrument de la stratégie Tondelier au second tour (mars 2026)
+
+La vidéo post-premier tour des municipales 2026 révèle comment la primaire structure concrètement les choix tactiques de [[Marine Tondelier]] au niveau local. Pour préserver la primaire, Tondelier ne peut pas laisser les Verts s'allier avec la FI *contre* le PS — son partenaire indispensable. Elle empêche donc la fusion Verts-FI à Lille (où la FI avait proposé une parité 50/50 malgré 6 points d'écart). Elle sauvetage systématiquement le PS quand son intérêt présidentiel le demande, tout en utilisant ponctuellement la FI quand ça ne nuit pas au PS.
+
+La PaduTeam : "l'alliance avec le PS à Lille pour sauver la mairie PS contre les insoumis pendant que à Strasbourg il s'allie avec les insoumis contre le PS pour pouvoir sauver la mairie écologiste. Ben vraiment je pense que Marine Tondelier vraiment ça va être très très dur d'aller à la primaire."[^tond-primaire-morte]
+
+[^tond-primaire-morte]: [36:40](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=2200) — "vraiment je pense que Marine Tondelier vraiment ça va être très très dur d'aller à la primaire."
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
@@ -64,3 +72,4 @@ La PaduTeam compare la mise en scène de la convention de Trappes (tables pliant
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Mort officielle : Tondelier en réunion de crise, perd Bordeaux/Strasbourg/Poitiers. "Tout dit le contraire d'aller à la primaire."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Bilan catastrophique début 2026 : conférence de décembre annulée, aucune règle arrêtée, PS totalement divisé, Glucksmann mort, Hollande qui monte. La convention de Trappes décortiquée comme révélateur du budget et de la crédibilité de toute l'opération.
+- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour des municipales : la primaire conditionne les choix tactiques de Tondelier dans chaque ville, rendant sa stratégie illisible et révélant que la primaire sert le PS avant tout.

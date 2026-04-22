@@ -259,6 +259,43 @@ Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle 
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — suprémacisme blanc inconscient comme variante mainstream : distinction expatrié/immigré comme hiérarchie raciale déguisée en neutralité économique ; valeur-travail retourné (OS = plus exploités et porteurs de plus-value) ; nécessité structurelle de l'immigration pour le capitalisme (Meloni 500k, 98% OS immigrés années 50-60) ; armée de réserve comme non-sens anti-immigration ; régularisation des sans-papiers comme revendication ouvrière
 - [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — 7 ressorts Jafari du pipeline humour droite (poésie de la violence, marqueur d'appartenance, curiosité culturelle artificielle, apologie virilité, autodérision, vulgarité-authenticité, désignation d'ennemis) ; cause du succès = universalisme abstrait PS sans politique concrète ; réponse matérielle (égalité réelle en acte) vs cancel moral archaïque ; "la forme c'est le fond qui remonte à la surface" (Hugo/Marx)
 
+## Bardella comme échec structurel de la droite populiste
+
+### Le RN sans programme : la contradiction de fond
+
+La critique de la fachosphère s'étend à Bardella comme révélateur de la contradiction structurelle du RN : une machine à capter l'agacement construite pour ne jamais gouverner. Depuis que l'espace antisystème est partagé avec LFI — 400 000 voix d'écart entre Bardella et Mélenchon aux dernières présidentielles — le RN est contraint de produire un programme cohérent de gouvernement. C'est là que Bardella s'effondre : sans vision du monde, sans maîtrise du programme, il ne peut pas incarner une proposition cohérente. Sa position sur le blocage des prix des carburants révèle le cœur du problème : il accuse la mesure d'être "communiste" et cite "le Venezuela ou Cuba", confondant protectionnisme et contrôle des prix, ignorant que la France pratique les prix contrôlés dans la pharmacie sans pour autant être Cuba. Il dit ce que disent Trump et Milei "30 ou 20 ans trop tard" dans un pays où Édouard Philippe pourrait l'exploser sur l'excès de libéralisme.
+
+### Trahison de sa base comme avec la fachosphère : "parler au MEDEF"
+
+Le RN partage avec les boutiquiers de la fachosphère l'incapacité à incarner un projet populaire cohérent. Bardella "parle au MEDEF" — mais le MEDEF "ne tient pas le réseau de pouvoir et le maintien des structures sociales." Il refuse le blocage des prix alors que sa base électorale populaire souffre des factures d'énergie depuis la libéralisation du marché. En abandonnant le pacte populaire pour le pacte patronal, il reproduit exactement le mécanisme que la PaduTeam décrit chez les boutiquiers : capter la colère populaire sans jamais remettre en question les intérêts du capital.
+
+### Marine Le Pen comme stratège de la "Ségolène Royal du RN"
+
+La PaduTeam avance une hypothèse structurelle sur la droite : Le Pen conseille délibérément Bardella dans la mauvaise direction pour préserver sa propre candidature en 2032. Le mécanisme est celui de Hollande 2007 envoyant Ségolène Royal au casse-pipe pour revenir ensuite. Les lieutenants Marine (Chenu, Tanguy) ont intérêt à ce que Bardella échoue pour ne pas être muselés. C'est la guerre des chapelles de droite — symétrique à la guerre des gauches, mais sans ligne idéologique claire.
+
+## Tondelier au Dîner des Bâtisseurs : l'écologie comme fausse conscience
+
+### Le Dîner des Bâtisseurs : Stérin/Bolloré au centre du financement
+
+L'association Obol organise le Dîner des Bâtisseurs : le ticket à 195 € est un filtre de classe explicite. La PaduTeam identifie les financeurs : Stérin est actionnaire à moins de 2%, mais Bolloré via Canal+ représente 29,26% — les mêmes financeurs de la fachosphère médiatique (Néo, Le Crayon) se retrouvent à la table des constructeurs catholiques identitaires. Un ancien cadre de Génération Identitaire a organisé l'événement. Le prix d'entrée (195 €) n'est pas anodin : c'est un filtre économique qui garantit que seule la bourgeoisie catholique peut participer. Aucun travailleur n'est à cette table.
+
+### Tondelier deux années consécutives : "10 nazis à table"
+
+Tondelier y est allée deux années consécutives. La PaduTeam applique le principe : "si t'es le seul anti à une table de 9 nazis, t'es à une table de 10 nazis." Ce n'est pas une question de bonnes intentions — c'est la logique structurelle de la participation. Sa présence légitime l'événement, fournit une caution de "diversité" et permet aux organisateurs de se présenter comme pluraliste. En y allant une deuxième fois, Tondelier ne peut plus invoquer l'ignorance ou la naïveté.
+
+### L'écologie comme "fausse conscience" : thèse centrale
+
+La présence de Tondelier au Dîner des Bâtisseurs illustre la thèse centrale sur l'écologie : ce n'est pas une idéologie au sens marxiste du terme — c'est une "fausse conscience". L'écologie peut être adoptée par n'importe quelle classe sociale sans remettre en question les rapports de propriété. Une bourgeoisie catholique d'extrême droite peut se préoccuper de l'environnement sans que cela change un seul rapport de classe. "Le problème des ressources est un problème social, est un problème de classe." L'écologie sans lutte des classes est compatible avec le capitalisme, avec le conservatisme identitaire, avec l'extrême droite. C'est pourquoi Tondelier peut partager une table avec des financeurs de la fachosphère : sur le terrain de l'écologie pure, il n'y a pas de contradiction. La contradiction n'apparaît que si on pose la question de qui détient les ressources et qui les détruit.
+
+### La trajectoire Tondelier : vers la Moïsation
+
+Les Verts vont devoir "se Moïser" — choisir leur camp. Tondelier est "en train de tuer son parti" en le positionnant dans un espace où la bourgeoisie catholique et le capital financier (Bolloré) peuvent se reconnaître. Ce n'est pas un accident de parcours — c'est la logique d'une écologie qui refuse de nommer le capitalisme comme cause des crises environnementales.
+
+## Vidéos clés (batch 37 — mars-avril 2026)
+
+- [[BARDELLA est-il le MAILLON FAIBLE du RN]] — dissection structurelle du RN sans programme : blocage des prix refusé (Venezuela/Cuba), alliance LR suicidaire, "mon travail c'est la récupération politique" ; Marine Le Pen comme stratège du sabotage interne ; 400 000 voix d'écart Bardella/Mélenchon ; la boutique RN incapable de gouverner
+- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — thèse centrale : l'écologie est une "fausse conscience", compatible avec toute classe ; Tondelier au Dîner des Bâtisseurs deux années de suite, aux côtés de financeurs identitaires (Stérin <2%, Bolloré 29,26% via Canal+) ; ticket 195 € comme filtre de classe ; ex-Génération Identitaire comme organisateur ; les Verts devront "se Moïser"
+
 [^jj1]: [33:33](https://www.youtube.com/watch?v=2-yjOa2ug5U&t=2013) — "non seulement c'est une grille totalement fausse et qui ne résout aucun problème si ce n'est faire monter des tensions entre des classes qui sont elles-mêmes réduites matériellement de la même manière."
 [^florentin1]: [3:06](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=186) — "s'appelle ChatGPT et je me suis amusé à juste poser la question définition du fascisme à ChatGPT. [...] le niveau de Frontière quoi."
 [^naull1]: [41:26](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=2486) — "tu as vraiment des vieux mecs blancs qui veulent pas que des meufs et des gens racisés ça soit à leur table [...] il comprend qu'il n'a plus le contrôle sur ces femmes, cette femme, cette jeunesse."
