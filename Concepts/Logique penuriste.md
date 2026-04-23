@@ -38,9 +38,22 @@ La pénurie n'est pas seulement un discours économique — c'est le terreau du 
 
 La logique pénuriste est l'outil principal par lequel le néolibéralisme capte la solidarité ouvrière pour la retourner contre elle-même. "Moi je préfère travailler 2 ans de plus pour que mes enfants aient droit à la retraite" — cette formule illustre comment la capacité collective des travailleurs est mobilisée par le discours pénuriste pour faire accepter les régressions sociales.[^3]
 
+## Le chèque énergie ciblé comme ticket de rationnement
+
+La proposition de [[Marine Tondelier]] de remplacer le blocage des prix par des "chèques énergie ciblés selon les revenus et le besoin" est analysée par la PaduTeam comme le paradigme de la logique pénuriste en politique sociale :
+
+1. Elle valide l'existence d'un gâteau trop petit (l'État ne peut pas bloquer les prix pour tout le monde)
+2. Elle décide qui mérite l'aide (pas le SUV, oui la vieille diesel) — "tu obliges les pauvres à consommer ce que toi tu décides"
+3. Elle laisse intact le rapport fondamental : quelqu'un gagne 25 000 €/mois, l'autre 1 500 €
+
+"Les gens parlent de tickets de rationnement dans les pays communistes — mais vous, vous voulez donner des chèques. C'est la même chose."[^cheque-ration] Un ticket de rationnement ne change pas les rapports de production — il les administre. La logique pénuriste chrétienne (aider les pauvres sans les sortir de la pauvreté) est exactement ça : "maintenir des pauvres, pas trop pour qu'ils ne meurent pas, mais ils restent pauvres."
+
+[^cheque-ration]: [35:10](https://www.youtube.com/watch?v=jHY3lK75_fs&t=2110) — "c'est ça mène à la logique des droits tardifs en dialogue. Ces gens te parlent de tickets de rationnement dans les pays communistes mais ils veulent donner des chèques. C'est en fait la même chose." — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
+
 ## Vidéos clés
 
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage de la logique pénuriste appliquée au "déficit" de la Sécu ; capture de l'énergie anti-riche contre l'universalité ; paradoxe de la résilience ouvrière
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — le chèque énergie ciblé comme ticket de rationnement ; démontage du blocage des prix Tondelier (coûte de l'argent public : faux) ; logique redistributive vs logique de l'abondance
 
 [^2]: [8:52](https://www.youtube.com/watch?v=jtDb2meKMn8&t=532) — "le néolibéralisme va capter... l'anti-riche pour remettre en question le système universel de la sécurité sociale"
 [^3]: [9:53](https://www.youtube.com/watch?v=jtDb2meKMn8&t=593) — "Moi je préfère travailler 2 ans de plus mais que mes enfants ils aient droit à la retraite"

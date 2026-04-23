@@ -64,6 +64,12 @@ La PaduTeam : "l'alliance avec le PS à Lille pour sauver la mairie PS contre le
 
 [^tond-primaire-morte]: [36:40](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=2200) — "vraiment je pense que Marine Tondelier vraiment ça va être très très dur d'aller à la primaire."
 
+## La primaire comme instrument de campagne post-municipales (avril 2026)
+
+Malgré l'effondrement des municipales, la PaduTeam prédit que Tondelier ira quand même au bout de la primaire : "ils n'ont pas le choix." Même avec seulement l'Après et deux ou trois "kidames de la société civile", la primaire lui offre une légitimité populaire pour dire "j'ai quand même pas été élu juste par mon parti." Espoir de résultat : 5 % pour rembourser la campagne (Jadot n'y était pas parvenu). Pronostic PaduTeam : 3 %, "et ça va être catastrophique mais elle va quand même aller au bout."[^prim-bout]
+
+[^prim-bout]: [2:37](https://www.youtube.com/watch?v=jHY3lK75_fs&t=157) — "Donc elle va aller au bout, ça va être catastrophique mais elle va quand même aller au bout."
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
@@ -73,3 +79,5 @@ La PaduTeam : "l'alliance avec le PS à Lille pour sauver la mairie PS contre le
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Bilan catastrophique début 2026 : conférence de décembre annulée, aucune règle arrêtée, PS totalement divisé, Glucksmann mort, Hollande qui monte. La convention de Trappes décortiquée comme révélateur du budget et de la crédibilité de toute l'opération.
 - [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour des municipales : la primaire conditionne les choix tactiques de Tondelier dans chaque ville, rendant sa stratégie illisible et révélant que la primaire sert le PS avant tout.
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Tondelier maintiendra la primaire comme instrument de campagne coûte que coûte, même si elle ressemble à la primaire populaire de 2022 (petite salle, société civile de remplacement). Pronostic : 3 %, catastrophique, mais elle ira au bout pour se donner une légitimité populaire et tenter de rembourser la campagne.
+- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — La team cassoulet se constitue en excluant la primaire des noisettes. Glucksmann, Hollande et Delga organisent leur propre espace hors du périmètre primaire. Le Point décrit ce mouvement comme "barons de la gauche anti-insoumis" qui veulent "obtenir le scalpe définitif de la primaire de la petite gauche" — que la PaduTeam rebaptise "primaire des noisettes comme les vrais analystes la nomment." La primaire des noisettes est coincée entre ce pôle cassoulet qui la dépasse par la droite et LFI par la gauche.

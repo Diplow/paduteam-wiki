@@ -70,6 +70,22 @@ Début octobre 2025, Lordon publie un texte affirmant que la FI n'est pas antica
 
 [^fI-anticap]: [24:18](https://www.youtube.com/watch?v=gS_PyoZRSDE&t=1458) — "L'Ordon a ouvert le feu en faisant un texte début octobre sur 'La FI est-elle anticapitaliste ?' en disant non."
 
+## Le débat Lordon/Mélenchon sur Hors-Série (avril 2026)
+
+Dans [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], la PaduTeam livre son verdict le plus synthétique sur Lordon : il "tire Mélenchon vers le bas". Trois désynchronisations sont formulées :
+
+1. **Désynchronisé avec l'époque** : il prône la mobilisation par le rapport politique en entreprise au moment même où la paupérisation redevient le levier central — "avec 25 ans de retard."
+2. **Désynchronisé avec les débats marxistes** : ce qu'il présente comme novateur (mobiliser par la dignité politique, pas seulement économique) est exactement le débat Goldman/Mallet/CFDT des années 1960-70.
+3. **Désynchronisé avec les forces productives** : son "capitalisme totalitaire" — phase inédite où le capital pénètre la psyché — ignore que chaque mode de production a toujours structuré la psychologie de ses sujets.
+
+La critique du fameux extrait viral sur la "dignité blessée" est décisive : Lordon dit "si quelqu'un va devant les usines et dit qu'on les traite comme de la merde, il sera entendu." La PaduTeam répond via Charles Mills et le [[Division raciale du proletariat|contrat racial]] : dans le prolétariat blanc occidental, la dignité est captée par les identitaires de droite ("des cassos qui volent votre travail") — elle n'est pas disponible comme affect mobilisateur de gauche. La vraie dignité s'exprime quand il ne reste plus rien d'autre (Cuba, Afrique). Un cadre français harcelé préfère taire son indignité pour préserver sa position.
+
+Formulation définitive du spinozisme lordonien : c'est une "physique des individus" sans sujet collectif — un garagiste cherche le bon montage mécanique pour faire tourner la machine sociale. Pas d'histoire, pas de sujet, juste de la technique. "Ce qu'ils cherchent c'est pas des hommes politiques, c'est pas des sujets de l'histoire, c'est pas des sujets collectifs, c'est des garagistes."[^lordon-garagiste]
+
+Sur la pratique : Lordon admet face à Mélenchon qu'il ne sait pas "comment y arriver" — il "écrit une partition non jouable." Mélenchon, lui, peut citer 1981, Allende, l'expérience pratique. C'est pour ça qu'il "gagne" le débat par défaut : il est interviewé par Lordon, pas challengé par lui.
+
+[^lordon-garagiste]: [46:48](https://www.youtube.com/watch?v=vzhzJUUjx28&t=2808) — "Ce qu'ils cherchent c'est pas des hommes politiques, c'est pas des sujets de l'histoire, c'est pas des sujets collectifs, c'est des garagistes."
+
 ## Vidéos où Lordon est analysé
 - [[LORDON MELENCHON peut GAGNER en 2027]] — Validation de la prophétie, discussion de son spinozisme
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Critique de "Pulsion" et de l'usage politique de la psychanalyse
@@ -81,3 +97,4 @@ Début octobre 2025, Lordon publie un texte affirmant que la FI n'est pas antica
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — correctif sur la paternité de la prédiction du barrage anti-Mélenchon (Positions Revue 5 mars 2021 avant Lordon en avril 2021) ; critique de son antimarxisme sur la théorie de la valeur ; défense de son courage intellectuel
 - [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — son exemple des déserts médicaux dans *Pulsion* contesté empiriquement par la PaduTeam ; reformulation de la thèse : la pénurie précède et génère le racisme, pas l'inverse
 - [[NICOLAS FRAMONT EST-IL ANTICOMMUNISTE]] — cité pour son texte "La FI est-elle anticapitaliste ?" (oct. 2025) et pour le débat avec Piketty sur le mot "communisme"
+- [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — bilan le plus synthétique : triple désynchronisation (époque, débats marxistes, forces productives) ; spinozisme = "physique des individus" sans sujet ; "il écrit une partition non jouable" ; "Lordon tire Mélenchon vers le bas"

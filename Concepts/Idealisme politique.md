@@ -55,6 +55,7 @@ Résultat : il fait de l'"antimacronisme" avec "7 ans de retard" sur les gilets 
 ## Vidéos où le concept est développé
 
 - [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — développement central : Viktorovitch comme cas d'école, inversion cause/conséquence sur le RN et Bolloré, dépolitisation pratique, positivisme du débunking
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Tondelier comme cas d'idéalisme politique appliqué à la guerre des gauches : elle pense que le concept de "gauches irréconciliables" *a causé* les divisions — pas que les divisions existent parce que deux groupes sociaux ont des conditions matérielles d'existence différentes. En déduire que Mélenchon défend la Palestine uniquement pour faire foirer la primaire : exemple d'inversion cause/conséquence.
 
 [^1]: [4:34](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=274) — "c'est de croire que l'élite est surpuissante [...] elle ne sait pas et elle se trompe elle-même"
 [^2]: [51:56](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=3116) — "si tu dis voilà il y a des classes qui s'organisent [...] bah je veux dire tu en déduis quand même que tu pourrais très bien adhérer à un syndicat, un parti, une asso, milité"

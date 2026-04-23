@@ -66,14 +66,29 @@ Ces trois conditions produisent l'**inadéquation** décisive : des femmes qui o
 
 **Différence avec le « pain du haut » démocrate mainstream** : les jeunes femmes diplômées ne sont pas l'électorat Harris/Clinton. Elles sont le *segment* de cet électorat qui a basculé vers une gauche de gauche, contre la fabrique identitaire sans programme (« première femme racisée »). L'identité sans programme *dégoûte* ; l'identité + programme matériel + organisation mobilise. Les jeunes femmes Mamdani sont le cas d'école.
 
+## Le sujet révolutionnaire dans l'Occident impérialiste (formulation 2026)
+
+Dans [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], la PaduTeam formule la réponse la plus précise à la question laissée ouverte par Lordon et Mélenchon : **qui est le sujet révolutionnaire dans le monde occidental impérialiste ?**
+
+Les deux exclusions :
+- Pas **le prolétariat précaire et intérimaire** (fantasmé) — il existe mais n'a pas la capacité organisationnelle et la position dans les forces productives pour reprendre collectivement l'appareil de production
+- Pas **la petite bourgeoisie boutiquière auto-entreprise** — elle déserte le salariat collectif pour retrouver la "petite boutique" ; il y a une voie néolibérale dans ce désir de contrôle individuel des moyens de production
+
+La réponse PaduTeam : **les professions intermédiaires, les cadres, et certains ouvriers surqualifiés et spécialisés**. Ce sont ceux qui font déjà tourner l'appareil de production pour des "parasites financiers" qui n'y participent plus. Ils sont donc dans une position contradictoire — ils ont le savoir-faire et le contrôle de fait, mais pas la propriété. C'est à eux qu'il faut dire : "Pour qui contrôlez-vous l'état du monde ? Est-ce que vous le contrôlez pour vous ou est-ce que vous le contrôlez pour des parasites financiers ?"[^sujet-imp]
+
+Ce cadrage permet de comprendre pourquoi Mélenchon (sujet = "le peuple") est "trop large" (inclut des petits patrons propriétaires de leurs moyens de production) et pourquoi Lordon (pas de sujet) est une impasse pratique : sans sujet collectif identifié, il n'y a ni stratégie ni pratique possible.
+
+[^sujet-imp]: [42:09](https://www.youtube.com/watch?v=vzhzJUUjx28&t=2529) — "Faut leur dire pour qui contrôlez-vous l'état du monde ? Est-ce que vous le contrôlez déjà pour vous ou pour la totalité ou est-ce que vous le contrôlez pour des parasites financiers ? C'est ça qu'il faut leur dire."
+
 ## Concepts associés
 
-[[Feminisme materialiste]], [[Transidentite]], [[Transphobie]], [[Antitechnologie vs technocritique]], [[Moisation]], [[Gauche de droite]]
+[[Feminisme materialiste]], [[Transidentite]], [[Transphobie]], [[Antitechnologie vs technocritique]], [[Moisation]], [[Gauche de droite]], [[Division raciale du proletariat]]
 
 ## Vidéos associées
 
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — formulation explicite du sujet révolutionnaire féminin et trans (détermination naturelle des corps)
 - [[NEW YORK BASCULE DANS L ISLAMO-GAUCHISME COMMENT ZOHRAN MAMDANI A GAGNE]] — formulation de « les jeunes femmes comme classe révolutionnaire » : 84% chez les 18-29 ans pour Mamdani ; théorie matérialiste de l'inadéquation structurelle
+- [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — formulation sur le sujet révolutionnaire dans l'Occident impérialiste : professions intermédiaires et cadres, pas le précariat fantasmé ni la petite bourgeoisie boutiquière
 
 [^mamdani_1]: [25:58](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1558) — « Les jeunes femmes aujourd'hui sont clairement une classe révolutionnaire. 84% qui votent Mamdani, c'est juste hallucinant. »
 [^mamdani_2]: [25:27](https://www.youtube.com/watch?v=1vgv1fRXUIA&t=1527) — « Une situation révolutionnaire ne survient pas forcément quand les gens sont très très exploités. [...] Elle arrive quand il y a une inadéquation entre une classe qui a envie de changement, a la possibilité et les moyens matériels de faire un changement, et un ancien monde qui n'est plus adéquat à leurs aspirations. »

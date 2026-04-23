@@ -7,16 +7,17 @@ thèmes:
   - Palestine
   - répression-justice
   - médias-propagande
+  - guerre-des-gauches
 enjeux:
   - Répression des pro-Palestine
   - Palestine libre
-date: 2026-04-01
+date: 2026-04-12
 youtube_id: ggMtsfLNACo
-skill_version: ingest-batch-2026-04-13
+skill_version: write-video-2026-04-23
 date created: Monday, April 13th 2026, 2:17:48 am
-date modified: Monday, April 13th 2026, 11:04:39 am
+date modified: Wednesday, April 23rd 2026, 12:00:00 pm
 ---
-#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
+#domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/médias-propagande #thème/guerre-des-gauches #enjeu/Répression-des-pro-Palestine #enjeu/Palestine-libre
 
 ![RIMA HASSAN : DR0GUE, GARDE À VUE, LOI YADAN !](https://www.youtube.com/watch?v=ggMtsfLNACo)
 
@@ -44,17 +45,17 @@ Padu et Chris analysent en direct l'affaire de la garde à vue de [[Rima Hassan]
 8. La position majoritaire : "Je pense que la majorité du peuple français voit qu'il se passe un génocide sous les yeux face à une nation qu'on ne peut pas critiquer." Mélenchon peut gagner en 2027 sur cette position — c'est pour ça qu'il faut empêcher Rima Hassan de parler.
 
 ## Individus mentionnés
-[[Rima Hassan]], Chris, Padu, [[Marine Tondelier]], [[Fabien Roussel]], [[Raphael Glucksmann]], Paul Vannier, Caroline Fourest, Stefano Palombarini, [[Chloé Ridel]], Édouard Philippe
+[[Rima Hassan]], [[Marine Tondelier]], [[Fabien Roussel]], [[Raphael Glucksmann]], [[Paul Vanier]], [[Caroline Fourest]], [[Chloe Ridel]], [[Edouard Philippe]], [[Jean-Luc Melenchon]], Stefano Palombarini, Andy Kerbrat
 
 ## Organisations mentionnées
-[[BFM TV]], Organisation juive européenne, Organisation juive française, [[Collectif Nemesis|Némésis]], France Insoumise, NPA, [[Parti Socialiste]], [[Europe Ecologie Les Verts]]
+Organisation juive européenne (OJE), Organisation juive française (OJF), [[Collectif Nemesis|Némésis]], [[France Insoumise]], [[Parti Socialiste]], [[Europe Ecologie Les Verts]], NPA, Backseat
 
 ## Concepts mobilisés
-[[Lawfare]], [[Double mesure]], [[Instrumentalisation de l'antisemitisme]], [[Impunite absolue]]
+[[Lawfare]], [[Double mesure]], [[Instrumentalisation de l'antisemitisme]], [[Impunite absolue]], [[Loi Yadan]], [[Justice de classe]]
 
 ## Enjeux avancés
-[[Répression des pro-Palestine]] — L'offert complet documenté : judiciaire + médiatique ; la loi Yadan comme aboutissement législatif du dispositif
-[[Palestine libre]] — La résistance palestinienne face à la loi qui criminalise son soutien
+[[Répression des pro-Palestine]] — L'offert complet documenté : judiciaire + médiatique ; la loi Yadan comme aboutissement législatif du dispositif ; la frontière PS/EELV révélée (soutien "excessif" = soutien sioniste)
+[[Palestine libre]] — La résistance palestinienne face à la loi qui criminalise son soutien ; la majorité silencieuse est pro-Palestine selon la PaduTeam
 
 ## Transcript
 [[RIMA HASSAN  DR0GUE, GARDE À VUE, LOI YADAN !]]
@@ -63,3 +64,6 @@ Padu et Chris analysent en direct l'affaire de la garde à vue de [[Rima Hassan]
 [^2]: [12:18](https://www.youtube.com/watch?v=ggMtsfLNACo&t=738) — Rima Hassan : "13/16 au total en grande majorité des plaintes déposées par le lobby proisraélien en France ciblant mes opinions politiques"
 [^3]: [20:06](https://www.youtube.com/watch?v=ggMtsfLNACo&t=1206) — "Ils disent pas un truc faux mais un truc tellement opaque, large et confus que ça peut tout et rien dire"
 [^4]: [26:49](https://www.youtube.com/watch?v=ggMtsfLNACo&t=1609) — "C'est des moments très très importants [...] une ligne de démarcation entre les gens qui soutiennent réellement et concrètement la résistance palestinienne [...] et les gens qui s'y soumettent"
+[^5]: [6:42](https://www.youtube.com/watch?v=ggMtsfLNACo&t=402) — "Édouard Philippe qui a une procédure ouverte pour prise illégale d'intérêt [...] On entend pas parler assez à la télé, ça fait pas des gros titres tout le temps parce que c'est un candidat du bloc bourgeois"
+[^6]: [3:05](https://www.youtube.com/watch?v=ggMtsfLNACo&t=185) — "C'est étonnant parce que Fabien Roussel n'est pas victime de l'offert comme ça. Je sais pas pourquoi. C'est comme s'il servait plus la cause de nos adversaires que notre cause."
+[^7]: [29:26](https://www.youtube.com/watch?v=ggMtsfLNACo&t=1766) — "Je pense que la majorité du peuple français voit qu'il se passe un génocide sous les yeux face à une nation qu'on ne peut pas critiquer"

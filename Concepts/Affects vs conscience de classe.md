@@ -48,8 +48,20 @@ Le rufinisme — partir des affects racistes et nationalistes des classes popula
 
 [[Frederic Lordon]] est identifié comme la figure qui a remis les affects à l'agenda de la gauche française. La PaduTeam lui reconnaît le mérite d'être "revenu à Spinoza" pour sortir du rationalisme libéral qui présentait les individus comme des atomes de choix rationnels. Mais : "le problème de Lordon c'est pas qu'il soit revenu à Spinoza, c'est qu'il soit resté à Spinoza."
 
+## Le débat Lordon/Mélenchon comme cas-test (avril 2026)
+
+Dans [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], la PaduTeam formule la critique la plus condensée du programme lordonien des affects. L'extrait viral du débat — Lordon disant qu'il suffit de parler aux gens de leur "dignité blessée" au travail pour les mobiliser — est jugé **idéaliste et techniquement incomplet** sur deux points :
+
+**La dignité n'est pas mobilisable universellement.** Via Charles Mills et le [[Division raciale du proletariat|contrat racial]], la PaduTeam argumente que dans le prolétariat blanc occidental, la dignité est déjà captée par les affects identitaires de droite. Le sentiment d'indignité est une ressource disponible seulement quand il ne reste plus rien d'autre — c'est le cas des peuples colonisés (Cuba, Afrique), pas du cadre français harcelé qui "met la dignité sous le tapis" pour préserver sa position. Plus le niveau de vie est élevé, moins la dignité est mobilisable comme affect de gauche.[^dignite]
+
+**Le spinozisme comme "garagisme".** Ce que Lordon propose concrètement, c'est un technicien politique capable de "mettre la clé dans le contact" — de trouver le bon agencement des affects pour faire tourner la machine. C'est le spinozisme le plus conservateur : descriptif, inertiel, sans sujet collectif. La formulation PaduTeam : "Ce qu'ils cherchent c'est pas des hommes politiques, c'est pas des sujets de l'histoire, c'est pas des sujets collectifs, c'est des garagistes."[^garagiste]
+
+[^dignite]: [37:02](https://www.youtube.com/watch?v=vzhzJUUjx28&t=2222) — "Plus tu as un haut niveau de vie, plus la dignité des gens est une valeur qui passe sous le tapis."
+[^garagiste]: [46:48](https://www.youtube.com/watch?v=vzhzJUUjx28&t=2808) — "Ce qu'ils cherchent c'est pas des hommes politiques, c'est pas des sujets de l'histoire, c'est pas des sujets collectifs, c'est des garagistes."
+
 ## Vidéos où le concept est développé
 
 - [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — développement principal, débat en direct multi-intervenants
 - [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]] — désaccord épistémologique central avec Wissam et Lordon
 - [[RAZ ET WISSAM ONT-ILS GACHE LE ZAWATALK]] — approfondissement par Dr Zoé sur la pulsion comme impasse politique féministe
+- [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — cas-test du programme lordonien : la dignité blessée comme affect non-mobilisable en Occident impérialiste ; le spinozisme = garagisme sans sujet collectif
