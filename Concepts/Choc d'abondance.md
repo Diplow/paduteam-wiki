@@ -28,6 +28,15 @@ La PaduTeam compare la situation actuelle à l'après-guerre : 40 ans de guerre 
 ## Contre la pensée écologiste de la pénurie
 La PaduTeam critique certaines pensées écologistes qui tiennent un discours de "on consomme trop" — inaudible pour des intérimaires qui n'arrivent pas à payer leur essence. Ce discours empêche de penser l'abondance collective.
 
+## Pourquoi la redistribution pénuriste ne suffit pas à battre le Pacte raciste
+
+Les logiques redistributives ("taxer les super-profits pour redistribuer", "chèques énergie ciblés") restent dans le cadre de la pénurie — et c'est ce qui les fait perdre face au [[Pacte raciste]]. Quand la gauche propose de "couper différemment le gâteau", l'électeur populaire entend : "il y a une pénurie, on va la gérer" — ce que la gauche promet depuis 40 ans sans jamais le faire. La solution raciste paraît alors plus simple et plus crédible : "ne donnons pas aux étrangers." C'est sur ce terrain que la gauche redistributive perd systématiquement.
+
+La logique de l'abondance rompt ce cercle : "Nous créons une société abondante. Tout le monde aura le droit aux soins, à l'école, aux biens de première nécessité." Pas redistribuer selon les mérites, le mérite racial ou les chèques ciblés — produire assez pour tout le monde en reprenant la propriété des moyens de production.[^abondance-redistrib]
+
+[^abondance-redistrib]: [26:55](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1615) — "Nous créons une société abondante. [...] L'idée c'est pas d'en prendre comme ça à des gens pour redistribuer les autres à l'intérieur d'un espace pénurique. C'est de créer les conditions de possibilité de l'abondance." — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
+
 ## Vidéos clés
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Développement le plus complet des mesures concrètes du choc d'abondance (banque nationale, assurances publiques, usine nationale textile, reprise de souveraineté monétaire). Critique de Lumière Laprès qui propose des demi-mesures (syndicaliser l'intérim) sans voir la nécessité d'un projet global.
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Démontage du chèque énergie ciblé comme logique redistributive pénuriste. Formulation de la thèse : la redistribution valide la pénurie et perd face au racisme. Alternative : abondance et droits universels.
 

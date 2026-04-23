@@ -50,6 +50,12 @@ Ce discours remplit une double fonction : donner des gages à son électorat de 
 
 [^ephi-lecornu]: [16:02](https://www.youtube.com/watch?v=9JMGqQDK-Ds&t=962) — "Philippe c'est vraiment le garant de la bourgeoisie qui veut vraiment rassurer les marchés comme on dit. Rassurer le CAC 40 quoi."
 
+## Asymétrie judiciaire : procédure pour prise illégale d'intérêt (2026)
+
+La PaduTeam cite Philippe comme contre-exemple symétrique à l'affaire Rima Hassan : une procédure ouverte contre lui pour "prise illégale d'intérêt" (potentielles malversations financières non précisées) ne fait pas de grands titres, n'est pas relayée en boucle sur BFM TV — "parce que c'est un candidat du bloc bourgeois." Pendant ce temps, la convocation de Rima Hassan pour un tweet déclenche une machine médiatique complète. C'est l'illustration exacte de la [[Justice de classe]] et de la [[Double mesure]] dans leur expression la plus directe.[^philippe-justice]
+
+[^philippe-justice]: [6:42](https://www.youtube.com/watch?v=ggMtsfLNACo&t=402) — "Édouard Philippe qui a une procédure ouverte pour prise illégale d'intérêt [...] On entend pas parler assez à la télé, ça fait pas des gros titres tout le temps parce que c'est un candidat du bloc bourgeois."
+
 ## Vidéos
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Mécanisme sondagier noisette : donné gagnant dans les face-à-face jusqu'à l'écrasement réel ; "la vraie noisette" de la droite.
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — Philippe appelle à une présidentielle anticipée après budget ; se positionne en garant de la bourgeoisie et en successeur naturel

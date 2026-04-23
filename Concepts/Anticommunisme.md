@@ -56,7 +56,22 @@ L'anticommunisme s'articule avec un suprémacisme implicite : tous les partis co
 
 Dans le lexique de [[Max Weber]], la violence légitime est celle que l'État — bourgeois — reconnaît comme sienne. L'anticommunisme joue sur cette définition : la violence des classes dominées est toujours *illégitime* (violente, chaotique, terroriste), la violence des classes dominantes est toujours *de l'ordre* (pacification, maintien de la sécurité). Dès qu'on entend le mot « violence » dans la bouche des bourgeois, c'est qu'on parle de la résistance des opprimés.
 
+## Le concept de "totalitarisme" : généalogie et boomerang
+
+Dans [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], la PaduTeam déconstruit le concept de "totalitarisme" que [[Frederic Lordon|Lordon]] utilise pour désigner la phase actuelle du capitalisme ("capitalisme totalitaire").
+
+Le concept de totalitarisme a été développé pour **salir le communisme** en établissant une équivalence entre l'URSS et l'Allemagne nazie. Ironie historique : les seuls à s'être revendiqués du totalitarisme (stato totalitario) sont les fascistes italiens — qui ne figurent pas dans la liste d'Hannah Arendt. L'objectif était d'amalgamer les libérateurs de l'Europe avec ceux qui avaient envoyé les juifs, les tziganes, les communistes et les homosexuels aux camps de la mort.
+
+Retourner le concept contre le capitalisme — comme le fait Lordon — est donc doublement risqué :
+1. **Le boomerang conceptuel** : quiconque parle de "totalitarisme" mobilise d'abord les affects anticommunistes, pas la critique du capitalisme
+2. **L'usage comme arme contre la gauche** : si le "capitalisme totalitaire" est un concept valide, il sera retourné contre Mélenchon lui-même ("Mélenchon est totalitaire")
+
+La PaduTeam recommande de bannir le mot du vocabulaire de gauche — "si on pouvait éviter de ramener le concept de totalitarisme comme une espèce d'insulte [...] c'est un gros CSC parce que ça va nous revenir en boomerang."[^totalit]
+
+[^totalit]: [32:23](https://www.youtube.com/watch?v=vzhzJUUjx28&t=1943) — "À gauche, si on pouvait éviter de ramener le concept de totalitarisme comme une espèce d'insulte qu'on balancerait à autrui alors qu'en fait c'est un gros CSC parce que ça va nous revenir en boomerang sur Mélenchon disant Mélenchon est totalitaire."
+
 ## Vidéos de référence
 
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Analyse centrale, déconstruction du chiffre, affaire des stèles à Saint-Raphaël
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Mécanisme du piège médiatique anticommuniste, reniement vs dépassement
+- [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — Déconstruction du concept de "totalitarisme" comme outil anticommuniste retourné contre le capitalisme ; risque de boomerang

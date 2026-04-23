@@ -139,6 +139,12 @@ La PaduTeam formalise dans [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]]
 
 La conclusion est identique à toutes les configurations noisettes précédentes : "des stratégies de gens qui partent déjà en ayant perdu [...] si je le déshonneur et pas la guerre, à la fin, ils ont la guerre et le déshonneur."
 
+## La noisette sous pression hégémonique
+
+La PaduTeam formule une loi : les noisettes se droitisent quand la gauche de rupture perd du terrain, et sont *contraintes* de se gauchir quand elle en gagne. "Au fur et à mesure qu'ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment. C'est-à-dire que c'est des gros néolibéraux de merde."[^noisette-pression] La noisette n'a pas de convictions propres — elle a des positions qui varient selon le poids relatif des deux pinces du casse-noisette. À 22-25 % pour la gauche de rupture, les noisettes sont tenues en laisse. À 5 %, elles expriment leur fond idéologique réel.
+
+[^noisette-pression]: [21:42](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1302) — "au fur et à mesure parce que eux ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment" — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
+
 ## Vidéos clés
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
@@ -161,3 +167,5 @@ La conclusion est identique à toutes les configurations noisettes précédentes
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Verdict : "au combat des noisettes, la branche Glucksmann vient de casser." Présente la mécanique du casse-noisette appliquée à Glucksmann : il se croyait une "pince du casse-noisette" (force tirant de l'espace centre-gauche), mais il était lui-même une noisette du grand casse-noisette PS. "Tout est relatif comme dirait Einstein : vous pouvez être une branche du casse-noisette à l'échelle d'une configuration [...] mais une noisette dans un plus grand casse-noisette."
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance PCF-PS-Verts à Paris comme cas d'école de la rhétorique noisette : invocation du danger d'extrême droite dans une ville à 7 % RN. Formalise le discours-type : "je trahis car il y a l'extrême droite en face."
 - [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — La noisette Tondelier en flagrant délit de tambouille post-premier tour : stratégie différenciée par ville qui sert systématiquement le PS, fusion 50/50 avec la FI refusée à Lille, illisibilité totale de la ligne "unioniste".
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Loi de la noisette sous pression hégémonique : les noisettes se droitisent quand la gauche de rupture faiblit, reviennent à gauche quand elle pèse. Droitisation de Tondelier en trois étapes sur le blocage des prix (2022/2024/2026). Fond idéologique réel d'EELV : néolibéralisme social.
+- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — La team cassoulet confirme le destin des noisettes : [[Marine Tondelier]] est "le dindon de la farce" de ce cassoulet, présente à Bram mais marginalisée. Les noisettes croient qu'il existe un espace entre les deux pôles — elles "sont condamnées à exploser entre les deux." Le pôle cassoulet (Glucksmann, Hollande, Delga) se constitue en excluant explicitement les noisettes qui n'ont pas leur poids.

@@ -28,6 +28,11 @@ La PaduTeam définit le néolibéralisme comme un processus de désocialisation 
 ## Retour au [[Salariat archaique]]
 Le néolibéralisme détruit le salariat organisé, syndicalisé, collectivisé — fruit de conquêtes ouvrières — pour revenir au "tâcheronnage" d'avant les conquêtes sociales. Les livreurs Uber en sont l'exemple emblématique : ils arrivent avec leur équipement, demandent combien d'heures ils peuvent faire, et n'ont aucun droit. Le statut d'auto-entrepreneur sert de véhicule juridique à cette régression, masquant un rapport de subordination réel sous une apparence d'indépendance.
 
+## L'auto-entrepreneuriat comme politique de classe
+L'auto-entrepreneuriat n'est pas un phénomène spontané — c'est une volonté construite par les libéraux et les néolibéraux. En France, ça n'a jamais autant explosé que sous Macron. En Argentine, Milei détruit les entreprises publiques pour revendre des statuts libéraux. Le mécanisme : le travail collectif est rendu détestable par le capitalisme (désyndicalisation, dépossession des décisions, précarisation), rendant le travail individuel attractif par comparaison. 71 % des 18-28 ans rêvent de créer leur entreprise (baromètre Junior Entreprise IFOP 2024) contre 34 % de la population active — les 34 % connaissent déjà le monde de l'entreprise, ils n'en veulent plus.
+
+"Créer des entreprises, des petites entreprises, c'est la mort absolue de toute possibilité de communisme et de sortie du capitalisme." Si les 71 % réalisaient leur vœu, le capitalisme deviendrait un capitalisme libéral concurrentiel encore plus violent — sans les atténuations que les grandes entreprises socialisées et les syndicats peuvent encore imposer. Voir [[Ideologie entrepreneuriale]].
+
 ## La phase de clôture du néolibéralisme
 Le néolibéralisme fonctionne par extraction de plus-value des pays périphériques via l'[[Echange inegal]]. La Chine jouait le rôle de réservoir de valeur bon marché pour les capitaux occidentaux. Mais la montée en gamme de la Chine (salaires, marché intérieur, concurrence technologique) met fin à cette dynamique. "On a un premier pays qui comprend que le néolibéralisme ne fonctionne pas" — Trump essaie de sortir du néolibéralisme par le protectionnisme libéral à l'ancienne, sans les outils de planification nécessaires. La phase du néolibéralisme est en train de se clore.
 
@@ -40,3 +45,4 @@ La stratégie de Mélenchon consiste à "marteler des positions en rupture avec 
 
 ## Vidéos où le concept est développé
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La "phase de clôture du néolibéralisme" : Trump essaie de sortir du néolibéralisme par le protectionnisme à l'ancienne, sans les outils de planification nécessaires. La Chine, elle, représente le seul modèle qui sort effectivement du néolibéralisme par la planification.
+- [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] — L'auto-entrepreneuriat comme politique de classe néolibérale ; le travail collectif rendu détestable pour pousser vers l'individualisme entrepreneurial ; données 71 % / 34 % sur l'aspiration entrepreneuriale des jeunes.

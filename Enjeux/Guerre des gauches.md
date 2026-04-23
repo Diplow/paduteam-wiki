@@ -537,3 +537,32 @@ La PaduTeam lit les résultats comme une validation totale de la stratégie LFI 
 
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^gdg_florentin]: [13:53](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=833) — "lui en plus c'est un fasciste qui s'ignore, tu vois. C'est il se prend pour un libéral et tout."
+
+## La consolidation du pôle cassoulet — avril 2026
+
+### 36. La team cassoulet comme pôle anti-mélenchoniste cohérent
+
+Le batch W15-W16 confirme la cristallisation d'un deuxième pôle gauche structuré, que la PaduTeam nomme la "team cassoulet" : [[Raphael Glucksmann]], [[Carole Delga]], [[Jerome Guedj]], [[Francois Hollande]], [[Boris Vallaud]]. Contrairement aux tentatives précédentes de primaire inclusive, ce rassemblement est explicitement exclusif — il a pour sens d'être anti-mélenchoniste, pas simplement non-mélenchoniste. La PaduTeam le lit comme une bonne nouvelle structurelle : la guerre des gauches s'assume, les lignes sont claires.
+
+La PaduTeam formule la thèse du **"2002 inversé"** : en 2002, Jean-Marie Le Pen était "l'antisystème qui avait réussi à casser le système" en se qualifiant au second tour avec 17 %. En 2027, le système va "essayer de casser l'antisystème" en plaçant un candidat de centre-gauche (Hollande ou Vallaud) capable de passer au second tour avec 16-17 % dans une configuration à barre basse — droite fragmentée, Bardella qui s'écroule, Mélenchon dont le vote utile sera contesté. La prophétie du Graphique se prolonge : "Vallaud est intouchable et sûrement au second tour" si l'accord Glucksmann-Hollande tient.
+
+[[Carole Delga]] est identifiée comme "vraiment la pire" — elle a refusé le NFP en 2022, fait élire 10 députés RN supplémentaires dans sa région, manœuvré pour que des électeurs aillent vers Moudenc plutôt que voter à gauche. Sa présence dans le bloc cassoulet révèle le positionnement réel : "Delga préfère la droite à Mélenchon. Ça vous donne une idée de l'espace politique dans lequel est Glucksmann."
+
+[[Marine Tondelier]] est "le dindon de la farce" : présente à Bram, mais déjà marginalisée par les deux pôles. Les noisettes sont condamnées, ici comme ailleurs.
+
+(Source : [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]])
+
+### 37. Tondelier : droitisation en trois étapes documentée
+
+La vidéo [[TONDELIER RETOURNE ENCORE SA VESTE]] fournit la documentation la plus précise à ce jour du glissement idéologique de [[Marine Tondelier]] dans la guerre des gauches.
+
+**Premier front — l'idéalisme sur les "gauches irréconciliables"** : Tondelier explique que c'est le *concept* des gauches irréconciliables qui a créé les divisions. La PaduTeam démonte l'idéalisme : deux courants existent parce que deux groupes sociaux ont des conditions matérielles d'existence différentes — les uns pour qui la mondialisation néolibérale se passe bien, les autres pour qui elle signifie régression. "Ces gens-là sont plus pour une politique de rupture." Ce n'est pas le concept qui a divisé — ce sont les rapports de production qui ont produit deux electorats incompatibles.
+
+**Deuxième front — le retournement de veste sur le blocage des prix (2022 → 2024 → 2026)** : en 2022, Tondelier défendait le blocage des prix sur les produits de première nécessité. En 2024, elle le confondait avec une taxe sur les super-profits. En 2026, elle affirme que "un blocage des prix, ça coûte de l'argent public." La PaduTeam démontre que c'est factuellement faux : un blocage des prix prend sur les marges des producteurs et distributeurs, pas dans le budget de l'État — c'est une limitation du profit privé. En abandonnant cette mesure, Tondelier s'assoit sur la première mesure du programme NFP qu'elle avait défendu, révélant que son engagement dans le NFP était tactique, pas programmatique.
+
+**La mécanique structurelle** : la PaduTeam formule la loi générale : les noisettes se droitisent quand la gauche de rupture perd du terrain, et sont *contraintes* de se gauchir quand elle en gagne. "Au fur et à mesure qu'ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment." Ce n'est pas une question de conviction — c'est une contrainte de rapport de forces.
+
+### Vidéos clés (batch W15-W16)
+
+- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — la team cassoulet comme pôle cohérent et exclusif ; thèse du "2002 inversé" ; Delga préfère la droite à Mélenchon ; Vallaud comme candidat optimal du bloc avec accord Hollande ; les noisettes condamnées entre les deux pôles
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — droitisation en trois étapes (2022-2024-2026) sur le blocage des prix ; idéalisme sur les gauches irréconciliables ; mécanique de la pression hégémonique (noisette qui dit ce qu'elle pense quand la gauche de rupture faiblit) ; la contre-proposition chèques énergie ciblés comme logique de rationnement pénuriste

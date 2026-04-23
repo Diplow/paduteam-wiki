@@ -416,3 +416,26 @@ La PaduTeam formalise la dynamique Hollande en lui appliquant le mécanisme Le P
 - [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Formalisation de la dynamique Hollande 2027 par analogie avec Le Pen 2002 ; mécanisme en trois étapes (Bardella bidon → Jospin 2002 → espace bloc bourgeois pour Hollande) ; 11 600 affiches distribuées ; la "prophétie du 2002 inversé" comme cadre pour comprendre pourquoi PJPS est structurellement nécessaire
 - [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour : Hollande dicte la "clarté" depuis France Inter ; Tondelier incohérente ville par ville (Lille, Lyon, Strasbourg, Poitiers) ; Garrido retourne le PJPS ; LFI "coup parfait" confirmé ; stratégie des "deux jambes" formalisée
 - [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Préparation pré-électorale : analyse des ~13 villes calibrées par les résultats 2022 ; ~12 000 affiches distribuées ; Roubaix comme bastion populaire (Guirot à 44%) ; mécanique de surmobilisation des classes supérieures aux municipales
+
+## Le bloc cassoulet se consolide comme adversaire principal — avril 2026
+
+Les vidéos du batch W15-W16 confirment que la guerre anti-LFI se structure désormais autour d'un pôle cohérent que la PaduTeam appelle la "team cassoulet". Là où les tentatives précédentes de primaire étaient inclusives par hypocrisie, ce rassemblement est explicitement exclusif — il n'existe que pour s'opposer à Mélenchon.
+
+### Glucksmann, Delga, Guedj : une primaire qui a du sens parce qu'elle est anti-mélenchoniste
+
+[[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] est la démonstration la plus complète de la cristallisation du pôle PS anti-LFI. La PaduTeam y identifie une nouveauté structurelle : "là il y a une vraie cohérence, c'est un agglomérat de gens qui font sens et qui vont mener ce que nous on appelle la guerre des deux gauches." Glucksmann, Hollande, Delga, Guedj, Vallaud — tous dans le même camp, avec la même ligne : pas de gauche de rupture.
+
+Le cas [[Carole Delga]] est traité sans ambiguïté : elle a fait élire 10 députés RN supplémentaires dans sa région en refusant les alliances NFP, et a manœuvré pour orienter des électeurs vers la droite plutôt que vers des candidats de gauche de rupture. "Delga préfère la droite à Mélenchon. Bon, du coup ça vous donne une idée de l'espace politique dans lequel est Glucksmann." Sa présence dans le bloc cassoulet est la signature de classe du projet : ce pôle préfère la droite à la gauche de rupture.
+
+La thèse du "2002 inversé" prolonge et précise l'enjeu "Plus jamais PS" : le danger n'est plus que le PS ne gagne pas — c'est qu'il soit au second tour avec 16-17 % dans une configuration où la barre d'accès est basse. "C'est le système qui va essayer de casser l'antisystème en plaçant un candidat au centre." Et si Vallaud est "sûrement au second tour" avec l'accord Glucksmann-Hollande, "si Vallaud gagne, la gauche est morte" — les gens percevront un gouvernement PS comme "la gauche qui gouverne."
+
+### Tondelier : le programme NFP abandonné en trois étapes
+
+[[TONDELIER RETOURNE ENCORE SA VESTE]] fournit le cas d'école le plus précis de la trahison programmatique : Tondelier abandonne en 2026 le blocage des prix, **la première mesure du programme NFP qu'elle avait défendu**. Elle affirme que cela "coûte de l'argent public" — ce que la PaduTeam démontre être faux : un blocage des prix prend sur les marges des raffineurs, pas sur le budget de l'État. Manuel Bompard l'a tweeté explicitement.
+
+Ce n'est pas une erreur — c'est la trajectoire EELV documentée en trois étapes (2022-2024-2026), révélant que son engagement NFP était tactique. L'alternative proposée (chèques énergie ciblés) est de la démocratie chrétienne : maintenir les pauvres "pas trop pauvres pour ne pas mourir" sans toucher aux rapports de production. "Elle veut faire le moinopauvre. Nous, on veut qu'il n'y ait plus de pauvres."
+
+### Vidéos clés (batch W15-W16)
+
+- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — cristallisation du pôle cassoulet ; Delga préfère la droite à Mélenchon ; thèse du "2002 inversé" ; Vallaud comme candidat optimal si accord Hollande tient ; si Vallaud gagne "la gauche est morte" ; la "gauche parisienne" comme espace électoral nouveau (12-20 %)
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — abandon du blocage des prix (première mesure NFP) en trois étapes documentées ; mensonge factuel sur le coût du blocage ; chèques énergie ciblés comme logique pénuriste et charitable ; mécanique de la noisette qui dit ce qu'elle pense vraiment quand la gauche de rupture s'affaiblit

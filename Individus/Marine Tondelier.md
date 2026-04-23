@@ -151,6 +151,39 @@ La PaduTeam identifie la conséquence finale : elle attaque Hollande (sa ligne d
 [^tonneg-corn]: [16:04](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=964) — "l'équilibre de Marine Tondelier pour pouvoir sauver sa ligne de la primaire et cetera et ben c'est de cornéiser la FI quand elle le peut ou utiliser la FI quand elle le peut."
 [^tond-tambouille]: [27:27](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=1647) — "vraiment ça n'a ni queue ni tête. C'est vraiment mais vraiment c'est vraiment de la tambouille politique."
 
+## Droitisation documentée sur le blocage des prix (2026)
+
+Interview sur France Inter, avril 2026. La PaduTeam documente une droitisation en trois étapes chronologiques :
+
+- **2022** : défend explicitement le blocage des prix sur l'alimentation et l'énergie, dénonce les intermédiaires qui "s'en mettent plein les poches"
+- **2024** : associe blocage et contrôle des prix, reconnaît les super profits, confond parfois blocage et taxation — mais reconnaît le mécanisme
+- **2026** : retourne sa veste — "Nous ne sommes pas pour un blocage des prix. Un blocage des prix, ça coûte de l'argent public."
+
+Or c'est faux. La PaduTeam démontre mécaniquement qu'un blocage des prix ne coûte pas d'argent public : il prend sur les marges des producteurs-distributeurs, pas dans les caisses de l'État. Manuel Bompard le tweete dans la foulée : "C'était la première mesure du programme NFP." Tondelier s'assoit donc sur la première mesure du NFP qu'elle avait défendu — preuve que son engagement dans la coalition était tactique, pas programmatique.[^tond-blocage]
+
+[^tond-blocage]: [17:02](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1022) — "D'ailleurs, c'était la première mesure du programme NFP sur lequel elle s'assoit aujourd'hui. C'est pour vous dire à quel point cette meuf qui était soi-disant pour l'Union, le NFP, c'était grâce à elle — elle se moque de vous."
+
+## Sa contre-proposition : chèques énergie ciblés comme néolibéralisme social
+
+Face au blocage des prix qu'elle rejette, Tondelier propose des "chèques énergie ciblés selon les revenus et le besoin". La PaduTeam identifie dans ce mécanisme la quintessence du "néolibéralisme des verts" — ce qu'elle appelle aussi "démocratie chrétienne" ou "néolibéralisme social" :
+
+- C'est une **logique de charité** : aider les plus pauvres à la marge sans changer les rapports de propriété qui produisent les inégalités
+- C'est une **logique de rationnement pénuriste** : Tondelier décide qui mérite l'aide (pas le SUV, oui la vieille diesel), ce qui revient à "obliger les pauvres à consommer ce que toi tu décides"
+- C'est une **logique de ticket de rationnement** : "les gens parlent de tickets de rationnement dans les pays communistes — mais vous, vous voulez donner des chèques. C'est la même chose."[^tond-cheques]
+
+Le problème réel — un gagne 25 000 €/mois, l'autre 1 500 € — Tondelier le valide et le gère à la marge. "Elle veut faire le moinopauvre. Nous on veut qu'il n'y ait plus de pauvres."[^tond-monopauvre]
+
+[^tond-cheques]: [35:10](https://www.youtube.com/watch?v=jHY3lK75_fs&t=2110) — "C'est le néolibéralisme en crise à apparence sociale. C'est l'état du privé par le privé pour le privé."
+[^tond-monopauvre]: [27:56](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1676) — "Elle veut faire le moinopauvre. Nous on veut qu'il n'y ait plus de pauvres et c'est ça qui est différent."
+
+## Son idéalisme sur les "gauches irréconciliables"
+
+Dans la même interview, elle explique que le concept des "gauches irréconciliables" — de Lenin-Bernstein à Valls à Mélenchon — a "empoisonné" la gauche et *causé* les divisions. La PaduTeam :c'est de l'[[Idealisme politique]] pur. Les deux courants de gauche existent parce que deux groupes sociaux ont des conditions matérielles d'existence différentes — les uns pour qui le néolibéralisme se passe encore à peu près, les autres pour qui c'est la régression permanente. "Ces gens-là sont plus pour une politique de rupture. Et donc vous avez deux ailes de la gauche fondées sur des conditions matérielles d'existence."[^tond-idealisme]
+
+Tondelier en déduit que Mélenchon s'est positionné sur la Palestine ou l'Ukraine pour "se rendre irréconciliable" et torpiller la primaire — comme si ses convictions géopolitiques développées depuis 40 ans n'étaient qu'un instrument tactique anti-primaire.
+
+[^tond-idealisme]: [6:43](https://www.youtube.com/watch?v=jHY3lK75_fs&t=403) — "Ces gens-là ils sont plus pour une politique de rupture. Et donc du coup vous avez deux ailes de la gauche fondées sur des conditions matérielles d'existence."
+
 ## Vidéos où Tondelier est analysée
 - [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
@@ -162,6 +195,7 @@ La PaduTeam identifie la conséquence finale : elle attaque Hollande (sa ligne d
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Réunion de crise post-second tour : perd Bordeaux, Strasbourg, Poitiers. Électorat EELV identifié comme électorat bourgeois macroniste qui retourne vers PS+Horizon. "Mettez la clé sous la porte."
 - [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour : stratégie d'équilibre PS/FI décryptée et jugée illisible. Refuse la fusion Verts-FI à Lille (50/50) pour sauver la mairie PS. Attaque Hollande sans attaquer Faure. "Vraiment la personne la moins crédible pendant la période."
+- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Droitisation documentée en trois étapes sur le blocage des prix (2022/2024/2026). Démontage de son idéalisme sur les "gauches irréconciliables". Chèques énergie ciblés comme néolibéralisme social. Capital-solutionnisme vs communal-solutionnisme. "La ligne jadociale libérale."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présente à Bram, joue la "déléguée de classe" qui appelle Glucksmann et Mélenchon par leurs prénoms, tente de faire croire que le conflit est personnel et non structurel. Parie sur la primaire comme mécanisme consensuel pour s'imposer. Réaction de Mélenchon sur son blog : elle et le PCF "tenaient la chandelle" et ont été "sifflés à juste titre."
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Conférence FP2027 : vote anti-symboles communistes, "abus de langage" sur la primaire, sociotype de son électorat de bus. "On n'est peut-être pas d'accord."
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Prédit à 3-4% comme "Nathalie Arto des gens en haut au milieu dans le graphique" ; annonce elle-même une candidature de témoignage si la primaire ne se fait pas.

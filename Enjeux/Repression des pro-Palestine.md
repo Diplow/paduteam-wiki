@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice, médias-propagande, États-Unis]
-skill_version: write-enjeu-2026-04-21-enrichi-w29w30
+skill_version: write-enjeu-2026-04-23
 date created: Tuesday, April 14th 2026, 5:59:34 pm
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -44,8 +44,11 @@ La loi crée un **effet d'autocensure** systémique : chaque condamnation envoie
 
 [[Hugo Bernalicis]] dépose une proposition de loi pour retransférer ce délit au droit de la presse (comme avant 2014 et comme c'est le cas pour l'apologie de crimes de guerre). Le PS (Olivier Fort) et la droite (Christian Estrosi) s'y opposent en confondant délibérément "abroger du code pénal" avec "autoriser l'apologie réelle". Mathilde Panot démonte le mensonge sur BFMTV face à une journaliste qui n'a pas lu la proposition de loi : "nous le remettons au bon endroit, et ce n'est pas juste LFI qui dit cela puisqu'il y a un rapport de l'ONU qui dénonce en France l'instrumentalisation du délit d'apologie du terrorisme contre les voies pour la paix."
 
-### La loi Yadan comme dispositif d'État
-La loi Yadan vise à assimiler légalement antisionisme et antisémitisme — criminalisant ainsi toute critique organisée de l'État d'Israël. La PaduTeam : "C'est le fond du fond du fond de l'affaire [...] assimiler antisionisme et antisémitisme pour justement mettre la pression sur les militants de leur faire peser cette logique d'antisémitisme." Si elle passe, les procédures déjà abusives contre Rima Hassan deviendraient légalement "fondées". C'est la clôture institutionnelle du dispositif répressif.
+### La loi Yadan comme clôture institutionnelle du dispositif
+La loi Yadan vise à assimiler légalement antisionisme et antisémitisme — criminalisant ainsi toute critique organisée de l'État d'Israël. La PaduTeam : "C'est le fond du fond du fond de l'affaire [...] assimiler antisionisme et antisémitisme pour justement mettre la pression sur les militants de leur faire peser cette logique d'antisémitisme." Si elle passe, les procédures déjà abusives contre Rima Hassan deviendraient légalement "fondées". C'est la clôture institutionnelle du dispositif répressif : le judiciaire ciblait des comportements, la loi Yadan veut cibler des opinions politiques. La PaduTeam note que la simultanéité n'est pas accidentelle — la garde à vue de Rima Hassan et le passage en discussion de la loi Yadan se déroulent en même temps.
+
+### La thèse de la majorité silencieuse pro-Palestine
+La PaduTeam avance une thèse stratégique : la position pro-Palestine est majoritaire dans la société française, même si elle est muselée dans les médias et réprimée par l'appareil judiciaire. "Je pense que la majorité du peuple français voit qu'il se passe un génocide sous les yeux face à une nation qu'on ne peut pas critiquer." C'est précisément pour cette raison que la répression s'intensifie : si Mélenchon peut gagner en 2027 sur cette position, il faut empêcher ses représentants d'en parler. La neutralisation de Rima Hassan est aussi une neutralisation électorale.
 
 ### Les frontières de la gauche
 La répression de Rima Hassan est un révélateur : qui la défend inconditionnellement, qui se contente de dire que "c'est excessif" (Tondelier), qui ne dit rien (Glucksmann, Roussel). Stefano Palombarini formule la ligne : LFI, NPA, L'après — réagissent fort. Tondelier dit "excessif". Roussel "pas d'accord avec ce qu'ils disent mais je les soutiens" (identique pour Delescaut). Ce n'est pas une nuance : c'est une frontière politique entre soutien effectif à la résistance palestinienne et intégration au camp sioniste modéré.
@@ -77,6 +80,7 @@ Le même Enthoven nie le génocide à Gaza en prime time sur BFMTV ("L'accusatio
 - **La gauche social-démocrate** : Tondelier (EELV), Glucksmann (PS), Roussel (PCF) — soutien conditionnel ou absent, langage de "disproportion" qui légitime la répression sur le fond.
 
 ## Évolution
+- **Avril 2026 (loi Yadan + garde à vue)** : concomitance entre la garde à vue de Rima Hassan pour "apologie du terrorisme" (CBD légal transformé en "drogue de synthèse" dans les médias pendant qu'elle ne peut pas répondre) et la discussion de la loi Yadan. La frontière gauche se révèle clairement : Tondelier dit que la répression est "excessive" (pas illégitime), Glucksmann est silencieux, Roussel "ne partage pas ses positions". La PaduTeam : "C'est une ligne de démarcation entre les gens qui soutiennent réellement et concrètement la résistance palestinienne [...] et les gens qui s'y soumettent." Le montage "drogue de synthèse" via Caroline Fourest illustre le fonctionnement de l'offert en temps réel : l'impression est créée pendant qu'elle ne peut pas démentir. (Source : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]])
 - **Juillet 2025 (Lolesco)** : Jean-Paul Lolesco, secrétaire de l'UD CGT 59, témoigne devant la prison de Lannemezan la nuit de la libération d'Abdallah. Il a lui-même été condamné à un an de prison avec sursis pour "apologie du terrorisme" pour un tract de la CGT 59 soutenant la résistance palestinienne, distribué dès le 8-9 octobre 2023 — le lendemain du 7 octobre. La PaduTeam dénonce le cynisme : "l'histoire lui a donné raison" puisqu'il y a effectivement un génocide en cours. Sa condamnation illustre que le délit d'apologie du terrorisme cible délibérément les voix les plus précoces et les plus cohérentes dans le soutien à la Palestine. (Source : [[GEORGES IBRAHIM ABDALLAH ISRAEL VIT SES DERNIERS INSTANTS]])
 - **Avant 2024** : Mohamed Cassi ciblé (Arthur/TV5), premières convocations de Rima Hassan.
 - **Jan-fév 2024** : Affaire Forbes, plainte contre Arthur pour diffamation.

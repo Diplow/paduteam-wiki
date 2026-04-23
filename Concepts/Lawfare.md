@@ -37,7 +37,7 @@ L'arc Rima Hassan illustre la forme la plus aboutie du lawfare : non plus seulem
 
 3. **Synchronisation judiciaire-médiatique** : pendant la garde à vue (elle ne peut pas répondre), les informations fuitent dans la presse — "drogue de synthèse" via Caroline Fourest. Au moment où le démenti arrive (CBD légal, test urinaire confirmant l'absence de drogue illicite), l'impression est déjà créée dans l'opinion.
 
-4. **La loi Yadan comme clôture** : si la loi Yadan passe (assimilation légale antisionisme/antisémitisme), les procédures déjà abusives deviennent légalement "fondées". L'offert se transforme en instrument législatif permanent.
+4. **La [[Loi Yadan]] comme clôture** : si la loi Yadan passe (assimilation légale antisionisme/antisémitisme), les procédures déjà abusives deviennent légalement "fondées". L'offert se transforme en instrument législatif permanent.
 
 **Parallèle international** : même mécanisme utilisé contre Lula (Lava Jato), Morales (Bolivie), Bachelet, Correa, Podemos en Espagne. La PaduTeam : "C'est vraiment une technique bah justement des forces politiques judiciaires et médiatiques. Quand c'est privatisé dans les mondes libéral, le policière et le juridique et le médiatique jouent un rôle très important là-dedans, se coordonne parce que c'est des actes de résistance de la bourgeoisie."
 
