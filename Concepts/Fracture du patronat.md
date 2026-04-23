@@ -35,5 +35,10 @@ Les 95 % de micro-entreprises représentent une part minoritaire des salariés. 
 ## Lien avec le [[Graphique]]
 Dans le [[Graphique]], les petits patrons (artisans, commerçants, indépendants) se positionnent dans l'espace réactionnaire à droite malgré des revenus parfois modestes. La [[Petite bourgeoisie]] a des structures mentales liées à sa position dans le mode de production, pas à son niveau de revenu. Une fracture du patronat réussie ne passe pas par leur conversion — elle passe par la réorientation de leur rapport de production via le pouvoir salarié.
 
+## L'Institut La Boétie et les syndicats patronaux
+
+En janvier 2026, la PaduTeam révèle que l'[[Institut La Boetie]] a organisé un "débat franc" exclusivement avec des organisations patronales (CPME, CNAMS, CAPEB, UDP) sans inviter un seul syndicat de salariés. C'est la preuve que la stratégie LFI de "fracturer le patronat" est en réalité une stratégie de **co-optation du patronat** — travailler avec eux, pas contre eux, au détriment du salariat de ces entreprises.
+
 ## Vidéos où le concept est développé
 - [[MELENCHON DRAGUE LES PETITS PATRONS]] — analyse complète de la stratégie LFI, critique de l'anachronisme keynésien, contre-proposition des 51 % de pouvoir salarié dans les CA des PME aidées par l'État
+- [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] — la stratégie LFI démontrée class blind par la PaduTeam ; l'Institut La Boétie invite les syndicats patronaux, pas les syndicats de salariés ; démonstration matérialiste que la "fracture" doit se faire par le salariat, pas par la co-optation des patrons PME
