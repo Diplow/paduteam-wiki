@@ -37,6 +37,23 @@ En juillet 2025, à l'approche du mouvement du 10 septembre, il dépose la marqu
 
 [^tegner2025]: [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]] — Tegner dépose "Nicolas qui paye" à l'INPI alors que la gauche populaire organise le blocage du 10 septembre.
 
+## Réaction à l'élection de Bally Bagayoko (mars 2026)
+
+L'élection au premier tour du maire noir de Saint-Denis [[Bally Bagayoko]] est l'occasion d'une nouvelle séquence d'analyse par la PaduTeam. Sur le plateau de CNews, Tegner présente l'élection comme la preuve d'une "nouvelle France pour LFI" basée sur "l'immigration africaine et arabo-musulmane" — avant de se reprendre, réalisant que les immigrés n'ont pas le droit de vote en France. La PaduTeam note que Tegner incarne l'ascendance suédoise tout en dénonçant "les fils d'étrangers", sans voir l'incongruité.
+
+La PaduTeam compare Tegner au discours anti-italien de 1893 (massacre d'Aigues-Mortes) : exactement les mêmes arguments sur "les étrangers qui prennent les emplois", juste avec un peuple différent dans la cible[^tegner_aiguesmortes]. Sa réaction à l'élection de Bagayoko — décrit comme une "image cataclystmique" — est celle d'un homme qui voit "un gars qui a gagné une élection et qui se fait jeter en l'air par son équipe qui est contente."
+
+Sa phrase "Il faudrait raser Gaza comme on a rasé Dresde en 45" n'est pas de Tegner mais d'un collègue présenté sur le même plateau (Johann Uset), ce qui n'en fait pas moins le tableau de l'entourage de CNews.
+
+[^tegner_aiguesmortes]: [20:06](https://www.youtube.com/watch?v=Q-tgXhC2SFg&t=1206) — "Ce que tu nous racontes aujourd'hui, il y a 100 ans tu serais déjà en train de le raconter mais contre des Italiens. Tu es un raciste et ce qui est bien malheureusement pour toi, c'est que nous on va faire en sorte que le futur ne corresponde pas au passé."
+
 ## Regard de la PaduTeam
 
-La PaduTeam : "Éric s'y connaît mieux en pied qu'en mouvement de gauche." La PaduTeam utilise Tegner comme figure synthétisant l'incapacité analytique de l'extrême droite et sa violence interne envers les femmes — un personnage qui "pose des questions qui dérangent" sur l'immigration tout en étant lui-même accusé de comportements prédateurs.
+La PaduTeam : "Éric s'y connaît mieux en pied qu'en mouvement de gauche." La PaduTeam utilise Tegner comme figure synthétisant l'incapacité analytique de l'extrême droite et sa violence interne envers les femmes — un personnage qui "pose des questions qui dérangent" sur l'immigration tout en étant lui-même accusé de comportements prédateurs. Tegner est aussi décrit comme ayant "réussi à se placer à l'extrême droite de Valeurs Actuelles", positionnant Frontière dans un espace encore plus radical que le journal d'extrême droite grand public.
+
+## Vidéos où Eric Tegner est analysé
+
+- [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — cartographie de "l'extrême gauche" : travail bâclé, logique de race sociale perçue
+- [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — récupération du mouvement du 10 septembre
+- [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]] — dépôt de la marque "Nicolas qui paye" à l'INPI
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — déferlement négrophobe contre l'élection du maire de Saint-Denis ; Tegner comme figure du racisme médiatique systémique

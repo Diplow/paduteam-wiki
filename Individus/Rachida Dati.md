@@ -26,3 +26,4 @@ La PaduTeam démonte l'argument : "Dati par rapport à Grégoire, c'est pas elle
 ## Vidéos où Dati est analysée
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Sa candidature utilisée pour pression sur LFI Paris
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Citée comme adversaire principale de Knafo ; Knafo refuse de l'attaquer pour ménager la stratégie "Union des droites" avec Wauquiez ; la PaduTeam note que Knafo promet de "travailler avec elle loyalement" si Dati est élue
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Analyse pré-électorale Paris : annoncée à 26 % (LR-Modem), "propre agenda", n'exclut pas une fusion avec [[Sarah Knafo]] (Reconquête) ; bloc Dati+Knafo potentiellement à ~40 % qualifié de "droite protofasciste en train de se créer"

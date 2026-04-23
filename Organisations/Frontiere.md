@@ -51,3 +51,4 @@ La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé
 - [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — cartographie de "l'extrême gauche" : travail bâclé au ChatGPT, logique de race sociale perçue
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — [[Jordan Florentin]] et le harcèlement de la sœur de Louise
 - [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — conférence de Florentin sur le "fascisme de LFI" ; démontage : 1/7 pour LFI, 6/7 pour RN et Reconquête
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — Tegner sur CNews face à l'élection du maire noir de Saint-Denis ; négrophobie médiatique systémique analysée et démontée par la PaduTeam

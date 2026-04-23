@@ -27,3 +27,4 @@ La PaduTeam est sceptique sur l'application de cette stratégie pour LFI aux mun
 
 ## Vidéos où le concept est développé
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — la PaduTeam analyse la stratégie municipaliste de LFI (alliance avec les Verts) comme une mauvaise tactique pour la présidentielle 2027
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Application concrète ville par ville : les consignes de se maintenir, de maximiser les conseillers municipaux LFI, sont lues dans la logique du municipalisme comme terrain de notabilisation avant 2027. Roubaix (David Guirot à 44 %) et Toulouse (François Piquemal) sont les cas où l'ancrage local peut se construire. Paris et Clermont-Ferrand illustrent le retard d'ancrage LFI : fort à la présidentielle, faible aux municipales faute d'élus locaux.

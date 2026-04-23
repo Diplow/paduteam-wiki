@@ -74,11 +74,21 @@ La PaduTeam conclut que Guedj est désormais "lui-même un qualificatif" — ins
 [^guedj-sophisme-49]: [15:28](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=928) — "C'est le 493 maintenant ce sont ceux qui précisément ont poussé au 493. quand vous ne négociez pas, quand vous refusez même de dialoguer."
 [^guedj-vision]: [19:07](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1147) — "un mec qui pour son propre camp parle de vision sans te dire ce que c'est la vision hein. Tu sais ouais, lui il est super, il a une vision. Pour moi, c'est vraiment mais du dialecte d'entrepreneur vide de sens."
 
+## Post-municipales : "Guedj qui met la pression" sur Tondelier (31 mars 2026)
+
+Sur un plateau France Télévision le soir du second tour, Guedj est "à côté de Tondelier et met la pression" selon la PaduTeam. Sa ligne : les alliances avec FI ont fait perdre, la France Insoumise est le problème. Tondelier ne peut pas répliquer à cet argument parce qu'elle-même "dit que Mélenchon c'est le pire candidat au deuxième tour" — elle est piégée par sa propre rhétorique noisette. "Elle peut pas se battre contre ça parce que c'est elle-même qui le dit."[^guedj-pression]
+
+La PaduTeam note également que sa candidature à la présidentielle le fait qualifier d'adversaire du PS. Mais c'est dans le cadre de la "ligne Hollande" qu'il s'inscrit. Si la ligne Hollande s'impose, Guedj sera rapidement grillé par le PS une fois la clarté établie.[^guedj-mort]
+
+[^guedj-pression]: [27:20](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=1640) — "Tondelier c'est la première à dire Mélenchon c'est le pire candidat au deuxième tour. Donc lui il arrive, il dit 'Bah je comprends pas, tu fais monter un mec dont tu dis toi-même que c'est le pire candidat au deuxième tour.'"
+[^guedj-mort]: [40:12](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=2412) — "Je pense même que le PS va le griller rapidement maintenant qu'ils ont éclairci la ligne. Vraiment lui il est mort vivant aussi là."
+
 ## Vidéos où Guedj est analysé
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — reprend le lead PS à droite après la capitulation Faure ; retourne la responsabilité du 49.3 contre LFI ; dialecte de la "vision" vs la "posture" ; déclaré "lui-même un qualificatif" par la PaduTeam.
 - [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]] — Discours du congrès ; analyse de la laïcité comme code islamophobe ; double poids de mesure ; purge MJCF Nord-92
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Trajectoire PRS/PG/NUPES ; trahison politique de 2008 ; démontage de l'accusation sur l'article 7 ; fausse comparaison Mitterrand/Guevara ; stratégie de sortie par Gaza
-- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — Cité dans le pôle anti-Mélenchon qui se constitue autour de Glucksmann, Hollande et Delga. Mentionné comme présent aux événements parallèles organisés par Hollande avec Cazeneuve, assistant au "livre journal" de Laurent Joffrin avec Hollande, Cazeneuve et Aurore Laluc. Sa place dans la team cassoulet confirme sa ligne : "gauche réformiste" dont la raison d'être est l'opposition à LFI.
+- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — Cité dans le pôle anti-Mélenchon qui se constitue autour de Glucksmann, Hollande et Delga.
+- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Sur plateau France TV soir du second tour avec Tondelier : "met la pression" avec la ligne clarté anti-FI ; piège Tondelier avec ses propres déclarations sur Mélenchon ; déclaré "mort vivant" et promis à être grillé par le PS dès que la ligne Hollande sera totalement imposée. Mentionné comme présent aux événements parallèles organisés par Hollande avec Cazeneuve, assistant au "livre journal" de Laurent Joffrin avec Hollande, Cazeneuve et Aurore Laluc. Sa place dans la team cassoulet confirme sa ligne : "gauche réformiste" dont la raison d'être est l'opposition à LFI.
 
 [^vote]: [35:16](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2116) — "la position insoumise, elle est tranchée par un vote du groupe insoumis"
 [^minorite]: [35:02](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2102) — "il était sûrement d'accord avec les insoumis qui s'appelaient Clémentine Autain, Raquel Garrido, Daniel Simonet — ils étaient sûrement d'accord entre eux, mais pas avec d'autres insoumis"

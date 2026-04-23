@@ -33,5 +33,12 @@ Ces milieux se disaient anti-Le Pen et pour le "cordon sanitaire" tout en portan
 - [[Rassemblement National]] — convergence pratique malgré la rhétorique de cordon sanitaire
 - [[Parti Socialiste]] — vivier d'origine de beaucoup de membres du PR
 
+## Implantation dans le PS parisien (2026)
+
+Dans la liste [[Emmanuel Gregoire]] aux municipales parisiennes 2026, le Printemps Républicain a, selon [[Alice Coffin]], "pris le pouvoir" à l'intérieur de la liste. Coffin note qu'ils ont été "d'une agressivité inouïe envers les causes féministes, enfantistes et antiracistes" au sein du conseil de Paris — "plus que les élus de droite." La PaduTeam qualifie le PR de "branche de l'extrême droite française"[^pr-gregoire] et renvoie à un article de Positions Revue sur le sujet.
+
+[^pr-gregoire]: [20:41](https://www.youtube.com/watch?v=b5CY98TXYZk&t=1241) — "là le printteur républicain, désolé mais pour moi c'est une branche de l'extrême droite française, je le dis clairement"
+
 ## Vidéos où l'organisation est analysée
 - [[FROM TROTSKISTE TO RACISTE]] — Identifiée comme représentante de la matrice 2 (bourgeoisie anticléricale) qui converge avec la droite réactionnaire pour taper sur les musulmans
+- [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]] — Prise de pouvoir dans la liste Grégoire selon le témoignage de Coffin ; agressivité contre les luttes féministes et antiracistes au sein du conseil de Paris

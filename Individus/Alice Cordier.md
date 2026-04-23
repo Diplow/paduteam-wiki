@@ -72,6 +72,20 @@ Paradoxe central que la PaduTeam pointe : l'auteur de l'attentat (Taleb al-Abdul
 
 Un autre tweet de Cordier — "ceux qui collaborent avec ces gens devront payer un jour" — vieillit particulièrement mal puisque l'auteur de l'attentat est affilié à l'AFD : "je suis d'accord l'extrême droite déteste la vie [...] mais je pense que c'était pas ce que tu voulais dire."
 
+## L'affaire de la photo SS (mars 2026)
+
+Ricardo Parera publie une photo d'Alice Cordier faisant un geste SS — deux doigts formant un S — aux côtés de Lazar A., identifié comme leader du collectif néonazi School Shooter, dans un post atteignant 1,9 million de vues. La défense de Cordier s'effondre en trois temps :
+
+1. Elle prétend avoir 18 ans sur la photo et faire le signe du groupe de rap "l'Usine" — mais une affiche du centenaire de Boris Vian (2020) est visible en arrière-plan
+2. Une enquête de CheckNews date la photo de 2022 : elle avait 24 ans, Némésis existait depuis 2 ans
+3. Action Antifasciste Paris-Banlieue révèle qu'en 2019, Cordier fréquentait Bastien Merger (groupuscule néonazi Zoav Paris), dont le signe de ralliement est précisément un Z formé avec les doigts — signe qu'elle connaissait donc parfaitement[^ss]
+
+La PaduTeam : Lazar A. "n'est pas un inconnu mais le leader du groupe ultra violent School Shooter [...] il y a quand même un gros problème." Cordier fait la même chose que ses défenseurs habituels : invoquer le contexte neutre ("c'est un signe de rap") pour noyer une preuve dans le flou — technique que la PaduTeam nomme [[Idealisme politique]].
+
+Cordier a annoncé des plaintes contre environ 100 personnes ayant parlé de cette affaire. La PaduTeam : "J'espère qu'on va pouvoir faire dépenser un maximum d'argent en avocat à Alice Cordier."
+
+[^ss]: [4:40](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=280) — "une enquête de CheckNews [...] confirme qu'[elle] n'était pas un bébé de 18 ans sur la photo, mais qu'elle date en fait de 2022. Elle avait 24 ans, Némésis existait déjà depuis 2 ans à ce moment-là. Elle ne pose pas ce soir-là avec des inconnus mais avec Lazar A."
+
 ## Vidéos où Alice Cordier est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage du retournement narratif, critique de la complicité médiatique (BFM, Marlène Chapaz)
@@ -82,3 +96,4 @@ Un autre tweet de Cordier — "ceux qui collaborent avec ces gens devront payer 
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — distinguée de Thaïs d'Escufon : Némésis tient un discours moins pire sur le viol conjugal, mais reste identitaire de guerre des civilisations
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — récupération de l'attentat de Magdebourg retournée par le profil réel de l'auteur (apostat saoudien réfugié, affilié AFD)
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — photo SS réfutée par enquête CheckNews ; profil de Lazar A. établi ; Cordier avec ex-copain néonazi Bastien Merger (Zoav Paris)

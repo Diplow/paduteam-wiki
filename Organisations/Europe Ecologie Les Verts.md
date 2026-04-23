@@ -50,6 +50,15 @@ La logique derrière : maintenir [[Marine Tondelier]] comme cheffe de file d'une
 
 L'aile gauche du groupe — [[Francois Ruffin]], Hendrick Davi, Sabrina Sbai, Daniel Simonet, Clémentin — qui sont les anciens de la FI, ont voté contre. [[Dominique Voynet]] (jospiniste, ex-candidate à la présidentielle) et deux autres figures ont voté pour — signe de l'aile droite EELV qui penche vers le PS de fait. La PaduTeam : "vous comprenez bien que ça veut dire que les verts ceux qui sont dans le parti, les écologistes, ça veut dire qu'ils se sont abstenus et donc qu'ils ont permis le passage de ce budget."
 
+
+## L electorat vert comme nouvelle democratie chretienne
+
+La PaduTeam formule une these structurelle sur la sociologie de l electorat EELV : il est l heritier de la democratie chretienne. D abord connus pour leur vision totale de la societe ou il faut que tout le monde soit bien (democratie chretienne), ces milieux ont ete un peu socialistes (redistributifs), puis ont appuye le ruissellement macroniste. Aujourd hui, leur moyen d etre altruiste sans redistribution c est l ecologie : penser a la planete permet de se sentir moralement superieur sans remettre en cause les inegalites.
+
+La PaduTeam note la porosite historique avec le catholicisme de gauche (JOC - Jeunesse Ouvriere Chretienne). [[Marine Tondelier]] elle-meme est ouvertement catholique ; [[Cecile Duflot]] egalement. Ce substrat explique la presence recurrente d EELV dans des reseaux catholiques bourgeois (Diner des Batisseurs) et l incapacite structurelle a nommer le capitalisme comme probleme.
+
+[^dem-chret]: [19:39](https://www.youtube.com/watch?v=ocyTfznedzc&t=1179) - dans [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]]
+
 ## Vidéos où l'organisation est analysée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature officielle ; primaire interne avec 6 800 votants contre Walid Mouali ; islamophobie structurelle (Médine, Rima Hassan, Ali Diouara) ; sécurité sociale de l'alimentation proposée sans programme anticapitaliste cohérent ; douceur comme marque de fabrique de l'espace haut-milieu du Graphique
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
@@ -57,3 +66,5 @@ L'aile gauche du groupe — [[Francois Ruffin]], Hendrick Davi, Sabrina Sbai, Da
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Analyse [[Ecologie punitive]] des Verts (ZFE, voiture, logistique capitaliste du territoire) ; vote crédits de guerre ; prévision 3-4% seule à la présidentielle 2027
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Noisettes originelles". Duflot (Oxfam) propose de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN. Impasse de l'écologie sans anticapitalisme : ni collapsologie nihiliste ni incitations marchandes ne peuvent remplacer la socialisation des moyens de production.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 : l'aile droite EELV s'abstient (26 voix décisives) pour sauver Faure et maintenir la primaire des noisettes. L'aile gauche (anciens FI : Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture interne entre les deux tendances.
+- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Post-second tour : Tondelier "en larmes", réunion de crise annoncée, primaire des noisettes officiellement morte. L'électorat EELV est identifié comme électorat bourgeois macroniste reconverti "trop à gauche" par l'alliance LFI — il retourne vers PS+Horizon. EELV piégé : "toute ligne qu'ils adoptent les fait avaler." La PaduTeam : "vous êtes finis, clé sous la porte."
+- [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] - Analyse complete de la fracture post-municipales. Jadot veut s affranchir de Melenchon et aller vers le PS ; Rousseau veut s emanciper du PS et aller vers LFI. Tondelier dans la tenaille. L electorat EELV identifie comme heritier de la democratie chretienne : altruisme transclasse sans redistribution, catholicisme social reconverti a l ecologie. Pronostic : EELV doit mourir et se fondre avec le PS. Primaire des noisettes definitivement morte.

@@ -2,6 +2,7 @@
 type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Venezuela, Amérique-latine, Ukraine, États-Unis]
+aliases: [Campisme assumé, campisme assumé]
 skill_version: write-enjeu-2026-04-19
 date created: Monday, April 13th 2026, 11:53:22 am
 date modified: Monday, April 20th 2026, 1:27:59 pm

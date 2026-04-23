@@ -36,6 +36,17 @@ Philippe fait partie des bénéficiaires indirects des municipales 2026. La droi
 
 La PaduTeam identifie Philippe comme "le post-macronisme de droite" (vs [[Gabriel Attal]] "post-macronisme de gauche"). Philippe vient de [[Les Republicains|LR]], pas du même parti qu'Attal (qui vient du PS) — malgré leur passage commun chez Macron. Philippe est "beaucoup plus libéral" qu'Attal : retraite à 67 ans, opposition au budget de la Sécu en disant "c'est pas assez libéral" (l'inverse de la gauche). Son espace électoral est clair : la droite qui ne veut pas l'extrême droite et veut récupérer le libéralisme macronien. Attal, lui, n'a "aucun espace" entre Philippe et le PS.
 
+## La droite orléaniste historique (mars 2026)
+
+Dans le décryptage du sondage IFOP 2026, la PaduTeam caractérise Philippe comme l'héritier d'une tradition de droite française précise : "il y a un peuple de droite orléaniste comme René Rémond mais vraiment de centre-droit qu'Édouard Philippe incarne qu'Attal n'arrive pas du tout à incarner dans le post-macronisme."[^orleaniste] La filiation est nommée : Beau, Avant, Giscard, Balladur — une droite libérale modérée, républicaine, qui n'a rien à voir avec l'extrême droite.
+
+Cette caractérisation explique l'écart de score entre Philippe (16%) et Attal (10-11%) dans le sondage : ce n'est pas simplement une question de notoriété, c'est que Philippe incarne un espace historiquement constitué, que la droite orléaniste reconnaît, alors qu'Attal reste identifié au macronisme le plus "de gauche" — trop macroniste pour la gauche, trop de gauche pour incarner le centre-droit. La PaduTeam le conseille : "Gaby, n'y va pas, vraiment n'y va pas, tu vas faire 5%."[^attal-conseil]
+
+Sur le [[Graphique]], les barycentres du sondage IFOP placent Philippe et Retailleau côte à côte en haut à droite — la PaduTeam les qualifie de "magnifiques couleurs de l'Action française côte à côte le bleu marine et le jaune" — espace de la droite historique sarkoziste de 2012.
+
+[^orleaniste]: [6:40](https://www.youtube.com/watch?v=sk8a235f5Js&t=400) — "je pense qu'il y a un peuple de droite orléaniste comme René Raymond mais vraiment de centre droit qu'Edouard Philippe incarne qu'attal n'arrive pas du tout à incarner dans le post macronisme."
+[^attal-conseil]: [7:10](https://www.youtube.com/watch?v=sk8a235f5Js&t=430) — "donc vraiment nous on conseille depuis le début à Atal de ne surtout pas y aller. Vraiment n'y va pas Gaby, n'y va pas vraiment donc on va voir ce qu'il fait mais vraiment s'il y va il va faire 5%."
+
 ## La noisette de droite — mécanique sondagière
 
 La PaduTeam décrit la mécanique qui gonfle artificiellement les scores de Philippe dans les sondages : dans un sondage face-à-face, Philippe bat Mélenchon ou Le Pen parce que les deux polarisent. "Demain faites un sondage Macron contre Édouard Philippe — Philippe va gagner parce que Macron est tellement détesté." Les noisettes "ont l'impression d'être la force brillante" — jusqu'à ce que les deux pinces se resserrent et les broient[^ephi-noisette]. Philippe est "la vraie noisette" de la droite : donné à 20% au second tour dans tous les sondages hypothétiques, mais incapable d'y arriver.

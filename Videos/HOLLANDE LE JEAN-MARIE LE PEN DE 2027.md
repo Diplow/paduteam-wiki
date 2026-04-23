@@ -40,11 +40,29 @@ Projection 2027 : Bardella à 27-28% dès septembre, Mélenchon à 16%, Hollande
 
 La PaduTeam articule le mécanisme en trois temps :
 
-1. **Bardella trop sûr de son hégémonie** — donné à 36-38% dans les sondages ("bidon de A à Z, ça ne recouvre aucune réalité sociologique"), il n'est pas en situation de vote réel. Les électeurs qui lui sont attribués dans les sondages raisonneront par l'absurde : "si tout le monde se dit c'est sûr que Bardella il est au second tour, bah personne va aller voter Bardella" — ils voteront Knafo, Retailleau, leur candidat le plus proche.[^4]
+1. **Bardella trop sûr de son hégémonie** — donné à 36-38% dans les sondages ("bidon de A à Z, ça ne recouvre aucune réalité sociologique"), il n'est pas en situation de vote réel. Les électeurs qui lui sont attribués dans les sondages raisonneront par l'absurde : "si tout le monde se dit c'est sûr que Bardella il est au second tour, bah personne va aller voter Bardella" — ils voteront Knafo, Retailleau, leur candidat le plus proche.[^4] À titre d'illustration, des sondages alors récents donnaient une droite + extrême droite à 60% dès le premier tour (Retailleau à 12%, Bardella à 36%, Knafo à 5%) — "ça n'a vraiment pas de sens", pour la PaduTeam c'est l'équivalent d'un sondage fait "sur un groupe Facebook qui s'appelle les Patriotes."
 
 2. **Jospin tué par sa "majorité plurielle"** — en 2002, Jospin était entouré de candidats issus de son propre camp (Chevènement, Mamère, Taubira, Besancenot, Laguiller) qui lui ont prélevé des voix. En 2027, Bardella sera tué par les candidats de sa droite (Retailleau, Knafo, et d'autres). Chirac avait le même problème mais il a résisté — Mélenchon sera dans la position de Chirac.
 
 3. **L'aspiration créée par le radicalisme** — Chirac faisait une "campagne pépère" en 2002 qui créait l'aspiration pour SarkoZi à droite. Mélenchon en 2027, en étant radical (sortir du capitalisme, retraite à 60 ans, 32h), créera l'aspiration pour un Hollande à sa gauche. "Ce sera au flambi, tu vois, alors que là c'était l'inverse."
+
+## Le parallèle Chapoutot : la bourgeoisie n'est pas encore prête
+
+La PaduTeam mobilise [[Johann Chapoutot]] — historien du nazisme — pour contester l'idée que le RN bénéficierait d'une "dynamique de fou." Chapoutot montre qu'au moment où l'Allemagne a donné les pleins pouvoirs à Hitler, la dynamique nazie avait déjà commencé à se tasser. C'était le Parti communiste qui montait. La bourgeoisie, face à cette menace, a fait le choix de donner le pouvoir à Hitler.
+
+La transposition pour 2027 : ce n'est pas que le RN soit inéluctable — c'est que "la dynamique aujourd'hui, ceux qui arrivent à engranger des nouvelles voix, c'est la France insoumise." Le RN "a une base solide depuis longtemps, a réussi à grossir petit à petit, mais aujourd'hui en fait, ils sont plutôt en train de stagner." Ce qui est en train de se produire, c'est que la bourgeoisie "se pose la question de donner le pouvoir au rassemblement national" face à la montée de la gauche — exactement comme la bourgeoisie allemande de 1933. "Je suis pas de parallèle non plus débile entre Jordan Bardella et les nazis" — la PaduTeam dit explicitement que Bardella n'aura pas le destin d'Hitler. Mais la dynamique structurelle (bourgeoisie cherchant un recours face à la gauche qui monte) est la même.[^chapoutot]
+
+La conséquence stratégique : si on veut éviter l'avènement de Bardella, il faut "offrir une alternative profondément radicale à la sortie du néolibéralisme." Que ce soit Hollande ou le RN en face, "il faudra une intensité d'une sortie et d'une bifurcation du capitalisme."
+
+## Le documentaire de 2002 comme preuve empirique
+
+Pour illustrer la mécanique de campagne, la PaduTeam s'appuie longuement sur un documentaire intitulé **"Tous en fait le spectacle d'une élection"** (1h37), décrit comme "un banger, je l'ai vu au moins six fois." Ce documentaire capte en temps réel la soirée du 21 avril 2002 dans les quartiers généraux des différents candidats : journalistes qui commencent à avoir les premières remontées des bureaux-test, le personnel qui se décompose au QG socialiste quand les chiffres arrivent ("Jospin à 16, Le Pen à 17"), l'ambiance de victoire au siège de Chirac qui ne sait pas encore qu'il gagne.
+
+Deux scènes-clés mobilisées :
+- **Jospin dans l'impossibilité** : une interview TV, enregistrée 4 jours avant le premier tour, où le journaliste demande à Jospin d'imaginer ne pas être au second tour. Réponse de Jospin : "j'ai une imagination normale mais tempérée par la raison quand même. Ça me paraît assez peu vraisemblable." C'est le miroir de Bardella en 2027 — trop sûr d'être au second tour pour faire campagne.
+- **Le militant MJS de Bram qui sent le vent** : un militant qui, deux jours avant le vote, annonce "il y aura une surprise de grande taille" — il sentait dans les bureaux de vote que quelque chose se passait. Pour la PaduTeam, "des gens implantés dans les masses, aller discuter" peuvent sentir les dynamiques que les sondages ne voient pas.
+
+La séquence illustre aussi un mécanisme que le documentaire révèle : quand Jospin était donné à 18% dans le dernier sondage et Le Pen à 14%, "l'inversion survient dans la dernière semaine." Et pourtant, même dans les sondages les plus défavorables, "personne n'a donné la réalité du futur."
 
 ## La dynamique Hollande : thèmes de l'époque et espace central libre
 
@@ -87,8 +105,10 @@ La vidéo se conclut par un état des lieux de l'association [[La Breche]] : **u
 - Jospin donné à 30% en janvier 2001, finit à 16,2% le 21 avril 2002
 - Le Pen donné à 8% tout 2001, finit à 17,4% — inversion complète des courbes
 - Chirac finit à 19,9% (campagne "pépère")
+- Sondages droite cumulée 2026 : Bardella 36%, Retailleau 12%, Knafo 5% — total 60%+ au 1er tour, "ça n'a vraiment pas de sens"
 - Bardella donné à 36-38% dans les sondages 2026 — "bidon de A à Z"
 - Marine Le Pen donnée à 30% un an avant 2022, finit à 23% — les sondages surestiment toujours l'extrême droite
+- Projection PaduTeam : Bardella 27-28% dès septembre, Mélenchon 16%, Hollande 14% → croisement des courbes dans les dernières semaines
 - 11 600 affiches "Plus jamais PS" distribuées en France métropolitaine et outre-mer
 
 ## Wikilinks
@@ -96,6 +116,7 @@ La vidéo se conclut par un état des lieux de l'association [[La Breche]] : **u
 - [[Francois Hollande]] — protagonist central de la prophétie
 - [[Jean-Luc Melenchon]] — pendant de Chirac dans la projection 2027
 - [[Jordan Bardella]] — pendant de Jospin dans la projection 2027
+- [[Johann Chapoutot]] — historien mobilisé pour le parallèle bourgeoisie/Nazi
 - [[Prophetie du 2002 inverse]] — concept central développé dans cette vidéo
 - [[Moisation]] — contexte structurel de l'analyse
 - [[Bloc bourgeois]] — fonctionnalité que Hollande incarne
@@ -105,6 +126,8 @@ La vidéo se conclut par un état des lieux de l'association [[La Breche]] : **u
 - [[Rassemblement National]] — le RN dont Bardella hérite le candidat
 - [[La Breche]] — association militante présentée dans l'aparté organisationnel
 - [[Hollande vs Melenchon 2e tour]] — capsule dont celle-ci est la suite
+- [[Sarah Knafo]] — citée dans le sondage (5%) comme pression sur Bardella à droite
+- [[Bruno Retailleau]] — cité dans le sondage (12%) comme pression sur Bardella à droite
 
 [^1]: [21:34](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=1294) — "on va avoir pourquoi on dit qu'Hollande il va avoir une dynamique à la Jean-Marie Le Pen. C'est-à-dire que il part de très loin. On le voit finito comme exactement en 2001 les gens le voyaient finito."
 [^2]: [20:02](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=1202) — "C'est des gens qui n'interprètent pas des dynamiques mais qui interprètent des réponses de gens déjà triés, donc qui sont biaisés et qui ne sont pas en situation de vote réelle quoi."
@@ -112,3 +135,4 @@ La vidéo se conclut par un état des lieux de l'association [[La Breche]] : **u
 [^4]: [34:31](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=2071) — "Si tout le monde se dit c'est sûr que Bardella il est au second tour ? Bah personne va aller voter Bardella tu vois. Et les gens vont voter maman en se disant ouais je vais voter Knafo parce que moi elle est plus proche de mes idées."
 [^5]: [3:04](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=184) — "Hollande avait un peu préfiguré Macron, tu sais, dans ce côté rempart au terrorisme. C'était déjà un peu le rempart aux extrêmes là-dedans."
 [^6]: [6:39](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=399) — "Cette vidéo là nous permet de dire faites attention à François Hollande, radicaliser le programme, essayer d'avoir un programme qui emmène des gens."
+[^chapoutot]: [9:12](https://www.youtube.com/watch?v=Q1g3YxV-X2s&t=552) — "La dynamique aujourd'hui, ceux qui arrivent à engranger des nouvelles voix, c'est la France insoumise. C'est eux qui font sortir des gens de l'abstention aujourd'hui."

@@ -36,3 +36,4 @@ La division raciale du prolétariat explique pourquoi le bas-gauche du Graphique
 
 ## Vidéos où le concept est développé
 - [[LES MILITANTS DE L'APRES ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]] — Développement explicite de la PaduTeam face à la militante JC rousselliste
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — application concrète : les éboueurs en région parisienne sont très majoritairement des hommes noirs, non par "favoritisme" mais parce que la division raciale et genrée du travail les concentre dans les emplois les plus pénibles et les moins valorisés ; Tegner qui fantasme une discrimination anti-blancs à venir est le contre-exemple vivant de qui occupe réellement les postes de pouvoir médiatique

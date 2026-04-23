@@ -37,6 +37,7 @@ L'autre ironie : CNews mobilise [[Charles Consigny]] pour défendre Alexandre J.
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — décrit comme "appareil de l'atlantisme et du sionisme", en furie contre le pivot chinois de Macron
 - [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — la thèse de Rochedy (CNews s'adapte à son public âgé) démontée : c'est Bolloré qui impose son idéologie, pas le public qui la demande
 - [[CNEWS PLEURE POUR UN CRIMINEL]] — le retournement anti-punitif de CNews à la condamnation Sarkozy ; [[Justice de classe]] en action ; nostalgie sarkozyste comme clé de la ligne éditoriale Bolloré
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — plateau CNews avec Éric Tegner sur l'élection du maire noir de Saint-Denis ; négrophobie médiatique décryptée ; Johann Uset co-plateau visé par une plainte pour apologie de crime de génocide ("raser Gaza comme Dresde en 45")
 
 [^2]: [22:50](https://www.youtube.com/watch?v=chanQENWcJI&t=1370) — "c'est littéralement parce que ils ont une vision du monde adéquate à des rentiers de droite blanc et cetera... C'est leur littéralement leur vision du monde. Donc ils s'adaptent pas."
 [^3]: [9:16](https://www.youtube.com/watch?v=zunLNTeDBoU&t=556) — "Merci CNews d'être cet anticarcéralisme dont on a besoin à gauche quoi."

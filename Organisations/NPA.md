@@ -51,6 +51,12 @@ La PaduTeam précise la cartographie des trois tendances en mars 2026 :
 
 L'enjeu 2027 : si le NPA-anticapitaliste se rallie à Mélenchon sans se présenter, les électeurs qui voulaient voter trotskiste indépendant voteront RP ou NPAC — et si le NPAC se présente sous l'étiquette "NPA", la confusion sera totale pour les électeurs non spécialistes de la nomenclature trotskiste.
 
+La PaduTeam formule une recommandation concrète : Mélenchon devrait donner ses 500 signatures à [[Anasse Kazib]] ([[Revolution Permanente]]) pour 2027, comme il avait donné la sienne à Poutou lors de la dernière élection. Le NPA-anticapitaliste, lui, devrait se présenter — c'est la seule façon pour lui de ne pas "déposer le bilan" organisationnel.
+
+## Distinction électoraliste vs révolutionnaire
+
+La PaduTeam applique au NPA une distinction analytique clé : les **partis révolutionnaires** (NPA, RP, Lutte Ouvrière) ont une raison stratégique d'exister dans les élections présidentielles — déporter le cadre du débat à gauche, sortir des abstentionnistes, maintenir une présence médiatique pour leur ligne. Les **partis électoralistes** (FI, PS, PCF) prétendent diriger le pays et ont donc une logique différente. Cette distinction implique que le NPA ne devrait jamais "se fondre" dans une alliance électoraliste sans accord programmatique : ce serait renoncer à son identité constitutive.
+
 ## Vidéos où le NPA est analysé
 
 - [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — analyse de l'éclatement du NPA, carte de la recomposition, géopolitique atlantiste

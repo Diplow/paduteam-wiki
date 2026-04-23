@@ -1,19 +1,22 @@
 ---
 type: vidéo
 domaine: [politique-intérieure]
-thèmes: [élections, médias-propagande]
+thèmes: [élections, médias-propagande, le-Graphique]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2026-03-17
 youtube_id: sk8a235f5Js
+skill_version: write-video-2026-04-23
 date created: Wednesday, April 1st 2026, 5:47:50 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+[![SONDAGE ANTI-MÉLENCHON : L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR](https://img.youtube.com/vi/sk8a235f5Js/0.jpg)](https://www.youtube.com/watch?v=sk8a235f5Js)
+
 # SONDAGE ANTI-MÉLENCHON : L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR
 
 ## Résumé
-Analyse du premier sondage IFOP 2026 sur la présidentielle, un rapport de 56 pages présentant des hypothèses croisées (Bardella/Le Pen × Philippe/Attal × avec/sans centre). Zoé et Chris démontent méthodiquement les résultats en montrant via le [[Graphique]] que l'IFOP surestime systématiquement la droite et sous-estime la gauche — un [[Biais sondagier de droitisation]] récurrent depuis 2002. Le sondage aboutit dans certaines hypothèses à 62-72% de vote de droite au premier tour, ce qui est sociologiquement absurde.
+Analyse du premier sondage IFOP 2026 sur la présidentielle, un rapport de 56 pages présentant des hypothèses croisées (Bardella/Le Pen × Philippe/Attal × avec/sans centre). La PaduTeam démonte méthodiquement les résultats en montrant via le [[Graphique]] que l'IFOP surestime systématiquement la droite et sous-estime la gauche — un [[Biais sondagier de droitisation]] récurrent depuis 2002. Le sondage aboutit dans certaines hypothèses à 62-72% de vote de droite au premier tour, ce qui est sociologiquement absurde. Le "graphicide" opéré sur les PCS révélées par l'IFOP lui-même le démontre en temps réel.
 
 ## Thèses et analyses clés
 1. L'IFOP a un agenda politique clair : faire croire que la gauche ne peut pas gagner, via une [[Biais sondagier de droitisation|surestimation systématique de la droite]] et une sous-estimation de la gauche
@@ -44,12 +47,26 @@ Analyse du premier sondage IFOP 2026 sur la présidentielle, un rapport de 56 pa
 | 2026 (3 hypothèses IFOP) | 52-72% | Aberrant | 27% | Mélenchon seul faisait 22% en 2022 |
 
 ## Analyse via le Graphique
+
+### Positionnement des candidats dans le sondage IFOP
 - Le [[Graphique]] place [[Jordan Bardella]] en bas à gauche (gros point bleu) et [[Jean-Luc Melenchon]] en bas à gauche (petit losange rouge, bien plus petit que ses vrais résultats)
 - [[François Hollande]] (petit rond rose pâle) et [[Raphael Glucksmann]] (rond rose foncé) sont au centre, en concurrence pour l'espace néolibéral de gauche
 - [[Edouard Philippe]] (jaune) et [[Bruno Retailleau]] (bleu marine) sont en haut à droite — espace de l'Action française, droite historique sarkoziste
-- La dispersion ressemble fortement à 2012 : retour à une polarisation avant [[Bloc bourgeois]] macroniste
-- 40% des professions intermédiaires voteraient Bardella selon l'IFOP — aberrant car ces professions votent historiquement à gauche, c'est un réservoir du [[Pacte egalitaire|sujet collectif]]
+- La dispersion ressemble fortement à 2012 : retour à une polarisation avant [[Bloc bourgeois]] macroniste, avec un pôle en bas à gauche (Mélenchon/Bardella) et un pôle en haut à droite (Philippe/Retailleau) — exactement la configuration Hollande/Sarkozy vs Front de gauche/FN de 2012[^graphique-2012]
+- 40% des professions intermédiaires voteraient Bardella selon l'IFOP — aberrant car ces professions votent historiquement à gauche, c'est un réservoir du [[Sujet collectif]]
 - Hollande peut se frayer un chemin en aspirant l'espace Glucksmann puis en captant l'anti-antisystème — devenir le "troisième homme" comme Le Pen en 2002 mais inversé
+
+### Le "graphicide" révélé par l'IFOP lui-même
+L'IFOP intègre dans son rapport de 56 pages les catégories socioprofessionnelles de ses répondants — ce qui permet à la PaduTeam de retourner les données contre lui[^graphicide]. Le chiffre le plus aberrant : 71% des chômeurs voteraient Bardella[^chomeurs-bardella]. La PaduTeam identifie le mécanisme : un questionnaire en ligne ne capte que les chômeurs qui répondent aux sondages internet, c'est-à-dire précisément ceux qui ont une surreprésentation d'extrême droite dans leur comportement numérique. L'échantillon est biaisé à la source, et personne dans les équipes de l'IFOP ne s'interroge sur la vraisemblance du chiffre.
+
+[^graphique-2012]: [25:13](https://www.youtube.com/watch?v=sk8a235f5Js&t=1513) — "On revient à un espace avant confusion avant le bloc bourgeois macroniste, c'est-à-dire moisé de 2012. Là, vous voyez par contre les résultats de l'élection 2012 et effectivement comme vous le voyez ça la dispersion ressemble beaucoup au sondage qu'on vous a montré juste avant."
+[^graphicide]: [13:20](https://www.youtube.com/watch?v=sk8a235f5Js&t=800) — "Oh attends Chris, ça veut dire qu'ils nous ont mis les détails des catégories socioprofessionnelles, faire du graphique après. Trop bien. Tout est prêt. L'OP l'OP vous régalez là."
+[^chomeurs-bardella]: [13:52](https://www.youtube.com/watch?v=sk8a235f5Js&t=832) — "71% des chômeurs qui votent pour Bardella. Donc oui, évidemment [...] le gars pro business, libéralisation, moins d'Aloc vraiment c'est 71%."
+
+## La thèse centrale sur la fonction du biais
+La PaduTeam formule explicitement la thèse de la fonction du [[Biais sondagier de droitisation]] : "faire croire aux électeurs potentiels de gauche que de toute façon ça va jamais marcher en annonçant la droite vachement vachement vachement plus haute que ce qu'elle est réellement à toutes les élections depuis des décennies."[^fonction-biais] L'IFOP "droitise à chaque fois depuis 2002" — 2021 (annonce raz-de-marée de droite avant les législatives 2022), 2024 (raz-de-marée avant les législatives où le NFP arrive en tête), et désormais 2026 avec 62-72% pour la droite au premier tour. La comparaison visuelle des blocs depuis 2002 démontre la surestimation systématique : chaque sondage IFOP place la droite et le centre significativement au-dessus des résultats électoraux réels, et la gauche systématiquement en dessous.
+
+[^fonction-biais]: [12:50](https://www.youtube.com/watch?v=sk8a235f5Js&t=770) — "Attends Chris, tu veux dire que l'IFOP fait exprès de faire croire aux électeurs potentiels de gauche que de toute façon ça va jamais marcher en annonçant la droite vachement vachement vachement plus haute que ce qu'elle est réellement à toutes les élections depuis des décennies. Tu crois ça ?"
 
 ## Appel à l'action
 - Municipales le dimanche suivant : aller voter et "ne pas se tromper de gauche" — objectif de buter le PS dans la [[Guerre des gauches]]
@@ -65,7 +82,7 @@ Analyse du premier sondage IFOP 2026 sur la présidentielle, un rapport de 56 pa
 [[IFOP]], [[Rassemblement National]], [[France Insoumise]], [[Parti Socialiste]], [[Europe Ecologie Les Verts]], [[Les Republicains]], [[Horizon]], [[NFP]], [[Front de Gauche]], [[CGT]], [[La Breche]], [[Positions Revue]], [[PaduTeam]], [[On ne veut plus]], [[Le Figaro]], [[Sud Radio]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Moisation]], [[Biais sondagier de droitisation]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Pacte raciste]], [[Pacte egalitaire]], [[Primaire des noisettes]], [[Plus jamais PS]], [[Eclatement du bloc central]], [[Barycentre electoral]], [[Sujet collectif]], [[Gauche de rupture]]
+[[Graphique]], [[Moisation]], [[Biais sondagier de droitisation]], [[Bloc bourgeois]], [[Prophetie du 2002 inverse]], [[Pacte raciste]], [[Pacte egalitaire]], [[Primaire des noisettes]], [[Plus jamais PS]], [[Eclatement du bloc central]], [[Sujet collectif]], [[Gauche de rupture]]
 
 ## Transcript
 [[SONDAGE ANTI-MÉLENCHON  L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR]]

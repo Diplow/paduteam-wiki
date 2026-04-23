@@ -26,7 +26,7 @@ Le point de départ est Cuba (lutte contre le blocus états-unien depuis les ann
 
 - Membre du réseau [[Medicuba Europe]] (fondé dans les années 1990 par des médecins suisses, actif depuis les années 2000 sur des projets plus importants).
 - **Covid** : participation aux campagnes Medicuba Europe pour financer des réactifs de tests COVID, masques et gants de protection.
-- **Projet en cours (2025)** : envoi d'un conteneur de matériel médical à Santiago de Cuba, prévu à la rentrée 2025.
+- **Projet Cuba (2025-2026)** : levée de fonds pour un conteneur de matériel médical à Cuba. La collecte a été beaucoup plus rapide que prévu — en mars 2026, l'envoi du premier conteneur est imminent. La PaduTeam est en partenariat avec l'association sur toute la question de la solidarité avec Cuba et de la lutte anti-impérialiste, avec des événements communs prévus. "Le printemps sera anti-impérialiste à La Brèche."
 
 ## Participation aux mobilisations internationales
 
@@ -41,3 +41,5 @@ Le point de départ est Cuba (lutte contre le blocus états-unien depuis les ann
 ## Vidéos où l'organisation est analysée
 
 - [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]]
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Partenariat Cuba signalé (conteneur envoyé prochainement), événements anti-impérialistes prévus avec La Brèche, invitation à venir à Marseille
+- [[CUBA SAUVEE PAR POUTINE]] — Campagne active pour envoyer un conteneur à Cuba, objectif 20 000 € ; présidente de La Brèche Zoé marraine de la campagne avec Olivier Mattheux ; la PaduTeam invite à donner à Cuba en priorité avant eux-mêmes

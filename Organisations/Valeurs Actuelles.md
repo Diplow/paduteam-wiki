@@ -26,8 +26,13 @@ La PaduTeam commente : le "plus gros passoire fascisante du siècle" fait ses pr
 
 [^macron_VA]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — [8:47](https://www.youtube.com/watch?v=9rptwstCFFk&t=527) — "le Président donne son premier grand entretien sur l'immigration en octobre 2019 et choisit pour cela le magazine d'extrême droite Valeurs Actuelles [...] verre de whisky tourbé à la main"
 
+## Valeurs Actuelles chez BFM TV — questionner Bagayoko (mars 2026)
+
+Un journaliste de Valeurs Actuelles est invité sur le plateau de BFM TV pour interviewer [[Bally Bagayoko]], nouveau maire de Saint-Denis. La PaduTeam note le paradoxe : BFM TV qui "n'est pas assez à droite" invite des journalistes d'extrême droite sur ses plateaux. Le journaliste enchaîne les insinuations (narcotrafiquants, procurations forcées, "dans la main de qui êtes-vous ?") sans jamais formuler d'accusation explicite. La PaduTeam commente : "On fait venir un gars qui regarde des posts Facebook bidon, on lui met l'étiquette journaliste et du coup il répète des trucs racistes bidon de post Facebook."
+
 ## Vidéos où Valeurs Actuelles est mentionné
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]]
 - [[FROM TROTSKISTE TO RACISTE]] — VA+ comme lieu de témoignage de Luc, "tendance ridiculiste du fascisme"
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — Macron choisit VA pour son premier entretien sur l'immigration (2019), utilise "rabzous", complimente Lejeune
 - [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — VA+ comme scène du témoignage d'Arthur, "ingénieur nietzschéen" passé du mélenchonisme à Nietzsche ; troisième capsule du format "réac qui témoigne"
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — journaliste VA sur plateau BFM TV, insinuations de fraude et narcotrafic contre Bagayoko
