@@ -22,3 +22,4 @@ Pas de figure individuelle citée dans les analyses PaduTeam.
 
 ## Vidéos où l'organisation est analysée
 - [[MELENCHON DRAGUE LES PETITS PATRONS]] — coécriture de la proposition de loi LFI ; distinction CPME (patrons) / CGT (salariés) ; critique de la confusion entre soutenir les PME et soutenir leurs salariés
+- [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] — citée parmi les organisations patronales invitées par l'[[Institut La Boetie]] (avec CNAMS, CAPEB, UDP) sans qu'aucun syndicat de salariés ne soit présent ; la PaduTeam : "pourquoi quand on parle des petites et moyennes entreprises, c'est pas plutôt les représentants des salariés qu'on invite ?"

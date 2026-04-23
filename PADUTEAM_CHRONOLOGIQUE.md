@@ -745,9 +745,10 @@ Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBA
 ---
 ## Batch 40 — Semaine 2026-W17 (20 avr 2026)
 
-Statut : ⏳ en attente
+Statut : ✅ fait (2026-04-23)
 Slug branche : ingest-batch/paduteam-2026-w17
+Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + 2 concepts (Class Blind, Structures mentales de classe) + 1 individu (Stephane Peu) + 2 organisations (Institut La Boetie, Peau Noir Ligne Rouge) + enrichissements : Aurelie Trouvee, Stathis Kouvelakis, France Insoumise, Confederation des PME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat generalise, Alienation de la bourgeoisie + enjeux : Union populaire, Guerre des gauches
 
-- [ ] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
+- [x] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
 
 ---

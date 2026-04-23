@@ -562,7 +562,23 @@ La vidéo [[TONDELIER RETOURNE ENCORE SA VESTE]] fournit la documentation la plu
 
 **La mécanique structurelle** : la PaduTeam formule la loi générale : les noisettes se droitisent quand la gauche de rupture perd du terrain, et sont *contraintes* de se gauchir quand elle en gagne. "Au fur et à mesure qu'ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment." Ce n'est pas une question de conviction — c'est une contrainte de rapport de forces.
 
+### 38. Aurélie Trouvé et le class blind au cœur de LFI — la fracture sur la question de classe
+
+[[L'ANGLE MORT DE LA FRANCE INSOUMISE  LE PATRONAT !]] (avril 2026) déplace la guerre des gauches à l'intérieur même de LFI. La cible n'est pas le PS ni une noisette — c'est [[Aurelie Trouvee|Aurélie Trouvé]], cadre économique de LFI et figure de l'Institut La Boétie, qui défend publiquement la stratégie de rapprochement avec les 4 millions de petits patrons et auto-entrepreneurs.
+
+**Le "class blind" comme concept de fracture.** Par analogie avec le gender blind ou le race blind, la PaduTeam nomme la position d'Aurélie Trouvé : une incapacité à voir la classe comme déterminant structurel. Elle raisonne à partir d'individus (400 petits patrons insoumis identifiés sur 4 millions) pour en tirer des conclusions sur une classe entière. "On a un exemple de class blind, c'est-à-dire des gens qui sont un petit peu confus sur la question de la classe." Ce n'est pas une erreur de calcul — c'est une erreur de méthode qui produit une erreur de programme.
+
+**La fracture n'est pas une querelle de personnes.** La PaduTeam distingue ce conflit des joutes habituelles de la guerre des gauches. Aurélie Trouvé défend une position à l'Institut La Boétie — l'école de formation interne LFI — en invitant des syndicats patronaux (CPME, CNAMS, CAPEB) pour travailler sur les PME sans inviter un seul syndicat de salariés. Ce n'est pas une querelle d'ego — c'est une ligne programmatique : LFI doit-elle définir les PME par leurs patrons ou par leurs salariés ?
+
+**La convergence avec le PS comme signal d'alarme.** La stratégie Aurélie Trouvé sur les PME produirait selon la PaduTeam un programme que "Hollande aurait pu signer" — maintien dans l'individualisation du risque, soutien à l'auto-entrepreneuriat, accompagnement de l'essor du statut d'indépendant. C'est exactement la logique que Macron a poussée pour démanteler le salariat par le bas. "C'est vraiment lui servir la soupe en pensant bien faire."
+
+**L'articulation avec l'intersectionnalité.** Aurélie Trouvé mobilise les luttes féministes, antiracistes et anti-impérialistes pour justifier qu'on "ne peut plus" résumer la lutte à la seule opposition capital/travail. La PaduTeam répond : l'imbrication des dominations n'implique pas leur équivalence. L'exemple des salariées du salon Sababou et Jade Beauté (Boulevard de Strasbourg), payées 250 € par mois pendant 4 ans et demi, exploitées par "des patrons, nos frères africains" — toutes les dominations sont là (racisme, sexisme, exploitation de classe), et c'est la CGT qui est venue les défendre, pas la CPME. Le class blind n'aide pas les dominées multiples — il les abandonne à leur patron.
+
 ### Vidéos clés (batch W15-W16)
 
 - [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — la team cassoulet comme pôle cohérent et exclusif ; thèse du "2002 inversé" ; Delga préfère la droite à Mélenchon ; Vallaud comme candidat optimal du bloc avec accord Hollande ; les noisettes condamnées entre les deux pôles
 - [[TONDELIER RETOURNE ENCORE SA VESTE]] — droitisation en trois étapes (2022-2024-2026) sur le blocage des prix ; idéalisme sur les gauches irréconciliables ; mécanique de la pression hégémonique (noisette qui dit ce qu'elle pense quand la gauche de rupture faiblit) ; la contre-proposition chèques énergie ciblés comme logique de rationnement pénuriste
+
+### Vidéos clés (W13-W14 2026)
+
+- [[L'ANGLE MORT DE LA FRANCE INSOUMISE  LE PATRONAT !]] — Aurélie Trouvé comme figure du "class blind" au sein de LFI ; fracture interne sur la stratégie PME (patrons ou salariés ?) ; Institut La Boétie invitant uniquement des syndicats patronaux ; convergence programmatique avec le PS comme signal d'alarme ; l'intersectionnalité ne justifie pas de gommer la classe
