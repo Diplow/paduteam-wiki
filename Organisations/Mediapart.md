@@ -37,6 +37,9 @@ La PaduTeam distingue les journalistes de Mediapart (comme [[Romaric Godin]] pou
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — article de Romaric Godin cité comme source économique
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — plateau où [[Sarah Legrain]] aurait dit "moïsation", point de départ de la popularisation du terme dans les médias mainstream
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Interview Faure du 17 octobre 2025 analysée comme manifeste de la deuxième gauche ; ambivalence PaduTeam formulée explicitement
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — "banger" : l'enquête d'Alexandre Berto et Marie Turcan sur le profil néonazi réel de Quentin Déranque, appuyée sur des milliers de publications anonymes sur X[^deranque]
+
+[^deranque]: [14:29](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=869) — "À chaque fois que je vois Penel parler de géopolitique, j'ai envie de me désabonner [...] Et à chaque fois qu'il y a des enquêtes, je me dis 'Ouais, ça vaut quand même le coup de financer ça parce que c'est pas rien.'"
 
 [^0010]: [0:10](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=10) — « Mediapart c'est un article sur deux, je me dis "Quel banger". Et un article sur deux, je me dis "Faut que je me désabonne de ce truc, c'est des atlantistes." »
 [^1530]: [15:30](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=930) — « Médiapart décide de ne pas rappeler que c'est pas une suspension mais un décalage. »

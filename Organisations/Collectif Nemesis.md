@@ -45,6 +45,18 @@ Némésis a contesté l'article dans un communiqué en disant que les conversati
 
 Némésis se définit comme "engagé pour la défense des femmes françaises et européennes face aux violences importées et à l'insécurité." La PaduTeam : ce n'est pas du [[Femonationalisme]] au sens de Sara Farris (outil de l'impérialisme centriste), c'est du **[[Feminisme raciste]]** : une idéologie qui ne voit pas le patriarcat comme problème mais les hommes racisés. Le patriarcat blanc — Calixy, Morandini — n'est pas leur sujet.
 
+## La "face cachée" de Némésis — profondeur du milieu néonazi
+
+L'enquête [[Mediapart]] sur [[Quentin Deranque]] révèle que Némésis navigue dans un écosystème néonazi bien plus structuré que sa communication "féministe" ne le laisse croire :
+
+- **Alice Cordier photographiée avec Lazar A.** (leader School Shooter, collectif néonazi) en faisant un geste SS — réfuté comme "signe de rap" mais daté de 2022 par CheckNews
+- **Lien avec Bastien Merger** (Zoav Paris, néonazi) — ex-copain de Cordier avec qui elle partageait les signes de ralliement du groupuscule
+- **Quentin Déranque** — 10 000 publications néonazies sur X, formé aux techniques de combat par Audace Lyon, lecteur de Maurice Bardèch et Lucien Rebatet, citable sur Carl Schmitt
+
+La PaduTeam : "En fait, je pense que quand tu as Déranque, c'était le type genre trop à droite pour Alice Cordier en fait, tu vois, c'est pour ça qu'elle est gênée quoi."[^gênée]
+
+[^gênée]: [45:31](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=2731) — "je pense que quand tu as de Rank c'était le type genre trop à droite pour Alice Cordier en fait tu vois c'est pour ça qu'elle est gênée quoi."
+
 ## Vidéos où le Collectif Némésis est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Leur stratégie de provocation décryptée ; mort de Quentin Deranque instrumentalisée
@@ -53,3 +65,4 @@ Némésis se définit comme "engagé pour la défense des femmes françaises et 
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — enquête Mediapart sur le profil réel de Déranque ; photo SS d'Alice Cordier ; écosystème néonazi autour de Némésis

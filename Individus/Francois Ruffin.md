@@ -113,6 +113,26 @@ Ruffin admet publiquement l'abandon de la stratégie de reconquête des territoi
 
 **Le glissement programmatique annoncé** : Aller chercher les déçus de Macron, ça signifie "vous amènerez pas ces gens sur un programme de rupture radicale." Ruffin finira "à la gauche du PS mais ça restera le PS, le hollandisme."
 
+## "Déconne pas la gauche" — la stratégie fabriquée (mars 2026)
+
+Soir des résultats des municipales 2026. Ruffin sort une vidéo en short filaire sur son compte Twitter, décrit l'union de gauche comme la seule solution, compare la gauche divisée aux capitaines du Titanic se battant pour le gouvernail pendant qu'on fonce sur l'iceberg RN. Le lendemain, un site "déconne pas la gauche face au RN" apparaît avec pétition. La PaduTeam révèle que c'était préparé : "tout ça est fabriqué de A à Z."[^ruffin-fabrique] La stratégie est directement copiée de Baron Noir (l'épisode "Déconne pas Michel" où le camp du Printemps républicain lance une opération d'union sur une ligne de droite). "Ce type n'a aucune imagination."
+
+Simultanément, [[Clementine Autain]] lance sa propre pétition orange "Arrêtez de vous battre" — sans concertation avec Ruffin. La PaduTeam note l'ironie : "Ils veulent être unitaires et ils font chacun leur pétition de leur côté."
+
+[^ruffin-fabrique]: [26:21](https://www.youtube.com/watch?v=AVJFPP4PtCQ&t=1581) — "Tout ça en fait est fabriqué de A à Z" — dans [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]]
+
+## Sexisme documenté sur Clémence Guété (mars 2026)
+
+Lors de la soirée électorale des municipales 2026, Ruffin sort des propos que la PaduTeam qualifie de "sexistes de dingo" sur [[Clemence Guete]], la décrivant comme "petite lieutenante" et lui reprochant d'avoir fait "toute sa carrière auprès de Jean-Luc Mélenchon." La PaduTeam contextualise : homme blanc de plus de 40 ans, arrivé en politique après 40 ans, face à des femmes plus jeunes qui "tafent" en local et sur le programme. "Homme blanc de pouvoir sera toujours homme blanc de pouvoir."[^ruffin-sexisme] Son ex-femme a écrit un livre relatant les mêmes comportements.
+
+[^ruffin-sexisme]: [23:47](https://www.youtube.com/watch?v=AVJFPP4PtCQ&t=1427) — "Cette honte François Ruffin [...] tu insultes Clémence Guété en live parce que tu es énervé" — dans [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]]
+
+## Bilan post-municipales : "terminé de chez terminé"
+
+La PaduTeam tire le bilan : Ruffin n'a présenté aucune liste dans les villes de 10 000 habitants qu'il prétend vouloir reconquérir face au RN. "Tu n'as rien fait. Tu viens faire un commentaire. De là tu parles ?"[^ruffin-minable2] La prédiction : il ira seul à la présidentielle, fera 3 %, et "j'espère qu'on en aura fini de ce gars parce que c'est vraiment un type malsain pour la politique française."
+
+[^ruffin-minable2]: [6:09](https://www.youtube.com/watch?v=AVJFPP4PtCQ&t=369) — "Pourquoi tu n'as pas présenté des listes debout dans les villes de 10 000 habitants face au RN ?" — dans [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]]
+
 ## Vidéos où Ruffin est analysé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — "Baudruche qui s'est dégonflé" : donné à 16-17 % au pic, finit à 6,18 %. Même trajectoire que Chevènement 2002 et Zemmour 2022. "Destiné à faire des films avec Sarah Saldmann."
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "Le roi des noisettes" et premier candidat déclaré à la primaire noisette. Tweet minimum "au boulot ! ensemble pour ouvrir un chemin d'espoir entre l'extrême droite et l'extrême argent" — jugé formulaire et sans programme.[^ruffin-tweet] Il s'était baladé en cravate pour se présidentialiser, revenu en jean basket "retour aux sources." La PaduTeam : "ça c'est le truc à 5%." La ligne "débunker l'extrême droite" sans proposer un projet de société alternatif — "la logique de la gauche américaine, Kamala Harris" — analysée comme une ligne à 3%.
@@ -129,4 +149,6 @@ Ruffin admet publiquement l'abandon de la stratégie de reconquête des territoi
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Roi des noisettes » : fait du Ruffin (témoignages de gens brisés) sans répondre à la question stratégique. Refuse la rupture avec le PS tout en décrivant la violence de son budget. PaduTeam : « sors de ton costume de noisette. »
 - [[LFI ILS FONT PLEURER LES JOURNALISTES]] — Cité parmi les "amis de gauche" qui critiquent LFI pour le refus d'accréditation aux Amphies, qualifié de noisette. Motif retenu : "a mis Bayrou sur ses tracts pour se faire élire aux législatives."
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Cité en ouverture comme exemple de "cringe" (cosplay Michel Audiard, lancement de Debout analysé avec le Graphique dans une capsule précédente). Mentionné parmi les noisettes qui seront broyées entre Glucksmann et Mélenchon avec Tondelier et Faure.
-- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — Aveu stratégique : abandon de la reconquête des territoires populaires RN au profit des décrocheurs du bloc central. Données cartographiques (Piketty/Cagé) qui démentent la fable géographique. Double tracte des législatives 2024 comme cas d'école du retournement de veste ("7 sur l'échelle de Besson"). Thèse : Ruffin est un "autre Glucksmann possible", son programme sera du hollandisme.
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — Aveu stratégique : abandon de la reconquête des territoires populaires RN au profit des décrocheurs du bloc central.
+- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Cité brièvement parmi les noisettes en déroute : "il est en train d'aller vers Hollande, c'est finito." La primaire des noisettes est morte, et les cadres PS s'orientent tous vers Hollande. Ruffin y est renvoyé comme déchu — son espace se referme. Données cartographiques (Piketty/Cagé) qui démentent la fable géographique. Double tracte des législatives 2024 comme cas d'école du retournement de veste ("7 sur l'échelle de Besson"). Thèse : Ruffin est un "autre Glucksmann possible", son programme sera du hollandisme.
+- [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]] — Le soir des municipales : "déconne pas la gauche" fabriqué de A à Z et plagié de Baron Noir ; sexisme documenté sur Clémence Guété ; bilan des magouilles (achat de militants, double tracte, Bayrou sur ses tracts) ; aucune liste présentée aux municipales ; prédiction : "il ira seul, fera 3 %."

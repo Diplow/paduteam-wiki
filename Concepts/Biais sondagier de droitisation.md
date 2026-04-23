@@ -29,6 +29,14 @@ Thèse récurrente de la [[PaduTeam]] selon laquelle les instituts de sondage fr
 - En 2024, les sondages annonçaient un raz-de-marée de droite aux législatives — le [[NFP]] est arrivé en tête
 - En 2026, le premier sondage IFOP met le bloc de droite à 52-72% au premier tour — sociologiquement absurde
 
+## La démonstration comparative (mars 2026)
+Dans [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]], la PaduTeam reconstruit une visualisation comparative alignant sur une même image : le résultat réel de 2002, le sondage IFOP 2022 vs le résultat réel 2022, le résultat des législatives 2024, et les trois hypothèses IFOP 2026. Le constat est visuel et immédiat : à chaque ligne, la droite et le centre sont surestimés dans le sondage, et la gauche sous-estimée, par rapport aux résultats électoraux réels. La gauche maintient son bloc constitué en 2022 — mais "il continue de nous dire que non, les prochaines fois la gauche va reculer."[^comparaison-blocs]
+
+Point clé : Mélenchon seul faisait 22% en 2022. Le sondage IFOP 2026 met toute la gauche de rupture (Mélenchon + Roussel + Tondelier) à 27% — soit seulement 5 points de plus que Mélenchon seul quatre ans plus tôt, en supposant que Glucksmann capte 10 points sur l'électorat Mélenchon 2022. "Bah vraiment tout ça n'a aucun sens sociologique."[^pas-sens]
+
+[^comparaison-blocs]: [33:30](https://www.youtube.com/watch?v=sk8a235f5Js&t=2010) — "On parle de 2002 quand la gauche n'était pas au second tour, elle était déjà avec tous les multicandidats à un niveau autour de 38 [...] il continue de nous dire que non, les prochaines fois la gauche va reculer."
+[^pas-sens]: [34:31](https://www.youtube.com/watch?v=sk8a235f5Js&t=2071) — "si on regardait à l'intérieur des blocs, on verrait même bah un passage de 22 23 % 24 [...] de la gauche de rupture à 10 11 12 Mélenchon. Bah vraiment tout ça n'a aucun sens sociologique."
+
 ## Fonction politique
 Le biais sondagier sert la [[Triangulation de la peur]] : en gonflant la droite, on pousse les électeurs de gauche vers le "vote utile" centriste ou vers l'abstention. C'est un outil de maintien du [[Bloc bourgeois]] : si les gens croient que la gauche ne peut pas gagner, ils ne se mobilisent pas, et la prophétie se réalise d'elle-même.
 

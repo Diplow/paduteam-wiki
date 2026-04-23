@@ -20,12 +20,18 @@ Chris le compare aux "collabos de 45" — un opportuniste qui n'a rien compris a
 
 Padu le décrit comme "une noisette qui se pense clé de voûte au sein du casse-noix" — il se voyait central alors qu'il ne comprenait pas les dynamiques des deux forces (droite macroniste et extrême droite) qui se resserraient autour de lui.
 
+## Municipales Nice 2026
+
+Candidat UDR-RN à Nice, annoncé à **38 %**, face au maire sortant Christian Estrosi (Horizon, ex-LR) à **32 %**. Les deux cumulés représentent ~70 % — la droite et l'extrême droite totalisent la quasi-totalité des voix dans une ville analysée par la PaduTeam comme la pire de France : "Quand vous mettez trop de vieux riches au même endroit, ça vous donne des catastrophes politiques." La PaduTeam note la fusion délirante sur sa liste avec Jean-Marc Governatori, un "élu écolo du centre-droit" qui s'est fait virer du conseil régional PACA. Il a rejoint Ciotti — illustration concrète de la [[Moisation|moïsation]] droite+extrême droite dans le sud. Gauche (PS+Verts+PCF : 12 %, LFI : 11 %) sans issue : "tenez la ligne, j'ai pas d'autres solutions."
+
 ## Relations
 
 - [[Bruno Retailleau]] — a réussi ce que Ciotti avait raté (l'union des droites par l'intérieur)
 - [[Les Republicains]] — a trahi le parti
 - [[Rassemblement National]] — allié de circonstance
+- [[Moisation]] — incarnation du mécanisme à Nice : droite et extrême droite fusionnent localement
 
 ## Vidéos
 
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Comparaison avec Retailleau sur la méthode d'union des droites
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Candidat à Nice, 38 %, alliance avec Estrosi représentant 70 % des intentions de vote dans "la pire ville de France"

@@ -79,6 +79,15 @@ La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTea
 
 [^vallaud-49.3]: [25:49](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1549) — "Donc moi je vais vous dire je veux pas baisser la tête parce que un certain nombre d'hommes et de femmes vont toucher un petit peu plus à la fin du mois."
 
+### Post-municipales : le retour du dormeur (31 mars 2026)
+
+Vallaud s'était tenu à l'écart pendant l'entre-deux tours — ni vraiment dans la ligne Hollande ni vraiment dans la stratégie Fort — "pour voir laquelle allait gagner et sur laquelle fallait s'aligner." Après la validation de la ligne Hollande par les résultats, il "revient" et rejoint explicitement la ligne clarté anti-FI. La PaduTeam l'analyse comme un joueur prudent : "il est pas grillé." Son "bougonnement" calculé ("Je force ma nature. Il n'est pas dans ma nature de dire avec force mon net désaccord") est lu comme l'expression du positionnement d'un futur candidat qui refuse de se bruler avant l'heure.[^vallaud-post]
+
+La PaduTeam envisage son profil 2027 : à la fois capable de capter les anciens électeurs écolo-bourgeois déçus des Verts (qui préféreront peut-être Vallaud à Hollande "sans le passif d'Hollande") et en couple présidentiel avec [[Najat Vallaud-Belkacem]]. "Il peut buzer [...] c'est un candidat qui pourrait être très très bon pour le PS dans Closer." En revanche, son attentisme lui coûte la prime de clarté : "c'est pas très digne et les militants te reconnaissent pas quand tu fais ça."[^vallaud-digne]
+
+[^vallaud-post]: [33:31](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=2011) — "Je pense que là il a été plus malin. Il est resté un petit peu à distance en ne choisissant ni vraiment Hollande ni vraiment la stratégie fort pour voir laquelle allait gagner."
+[^vallaud-digne]: [39:11](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=2351) — "c'est pas très digne. Et les militants te reconnaissent pas quand tu fais ça."
+
 ## Vidéos où Vallaud est analysé
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — assume la non-censure "la mort dans l'âme" ; présente des non-dégradations comme victoires ; bougonnement qui confirme son positionnement d'arbitre tenu à distance du désastre Faure.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Désigné successeur naturel de Glucksmann dans l'espace PS : "fidèle depuis toujours de Hollande", en train de se "frayer un chemin" après la branche Glucksmann cassée.
@@ -94,4 +103,5 @@ La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTea
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy : faiseur de roi (~20%), confirmation de la prophétie candidat PS 2027, "le seul qui aura une ligne cohérente".
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — ouvre la porte au "49.3 de compromis" avec Temal, torpillant la stratégie Faure ; bras exécutant de la main noire d'Hollande.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Cité comme candidat que Hollande pousse pour 2027 (dissident interne qui pense que ce sera lui et non Boris Vallaud). La PaduTeam divulgue l'existence d'un débat interne entre "ceux qui pensent que le candidat sera Boris Vallaud" et ceux qui pensent que ce sera Hollande lui-même — sans trancher.
+- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Analyse de son attentisme entre-deux tours : stratégie délibérée d'arbitre. Profil 2027 : "il peut buzer" avec sa compagne Najat Vallaud-Belkacem, capte l'électorat écolo-bourgeois post-EELV. Critique : pas de prime de clarté car il arrive après. "C'est pas très digne et les militants te reconnaissent pas quand tu fais ça."
 - [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — Analysé comme le candidat optimal du pôle cassoulet. La PaduTeam développe le scénario de son passage : avec un accord entre lui, Glucksmann et Hollande, il serait "intouchable" et "sûrement au second tour". Si Glucksmann et lui se séparent sans accord, ils se cannibalisent (10-12 % chacun). Ses réseaux (État administratif, fonctionnariat) diffèrent de ceux de Glucksmann (atlantiste direct). Point clé de la PaduTeam : "si Vallaud passe, les gens vont se dire c'est la gauche qui gouverne" — rendant sa victoire plus dangereuse que celle de Glucksmann pour la reconstruction d'une gauche de rupture.

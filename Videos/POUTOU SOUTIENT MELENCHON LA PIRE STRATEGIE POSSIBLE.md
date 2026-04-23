@@ -65,7 +65,7 @@ Mélenchon sans gauche à sa gauche se retrouve seul face à 9 candidats qui lui
 
 ## L'alerte "noisette" anti-dissipation de voix
 
-Poutou justifie son soutien à Mélenchon par la menace de l'extrême droite : ne pas "dissiper les voix" pour sauvegarder Mélenchon face au RN. La PaduTeam retourne l'argument : c'est exactement le même discours que celui des [[Noisettes]].
+Poutou justifie son soutien à Mélenchon par la menace de l'extrême droite : ne pas "dissiper les voix" pour sauvegarder Mélenchon face au RN. La PaduTeam identifie explicitement ce mécanisme comme une [[Alerte noisette]] — le même discours que celui des [[Noisettes]].
 
 > "Ça s'avait nous ton truc tu vois. C'est des gens, ils font le deuxième tour avant de faire le premier tour. Vraiment c'est une catastrophe intellectuelle."[^8]
 
@@ -114,8 +114,10 @@ La boutique Poutou revient ici : son confort matériel (libraire) explique autan
 La recommandation est explicite :
 1. Mélenchon doit donner ses signatures à [[Anasse Kazib]] (RP) pour la présidentielle 2027
 2. Le NPA-anticapitaliste doit se présenter, pas se dissoudre dans la FI
-3. Le PCF (parti électoraliste, pas révolutionnaire) relève d'une logique différente — son ralliement éventuel à la FI est une question d'accord programmatique, pas de "soutien"
+3. Le [[Parti Communiste Francais|PCF]] (parti électoraliste, pas révolutionnaire) relève d'une logique différente : c'est un parti "entre l'espace Hollande et l'espace Mélenchon" qui prend des voix à Mélenchon quand il se présente seul — non parce qu'il est à gauche de la FI, mais parce que son électorat actuel la déteste. Son cas n'est pas celui des partis trotskistes.
 4. Les gauches "qui prétendent diriger le pays" (FI, PS, noisettes) doivent se limiter à leur espace — les gauches révolutionnaires ont le leur, et "s'il y en a 10, tant mieux"
+
+La PaduTeam fait une distinction analytique nette entre **partis électoralistes** (FI, PS, PCF — qui ont des programmes de gouvernement et prétendent diriger le pays) et **partis révolutionnaires** (NPA, RP, Lutte ouvrière — qui présentent pour exister et pour déplacer le cadre du débat). Cette distinction doit guider la stratégie de chaque organisation.
 
 ## Individus et organisations mentionnés
 
@@ -136,6 +138,8 @@ La recommandation est explicite :
 - [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]] — analyse de la trajectoire de Poutou, matrice de lecture de cette vidéo
 - [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — Hollande comme bénéficiaire du défaitisme anti-Mélenchon
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — le rôle de Kazib comme polarisateur à gauche
+- [[BARDELLA est-il le MAILLON FAIBLE du RN]] — analyse parallèle de la candidature Bardella mentionnée dans la vidéo
+- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — confirmation des forces structurelles qui informent la prophétie électorale
 
 [^1]: [3:07](https://www.youtube.com/watch?v=sI-XFGMRPbM&t=187) — "Oui, c'est probable. J'ai pas engagé mon parti là-dessus mais on va discuter nous déjà. Est-ce qu'on y va ce coup-ci ou pas ?"
 [^2]: [3:37](https://www.youtube.com/watch?v=sI-XFGMRPbM&t=217) — "tu as un militant de parti, tu commences pas surtout quand tu as vraiment la tête de liste à dire on va se ranger derrière un Mélenchon mais j'engage personne tu vois"

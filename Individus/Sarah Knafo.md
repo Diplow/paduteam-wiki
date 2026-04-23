@@ -49,3 +49,4 @@ Avant sa relation avec [[Eric Zemmour]], Sarah Knafo était liée à [[Louis Sar
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Relation passée mentionnée
 - [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — Citée dans le projet d'alliance patronale Bardella+Retailleau+Knafo
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Analyse complète : candidature Paris 2026, communication, lecture au Graphique, enjeu stratégique
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Annoncée à 13 % à Paris (la PaduTeam pense qu'elle est surestimée, comme Zemmour l'avait été) ; n'exclut pas fusion avec [[Rachida Dati]] ; bloc Dati+Knafo à ~40 % qualifié de "droite protofasciste qui se crée"

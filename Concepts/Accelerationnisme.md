@@ -23,5 +23,12 @@ La PaduTeam identifie l'accélérationnisme comme l'une des dernières "rational
 ## Lien avec la [[Periode de confusion|période de confusion]]
 L'accélérationnisme fasciste prolifère dans les zones de confusion pré-[[Moisation|moïsation]]. Il offre aux individus confus une sortie pseudo-radicale qui ne nécessite aucune organisation, aucune discipline militante, aucun programme — juste voter pour que ça empire. C'est le degré zéro de la politique, l'exact opposé de la structuration militante que la PaduTeam promeut via [[La Breche|La Brèche]].
 
+## L'accélérationnisme électoral stratégique (usage distinct)
+
+Dans la vidéo sur les villes municipales 2026, la PaduTeam emploie le terme dans un sens très différent — ni jubilation raciste ni posture radicale, mais **calcul électoral rationnel** : au Havre, si Édouard Philippe est réélu maire, il est conditionné à se présenter à la présidentielle 2027, ce qui "exploserait le bloc central." La formule : "le Graphique est accélérationniste au Havre."
+
+Ce "vote accélérationniste" consiste à faire réélire un adversaire pour que sa candidature présidentielle fragmente davantage la droite — et ouvre plus d'espace à Mélenchon au premier tour. La PaduTeam dit "on rigole un peu" mais laisse l'idée en suspens : pas de consigne formelle, simple constat ironique de la complexité des calculs tactiques. C'est un accélérationnisme sans dimension raciste — purement stratégique et conjoncturel.
+
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — Luc déclare vouloir faire passer Le Pen à 60% ; la PaduTeam démonte le masque stratégique pour montrer la jubilation raciste sous-jacente
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Usage stratégique électoral : "le Graphique est accélérationniste au Havre" [23:16](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=1396) — réélire Philippe pour qu'il fragmente la droite en 2027

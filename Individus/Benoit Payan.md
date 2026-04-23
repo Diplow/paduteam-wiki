@@ -24,5 +24,10 @@ Sa victoire est "digne" selon la PaduTeam mais décevante : De Logu s'est retir�
 - [[Martine Vassal]] — adversaire battue
 - [[Sebastien De Logu]] — candidat LFI retiré en sa faveur au 2e tour
 
+## Veille des municipales 2026 — Marseille
+
+Annoncé à **35 %** dans les sondages. La PaduTeam analyse la configuration pré-premier tour à Marseille comme "une des premières villes qu'on va regarder" : risque d'un bloc LR-Horizon (Martine Vassal, 18 %) qui appellerait à voter RN ([[Franck Alisio]]) au second tour. Vassal avait déclaré "travail famille Patrick" comme slogan — signal de porosité avec l'extrême droite. La PaduTeam espère que [[Sebastien De Logu]] (LFI, annoncé à 13 %) fera beaucoup plus, et que le bloc droite fera beaucoup moins, pour qu'Alisio n'ait pas de réserve. Si De Logu ne se maintient pas, la consigne serait un "désistement républicain" sans fusion, pour pousser LR à se désister pour le PS plutôt que pour le RN.
+
 ## Vidéos où Payan est analysé
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Victoire analysée, regret du retrait de De Logu
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Analyse pré-électorale : annoncé à 35 %, risque moïsation via Vassal (LR) vers Alisio (RN)

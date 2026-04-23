@@ -45,8 +45,19 @@ Cela ne contredit pas l'analyse sur "la bonne attitude" dans d'autres contextes 
 
 [^rousseau_motion]: [16:06](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=966) — "Sandrine Rousseau aussi qui était très là-dedans [...] non je vais jamais avec le RN [...] alors que la vie des gens qui sont en jeu"
 
+## L'appel à voter Estrosi et le double jeu (mars-avril 2026)
+
+La PaduTeam revient sur l'appel de Rousseau à se désister pour voter Estrosi (Nice, centre-droite) au second tour. Cet exemple illustre la contradiction structurelle de la logique noisette-barragiste : dans une ville ils disent de voter Dati contre Grégoire, dans une autre de voter Estrosi contre Dati. "Dans une ville ils peuvent te dire faut se désister pour Estrosie et dans l'autre ville ils peuvent te dire dati c'est Knafo tu vois. Alors je suis désolé Dati elle est sûrement à gauche d'Estrosie." La boussole noisette n'est pas la ligne mais le "moins pire" situationnel, qui varie d'une ville à l'autre sans cohérence.[^rousseau-estrosi]
+
+Plus durement encore, la PaduTeam lui reproche un double jeu systématique : elle utilise la solidarité de la gauche radicale (communistes, FI) pour défendre sa radicalité dans les moments chauds, mais laisse passer les votes problématiques de son groupe (vote contre les symboles communistes au Parlement européen) en prétextant l'ignorance. "Je lui dis 'Pourquoi votre parti il vote pour interdire les cycles communistes et tout au Parlement européen ?' Et là, je suis pas au courant." "Elle est pas loyale."[^rousseau-loyale]
+
+[^rousseau-estrosi]: [12:54](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=774) — "Dans une ville ils peuvent te dire faut se désister pour Estrosie et dans l'autre ville ils peuvent te dire dati c'est Knafo tu vois. Alors je suis désolé Dati elle est sûrement à gauche d'Estrosie tu vois."
+[^rousseau-loyale]: [23:44](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=1424) — "En fait, elle est au courant de rien quand son parti fait des choses. Quand il faut par contre venir à son aide parce que serait plus à gauche que tonelier machin, elle est très contente que les communistes et que la France insoumise la soutienne. Elle est pas loyale."
+
 ## Vidéos où l'individu est analysé
 - [[Faure oblige de trahir]] — Citée comme exemple de la bonne attitude dans l'espace bourgeois progressiste
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Comment Tondelier a pris son positionnement "grande gueule féminine" sans son programme radical
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Empêchée à la primaire des noisettes, prise de misogynie, diversité de lignes au sein d'EELV
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — citée comme exemple de l'antifascisme moral abstrait ("non je vais jamais avec le RN") face à l'antifascisme de terrain de [[Raphael Arnaud]]
+- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Appel à voter Estrosi décortiqué comme illustration de l'incohérence barragiste (Estrosi > Dati > Knafo selon les villes). Double jeu : vote contre les symboles communistes au PE sans en assumer la responsabilité. "Elle est pas loyale."
+- [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] - Dans la fracture post-municipales, Rousseau appelle à « s'émanciper du PS » : « Nous sommes devenus les vassaux du PS. » Elle accuse les socialistes d'avoir fait perdre Strasbourg et Poitiers en s'alliant avec la droite. Son positionnement est symétrique et inverse de Jadot : là où Jadot veut s'affranchir de Mélenchon, elle veut s'affranchir du PS — révélant une fois de plus l'impossibilité de toute cohérence de ligne chez EELV.

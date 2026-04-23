@@ -51,10 +51,17 @@ C'est le pacte raciste appliqué à la santé publique : au lieu d'attaquer les 
 
 [^mamadou_etat]: [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — réunion Élysée automne 2023, rapportée par *Le Monde*
 
+## Application à l'élection de Bally Bagayoko (municipales 2026)
+
+L'élection au premier tour de [[Bally Bagayoko]] comme maire de Saint-Denis offre un cas d'école du pacte raciste appliqué au champ électoral. Immédiatement après la victoire, les médias d'extrême droite (Frontière sur CNews, journaliste de Valeurs Actuelles sur BFM TV) déploient le même mécanisme : insinuations de fraude électorale, accusations de liens avec les narcotrafiquants, question "dans la main de qui êtes-vous ?" posée à un élu parfaitement légitime.
+
+La PaduTeam décrypte : la requalification des électeurs populaires racisés en "narcotrafiquants" est la forme électorale du pacte raciste. Quand le vote populaire produit un résultat acceptable (droite, PS modéré), les classes populaires sont reconnues comme telles. Quand il produit un élu LFI noir, ces mêmes électeurs sont reclassés comme "immigration africaine et arabo-musulmane" — niant leur citoyenneté française. Le pacte raciste opère ici non pas pour gérer une pénurie matérielle, mais pour invalider une victoire démocratique.
+
 ## Vidéos clés
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Confrontation avec [[Lumir Lapray]] ([[Backseat]]) qui sépare racisme et problèmes matériels. La PaduTeam démontre que les deux sont indissociables et que le débunkage du RN ne suffit pas.
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — Approfondissement par Stathis : néolibéralisme racial, anti-étatisme populaire, démantèlement du logement social comme stratégie RN
 - [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — pacte raciste appliqué à l'hôpital public par le président de la République lui-même
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — pacte raciste appliqué à l'invalidation d'une victoire électorale populaire : requalification des électeurs citoyens français en "immigration" dès que le résultat ne convient pas
 
 ## Le pacte racial américain — Trump 2024
 

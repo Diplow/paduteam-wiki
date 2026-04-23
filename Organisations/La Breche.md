@@ -61,6 +61,8 @@ L'objectif est de créer le lien entre la production médiatique et l'action con
 
 Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam dresse un bilan organisationnel précis : **une quarantaine de membres** (contre quelques membres au lancement). Quatre salariés, soit trois équivalents temps plein (deux monteurs, un graphiste, un organisationnel), plus des prestations ponctuelles (Guim : 3-4 fois par an, captation événements). Objectif tipi : **15 000€ de dons récurrents mensuels** — choix délibéré des dons récurrents sur les dons ponctuels car les CDI ne peuvent reposer sur du ponctuel. La vidéo explicite aussi la règle de croissance : "on ne peut pas faire adhérer 500 personnes d'un coup dans l'association" — les nouveaux adhérents doivent trouver leur place dans des sections locales structurées, avec des formations préalables.
 
+Fin mars 2026 (veille des municipales), la PaduTeam précise : **"près de 45 membres"**, avec des sections locales actives (mention explicite de la section de Rouen comme "très active"). Projets annoncés lors de l'appel aux dons : podcast **"Des voix de l'exploitation"** (chroniques d'expériences au travail), [[Positions Revue]] en format papier, mise à disposition libre du [[Le Graphique comme outil|Graphique]] via le site de Positions Revue, pôle de militantisme de terrain, cycle de formations théoriques et militantes, deux "gros événements" en 2026. Campagne Plus jamais PS close avec **~12 000 affiches** collées. Partenariat anti-impérialiste formalisé avec [[Resistance et Solidarite]] (Marseille) autour des actions de solidarité avec Cuba.
+
 ## Vidéos clés
 - [[PADUSTREAM C'EST DEJA FINI]] — capsule officielle d'annonce de la création de La Brèche et des projets 2025
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — épisode 4, avec Stathis Kouvelakis, entre les deux tours des législatives 2024
@@ -69,6 +71,7 @@ Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam dresse un bilan orga
 - [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — La Brèche présentée comme modèle d'association militante décapitalisée ; exposé des revenus réels (≈1000€ Tipeee + 2500€ YouTube) et de leur usage militant
 - [[PADUTEAM C'EST FINI]] — annonce de la fermeture de Twitch ; bilan stratégique automne 2025 ; articulation militantisme internet / terrain
 - [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — bilan organisationnel mars 2026 : quarantaine de membres, 4 salariés (3 ETP), objectif 15 000€ de dons récurrents mensuels, règle anti-gonflement rapide, projet locaux et documentaires
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Appel aux dons en fin de vidéo : 45 membres, podcast "Des voix de l'exploitation", Positions Revue papier, Graphique en accès libre, 12 000 affiches Plus jamais PS collées, 2 gros événements en 2026 ; mention de la section Rouen très active
 
 ## Intervenants conférence Poitiers (6 mai 2025)
 - [[Padu]] — youtubeur, cofondateur La Brèche

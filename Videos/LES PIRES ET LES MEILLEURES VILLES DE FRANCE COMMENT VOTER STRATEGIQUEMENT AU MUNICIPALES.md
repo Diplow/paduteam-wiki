@@ -19,7 +19,7 @@ Veille du premier tour des municipales de mars 2026. La PaduTeam passe en revue 
 
 La thèse transversale : les municipales révèlent les blocs sociaux à l'état pur — la sociologie locale détermine le paysage politique, et les résultats de la présidentielle 2022 par ville sont le meilleur étalon pour lire les sondages.
 
-## Grille d'analyse : le [[Graphique comme outil|Graphique]] appliqué ville par ville
+## Grille d'analyse : le [[Le Graphique comme outil|Graphique]] appliqué ville par ville
 
 La PaduTeam utilise les résultats du premier tour de la présidentielle 2022 comme boussole pour chaque ville. Chaque commentaire de sondage municipal est calibré sur la structure sociologique locale :
 - **Villes "Jado haute"** (Rennes, Nantes, Lille, Rouen) : gauche bourgeoise significative, Jadot 7-10 %, Mélenchon fort (33-40 %), RN faible (7-11 %). Terrain favorable à LFI mais risque noisette.
@@ -143,13 +143,13 @@ Consigne Chikirou : si elle fait 10-12 %, ne pas se maintenir mais négocier des
 Alerte principale : bloc protofasciste Dati-Knafo potentiellement à ~40 %. "Faire tomber Paris à droite voire dans une config protofasciste, c'est un peu dangereux." Comparaison avec New York passée sous Mamdani.[^paris]
 
 ### Nice
-- Eric Ciotti (UDR-RN) : **38 %**
+- [[Eric Ciotti]] (UDR-RN) : **38 %**
 - Christian Estrosi (Horizon, sortant, ex-LR) : **32 %**
 - Total droite + extrême droite : **~70 %**
 - Bloc noisettes (PS-Verts-PCF) : **12 %**
 - LFI : **11 %**
 
-"Cette ville est un cauchemar absolu. Quand vous mettez trop de vieux riches au même endroit, ça vous donne des catastrophes politiques." La PaduTeam reconnaît ne pas avoir de solution pour la gauche niçoise : "Tenez la ligne. Je sais pas. Sur un malentendu, un coup de canicule."[^nice]
+Ciotti a été rejoint par Jean-Marc Governatori (élu écolo de droite, renvoyé du conseil régional PACA) — illustration d'une fusion délirante entre écolo zinzin de droite et droite d'extrême droite. La PaduTeam reconnaît ne pas avoir de solution pour la gauche niçoise : "Quand vous mettez trop de vieux riches au même endroit, ça vous donne des catastrophes politiques." Deux pistes évoquées : (1) fusionner les listes PS+LFI pour atteindre ~23 % et construire une opposition solide au conseil municipal ; (2) se désister pour Estrosi pour éviter Ciotti. Aucune jugée satisfaisante. "Tenez la ligne. Je sais pas. Sur un malentendu, un coup de canicule."[^nice]
 
 ## Thèse théorique centrale : les municipales comme répétition de 2027
 
@@ -165,7 +165,7 @@ La PaduTeam mentionne avoir collé **près de 12 000 affiches** "Plus jamais PS"
 
 La vidéo s'achève sur un appel au financement de l'association [[La Brèche]]. Elle compte alors **près de 45 membres** (contre une dizaine quelques mois plus tôt). Objectif : **15 000 € de dons réguliers**. Projets annoncés : podcast "Des voix de l'exploitation", Positions Revue en format papier, mise à disposition libre du [[Le Graphique comme outil|Graphique]] via le site de Positions Revue, pôle de militantisme de terrain, cycle de formations théoriques et militantes, deux "gros événements" en 2026.[^financement]
 
-Partenariat anti-impérialiste signalé : **Résistance et Solidarité** (camarades marseillais), qui envoie un conteneur de matériel médical à Cuba après une levée de fonds réussie. Présidente : [[Mélanie Luce]] (compagne d'Olivier Mathieu, CGT).
+Partenariat anti-impérialiste signalé : [[Resistance et Solidarite|Résistance et Solidarité]] (camarades marseillais), qui envoie un conteneur de matériel médical à Cuba après une levée de fonds réussie. Équipe citée : [[Olivier Matheu]] (président, CGT), Mélanie, Aurélien, Jean-Michel, Nicolas, Yumna, Sibel.
 
 ## Individus mentionnés
 
@@ -174,14 +174,20 @@ Partenariat anti-impérialiste signalé : **Résistance et Solidarité** (camara
 - [[Sarah Knafo]] — Reconquête Paris, bloc protofasciste potentiel avec Dati
 - [[Rachida Dati]] — LR-Modem Paris, "propre agenda", n'exclut pas fusion avec Knafo
 - [[Francois Piquemal]] — candidat LFI Toulouse, "guerre des François" contre Brigançon (PC-PS)
-- [[Julien Sanchez]] — RN Nîmes, vice-président RN, fils de la "nouvelle génération" RN
+- [[Julien Sanchez]] — RN Nîmes, vice-président RN, "nouvelle génération RN", adhéré FN à 17 ans
 - [[David Guirot]] — candidat LFI Roubaix, annoncé à 44 %
 - [[Lahouaria Addouche]] — candidate LFI Lille, 19 %
 - [[Marie Mesmer]] — candidate LFI Rennes, bien positionnée en 2e place
 - [[Benoit Payan]] — maire PS Marseille sortant, 35 %
 - [[Franck Alisio]] — candidat RN Marseille, "quelqu'un d'important que le RN veut placer à Marseille"
-- [[Nicolas Mayer-Rossignol]] — "baron PS aile droite, pro-Glucksmann, pro-Hollande", Rouen
+- [[Nicolas Mayer-Rossignol]] — "baron PS aile droite, pro-Glucksmann, pro-Hollande, anti-NFP", Rouen
 - [[Marianne Maximi]] — candidate LFI Clermont-Ferrand, 14-15 %
+- [[Emmanuel Gregoire]] — "liste de la gamelle" Paris, PS+PCF+Écolos+Castets+Simonet+Loufot ; a dit "aucun accord avec la France insoumise"
+- [[Eric Ciotti]] — candidat UDR-RN Nice, 38 % ; illustration de la fusion droite+extrême droite dans le sud
+
+## Les petites communes et les sénatoriales — angle oublié
+
+La PaduTeam ouvre une parenthèse sur les petites communes où les règles électorales ont changé ("on n'a plus le droit de panacher") rendant la constitution de listes difficile. Dans ces villages, le conseil municipal est souvent une affaire de voisinage sans enjeu partisan direct. Consigne cependant : **aller mettre la pression aux maires sur leur vote au sénatorial**, en interpellant directement les maires sur leurs intentions, car "personne ne leur met jamais la pression sur ces trucs-là."[^petites-communes]
 
 ## Wikilinks thématiques
 
@@ -204,6 +210,7 @@ Partenariat anti-impérialiste signalé : **Résistance et Solidarité** (camara
 [^rennes]: [30:31](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=1831) — "Marie, faut qu'elle se maintienne. Voilà, pour qu'elle affronte plus jamais PS. On envoie des affiches plus jamais PS à Rennes, Tours là."
 [^lille]: [37:19](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=2239) — "Il y a peut-être même un petit coup de Trafalgar de fusion des listes écolo et FI contre PS-PC. Là, il y a un truc à faire."
 [^marseille]: [46:10](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=2770) — "On pourrait avoir deux blocs vraiment quasi-identiques [...] c'est très très dangereux parce que là on pourrait effectivement faire passer le RN."
+[^petites-communes]: [1:02:47](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=6167) — "Dans les petites communes, par contre ce qu'il ne faut pas oublier, c'est d'aller mettre la pression à vos maires sur leur vote au sénatorial parce que personne va jamais aller les chercher sur ces trucs-là."
 [^paris]: [49:47](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=2987) — "Faire tomber cette ville à droite voire même dans une config de droite protofasciste avec Knafo, c'est un peu dangereux [...] c'est Paris, c'est là où il y a quand même beaucoup de cultures, des associations éducatives et cetera, de grosses associations militantes politiques."
 [^nice]: [58:38](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=3518) — "Soit il y a une gauche d'opposition au conseil municipal à construire forte peut-être à 25 % [...] ou alors faut se désister pour avoir continuer avec Estrosie. Vraiment, j'ai pas de solution pour vous les camarades de gauche de Nice."
 [^alliances]: [05:08](https://www.youtube.com/watch?v=j3i6i2FI5YE&t=308) — "C'est très facile pour des gens qui ont les mêmes idées et les mêmes visions du monde et les mêmes intérêts matériels [...] de s'unir. Par contre, quand il s'agit d'avoir l'hégémonie sur un bloc, bah là, ils ont du mal à se ranger derrière un autre."

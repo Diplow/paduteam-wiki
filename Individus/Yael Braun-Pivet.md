@@ -22,3 +22,4 @@ Suite à la mort de [[Quentin Deranque]], elle fait tenir une minute de silence 
 
 ## Vidéos où Braun-Pivet est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — la formulation "le jeune Quentin" décortiquée comme technique d'infantilisation pour créer de l'empathie : "cette espèce de familiarisation, tu sais c'est vraiment pour créer de l'empathie" — alors que l'enquête Mediapart révèle que ce "jeune" était un militant néonazi structuré
