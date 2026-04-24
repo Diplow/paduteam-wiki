@@ -78,7 +78,17 @@ L'annonce officielle de la primaire des noisettes (date du 11 octobre, mode de s
 
 La PaduTeam rappelle la prophétie en direct : dans leur projection, Tondelier et Ruffin se séparent au moment décisif. Tondelier va à la primaire. Ruffin — la question est encore ouverte : ira-t-il seul ou pas ?
 
+## La promesse Hollande comme confirmation (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], Hollande formule publiquement ce que la prophétie prévoyait théoriquement : "Au deuxième tour il n'y aura pas Jean-Luc Mélenchon présent à l'élection. J'en prends ici à la fois la promesse, l'engagement et le pari."[^holl-promesse-prop] Pour la PaduTeam, cette formulation est le signe que Hollande croit lui-même à la prophétie — et qu'il travaille activement à la réaliser. Il ne prédit pas la prophétie : il l'organise. Sa stratégie de nassage (enfermer la FI dans "extrême gauche violente"), ses projections chiffrées implicites (bloc macroniste + noisettes = 16-18%), et son refus d'alliance au municipal ET au présidentiel sont les pièces opérationnelles du scénario du 2002 inversé.
+
+La PaduTeam réagit "premier degré, je suis pas bien" — reconnaissant qu'un homme "sûr de lui, qui a une stratégie, qui arrive avec un truc clair, qui a un appareil de parti derrière lui, qui a des relations, qui a une alliance avec Macron" peut effectivement avoir raison.[^holl-surnaturel]
+
+[^holl-promesse-prop]: [31:33](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1893) — "Au deuxième tour il n'y aura pas Jean-Luc Mélenchon présent à l'élection. J'en prends ici à la fois la promesse, l'engagement et le paris."
+[^holl-surnaturel]: [32:03](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1923) — "Je vois un gars qui est sûr de lui qui a une stratégie qui arrive avec un un truc clair qui a un appareil de partie derrière lui qui a des relations, qui a une alliance avec Macron."
+
 ## Vidéos où le concept est analysé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Confirmation opérationnelle : Hollande promet publiquement que Mélenchon ne sera pas au second tour, décortiquage du nassage comme méthode de réalisation active de la prophétie, projections chiffrées (Hollande 18% / Mélenchon 14%)
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — La version initiale de la prophétie (second tour Mélenchon/Le Pen) : Mélenchon à 16,86 %, Le Pen à 19,8 %, victoire 58,2 % / 41,8 %. Inclut l'analyse Graphique de 2002, 2022 et 2027. Différente de la "prophétie du 2002 inversé complet" (variante Hollande) — c'est ici le scénario "standard" où c'est bien Mélenchon/Le Pen au second tour[^initial]
 
 [^initial]: [43:01](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2581) — "C'est Jean-Luc Mélenchon qui a fait une remontée spectaculaire avec 58,2 % des voix contre 41,8 % pour Marine Le Pen."

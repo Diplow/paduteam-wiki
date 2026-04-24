@@ -47,10 +47,26 @@ L'Iran contrôle le détroit d'Ormuz, point de passage obligatoire pour les expo
 ## Concepts liés
 [[Crise de l'hegemonie americaine]], [[Anti-imperialisme]], [[Guerre psychologique imperialiste]], [[Baisse tendancielle du taux de profit]]
 
+## Le graphique sur 6 mois : la manipulation du prix comme levier géopolitique
+
+La PaduTeam lit les fluctuations du prix du baril comme un code géopolitique direct (source : prixdubaril.com). Sur la période septembre 2025 – mars 2026 :
+
+1. **Septembre 2025** : prix déjà très bas → interventions en Iran et au Moyen-Orient → légère remontée
+2. **Fin octobre – début novembre** : Trump menace le Venezuela → remontée → rien ne se passe → rechute
+3. **Même niveau très bas** → intervention au Venezuela (réquisition de cargos russes) → remontée à 6-71 dollars
+4. **Suite** : interventions en Iran → baril monte plus haut → retombe car pas de demande mondiale supplémentaire
+
+La conclusion : "Tout ça, ce sont des mécanismes de pure déstabilisation de marché [...] des mécanismes qui sont arbitraires à cause de l'impérialisme et des interventions de Trump. Ce n'est pas du tout des effets de demande."[^graph]
+
+Sur la longue durée (depuis 2022) : le baril ne fait que descendre structurellement depuis la fin de la crise ukrainienne. Trump tente de le remonter par des chocs d'offre mais sans choc mondial de demande, les effets sont ponctuels. Les USA perdent progressivement ce levier.
+
+[^graph]: [37:13](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=2233) — "Tout ça, ce sont des mécanismes de pure déstabilisation de marché pour être clair, c'est-à-dire des mécanismes qui sont arbitraires à cause de l'impérialisme et des interventions de Trump. Ce n'est pas du tout des effets de demande."
+
 ## Vidéos où le concept est développé
 - [[L'IRAN L'EMPIRE LES IRANIENS]] — mention du blocus économique iranien
 - [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — démonstration complète du mécanisme Trump → pétrole → dollar
 - [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — effondrement du prix post-guerre, baisser → menace Cuba
+- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]] — graphique 6 mois : manipulation du baril comme levier géopolitique ; déclin structurel depuis 2022 ; emploi pétrolier en chute
 
 [^1]: [35:21](https://www.youtube.com/watch?v=yPJKov273gs&t=2121) — "dès que ça commence à atteindre les 60 dollars, c'est-à-dire la rentabilité du gaz de schiste américain... il y a une intervention"
 [^2]: [37:56](https://www.youtube.com/watch?v=yPJKov273gs&t=2276) — "on est revenu à 83 dollars. Vous voyez, on est revenu à un niveau qu'on avait jamais atteint depuis juillet 2024"

@@ -35,6 +35,7 @@ La PaduTeam note que l'analyse générationnelle est partagée par des penseurs 
 ## Vidéos où le concept est développé
 
 - [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — démolition en règle de l'analyse générationnelle par Rochedy, avec les contre-exemples historiques et la contextualisation matérielle de l'âge
+- [[PRAUD ET MENARD EN SUEUR LEURS ENFANTS VOTENT MELENCHON]] — Le cadre « crise d'adolescence » appliqué aux enfants de Praud/Ménard est retourné : c'est leur père qui fait une [[Crise de senilite|crise de sénilité]]. L'âge n'explique pas le vote — la place dans les rapports de production et la possibilité de tenir l'ordre existant, oui.
 
 [^1]: [9:49](https://www.youtube.com/watch?v=chanQENWcJI&t=589) — "la jeunesse c'est aussi un rapport social nouveau et moderne qui n'existait pas il y a encore plein d'années... nos sociétés modernes ont créé un espace où il y a beaucoup d'éducation, beaucoup de formations qui crée justement cet espace de la jeunesse"
 [^2]: [12:25](https://www.youtube.com/watch?v=chanQENWcJI&t=745) — "les gens qui travaillent de nuit ont une espérance de vie qui est quasiment 10 ans inférieure à la moyenne... l'âge des artères n'est pas un truc objectif. Ça dépend du contexte des rapports sociaux des gens, de leur place dans la société"

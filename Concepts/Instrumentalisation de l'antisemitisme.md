@@ -59,6 +59,18 @@ Meyer Habib fournit les cas les plus spectaculaires d'instrumentalisation :
 
 - **[[Bernard-Henri Levy|BHL]] soirée "contre l'antisémitisme"** avec [[Douglas Murray]] ([[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]]) : inviter un personnage qui juge le monument de la Shoah "trop culpabilisant" à une soirée contre l'antisémitisme. Et vieux invité déclarant "taxer les riches = taxer les Juifs" — syllogisme qui révèle un antisémitisme réel (les Juifs = les riches) chez celui qui prétend défendre les Juifs.
 
+## L'opération Epstein/Mélenchon — fabrication d'un fait antisémite (mars 2026)
+
+L'affaire de la prononciation "Epstein" par Mélenchon au meeting de Lyon (février 2026) est analysée par la PaduTeam comme le cas le plus pur de **fabrication d'un fait antisémite là où il n'en existe pas**. Mélenchon a simplement utilisé la prononciation germanique standard du suffixe "-stein" (comme "Einstein", "Frankenstein", "Rubinstein") — ce que Plenel lui-même fait sur des dizaines d'autres noms sans que personne n'y voie de l'antisémitisme[^pl1].
+
+Thèse centrale : "Faire croire que des gens n'auraient pas été antisémites parce qu'au lieu de dire Epstein on dit Epstine — vraiment, vous prenez les gens qui sont antisémites pour des imbéciles, et vous ne les combattez pas à la hauteur de la violence dont ils sont capables."[^pl2] La prononciation n'est pas la cause de l'antisémitisme — elle en est, dans certains contextes, une manifestation. Inverser cause et conséquence, c'est affaiblir le combat réel contre l'antisémitisme.
+
+Par ailleurs, la PaduTeam note que l'obsession de Plenel pour la judéité des noms (while ignorant islamophobie, racisme anti-Noir, etc.) révèle quelque chose : "Le fait que Edwy Plenel et les gens qui l'ont relayé soient aussi préoccupés par des prononciations de gens au nom juif, c'est que ils ont une obsession pour les juifs aussi."[^pl3]
+
+[^pl1]: [15:30](https://www.youtube.com/watch?v=WctyXuw_zss&t=930) — « Si c'est vraiment le cœur du cœur de la lutte contre l'antisémitisme cette prononciation de syllabe, comment ça se fait qu'on peut trouver 1000 vidéos où il dit Stein ou Letztin sur ce genre de patronyme notre ami Edwy Plenel ? »
+[^pl2]: [26:20](https://www.youtube.com/watch?v=WctyXuw_zss&t=1580) — « Faire croire que des gens n'auraient pas été antisémites parce qu'au lieu de dire Epstein on dit Epstine — vraiment, vous prenez les gens qui sont antisémites pour des imbéciles, et vous ne les combattez pas à la hauteur de la violence dont ils sont capables. »
+[^pl3]: [27:50](https://www.youtube.com/watch?v=WctyXuw_zss&t=1670) — « Le fait que Edwy Plenel et les gens qui l'ont layé soient aussi préoccupés par des prononciations de gens au nom juif, c'est que ils ont une obsession pour les juifs aussi. »
+
 ## Vidéos où le concept est développé
 - [[GAZA LES SIONISTES TUENT DES MEDECINS]] — la PaduTeam sur la pression au Conseil de l'Ordre et l'instrumentalisation comme danger pour les juifs eux-mêmes
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — La PaduTeam : Netanyahu prend les juifs mondiaux en otage politique
@@ -71,3 +83,4 @@ Meyer Habib fournit les cas les plus spectaculaires d'instrumentalisation :
 - [[SOPHIA ARAM LA PRO-ISRAEL LA + CRINGE]] — "Silence assourdissant" instrumentalisé ; inversion du réel médiatique
 - [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]] — Prix LICRA comme officialisation institutionnelle ; "prix de soutien au génocide" selon la PaduTeam
 - [[LA SOIREE DE BHL DERAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS]] — Syllogisme "taxer les riches = taxer les Juifs" ; antisémitisme révélé chez celui qui prétend lutter contre lui
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Cas d'école de fabrication d'un fait antisémite à partir de rien (prononciation germanique standard) ; déconstruction du mécanisme ; retournement de l'accusation sur Plenel lui-même

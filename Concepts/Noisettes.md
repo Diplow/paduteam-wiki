@@ -159,7 +159,19 @@ Pendant ce temps, des cadres du conseil municipal de Paris (Émile Menier, Jér�
 
 [^purge-equilibriste]: [38:47](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2327) — "Le risque en perdant 400 ou 500 militants de gauche, c'est que Jado réémerge parce qu'il sera plus à droite qu'elle et prenne le pouvoir." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
+## Le casse-noisette accéléré par la mort de Deranque (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], Hollande force le binaire — "France insoumise ou pas France insoumise" — en utilisant la violence de la mort de Deranque. Les noisettes (EELV, Garrido, etc.) se retrouvent dans une position intenable : elles ne peuvent pas balancer la FI sous le bus (sinon elles perdent tout espace électoral vers les insoumis) mais ne peuvent pas non plus soutenir clairement la FI (sous peine d'être associées à la violence).
+
+Résultat : "les noisettes je te dis parce que quand tu es là à dire 'Ah mais moi je condamne pas la France insoumise tu sais comme Garido mais je condamne Mélenchon' — en fait tu as déjà perdu aussi."[^nois-deranque] Une position de noisette "très flou" qui "fait avancer justement la ligne de Hollande qui pour le coup est la ligne la plus claire."
+
+Hollande force également les écologistes à choisir sur la primaire : il prend leurs mairies au municipal, puis dit "pour la présidentielle la primaire c'est quand même pas top" — absorbant l'alliance et refusant la contrepartie. Les noisettes bêtes et sois-disantes qui pensaient monnayer leur soutien municipal contre une primaire se font "baiser" en deux temps.[^nois-ecolos]
+
+[^nois-deranque]: [30:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1800) — "les noisettes de toute façon vont avoir une position de noisette [...] donc en fait c'est des positions très flou et qui font avancer justement la ligne de Hollande"
+[^nois-ecolos]: [23:47](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1427) — "les écologistes font alliance avec eux au municipal pour espérer leur primaire [...] Et lui il dit les écologistes bon font agence avec nous pour les municipal donc il prend l'alliance il prend les grosses mairies et il dit pour ce qui est de la présidentielle la primaire c'est quand même pas top"
+
 ## Vidéos clés
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Hollande force le binaire "FI ou pas FI" sur les noisettes via la mort de Deranque : les écologistes se font prendre leur soutien municipal sans obtenir de contrepartie sur la primaire ; les noisettes coincées entre condamner la violence (trahir la FI) et ne pas condamner (s'associer à la violence)
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — La primaire noisette 2027 et ses candidats

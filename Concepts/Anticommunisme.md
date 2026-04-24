@@ -70,8 +70,28 @@ La PaduTeam recommande de bannir le mot du vocabulaire de gauche — "si on pouv
 
 [^totalit]: [32:23](https://www.youtube.com/watch?v=vzhzJUUjx28&t=1943) — "À gauche, si on pouvait éviter de ramener le concept de totalitarisme comme une espèce d'insulte qu'on balancerait à autrui alors qu'en fait c'est un gros CSC parce que ça va nous revenir en boomerang sur Mélenchon disant Mélenchon est totalitaire."
 
+## L'anticommunisme de plateau : Onfray et la « matrice communiste »
+
+La PaduTeam distingue l'anticommunisme intellectuellement sérieux de l'anticommunisme de plateau. [[Michel Onfray]] dans le JDD (2026) incarne le second à l'état pur : il cherche les racines du communisme dans la *République* de Platon, produisant une série de contresens accumulés.
+
+**Mécanisme type** : prendre un texte antique ou une pratique historique qui ressemble superficiellement à du collectivisme, lui coller l'étiquette « communisme », et conclure que le communisme est constitutif de toute velléité autoritaire depuis l'Antiquité. Onfray applique la généalogie nazie (Platon → raison → Marx → Staline = totalitarisme) sans en voir la filiation nietzschéenne explicite : Nietzsche détestait Platon et le rationalisme, et la destruction de la raison produit la vérité des forts contre la vérité des faibles.
+
+**La propriété privée comme mauvaise foi** : Onfray accuse le communisme d'abolir toute propriété. Marx y répond dans le *Manifeste* : le capitalisme exclut la majorité de toute propriété, et c'est la propriété **lucrative** (posséder pour faire travailler autrui) qui est visée, pas la propriété individuelle que Marx considère comme « le premier des droits ».[^onfray]
+
+**L'inversion** : les pratiques qu'Onfray attribue au communisme (eugénisme, classes hermétiques, extermination des enfants mal formés, imperméabilité sociale) décrivent en réalité le fascisme et la féodalité. La PaduTeam note : remplacer « communisme » par « fascisme » dans l'article produit un texte cohérent. Ce glissement révèle que l'anticommunisme de plateau est moins une critique du communisme qu'une opération de blanchiment du fascisme.
+
+[^onfray]: [32:06](https://www.youtube.com/watch?v=XNDOTTLHxH8&t=1926) — "l'abolition de la propriété privée lucrative, c'est l'abolition du capital, le fait de posséder quelque chose pour faire travailler autrui — pas la propriété individuelle"
+
+## "Stalinien" comme insulte de plateau médiatique
+
+Titre de la vidéo [[MELENCHON LE STALINIEN TRIE LES MEDIAS]] : le terme "stalinien" n'est pas utilisé par la PaduTeam pour qualifier Mélenchon — c'est le mot mis dans la bouche des journalistes mainstream comme accusation. [[Marcel Gauchet]] reproche à LFI d'avoir un "noyau de vieille gauche communiste" et de ne pas avoir la "discipline" des staliniens — ce qui en fait paradoxalement une menace par l'anarchisme. La PaduTeam retourne l'argument : ce que Gauchet appelle "discipline", c'est l'acceptation du cadre bourgeois (porter une cravate, ne pas insulter Retailleau, accepter l'aide médicale d'État supprimée sans protester). La vraie discipline militante, c'est la coordination organisée dans le combat contre l'ennemi — pas la soumission à l'ordre établi.[^stalinien]
+
+[^stalinien]: [35:37](https://www.youtube.com/watch?v=w48MPIjGHOE&t=2137) — "Ce que nous on entend par discipline de parti n'est pas du tout ce que Marcel Gauchet entend par 'ça plairait pas aux staliniens'. [...] Nous la discipline c'est d'être capable d'aller taper très fort sur l'ennemi mais d'y aller de manière coordonnée, organisée, structurée."
+
 ## Vidéos de référence
 
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Analyse centrale, déconstruction du chiffre, affaire des stèles à Saint-Raphaël
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Mécanisme du piège médiatique anticommuniste, reniement vs dépassement
 - [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — Déconstruction du concept de "totalitarisme" comme outil anticommuniste retourné contre le capitalisme ; risque de boomerang
+- [[ONFRAY DEBUNK DEFINITIVEMENT LE COMMUNISME]] — Onfray décrit la féodalité/le fascisme sous le nom du communisme ; généalogie nazie Platon→Staline ; confusion propriété individuelle / propriété lucrative
+- [[MELENCHON LE STALINIEN TRIE LES MEDIAS]] — Usage de "stalinien" comme insulte médiatique anti-LFI ; déconstruction gauchetiste de la "discipline" ; retournement du concept
