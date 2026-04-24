@@ -31,7 +31,7 @@ VAULT_ROOT        = os.path.normpath(os.path.join(SCRIPT_DIR, "..", ".."))
 TRACKING_FILE     = os.path.join(VAULT_ROOT, "PADUTEAM_CHRONOLOGIQUE.md")
 LOG_PATH          = os.path.join(SCRIPT_DIR, "run_ingest.log")
 RATE_LIMIT_SLEEP  = 7200   # 2h
-TIMEOUT_PER_BATCH = 3600   # 1h par batch
+TIMEOUT_PER_BATCH = 10800  # 3h par batch
 MAX_RETRIES       = 3
 CLAUDE_CMD        = "claude"
 
