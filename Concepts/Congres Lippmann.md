@@ -31,3 +31,4 @@ L'ordo-libéralisme allemand (école de Fribourg) est la variante germanique du 
 
 ## Vidéos où le concept est développé
 - [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]] — La PaduTeam redéfinit le néolibéralisme via le Congrès Lippmann pour montrer que le gaullisme en fait partie
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — Mobilisé pour expliquer pourquoi [[David Lisnard]] est un libertarien du 19e siècle, pas un néolibéral : il ignore que le Congrès Lippmann a justement tiré les leçons de l'échec du laisser-faire

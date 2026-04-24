@@ -42,6 +42,12 @@ La PaduTeam commente : Bompard "se régale un peu" — les médias ont passé de
 
 [^bompard-regale]: [43:57](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2637) — "les médias passent leur temps à dire que il y a des purges à la France insoumise et là c'est des purges à donc il doit un peu se régaler Bompard. Là, c'est des vrais purges en plus."
 
+## L'offre fédérative à Roussel (avril 2026)
+
+Bompard lance une offre claire au [[Parti Communiste Francais]] et à [[Europe Ecologie Les Verts]] (pas au [[Parti Socialiste]]) : se ranger derrière la FI à la présidentielle = accord automatique pour les législatives 2027. "Pas d'accord présidentiel, pas d'accord législatif." La PaduTeam salue : "c'est notre ligne déjà."[^bompard-offre] L'offre a aussi pour effet stratégique de mettre en tension les minoritaires du PCF et d'EELV qui voudraient capter la dynamique LFI — Roussel s'en sort en verrouillant son congrès, mais la question des minoritaires reste ouverte.
+
+[^bompard-offre]: [2:05](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=125) — "La proposition de Manuel Bompard ça a été de dire 'Bah, nous on propose une offre fédérative, vous vous rangez derrière le candidat Jean-Luc Mélenchon ou le candidat de la FI et puis comme ça bah ça crée une alliance pour les législatives 2027 ensuite.'"
+
 ## Vidéos où Bompard est analysé
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
 - [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
@@ -49,3 +55,4 @@ La PaduTeam commente : Bompard "se régale un peu" — les médias ont passé de
 - [[DERNIERS JOURS DE BAYROU IL SE LACHE]] — présent à la table ronde "On ne veut plus" à la Grande Braderie de Lille le 6 septembre 2025 (LFI)
 - [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]] — Cité pour sa formulation sur le 21 septembre : "LFI soutient mais ne décide pas des dates." Posture de "mise au service du mouvement" valorisée par la PaduTeam comme la juste place du relais politique dans un moment de mobilisation sociale. La table ronde de Lille avec Bompard est disponible sur la chaîne YouTube On ne veut plus.
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Publie la correspondance EELV/FI révélant l'hypocrisie de la subsidiarité à géométrie variable de la direction écologiste. Fait remarquer que c'est EELV qui fait de vraies purges.
+- [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] — Son offre fédérative au PCF/ELV refusée par Roussel ; la PaduTeam juge l'offre intelligente et conforme à leur ligne stratégique.

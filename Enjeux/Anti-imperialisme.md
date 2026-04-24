@@ -322,6 +322,7 @@ Le cas israélien confirme la thèse : "Israël c'est un État qui se sent en s�
 - [[L'IRAN L'EMPIRE LES IRANIENS]] — Décryptage des manifestations début 2026, propagande impérialiste, fémonationalisme
 - [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Frappes US-Israël, Macron entre en guerre, Thomas Portes se déshonore
 - [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]] — L'Iran tient, défense mosaïque, Trump recule
+- [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Bilan après le cessez-le-feu : péage à Ormuz (70-90 Mds$/an, 20% du PIB iranien selon JP Morgan), l'Iran "plus fort qu'à n'importe quel moment de l'histoire moderne" ; articulation théorique contradiction principale (Mao) / tâche différenciée centre-périphérie ; antiracisme impérialiste comme point aveugle de la gauche ; annonce de la campagne "Printemps des peuples anti-impérialistes" par La Brèche
 - [[BERNARD ARNAULT LE PIRE ESCLAVAGISTE]] — le [[Développement du sous-developpement]] comme explication de la migration de travail ; l'impérialisme crée simultanément les conditions migratoires et l'exploitation ; les travailleurs africains sans-papiers comme avant-garde de la classe ouvrière portant l'affaire en justice ; Bernard Arnault + LVMH + Anavim comme structure de dissimulation de la responsabilité capitaliste
 
 [^ukr1]: [25:00](https://www.youtube.com/watch?v=yNSlkCVhLWM&t=1500) — "Il y a qu'un seul impérialisme. C'est l'impérialisme capitaliste. Poutine c'est quoi ? C'est un régime nationaliste expansionniste subalterne."

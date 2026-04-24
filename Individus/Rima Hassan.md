@@ -76,6 +76,10 @@ La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisatio
 
 [[Eric Naulleau]] fait de Rima Hassan la figure centrale de son scénario complotiste : LFI comme "idiots utiles" de l'islamisme, avec Rima Hassan jouant le rôle de Lénine face à [[Mathilde Panot]] (comparée à Ceaușescu lors de son dernier discours). La PaduTeam identifie immédiatement le recyclage antisémite : c'est exactement ce que la rhétorique de l'entre-deux-guerres faisait avec Léon Blum — une figure étrangère à la tête d'un parti populaire, qui "gangrenait" la France de l'intérieur. La fixation de Naulleau sur Rima Hassan est analysée comme la réaction d'un "vieux mec blanc qui comprend qu'il n'a plus le contrôle" : une femme arabe qui "le regarde dans les yeux" et qui "ne fait pas ce job" de soumission[^rima_nolo].
 
+## Tweet Lisnard / camée (avril 2026)
+
+[[David Lisnard]] tweete que Rima Hassan est "proterroriste [...] et camée avec l'argent des contribuables" au moment même où ses tests urinaires lors de sa garde à vue s'avèrent négatifs (CBD légal). La PaduTeam prévient Lisnard : "j'espère David que tu as un bon avocat car tu mérites d'être en bonne place sur la liste des gens qui vont se faire prendre par la patrouille." Elle compte intenter des procès à l'ensemble des personnes ayant relayé les intox — [[Caroline Fourest]] en tête.
+
 ## Vidéos où Hassan est mentionnée
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Éric Coquerel propose sa candidature à Saint-Ouen, ce qui déclenche la fureur de Bouamrane
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Épisode Karen/Tondelier : l'invitation de Rima Hassan par Mélenchon comme déclencheur de la polémique
@@ -89,5 +93,6 @@ La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisatio
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan
 - [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — citée parmi les actions de solidarité visibles (flotille, sit-ins) et la répression qu'elles subissent
 - [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau en fait le pivot du complot islamiste LFI ; la PaduTeam déconstruit l'analogie antisémite (Rima Hassan = Léon Blum)
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — tweet Lisnard "proterroriste et camée" (tests négatifs) ; analyse du racisme cannois ; annonce d'une vague de procès contre les diffuseurs d'intox
 
 [^rima_nolo]: [43:29](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=2609) — "il y a trop de dignité et trop de force dans Rima Hassan [...] ils comprennent qu'ils n'ont plus le contrôle sur ces femmes, cette femme, cette jeunesse et cetera"

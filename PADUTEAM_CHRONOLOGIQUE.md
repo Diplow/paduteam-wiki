@@ -729,21 +729,21 @@ Fiches créées : [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]],
 ---
 ## Batch 39 — Semaines 2026-W15 à 2026-W16 (6 avr 2026 – 19 avr 2026)
 
-Statut : ✅ fait (2026-04-23)
-Slug branche : ingest-batch/paduteam-2026-w15-w16
-Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], [[TONDELIER RETOURNE ENCORE SA VESTE]], [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]], [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] + 2 concepts (Loi Yadan, Ideologie entrepreneuriale), 1 organisation (Hors-Serie), 2 individus ébauches (Pierre Bournazel, Pierre Moskovic) + 14 concepts/individus enrichis + 4 enjeux enrichis
+Statut : ✅ fait (2026-04-23) — complété le 2026-04-24 (6 vidéos supplémentaires)
+Slug branche : ingest-batch/paduteam-2026-w15-w16 + ingest-batch/paduteam-2026-w15-w16-compl
+Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], [[TONDELIER RETOURNE ENCORE SA VESTE]], [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]], [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] + [[GUERRE IRAN-US TRUMP HEGEMONIE]], [[LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME]], [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]], [[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]], [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]], [[TONDELIER ENCEINTE ELLE POLITISE (MAL) SA GROSSESSE]] + concepts : Detroit d Ormuz, Strategie d equilibration bourgeoise + individus : JD Vance, Ahmed al-Shara, Helene Mercier Arnault, Marc-Olivier Fogiel, Maria Carolina de Bourbon des Deux-Siciles, Alain Madelin + orgas : Nouvelle Energie, Association des maires de France, Le Canard Enchaine + 12 enrichissements + 4 enjeux enrichis
 
 - [x] RIMA HASSAN : DR0GUE, GARDE À VUE, LOI YADAN !
 - [x] DÉBAT LORDON vs MÉLENCHON : GÉNIAL ou DÉCEVANT ?
 - [x] TONDELIER RETOURNE (encore) SA VESTE !
 - [x] GLUCKSMANN, DELGA, GUEDJ : LA TEAM CASSOULET FAIT BLOC CONTRE MÉLENCHON !
 - [x] JEUNES ENTREPRENEURS : LEURS BUSINESS INSUPPORTABLES !
-- [ ] GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ? ⚠️ transcript absent
-- [ ] La FEMME de BERNARD ARNAULT EXPLIQUE la PAUVRETÉ à LÉA SALAMÉ !! ⚠️ transcript absent
-- [ ] ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES ⚠️ transcript absent
-- [ ] BARDELLA et LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS ⚠️ transcript absent
-- [ ] DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ? ⚠️ transcript absent
-- [ ] TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE ! ⚠️ transcript absent
+- [x] GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ?
+- [x] La FEMME de BERNARD ARNAULT EXPLIQUE la PAUVRETÉ à LÉA SALAMÉ !!
+- [x] ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES
+- [x] BARDELLA et LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS
+- [x] DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ?
+- [x] TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !
 
 ---
 ## Batch 40 — Semaine 2026-W17 (20 avr 2026)

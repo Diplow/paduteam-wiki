@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
+skill_version: write-enjeu-2026-04-24-enrichi-w15-w16
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -271,6 +271,26 @@ Le corpus de janvier 2026 (W01-W02) produit la démonstration empirique la plus 
 **La rupture frontale formulée.** La PaduTeam, contre la position de RP critiquant Maduro, formule une rupture qui dépasse le seul Venezuela : «on n'est pas camarade et on le sera jamais» avec les organisations qui ne comprennent pas que la solidarité internationale marxiste exige de défendre les pays en résistance contre l'impérialisme, même imparfaits. C'est le même clivage qu'avec Usul sur l'Ukraine — mais étendu au Venezuela et au corpus trotskiste dans son ensemble. La guerre des gauches se joue désormais aussi entre traditions révolutionnaires, pas seulement entre gauche de rupture et gauche réformiste.
 
 **Le ni-nisme comme complicité objective.** L'accusation de «ni-ni» est retournée : dire «ni Maduro ni l'impérialisme» dans un contexte où l'impérialisme cherche à renverser Maduro par la force revient objectivement à soutenir l'impérialisme. La PaduTeam applique ici le même raisonnement qu'avec l'Ukraine : l'absence de camp dans un conflit asymétrique est un camp — celui du plus fort. Ce développement consolide la frontière entre la gauche anti-impérialiste (PaduTeam, LFI, URC) et la gauche trotskiste/NPA sur les questions internationales.
+
+### 36. La rupture Bompard/Roussel et la FI "seule contre tous" comme stratégie gagnante
+
+[[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] (avril 2026) fournit la formulation la plus directe de la structure de la guerre des gauches à l'approche de 2027 : la FI seule contre tous, et c'est ainsi qu'elle gagnera.
+
+**L'offre Bompard comme test de ligne.** [[Manuel Bompard]] formule une offre fédérative précise aux noisettes : se ranger derrière le candidat LFI à la présidentielle crée automatiquement un accord pour les législatives 2027 ; pas d'accord présidentiel = pas d'accord législatif. L'offre n'est adressée ni au PS ni à Glucksmann — uniquement à EELV et au PCF. Pour la PaduTeam, c'est "notre ligne déjà." Roussel refuse. Ce refus n'est pas une erreur tactique — il confirme sa stratégie : exister en tapant sur la FI, se légitimer auprès du bloc bourgeois, préserver les alliances locales avec le PS. Le refus de Roussel est l'aveu que le PCF-Roussel a choisi son camp.
+
+**L'électorat PCF superposable à Zemmour sur le Graphique.** La PaduTeam pointe le fait statistique structurant : ceux qui votent Roussel sont "majoritairement possesseurs de capital, plutôt âgés, plutôt retraités" — superposables à l'électorat Zemmour sur le [[Graphique]]. Les deux portent des **projets de nostalgie** : une nostalgie progressiste (France salarié ouvrier) et une nostalgie ethniciste (France blanche). Ce sont structurellement des votes "avant c'était mieux" qui attirent les mêmes classes — les vieux et les riches, ceux qui ont le temps de se poser des questions sur le passé parce qu'ils n'ont pas de problèmes de fin de mois. Cette superposition est la preuve que le PCF-Roussel ne parle plus aux classes populaires.
+
+**La tribune du Monde = discours "color blind" = pacte raciste.** La PaduTeam lit phrase par phrase la tribune de Roussel dans *Le Monde* comme une contribution au [[Pacte raciste]] : accuser Mélenchon de "catégoriser les citoyens en fonction de leur couleur de peau" et de "fragmenter le corps social en identités concurrentes", c'est exactement le discours "color blind" — fonctionnellement identique à ce que Marine Le Pen dira quand elle sera candidate. La prophétie est formulée explicitement : "Vous verrez ces mots-là, exactement les mêmes termes, dans la bouche de Marine Le Pen pour attaquer Mélenchon." Ce "commun abstrait" que Roussel défend est en réalité la majorité-blanchité, l'univers culturel de l'extrême droite. Distinction conceptuelle posée : le [[Contrat racial]] est inconscient ; le pacte raciste est un projet politique conscient.
+
+### 37. La recomposition du bloc droite comme miroir symétrique de la guerre des gauches — W15-W16 2026
+
+[[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]] et [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] (avril 2026) enrichissent la guerre des gauches d'un angle nouveau : pendant que la gauche se fragmente, la droite cherche à se recomposer — et elle peine à y parvenir.
+
+**Le RN en train de rater son entrée bourgeoise.** La PaduTeam diagnostique que [[Jordan Bardella]] est en train de répéter l'erreur stratégique fatale : "jouer le deuxième tour avant de jouer le premier tour." La normalisation glamour (Paris Match, princesse de sang royal) et le lobbying patronal (dîner Le Pen/Arnault) visent simultanément à rassurer le bloc bourgeois — mais cette posture aliène l'électorat ouvrier-populaire du RN sans capter l'électorat bourgeois-centriste qui préférera des candidats plus légitimes ([[Edouard Philippe]], [[Francois Hollande]]). Prédiction : moins de 20% pour Bardella. La guerre des gauches a pour enjeu que la gauche de rupture profite de cette erreur droitière.
+
+**La droite fragmentée comme condition nécessaire de la victoire LFI.** [[David Lisnard]] — "Milei de Wish", "Alain Madelin bis" — incarne la fragmentation droite structurelle : "ils seront plusieurs parce qu'ils seront incapables de se mettre d'accord sur une vision du monde et un programme." Lisnard, Philippe, Bardella, Le Pen — chacun sur son segment. La PaduTeam assume explicitement soutenir tactiquement Lisnard : "go David Lisnard, on est derrière toi. On veut que tu ailles taper tes 4%." Plus la droite est fragmentée, plus le second tour Mélenchon-Le Pen devient accessible. C'est le "2002 inversé" en marche.
+
+**C'est Le Pen qui tient les fils du ralliement patronal, pas Bardella.** Le dîner "ultra discret" de [[Marine Le Pen]] avec 15 grands patrons (premier contact [[Bernard Arnault]]/RN documenté) signale que le grand patronat commence à prendre au sérieux l'hypothèse d'un gouvernement RN — mais c'est Marine, pas Jordan, qui gère ce volet. La division du travail (Le Pen = lobbying patronal / Bardella = image glamour) reproduit en deux personnes ce que Macron avait cumulé seul en 2017. La guerre des gauches doit anticiper ce scénario : si Bardella est écarté, le RN pourrait présenter un candidat plus habile qui ne répète pas les erreurs de 2027.
 
 ## Adversaires identifiés
 

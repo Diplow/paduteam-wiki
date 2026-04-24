@@ -40,6 +40,9 @@ C'est aussi un cas d'[[Inversion liberale de la lutte des classes|inversion lib�
 ## Vidéos où Sardoche est analysé
 
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — analyse centrale : distinction expatrié/immigré, valeur travail, pacte raciste inconscient
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — Polymarket : Sardoche achète des actions [[David Lisnard|Lisnard]], pointe la courbe montante comme preuve de popularité, sans voir qu'il en est lui-même la cause. Cas d'école du [[Fetichisme de la marchandise|fétichisme de la marchandise]] appliqué au marché électoral[^p7]
+
+[^p7]: [49:07](https://www.youtube.com/watch?v=G_D7VLi26ko&t=2947) — "Il a posté Poly Market en disant regardez il remonte. Mais tu es là mais Sardoch c'est toi qui a acheté des trucs qui font que la courbe elle monte en fait."
 
 [^p1]: [2:02](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=122) — "Dans les classifications marxistes, ce qu'on appelle un petit bourgeois — il autoexploite sa force de travail en indépendance."
 [^p2]: [19:12](https://www.youtube.com/watch?v=5q7K8bnPyB4&t=1152) — "C'est intéressant que ce soit un streamer de jeux vidéos qui pense comme ça parce que c'est vraiment des parties extrêmement périphériques au rapport de classe. Donc le niveau de fausse conscience est maximal à ce niveau-là."

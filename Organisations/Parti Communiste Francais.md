@@ -114,6 +114,15 @@ La PaduTeam chiffre l'effondrement organisationnel : le PCF est passé d'**un mi
 
 Les jeunes militants qui veulent "être communistes au PC" se font mettre en minorité pendant des années. Quand ils deviennent trop nombreux, ils sont soit purgés, soit forcés au départ. Exemple : les jeunesses communistes du Nord, de la Loire, des Bouches-du-Rhône — mis devant le fait accompli de devoir "faire la campagne du PS", ils refusent et se font harceler "par des espèces de clampins qui sont pas communistes et qui sont des espèces d'arrivistes un peu à la Léon des Fontaines." La PaduTeam : "C'est la tristesse des communistes de ce pays d'avoir un parti communiste aussi minable."
 
+## L'électorat PCF : vieux riches, pas prolétaires (confirmation graphique avril 2026)
+
+La PaduTeam mobilise le [[Graphique]] pour poser la question centrale aux militants sincères : "Qui vote Fabien Roussel ?" L'électorat PCF est majoritairement dans la zone "haut à droite" du Graphique — possesseurs de capital, retraités, âgés. Il est **superposable à celui d'[[Eric Zemmour]]**. Non pas les mêmes idées, mais la même place dans l'espace social : les deux projets sont des projets de nostalgie qui attirent structurellement les vieux et les riches.[^electo-nostalgie]
+
+La question posée aux militants sincères : si votre objectif est de faire la révolution et de mobiliser les potentialités progressistes du pays, pourquoi votre cœur électoral est-il "les classes les moins révolutionnaires de tout le pays" ? La "fédération de chasse communiste" est l'emblème de cette inadéquation — la chasse parle à des vieux mecs blancs, alors que les potentialités progressistes en ruralité sont chez les jeunes femmes qui s'organisent après la déliquescence des services publics (référence : *Des femmes qui tiennent la campagne*, Fanny Renard et Sophie Orange).[^fede-chasse]
+
+[^electo-nostalgie]: [26:54](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=1614) — "Votre électorat est superposable à celui d'Éric Zemmour. Ça ne veut pas dire que les gens qui votent pour vous ont les mêmes idées qu'Eric Zemmour, mais c'est le même type de gens qui se pose le même type de problème."
+[^fede-chasse]: [28:27](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=1707) — "vous êtes incapable de comprendre à qui vous devez parler [...] vous proposez une fédération de chasse. La chasse, c'est vraiment un truc, ça parle à des vieux mecs blancs, quoi."
+
 ## Vidéos où l'organisation est analysée
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Cannabis Rasta Roussel vs Douanier Roussel]]
@@ -129,3 +138,4 @@ Les jeunes militants qui veulent "être communistes au PC" se font mettre en min
 - [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]] — Interview Cukierman comme symptôme de la déchéance : ignorance de la position officielle du parti, inversion du centralisme démocratique, notabilisation accomplie vs formation ouvrière de l'âge d'or
 - [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — Deuxième épisode de la même interview : la valeur travail rouselliste comme convergence avec Sarkozy et le MEDEF ; démontage de la stratégie d'adaptation à la "conscience réelle" ; distinction démagogie/pédagogie
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance Brossat-PS-Verts à Paris votée à 77 % des adhérents PCF ; contre-exemple Saint-Denis (accord PCF-FI dénoncé par l'état-major) ; chiffre du déclin : 1 million → 40 000 adhérents ; mécanisme de purge des jeunes militants combatifs.
+- [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] — Confirmation graphique : l'électorat PCF est superposable à Zemmour, deux projets de nostalgie ; la fédération de chasse comme emblème de l'inadéquation sociologique ; la tribune *Le Monde* de Roussel analysée comme discours color blind = pacte raciste ; prophétie que Le Pen dira la même chose contre Mélenchon.

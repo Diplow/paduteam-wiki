@@ -35,3 +35,4 @@ Journaliste et essayiste française, auteure notamment de "Frère Tariq", figure
 - [[FLOTTILLE DE LA LIBERTE MEYER HABIB ET CAROLINE FOUREST EN ROUE LIBRE]] — Analyse détaillée de sa posture sur la flottille
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Mentionnée comme source des infos tronquées sur la "drogue"
 - [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — mentionnée comme référence du discours rincé sur le voile : la position d'Arthaud est jugée structurellement identique au discours fourestien, malgré des intentions différentes
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — qualifiée de "plus grande menteuse de France, plus grande fabriquante de mensonges" ; [[David Lisnard]] reprend son intox sur la "drogue" de Rima Hassan (débunquée par les tests urinaires) ; la PaduTeam espère que Fourest sera "en premier lieu" dans le procès que compte intenter Hassan

@@ -44,6 +44,7 @@ La PaduTeam nomme une catégorie spécifique : les "capots" — cadres administr
 La nuance est importante : la PaduTeam distingue le "capot" du bourgeois. Le capot n'est pas responsable de sa fausse conscience — c'est "un symptôme, pas une cause." L'objectif militant est de le "réveiller", non de le désigner comme ennemi. "Notre but, c'est de les libérer quoi."
 
 ## Vidéos où le concept est développé
+- [[LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME]] — démonstration appliquée à la grande bourgeoisie : [[Helene Mercier Arnault]] sincèrement persuadée que les SDF font un "choix de vie" ; la PaduTeam nomme le mécanisme [[Strategie d equilibration bourgeoise]] ; distinction entre fausse conscience bourgeoise (stratégie d'équilibration) et cynisme (conscience possible maximale de la bourgeoisie qu'elle ne peut pas déverser socialement)
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
 - [[LA PIRE HUMILIATION DEVANT DES PATRONS LE DEFILE DES PAUVRES]] — les "capots" Samir Galem et Sylvie Gaté comme cas d'école de la fausse conscience dans les structures mixtes public/privé
 - [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]] — Cas d'école concret dans l'économie du contenu numérique ; définition explicite par Chris : "la fausse conscience c'est une conscience d'équilibrage entre une position que tu occupes socialement et des rapports de production que tu mets en œuvre réellement" ([13:06](https://www.youtube.com/watch?v=4jVPJ1eaS9I&t=786))

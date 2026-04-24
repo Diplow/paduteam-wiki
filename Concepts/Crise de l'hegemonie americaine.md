@@ -64,6 +64,14 @@ Cette stratégie est opposée à ce que les "révolutionnaires impatients" préc
 [^periphe1]: [10:14](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=614) — "La stratégie de Sheinbaum, Delcy Rodriguez et cetera de essayer de tenir et d'attendre est la meilleure. Ils n'ont pas les moyens du conflit direct avec Trump. C'est tout ce que Trump attend."
 [^periphe2]: [19:46](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=1186) — "les pays de la périphérie comme le Mexique, comme le Venezuela qui tentent justement de trouver un équilibre pendant qu'il tombe ont raison. Ils comprennent bien mieux les logiques économiques que le baratin qu'on vous raconte."
 
+## Le cessez-le-feu avec l'Iran comme tournant qualitatif (avril 2026)
+
+La vidéo [[GUERRE IRAN-US TRUMP HEGEMONIE]] apporte la formulation la plus tranchée à ce jour : **"Cela établit l'Iran comme la nouvelle puissance dominante au Moyen-Orient."** Le cessez-le-feu n'est pas un simple recul américain — c'est une défaite "qualitativement différente" des guerres précédentes (Vietnam, Afghanistan). Dans ces guerres, le géant piétinait une maison qui n'était pas la sienne. Ici, l'Iran a tenu "de manière symétrique et tactique" : chasseurs furtifs abattus, bases neutralisées, détroit d'Ormuz sous contrôle iranien.
+
+La métaphore filée dans le transcript : "Quand les États-Unis ont perdu au Vietnam et en Afghanistan, c'était embarrassant mais finalement gérable. Le géant était allé avec un ego meurtri et le monde haussait les épaules. Cette perte dit au monde que le géant n'est plus vraiment un géant."
+
+La perte du contrôle du [[Detroit d Ormuz|détroit d'Ormuz]] est directement liée à l'intégration capitaliste mondiale — "si tu avais attaqué l'Iran en 1910, la perte du détroit n'était pas aussi significative." C'est le développement même du capital-monde qui a fait de ce détroit la "rente géographique la plus précieuse de la planète."
+
 ## Vidéos où le concept est développé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
@@ -72,3 +80,4 @@ Cette stratégie est opposée à ce que les "révolutionnaires impatients" préc
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — "Quand une gigantesque puissance se retrouve avec une crise sociale interne majeure et mise en difficulté à l'international, c'est extrêmement dangereux. Le seul truc qui va leur rester pour pouvoir se maintenir, ça va être la guerre."
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Front intérieur de la crise : 20% exports chinois via Californie, négociations Londres concomitantes aux émeutes, tarifs de douane californiens autonomes
 - [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Tripartition Chine/Europe/USA ; acculement de l'empire ; Trump en "poisson hors de l'eau" ; [[Bulle de l IA]] comme seul débouché fictif des capitaux américains
+- [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Défaite "qualitativement différente" des guerres précédentes ; l'Iran sort "plus fort qu'à n'importe quel moment de l'histoire moderne" ; le détroit d'Ormuz comme rente géographique suprême ; le géant n'est plus vraiment un géant

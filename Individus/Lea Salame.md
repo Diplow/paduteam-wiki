@@ -23,5 +23,15 @@ Son lien avec Glucksmann est relevé comme significatif : "on n'est pas défini 
 - [[Raphael Glucksmann]] — compagnon
 - [[France Inter]], France Télévisions — employeurs
 
+## Le journalisme de cour en action : la séquence Arnault
+
+Dans *Quelle époque*, [[Helene Mercier Arnault]] s'enfonce en direct en qualifiant la vie à la rue de "choix de vie". La PaduTeam observe que Salamé a envoyé les questions à l'avance, que l'invitée est arrivée préparée par une armée de conseillers en com — et que quand ça tourne mal, Salamé "sort les avirons et rame" pour reformuler les propos en les contredisant ("vous vouliez pas dire que les SDF en général font le choix"). La PaduTeam : "elle arrive pas à comprendre que la politique c'est pour les SDF une question de vie ou de mort. Non, pour eux c'est des discussions de repas."[^2]
+
+Elle dit avoir déclaré que "l'important dans une interview, c'était de créer un moment" — formule retenue par la PaduTeam comme définition du journalisme de cour.[^3]
+
 ## Vidéos où Léa Salamé est mentionnée
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]]
+- [[LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME]] — analyse centrale du [[Journalisme integral|journalisme de cour]] : rame pour sauver Hélène Mercier-Arnault, reformule ses propos en les contredisant, traite la politique "comme un dîner de fin de repas"
+
+[^2]: [29:54](https://www.youtube.com/watch?v=yNAe1AQYn00&t=1794) — "elle arrive pas à comprendre que la politique c'est non, c'est réellement pour les SDF une question de vie ou de mort. Non, pour eux c'est des discussions de repas"
+[^3]: [29:54](https://www.youtube.com/watch?v=yNAe1AQYn00&t=1794) — référence à une interview de Salamé où elle dit que "l'important dans une interview c'était de créer un moment"
