@@ -56,6 +56,21 @@ Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam dresse u
 
 La PaduTeam compare la mise en scène de la convention de Trappes (tables pliantes de salle des fêtes, rollops colorés sans budget) à une cousinade — révélateur de la crédibilité de toute l'opération.
 
+## Annonce officielle de la date : 11 octobre (début 2026)
+
+L'annonce groupée de [[Marine Tondelier]], [[Lucy Castets]], [[Clémentine Autain]] et [[Francois Ruffin]] fixe la date au 11 octobre et précise le mode de scrutin : **vote préférentiel** (classer les candidats par ordre de préférence, comme la primaire populaire 2022). La PaduTeam identifie immédiatement le mécanisme : ce mode de scrutin désigne mécaniquement le candidat le plus central, c'est-à-dire Tondelier entre Autain (gauche) et Ruffin (droite). "C'est un truc vraiment pour la reine des noisettes."
+
+Le vote sera possible physiquement ou numériquement — ce qui permet aux militants PS de voter deux fois. La PaduTeam : "ça pue tellement le vote trafiqué quand il y a du physique et du numérique."
+
+La date lointaine (automne 2026) est lue comme aveu de faiblesse : si la primaire était dans 2 mois, maximum 50 000 votants. Pour atteindre "l'élan populaire", il leur faut au moins 1 million — ils ont besoin de temps pour massifier, aller chercher des soutiens associatifs (CFDT, associations).
+
+## Le parrainage de 500 élus : triple fonction stratégique
+
+La règle des 500 parrainages d'élus (calquée sur la présidentielle) remplit trois fonctions simultanées :
+1. **Test de viabilité présidentielle** — chaque candidat qui obtient ses 500 signatures sait qu'il peut se présenter seul à la présidentielle si la primaire échoue. "Impasse mexicaine" : chacun peut menacer de partir, ce qui crée un rapport de force entre les candidats.
+2. **Affaiblissement de la FI** — les maires susceptibles de donner leurs signatures à Mélenchon sont démarchés pour la primaire. "Ils vont pouvoir aller chercher tout un pool, un panier de maires et d'élus locaux qui vont leur permettre d'avoir à la fin leur signature pour les présidentiels."
+3. **Filtre anti-outsider** — permet d'éliminer des candidats fanfarons comme "Mulch" (Basulch) sans programme d'appareil.
+
 ## Vidéos
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
@@ -64,3 +79,5 @@ La PaduTeam compare la mise en scène de la convention de Trappes (tables pliant
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Mort officielle : Tondelier en réunion de crise, perd Bordeaux/Strasbourg/Poitiers. "Tout dit le contraire d'aller à la primaire."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Bilan catastrophique début 2026 : conférence de décembre annulée, aucune règle arrêtée, PS totalement divisé, Glucksmann mort, Hollande qui monte. La convention de Trappes décortiquée comme révélateur du budget et de la crédibilité de toute l'opération.
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Annonce officielle de la date (11 octobre) et du mode de scrutin préférentiel. Analyse : dispositif truqué pour Tondelier, 50 000 votants max si la primaire avait lieu dans 2 mois, triple fonction stratégique du parrainage de 500 élus.
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner ; thèse centrale que la primaire sert à renforcer l'appareil des écologistes, pas le PS ; Faure isolé avec "les clampins du groupe des verts" pendant que son propre groupe PS est dirigé par Vallaud.

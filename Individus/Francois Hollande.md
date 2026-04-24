@@ -111,7 +111,16 @@ La mort politique de Faure sur ce sujet sert directement la stratégie d'Holland
 
 [^hollande-49-copie]: [31:25](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1885) — "Il a l'air de bien mieux connaître la copie que Fort ce matin. Du curieux ça. [...] C'est à croire que le mec est à la manœuvre depuis le début et qu'il est en train de baiser tout le monde."
 
+## L'opération Kanner — exécution par lieutenant interposé (début 2026)
+
+Dans [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]], la PaduTeam reconstitue en direct la chaîne de commandement : Hollande dans un "fauteuil club", [[Patrick Kanner]] (sénateur, président du groupe socialiste au Sénat, "Clemenza ou Tessio" de l'appareil hollandiste) envoyé sur France Info pour "délinguer" Faure en lui rappelant les instances[^hollande-kanner]. Le mécanisme : ne jamais paraître directement, agir par lieutenants — c'est le mode opératoire constant d'Hollande depuis 2024.
+
+La PaduTeam projette la suite : Hollande va reconstituer une "fédération" autour de Vallaud, absorbant à terme des fragments noisettes comme [[Yannick Jadot]] ("un Jadeau [...] il va partir tranquillement dans la Fédération de Hollande"). La moïsation de la gauche reformiste est son œuvre, pas un accident.
+
+[^hollande-kanner]: [20:13](https://www.youtube.com/watch?v=WpfmoXD7yMI&t=1213) — "Eh Patrick, tu descends à France info, je les appelle, tu me le déglingues ce gars, tu lui rappelles qui sont les instances et qu'est-ce qu'il a le droit de faire ou non."
+
 ## Vidéos
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner décryptée ; Hollande en "Vito Corléone" qui envoie ses Clemenza et Tessio ; construction de la fédération réformiste 2027 absorbant les fragments noisettes.
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — révélé comme vrai architecte du 49.3 sur le budget général (connaissait la copie avant Faure) ; sa déclaration publique referme la primaire de gauche en excluant LFI ; la mort de Faure lui profite en dégageant Vallaud.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — La réunion de Pontoise (Hollande + Cazeneuve + Glucksmann) décodée comme un piège délibéré : "On a parié sur toi, on te l'a pas fait à l'envers, tu nous as déçu, maintenant tu es mort." Hollande qualifié de "Vito Corléone de la gauche sociale-démocrate" — présenté comme un "requin" sous ses airs bonhommes, formaté au PS depuis le pire du pire des années 1980, "il écrivait pour Jacques Delors dans les années 80." Orchestre la succession via [[Boris Vallaud]].
 - [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]] — cité comme PM "issu des rangs du NFP" possible ; illustration de l'arnaque personnalité vs programme

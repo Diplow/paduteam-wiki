@@ -168,7 +168,18 @@ Alors qu'[[Olivier Faure]] tentait de tenir la ligne anti-49.3 sur le PLFSS 2026
 
 L'épisode illustre la thèse structurelle : le PS ne peut pas assumer la conflictualité face au macronisme. Quand Faure essaie de tenir une ligne, c'est Hollande qui passe derrière et rétablit la collaboration. La PaduTeam qualifie Faure de "PPH" (ne passera pas l'hiver politique).
 
+## La machine hollandiste à l'œuvre : l'opération Kanner (début 2026)
+
+Le lendemain de l'annonce de la primaire noisette, [[Patrick Kanner]] (président du groupe sénatorial PS, homme de main de [[Francois Hollande]]) sort sur France Info pour déstabiliser [[Olivier Faure]]. La PaduTeam décrypte l'opération : Kanner rappelle les "instances", les "mandats", le "bureau national" — le vocabulaire d'appareil servant à rappeler au premier secrétaire qu'il n'a pas de base pour prendre des décisions seul. L'opération illustre deux thèses structurelles :
+
+1. **Le PS fonctionne comme un parti de pouvoir, pas comme un parti de gauche** — les logiques internes (mandats, instances, tendances) servent uniquement à gérer les rapports de force entre clans, jamais à définir une ligne politique.
+
+2. **Hollande agit toujours par lieutenants** — il n'apparaît jamais directement, mais c'est lui "dans un fauteuil club" qui envoie les Kanner faire le sale boulot. [[Boris Vallaud]], lui, "servait des cocktails" — il attend son heure sans se salir.
+
+La PaduTeam note avec ironie que Kanner fait d'arguments politiquement solides : l'union arithmétique ne fonctionne pas (Hamon 6,35 % en 2017 comme candidat unique de "toute la gauche"), la vraie primaire a lieu au premier tour de la présidentielle.
+
 ## Vidéos où l'organisation est analysée
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner contre Faure ; mécanique de l'appareil hollandiste par lieutenants ; Faure isolé avec les verts, son propre groupe dirigé par Vallaud ; la "plus jamais PS" en arrière-plan permanent.
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — validation du 49.3 sur le budget général après avoir promis de l'empêcher ; mort politique de Faure ; Guedj reprend le lead à droite ; Hollande révélé comme vrai architecte de la situation ; annonce soirée "Plus jamais PS" du 20 février 2026 avec Bouamama, Da Silva, Palombarini.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 le 10 décembre 2025 : le PS s'abstient (6 frondeurs isolés) pour sauver Faure et la primaire. Démontage des "victoires" (ONDAM +2,1 % = baisse réelle, retraites décalées de 3 mois, congé naissance de classe, taxe complémentaires répercutée). Révélateur de la recomposition en 5 blocs pour 2027.
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — Feuilleton PLFSS décembre 2025 : Vallaud/Temal torpillent Faure avec le "49.3 de compromis" (formule hollandiste), démonstration que le PS ne peut pas assumer la conflictualité, portrait de classe d'[[Amelie de Montchalin]] comme "expression de l'ennemi de classe".

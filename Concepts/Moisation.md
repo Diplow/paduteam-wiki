@@ -100,6 +100,10 @@ Lors du passage de Mélenchon à Radio Canada (2025), la PaduTeam formule explic
 Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], la PaduTeam mobilise implicitement la Moïsation pour lire la trajectoire de Macron : ses sorties racistes ("Mamadou", "rabzous", "cocottes") ne sont pas des dérapages mais la révélation cohérente d'une pensée réactionnaire que la Moïsation rend visible. À mesure que les blocs se consolident, Macron ne peut plus prétendre être "au-dessus des partis" — il est contraint de choisir un camp, et il choisit de brosser dans le sens du poil les idées xénophobes de l'extrême droite pour conserver son bloc bourgeois. La Moïsation révèle ce que le moment populiste de 2017 masquait.
 
 ## Vidéos où le concept est analysé
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — La moïsation comme clé analytique absente du dispositif Mediapart : Servet Mersal tire une "droite" entre les scores de Mélenchon (2012/2017/2022) sans comprendre que c'est la moïsation — et non une extrapolation linéaire — qui explique la prophétie de victoire ; « ils oublient complètement la moïsation et la bataille à gauche qui sont les deux conditions de la victoire de Mélenchon »[^4028moi]
+
+[^4028moi]: [40:21](https://www.youtube.com/watch?v=hC5OFGoKrII&t=2421) — « deux choses qu'ils oublient complètement la moïsation et la bataille à gauche qui sont les deux condition de la victoire de Mélenchon. »
+
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
 - [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — Présentation des rubans électoraux depuis 2002 : progression de l'abstention et du centre jusqu'en 2017 (pic de confusion), puis retour à la moïsation visible en 2022. La configuration 2027 comme "démoïsation" à droite — boucle qui se referme sur elle-même
 

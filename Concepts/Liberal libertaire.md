@@ -29,10 +29,17 @@ Clouscard titre ce diagnostic "Sous les pavés, Le Pen" — détournement du slo
 
 La PaduTeam distingue soigneusement : Clouscard ne critique pas **tous** les libertaires — il critique les libertaires **bourgeois**, qui veulent leur liberté personnelle de dominer sans vouloir abolir la domination de classe.
 
+- **[[Loic Chaigneau]]** : cas d'application inversé. En 2026, Chaigneau reprend la critique clouscardinne du libéral-libertaire sur TV Liberté — un média d'extrême droite — pour taper sur les LGBT et les féministes. La PaduTeam démontre que c'est l'exact contresens : les libéraux-libertaires que Clouscard dénonçait (le PS, les intellectuels bourgeois de gauche morale) ont quasiment disparu (le PS fait ~1 % aux élections). En 2026, utiliser Clouscard contre les progressistes, c'est utiliser une critique anti-PS pour attaquer ceux qui sont aujourd'hui les plus proches des communistes. La trajectoire Chaigneau valide le schéma Clouscard par l'absurde : rouge-brun → choix du brun → TV Liberté.[^chaigneau]
+
+**Actualisation 2026 de la thèse (selon la PaduTeam).** La droite ne se borne plus à "gouverner l'économie" pendant que "la gauche légitime les mœurs". En 2026, la droite gouverne aussi les mœurs : attaques répétées contre les droits LGBT, panique sur les personnes trans. Le libéral-libertaire classique de Clouscard — le bourgeois qui veut sa liberté sexuelle sans remettre en cause la propriété — n'est plus la figure hégémonique. La figure hégémonique, c'est désormais le libéral autoritaire, ce que Clouscard avait lui-même prévu comme aboutissement du schéma.[^actualisation]
+
 ## Vidéos où le concept est développé
 - [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]]
 - [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] — Macron comme exemple de la trajectoire libéral-libertaire → libéral-autoritaire ; démonstration que les soraliens lisent Clouscard à l'envers
 - [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Trajectoire de bourgeoisification des ex-gauchistes des années 60-70 (Serge July, Julien Dray, Onfray) selon la grille Clouscard
+- [[LOIC CHAIGNEAU REVIENT CASSER DU WOKE ET DU DROGUE]] — Récupération réactionnaire de Clouscard par [[Loic Chaigneau]] ; actualisation 2026 du concept ; démonstration que le libéral-libertaire classique a disparu au profit du libéral-autoritaire
 
 [^1]: [7:15](https://www.youtube.com/watch?v=M5_wBvpwYVk&t=435) — "ces gens en fait vont pouvoir switcher d'un aspect centregauche libéral libertaire à un libéralisme autoritaire quand il y aura besoin"
 [^2]: [6:47](https://www.youtube.com/watch?v=YPsrCo3Ddww&t=407) — "Macron c'est un mec qui s'est vendu en 2017 comme étant un libéral un peu libertaire et qui est devenu un libéral autoritaire [...] le Macron qui disait ah c'est n'importe quoi le programme du NFP, ils vont nous faire changer de sexe en mairie"
+[^chaigneau]: [29:48](https://www.youtube.com/watch?v=PuF4Q8X_Hl0&t=1788) — "en 2025 le gars utilise la critique de Klouscar qui était une critique en faveur des communistes pour taper sur les W, les LGBT qui au final aujourd'hui sont avec les communistes"
+[^actualisation]: [37:01](https://www.youtube.com/watch?v=PuF4Q8X_Hl0&t=2221) — "aujourd'hui la droite gouverne l'économie et les mœurs [...] il y a des attaques à répétition contre les droits LGBT"

@@ -30,8 +30,15 @@ L'attentat de Magdebourg (décembre 2024) offre un retournement analytique que l
 ## Position sur les violences sexuelles
 Dans l'un de ses livres, Zemmour nostalgise "l'époque où le jeune chauffeur de bus pouvait glisser une main concupissante sur un charmant fessier féminin sans risquer de poursuites" — à propos d'un film des années 70 ("Elle court, elle court la banlieue"). Pour la PaduTeam, cette phrase illustre la normalisation des agressions sexuelles dans son œuvre, en contradiction directe avec le discours de sa compagne [[Sarah Knafo]] sur la "sécurité des femmes."
 
+## Agenda antiféministe
+La PaduTeam développe ce que signifie concrètement l'agenda antiféministe de Zemmour : il tient des discours masculinistes sur la garde des enfants ("c'est horrible, maintenant les pères n'ont plus aucun droit"), alors que les statistiques du ministère de la Justice montrent que les pères qui demandent la garde alternée l'obtiennent dans 80 % des cas, et que seulement 12 % des enfants de parents séparés sont en garde alternée — ce qui signifie que les pères ne la demandent tout simplement pas[^zem1]. Zemmour soutient en outre le groupe "Parents vigilants" qui s'oppose à l'éducation au consentement dans les écoles primaires — les séances qui donnent aux enfants les outils pour identifier et signaler les agressions sexuelles[^zem2].
+
+[^zem1]: [14:23](https://www.youtube.com/watch?v=kJgGc2z0INg&t=863) — "Quand un mec demande la garde alternée de son gamin, il l'a dans 80 % des cas. Et il y a que 12 % des mômes de parents séparés en garde alternée — c'est que en fait les mecs la demandent pas"
+[^zem2]: [43:55](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2635) — "Il y a un groupe qui s'appelle Parents vigilants soutenu par Éric Zemmour qui empêche de pouvoir faire ça" (l'éducation à la vie affective et sexuelle dans les petites classes)
+
 ## Vidéos où Zemmour est analysé
 
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — paradoxe de l'assimilation : l'auteur de l'attentat s'est "si bien assimilé" qu'il a adopté l'idéologie islamophobe de Zemmour lui-même
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Nouveau livre préfacé par [[Eric Naulleau]] et présenté sur CNews (oct. 2025) ; thèse du "sursaut judéo-chrétien" ; "répéteur de citations, sous-Finkielkraut" ; électorat réel = grande bourgeoisie (Saint-Tropez, Neuilly, Versailles)
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Cité pour ses écrits nostalgisant les agressions sexuelles dans les transports ; "baudruche" que Reconquête a décidé d'écarter au profit de Knafo ; candidat naturel de Reconquête pour 2027 mais Knafo refuse de l'annoncer à sa place lors de l'interview TF1
+- [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Agenda antiféministe concret : discours masculiniste sur la garde, opposition à l'éducation au consentement via "Parents vigilants"

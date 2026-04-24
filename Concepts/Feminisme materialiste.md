@@ -41,11 +41,26 @@ Conséquence directe : **les femmes peuvent être des ennemies de classe**. Le f
 
 Dans la vidéo sur [[Giulia Sarkozy]], la liste des vraies menaces pour une adolescente (idées suicidaires, harcèlement, violences sexuelles, déliquescence du système éducatif, exploitation capitaliste, crise écologique) est opposée à la liste de Marianne (ongles à strass, selfies, playback TikTok). Le féminisme matérialiste réclame ce déplacement : analyser les conditions matérielles d'existence des jeunes filles, pas policer leur esthétique.
 
+## Le voile : application par excellence du féminisme matérialiste
+
+Cette vidéo contient l'un des développements les plus complets de la PaduTeam sur la question du voile depuis une perspective matérialiste. La position centrale : il est impossible de savoir de l'extérieur pourquoi une femme porte le voile — raison religieuse, culturelle, habitude, rébellion dans une société islamophobe, contrainte familiale, pudeur. Présumer de la soumission depuis l'extérieur est non seulement arrogant mais politiquement inefficace[^voile1].
+
+La démonstration matérialiste par l'extension : le contrôle masculin du vêtement féminin n'est pas propre aux femmes voilées. La PaduTeam évoque des patientes qui sont obligées de porter de grands hauts larges par leur conjoint jaloux pour que leurs collègues hommes ne voient pas leur silhouette. "Un grand t-shirt est un objet qui participe en fait à sa soumission. Est-ce que du coup la solution c'est d'interdire les grands t-shirts larges ?"[^voile2]
+
+L'argument de la rébellion : dans une société islamophobe où les femmes voilées subissent des discriminations massives, porter le voile peut être un acte de liberté et de rébellion. "Il y a plein de meufs qui portent le voile justement pour affirmer leur liberté. Et ça va faire râler les droitards."[^voile3]
+
+La conclusion matérialiste : les politiques d'interdiction du voile ont des effets matériels concrets — elles empêchent des femmes d'avoir accès à l'école, au sport, à certains métiers. L'AP-HP a viré une infirmière pour un calot couvrant ses cheveux en la soupçonnant d'être musulmane. Ce que le féminisme matérialiste réclame : pas de police du vêtement, mais des droits concrets (logement, accès à l'école, au sport, à l'espace public).
+
+[^voile1]: [30:26](https://www.youtube.com/watch?v=kJgGc2z0INg&t=1826) — "Soyez matérialistes les gens, vous ne pouvez pas savoir pourquoi une personne s'habille de la manière dont elle s'habille. Vous n'êtes pas dans sa vie"
+[^voile2]: [30:56](https://www.youtube.com/watch?v=kJgGc2z0INg&t=1856) — "Dans son cas, un grand t-shirt est un objet qui participe en fait à sa soumission. Est-ce que du coup la solution c'est d'interdire les grands t-shirts larges ?"
+[^voile3]: [34:38](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2078) — "Il y a plein de meufs qui portent le voile justement pour affirmer leur liberté. Et ça va faire râler les droitards."
+
 ## Vidéos où le concept est développé
 
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Définition la plus explicite : refus d'accorder la misogynie sur "Karen", critique du féminisme essentialiste des Verts, lecture du terme Karen comme outil du féminisme noir
 - [[GIULIA SARKOZY TRAITEE DE POUFFE PAR MARIANNE]] — Application pratique : démontage d'un article Marianne qui confond police de l'esthétique féminine et féminisme protecteur ; liste des vraies menaces pour les adolescentes vs. panique morale bourgeoise
 - [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] — Les femmes bourgeoises en position de gardienne du système patriarcal : Brigitte Macron choisit la solidarité de classe (avec Abittan, homme puissant) contre la solidarité de genre (avec les militantes de NousToutes) ; [[Priscilla Even]] comme contre-type du féminisme médiatique macroniste
+- [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Application la plus complète sur le voile : impossibilité de présumer de l'extérieur, contrôle vestimentaire non propre aux femmes voilées, rébellion comme sens possible du voile, effets matériels concrets des politiques d'interdiction
 
 [^1]: [2:36](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=156) — "Le féminisme ce n'est pas dire que les meufs sont tout le temps super. Elles peuvent être des grosses bourgeoises et se comporter en fonction de leur intérêt de classe."
 [^2]: [11:22](https://www.youtube.com/watch?v=JD7fmYX6l5g&t=682) — "Marion Maréchal a pas pris de la bière dans les cheveux parce que c'est une meuf — elle en prend parce que c'est une dirigeante politique d'extrême droite qui porte un projet de nettoyage ethnique."

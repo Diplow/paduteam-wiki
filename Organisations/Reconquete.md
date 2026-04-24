@@ -37,6 +37,12 @@ La PaduTeam résume : "un parti avec une assise électorale très importante" �
 
 Reconquête a "enfin compris que Zemmour était une baudruche" et opère une bascule : Knafo remplace Zemmour comme figure de proue. Plus jeune, plus "on control", elle incarne la tentative de réhabilitation du parti avant 2027. La candidature à la mairie de Paris 2026 est lue par la PaduTeam comme une répétition générale — Knafo n'a aucune chance de gagner face à [[Rachida Dati]] ou [[Anne Hidalgo]], mais l'objectif est la visibilité présidentielle.
 
+## Délabrement organisationnel
+Aux élections européennes 2024, Reconquête avait fait élire 5 eurodéputés. 4 d'entre eux ont quitté le parti depuis[^rec1]. À deux mois des municipales parisiennes (mars 2026), Knafo n'a pas encore de colistiers et lance un appel public sur un site ("jsuiscandidat.fr") où des contributeurs racistes ont rapidement envahi la plateforme, obligeant à la fermer. La PaduTeam : "ils ont été obligés de fermer le truc parce que c'était trop voyant que c'était un parti de nazis."
+
+[^rec1]: [51:08](https://www.youtube.com/watch?v=kJgGc2z0INg&t=3068) — "Quand ils ont fait élire cinq personnes aux européens, il y en a quatre qui sont partis du parti. C'est-à-dire qu'ils se sont fait baiser quatre députés européens sur 5"
+
 ## Vidéos où l'organisation est analysée
 - [[Faut-il en finir avec le NFP]]
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Bilan électoral complet, analyse de la bascule Zemmour→Knafo, agenda médiatique vs réalité électorale
+- [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Délabrement organisationnel : 4 eurodéputés partis sur 5, absence de colistiers à J-2 mois, site participatif fermé pour contenus racistes

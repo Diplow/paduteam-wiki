@@ -79,7 +79,14 @@ La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTea
 
 [^vallaud-49.3]: [25:49](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1549) — "Donc moi je vais vous dire je veux pas baisser la tête parce que un certain nombre d'hommes et de femmes vont toucher un petit peu plus à la fin du mois."
 
+### Chef du groupe PS — épée de Damoclès sur Faure (début 2026)
+
+Dans [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]], la PaduTeam révèle un détail structurel : le groupe PS à l'Assemblée nationale est mené par Vallaud, "un type qui veut la mort [de Faure] et qui veut être le candidat." Faure, au lieu de s'appuyer sur son propre groupe, passe son temps avec "les clampins du groupe des verts" (Ruffin, Autain, Corbierre, Tondelier)[^vallaud-chef-groupe] — ce qui l'expose encore davantage. Vallaud est dans la position idéale : chef du groupe majoritaire à gauche à l'AN, sans s'être compromis dans la primaire noisette.
+
+[^vallaud-chef-groupe]: [21:47](https://www.youtube.com/watch?v=WpfmoXD7yMI&t=1307) — "son groupe à lui son groupe à l'Assemblée nationale il est mené par Boris Valot. C'est un type qui veut sa mort et qui veut être le candidat tu vois."
+
 ## Vidéos où Vallaud est analysé
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — révélé comme chef du groupe PS à l'AN, ce qui fait de lui l'épée de Damoclès sur Faure ; Faure isole chez les verts pendant que son propre groupe est mené par l'adversaire.
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — assume la non-censure "la mort dans l'âme" ; présente des non-dégradations comme victoires ; bougonnement qui confirme son positionnement d'arbitre tenu à distance du désastre Faure.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Désigné successeur naturel de Glucksmann dans l'espace PS : "fidèle depuis toujours de Hollande", en train de se "frayer un chemin" après la branche Glucksmann cassée.
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Fait 16,18 % au 1er tour grâce au soutien d'Attal (27 mars 2027). Appelé "le Kamala Harris français" par France Inter et Libération. Appelle à voter Mélenchon au 2nd tour.

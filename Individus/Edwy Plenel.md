@@ -48,6 +48,9 @@ Plenel promeut l'argument de Faure selon lequel Mélenchon représenterait un «
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Cité comme "boussole qui indique le sud" : le fait qu'il soutienne Villepin signale que la candidature est idéologiquement inconsistante [41:27]
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Analyse complète de sa trajectoire trotskiste → atlantiste → deuxième gauche ; démonstration que son soutien à Faure est la continuation logique de son soutien à Villepin
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — Plenel cité comme responsable de la ligne éditoriale anti-Mélenchon de Mediapart ; question sur la démocratie interne de Mediapart retournée : "j'aimerais bien savoir si Mediapart est démocratique pour choisir ces sujets ou c'est pas le comité comme Plenel et cetera qui a un agenda politique"[^5258]
+
+[^5258]: [52:58](https://www.youtube.com/watch?v=hC5OFGoKrII&t=3178) — « j'aimerais bien savoir si Média part est démocratique pour choisir ces sujets ou c'est pas le comité comme Plenel et cetera qui a un agenda politique et qui l'impose. »
 
 [^0305]: [3:05](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=185) — « Plenel, c'est vraiment le un des cristaux purs de [ce] tournant atlantiste néolibéral. »
 [^0335]: [3:35](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=215) — « En étant antisoviétique pendant la guerre froide, de fait tu te retrouves souvent à être un peu atlantiste. »

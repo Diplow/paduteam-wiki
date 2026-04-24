@@ -38,10 +38,19 @@ La deuxième gauche est l'adversaire principal de la [[Gauche de rupture]] dans 
 
 La deuxième gauche est également analysée comme le vecteur de la récupération idéologique : elle « pompe le programme » de LFI (Palestine, retraites, services publics) pour le diluer et le rendre compatible avec le budget macroniste.
 
+## La "bataille des deux gauches" comme condition de victoire de Mélenchon
+
+Dans [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]], la PaduTeam formule la thèse la plus directe sur le rôle de la deuxième gauche dans la séquence 2027 : la victoire de Mélenchon passe par la **bataille des deux gauches au premier tour**, avant tout affrontement avec l'extrême droite. Cette bataille est fonctionnellement utile même si les candidats de la deuxième gauche (Hollande, Glucksmann, Faure) poursuivent des politiques identiques à Macron 2017 — ce qui compte, c'est qu'ils se positionnent à gauche dans les "structures mentales" des électeurs macronistes et qu'ils appellent à voter Mélenchon au second tour. La deuxième gauche est à la fois l'adversaire à battre au premier tour et la condition indispensable d'un barrage au second[^1359dg].
+
+Ce mécanisme explique pourquoi la PaduTeam ne réclame pas la disparition de Hollande ou de Faure — leur présence au premier tour est nécessaire pour "regauchiser" l'électorat central. La victoire de Mélenchon au premier tour se fait **grâce à** l'existence d'une deuxième gauche crédible, pas en son absence.
+
+[^1359dg]: [13:52](https://www.youtube.com/watch?v=hC5OFGoKrII&t=832) — « il y a une bataille décisive dans cette guerre, c'est la bataille des deux gauches. Parce que cette bataille des deux gauches va permettre un de regauchiser, même si c'est exactement la même politique que Macron 2017, mais dans les structures mentales des électeurs de les faire réapparaître comme de gauche. »
+
 ## Vidéos où le concept est développé
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Formulation la plus complète : Plenel comme cristal pur de la deuxième gauche ; démonstration que soutien Villepin → soutien Faure est une trajectoire cohérente, pas une contradiction
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — Les « noisettes » comme version incohérente de la deuxième gauche : ni la rupture de LFI, ni l'assurance du PS
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Faure comme figure de la deuxième gauche cherchant à gouverner sous Macron
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — Formulation de la "bataille des deux gauches" comme condition de victoire ; Mediapart comme vecteur éditorial de la deuxième gauche dans le débat "Mélenchon peut-il gagner ?"
 
 [^0453]: [4:53](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=293) — « Le passage de l'un à l'autre pour moi c'est le passage d'une noisette centre-droit à une noisette centre-gauche. »
 [^2140]: [21:43](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=1303) — « La dernière fois que son parti politique a tout entre les mains, ils ont appliqué des trucs de droite. »

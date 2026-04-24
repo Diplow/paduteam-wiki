@@ -56,4 +56,5 @@ La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des mu
 ## Vidéos où Chikirou est analysée
 - [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Lawfare en 3 étapes : timing politique, relais presse progressiste, amplification extrême droite ; disproportion des 67 000 € ; cas d'école de l'offert contre une candidate LFI en campagne.
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Avant les municipales : base de 30 % (Mélenchon 2022) sous-estimée par les sondages ; prescriptions stratégiques (mesures logement, modèle Mamdani) ; figure de "Zoran Mamdani" parisienne face au front PS-Verts-PCF.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Signal avant les élections : des cadres écologistes parisiens (Menier, Glaise) quittent l'alliance PS pour rejoindre sa liste, malgré les sondages à 10 %. La PaduTeam y lit la preuve que ces élus voient le rapport de force réel et choisissent leur camp.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Campagne "Plus jamais PS" à Paris ; se maintient malgré la pression ; démonstration que Grégoire gagne sans elle et que Dati n'est pas Hitler.

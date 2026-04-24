@@ -68,3 +68,4 @@ Référence concrète : Duralex (levée de fonds collective de 5 millions en que
 ## Vidéos où ce concept est développé
 
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — formulation initiale du concept, démontage en direct de la séquence Mif Expo, mécanisme femme sandwich, alternative jean nationalisé/socialisé
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Développement connexe : critique du "capitalisme productiviste" comme oxymore (tout capitalisme est par définition productiviste). La Chine comme contre-exemple de planification écologique réussie (0% → 50% de voitures électriques en 5 ans) contre le discours de la finitude des ressources. Formulation de l'alternative : sortir de la valeur, du royaume de la nécessité pour aller vers le royaume de la liberté.

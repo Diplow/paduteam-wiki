@@ -147,6 +147,25 @@ Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définiti
 
 [^barrage-partielle]: [32:28](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=1948) — "Retaillo veut tuer d'abord le RN pour être l'opposant de la gauche. [...] Retailleau se positionne parfaitement pour concurrencer le RN [...] et montrer qu'il est vraiment l'alternative absolue."
 
+## La campagne présidentielle : "le Glucksmann de droite" (jan. 2026)
+
+Lancée officiellement en janvier 2026, la campagne de Retailleau est analysée par la PaduTeam comme un recyclage pur du sarkozyisme 2007 : sécurité, travail, immigration. Ses slogans ("La France repart, travail gagnant", "Éteindre la télé, reprendre le travail. La France n'est pas une sitcom") et son programme (zéro cotisation sur les heures supplémentaires pour un "13e mois") copient Sarkozy jusqu'aux détails visuels — la photo à la tronçonneuse rappelle explicitement le clip de campagne de [[Bruno Megret]] en 2002 (télécommande)[^campagne-com].
+
+La PaduTeam établit un parallèle structurel fort : Retailleau est "le Glucksmann de droite" — même stratégie sans primaire, sans union, pour capter un espace électoral vacant (l'espace filloniste/sarkoziste). [[Sarah Knafo]] est à droite ce que [[Marine Tondelier]] est à gauche : même fragment de 4%, même fonction. Et son rival interne Voqué (chef de groupe à l'Assemblée) joue le rôle d'Olivier Faure : l'homme de l'union des forces contre l'homme des slogans.
+
+**Le mensonge du 13e mois.** Sa mesure phare — défiscalisation des heures sup pour financer un 13e mois — est un enfumage selon la PaduTeam : baisser les cotisations, c'est transférer le financement collectif vers des assurances privées dont le modèle est le profit, pas la couverture. "L'argent qu'on met en commun, vous allez devoir le dépenser à l'échelle individuelle en passant par du privé qui va vous ponctionner de la tune."
+
+**L'argument fatal de l'espérance de vie.** Retailleau accuse les 35h et la retraite à 60 ans d'avoir appauvri les Français (1 sur 6 ne se soigne pas, 1 sur 10 ne mange pas à sa faim). La PaduTeam sort le chiffre : l'espérance de vie en bonne santé en France est de **63 ans**[^espe-vie]. Proposer de faire travailler les gens jusqu'à 67 ans quand ils sont en mauvaise santé à 63 est qualifié de "folie" et de "mesure de classe absolue pour asservir les classes populaires au travail."
+
+**La communication catastrophique comme révélateur.** Les affiches (doigt pointé uncle-Sam-style avec sourire crispé, slogan sitcom avec fond new-yorkais à la Friends, photo à la tronçonneuse sous-Milei) sont analysées comme symptôme : un "expert-comptable vendéen en doudoune sans manche" essayant d'emprunter les codes de la virilité populiste sans en avoir ni le charisme ni la légitimité sociale.
+
+[^campagne-com]: [41:04](https://www.youtube.com/watch?v=y6ISuxtafAg&t=2464) — "Retailleau c'est un peu le Glucksmann de droite. C'est quelqu'un qui pense qu'il y a un espace post-macroniste à reprendre et lui il revient à 2017."
+[^espe-vie]: [27:32](https://www.youtube.com/watch?v=y6ISuxtafAg&t=1652) — "L'espérance de vie en bonne santé en France est de 63 ans. De quoi tu parles, Bruno ?"
+
+## Racines vendéennes et trajectoire (profil complet)
+
+Pur produit du bocage vendéen (territoire le plus à droite de Vendée), formation dans l'enseignement privé catholique, catholique pratiquant. Cavalier bénévole puis salarié au Puy du Fou, parti de [[Philippe de Villier]] (MPF). Sénateur de Vendée en 2004. Exclu du MPF en 2008 (trop radical), rejoint l'UMP et l'orbite Fillon. Président du conseil régional des Pays de Loire. Candidat au leadership LR en 2021 (se retire), puis en 2022 (34% au 1er tour, 46% au 2nd face à Ciotti). Nommé ministre de l'Intérieur du gouvernement Barnier le 21 septembre 2024. Président de LR en 2025 avec 76%.
+
 ## Vidéos où Retailleau est analysé
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — veto sur Bruno Le Maire ; fait tomber le gouvernement en 14h ; stratégie de séparation du "socle commun" pour imposer ses conditions à Macron
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
@@ -170,3 +189,4 @@ Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définiti
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — appel à ne pas voter NFP dans la partielle du Tarn-et-Garonne ; stratégie Chirac 81 analysée ; confirmation de la prophétie du 2002 inversé
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Fracture avec Wauquiez ; exclusion des élus allés au gouvernement ; positionnement trumpiste pour capter l'électorat Le Pen
 - [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — cité comme exemple de la contradiction des libéraux "anti-euthanasie" : s'oppose à la loi pour des raisons religieuses tout en détruisant l'hôpital ; "il porte très bien le Hugo Boss Bruno Retailleau" selon Padu (référence à l'uniforme nazi)
+- [[RETAILLEAU LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRESIDENTIELLE]] — Analyse complète de sa campagne présidentielle (jan. 2026) : stratégie Sarkozy 2007, programme néolibéral camouflé en "travail qui paye", communication catastrophique (doigt pointé, tronçonneuse, sitcom) ; parallèle "Glucksmann de droite"

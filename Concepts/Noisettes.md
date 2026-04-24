@@ -139,6 +139,20 @@ La PaduTeam formalise dans [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]]
 
 La conclusion est identique à toutes les configurations noisettes précédentes : "des stratégies de gens qui partent déjà en ayant perdu [...] si je le déshonneur et pas la guerre, à la fin, ils ont la guerre et le déshonneur."
 
+## La primaire des noisettes vue du dessus (début 2026)
+
+L'annonce officielle de la date (11 octobre) et du mode de scrutin préférentiel permettent à la PaduTeam de formuler la conclusion analytique définitive sur la dynamique noisette : "Est-ce qu'on la baptisant reine des noisettes nous on l'a pas déjà élu ? C'est-à-dire qu'est-ce qu'on a pas déjà compris la primaire avant même que la primaire se fasse ?"
+
+La sociologie de l'électorat de la primaire est clé : ce sera un électorat haut sur le [[Graphique]] (bourgeoisie progressiste, "retraités riches" qui "se posent beaucoup la question"). Cet électorat ne votera pas Ruffin car il "incarne pas assez la présidentialité" et ne "votera pas Autain" pour des raisons de ligne. Il votera Tondelier. Mélenchon, lui, ne "tombe jamais là-dedans" (distribuer des tracts pour se montrer terrain) parce qu'il comprend son rôle.
+
+## La purge noisette : quand la noisette mange ses propres ailes
+
+La purge des 500 militants écologistes (janvier 2026) illustre un mécanisme inédit : la noisette prise entre les deux blocs finit par purger sa propre aile gauche pour survivre dans le camp PS. [[Marine Tondelier]] sacrifie 500 militants qui réclamaient une écologie de rupture pour donner des gages à [[Olivier Faure]] et maintenir la [[Primaire des noisettes]]. La PaduTeam identifie l'ironie : en purgant son aile gauche, Tondelier risque de faire réémerger [[Yannick Jadot]] par la droite, qui sera alors mécaniquement plus à droite qu'elle dans un parti ramolli. "C'est toujours un peu le problème quand tu es sur un jeu d'équilibriste, il faut que tu gardes à la fois ton aile gauche et ton aile droite."[^purge-equilibriste]
+
+Pendant ce temps, des cadres du conseil municipal de Paris (Émile Menier, Jérôme Glaise) choisissent la liste FI de [[Sophia Chikirou]]. Exactement comme prévu : l'aile droite EELV va vers le PS, l'aile gauche vers la FI, il ne reste que l'appareil Tondelier.
+
+[^purge-equilibriste]: [38:47](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2327) — "Le risque en perdant 400 ou 500 militants de gauche, c'est que Jado réémerge parce qu'il sera plus à droite qu'elle et prenne le pouvoir." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
+
 ## Vidéos clés
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Saga complète du royaume des noisettes, bilan 2025 des 4 maisons
@@ -160,3 +174,7 @@ La conclusion est identique à toutes les configurations noisettes précédentes
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Tondelier "reine des noisettes" dans sa dimension capitalisme vert : son écologie de boutiquiers (jean 1083, "perma industrie") est la face consumériste de la noisette bio — ni programme, ni rupture, juste du marché de niche progressiste.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Verdict : "au combat des noisettes, la branche Glucksmann vient de casser." Présente la mécanique du casse-noisette appliquée à Glucksmann : il se croyait une "pince du casse-noisette" (force tirant de l'espace centre-gauche), mais il était lui-même une noisette du grand casse-noisette PS. "Tout est relatif comme dirait Einstein : vous pouvez être une branche du casse-noisette à l'échelle d'une configuration [...] mais une noisette dans un plus grand casse-noisette."
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance PCF-PS-Verts à Paris comme cas d'école de la rhétorique noisette : invocation du danger d'extrême droite dans une ville à 7 % RN. Formalise le discours-type : "je trahis car il y a l'extrême droite en face."
+- [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]] — Démontage du programme TF1 de Ruffin "roi des noisettes" : statut des travailleurs essentiels = dog whistle de droite, présidentialisme au SMIC = validation pénuriste. Thèse : la primaire des noisettes sera votée par les classes supérieures, Ruffin n'aura pas "les codes."
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Analyse du mode de scrutin préférentiel comme dispositif taillé pour Tondelier : "est-ce qu'on l'a pas déjà élue avant même que la primaire se fasse ?" Sociologie de l'électorat de la primaire (haut Graphique = bourgeoisie progressiste) qui exclut Ruffin et favorise Tondelier. "Impasse mexicaine" du parrainage des 500 élus.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — La purge noisette : quand la noisette mange ses propres ailes pour survivre dans le camp PS. 500 militants de l'aile gauche EELV exclus pour avoir signé une tribune anti-PS. Mécanisme noisette poussé à son terme : tout sacrifier à la primaire, y compris la base militante.
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — Démonstration que la primaire noisette sert à renforcer l'appareil des écologistes, pas le PS ni la gauche de rupture. Kanner pointe que Faure est sur la photo "avec le groupe des verts à l'Assemblée nationale" — révélant malgré lui que la primaire noisette est une pompe à votes pour EELV.

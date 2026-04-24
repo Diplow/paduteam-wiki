@@ -63,6 +63,21 @@ En octobre 2025, deux événements confirment simultanément la prophétie : [[A
 
 [^confirmation-w42]: [13:26](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=806) — "Vraiment nous c'est ce qu'on a dit, c'est 2002 sera un 2002 à l'envers. [...] Belles et but, c'est vraiment devenu belles et but. Faut l'assumer à fond."
 
+## Confirmation W05-W06 2026 : Retailleau = "Glucksmann de droite"
+
+Dans [[RETAILLEAU LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRESIDENTIELLE]] (jan. 2026), la PaduTeam pose le parallèle structurel qui valide la prophétie : [[Bruno Retailleau]] fait exactement ce que [[Raphael Glucksmann]] fait à gauche — capter un espace électoral post-macroniste sans primaire ni union, avec des slogans et des thèmes (l'espace filloniste/sarkoziste pour l'un, l'espace hollandiste pour l'autre). [[Sarah Knafo]] y est à droite ce que [[Marine Tondelier]] est à gauche : même fragment résiduel de ~4%. La capsule est tournée le 21 janvier 2026, moment où la prophétie s'articule clairement : Retailleau à 14% est la cible, ni plus ni moins, pour que la prophétie s'accomplisse[^jan26].
+
+[^jan26]: [53:23](https://www.youtube.com/watch?v=y6ISuxtafAg&t=3203) — "Pour la prophétie du sein graphique, nous avons besoin qu'il tape 15, d'accord ? S'il te plaît. Donc, tu essayes de pas trop le [saboter] non plus. Nous, on a besoin qu'il fasse 15, d'accord ? 15, pas plus, pas moins."
+
+## La primaire noisette comme confirmation (début 2026)
+
+L'annonce officielle de la primaire des noisettes (date du 11 octobre, mode de scrutin préférentiel, Ruffin + Tondelier + Autain sans LFI ni Glucksmann) est lue par la PaduTeam comme la confirmation mécanique de la prophétie : "déjà tu as quasiment la prophétie qui est là." Les conditions sont réunies :
+- PCF, FI, PS de droite présentent des candidats séparés
+- Les noisettes ne peuvent pas dépasser 6-8% chacune
+- L'espace de la primaire confirme l'éclatement à gauche autour d'un candidat central (Tondelier)
+
+La PaduTeam rappelle la prophétie en direct : dans leur projection, Tondelier et Ruffin se séparent au moment décisif. Tondelier va à la primaire. Ruffin — la question est encore ouverte : ira-t-il seul ou pas ?
+
 ## Vidéos où le concept est analysé
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — La version initiale de la prophétie (second tour Mélenchon/Le Pen) : Mélenchon à 16,86 %, Le Pen à 19,8 %, victoire 58,2 % / 41,8 %. Inclut l'analyse Graphique de 2002, 2022 et 2027. Différente de la "prophétie du 2002 inversé complet" (variante Hollande) — c'est ici le scénario "standard" où c'est bien Mélenchon/Le Pen au second tour[^initial]
 
@@ -74,3 +89,6 @@ En octobre 2025, deux événements confirment simultanément la prophétie : [[A
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — La diabolisation post-mort Quentin Deranque confirme la trajectoire : le bloc bourgeois accélère la marginalisation de la FI parce qu'ils voient le risque Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Toutes les forces de la prophétie confirmées par les résultats. "On va avoir raison de A à Z." Scénarios 2027 développés avec les 4 possibilités de second tour.
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — Double confirmation en octobre 2025 : Finkielkraut vote Le Pen, Retailleau refuse de voter NFP ; parallèle Chirac 81 ; "ils font exactement ce qu'on a prédit dans la prophétie"
+- [[RETAILLEAU LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRESIDENTIELLE]] — Confirmation jan. 2026 : parallèle Retailleau/Glucksmann et Knafo/Tondelier ; cible 14-15% explicitement formulée comme condition de la prophétie
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — "Déjà tu as quasiment la prophétie qui est là" : PCF + FI + PS de droite séparés, noisettes broyées, Tondelier vs Ruffin en route vers la séparation prédite.
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — La prophétie réaffirmée en réaction à Mediapart : Hollande déclarant qu'entre Mélenchon et Le Pen il voterait Mélenchon est fonctionnellement utile à la prophétie ; la "droite linéaire" de Servet Mersal (12→19→22%) est la version apolitique et insuffisante de ce que la prophétie structure différemment

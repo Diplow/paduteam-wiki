@@ -55,5 +55,6 @@ L'hégémonie américaine ne craque plus seulement à la périphérie (Iran, Ven
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
+- [[BARDELLA S'APLATIT DEVANT TRUMP]] — "Quand une gigantesque puissance se retrouve avec une crise sociale interne majeure et mise en difficulté à l'international, c'est extrêmement dangereux. Le seul truc qui va leur rester pour pouvoir se maintenir, ça va être la guerre."
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Front intérieur de la crise : 20% exports chinois via Californie, négociations Londres concomitantes aux émeutes, tarifs de douane californiens autonomes
 - [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Tripartition Chine/Europe/USA ; acculement de l'empire ; Trump en "poisson hors de l'eau" ; [[Bulle de l IA]] comme seul débouché fictif des capitaux américains

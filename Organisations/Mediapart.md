@@ -33,10 +33,16 @@ La PaduTeam distingue les journalistes de Mediapart (comme [[Romaric Godin]] pou
 - [[Romaric Godin]] — journaliste économique, cité favorablement par la PaduTeam
 - [[Fabrice Arfi]] — journaliste d'investigation, travaux sur les affaires Sarkozy
 
+### Le "plan Mediapart" anti-Mélenchon (février 2026)
+La PaduTeam analyse une vidéo Mediapart sur "Mélenchon peut-il gagner en 2027 ?" comme un dispositif structuré : aucun représentant de la France insoumise invité, deux intervenants partageant l'agenda noisette/primaire, validation apparente de la victoire de Mélenchon combinée à l'injection systématique des thèmes adverses — antisémitisme, absence de démocratie interne, "Palestine trop présente", conflictualité suicidaire. Le plan consiste à dire que Mélenchon va gagner tout en instillant que ce serait dangereux[^0338mediapart]. La PaduTeam formule explicitement : « En vrai ça sert à quoi de faire un plateau sur un média indépendant pour dire ça tu vois ? Tu peux l'entendre partout en fait. »[^0508mediapart]
+
 ## Vidéos où Mediapart est analysé
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — article de Romaric Godin cité comme source économique
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — plateau où [[Sarah Legrain]] aurait dit "moïsation", point de départ de la popularisation du terme dans les médias mainstream
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Interview Faure du 17 octobre 2025 analysée comme manifeste de la deuxième gauche ; ambivalence PaduTeam formulée explicitement
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — Anatomie du dispositif anti-Mélenchon : plateau sans FI, défenseur mou (noisette), injection des thèmes adverses sous couverture analytique
 
 [^0010]: [0:10](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=10) — « Mediapart c'est un article sur deux, je me dis "Quel banger". Et un article sur deux, je me dis "Faut que je me désabonne de ce truc, c'est des atlantistes." »
 [^1530]: [15:30](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=930) — « Médiapart décide de ne pas rappeler que c'est pas une suspension mais un décalage. »
+[^0338mediapart]: [3:19](https://www.youtube.com/watch?v=hC5OFGoKrII&t=199) — « Médiapart est en train de dire comment il va gagner tout en instillant que faudrait surtout pas qu'il gagne parce que c'est un gars dangereux donc c'est extrêmement catastrophique. »
+[^0508mediapart]: [5:08](https://www.youtube.com/watch?v=hC5OFGoKrII&t=308) — « En vrai ça sert à quoi de faire un plateau sur un média indépendant pour dire ça tu vois ? Tu peux l'entendre partout en fait tu vois. Je comprends pas l'intérêt de financer un média indépendant et je le finance, je suis abonné à Médiia part donc voilà. »

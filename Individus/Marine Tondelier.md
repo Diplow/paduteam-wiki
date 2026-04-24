@@ -120,6 +120,29 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 
 [^femme-sandwich]: [21:39](https://www.youtube.com/watch?v=Wp5cDiWWgd4&t=1299) — dans [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]].
 
+## Clip de campagne primaire (début 2026)
+
+Tondelier publie un clip de campagne dès le jour du lancement officiel de la primaire — seule candidate à le faire, preuve qu'un "appareil avec des gens payés" est derrière elle. La PaduTeam décortique le clip : aucune idée programmatique, seulement des "blablabla" (France de la joie, réparer, apaiser, aucune cause oubliée). Verdict : "on dirait une campagne de présidente de région." Pas d'international, pas d'image militaire, pas de macro-économie — "vraiment une campagne locale quoi." La PaduTeam y voit leur "fausse conscience et leur incapacité à comprendre les problèmes macro sociaux."
+
+La structure du clip est identifiée comme la stratégie Kamala Harris : "On a trouvé notre Camala Haris française, c'est Marine Tondelier." Union contre l'extrême droite, apaisement, aucune rupture, formulations à géométrie variable ("si je suis désignée j'en serai honorée, sinon je la soutiendrai immédiatement"). La PaduTeam note qu'elle "sait qu'elle va gagner" (mode de scrutin préférentiel lui est favorable) — donc cette générosité affichée ne lui coûte rien.
+
+## Mode de scrutin préférentiel : la primaire truquée pour Tondelier
+
+Selon l'analyse de Stefano Palombarini (citée par la PaduTeam), le mode de scrutin préférentiel choisi pour la primaire (voter pour plusieurs candidats en les classant par ordre de préférence) désigne mécaniquement le candidat le plus central entre les deux pôles. Avec [[Clémentine Autain]] à gauche et [[Francois Ruffin]] à droite, Tondelier est ce candidat central. La PaduTeam : "C'est un truc vraiment pour la reine des noisettes." Le même dispositif avait fait gagner Tobira à la primaire populaire 2022.
+
+L'objectif réel de la primaire est de préserver l'appareil écologique ([[Europe Ecologie Les Verts]]) : c'est le seul grand appareil disponible hors PS et FI. Il faut donc "faire élire la reine des noisettes" pour sauver cet appareil entre les deux blocs. "Tout est fait. Est-ce qu'on la baptisant reine des noisettes nous on l'a pas déjà élu ?"
+
+## La purge des 500 (janvier 2026)
+
+Quand près de 500 militants et cadres des Écologistes signent une tribune dans Mediapart réclamant une "écologie de rupture" et critiquant l'alliance nationale avec le PS, Tondelier répond par une menace d'exclusion explicite : retirer sa signature avant dimanche soir ou être purgé[^purge-mail]. Julia Minaka, présidente de la Fédération des écologistes, est la figure la plus visible de la purge.
+
+La PaduTeam souligne la contradiction : au moment des non-investitures LFI (Garrido, Corbière, Autain), Tondelier avait convoqué ses instances en disant être "extrêmement choquée". Elle purge maintenant 500 militants pour avoir signé un article de blog[^purge-choc]. Deuxième contradiction : la purge de l'aile gauche risque de faire réémerger Jadot, qui sera mécaniquement plus à droite qu'elle une fois l'équilibre interne perdu.
+
+La logique est limpide selon la PaduTeam : "tout tient à la primaire des noisettes pour elle. Donc elle va aller jusqu'au bout de sa purge quoi."
+
+[^purge-mail]: [38:15](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2295) — "si vous le retirez d'ici dimanche soir, en gros vous êtes pas exclu sinon vous êtes exclus du parti quoi. Donc c'est une véritable purge." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
+[^purge-choc]: [46:01](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2761) — "Marine Tellier avait dit, 'Moi, j'ai appris ça cette nuit. J'étais extrêmement choquée'. Alors qu'elle, elle est en train de virer 500 militants." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
+
 ## Vidéos où Tondelier est analysée
 - [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
@@ -142,3 +165,5 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Salon Mif Expo : essaie des jeans 1083, démontage du mécanisme "femme sandwich du capitalisme vert" (publicité gratuite pour une SAS capitaliste), critique du changement par la consommation, violence de classe de la sobriété imposée, alternative : jean nationalisé/socialisé sur le modèle Duralex.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — L'aile droite EELV s'abstient sur le PLFSS 2026 (26 abstentions décisives) pour sauver Faure et maintenir la primaire. L'aile gauche (Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture entre anciens FI et encartés Verts autour de Tondelier.
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Clip de campagne primaire décortiqué : aucune idée programmatique, "campagne de présidente de région", stratégie Kamala Harris, mode de scrutin préférentiel analysé comme dispositif taillé pour son élection.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Purge de 500 militants de l'aile gauche qui ont signé une tribune anti-PS dans Mediapart. Contradiction avec sa posture "choquée" face aux non-investitures LFI. Risque de faire réémerger Jadot. Correspondance Bompard/Vanier révèle que la FI cherchait des accords que la direction EELV a systématiquement refusés.

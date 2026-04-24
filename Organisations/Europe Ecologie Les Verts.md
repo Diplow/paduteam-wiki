@@ -50,6 +50,18 @@ La logique derrière : maintenir [[Marine Tondelier]] comme cheffe de file d'une
 
 L'aile gauche du groupe — [[Francois Ruffin]], Hendrick Davi, Sabrina Sbai, Daniel Simonet, Clémentin — qui sont les anciens de la FI, ont voté contre. [[Dominique Voynet]] (jospiniste, ex-candidate à la présidentielle) et deux autres figures ont voté pour — signe de l'aile droite EELV qui penche vers le PS de fait. La PaduTeam : "vous comprenez bien que ça veut dire que les verts ceux qui sont dans le parti, les écologistes, ça veut dire qu'ils se sont abstenus et donc qu'ils ont permis le passage de ce budget."
 
+## La purge des 500 et l'explosion interne (janvier 2026)
+
+Quand 500 militants et cadres signent une tribune Mediapart réclamant une "écologie de rupture" contre l'alliance nationale PS, la direction Tondelier envoie un ultimatum : retirer sa signature avant dimanche soir ou être exclu. Julia Minaka, présidente de la Fédération des écologistes, est la figure centrale de la purge.
+
+Simultanément, des cadres du conseil municipal de Paris — Émile Menier (présidente commission urbanisme) et Jérôme Glaise (vice-président commission finances) — basculent vers la liste de [[Sophia Chikirou]]. La PaduTeam y lit le mécanisme prédit : les élus écologistes choisissent leur camp entre les deux gauches, au niveau municipal, avant même la présidentielle.
+
+La correspondance entre [[Manuel Bompard]] et le bureau politique EELV (26 décembre 2025, publiée par Bompard) révèle l'hypocrisie organisationnelle : la direction EELV invoque la subsidiarité locale pour refuser tout accord national avec la FI, tout en négociant des soutiens PS au niveau national. Elle bloque les listes communes FI-EELV dans toutes les grandes villes (Paris, Marseille, Toulouse, Rennes, Nantes, Brest) tout en les autorisant dans de petites communes. Paul Vanier (LFI) dans sa réponse : "cette règle semblait réservée aux discussions avec la France insoumise."[^bompard-hypo]
+
+La PaduTeam avance l'analyse : tout est subordonné à la destinée présidentielle de Tondelier. Faire des listes communes avec de l'Ogu à Marseille la tuerait dans ses négociations avec Faure pour la primaire. "Sa stratégie à elle personnelle d'aller à la présidentielle fait qu'elle est en train d'exploser tout le monde."
+
+[^bompard-hypo]: [49:34](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2974) — "cette règle semblait réservée aux discussions avec la France insoumise puisque vous avez fait savoir publiquement que vous aviez travaillé avec le Parti socialiste à des accords de soutien réciproque au niveau national." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
+
 ## Vidéos où l'organisation est analysée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature officielle ; primaire interne avec 6 800 votants contre Walid Mouali ; islamophobie structurelle (Médine, Rima Hassan, Ali Diouara) ; sécurité sociale de l'alimentation proposée sans programme anticapitaliste cohérent ; douceur comme marque de fabrique de l'espace haut-milieu du Graphique
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
@@ -57,3 +69,4 @@ L'aile gauche du groupe — [[Francois Ruffin]], Hendrick Davi, Sabrina Sbai, Da
 - [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]] — Analyse [[Ecologie punitive]] des Verts (ZFE, voiture, logistique capitaliste du territoire) ; vote crédits de guerre ; prévision 3-4% seule à la présidentielle 2027
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Noisettes originelles". Duflot (Oxfam) propose de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN. Impasse de l'écologie sans anticapitalisme : ni collapsologie nihiliste ni incitations marchandes ne peuvent remplacer la socialisation des moyens de production.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 : l'aile droite EELV s'abstient (26 voix décisives) pour sauver Faure et maintenir la primaire des noisettes. L'aile gauche (anciens FI : Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture interne entre les deux tendances.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — 500 militants de l'aile gauche purgés pour avoir signé une tribune anti-PS dans Mediapart. Correspondance Bompard/Vanier révèle la subsidiarité à géométrie variable d'EELV. Des cadres parisiens (Menier, Glaise) rejoignent la liste Chikirou. La guerre des gauches commence au municipal.
