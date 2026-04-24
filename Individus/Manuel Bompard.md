@@ -32,7 +32,16 @@ Face à l'affiche LFI représentant [[Cyril Hanouna]] avec des codes visuels ant
 
 Contraste avec [[Fabien Roussel]] qui exploite l'affaire sur BFM en comparant Mélenchon à Trump sans jamais apporter cette nuance.
 
+## Modèle de la radicalité propre (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la PaduTeam cite Bompard comme le modèle de la posture FI correcte dans un contexte de nassage. Il est "très conflictuel dans ses interviews, mais il fait très peu d'erreurs et il le fait proprement" : il explique rationnellement les positions, et c'est la radicalité du fond qui pousse les journalistes à le taper dessus — pas une erreur de forme. Exemple paradigmatique : "tu dis il faut arrêter un génocide et on tape dessus. Et du coup, ben la personne un peu normale se dit 'Mais pourquoi est-ce qu'on tape sur un gars qui dit qu'il faut arrêter un génocide ?'"[^bomp-modele]
+
+La formule recommandée pour la FI : "ultra serein et républicain sur la forme et ultra en rupture sur le fond" — Bompard en est l'incarnation.
+
+[^bomp-modele]: [14:27](https://www.youtube.com/watch?v=BaoHrF9zy24&t=867) — "Manuel Bompard est très conflictuel dans ses interviews, mais il fait très peu d'erreurs et il le fait proprement. C'est-à-dire que il explique rationnellement les positions et ces positions-là, le fait qu'elles soient radicales, ça pousse en fait les journalistes à leur taper dessus et que ça paraisse débile."
+
 ## Vidéos où Bompard est analysé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Cité comme modèle de la radicalité propre face au nassage : conflictuel sur le fond, serein sur la forme, pas d'erreurs, oblige les journalistes à taper sur des positions défendables
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Débat BFM TV, victoire analytique, décodage par Padu/Chris
 - [[AFFICHE ANTISEMITE ROUSSEL MELENCHON TRUMP]] — Gestion calme et correcte de l'affaire de l'affiche Hanouna — contraste avec l'opportunisme de Roussel
 - [[BOMPARD OU FAURE QUELLE STRATEGIE CONTRE BAYROU POUR LA GAUCHE]] — Incarne la ligne LFI : voter la censure avec le RN n'est pas une compromission, c'est le but. Contraste avec la mollesse de Faure. La PaduTeam salue la cohérence de sa position face au budget Bayrou 2026.

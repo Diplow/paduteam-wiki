@@ -33,10 +33,19 @@ La PaduTeam distingue les journalistes de Mediapart (comme [[Romaric Godin]] pou
 - [[Romaric Godin]] — journaliste économique, cité favorablement par la PaduTeam
 - [[Fabrice Arfi]] — journaliste d'investigation, travaux sur les affaires Sarkozy
 
+### Mediapart comme nœud de diffusion du cordon sanitaire anti-LFI (mars 2026)
+
+L'opération Plenel du 27 février 2026 révèle une nouvelle facette de Mediapart : non plus simplement "caisse de résonance de la deuxième gauche" mais **premier maillon d'une chaîne de diffusion coordonnée** contre Mélenchon. La PaduTeam décrit le circuit : Mediapart publie → réseaux du centre (Printemps républicain) reprennent → extrême droite amplifie → gauche "de témoignage" (Tondelier, Castet, Roussel) se retrouve du même côté. Mediapart ferme les commentaires après avoir "pris une gigantesque sauce" (1964 commentaires) mais Plenel republie l'article en anglais 48h après, en pleine frappe américano-israélienne sur l'Iran[^0455mp].
+
+La version anglaise de Mediapart — confirmée par ce tweet — est le signe que le journal n'est pas seulement national : il s'inscrit dans un réseau atlantiste international. Pour la PaduTeam, c'est "signé" : la coordination entre la publication française, la sauce, et la republication en anglais dans le contexte géopolitique de l'attaque sur l'Iran révèle l'agenda.
+
 ## Vidéos où Mediapart est analysé
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — article de Romaric Godin cité comme source économique
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]] — plateau où [[Sarah Legrain]] aurait dit "moïsation", point de départ de la popularisation du terme dans les médias mainstream
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Interview Faure du 17 octobre 2025 analysée comme manifeste de la deuxième gauche ; ambivalence PaduTeam formulée explicitement
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Mediapart comme premier maillon de la chaîne anti-LFI ; version anglaise comme signal atlantiste ; 1964 commentaires, commentaires fermés ; opération de Manufacturing Consent
+
+[^0455mp]: [4:55](https://www.youtube.com/watch?v=WctyXuw_zss&t=295) — « Là, quand on vous parle de coordination, vraiment faut voir ce que le mec est en train de faire quand il fait ça. C'est signé quoi. »
 
 [^0010]: [0:10](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=10) — « Mediapart c'est un article sur deux, je me dis "Quel banger". Et un article sur deux, je me dis "Faut que je me désabonne de ce truc, c'est des atlantistes." »
 [^1530]: [15:30](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=930) — « Médiapart décide de ne pas rappeler que c'est pas une suspension mais un décalage. »

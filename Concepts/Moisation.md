@@ -99,7 +99,17 @@ Lors du passage de Mélenchon à Radio Canada (2025), la PaduTeam formule explic
 
 Dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], la PaduTeam mobilise implicitement la Moïsation pour lire la trajectoire de Macron : ses sorties racistes ("Mamadou", "rabzous", "cocottes") ne sont pas des dérapages mais la révélation cohérente d'une pensée réactionnaire que la Moïsation rend visible. À mesure que les blocs se consolident, Macron ne peut plus prétendre être "au-dessus des partis" — il est contraint de choisir un camp, et il choisit de brosser dans le sens du poil les idées xénophobes de l'extrême droite pour conserver son bloc bourgeois. La Moïsation révèle ce que le moment populiste de 2017 masquait.
 
+## Le nassage de la FI dans l'extrême gauche : opération Hollande (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la PaduTeam formule explicitement le risque de "nasse" qui menace la gauche de rupture dans la dynamique moïsatrice. À mesure que la moïsation avance et que le bloc bourgeois se reconstitue autour d'Hollande, la question de qui prendra l'hégémonie sur le "bloc gauche" devient centrale. L'opération nassage vise à enfermer la FI dans un sous-espace "extrême gauche" à 12%, lui retirant ainsi tout accès au seuil du second tour.[^mois-nass]
+
+La formulation précise : "Il faut vraiment que la FI s'en sorte sinon ils ne seront que le faire valoir de François Hollande. Le vrai risque c'est de revenir [...] à cette situation prémacronienne" de 2012 — Hollande à plus de 28%, Mélenchon à 11,1%. La moïsation serait alors "défaite" pour la gauche de rupture, qui serait renvoyée à son espace pré-2017.[^mois-2012]
+
+[^mois-nass]: [07:47](https://www.youtube.com/watch?v=BaoHrF9zy24&t=467) — "Il faut absolument que la FI sorte de cette nasse là. Là, ils sont en train de se faire nasser."
+[^mois-2012]: [09:19](https://www.youtube.com/watch?v=BaoHrF9zy24&t=559) — "Le vrai risque c'est de revenir et c'est incarné là comme en 2012 avec une gauche plurielle là un groupe de gauche autour de Hollande qui fasse plus que Mélenchon qui avait fait entre 12 et 13 en 2012."
+
 ## Vidéos où le concept est analysé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Le nassage comme opération moïsatrice offensive : Hollande tente de renvoyer la FI dans l'espace "extrême gauche" à 12%, recréant la configuration pré-2017 (Hollande 28% / Mélenchon 11%) — l'inverse exact de ce que la moïsation post-2017 avait accompli
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]] — La moïsation est mobilisée pour expliquer la sortie du clair-obscur gramscien : le complotisme et le confusionnisme sont des "monstres" du passage entre deux mondes, la moïsation est la structuration en blocs clairs qui met fin au clair-obscur
 - [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]] — Présentation des rubans électoraux depuis 2002 : progression de l'abstention et du centre jusqu'en 2017 (pic de confusion), puis retour à la moïsation visible en 2022. La configuration 2027 comme "démoïsation" à droite — boucle qui se referme sur elle-même
 

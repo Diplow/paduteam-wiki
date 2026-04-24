@@ -180,6 +180,16 @@ Son sujet révolutionnaire — "le peuple" — reste trop large : il inclut des 
 
 Formule PaduTeam : "Mélenchon est meilleur. Lordon tire Mélenchon vers le bas. [...] Je préfère largement écouter Mélenchon tout seul en conférence."
 
+## Conférence de presse "triée" et stratégie médiatique (mars 2026)
+
+LFI organise une conférence de presse réservée aux "médias alternatifs", excluant les grands groupes. Les journalistes mainstream accusent Mélenchon de "trier". Sa réponse : la conférence était retransmise librement en ligne — "C'est une infamie de dire que nous avons trié. Vous êtes des menteurs."[^trimedias]
+
+La PaduTeam soutient pleinement la démarche : les médias mainstream pratiquent eux-mêmes le tri en n'invitant jamais les intellectuels de gauche radicale (Nicolas da Silva sur la Sécurité sociale, des spécialistes de la transformation néolibérale) alors qu'ils maîtrisent leurs sujets. "On va faire 100" — Mélenchon ne demande plus aux journalistes de faire mieux, il fait sans eux.
+
+La stratégie internet de LFI depuis sa création est analysée comme la réponse structurelle au verrou médiatique : être très présent sur les réseaux sociaux, abreuver une génération entière de créateurs de contenu. Ce n'est pas du populisme victimaire — c'est de l'organisation politique de rupture.
+
+[^trimedias]: [7:43](https://www.youtube.com/watch?v=w48MPIjGHOE&t=463) — "C'est une infamie de dire que nous avons trié. Vous êtes des manipulateurs et des menteurs."
+
 ## Vidéos où Mélenchon est analysé
 - [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Traité de "fasciste" et d'"antisémite" comparable à Drumont par BHL ; double standard démontré ; défendu comme cible structurelle du bloc bourgeois en fascisation
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
@@ -215,3 +225,4 @@ Formule PaduTeam : "Mélenchon est meilleur. Lordon tire Mélenchon vers le bas.
 - [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]]
 - [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Commission parlementaire sur l'islamisme retournée : cours de laïcité de 1905, récit protagoniste, aveux de défaite des éditorialistes CNews ; démonstration de la conflictualisation institutionnelle — La stratégie "2002 inversé" explicitée : Mélenchon doit incarner le pôle antisystème de gauche que Le Pen incarnait à droite en 2002, imposer des thèmes de rupture (32h, nationalisation du crédit, retraite 60 ans) et assumer la diabolisation comme carburant de la dynamique
 - [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — Vainqueur par défaut face à Lordon ; pragmatisme et référence à la pratique reconnus ; critique de sa vision du "marxisme fantôme" réductionniste ; son sujet collectif (le peuple) jugé trop large
+- [[MELENCHON LE STALINIEN TRIE LES MEDIAS]] — Conférence de presse "triée" défendue contre les indignations médiatiques ; stratégie internet comme rupture structurelle avec les médias mainstream ; programme jugé "pas assez bifurquant" mais Mélenchon "bélier nécessaire" ; déconstruction de la critique gauchetiste du populisme

@@ -38,7 +38,24 @@ La proposition concrète : un médecin consacre 15-20% de son temps au nettoyage
 
 L'exemple de l'industrie : des nettoyeurs industriels nettoient des machines qu'ils ne connaissent pas (mal remontées), pendant que les opérateurs se plaignent des mauvaises remontages sans jamais nettoyer. Résultat : inefficacité structurelle des deux côtés. La fin de la division du travail n'est pas seulement plus juste — elle est plus efficace.[^4]
 
+## Division du travail militant — antifascisme et représentation électorale
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la PaduTeam applique la division du travail à la stratégie militante de gauche. La thèse : il y a des choses "qui doivent être faites et non dites. Il y a des choses qui doivent être dites et non faites."[^div-militant]
+
+Concrètement :
+- L'antifascisme de terrain (La Jeune Garde, antifas) fait un travail légitime et nécessaire que Mélenchon ne peut pas faire
+- Mélenchon fait un travail (représentation électorale, programme national) que les antifas ne peuvent pas faire
+- La porosité institutionnelle entre les deux (assistant parlementaire présent à Lyon) crée le piège : Hollande peut alors dire "les antifas font partie du mouvement France Insoumise" et classer la FI comme "extrême gauche"
+
+La division du travail militant est donc à la fois une nécessité stratégique ET une protection contre le nassage : "si Hollande peut commencer à dire Jean-Luc Mélenchon en fait c'est un antifaat violent tu vois et c'est la même chose et ben là il va réussir à enfermer Mélenchon dans au lieu de faire 16 % de faire un 12 % d'extrême gauche."[^div-nass]
+
+La PaduTeam précise que soutenir les antifas est possible sans les intégrer institutionnellement à la FI — comme Mélenchon va aux universités d'été du NPA "sans en faire partie". C'est là que réside la distinction opérationnelle.
+
+[^div-militant]: [15:30](https://www.youtube.com/watch?v=BaoHrF9zy24&t=930) — "il y a des choses qui doivent être faites et non dites. Il y a des choses qui doivent être dites et non faites. C'est ça fait partie du travail de transformation de la société quoi. Bah c'est une division du travail militant."
+[^div-nass]: [16:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=960) — "si Hollande peut commencer à dire Jean-Luc Mélenchon en fait c'est un antifaat violent tu vois et c'est la même chose et ben là il va réussir à enfermer Mélenchon dans au lieu de faire 16 % de faire un 12 % d'extrême gauche."
+
 ## Vidéos où le concept est développé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Division du travail militant : antifascisme de terrain vs représentation électorale, la porosité institutionnelle comme piège du nassage, Mélenchon peut aller aux universités de la Jeune Garde sans qu'elle "fasse partie intégrante du mouvement"
 - [[LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES]] — conclusion centrale : la vraie tâche n'est pas un meilleur âge de retraite mais l'abolition de la spécialisation sociale mortifère
 - [[ELLE A CHOQUE LCI UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS]] — courtière vs aides-soignantes : qui crée vraiment de la valeur ? perspective communiste sur la répartition des tâches pénibles
 - [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — démontage de "j'ai pas fait 11 ans d'études pour passer le balai" ; proposition concrète médecin/nettoyage (15-20% du temps) ; plaquiste 10h/semaine vs 40h toute sa vie

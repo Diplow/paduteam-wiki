@@ -68,7 +68,19 @@ La PaduTeam avait averti lors de la condamnation de Marine Le Pen que le disposi
 
 [^chik]: [07:44](https://www.youtube.com/watch?v=1VDLFd3PVp8&t=464) — "première étape du lawfare, c'est la mise en action des juges contre un candidat oppositionnel progressiste et de gauche, c'est-à-dire trouver un timing qui empêche la campagne politique"
 
+## Le lawfare de l'affaire Deranque — timing judiciaire anti-FI (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la PaduTeam formule explicitement le risque lawfare autour de l'affaire Deranque. Le parquet est "un organe qui dépend du politique" — et le timing de ses révélations (d'abord un assistant parlementaire de Raphaël Arnaud, puis deux, puis un stagiaire) suit une logique de calibration politique, pas judiciaire.[^law-deranque]
+
+La technique : "c'est du l'aufer. Le l'aufer des fois c'est complètement faux ou alors un truc on amplifie. Et après, tu as juste à laisser la machine médiatique déroulée là-dessus." Le parquet sort des informations au compte-gouttes, les médias relaient ("nous les médias neutres, on est obligé de relayer l'info"), puis vient la "musique" — la narration construite autour de la liaison FI/violence.[^law-musique]
+
+Le pire scénario projeté : "une semaine avant les municipales ils mettent Raphaël Arnaud en garde à vue" — puis dans 4 mois un rebondissement, puis un nouveau jusqu'à la présidentielle. La condamnation finale tombe peut-être sur des faits marginaux (le "dernier coup" dans une bagarre) mais après 2 ans de narration "la FI est liée à ces gens-là". Le coût politique est réel même si le verdict final est nul.
+
+[^law-deranque]: [27:23](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1643) — "je suis désolé, on peut pas simplement réagir à ça. Il faut un agenda pour les anticiper et les contrer avant que ça arrive quoi."
+[^law-musique]: [28:27](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1707) — "c'est du l'aufer. Le l'aufer des fois c'est complètement faux ou alors un truc on amplifie. Voilà. Et après, tu as juste à laisser la machine médiatique déroulée là-dessus."
+
 ## Vidéos où le concept est développé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Lawfare de l'affaire Deranque : timing judiciaire calibré (assistant parlementaire → deux → stagiaire), parquet comme organe politique, scénario garde à vue d'Arnaud avant municipales, "musique médiatique" comme instrument de salissage pré-présidentielle
 - [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Cas d'école complet de l'offert électoral en France : timing judiciaire + relais presse progressiste + amplification extrême droite ; contre-modèle Podemos/Iglesias
 - [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Analyse du dilemme FI face au lawfare : quand porter plainte (Jakubowicz) et pourquoi ne pas systématiser
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]

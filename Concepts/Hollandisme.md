@@ -44,7 +44,14 @@ La vidéo [[HOLLANDE prepare t-il SON RETOUR]] formule une thèse sur le rapport
 
 [^accel]: [11:52](https://www.youtube.com/watch?v=6Oh29FEy0-Y&t=712) — "Plus vous mettrez la barrière loin en étant du centre ou du centre gauche et cetera dans la dégueulasserie, plus ils reprendront le bâton aussi loin que ça et ils iront encore plus loin." — dans [[HOLLANDE prepare t-il SON RETOUR]].
 
+## Hollandisme et nassage de la gauche de rupture
+
+Le nassage est l'application offensive du hollandisme en période électorale : utiliser une séquence politique (mort d'un militant, violence de rue) pour enfermer la gauche de rupture dans l'espace "extrême gauche violente" et se positionner comme "la gauche sérieuse". Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], Hollande opère ce nassage en direct sur BFM TV : il définit l'extrême gauche comme "un mouvement qui entretient en son sein des groupes qui font autre chose que de la participation au scrutin" — une définition conçue pour piéger Mélenchon sur sa relation avec la Jeune Garde.[^nassage-holl] Le hollandisme n'est pas seulement une politique de gouvernement ; c'est aussi une technique de conquête hégémonique à gauche via l'exclusion de la rupture.
+
+[^nassage-holl]: [37:13](https://www.youtube.com/watch?v=BaoHrF9zy24&t=2233) — "Qu'est-ce que c'est qu'un mouvement d'extrême gauche ? C'est un mouvement qui entretient en son sein des groupes qui font autre chose que de la participation au scrutin." — dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]].
+
 ## Vidéos où le concept est développé
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Nassage en direct : hollandisme offensif post-mort Deranque, définition opérationnelle de l'extrême gauche comme outil d'exclusion de la FI, promesse solennelle d'élimination de Mélenchon
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — Le reportage Paris Match comme illustration vivante de l'hollandisme : bilan quinquennat, CICE/Arnault, loi El Khomri, regard bourgeois sur les "maisons ouvrières"
 - [[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]] — Analyse du budget PS comme "hollandisme" : retraite à 62, CSG sur salaires, taxe Zucman cosmétique
 - [[Faure oblige de trahir]] — Démonstration graphique du déterminisme de classe qui produit l'hollandisme

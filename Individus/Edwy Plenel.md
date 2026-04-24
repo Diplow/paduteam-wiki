@@ -44,10 +44,43 @@ Plenel promeut l'argument de Faure selon lequel Mélenchon représenterait un «
 - [[Francois Ruffin]] — espace commun de la « gauche de témoignage »
 - [[Jean-Luc Melenchon]] — adversaire structurel, critiqué pour son « hyper-présidentialisme »
 
+### L'opération anti-Mélenchon du 27 février 2026 — la fabrication du fait
+
+Le 27 février 2026, Plenel publie dans Mediapart "Jean-Luc Mélenchon : la faute de trop", ciblant la prononciation "Epstein" (suffixe germanique standard, identique à "Einstein") lors du meeting de Lyon comme "remugle antisémite". La PaduTeam dissèque l'opération en trois temps, en convoquant *Manufacturing Consent* (Chomsky/Herman) comme grille[^0203b] :
+
+1. **Fabrication d'un fait** — La prononciation "Epstein" n'est pas un fait antisémite. Mélenchon avait dit la même chose à Montpellier 15 jours avant. Le fait est monté en épingle de toute pièce.
+2. **Cadrage** — Plenel nomme Mélenchon "récidiviste", convoque le précédent Corbin, et tente une dichotomie "on critique Mélenchon pas LFI" — que la PaduTeam démonte : "Attaquer Mélenchon c'est attaquer la France insoumise. C'est comme si vous disiez : moi j'attaque pas Cuba, j'attaque que Fidel Castro."[^3600b]
+3. **Diffusion coordonnée** — 48h après avoir "pris une sauce" (1964 commentaires, commentaires fermés), Plenel republie l'article **en anglais** avec un tweet en anglais, dans le contexte de l'attaque américano-israélienne sur l'Iran. La PaduTeam : "Là, quand on vous parle de coordination, vraiment faut voir ce que le mec est en train de faire. C'est signé quoi."[^0455b]
+
+### La boussole antisémite retournée
+
+Si la prononciation d'un suffixe germanique est le cœur de la lutte contre l'antisémitisme, Plenel est lui-même coupable — on trouve "1000 vidéos où il dit Stein ou Letztin sur ce genre de patronyme". Le fait que lui et ses relais soient "aussi préoccupés par des prononciations de gens au nom juif" révèle une obsession de la judéité plutôt qu'une lutte contre l'antisémitisme[^2750b].
+
+### Plenel comme "CIA" — le nom de code atlantiste
+
+La PaduTeam désigne Plenel comme "représentant français de la CIA" — métaphore pour la constellation atlantiste (réseaux pro-guerre, soutien à Israël, positions anti-BRICS). En republiant en anglais au moment d'une frappe américano-israélienne sur l'Iran, Plenel "tend une perche" qu'ils ne peuvent plus éviter de saisir[^0406b].
+
+### La route vers le fascisme — le SPD-antifascisme
+
+Plenel se dit antifasciste mais, pour la PaduTeam, fabrique la route vers le fascisme : les journaux de centre et centre-gauche des années 30 tenaient le même discours ("légitimer la guerre, rendre le fascisme nécessaire comme sortie de crise"), tout en se disant antifascistes. "Mediapart et leur agenda, c'est de dire on va trouver des solutions sans que le capital ne soit remis en question. Et ben ça c'est la route vers le fascisme."[^1047b]
+
+### Le cordon sanitaire par Mediapart → Printemps Républicain → extrême droite
+
+L'opération Plenel suit un chemin précis : Mediapart → réseaux du centre (Printemps républicain) → extrême droite. Résultat : Tondelier, Castet, Roussel — et Bardella — se retrouvent du même côté du cordon contre Mélenchon. "Edwy Plenel est du côté de Bardella sur ce fameux cordon sanitaire."[^5630b]
+
 ## Vidéos où Plenel est analysé
 - [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Cité comme "boussole qui indique le sud" : le fait qu'il soutienne Villepin signale que la candidature est idéologiquement inconsistante [41:27]
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]
 - [[PLENEL CIRE LES POMPES DU PS IL VEUT NOUS VENDRE FAURE]] — Analyse complète de sa trajectoire trotskiste → atlantiste → deuxième gauche ; démonstration que son soutien à Faure est la continuation logique de son soutien à Villepin
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Opération anti-Mélenchon du 27 février 2026 ; déconstruction du mécanisme de fabrication du fait (prononciation "Epstein") ; Plenel comme nœud de la constellation atlantiste ; route vers le fascisme ; cordon sanitaire transpartisan
+
+[^0203b]: [2:03](https://www.youtube.com/watch?v=WctyXuw_zss&t=123) — « C'est un livre qui était un peu passé de mode mais qui serait intéressant justement aujourd'hui avec toutes les plateformes à relire. » (Manufacturing Consent)
+[^0406b]: [4:06](https://www.youtube.com/watch?v=WctyXuw_zss&t=246) — « On hésite à le traiter de CIA. Des fois on dit que ça fait un peu troll, mais là je suis désolé, c'est même plus une perche qui nous tend. »
+[^0455b]: [4:55](https://www.youtube.com/watch?v=WctyXuw_zss&t=295) — « Là, quand on vous parle de coordination, vraiment faut voir ce que le mec est en train de faire quand il fait ça. C'est signé quoi. »
+[^1047b]: [10:47](https://www.youtube.com/watch?v=WctyXuw_zss&t=647) — « Mediapart et leur agenda, c'est de dire on va trouver des solutions sans que le capital ne soit remis en question. Et ben ça c'est la route vers le fascisme. »
+[^2750b]: [27:50](https://www.youtube.com/watch?v=WctyXuw_zss&t=1670) — « Le fait que Edwy Plenel et les gens qui l'ont layé soient aussi préoccupés par des prononciations de gens au nom juif, c'est que ils ont une obsession pour les juifs aussi. »
+[^3600b]: [36:00](https://www.youtube.com/watch?v=WctyXuw_zss&t=2160) — « Attaquer Mélenchon c'est attaquer la France insoumise. C'est comme si vous disiez : moi j'attaque pas Cuba, j'attaque que Fidel Castro. »
+[^5630b]: [56:30](https://www.youtube.com/watch?v=WctyXuw_zss&t=3390) — « Fabrication d'un fait, fabrication d'un cadrage et donc ensuite diffusion par des réseaux très précis, Mediapart, d'abord des réseaux du centre, Printemps républicain et cetera, et puis ensuite l'extrême droite, la gauche et tout. »
 
 [^0305]: [3:05](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=185) — « Plenel, c'est vraiment le un des cristaux purs de [ce] tournant atlantiste néolibéral. »
 [^0335]: [3:35](https://www.youtube.com/watch?v=yu3eLSYz6gE&t=215) — « En étant antisoviétique pendant la guerre froide, de fait tu te retrouves souvent à être un peu atlantiste. »

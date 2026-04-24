@@ -70,7 +70,14 @@ Malgré l'effondrement des municipales, la PaduTeam prédit que Tondelier ira qu
 
 [^prim-bout]: [2:37](https://www.youtube.com/watch?v=jHY3lK75_fs&t=157) — "Donc elle va aller au bout, ça va être catastrophique mais elle va quand même aller au bout."
 
+## Hollande tue officiellement la primaire (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], Hollande formule en direct l'enterrement de la primaire des noisettes pour la présidentielle : "pour l'élection présidentielle, la candidature qui doit venir pour la gauche réformiste n'est pas celle de la primaire avec les écologistes. Est-ce clair ?"[^prim-morte] Pour la PaduTeam : "là il est en train de baiser tout le monde et tout c'est la folie quoi." Il prend les alliances municipales avec les écolos, puis refuse la contrepartie de la primaire. La "clarté" autoproclamée d'Hollande fait les frais des noisettes qui avaient cru monnayer leur soutien.
+
+[^prim-morte]: [23:47](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1427) — "pour l'élection présidentielle, la candidature qui doit venir pour la gauche réformiste n'est pas celle de la primaire avec les écologistes. Est-ce clair ?" — Hollande sur BFM TV, dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]].
+
 ## Vidéos
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Hollande tue officiellement la primaire des noisettes en direct : il refuse toute primaire avec les écologistes pour la présidentielle tout en captant leurs alliances municipales
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la primaire comme nécessité existentielle de Tondelier, jeux d'arrangements avec Faure, prédiction d'échec

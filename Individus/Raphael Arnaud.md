@@ -31,7 +31,12 @@ La PaduTeam le mobilise comme exemple de l'[[Antifascisme moral vs antifascisme 
 
 [^arnaud_antifa]: [16:38](https://www.youtube.com/watch?v=IlNvDNFxA-8&t=998) — "faire rentrer des gens notamment Raphaël Arnaud [...] à l'Assemblée nationale qui peut ramener un antifasciste de terrain et justement lutter contre cet antifascisme moral un peu débile"
 
+## Le risque garde à vue pré-municipales (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la PaduTeam formule le scénario lawfare autour d'Arnaud : le parquet pourrait sortir des révélations au compte-gouttes (d'abord un assistant parlementaire impliqué dans la mort de Deranque, puis deux, puis un stagiaire), et "une semaine avant les municipales mettre Raphaël Arnaud en garde à vue" avec des motifs vagues (ses "réseaux moitié judiciaire" selon le commentaire, ses liens supposés avec les acteurs de la rixe). Le but ne serait pas la condamnation finale mais la "musique" médiatique — "la FI est liée à ces gens-là, c'est leurs députés, c'est les assistants parlementaires." La PaduTeam note qu'on n'est "pas à l'abri" de ce scénario dans les 12 mois précédant la présidentielle.
+
 ## Vidéos où Arnaud est mentionné
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Cible potentielle d'un scénario lawfare pré-municipales : garde à vue projetée, révélations judiciaires au compte-gouttes sur son lien avec les acteurs de la rixe, "musique médiatique" pour saler la FI avant la présidentielle
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[PADUSTREAM C'EST DEJA FINI]] — co-invité avec [[Padu]] à un débat JC Nord (Lille, 22 fév. 2025) sur la montée du racisme/extrême droite
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Mentionné comme ex-porte-parole de la Jeune Garde, aujourd'hui député LFI

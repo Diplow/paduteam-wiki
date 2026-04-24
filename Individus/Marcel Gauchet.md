@@ -26,10 +26,32 @@ Centre-droite — intellectuel du "monde d'avant", penseur du libéralisme cultu
 
 **L'usage médiatique** : Cohn-Bendit cite Gauchet sur BFM TV. Pour la PaduTeam, c'est le symptôme d'un milieu médiatique décroché du réel : "les mecs qui citent des intellectuels à 90 balles, intéressant et tout."
 
+## La définition gauchetiste du populisme (et sa réfutation)
+
+Convoqué sur les plateaux pour critiquer Mélenchon, Gauchet définit le populisme par deux éléments combinés : l'appel à un "pouvoir très personnalisé" ("la religion du leader") ET l'appel à la souveraineté du peuple. La PaduTeam démonte la cohérence de cette définition : "Les deux sont littéralement à l'opposé l'un de l'autre."[^defpop] À la rigueur, le premier élément peut être nommé **césarisme** (terme gramscien), mais le projet de 6e République de Mélenchon distribue le pouvoir localement et dans les entreprises — à rebours de tout verrouillage personnel. Caractériser LFI comme un "anarchisme ambiant" qui déplairait aux "staliniens de jadis" révèle un usage du mot "discipline" qui ne signifie pas organisation coordonnée mais acceptation de la domination bourgeoise — "porter une cravate et ne pas insulter Retailleau."
+
+Gauchet qualifie le programme de Mélenchon "d'irréel", note que l'alliance "libertarisme sociétal" + "noyau communiste" est "évidemment incohérente". La PaduTeam : d'accord sur l'insuffisance du programme — mais pas dans le sens de Gauchet. "Il est pas assez bifurquant pour une rupture. Il faut aller beaucoup plus loin." Nationaliser l'énergie est parfaitement compatible avec "arrêter de casser les couilles aux femmes qui portent un voile à l'école".[^prog]
+
+## La Fondation Saint-Simon : le modèle à retourner
+
+Gauchet appartient à la **Fondation Saint-Simon**, think tank fondé en **1982** par [[Francois Furet]], autour de Pierre Nora, Pierre Rosanvallon et lui-même. Cette fondation a "inondé les instituts d'opinion, inondé les comités de rédaction" pour imposer la thèse que les journalistes étaient les tenants d'une neutralité supra-idéologique. Elle s'autodissout en **1999** avec la déclaration : **"Nos idées ont gagné."** C'est cette victoire hégémonique que La Brèche entend retourner en s'auto-décrivant comme "le même type de fondation" — "On crée des idées, on les diffuse, on fait en sorte qu'elles s'infiltrent dans la société."[^stsim]
+
+## Bloc bourgeois et fascisme : le choix de Gauchet
+
+La PaduTeam formule un jugement d'ensemble : Gauchet et le bloc bourgeois traitent les communistes et les fascistes de la même manière tant qu'ils sont au pouvoir. "Mais s'ils doivent choisir acculés, ils choisiront toujours les fascistes parce que les fascistes leur promettent toujours le minimum syndical : ne jamais remettre en question leur propriété privée." La formule conclusive : "Marcel Gauchet a choisi entre socialisme et barbarie. Nous aussi nous avons choisi."[^choix]
+
 ## Relations
 - [[Daniel Cohn-Bendit]] — le cite en référence
-- [[Eric Zemmour]], [[Alain Soral]] — ont récupéré sa thèse
+- [[Eric Zemmour]], [[Alain Soral]] — ont récupéré sa thèse sans jamais le citer
 - [[Michel Clouscard]] — souvent confondu à tort avec lui sur cette thèse
+- [[Francois Furet]] — cofondateur de la Fondation Saint-Simon (1982)
+- [[Pierre Rosanvallon]] — milieu intellectuel commun ; déclare "nos idées ont gagné" en 1999
 
 ## Vidéos où Gauchet est analysé
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Cohn-Bendit le cite ; Chris explique l'origine gauchetiste (et non cluscardianne) de la thèse sociétal/social récupérée par l'extrême droite.
+- [[MELENCHON LE STALINIEN TRIE LES MEDIAS]] — Analyse la plus complète : généalogie de la thèse sociétal/social (1990 dans *Le Débat*), déconstruction de sa définition du populisme, Fondation Saint-Simon comme modèle à retourner, positionnement dans le bloc bourgeois face au fascisme.
+
+[^defpop]: [24:18](https://www.youtube.com/watch?v=w48MPIjGHOE&t=1458) — "D'abord l'appel à un pouvoir très personnalisé, c'est la religion du leader. Et de ce point de vue-là, Mélenchon est une incarnation parfaite. Et d'autre part l'appel au peuple, à la souveraineté du peuple. C'est tellement les deux sont littéralement à l'opposé l'un de l'autre."
+[^prog]: [37:10](https://www.youtube.com/watch?v=w48MPIjGHOE&t=2230) — "Je suis assez d'accord avec Marcel Gauchet, le programme n'est pas réaliste. Il est pas assez bifurquant pour une rupture. Il faut aller beaucoup plus loin."
+[^stsim]: [43:50](https://www.youtube.com/watch?v=w48MPIjGHOE&t=2630) — "On est un think tank comme ça. On crée des idées, on les diffuse, on fait en sorte qu'elles s'infiltrent dans la société pour justement en finir avec le capitalisme. Et on espère que dans 25 ans, on dissolvera la Brèche en disant 'ça y est, on a gagné.'"
+[^choix]: [40:15](https://www.youtube.com/watch?v=w48MPIjGHOE&t=2415) — "Ces gens-là sont capables, c'est ça le bloc bourgeois, de traiter les communistes de la même manière qu'ils traitent les fascistes. [...] S'ils doivent choisir acculés, ils choisiront toujours les fascistes. Marcel Gauchet a choisi entre socialisme et barbarie. Nous aussi nous avons choisi."

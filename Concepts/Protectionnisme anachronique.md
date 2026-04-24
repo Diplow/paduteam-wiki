@@ -57,8 +57,18 @@ Cette formulation précède de plus d'un an les données empiriques (287 Mds dro
 [^orig_3]: [33:24](https://www.youtube.com/watch?v=mK41og88Zj0&t=2004) — « pour ça il faudrait mettre en jeu des milliards et des milliards d'investissements publics, ce qui va être contradictoire avec la vision libérale ».
 [^orig_4]: [33:55](https://www.youtube.com/watch?v=mK41og88Zj0&t=2035) — « il va créer une forme de déception sur le plan matériel concret pour les gens qui l'ont élu, parce qu'il n'a pas les leviers ni les structures mentales pour satisfaire les gens qui l'ont élu — même Biden n'a pas été assez loin dans le néokeynésianisme — le côté "j'emmerde les médias, je suis votre tribun de Twitter" ne marchera plus ».
 
+## L'IA comme accélérateur auto-destructeur
+
+Ironie supplémentaire : Trump investit massivement dans l'IA pour "relancer l'économie", mais l'IA détruit exactement les emplois qui restaient :
+
+"Si tu veux recréer de l'emploi, faire que tes investissements aillent majoritairement vers l'IA qui va tuer de l'emploi, c'est le truc le plus con au monde."[^ia]
+
+L'IA supprime le travail de **classe intermédiaire** (support, bureautique, fichiers Excel, PowerPoint, code de service) — c'est-à-dire les "derniers consommateurs qui permettent encore d'avoir de l'économie aux États-Unis." Ce n'est pas l'IA qui va former des plombiers, des chauffagistes ou des ouvriers fabricant des composants électroniques. Trump asphyxie ainsi la dernière strate sociale qui le soutenait : la classe moyenne supérieure, celle qui "vote encore beaucoup pour les démocrates à New York" et qui commence à se retourner.
+
+[^ia]: [33:07](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=1987) — "si tu veux recréer de l'emploi, faire que tes investissements aillent majoritairement vers l'IA qui va tuer de l'emploi, c'est le truc le plus con au monde."
+
 ## Vidéos où le concept est développé
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — **Formulation initiale (novembre 2024)** : USA consommateurs pas producteurs, Silicon Valley/Pepsi/Kellogg's/Coca, baisse tendancielle du taux de profit, néokeynésianisme de Biden insuffisant
-- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
+- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]] — Validation empirique : 287 Mds payés par les entreprises US, invalidation 6-3, bilan emploi catastrophique ; + IA comme destruction de l'emploi intermédiaire
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
 - [[MELENCHON DRAGUE LES PETITS PATRONS]] — application au programme LFI : le protectionnisme keynésien de relance proposé pour les PME a 15 ans de retard ; la France n'a pas la puissance militaire US pour contraindre ses partenaires commerciaux ; même Meloni échoue avec les milliards de l'UE ; la vraie solution est la déprivatisation, pas la relance monétaire dans une économie ultra-privatisée

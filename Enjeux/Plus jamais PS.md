@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-22
+skill_version: write-enjeu-2026-04-24
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -171,6 +171,22 @@ L'argument Mamadou masque en outre les vraies causes structurelles de la crise h
 **Le timing électoral comme signature.** Le procès intervient précisément au moment où Chikirou représente LFI dans le 17e arrondissement de Paris pour les municipales 2026, face à une liste Brossat-PS qui a tout intérêt à la décrédibiliser. Ce n'est pas une coïncidence : c'est la mécanique.
 
 **La base formée comme résistance.** La PaduTeam note que l'enjeu n'est pas le verdict mais l'effet sur la mobilisation : une base militante formée sur le lawfare ne se laisse pas démobiliser par une procédure judiciaire. L'affaire Chikirou doit être instrumentalisée en sens inverse — comme preuve que LFI menace suffisamment les intérêts établis pour que l'appareil judiciaire soit mobilisé contre elle.
+
+## Le nassage Hollande et la machine coordonnée anti-LFI (mars 2026)
+
+La séquence de mars 2026 fournit les preuves les plus directes que le "Plus jamais PS" n'est pas une posture défensive — c'est une réponse à une offensive organisée.
+
+**Hollande "cochon truffier".** La PaduTeam formule la figure centrale : Hollande "sent la truffe mieux que tous les autres cochons" — il a l'odorat politique pour revenir quand les sondages confirment sa position. Son retour n'est pas une candidature assumée mais une montée en pression calculée : articles dans la presse, interviews depuis l'extérieur, "clarté" posée comme condition de toute alliance avec LFI. Ce mot d'ordre est ici le vrai outil : "Il ne parle pas de programme municipal — il pose les règles de la présidentielle 2027."[^pjps_cochon] Le PS utilise Hollande comme celui qui a déjà "trahi et survécu" — donc le seul crédible pour énoncer les conditions de la trahison à venir.
+
+**Deranque comme martyr PS, pas comme victime militante.** L'affaire de la mort de [[Quentin Deranque]] à Lyon (14 février 2026, lors d'affrontements liés à Némésis) est instrumentalisée dans les médias mainstream pour produire le récit "LFI est violente." La PaduTeam décortique la séquence : c'est la FI qui est mise en cause dans les plateaux alors que l'Action Française elle-même a reconnu que Némésis était "la cause" de la mort. Ce renversement agresseur/victime est orchestré dans les colonnes du Parisien (Bernard Arnault) — "journal de Bernard Arnaud" selon la PaduTeam — et amplifié par le PS qui l'utilise pour alimenter le récit "les insoumis sont des harceleurs violents." L'affaire Deranque est une pièce du nassage, pas un cas isolé.
+
+**Plenel "opération CIA" contre Mélenchon.** [[Edwy Plenel]] est analysé comme "boussole antisémite inversée" — quand il attaque quelqu'un d'antisémitisme, c'est a priori la personne la moins antisémite du débat. La republication en anglais de son article anti-Mélenchon 48 heures après la version française est lue comme une "coordination signée" : il n'y a pas de demande d'un journal anglophone qui aurait sollicité le texte à ce moment précis — c'est une diffusion intentionnelle pour alimenter le réseau atlantiste. La PaduTeam parle d'"opération CIA" comme métaphore analytique (constellation atlantiste, pas des agents CIA). Plenel depuis son parcours trotskiste antisoviétique → atlantiste → "cireur de pompes de Faure" est le vecteur de la "Deuxième Gauche" qui fait passer les idées du centre-gauche pour de l'alternative. Sa fonction dans le nassage : légitimer la disqualification de Mélenchon depuis l'espace dit "gauche alternative."[^pjps_plenel]
+
+**Tondelier et Castets : "social-fascisme" par analogie SPD 1930s.** En refusant le front avec LFI et en préférant les alliances avec le bloc central (Bergé, Renaissance), [[Marine Tondelier]] et [[Lucie Castets]] facilitent objectivement la consolidation du bloc bourgeois anti-LFI. La PaduTeam mobilise l'analogie SPD/KPD des années 1930 : le SPD (pas le KPD) a permis l'accession de Hitler au pouvoir en soutenant Hindenburg à la présidentielle et en laissant le KPD se faire interdire seul. Le PS contemporain répète le même schéma — pas vers le fascisme au sens strict, mais vers l'élimination électorale de la gauche de rupture.
+
+**Louffok : récupération PS d'un militant sincère.** La PaduTeam adresse directement Louffok : "sache ce que tu fais quand tu vas cirer les pompes du Parti socialiste qui sont en grande partie responsables de la situation dans laquelle sont les enfants dont tu dois t'occuper aujourd'hui."[^pjps_louffok] Louffok avait lui-même jugé le bilan de Grégoire comme premier adjoint d'Hidalgo "très mauvais sur la protection de l'enfance" — il tient maintenant le discours de ceux "qui se sont fait avoir par le PS depuis 40 ans." Ce cas illustre le mécanisme de récupération PS : utiliser un militant sincère avec un bilan thématique réel, le mettre dans les colonnes du Parisien, en faire une arme contre LFI dans la guerre des gauches.
+
+(Sources : [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]], [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]], [[HARCELE PAR LA MEUTE LFI LYES LOUFFOK TRAITRE OU VICTIME]])
 
 ## Extension : Roussel comme variante PCF du même problème
 
@@ -439,3 +455,14 @@ Ce n'est pas une erreur — c'est la trajectoire EELV documentée en trois étap
 
 - [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — cristallisation du pôle cassoulet ; Delga préfère la droite à Mélenchon ; thèse du "2002 inversé" ; Vallaud comme candidat optimal si accord Hollande tient ; si Vallaud gagne "la gauche est morte" ; la "gauche parisienne" comme espace électoral nouveau (12-20 %)
 - [[TONDELIER RETOURNE ENCORE SA VESTE]] — abandon du blocage des prix (première mesure NFP) en trois étapes documentées ; mensonge factuel sur le coût du blocage ; chèques énergie ciblés comme logique pénuriste et charitable ; mécanique de la noisette qui dit ce qu'elle pense vraiment quand la gauche de rupture s'affaiblit
+
+### Vidéos clés (W09-W10 2026)
+
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — nassage en 4 étapes formalisé ; "clarté" comme code du bloc bourgeois pour la présidentielle 2027 ; Hollande "cochon truffier" ; Louffok comme militant sincère récupéré par le PS pour alimenter le récit "LFI violente"
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Plenel "boussole antisémite inversée" ; republication anglaise 48h après = coordination signée ; "opération CIA" comme métaphore analytique (constellation atlantiste) ; trajectory Plenel : trotskisme antisoviétique → atlantiste → cireur de pompes de Faure
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — cordon sanitaire inversé ; "antifrance" = vocabulaire Action Française ; Tondelier/Castets = social-fascisme (SPD 1930s) ; Bergé comme expression graphique du bloc bourgeois
+- [[HARCELE PAR LA MEUTE LFI LYES LOUFFOK TRAITRE OU VICTIME]] — récupération PS d'un militant sincère : Louffok = militantisme thématique hors-sol ; dispositif comm PS (Parisien/Fort/Grégoire) ; "sache ce que tu fais quand tu vas cirer les pompes du Parti socialiste"
+
+[^pjps_cochon]: [5:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=300) — "Hollande il a l'odorat politique pour sentir ce qui monte. Il sent la truffe mieux que tous les autres cochons."
+[^pjps_plenel]: [20:00](https://www.youtube.com/watch?v=WctyXuw_zss&t=1200) — Republication anglaise 48h après, coordination signée ; Plenel comme "boussole antisémite inversée."
+[^pjps_louffok]: [46:17](https://www.youtube.com/watch?v=05sw93XYw5E&t=2777) — "sache ce que tu fais quand tu vas cirer les pompes du Parti socialiste qui sont en grande partie responsables de la situation dans laquelle sont les enfants dont tu dois t'occuper aujourd'hui."

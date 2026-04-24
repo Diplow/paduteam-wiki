@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-22
+skill_version: write-enjeu-2026-04-24
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -537,6 +537,75 @@ La PaduTeam lit les résultats comme une validation totale de la stratégie LFI 
 
 [^gdg_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^gdg_florentin]: [13:53](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=833) — "lui en plus c'est un fasciste qui s'ignore, tu vois. C'est il se prend pour un libéral et tout."
+[^nasst1]: [27:16](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1636) — "On sait très bien à quoi ça sert."
+[^nasst2]: [5:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=300) — "Hollande il a l'odorat politique pour sentir ce qui monte. Il sent la truffe mieux que tous les autres cochons."
+[^gauchet1]: [29:28](https://www.youtube.com/watch?v=w48MPIjGHOE&t=1768) — "Ce discours social contre sociétal ne vient pas de l'extrême droite, ça vient d'un homme qui est là devant vous, Marcel Gauchet, dès 1990."
+[^gauchet2]: [43:50](https://www.youtube.com/watch?v=w48MPIjGHOE&t=2630) — "On espère que dans 25 ans on dissolvera la Brèche en disant 'ça y est, on a gagné, le capitalisme a disparu.'"
+[^louffok1]: [13:22](https://www.youtube.com/watch?v=05sw93XYw5E&t=802) — "s'il y avait eu le meilleur truc des droits à l'enfance chez Marianie, tu serais au RN."
+[^louffok2]: [33:52](https://www.youtube.com/watch?v=05sw93XYw5E&t=2032) — "si on était encore dans la situation où on avait un parti de masse communiste [...] des gens qui rentrent dans le militantisme en s'intéressant à un sujet précis [...] ils auraient ces structures militantes qui les accueillent."
+[^louffok3]: [18:33](https://www.youtube.com/watch?v=05sw93XYw5E&t=1113) — "Si personne n'est pas d'accord avec vous, c'est mauvais signe. Ça veut dire que vous ne faites pas de politique et que vous n'avez pas de ligne en fait."
+
+## La séquence W09-W10 (mars 2026) : nassage, mulet et Gauchet
+
+### 39. Hollande "cochon truffier" et le mécanisme du nassage en 4 étapes
+
+La série de vidéos de mars 2026 (Hollande contre-attaque, Hollande vs Mélenchon 2e tour) produit la théorisation la plus précise du mécanisme actif du PS pour éliminer LFI au premier tour.
+
+**Le nassage en 4 étapes.** La PaduTeam formalise la stratégie PS-Hollande sous le terme [[Nassage]] : (1) nier à Mélenchon sa qualification au second tour en l'accusant d'antisémitisme, de violence, de harcèlement ; (2) utiliser le Parisien (Bernard Arnault) et les médias mainstream pour amplifier le récit ; (3) faire monter Hollande/Vallaud comme seule alternative "sérieuse" à gauche ; (4) écraser LFI entre Bardella à droite et Hollande au centre. La "clarté" est le mot de code : "Hollande ne parle pas de programme municipal — il pose les règles de la présidentielle 2027."[^nasst1]
+
+**Hollande "cochon truffier de la politique".** La formulation PaduTeam est nette : Hollande a "l'odorat politique pour sentir ce qui monte" — il revient quand les sondages confirment la prophétie du Graphique. "Il sent la truffe mieux que tous les autres cochons." Ce n'est pas du leadership — c'est de l'opportunisme structurel. Sa stratégie est claire depuis décembre 2025 : se poser en "Poutine de l'histoire politique française" — disparu, revenu, et la menace se concrétise.[^nasst2]
+
+**Projection chiffrée.** La PaduTeam avance les chiffres dans la configuration à barre basse du premier tour : Hollande 18%, Mélenchon 14%. Le "2002 inversé" s'accomplit : le système essaie de casser l'antisystème comme Le Pen avait cassé le système en 2002. Bardella s'écroule, Mélenchon est nassé, Hollande passe. La prophétie n'est pas gravée dans le marbre — c'est le "mulet" d'Asimov qui peut tout disrupter.
+
+**Macron = Medvedev.** Analogie filée : Hollande est Poutine, il a placé Macron (Medvedev) pour entretenir son réseau. Vallaud, "fidèle depuis toujours de François Hollande", est le successeur naturel dans ce schéma — non pas un rival mais un exécutant. Ce bloc Hollande-Vallaud-Glucksmann est "Poutine de l'histoire française, Medvedev son poulain, et la team cassoulet."
+
+**Division du travail comme réponse au nassage.** La PaduTeam formule la réponse à opposer au nassage : la [[Division du travail]] militante. Mélenchon est un "bélier" pour défoncer la porte — une fois la porte défoncée, il faut du monde pour s'engouffrer dedans. La Brèche, LFI, l'URC constituent ce second corps qui entre après le bélier. Le nassage ne peut réussir qu'en l'absence de ce second corps — d'où l'urgence de l'organisation.
+
+(Source : [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], [[Hollande vs Melenchon 2e tour]])
+
+### 40. Le "mulet" de la prophétie : Asimov dans la guerre des gauches
+
+La prophétie du Graphique (Mélenchon vs Le Pen au second tour) est lue à travers la figure du "Mulet" d'Asimov (Fondation) — le personnage imprévisible qui peut disrupter une prophétie mathématiquement validée.
+
+**La configuration disruptive.** Si Bardella continue à s'effondrer et si le bloc anti-LFI (Hollande+Vallaud+Glucksmann) se consolide, la prophétie peut se retourner : Hollande au second tour plutôt que Mélenchon. Ce n'est pas un effondrement de la prophétie — c'est sa version inversée : le "2002 inversé complet." En 2002, l'antisystème (Le Pen) avait pris la place du système (Jospin). En 2027, le système (Hollande/Vallaud) tente de prendre la place de l'antisystème (Mélenchon).
+
+**La Bardella comme Ségolène.** Dans ce schéma, Bardella joue Ségolène Royal 2007 : trop fort dans la fédération interne, trop faible dans la compétition réelle. Marine Le Pen le "sabre" comme Hollande avait sabré Ségolène pour revenir après. La différence : au RN, il n'y a pas encore de successeur programmé. D'où l'espace pour une recomposition qui reste ouverte.
+
+**Le second tour comme choix de classe.** La PaduTeam formule l'enjeu du second tour quel que soit l'adversaire de LFI : c'est un "choix de classe" — pas un choix entre personnes. Hollande représente le bloc bourgeois contre LFI qui représente le bloc populaire. L'appel au "vote utile" contre Mélenchon serait celui de Hollande au premier tour lui-même — inversant la mécanique 2002.
+
+(Source : [[Hollande vs Melenchon 2e tour]])
+
+### 41. Gauchet "fabricant 1990" et Massiet "faux alternatif" — la guerre des gauches intellectuelle
+
+La conférence de presse de Mélenchon réservée aux "médias alternatifs" (mars 2026) déclenche une séquence analytique majeure sur les frontières intellectuelles de la guerre des gauches.
+
+**Gauchet : la matrice du "social vs sociétal" avant Soral.** [[Marcel Gauchet]], directeur de *Le Débat* (Gallimard), est sorti "comme des paléontologues avec nos petits pinceaux" par la PaduTeam pour démontrer qu'il est la source intellectuelle de la thèse "la gauche a abandonné le social pour le sociétal" — popularisée par Zemmour et Soral. Cette thèse a été publiée par Gauchet dans *Le Débat* en **1990**, soit une décennie avant Soral et Zemmour. Ce n'est pas l'extrême droite qui a inventé l'attaque contre "le sociétal" — c'est un intellectuel du "centre bloc bourgeois" qui voulait devenir conservateur tout en restant libéral économiquement. La PaduTeam : "Ce discours social contre sociétal ne vient pas de l'extrême droite, ça vient d'un homme qui est là devant vous, Marcel Gauchet, dès 1990."[^gauchet1]
+
+**La Fondation Saint-Simon comme modèle retourné.** La [[Fondation Saint-Simon]] (fondée en 1982 par [[Francois Furet|François Furet]], autour de Pierre Nora, Pierre Rosanvallon, Marcel Gauchet) s'est autodissoute en 1999 en déclarant : "Nos idées ont gagné." Ce moment est à la fois la preuve de leur victoire hégémonique des années 1980-90 et le modèle que La Brèche entend retourner : "On est un think tank comme ça. On crée des idées, on les diffuse. Et on espère que dans 25 ans, on dissolvera la Brèche en disant 'ça y est, on a gagné'."[^gauchet2]
+
+**Massiet comme "faux alternatif".** France Info convoque [[Jean Massiet]] (Backseat) comme "représentant des médias alternatifs" pour critiquer Mélenchon. La PaduTeam démontre que Massiet "recouvre la même vision du monde" que les journalistes de France Info et France Inter — son public est décrit comme "Monique, tu as 57 ans, tu votes Macron, tu trouves que Hollande c'était pas si mal." Il n'analyse pas *pourquoi* LFI est sur internet — il décrit le fait. La vraie question : pourquoi les classes populaires portées par Mélenchon ne veulent pas être sur les médias mainstreams ? "Parce que ça ne recouvre pas leur vision du monde." C'est une forme de [[Deuxieme gauche]] : faire passer les idées du centre pour de l'alternative. La guerre des gauches se joue aussi dans l'espace des médias alternatifs — pas seulement entre partis.
+
+(Source : [[MELENCHON LE STALINIEN TRIE LES MEDIAS]])
+
+### 42. Louffok : symptôme du militantisme thématique produit par l'effondrement des structures
+
+L'affaire Louffok (militant LFI qui soutient Emmanuel Grégoire/PS pour les municipales Paris) est analysée comme un révélateur structurel, pas comme un cas individuel.
+
+**Militantisme thématique hors-sol.** La PaduTeam formule le diagnostic central : Louffok soutient Grégoire parce que son programme mentionne l'ASE (aide sociale à l'enfance). "S'il y avait eu le meilleur truc des droits à l'enfance chez Mariani, tu serais au RN." Ce raisonnement révèle qu'il n'est pas ancré dans une vision politique globale mais dans un agenda thématique. C'est le [[Militantisme thematique]] à l'état pur : choisir son parti comme on choisit sa crèmerie selon la vitrine du moment. La PaduTeam compare à Hugo Clément sur l'écologie — "l'écologie n'a pas de couleur politique" — même logique de dépolitisation.[^louffok1]
+
+**Crise des structures militantes comme cause.** Le diagnostic structurel : si des partis de masse communistes existaient encore, quelqu'un comme Louffok — entré en militantisme par un combat thématique sur l'ASE — aurait été accueilli, formé, inscrit dans un projet global. La déliquescence des organisations militantes depuis 40 ans a produit le militantisme thématique. "Ça c'est vraiment une conséquence de la délicence des organisations militantes."[^louffok2]
+
+**La conflictualité politique comme réponse au "harcèlement".** La PaduTeam refuse d'appeler "cyberharcèlement" le fait que "4000 personnes disent en même temps" à quelqu'un que son choix politique est mauvais. La distinction est posée explicitement : les attaques sur la physique ou la sexualité relèvent du harcèlement ; les critiques d'un choix politique relèvent de la conflictualité normale de la guerre des gauches. "Si personne n'est pas d'accord avec vous, c'est mauvais signe. Ça veut dire que vous ne faites pas de politique."[^louffok3] Le "cyberharcèlement" est ici un dispositif de communication PS : le Parisien (Bernard Arnault) monte l'histoire, Olivier Fort (PS) tweete, Grégoire produit une vidéo — la séquence est coordonnée.
+
+(Source : [[HARCELE PAR LA MEUTE LFI LYES LOUFFOK TRAITRE OU VICTIME]])
+
+### 43. Le cordon sanitaire inversé : Bergé et le vocabulaire de l'Action Française
+
+L'alliance Bergé (Renaissance)-RN contre LFI lors des municipales constitue la démonstration la plus avancée du "cordon sanitaire inversé" théorisé par la PaduTeam.
+
+**Le "cordon sanitaire inversé" formalisé.** Le terme "antifrance" utilisé par Bergé contre LFI est identifié comme du vocabulaire direct de l'Action Française. Le [[Cordon sanitaire inverse]] fonctionne à l'envers du cordon républicain de 2002 : en 2002, on excluait l'extrême droite ; en 2026, on exclut la gauche de rupture en s'alliant avec l'extrême droite. Bergé n'est pas une marionnette qui choisit — c'est le Graphique qui parle : son espace de classe (bloc bourgeois) converge naturellement avec le bloc nationaliste contre le bloc populaire. La PaduTeam analyse aussi la posture de [[Marine Tondelier]] et [[Lucie Castets]] comme du "social-fascisme" — au sens de l'analogie SPD des années 1930 : en refusant de faire le front avec LFI et en préférant les alliances avec le bloc central, elles facilitent objectivement la montée de la droite.
+
+(Source : [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]])
 
 ## La consolidation du pôle cassoulet — avril 2026
 
@@ -582,3 +651,11 @@ La vidéo [[TONDELIER RETOURNE ENCORE SA VESTE]] fournit la documentation la plu
 ### Vidéos clés (W13-W14 2026)
 
 - [[L'ANGLE MORT DE LA FRANCE INSOUMISE  LE PATRONAT !]] — Aurélie Trouvé comme figure du "class blind" au sein de LFI ; fracture interne sur la stratégie PME (patrons ou salariés ?) ; Institut La Boétie invitant uniquement des syndicats patronaux ; convergence programmatique avec le PS comme signal d'alarme ; l'intersectionnalité ne justifie pas de gommer la classe
+
+### Vidéos clés (W09-W10 2026)
+
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — nassage formalisé en 4 étapes ; "clarté" comme code du PS pour la présidentielle 2027 ; Hollande "cochon truffier" dont l'odorat politique est la seule boussole ; chiffres Hollande 18%/Mélenchon 14% dans la configuration à barre basse ; division du travail militant comme réponse structurelle
+- [[Hollande vs Melenchon 2e tour]] — le "mulet" d'Asimov comme figure disruptive de la prophétie graphique ; "2002 inversé complet" (le système tente de casser l'antisystème) ; Hollande=Poutine/Macron=Medvedev/Vallaud=successeur naturel ; Bardella sabré comme Ségolène 2007 ; second tour comme choix de classe quelle que soit la configuration
+- [[MELENCHON LE STALINIEN TRIE LES MEDIAS]] — Massiet "faux alternatif" (vision du monde identique à France Info) ; Gauchet fabricant en 1990 du "social vs sociétal" avant Soral/Zemmour ; Fondation Saint-Simon comme modèle que La Brèche entend retourner ; Mélenchon "bélier nécessaire mais programme insuffisant" ; La Brèche = think tank militant, pas média
+- [[HARCELE PAR LA MEUTE LFI LYES LOUFFOK TRAITRE OU VICTIME]] — militantisme thématique hors-sol comme symptôme de l'effondrement des structures militantes ; "cyberharcèlement" comme dispositif de comm PS (Parisien/Fort/Grégoire séquence coordonnée) ; conflictualité politique normale vs harcèlement ; crise des partis de masse comme cause structurelle des Louffok
+- [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — cordon sanitaire inversé formalisé ; "antifrance" = vocabulaire Action Française ; Bergé comme expression graphique du bloc bourgeois contre le bloc populaire ; Tondelier/Castets = social-fascisme (analogie SPD 1930s)

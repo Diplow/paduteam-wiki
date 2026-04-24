@@ -50,10 +50,24 @@ L'hégémonie américaine ne craque plus seulement à la périphérie (Iran, Ven
 [^la_tarifs]: [37:18](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=2238) — « au début avril, quand Trump avait dit qu'il allait monter les niveaux de douanes avec la Chine, le gouverneur de Californie avait dit : je vais moi-même mettre mes propres tarifs de douane. Je ne veux pas des tarifs de Trump avec la Chine pour la Californie. »
 [^la_xi]: [8:54](https://www.youtube.com/watch?v=_h7v0R4K1Nk&t=534) — « Xi Jinping a dit qu'il regardait ce qui se passait à Los Angeles pour voir si les libertés allaient être préservées [...] il serait temps que la nation californienne progressiste et égalitaire s'affranchisse de l'Amérique autoritaire. [...] Pékin sera le premier pays à reconnaître ce pays officiellement. »
 
+## La stratégie correcte de la périphérie : tenir et attendre
+
+La PaduTeam défend explicitement la stratégie de [[Delcy Rodriguez]] (Venezuela) et du Mexique face à Trump : **pas d'affrontement direct**, mais contournement tranquille le temps que l'empire tombe. C'est "la meilleure stratégie" — "ils n'ont pas les moyens du conflit direct avec Trump. C'est tout ce que Trump attend."[^periphe1]
+
+Exemples concrets (mars 2026) :
+- Le **Mexique** ouvre ses aéroports pour que les avions à destination de Cuba puissent y faire escale et se ravitailler en kérosène — contournement du blocus américain sans déclaration de guerre
+- La **Russie** annonce l'envoi de 200 000 barils de pétrole à Cuba dès l'invalidation des droits de douane par la Cour suprême — capitalisant sur la faiblesse américaine révélée
+- La **Chine** supprime tous ses droits de douane avec l'Afrique — avançant ses pions pendant que Trump s'embourbe
+
+Cette stratégie est opposée à ce que les "révolutionnaires impatients" préconisent : la confrontation directe que Trump attend pour légitimer une escalade. "Vous avez tort, vous perdriez, et en plus vous lui donneriez l'excuse dont il a besoin."[^periphe2]
+
+[^periphe1]: [10:14](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=614) — "La stratégie de Sheinbaum, Delcy Rodriguez et cetera de essayer de tenir et d'attendre est la meilleure. Ils n'ont pas les moyens du conflit direct avec Trump. C'est tout ce que Trump attend."
+[^periphe2]: [19:46](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=1186) — "les pays de la périphérie comme le Mexique, comme le Venezuela qui tentent justement de trouver un équilibre pendant qu'il tombe ont raison. Ils comprennent bien mieux les logiques économiques que le baratin qu'on vous raconte."
+
 ## Vidéos où le concept est développé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
-- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
+- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]] — La stratégie de la périphérie (Mexique/Venezuela/Cuba) comme attente active pendant l'effondrement de Trump ; baril en chute structurelle ; Trump sans levier
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]]
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Front intérieur de la crise : 20% exports chinois via Californie, négociations Londres concomitantes aux émeutes, tarifs de douane californiens autonomes
 - [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Tripartition Chine/Europe/USA ; acculement de l'empire ; Trump en "poisson hors de l'eau" ; [[Bulle de l IA]] comme seul débouché fictif des capitaux américains

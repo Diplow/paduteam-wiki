@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, guerre-des-gauches, Venezuela, Amérique-latine, Ukraine, États-Unis]
-skill_version: write-enjeu-2026-04-19
+skill_version: write-enjeu-2026-04-24
 date created: Monday, April 13th 2026, 11:53:22 am
 date modified: Monday, April 20th 2026, 1:27:59 pm
 ---
@@ -127,3 +127,31 @@ Les contradictions à assumer : le mouvement Femme Vie Liberté de 2022 est popu
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Paul Elek revendique explicitement "campisme assumé" face au faux débat terrorisme/légitime défense
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Rejet de la "neutralité" occidentale, appel à la mobilisation internationale des peuples contre leurs bourgeoisies
 - [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — Campisme contradictoire assumé sur l'Iran : ni défense inconditionnelle des mollahs, ni assimilation à une menace islamiste ; identification matérielle des intérêts pétroliers américains derrière la déstabilisation israélienne ; le mouvement FVL (Femme Vie Liberté) instrumentalisé par la droite islamophobe française sans que cette instrumentalisation invalide la légitimité du mouvement
+
+## La "résistance tranquille" de la périphérie — validation empirique
+
+La capsule sur l'implosion Trump (mars 2026) valide rétrospectivement la stratégie campiste de la périphérie. Venezuela, Mexique, Cuba n'ont pas cédé face aux pressions américaines. Le Mexique de [[Claudia Sheinbaum]] a résisté aux menaces de Trump sans confrontation directe. Cette "résistance tranquille" — tenir sans céder, attendre que l'empire s'épuise — est désormais validée empiriquement par la Cour suprême qui invalide les droits de douane par 6 contre 3 (287 milliards déclarés illégaux), par le chômage américain à 4,6%, et par l'effondrement des marchés. Les camps de résistance qui ont tenu — Venezuela bolivarien, Cuba, Iran — émergent de la tempête Trump dans une position renforcée. Le campisme n'est pas seulement une position éthique : c'est la stratégie efficace contre un empire qui s'effondre de lui-même.[^tranquille1]
+
+La thèse "socialisme ou barbarie" reformulée : ce n'est pas l'empire qui gagne la partie longue. C'est la Chine qui maintient sa position (droits de douane symétriques, réserves d'or, diversification des partenaires), et ce sont les pays de la périphérie qui ont choisi l'indépendance qui se trouvent, ex post, du bon côté de l'histoire. La barbarie, c'est Trump qui renonce aux droits fondamentaux ; le socialisme, c'est l'alternative que la gauche radicale doit construire dans ce vide.
+
+## Le ni-nisme de LFI face à la guerre Iran (mars 2026)
+
+La guerre américano-israélienne contre l'Iran (27 février 2026) révèle une fracture interne à LFI sur la ligne campiste — et fournit à la PaduTeam l'occasion de réaffirmer les critères du campisme assumé avec une précision rare.
+
+**[[Thomas Portes]] : cas d'école du ni-nisme pro-propagande.** Son post Instagram qualifiant [[Ali Khamenei]] de "dictateur sanguinaire" le lendemain des frappes est qualifié d' "absolument honteux" et de "motif de sanction". Le problème n'est pas de défendre le régime iranien — c'est de reprendre mot pour mot les éléments de langage de la propagande trumpiste au moment précis où les États-Unis et Israël bombardent. Depuis le centre impérialiste, relayer ces éléments "fabrique du consentement passif à la guerre".[^ninisme_portes]
+
+**[[Manon Aubry]] : "ni Mola ni Shah ni USA" comme ni-nisme constitué.** Cette formulation — qui semble équilibrée — est en réalité une position ni-niste classique : elle instaure une équivalence morale entre l'agresseur (États-Unis/Israël) et l'agressé (l'Iran), alors même que cette équivalence est énoncée depuis le centre impérialiste. La PaduTeam : "Je vois pas la différence entre Shah et USA. Autant dire ni Mola ni USA." La mention du Shah est un élément de langage atlantiste — le Shah était le régime proaméricain que la révolution de 1979 a renversé.[^ninisme_aubry]
+
+**La distinction fondamentale : révolution interne vs intervention impérialiste externe.** La PaduTeam formule le critère analytique central : "la destitution de Khamenei ou même sa mort n'est pas la même chose si c'est dans un contexte révolutionnaire interne que si c'est tué par justement une intervention impérialiste." Ce n'est pas une distinction morale sur les mérites du régime — c'est une distinction matérielle sur qui décide du sort d'un État souverain. Que le peuple iranien renverse la République islamique par une révolution interne : acte légitime et progressiste. Que les États-Unis et Israël le fassent par des frappes militaires : acte impérialiste à combattre sans réserve, quelles que soient les critiques internes qu'on peut avoir du régime.[^ninisme_distinction]
+
+**La position juste : [[Pedro Sanchez]] et [[Irene Montero]].** En Europe, deux positions campistes se distinguent. Sanchez refuse que l'Espagne serve de couloir de transit aux frappes américaines, au prix d'un embargo Trump. Montero (Podemos) formule la position la plus courageuse : "Les États-Unis et Israël sont actuellement les principales menaces pour la sécurité et la stabilité de l'humanité." C'est la ligne campiste que la PaduTeam attendait — et qu'elle ne trouvait pas chez LFI.
+
+## Vidéos clés (W09-W10 2026)
+
+- [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]] — Validation empirique de la résistance tranquille : Cour suprême 6-3, 287Mds illégaux, chômage 4,6%, Texas +45pts ; la périphérie qui a tenu sort renforcée ; "socialisme ou barbarie" comme seule alternative à la barbarie trumpiste
+- [[IRAN LA PIRE PROPAGANDE DE GUERRE]] — Thomas Portes "motif de sanction" ; Manon Aubry ni-nisme "ni Mola ni Shah ni USA" ; distinction révolution interne vs intervention impérialiste externe ; Sanchez et Montero comme références campistes européennes ; agenda prioritaire 2026 : sortir de l'OTAN
+
+[^tranquille1]: [35:00](https://www.youtube.com/watch?v=lxJLMr_6WnA&t=2100) — "Les pays qui ont résisté sans céder — Venezuela, Mexique, Cuba — se retrouvent du bon côté de l'histoire. L'empire s'épuise seul."
+[^ninisme_portes]: [21:15](https://www.youtube.com/watch?v=yPJKov273gs&t=1275) — "la réaction de Thomas Portes est absolument honteuse [...] pour moi c'est motif de sanction"
+[^ninisme_aubry]: [19:11](https://www.youtube.com/watch?v=yPJKov273gs&t=1151) — "ni Mola ni Shah ni USA [...] moi je vois pas la différence entre Shah et USA. Autant dire ni Mola ni USA."
+[^ninisme_distinction]: [20:12](https://www.youtube.com/watch?v=yPJKov273gs&t=1212) — "la destitution de Ramené ou même sa mort n'est pas la même chose si c'est un contexte révolutionnaire interne que si c'est tué par justement une intervention impérialiste"

@@ -48,7 +48,16 @@ La Jeune Garde est une organisation internationaliste. Elle a envoyé des milita
 
 [^jg2]: [20:00](https://www.youtube.com/watch?v=QN89GVrV0u8&t=1200) — "avec la jeune garde on avait envoyé des gens en Syrie combattre l'État islamique [...] le commandant de la brigade Henri Krasucki justement c'était l'un des fondateurs de la jeune garde"
 
+## Instrumentalisation post-Deranque et division du travail (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la mort de Quentin Deranque dans une rixe impliquant des membres de la Jeune Garde devient le prétexte d'une opération politique majeure. Hollande utilise l'affaire pour définir l'extrême gauche comme "un mouvement qui entretient en son sein des groupes qui font autre chose que de la participation au scrutin" — définition directement construite pour piéger la FI via ses liens avec la Jeune Garde.
+
+La PaduTeam formule sa réponse : la [[Division du travail]] militant. La Jeune Garde fait un travail indispensable et légitime. Mélenchon peut soutenir ce travail — il peut aller à leurs universités d'été — mais la Jeune Garde ne doit pas être institutionnalisée comme "partie intégrante du mouvement" France Insoumise. La frontière doit être claire pour éviter que l'antifascisme de terrain soit "proché à Jean-Luc Mélenchon en disant bah regardez c'est un assistant parlementaire machin et si on regarde les fiches de pay c'est la France insoumise qui va payer ce gars."[^jg-div]
+
+[^jg-div]: [16:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=960) — "le fait qu'il soit assistant parlementaire il devrait pas être là-bas [...] pas parce que je condamne le fait d'être là-bas et d'être antifasciste mais justement parce que la division du travail veut que l'antifascisme de terrain [...] ne doit pas pouvoir être reproché à Jean-Luc Mélenchon"
+
 ## Vidéos où La Jeune Garde est mentionnée
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Instrumentalisation de la rixe pour piéger la FI (définition de l'extrême gauche comme "mouvement entretenant des groupes non électoraux") ; réponse PaduTeam : division du travail militant, pas de lien institutionnel FI-Jeune Garde
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Procédure de dissolution, riposte, théorisation de la lutte
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Militants envoyés à Manbij via la brigade Henri Krasucki, lien direct avec la guerre contre Daesh en Syrie

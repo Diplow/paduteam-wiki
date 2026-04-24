@@ -35,3 +35,4 @@ Ces milieux se disaient anti-Le Pen et pour le "cordon sanitaire" tout en portan
 
 ## Vidéos où l'organisation est analysée
 - [[FROM TROTSKISTE TO RACISTE]] — Identifiée comme représentante de la matrice 2 (bourgeoisie anticléricale) qui converge avec la droite réactionnaire pour taper sur les musulmans
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Printemps républicain comme deuxième maillon de la chaîne de diffusion anti-Mélenchon : Mediapart publie → Printemps républicain reprend → extrême droite amplifie

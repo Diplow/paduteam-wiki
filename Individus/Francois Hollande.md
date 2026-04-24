@@ -134,7 +134,23 @@ Point théorique : "Hollande, il est pas en train de gérer le parti, il est pas
 [^holl-patron]: [10:52](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=652) — "lui, il appelle aux listes PS à ne pas s'allier avec la France insoumise pour faire la fusion technique, mais il veut les voix de la France insoumise sans s'allier avec elle."
 [^holl-candidat]: [18:07](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=1087) — "Hollande, il est pas en train de gérer le parti, il est pas chef du PS, il est pas en train de gérer des baronies, il est là pour devenir candidat."
 
+## La promesse du non-second-tour (mars 2026) — opération de nassage BFM TV
+
+Le lendemain de la mort de Quentin Deranque, Hollande capitalise sur le moment politique en demandant une interview à BFM TV 8h30. Il arrive avec une ligne chirurgicale : pas d'alliance avec la FI au municipal comme au présidentiel, et une promesse solennelle formulée en direct — "Au deuxième tour, il n'y aura pas Jean-Luc Mélenchon présent à l'élection. J'en prends ici à la fois la promesse, l'engagement et le pari."[^nassage-bfm]
+
+La mécanique du nassage :
+1. Utilisation du mot "extrême gauche" pour désigner la FI — en validant la classification ministérielle
+2. Définition opérationnelle de l'extrême gauche : "un mouvement qui entretient en son sein des groupes qui font autre chose que de la participation au scrutin" — piège direct contre Mélenchon qui avait dit que la Jeune Garde "fait partie intégrante de notre mouvement"
+3. Exploitation du flou de la FI (qui condamne la violence ET ne lâche pas la Jeune Garde) pour se poser comme le seul à avoir une "ligne claire"
+4. Rupture formelle avec LFI : "la relation avec LFI est terminée. Pour ce qui me concerne, elle est rompue totalement."
+
+Pour la PaduTeam, ce moment marque le début du nassage présidentiel. Projection chiffrée : bloc macroniste centre-gauche (15-20%) + noisettes captées (5-6%) = Hollande à 16%, pouvant atteindre 18% avec l'aide médiatique, pendant que Mélenchon tombe à 14%. Le risque réel d'élimination au premier tour.[^nassage-chiffre]
+
+[^nassage-bfm]: [31:33](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1893) — "Au deuxième tour il n'y aura pas Jean-Luc Mélenchon présent à l'élection. J'en prends ici à la fois la promesse, l'engagement et le paris." — dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]].
+[^nassage-chiffre]: [10:21](https://www.youtube.com/watch?v=BaoHrF9zy24&t=621) — "il peut très bien arriver à faire 18 % et que Mélenchon en fasse 14 quoi. Le risque est vraiment là parce que là on sera à poil quoi." — dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]].
+
 ## Vidéos
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Opération de nassage post-mort Deranque : BFM TV 8h30, short esthétique Baron Noir, promesse solennelle d'élimination de Mélenchon au premier tour, rupture formelle avec LFI, définition opérationnelle de l'extrême gauche comme piège contre Mélenchon/Jeune Garde. La PaduTeam : "la seule personne à avoir été claire, c'est lui."
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — Mentionné comme bénéficiaire mécanique si Bardella abandonne le pacte populaire pour aller vers le pacte patronal : "Bardella est trop néolibéral" — Hollande peut arriver en promettant 5% de baisse du carburant et un retour aux tarifs réglementés d'EDF sans que ça lui coûte grand-chose.
 - [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour municipales : interview France Inter du 16 mars 2026, stratégie de la "clarté" décryptée, sacrifice de Limoges et Toulouse assumé, tension baronies locales vs ligne présidentielle 2027.
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — révélé comme vrai architecte du 49.3 sur le budget général (connaissait la copie avant Faure) ; sa déclaration publique referme la primaire de gauche en excluant LFI ; la mort de Faure lui profite en dégageant Vallaud.
