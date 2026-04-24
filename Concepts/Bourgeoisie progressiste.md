@@ -40,5 +40,16 @@ L'analyse "Tax the Rich" est jugée inadéquate pour plusieurs raisons :
 - [[Socialisation des moyens de production]] — Ce que la bourgeoisie progressiste ne porte pas (encore)
 - [[Moisation]] — Processus qui pourrait pousser Mélenchon à se radicaliser au-delà de la position de bourgeoisie progressiste
 
+## La bourgeoisie sans valeurs — le mécanisme de classe dans la panique anti-LFI
+
+La vidéo [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] développe une démonstration empirique de l'absence de valeurs de la bourgeoisie progressiste. Fog Gisbert, commentateur qui se dit de gauche, tient sur Mélenchon exactement les mêmes propos qu'il tenait sur Jean-Marie Le Pen dans les années 2000 — mêmes mots, même indignation morale. La PaduTeam en tire la thèse centrale :
+
+> "Ce qui est hallucinant aujourd'hui, c'est de comprendre à quel point la bourgeoisie n'a vraiment aucune valeur, aucune capacité de distinction du bien, du mal, du progrès et de la réaction, de l'émancipation ou de la coercition. Ce qui leur intéresse, c'est seulement de défendre leur capital et leurs biens."[^gisbert-bourgeoisie]
+
+C'est précisément ce qui explique comment la bourgeoisie progressiste est passée de la République à Vichy dans les années 1940 : Marcel Déat, qui se disait socialiste, est devenu l'un des pires collaborateurs parce que son capital était menacé — pas parce qu'il avait changé d'idéologie. La bourgeoisie "progressiste" n'est progressiste qu'aussi longtemps que le progrès ne menace pas sa position de classe.
+
+[^gisbert-bourgeoisie]: [07:47](https://www.youtube.com/watch?v=_NnPvmlUV94&t=467) — "Ce qui est hallucinant aujourd'hui, c'est de comprendre à quel point la bourgeoisie n'a vraiment aucune valeur, aucune capacité de distinction du bien, du mal, du progrès et de la réaction, de l'émancipation ou de la coercition." — dans [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]].
+
 ## Vidéos
 - [[MELENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES]] — Concept développé par la PaduTeam à l'occasion du passage de Mélenchon aux GG
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Démonstration empirique : la bourgeoisie progressiste (Fog Gisbert, commentateurs "de gauche") réutilise les mêmes mots contre Mélenchon qu'elle utilisait contre Le Pen père — preuve que les valeurs sont secondaires au capital dans la détermination de classe.

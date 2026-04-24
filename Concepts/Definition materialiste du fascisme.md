@@ -45,9 +45,22 @@ La PaduTeam : "quand on est vraiment antifasciste, c'est n'importe quoi [cette m
 
 Cette définition s'articule avec [[Fascisation par echec de la gauche reformiste]] : la gauche réformiste qui déçoit sans remettre en cause le capital prépare les conditions matérielles dans lesquelles la bourgeoisie pourra opter pour la solution fasciste au prochain tour de crise. Elle articule aussi [[Tapis rouge pour le fascisme]] : l'antifascisme de barrage qui évite toute rupture programme exactement la situation qui rend le fascisme nécessaire pour la bourgeoisie.
 
+## Le fasciste auto-déclaré qui confirme la définition
+
+Dans [[LA FACE CACHEE DE QUENTIN DERANQUE]], [[Quentin Deranque]] fournit malgré lui la démonstration de la pertinence de la définition matérialiste : ses propres posts sur X l'amènent à définir le fascisme comme "la primauté de l'État sur l'individu", l'opposition conjointe au libéralisme et au marxisme, et la régénération de la nation par l'ordre moral et racial — soit la définition mussolinienne classique. La PaduTeam : "est-ce qu'il est pas plus basé que certains sur la définition du fascisme ? Est-ce qu'il sait pas plus de quoi il parle que certains gars qui disent fascisme à tout bout de champ ?"[^deranque]
+
+Il recadre lui-même des militants d'extrême droite qui assimileraient antifas et fascistes : "Les fascistes et les antifas ont littéralement deux visions opposées de la société." Proche de Carl Schmitt sur le plan théorique — très étatique, très anti-individuel. La PaduTeam : "c'est du fascisme à la Carl Schmitt quoi."[^schmitt]
+
+Paradoxe utile : l'avocat de Déranque voulait contester l'usage du terme "fasciste" à son sujet, mais les posts de Déranque le définissant lui-même comme fasciste démontrent que ceux qui utilisent le terme "fasciste" à tort sont à droite, pas à gauche.
+
 ## Vidéos où le concept est développé
 
 - [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — formulation directe et complète de la définition matérialiste, en réponse aux critères ChatGPT de Florentin
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — Déranque comme fasciste auto-déclaré qui confirme la définition au sens mussolinien ; distinction fascisme savant (Déranque) vs identitarisme de façade (Cordier) ; Carl Schmitt comme référence théorique revendiquée
+
+[^deranque]: [26:56](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=1616) — "est-ce qu'il est pas plus basé que certains sur la définition du fascisme ? [...] Un fasciste est quelqu'un qui soutient le fascisme, c'est-à-dire qu'il affirme la primauté de l'État sur l'individu. Il souhaite que l'État soit une force régénératrice, un ordre moral et qu'il unisse la nation. Il s'oppose au libéralisme et au marxisme."
+
+[^schmitt]: [29:30](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=1770) — "on est vraiment face à du fascisme à la Carl Schmitt quoi. Très très étatique."
 
 ---
 

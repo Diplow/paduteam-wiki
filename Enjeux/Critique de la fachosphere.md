@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, masculinisme, trajectoires-politiques, racisme-antiracisme]
-skill_version: write-enjeu-2026-04-24
+skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/masculinisme #thème/racisme-antiracisme #enjeu/critique-de-la-fachosphere
 
@@ -360,6 +360,34 @@ La trajectoire Cordier permet à la PaduTeam de connecter Némésis à l'écosys
 - [[ONFRAY DEBUNK DEFINITIVEMENT LE COMMUNISME]] — Onfray comme "adversaire-clown" vs Hollande "adversaire dangereux" ; l'anticommunisme "nature humaine" comme défense de propriété déguisée ; test "remplacez communisme par fascisme" ; Onfray vassalisé par CNews/JDD Bolloré, à droite du RN
 - [[PRAUD ET MENARD EN SUEUR LEURS ENFANTS VOTENT MELENCHON]] — Praud = fasciste (test Zone d'intérêt), pas "homme de droite" ; "crise de sénilité" des adultes face à la lame de fond générationnelle (pas crise d'adolescence) ; Bolloré à droite du RN ; la jeunesse blanche de classes moyennes bascule à gauche par conditions matérielles
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]] — preuves documentaires (L'Humanité) : conversations Ornela-Calixy octobre 2025 sur la stratégie de façade ; féminisme raciste ≠ fémonationalisme au sens Sara Farris ; trajectoire Alice Cordier : Action Française → IFP Maréchal → Atlas Network
+
+## Déranque : le fasciste savant et le mécanisme du bâton merdeux (W11-W12 2026)
+
+L'affaire [[Quentin Deranque]] constitue le cas d'école le plus documenté du vault sur l'écosystème néonazi structuré — et sur la mécanique par laquelle la mort d'un militant d'extrême droite devient une arme contre la gauche de rupture.
+
+### La distinction fasciste savant / identitarisme de façade
+
+L'enquête Mediapart (Alexandre Berto, Marie Turcan) sur les ~10 000 publications pseudonymes de Déranque ("Patricien D", "Ultra Gavariu") permet à la PaduTeam d'établir une distinction analytique centrale : Déranque n'était pas un identitaire de façade comme [[Alice Cordier]], mais un **fasciste savant** au sens mussolinien du terme. Sa pensée est structurée — primauté de l'État, opposition conjointe au libéralisme et au marxisme, régénération nationale par l'ordre moral et racial, références à Carl Schmitt et Mussolini. Il recadre d'autres militants d'extrême droite qui confondent fascistes et antifas : "Les fascistes et les antifas ont littéralement deux visions opposées de la société." La PaduTeam : "il y en a moins de 1000 en France des gars comme ça aussi renseignés sur le fascisme." Cordier, elle, est une militante qui performe l'idéologie sans la maîtriser — Déranque la dominait idéologiquement.
+
+Cette distinction importe pour la critique de la fachosphere : les figures les plus dangereuses ne sont pas les bruyantes (Cordier, 100 plaintes annoncées) mais les discrètes — structurées, formées, capables de former des miliciens (Audace Lyon, 20 participants le 1er février 2026).
+
+### Le [[Dernier converti]] comme pattern structurel
+
+Déranque illustre parfaitement le pattern du [[Dernier converti]] : né d'une mère péruvienne, il surjoue l'identité française "pure" qu'il ne peut pas incarner naturellement. La PaduTeam formalise la loi générale : les grandes figures d'extrême droite qui sont "françaises de lignée" (Julien Reddi, Baptiste Marché) finissent par partir à l'étranger — "ils n'ont rien à prouver." Quentin, lui, doit prouver qu'il est "vraiment français" en lisant Charles Maurras et en tapant des antifas. Ce mécanisme est structurel dans la fachosphere : Papacito (parents espagnols), Raptor (origines algériennes présumées), Ryan (maghrébin) — les figures les plus enragées de l'identitarisme sont celles qui ont le plus à prouver.
+
+### Le "bâton merdeux" : la mort instrumentalisée contre LFI
+
+La PaduTeam maintient sa position depuis le premier jour : il ne fallait pas participer à la minute de silence pour Déranque. La mécanique du "bâton merdeux" est précise : la mort de Déranque est instrumentalisée pour créer une équivalence "violence politique" entre [[Collectif Nemesis]] et la [[France Insoumise]], dans un contexte où le centre cherche à renvoyer dos à dos les "extrêmes". L'enquête Mediapart retourne ce mécanisme : c'est [[Sebastien Chenu]] (RN, vice-président de l'Assemblée nationale) qui a rendu hommage à quelqu'un qui voulait "le fascisme" et soutenait Marc de Kaker. Désormais, chaque député insoumis peut poser à Chenu la question directe : "Voilà les idées de Quentin Déranque, sont-ce les vôtres ?"
+
+L'enquête empirique transforme la défense de Déranque en piège pour le RN — qui avait présenté sa mort comme un crime politique "de gauche" se retrouve à devoir répondre de l'éloge d'un néonazi structuré.
+
+### Le [[Lawfare]] de Cordier comme extension de la fachosphere institutionnelle
+
+Cordier annonce ~100 plaintes contre ceux qui ont parlé de la photo SS. La PaduTeam (potentiellement dans le viseur) : "J'espère qu'on va pouvoir faire dépenser un maximum d'argent en avocat à Alice Cordier." Ce n'est pas une anecdote — c'est la même mécanique que Stéphane Édouard, Kroc Blanc, la SLAPP contre Le Fouallier et Dai-Mon. La fachosphere a appris que les procédures judiciaires peuvent terroriser les journalistes et militants sans victoire judiciaire : l'objectif n'est pas le verdict, c'est le coût.
+
+## Vidéos clés (W11-W12 2026)
+
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — démontage empirique le plus complet du vault sur l'écosystème néonazi structuré : distinction fasciste savant (Déranque, lecteur de Mussolini/Schmitt/Bardèch) vs identitarisme de façade (Cordier) ; effondrement en 3 étapes de la défense Cordier sur la photo SS (Boris Vian 2020, CheckNews 2022, Zoav Paris 2019) ; mécanique du bâton merdeux retournée contre Chenu ; [[Lawfare]] de Cordier ; pattern du [[Dernier converti]] ; formulation fondamentale : l'idéalisme politique (un signe isolé vs le même signe dans son contexte néonazi) comme grille analytique de la preuve
 
 [^jj1]: [33:33](https://www.youtube.com/watch?v=2-yjOa2ug5U&t=2013) — "non seulement c'est une grille totalement fausse et qui ne résout aucun problème si ce n'est faire monter des tensions entre des classes qui sont elles-mêmes réduites matériellement de la même manière."
 [^florentin1]: [3:06](https://www.youtube.com/watch?v=YZCzNwaRlw8&t=186) — "s'appelle ChatGPT et je me suis amusé à juste poser la question définition du fascisme à ChatGPT. [...] le niveau de Frontière quoi."

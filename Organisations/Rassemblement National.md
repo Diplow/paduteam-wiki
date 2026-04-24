@@ -47,6 +47,7 @@ Le clivage interne au RN entre [[Marine Le Pen]] (trumpiste) et [[Jordan Bardell
 La mécanique : l'effondrement du bloc central macroniste a retiré le point de référence commun qui permettait au RN et à LR de se définir en opposition à Macron. Sans cet ennemi commun, les contradictions internes de ligne sont devenues irréconciliables.
 
 ## Vidéos où l'organisation est analysée
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Graphique de Chris : stagnation absolue du RN en 2026 malgré une décennie d'ascension. En 2014, le RN présentait 500+ listes et faisait 1 million de voix. En 2026, il n'en présente que ~400 et fait ~950 000 voix — sans même retrouver son niveau de 2014, avant toutes ses percées présidentielles. Le RN ne capte que 12 % de son socle des européennes 2024, contre 25 % pour LFI. Analyse structurelle : le "pacte raciste" (social mais seulement pour les Français) se délite quand Bardella tire vers le libéralisme et refuse de bloquer les prix, laissant les classes populaires sans raison matérielle de rester.
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Origines avec anciens SS et OAS ; continuité idéologique malgré la dédiabolisation ; mort de JMLP comme opération de com pour le RN
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Stagnation dans les grandes villes, avancée dans le Sud. Clivage géographique = clivage de ligne. Analyse de [[Felicien Faury]] sur le vote RN dans le Sud (PACA).

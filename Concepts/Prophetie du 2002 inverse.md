@@ -87,7 +87,16 @@ La PaduTeam réagit "premier degré, je suis pas bien" — reconnaissant qu'un h
 [^holl-promesse-prop]: [31:33](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1893) — "Au deuxième tour il n'y aura pas Jean-Luc Mélenchon présent à l'élection. J'en prends ici à la fois la promesse, l'engagement et le paris."
 [^holl-surnaturel]: [32:03](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1923) — "Je vois un gars qui est sûr de lui qui a une stratégie qui arrive avec un un truc clair qui a un appareil de partie derrière lui qui a des relations, qui a une alliance avec Macron."
 
+## La panique bourgeoise comme confirmation vivante (mars 2026)
+
+Dans [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]], la PaduTeam identifie dans Fog Gisbert — commentateur "de gauche" qui emploie les mêmes mots sur Mélenchon qu'il employait sur Jean-Marie Le Pen dans les années 2000 — une confirmation vivante et involontaire de la prophétie. Le mécanisme : Gisbert est incapable de distinguer Le Pen (extrême droite) de Mélenchon (gauche radicale) parce qu'il les classe tous deux comme des menaces à son capital. C'est exactement ce qui crée le vote "vote caché" prédit par la prophétie : une fraction importante de la population qui vote LFI mais ne le dit pas dans les sondages, parce que la diabolisation médiatique crée une honte sociale.
+
+"C'est la prophétie ça" — formulé en réaction directe au fait que Gisbert utilise mot pour mot les mêmes accusations qu'il avait formulées contre Le Pen père, et que ça n'avait pas empêché Le Pen de passer au second tour en 2002.[^panique-prophétie]
+
+[^panique-prophétie]: [07:47](https://www.youtube.com/watch?v=_NnPvmlUV94&t=467) — "On comprend pourquoi la bourgeoisie [...] est passée de la République à Vichy dans les années 30-40. Comment des gens qui se disaient socialistes comme Marcel Déat sont devenus les pires collaborateurs. On le comprend." — dans [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]].
+
 ## Vidéos où le concept est analysé
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — La panique bourgeoise post-premier tour municipal comme confirmation vivante de la prophétie : Fog Gisbert reprend mot pour mot ses discours anti-Le Pen pour les retourner contre Mélenchon, sans voir que cette répétition confirme exactement la dynamique prédite. Graphique de Chris : FI capte 25 % de son socle européen, RN seulement 12 %. Hollande nommé comme occupant l'espace bourgeois "de gauche" prédit par la prophétie.
 - [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Confirmation opérationnelle : Hollande promet publiquement que Mélenchon ne sera pas au second tour, décortiquage du nassage comme méthode de réalisation active de la prophétie, projections chiffrées (Hollande 18% / Mélenchon 14%)
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — La version initiale de la prophétie (second tour Mélenchon/Le Pen) : Mélenchon à 16,86 %, Le Pen à 19,8 %, victoire 58,2 % / 41,8 %. Inclut l'analyse Graphique de 2002, 2022 et 2027. Différente de la "prophétie du 2002 inversé complet" (variante Hollande) — c'est ici le scénario "standard" où c'est bien Mélenchon/Le Pen au second tour[^initial]
 

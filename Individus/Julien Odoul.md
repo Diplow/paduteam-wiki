@@ -31,3 +31,4 @@ Condamné avec [[Marine Le Pen]], [[Louis Aliot]] et d'autres dans l'affaire des
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Cité comme attaquant Retailleau en permanence pour le compte du RN
 - [[TRUMP VEUT ANNEXER LE GROENLAND]] — « Traître à la patrie », matrice maurrassienne de la « divine providence », atlantisme structurel
 - [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]] — Cité parmi les condamnés dans l'affaire des assistants parlementaires
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Présenté comme l'exemple de la panique bourgeoise la plus délirante : annonce sur un plateau que Saint-Denis va "remplacer le drapeau français par le drapeau du Hamas" sous Bagayoko. La PaduTeam démonte : pas de liste RN à Saint-Denis, la ville vote à 83 % de gauche. "Qu'est-ce que c'est ce délire quoi ?"

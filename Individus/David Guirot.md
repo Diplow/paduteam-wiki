@@ -23,3 +23,4 @@ La PaduTeam annonce vouloir lui rendre visite avec la chaîne [[On ne veut plus]
 
 ## Vidéos
 - [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — "David, futur maire de Roubaix, c'est sûr. Là, c'est pas notre prédiction la plus compliquée."
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Cité dans le graphique de Chris comme cas emblématique de la percée LFI : 44 % au premier tour à Roubaix, dans une ville ouvrière sans espace RN. Le commentateur bourgeois Fog Gisbert refuse d'admettre que "pour l'instant il y a un vainqueur assez clair dans la classe politique [...] c'est LFI."

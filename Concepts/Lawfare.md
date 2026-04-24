@@ -79,6 +79,12 @@ Le pire scénario projeté : "une semaine avant les municipales ils mettent Raph
 [^law-deranque]: [27:23](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1643) — "je suis désolé, on peut pas simplement réagir à ça. Il faut un agenda pour les anticiper et les contrer avant que ça arrive quoi."
 [^law-musique]: [28:27](https://www.youtube.com/watch?v=BaoHrF9zy24&t=1707) — "c'est du l'aufer. Le l'aufer des fois c'est complètement faux ou alors un truc on amplifie. Voilà. Et après, tu as juste à laisser la machine médiatique déroulée là-dessus."
 
+## La plainte-bâillon comme variante du lawfare (affaire Cordier, mars 2026)
+
+[[Alice Cordier]] annonce avoir porté plainte contre "environ une centaine de personnes" ayant relayé ou commenté la photo SS la montrant avec Lazar A. L'avocat de [[Quentin Deranque]] annonce également des procédures. La PaduTeam (potentiellement dans le viseur) reconnaît le mécanisme : l'objectif n'est pas la condamnation — c'est la salarisation financière et psychologique. Cent plaintes simultanées, même sans suite, créent une centaine d'individus contraints de mobiliser un avocat, de gérer une procédure, d'auto-censurer par précaution. C'est la forme diffuse du lawfare : pas un grand procès politique, mais une pluie de procédures préventives qui découragent la documentation de la fachosphère.[^plainte]
+
+[^plainte]: [0:30](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=30) — "Cordier a dit qu'elle avait porté plainte je crois contre une centaine de personnes. On avait déjà fait des vidéos sur elle. Pour l'instant on a rien reçu mais ça pourrait très bien arriver."
+
 ## Vidéos où le concept est développé
 - [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Lawfare de l'affaire Deranque : timing judiciaire calibré (assistant parlementaire → deux → stagiaire), parquet comme organe politique, scénario garde à vue d'Arnaud avant municipales, "musique médiatique" comme instrument de salissage pré-présidentielle
 - [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Cas d'école complet de l'offert électoral en France : timing judiciaire + relais presse progressiste + amplification extrême droite ; contre-modèle Podemos/Iglesias
@@ -89,3 +95,4 @@ Le pire scénario projeté : "une semaine avant les municipales ils mettent Raph
 - [[SIHAME ASSBAGUE CONVOQUEE PAR LA POLICE POUR UN TWEET SUR GAZA]] — Application de la loi 2014 contre un tweet de militante
 - [[APOLOGIE DU TERRORISME PANOT FAIT PETER LE PLATEAU DE BFMTV EN DIRECT]] — Proposition Bernalicis, réponse de Panot, mensonge du PS sur la proposition
 - [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Asymétrie judiciaire formulée explicitement : des syndicalistes CGT condamnés pour "apologie du terrorisme" pendant qu'une bourgeoise tient publiquement des propos génocidaires sur des chaînes nationales sans aucune procédure
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — Plainte-bâillon de Cordier : ~100 personnes visées pour avoir relayé la photo SS ; mécanisme de salarisation préventive décourageant la documentation de la fachosphère

@@ -62,6 +62,19 @@ La PaduTeam avance l'analyse : tout est subordonné à la destinée présidentie
 
 [^bompard-hypo]: [49:34](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2974) — "cette règle semblait réservée aux discussions avec la France insoumise puisque vous avez fait savoir publiquement que vous aviez travaillé avec le Parti socialiste à des accords de soutien réciproque au niveau national." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
+## L'explosion interne post-second tour (mars 2026)
+
+Le second tour des municipales déclenche une crise ouverte au sein d'EELV. À Lille, l'état-major impose l'accord PS contre le vote des militants (26/24 pour LFI) — produisant des départs en chaîne : Simon Jamelin (3e de liste), les Jeunes Écologistes du Nord-Pas-de-Calais, Stéphanie Bocquet (chef de groupe au département du Nord). La PaduTeam résume : "En fait ce qu'on se rend compte c'est que les militants de Lille voulaient la rupture et voulaient l'alliance avec la France insoumise mais Marine Tondelier et son état-major a poussé le candidat lillois à s'allier avec le Parti socialiste."[^eelv-post1]
+
+À Strasbourg, la liste Barseghian-LFI est battue par Trotman (PS+Horizon) — Hollande tue Tondelier en lui reprenant ses mairies avec la ligne réformiste. Seule [[Leonore Moncond'huy]] résiste à la discipline de parti et fusionne avec LFI à Poitiers, partant avec un socle de 41 %.
+
+La PaduTeam formule le diagnostic terminal : EELV n'a plus que trois villes sous sa coupe et navigate à vue. "Les verts sont vraiment vraiment dans la merde. C'est le grand perdant de cette histoire." La [[Primaire des noisettes]] sort de ces municipales illégitime : "Là, tout dit le contraire d'aller à la primaire."
+
+L'alternative proposée : que les Verts "conséquents" fassent une fédération populaire avec LFI dès mai-juin 2026 pour attaquer 2027 — rejoindre la plateforme insoumise pour peser sur le programme écologiste plutôt que de "valider cette primaire ridicule."[^eelv-post2]
+
+[^eelv-post1]: [19:41](https://www.youtube.com/watch?v=ASBdZheusV0&t=1181) — "les militants de Lille voulaient la rupture et voulaient l'alliance avec la France insoumise mais Marine Tondelier et son état-major a poussé le candidat lillois à s'allier avec le Parti socialiste."
+[^eelv-post2]: [33:36](https://www.youtube.com/watch?v=ASBdZheusV0&t=2016) — "il y a vraiment un espace pour que les verts un peu conséquents un peu de gauche qui veulent une unité mais pas un renoncement se dire [...] c'est le moment de partir avant que cette primaire se déroule et nous ridiculise."
+
 ## Vidéos où l'organisation est analysée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature officielle ; primaire interne avec 6 800 votants contre Walid Mouali ; islamophobie structurelle (Médine, Rima Hassan, Ali Diouara) ; sécurité sociale de l'alimentation proposée sans programme anticapitaliste cohérent ; douceur comme marque de fabrique de l'espace haut-milieu du Graphique
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse complète : fin prédite du parti, écologie comme thème transpartisan, base qui se sépare entre LFI et PS
@@ -70,3 +83,4 @@ La PaduTeam avance l'analyse : tout est subordonné à la destinée présidentie
 - [[CECILE DUFLOT VEUT LAISSER LES ULTRA RICHES TRANQUILLES]] — "Noisettes originelles". Duflot (Oxfam) propose de ne plus parler des ultra-riches pour ne pas générer de "ressentiment" RN. Impasse de l'écologie sans anticapitalisme : ni collapsologie nihiliste ni incitations marchandes ne peuvent remplacer la socialisation des moyens de production.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Vote du PLFSS 2026 : l'aile droite EELV s'abstient (26 voix décisives) pour sauver Faure et maintenir la primaire des noisettes. L'aile gauche (anciens FI : Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture interne entre les deux tendances.
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — 500 militants de l'aile gauche purgés pour avoir signé une tribune anti-PS dans Mediapart. Correspondance Bompard/Vanier révèle la subsidiarité à géométrie variable d'EELV. Des cadres parisiens (Menier, Glaise) rejoignent la liste Chikirou. La guerre des gauches commence au municipal.
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — Post-second tour : explosion interne à Lille (vote militant 26/24 pour LFI ignoré, accord PS imposé, départs Jamelin/JE NPC/Bocquet) ; Strasbourg pris par Hollande ; seule Moncond'huy résiste. Verdict : grand perdant des municipales, primaire des noisettes illégitime, appel à la fédération populaire avec LFI.

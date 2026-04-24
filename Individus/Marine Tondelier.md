@@ -148,6 +148,23 @@ La logique est limpide selon la PaduTeam : "tout tient à la primaire des noiset
 
 La chaîne de contrainte est détaillée dans [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] : Tondelier dit «on fera pas alliance avec la FI» non par conviction mais pour satisfaire [[Olivier Faure]] (Fort), qui lui-même le fait pour satisfaire [[Francois Hollande]] — lequel dans les sondages dit pourtant «jamais on votera pour Marine Le Pen». «Eux c'est même plus des noisettes — c'est des noisettes entre deux noisettes.» Sur le fond, elle est empêchée de répondre à [[Sandrine Rousseau]] qui lui demande publiquement de se positionner sur le second tour aux municipales — elle répond par des formules floues sur «les choix locaux», révélant qu'elle n'est pas «maître de cette volonté»: c'est le [[Parti Socialiste]] qui décide.
 
+## La trahison de Lille et l'explosion de la base (mars 2026)
+
+La séquence post-second tour révèle une contradiction insurmontable : [[Marine Tondelier]] impose à Stéphane Bali, chef de file écolo à Lille, de signer avec le PS — contre le vote des militants qui étaient à **26/24** en faveur d'un accord avec la France insoumise[^lill1]. Le résultat est immédiat : Simon Jamelin (3e de liste) quitte, les jeunes écologistes du Nord-Pas-de-Calais publient "Not in my name", Stéphanie Bocquet (chef de groupe au département du Nord) fait pareil.
+
+La PaduTeam décortique la logique : l'état-major EELV sacrifie Lille, ses militants et ses sièges (LFI proposait 50/50 en conseillers, le PS n'en a accordé que 13-15) pour conserver les bonnes grâces d'[[Olivier Faure]] en vue de la [[Primaire des noisettes]]. La conclusion : "C'est vraiment pour sauver la primaire. C'est gros comme une maison."[^lill2]
+
+Pendant ce temps, à Strasbourg, le PS de la ligne Hollande s'allie avec Horizon pour battre [[Jeanne Barseghian]] (EELV-LFI) — Tondelier se fait "baiser sur tous les plans" selon la PaduTeam[^lill3]. Elle tente un tweet pour dénoncer la trahison de Fort sur Strasbourg mais sa position est intenable : elle vient de faire elle-même ce qu'elle reproche au PS.
+
+Exception notable : [[Leonore Moncond'huy]] (Poitiers) résiste à la ligne Tondelier et s'allie malgré tout avec LFI — la PaduTeam y voit une élue qui "comprend qu'elle est toute seule" et choisit la cohérence politique.
+
+La PaduTeam formule le verdict : Tondelier est le grand perdant des municipales. "Tout était taillé pour elle [...] pour qu'elle soit élue dans cette primaire. Bon, c'est toujours le cas. Problème, c'est qui c'est qui va rester derrière ?"[^lill4]
+
+[^lill1]: [18:39](https://www.youtube.com/watch?v=ASBdZheusV0&t=1119) — "26 voix étaient pour l'accord avec la France insoumise et 24 pour l'accord avec le PS."
+[^lill2]: [20:12](https://www.youtube.com/watch?v=ASBdZheusV0&t=1212) — "pouvoir conserver son espèce de primaire des loisettes. [...] C'est vraiment pour sauver la primaire. C'est gros comme une maison."
+[^lill3]: [24:18](https://www.youtube.com/watch?v=ASBdZheusV0&t=1458) — "elle se fait vraiment baiser sur tous les plans."
+[^lill4]: [32:33](https://www.youtube.com/watch?v=ASBdZheusV0&t=1953) — "C'est le grand perdant de cette histoire. Tout était taillé pour elle tondelier pour qu'elle soit élue dans cette primaire."
+
 ## Vidéos où Tondelier est analysée
 - [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
@@ -173,3 +190,4 @@ La chaîne de contrainte est détaillée dans [[SANDRINE ROUSSEAU PRIVEE DE PRIM
 - [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Clip de campagne primaire décortiqué : aucune idée programmatique, "campagne de présidente de région", stratégie Kamala Harris, mode de scrutin préférentiel analysé comme dispositif taillé pour son élection.
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Purge de 500 militants de l'aile gauche qui ont signé une tribune anti-PS dans Mediapart. Contradiction avec sa posture "choquée" face aux non-investitures LFI. Risque de faire réémerger Jadot. Correspondance Bompard/Vanier révèle que la FI cherchait des accords que la direction EELV a systématiquement refusés.
 - [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Verrouillage confirmé de la primaire à son profit via la règle «chefs de partis seulement» ; chaîne de subordination Tondelier→Fort→Hollande décortiquée ; incapable de répondre publiquement à Rousseau sur les consignes de vote au second tour ; la PaduTeam : «c'est le PS qui décide, pas Tondelier».
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — Trahison de Lille : impose l'accord PS (contre vote militant 26/24 pour LFI) ; départs de Simon Jamelin, jeunes écologistes NPC, Bocquet ; LFI proposait 50/50 vs 13-15 postes du PS ; Strasbourg pris dans le même piège Hollande ; Moncond'huy se rebelle et s'allie LFI seule. Verdict : grand perdant des municipales.
