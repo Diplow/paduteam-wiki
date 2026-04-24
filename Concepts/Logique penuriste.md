@@ -38,22 +38,29 @@ La pénurie n'est pas seulement un discours économique — c'est le terreau du 
 
 La logique pénuriste est l'outil principal par lequel le néolibéralisme capte la solidarité ouvrière pour la retourner contre elle-même. "Moi je préfère travailler 2 ans de plus pour que mes enfants aient droit à la retraite" — cette formule illustre comment la capacité collective des travailleurs est mobilisée par le discours pénuriste pour faire accepter les régressions sociales.[^3]
 
-## Le chèque énergie ciblé comme ticket de rationnement
+## La logique pénuriste dans le programme de la gauche réformiste
 
-La proposition de [[Marine Tondelier]] de remplacer le blocage des prix par des "chèques énergie ciblés selon les revenus et le besoin" est analysée par la PaduTeam comme le paradigme de la logique pénuriste en politique sociale :
+La PaduTeam identifie une forme de logique pénuriste dans le programme présidentiel de [[Francois Ruffin]] (janvier 2026) : en proposant de se payer le SMIC comme président et d'économiser 20 millions sur le budget de l'Élysée pour "ruisseler sur les milliardaires", Ruffin valide implicitement la contrainte budgétaire comme réalité incontournable. La PaduTeam : "il vient à tenir des discours de comptabilité de Bruno Le Maire." La conclusion est que "si les gens sont pauvres ce n'est pas qu'il y a du vol, de l'extorsion, de l'exploitation — c'est qu'en fait on gère mal les budgets de l'État."[^ruffin-penurie]
 
-1. Elle valide l'existence d'un gâteau trop petit (l'État ne peut pas bloquer les prix pour tout le monde)
-2. Elle décide qui mérite l'aide (pas le SUV, oui la vieille diesel) — "tu obliges les pauvres à consommer ce que toi tu décides"
-3. Elle laisse intact le rapport fondamental : quelqu'un gagne 25 000 €/mois, l'autre 1 500 €
+La réponse de la PaduTeam suit la logique du [[Choc d abondance|choc d'abondance]] : "En réalité, c'est un problème systémique du capitalisme. Les riches n'ont jamais eu autant et la bourgeoisie doit payer et rendre ce qui ferait qu'on aurait l'abondance." Le problème n'est pas la gestion des budgets mais la suraccumulation du capital et la nécessité de déprivatiser.
 
-"Les gens parlent de tickets de rationnement dans les pays communistes — mais vous, vous voulez donner des chèques. C'est la même chose."[^cheque-ration] Un ticket de rationnement ne change pas les rapports de production — il les administre. La logique pénuriste chrétienne (aider les pauvres sans les sortir de la pauvreté) est exactement ça : "maintenir des pauvres, pas trop pour qu'ils ne meurent pas, mais ils restent pauvres."
+[^ruffin-penurie]: [30:23](https://www.youtube.com/watch?v=ZJJihP0hLBE&t=1823) — "là en plus il vient à tenir des discours de comptabilité de Bruno Le Maire. [...] il y en a pas assez faut faire des économies." — dans [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]]
 
-[^cheque-ration]: [35:10](https://www.youtube.com/watch?v=jHY3lK75_fs&t=2110) — "c'est ça mène à la logique des droits tardifs en dialogue. Ces gens te parlent de tickets de rationnement dans les pays communistes mais ils veulent donner des chèques. C'est en fait la même chose." — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
+## La logique pénuriste comme fondement de l'écologie libérale
+
+L'[[Ecologie punitive|écologie libérale]] d'[[Europe Ecologie Les Verts]] reproduit la même logique pénuriste que le néolibéralisme : "les ressources sont finies, il faut les rationnner." La PaduTeam le formule explicitement : "l'écologie est un pipeline pour l'extrême droite parce que l'écologie vient dire la même chose. Il y en a pas assez pour tout le monde."[^ecolo-pipeline]
+
+L'alternative humaniste et progressiste doit dire l'inverse : "il y en a largement assez pour tout le monde, c'est une question d'organisation sociale." Ce n'est pas technolutionnisme — c'est refuser de figer les forces productives à leur état actuel. Nier que demain l'humanité pourra faire mieux qu'aujourd'hui est un "conservatisme des forces productives."
+
+La Chine illustre la thèse : de 0 % à 50 % de voitures électriques produites entre 2020 et 2025, reforestation à l'échelle d'un cycle de l'eau. La planification collective produit des ruptures techniques que le marché capitaliste ne peut pas organiser.
+
+[^ecolo-pipeline]: [12:58](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=778) — "la question de la gauche et c'est pour ça que l'écologie est un pipeline pour l'extrême droite parce que l'écologie vient dire la même chose. Il y en a pas assez pour tout le monde." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
 ## Vidéos clés
 
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage de la logique pénuriste appliquée au "déficit" de la Sécu ; capture de l'énergie anti-riche contre l'universalité ; paradoxe de la résilience ouvrière
-- [[TONDELIER RETOURNE ENCORE SA VESTE]] — le chèque énergie ciblé comme ticket de rationnement ; démontage du blocage des prix Tondelier (coûte de l'argent public : faux) ; logique redistributive vs logique de l'abondance
+- [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]] — logique pénuriste dans le programme de gauche réformiste : Ruffin valide la contrainte budgétaire comme réalité incontournable ; opposition avec le choc d'abondance
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — l'écologie libérale EELV comme pipeline vers l'extrême droite ; la finitude des ressources comme logique pénuriste ; la Chine comme contre-exemple de planification écologique sans décroissance
 
 [^2]: [8:52](https://www.youtube.com/watch?v=jtDb2meKMn8&t=532) — "le néolibéralisme va capter... l'anti-riche pour remettre en question le système universel de la sécurité sociale"
 [^3]: [9:53](https://www.youtube.com/watch?v=jtDb2meKMn8&t=593) — "Moi je préfère travailler 2 ans de plus mais que mes enfants ils aient droit à la retraite"

@@ -138,6 +138,14 @@ Faure avait bâti toute sa stratégie de "gauche responsable" sur la promesse qu
 
 [^fort-crucifixion]: [3:07](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=187) — "c'est la crucifixion d'Olivier Fort au sein du PS hein. Clairement c'est une catastrophe pour lui [...] il n'a plus aucun avenir politique. C'est c'est fini."
 
+### La stratégie du prête-nom : Laurent Baumel à 8% (début 2026)
+
+À l'annonce officielle de la primaire, [[Olivier Faure]] n'est toujours pas candidat déclaré. La PaduTeam décortique son impasse et prédit sa stratégie : envoyer un prête-nom inconnu (Laurent Baumel, "un gars du PS que personne ne connaît") pour faire 8%, perdre proprement, et pouvoir se dégager vers la campagne Hollande pour "l'unité du parti". Logique : "tu as envoyé les U16 jouer contre le Barça et tu es là 'on a perdu, on y peut rien.'" Plus c'est gros, mieux ça passe.[^faure-baumel]
+
+S'il se présente et gagne, il affronte Hollande et Glucksmann avec seulement Ruffin et Tondelier pour alliés. S'il ne se présente pas du tout, il perd toute hégémonie sur l'aile gauche unioniste du PS. La seule sortie : présenter un homme de paille qui perd avec honneur, ce qui lui libère les mains pour aller rallier Hollande.
+
+[^faure-baumel]: [18:33](https://www.youtube.com/watch?v=OYgG0a_EiGo&t=1113) — "Plus c'est gros, mieux ça passe. [...] tu as envoyé les U16 jouer contre le Barça et tu es là on a perdu, on y peut rien. C'est ça tu sais."
+
 ### PPH — "Il ne passera pas l'hiver" (décembre 2025)
 
 La vidéo [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] marque un tournant dans la trajectoire de Faure. Alors qu'il avait bâti toute sa stratégie de "gauche responsable" sur la promesse d'empêcher le 49.3, ses propres camarades — [[Boris Vallaud]] et [[Rachid Temal]] — ouvrent la porte à un "49.3 de compromis". C'est la "main noire" de [[Francois Hollande]] qui reprend l'initiative, via ses lieutenants. La ligne Faure est torpillée de l'intérieur.
@@ -145,6 +153,13 @@ La vidéo [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] marque un to
 La PaduTeam lui attribue le surnom **PPH** (Pierre-Palu-Hubert ? ou plus simplement : "il ne passera pas l'hiver"). L'analyse : Faure est "coincé entre faire adopter un truc avec le 493 ou ne pas faire adopter de truc. C'est-à-dire aucune de ces stratégies n'a fonctionné. Il est obligé de s'enlever une jambe dans les deux cas."[^pph-jambe]
 
 [^pph-jambe]: [25:26](https://www.youtube.com/watch?v=jECNwiQ77OY&t=1526) — "aucune de ces stratégies n'a fonctionné. Il est obligé de s'enlever une jambe dans les deux cas."
+
+### L'assassinat public par Kanner (début 2026)
+
+Le lendemain de l'annonce de la primaire noisette, [[Patrick Kanner]] descend sur France Info en mission commanditée par [[Francois Hollande]] : rappeler à Faure qu'il a participé à la conférence de presse sans mandat du bureau national du PS. La PaduTeam lit l'intervention phrase par phrase comme une exécution[^kanner-exec] : "Je suis très perplexe sur la présence d'Olivier Fort à cette conférence de presse" = "tu as une tête de cheval dans ton lit." Kanner révèle aussi l'isolement de Faure : il n'est plus chef du PS mais "député supplémentaire du groupe des verts" (Ruffin, Autain, Corbierre, Tondelier) — le groupe qui lui permettrait encore d'avoir un siège si le PS l'exclut. Son propre groupe PS à l'Assemblée est mené par [[Boris Vallaud]], "un type qui veut sa mort."[^faure-vallaud-groupe]
+
+[^kanner-exec]: [11:55](https://www.youtube.com/watch?v=WpfmoXD7yMI&t=715) — "Je suis très perplexe sur la présence d'Olivier Fort à cette conférence de presse [...] Le mot condamner est bien trop fort. Mais j'ai de grandes réserves."
+[^faure-vallaud-groupe]: [21:47](https://www.youtube.com/watch?v=WpfmoXD7yMI&t=1307) — "son groupe à lui son groupe à l'Assemblée nationale il est mené par Boris Valot. C'est un type qui veut sa mort et qui veut être le candidat."
 
 ## Vidéos où Faure est analysé
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — "mort dans le film" après validation du 49.3 sans conditions remplies ; crucifixion au sein du PS ; Hollande révélé comme vrai architecte (connaissait la copie avant lui) ; l'aile Guedj reprend le lead immédiatement.
@@ -168,4 +183,6 @@ La PaduTeam lui attribue le surnom **PPH** (Pierre-Palu-Hubert ? ou plus simplem
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Mentionné (sous le nom "Olivier Fort" dans le transcript — probable erreur de dénomination) en tant que candidat PS à la présidentielle 2027 ne comprenant pas le mécanisme de distribution du temps de parole CSA quand [[Lumi]] l'interroge sur la fragmentation des candidatures.
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — la Taxe Zucman comme arme anti-LFI ; non-censure de Lecornu décryptée comme investissement stratégique ; prévision SMIC à 1600€ NFP ; mise en défaut de LFI sur la bataille politique.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — Faure "a bien joué le valet" en orchestrant les abstentions PS sur le PLFSS 2026 ; survie politique court-terme au prix d'une nouvelle trahison structurelle ; démontage des victoires PS sur les retraites (3 mois de décalage), l'ONDAM (équivaut à une baisse), le congé naissance (mesure de classe).
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Impasse structurelle à la primaire : présenter un prête-nom (Laurent Baumel prédit à 8%) pour perdre proprement et aller rallier Hollande. L'image des U16 contre le Barça. Faure visible mais hésitant sur la photo de groupe ("il a pas l'air d'être très content d'être là").
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — Kanner en mission d'Hollande : "perplexe" et "grandes réserves" comme vocabulaire d'exécution politique ; Faure isolé avec "les clampins du groupe des verts" ; son propre groupe PS dirigé par Vallaud qui veut sa mort ; la primaire noisette comme outil au service des écologistes, pas du PS.
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — Faure torpillé par Vallaud et Temal qui ouvrent la porte au 49.3 de compromis ; la "main noire" d'Hollande reprend l'initiative ; surnom PPH ("ne passera pas l'hiver") ; ligne intenable : obligé de s'enlever une jambe quelle que soit l'issue.

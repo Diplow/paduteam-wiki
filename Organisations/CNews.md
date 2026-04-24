@@ -33,11 +33,19 @@ Le retournement n'est pas une incohérence — c'est la cohérence de classe. CN
 
 L'autre ironie : CNews mobilise [[Charles Consigny]] pour défendre Alexandre J. (né Ahmed Jourri), co-prévenu de Sarkozy. Consigny note que "comme par hasard les deux Arabes sont les deux seuls qui dorment en prison ce soir." La PaduTeam lui donne raison sur le structurel antiraciste, mais note que le même CNews qui héberge ce discours le contredit chaque soir dans ses émissions habituelles.
 
+## CNews et la pédocriminalité : protection institutionnelle des hommes de pouvoir
+
+Thomas Bauder, directeur de l'information de CNews depuis 10 ans (numéro 2 de la chaîne), condamné à 4 mois avec sursis pour violences sur ses trois enfants — il a fait appel alors qu'il n'avait pris que 4 mois avec sursis. Il a porté plainte pour non-présentation d'enfants contre son ex-femme qui refusait de les lui confier après le dépôt de plainte contre lui. [[Jean-Marc Morandini]], condamné définitivement pour détournement de mineurs, est maintenu à l'antenne avec pour seule mesure de précaution : son plateau a été physiquement déplacé dans un autre bâtiment pour éviter les croisements avec des stagiaires de 3e.
+
+La PaduTeam note l'ironie : [[Sarah Knafo]] se produit sur cette chaîne pour parler de "protection des mineurs dans le périscolaire." "Peut-être qu'il vire pas les gens qui ont des problèmes avec les enfants parce que ça se trouve il y aurait plus grand monde sur cette chaîne."[^bauder1]
+
+[^bauder1]: [46:59](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2819) — "S'il virait les gens qui ont des problèmes avec les enfants, ça se trouve il y aurait plus grand monde sur cette chaîne"
+
 ## Vidéos où CNews est analysée
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — décrit comme "appareil de l'atlantisme et du sionisme", en furie contre le pivot chinois de Macron
 - [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]] — la thèse de Rochedy (CNews s'adapte à son public âgé) démontée : c'est Bolloré qui impose son idéologie, pas le public qui la demande
 - [[CNEWS PLEURE POUR UN CRIMINEL]] — le retournement anti-punitif de CNews à la condamnation Sarkozy ; [[Justice de classe]] en action ; nostalgie sarkozyste comme clé de la ligne éditoriale Bolloré
-- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — plateau CNews avec Éric Tegner sur l'élection du maire noir de Saint-Denis ; négrophobie médiatique décryptée ; Johann Uset co-plateau visé par une plainte pour apologie de crime de génocide ("raser Gaza comme Dresde en 45")
+- [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Bauder condamné pour violences sur ses enfants, Morandini condamné pour détournement de mineurs, Knafo vient y parler de protection des enfants
 
 [^2]: [22:50](https://www.youtube.com/watch?v=chanQENWcJI&t=1370) — "c'est littéralement parce que ils ont une vision du monde adéquate à des rentiers de droite blanc et cetera... C'est leur littéralement leur vision du monde. Donc ils s'adaptent pas."
 [^3]: [9:16](https://www.youtube.com/watch?v=zunLNTeDBoU&t=556) — "Merci CNews d'être cet anticarcéralisme dont on a besoin à gauche quoi."

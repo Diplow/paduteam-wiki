@@ -168,18 +168,6 @@ Dans la vidéo sur les petits patrons, Mélenchon formule lors d'un "moment poli
 
 La PaduTeam lui reconnaît une intuition juste — fracturer le patronat pour créer un socle populaire — mais pointe une [[Fausse conscience]] révélatrice : il glisse constamment du "patron de PME" à "l'artisan" ou "le coiffeur" (indépendant, sans salarié), effaçant la réalité du salariat des TPE-PME (45-50 % des salariés français). Sa phrase "qui fait du pain ou qui est coiffeur ou qui produit des briques ou qui construit" gomme le fait que ce sont les salariés qui produisent — pas les patrons. La PaduTeam y lit une fausse conscience de classe dans sa compréhension des rapports de production des PME.
 
-## Le débat avec Lordon (avril 2026) : vainqueur par défaut mais avec ses limites
-
-Dans [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], la PaduTeam accorde à Mélenchon la victoire du débat — mais en la nuançant soigneusement.
-
-**Ce qui lui vaut la victoire** : il peut aller sur la théorie et mettre Lordon en difficulté ; il propose un sujet collectif (le peuple, imparfait mais existant) quand Lordon ne propose rien ; il a une pratique référençable (1981, Allende, le programme LFI) quand Lordon admet ne pas savoir "comment y arriver."
-
-**Ce qui reste problématique** : il combat un "marxisme fantôme de droitard" — la caricature réductionniste selon laquelle les marxistes ne penseraient qu'à l'ouvrier d'usine avec son marteau. "Quel marxiste aujourd'hui défend la classe ouvrière vue comme les penseurs de droite disaient que les marxistes les voyaient dans les années 20 ?" La critique du marxisme réductionniste par Mélenchon est une critique de la propagande anti-marxiste, pas du marxisme réel. Et s'il a été "un jour marxiste" sans comprendre que les marxistes ont toujours critiqué le réductionnisme, "je sais pas ce que tu as foutu."
-
-Son sujet révolutionnaire — "le peuple" — reste trop large : il inclut des petits patrons et bourgeois qui ne sont pas dans la position de reprendre collectivement les moyens de production.
-
-Formule PaduTeam : "Mélenchon est meilleur. Lordon tire Mélenchon vers le bas. [...] Je préfère largement écouter Mélenchon tout seul en conférence."
-
 ## Vidéos où Mélenchon est analysé
 - [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Traité de "fasciste" et d'"antisémite" comparable à Drumont par BHL ; double standard démontré ; défendu comme cible structurelle du bloc bourgeois en fascisation
 - [[AFFAIRE QUATENNENS L ERREUR DE MELENCHON]] — Gestion catastrophique de l'affaire Quatennens ; tweet "faute avouée à moitié pardonnée" ; soutien maintenu pour 2027 malgré la critique sur les VSS
@@ -214,4 +202,4 @@ Formule PaduTeam : "Mélenchon est meilleur. Lordon tire Mélenchon vers le bas.
 - [[MELENCHON DRAGUE LES PETITS PATRONS]] — stratégie TPE-PME commentée ; intuition juste de fracturer le patronat mais fausse conscience sur la distinction patron/salarié dans les PME ; programme de relance keynésienne jugé anachronique et convertible en programme PS
 - [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]]
 - [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Commission parlementaire sur l'islamisme retournée : cours de laïcité de 1905, récit protagoniste, aveux de défaite des éditorialistes CNews ; démonstration de la conflictualisation institutionnelle — La stratégie "2002 inversé" explicitée : Mélenchon doit incarner le pôle antisystème de gauche que Le Pen incarnait à droite en 2002, imposer des thèmes de rupture (32h, nationalisation du crédit, retraite 60 ans) et assumer la diabolisation comme carburant de la dynamique
-- [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]] — Vainqueur par défaut face à Lordon ; pragmatisme et référence à la pratique reconnus ; critique de sa vision du "marxisme fantôme" réductionniste ; son sujet collectif (le peuple) jugé trop large
+- [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — Mélenchon défendu contre le dispositif Mediapart ; la conflictualité réaffirmée comme ressource ("c'est littéralement ce qui se passe dans tous les pays qui sont en crise") ; la thèse des 8 millions de votes et de la 2e place chez les ouvriers rappelée en réfutation des accusations de racisme antiblanc

@@ -71,6 +71,17 @@ Le corpus Iran (janvier-mars 2026) fournit des cas d'école supplémentaires du 
 [^iran3]: [26:56](https://www.youtube.com/watch?v=yPJKov273gs&t=1616) — "une démonstration d'orientalisme sur les femmes iraniennes qui est juste dégueulasse"
 [^iran4]: [34:18](https://www.youtube.com/watch?v=yPJKov273gs&t=2058) — "elles viendraient dans le centre impérialiste pour pouvoir faire nounou ou femme de chambre"
 
+## Le fémonationalisme municipal : le cas Knafo Paris 2026
+
+[[Sarah Knafo]] offre une illustration compacte du mécanisme dans sa campagne pour la mairie de Paris. Elle construit toute sa rhétorique sécuritaire sur l'"agression de rue par un inconnu" — en proposant des lampadaires IA pour détecter les cris — tout en ne prévoyant rien sur le logement, les transports, les crèches. Pour la PaduTeam, c'est le cœur du fémonationalisme municipal : désigner un agresseur fantasmé (implicitement l'homme racisé dans la rue sombre) pour invisibiliser les vraies violences, qui sont massivement intrafamiliales.
+
+La démonstration par l'absurde : Knafo se produit sur [[C News]] pour parler de protection des enfants. C News dont le directeur de l'information Thomas Bauder est condamné pour violences sur ses propres enfants, et qui emploie [[Jean-Marc Morandini]] condamné pour détournement de mineurs. La PaduTeam : "je me demande ce que Sarah Knafo a prévu pour Jean-Marc Morandini et sa technique de l'IA."[^knafo_fem1] Le fémonationalisme protège les hommes de pouvoir blancs tout en désignant l'ennemi dans la rue.
+
+Elle reconnaît également soutenir [[Eric Zemmour]] qui finance "Parents vigilants" — le groupe qui empêche l'éducation au consentement dans les écoles primaires, c'est-à-dire l'outil qui permet aux enfants de détecter et signaler les agressions sexuelles[^knafo_fem2].
+
+[^knafo_fem1]: [8:43](https://www.youtube.com/watch?v=kJgGc2z0INg&t=523) — "Comment on fait avec Jean-Marc Morandini et ta technique de l'IA ?"
+[^knafo_fem2]: [43:55](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2635) — "Il y a un groupe qui s'appelle Parents vigilants soutenu par Éric Zemmour qui empêche de pouvoir faire ça"
+
 ## Vidéos où le concept est développé
 - [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] — dimension économie politique de Farris développée : bourgeoise blanche s'extrait du travail domestique par sous-traitance à femmes racisées ; le "peuple des femmes" masque cette exploitation ; démonstration par l'exemple de la nounou africaine à Paris
 - [[PAYE TA DROITARDE 4.1 THAIS D ESCUFON L IDENTITAIRE QUI DETESTE LES BEBES NOIRS]] — mécanique de la normalisation par la blondeur ; survisibilité médiatique d'une militante blanche comme vecteur d'acceptabilité pour un agenda fasciste
@@ -80,3 +91,4 @@ Le corpus Iran (janvier-mars 2026) fournit des cas d'école supplémentaires du 
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — cas d'école d'instrumentalisation fémonationaliste du procès Mazan : racialiser une affaire de viol conjugal pour en faire une question d'immigration
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]] — développement le plus complet par la PaduTeam sur la distinction fémonationalisme/féminisme raciste et sur la thèse de Farris concernant la réactivation du patriarcat occidental
 - [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] — Rochedy comme exemple du fémonationalisme en acte : lettre à une fillette violée utilisée pour une apologie d'Hitler et une critique de l'immigration
+- [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — fémonationalisme municipal : lampadaires IA contre l'agresseur fantasmé de la rue, rien sur les violences intrafamiliales ; Knafo sur CNews pour parler d'enfants malgré les condamnations des cadres de la chaîne

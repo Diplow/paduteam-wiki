@@ -120,92 +120,29 @@ Verdict final : "Marine Tondelier c'est vraiment le niveau brosse à dents avec 
 
 [^femme-sandwich]: [21:39](https://www.youtube.com/watch?v=Wp5cDiWWgd4&t=1299) — dans [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]].
 
-## Dîner des Bâtisseurs (novembre 2025)
+## Clip de campagne primaire (début 2026)
 
-Marine Tondelier participe pour la **deuxième année consécutive** au Dîner des Bâtisseurs, une soirée mondaine réunissant 600 leaders catholiques français dans un réseau financé par [[Pierre-Edouard Sterin]] et [[Vincent Bollore]] (actionnaire d'Obol à 29,26%). C'est [[Cecile Duflot]], participante aux éditions 2023-2024, qui a soufflé son nom aux organisateurs. Parmi les convives : le PDG de Carrefour, [[Bruno Retailleau]], une députée RN. Ticket d'entrée : 195 €.
+Tondelier publie un clip de campagne dès le jour du lancement officiel de la primaire — seule candidate à le faire, preuve qu'un "appareil avec des gens payés" est derrière elle. La PaduTeam décortique le clip : aucune idée programmatique, seulement des "blablabla" (France de la joie, réparer, apaiser, aucune cause oubliée). Verdict : "on dirait une campagne de présidente de région." Pas d'international, pas d'image militaire, pas de macro-économie — "vraiment une campagne locale quoi." La PaduTeam y voit leur "fausse conscience et leur incapacité à comprendre les problèmes macro sociaux."
 
-La PaduTeam analyse l'épisode à travers trois angles :
+La structure du clip est identifiée comme la stratégie Kamala Harris : "On a trouvé notre Camala Haris française, c'est Marine Tondelier." Union contre l'extrême droite, apaisement, aucune rupture, formulations à géométrie variable ("si je suis désignée j'en serai honorée, sinon je la soutiendrai immédiatement"). La PaduTeam note qu'elle "sait qu'elle va gagner" (mode de scrutin préférentiel lui est favorable) — donc cette générosité affichée ne lui coûte rien.
 
-**L'impossibilité structurelle de l'entrisme bourgeois.** Tondelier présente sa présence comme une tentative de ramener ces milieux à une écologie de gauche. Pour la PaduTeam, c'est structurellement impossible : on ne peut pas convaincre Stérin d'adopter la lutte des classes, qui implique son expropriation. Les structures mentales de classe rendent certaines idéologies — dont la lutte des classes — inaccessibles aux bourgeois.
+## Mode de scrutin préférentiel : la primaire truquée pour Tondelier
 
-**L'écologie comme fausse conscience transclasse.** La présence de Tondelier illustre précisément la thèse : l'écologie peut être "rejointe" par n'importe quelle classe sociale sans remettre en cause sa position. Des milliardaires catholiques peuvent s'y intéresser — et la résoudre par des logiques d'extrême droite (inégalité Nord/Sud assumée, stérilisation). C'est parce que l'écologie n'est pas une idéologie mais une fausse conscience translutte-des-classes.
+Selon l'analyse de Stefano Palombarini (citée par la PaduTeam), le mode de scrutin préférentiel choisi pour la primaire (voter pour plusieurs candidats en les classant par ordre de préférence) désigne mécaniquement le candidat le plus central entre les deux pôles. Avec [[Clémentine Autain]] à gauche et [[Francois Ruffin]] à droite, Tondelier est ce candidat central. La PaduTeam : "C'est un truc vraiment pour la reine des noisettes." Le même dispositif avait fait gagner Tobira à la primaire populaire 2022.
 
-**Le mauvais réseau.** Quand Tondelier dit vouloir parler à des catholiques, la PaduTeam pointe qu'elle aurait pu aller au Secours Catholique, aux prêtres actifs à Calais, aux communautés chrétiennes d'immigrés. Au lieu de ça, elle choisit le réseau le plus réactionnaire et le plus bourgeois.
+L'objectif réel de la primaire est de préserver l'appareil écologique ([[Europe Ecologie Les Verts]]) : c'est le seul grand appareil disponible hors PS et FI. Il faut donc "faire élire la reine des noisettes" pour sauver cet appareil entre les deux blocs. "Tout est fait. Est-ce qu'on la baptisant reine des noisettes nous on l'a pas déjà élu ?"
 
-La crise interne chez les Verts est révélatrice : la venue n'a fait l'objet d'aucun débat, des militants parlent de "honte". Pour la PaduTeam, c'est le signe que la base EELV commence à comprendre que l'écologie sans anticapitalisme ne tient pas — et que les Verts vont devoir se [[Moisation|Moïser]].
+## La purge des 500 (janvier 2026)
 
-## Municipales 2026 : la stratégie "qui n'a ni queue ni tête"
+Quand près de 500 militants et cadres des Écologistes signent une tribune dans Mediapart réclamant une "écologie de rupture" et critiquant l'alliance nationale avec le PS, Tondelier répond par une menace d'exclusion explicite : retirer sa signature avant dimanche soir ou être purgé[^purge-mail]. Julia Minaka, présidente de la Fédération des écologistes, est la figure la plus visible de la purge.
 
-**Premier tour, réactions post-résultats.** La PaduTeam analyse la position de Tondelier comme structurellement incohérente : elle renvoie Mélenchon et Hollande dos à dos, mais sa pratique sur le terrain révèle qu'elle protège toujours le PS.
+La PaduTeam souligne la contradiction : au moment des non-investitures LFI (Garrido, Corbière, Autain), Tondelier avait convoqué ses instances en disant être "extrêmement choquée". Elle purge maintenant 500 militants pour avoir signé un article de blog[^purge-choc]. Deuxième contradiction : la purge de l'aile gauche risque de faire réémerger Jadot, qui sera mécaniquement plus à droite qu'elle une fois l'équilibre interne perdu.
 
-Son équilibre impossible : pour maintenir la [[Primaire des noisettes]], elle a besoin du PS comme allié central. Elle ne peut donc pas laisser les Verts s'allier avec la FI contre le PS. Résultat :
+La logique est limpide selon la PaduTeam : "tout tient à la primaire des noisettes pour elle. Donc elle va aller jusqu'au bout de sa purge quoi."
 
-- **À Lille** : refuse la fusion Verts-FI (alliance 50/50 proposée, accord programmatique complet) — protège la mairie PS
-- **À Lyon** : laisse les Verts s'allier avec la FI parce qu'il n'y a pas de PS face à eux — ça ne nuit pas au PS
-- **À Strasbourg** : les Verts s'allient avec la FI contre le PS pour sauver la mairie sortante de Catherine Trotman (aile Hollande) — exception tactique
+[^purge-mail]: [38:15](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2295) — "si vous le retirez d'ici dimanche soir, en gros vous êtes pas exclu sinon vous êtes exclus du parti quoi. Donc c'est une véritable purge." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
+[^purge-choc]: [46:01](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2761) — "Marine Tellier avait dit, 'Moi, j'ai appris ça cette nuit. J'étais extrêmement choquée'. Alors qu'elle, elle est en train de virer 500 militants." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
-"Sa ligne c'est de cornériser la FI quand elle le peut ou utiliser la FI quand elle le peut."[^tonneg-corn]
-
-La PaduTeam identifie la conséquence finale : elle attaque Hollande (sa ligne de clarté anti-FI) sans attaquer Olivier Faure — elle doit maintenir l'équilibre PS/FI pour que la primaire reste viable. Mais cet équilibre est visible et illisible : "Vraiment là, c'est vraiment de la tambouille politique."[^tond-tambouille]
-
-[^tonneg-corn]: [16:04](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=964) — "l'équilibre de Marine Tondelier pour pouvoir sauver sa ligne de la primaire et cetera et ben c'est de cornéiser la FI quand elle le peut ou utiliser la FI quand elle le peut."
-[^tond-tambouille]: [27:27](https://www.youtube.com/watch?v=RB5LIF2Rp2I&t=1647) — "vraiment ça n'a ni queue ni tête. C'est vraiment mais vraiment c'est vraiment de la tambouille politique."
-
-## Droitisation documentée sur le blocage des prix (2026)
-
-Interview sur France Inter, avril 2026. La PaduTeam documente une droitisation en trois étapes chronologiques :
-
-- **2022** : défend explicitement le blocage des prix sur l'alimentation et l'énergie, dénonce les intermédiaires qui "s'en mettent plein les poches"
-- **2024** : associe blocage et contrôle des prix, reconnaît les super profits, confond parfois blocage et taxation — mais reconnaît le mécanisme
-- **2026** : retourne sa veste — "Nous ne sommes pas pour un blocage des prix. Un blocage des prix, ça coûte de l'argent public."
-
-Or c'est faux. La PaduTeam démontre mécaniquement qu'un blocage des prix ne coûte pas d'argent public : il prend sur les marges des producteurs-distributeurs, pas dans les caisses de l'État. Manuel Bompard le tweete dans la foulée : "C'était la première mesure du programme NFP." Tondelier s'assoit donc sur la première mesure du NFP qu'elle avait défendu — preuve que son engagement dans la coalition était tactique, pas programmatique.[^tond-blocage]
-
-[^tond-blocage]: [17:02](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1022) — "D'ailleurs, c'était la première mesure du programme NFP sur lequel elle s'assoit aujourd'hui. C'est pour vous dire à quel point cette meuf qui était soi-disant pour l'Union, le NFP, c'était grâce à elle — elle se moque de vous."
-
-## Sa contre-proposition : chèques énergie ciblés comme néolibéralisme social
-
-Face au blocage des prix qu'elle rejette, Tondelier propose des "chèques énergie ciblés selon les revenus et le besoin". La PaduTeam identifie dans ce mécanisme la quintessence du "néolibéralisme des verts" — ce qu'elle appelle aussi "démocratie chrétienne" ou "néolibéralisme social" :
-
-- C'est une **logique de charité** : aider les plus pauvres à la marge sans changer les rapports de propriété qui produisent les inégalités
-- C'est une **logique de rationnement pénuriste** : Tondelier décide qui mérite l'aide (pas le SUV, oui la vieille diesel), ce qui revient à "obliger les pauvres à consommer ce que toi tu décides"
-- C'est une **logique de ticket de rationnement** : "les gens parlent de tickets de rationnement dans les pays communistes — mais vous, vous voulez donner des chèques. C'est la même chose."[^tond-cheques]
-
-Le problème réel — un gagne 25 000 €/mois, l'autre 1 500 € — Tondelier le valide et le gère à la marge. "Elle veut faire le moinopauvre. Nous on veut qu'il n'y ait plus de pauvres."[^tond-monopauvre]
-
-[^tond-cheques]: [35:10](https://www.youtube.com/watch?v=jHY3lK75_fs&t=2110) — "C'est le néolibéralisme en crise à apparence sociale. C'est l'état du privé par le privé pour le privé."
-[^tond-monopauvre]: [27:56](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1676) — "Elle veut faire le moinopauvre. Nous on veut qu'il n'y ait plus de pauvres et c'est ça qui est différent."
-
-## Son idéalisme sur les "gauches irréconciliables"
-
-Dans la même interview, elle explique que le concept des "gauches irréconciliables" — de Lenin-Bernstein à Valls à Mélenchon — a "empoisonné" la gauche et *causé* les divisions. La PaduTeam :c'est de l'[[Idealisme politique]] pur. Les deux courants de gauche existent parce que deux groupes sociaux ont des conditions matérielles d'existence différentes — les uns pour qui le néolibéralisme se passe encore à peu près, les autres pour qui c'est la régression permanente. "Ces gens-là sont plus pour une politique de rupture. Et donc vous avez deux ailes de la gauche fondées sur des conditions matérielles d'existence."[^tond-idealisme]
-
-Tondelier en déduit que Mélenchon s'est positionné sur la Palestine ou l'Ukraine pour "se rendre irréconciliable" et torpiller la primaire — comme si ses convictions géopolitiques développées depuis 40 ans n'étaient qu'un instrument tactique anti-primaire.
-
-[^tond-idealisme]: [6:43](https://www.youtube.com/watch?v=jHY3lK75_fs&t=403) — "Ces gens-là ils sont plus pour une politique de rupture. Et donc du coup vous avez deux ailes de la gauche fondées sur des conditions matérielles d'existence."
-
-## Post-municipales : "la reine des noisettes en larmes" (mars-avril 2026)
-
-Le soir du second tour (30 mars 2026), Tondelier déclare sur France Télévision être "désolée du spectacle" donné par "une partie du PS et la France insoumise" qui se battaient pour "être les rois du cimetière." La PaduTeam démonte immédiatement : ce sont "les gauches irréconciliables" qui ont obtenu leur victoire, pas "la gauche" en général — EELV est la perdante, pas elles. "C'est la noisette qui dit 'Ouais, comment ça se fait ? Le casse-noisette m'écrase, il est là pour ça.'"[^lnln-soir]
-
-Le lendemain matin, elle affirme sur France TV que les Verts perdent alors qu'ils avaient "un super bilan". La PaduTeam : "C'est la dure loi de la politique, c'est le public qui n'a rien compris." Elle invoque ensuite la "diabolisation" de l'écologie et les pressions de l'Élysée sur des candidats adverses comme explications. La PaduTeam juge ces explications "dépolitisantes" : les coups de pression en politique entre candidats sont normaux et elle-même s'y est livrée à Montpellier.[^lnln-matin]
-
-L'analyse conclusive : Tondelier est "coincée". Si elle reprend la ligne Hollande, elle se fait bouffer par Hollande. Si elle prend la ligne FI, elle se fait bouffer par la FI. Et si elle maintient la ligne noisette, elle n'a plus de villes ni de crédibilité. "Vraiment c'est là ils sont finis quoi." La primaire des noisettes est officiellement morte — Boris Vallaud et les cadres PS s'orientent tous vers Hollande. "Il y a plus de primaire quoi."[^lnln-finie]
-
-[^lnln-soir]: [4:38](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=278) — "C'est la noisette qui dit 'Ouais, comment ça se fait ? Le casse-noisette m'écrase, il est là pour ça.'"
-[^lnln-matin]: [14:57](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=897) — "Mais c'est quoi ces conneries ? Elle trouve que vraiment ce qui est dans ce pays diabolisé c'est l'écologie quoi."
-[^lnln-finie]: [19:06](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=1146) — "Il y a plus de primaire quoi. Voilà. [...] Va falloir que ce soit résiduel et ridicule."
-
-
-## Réunion confidentielle à Matignon : le symptôme de l'hors-sol (avril 2026)
-
-Lors d'une réunion confidentielle convoquée par le Premier ministre Sébastien Lecnu à Matignon pour informer les formations politiques sur l'état des menaces pesant sur la France dans le contexte de guerre au Moyen-Orient (Iran, détroit d'Ormuz), Tondelier prend la parole et lit le programme des verts — prime rénovation, vélos électriques — et raconte « une histoire pas très claire de bombardement de glyphosate dans des champs au Liban. » Autour d'elle : le Premier ministre, des hautes autorités militaires et civiles. Elles parlaient de bombes réelles, de morts réels, de blocage du détroit d'Ormuz.[^matignon-iran]
-
-La PaduTeam : c'est comme arriver dans un staff multidisciplinaire sur un dossier de fin de vie hyper complexe et demander si on pouvait « passer le hachi parmentier à la cantine en bio. » Le niveau de priorisation politique est qualifié de « terrifiant ».
-
-La PaduTeam précise que ce n'est pas un problème de mauvaise volonté mais un problème structurel : l'écologie telle que la conçoit EELV empêche de hiérarchiser les urgences. Quand tout est écologie (les bombes ET le glyphosate), rien ne l'est vraiment.
-
-[^matignon-iran]: [35:34](https://www.youtube.com/watch?v=ocyTfznedzc&t=2134) - « Elle nous a lu le programme des verts, c'était interminable. Elle nous a parlé de la prime rénovation de vélo électrique et a raconté une histoire pas très claire de bombardement de glyphosate dans des champs au Liban. » (dans [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]])
 ## Vidéos où Tondelier est analysée
 - [[IL MET L EXTREME DROITE EN PLS CEM YOLDAS LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE]] — Citée en contre-exemple : « faire comme Marine Tondelier et offrir des fleurs » face aux milices d'extrême droite qui arrivent avec des points américains — preuve que l'antifascisme moral est impuissant contre la violence organisée
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Candidature présidentielle : analyse de l'annonce, position haut-milieu dans le Graphique, islamophobie structurelle (Médine/Allahu Akbar/Rima Hassan/Ali Diouara), sécurité sociale alimentaire accordée mais incohérente, douceur comme privilège de classe, prophétie 2%
@@ -216,8 +153,6 @@ La PaduTeam précise que ce n'est pas un problème de mauvaise volonté mais un 
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Affaire Karen (Zoé refuse la misogynie), catastrophique à l'Humanité sur le capitalisme, Festival de la Noisette de Bram
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Condamnée pour avoir tweeté comme Bergé sur l'antisémitisme de Mélenchon
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Réunion de crise post-second tour : perd Bordeaux, Strasbourg, Poitiers. Électorat EELV identifié comme électorat bourgeois macroniste qui retourne vers PS+Horizon. "Mettez la clé sous la porte."
-- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — Post-premier tour : stratégie d'équilibre PS/FI décryptée et jugée illisible. Refuse la fusion Verts-FI à Lille (50/50) pour sauver la mairie PS. Attaque Hollande sans attaquer Faure. "Vraiment la personne la moins crédible pendant la période."
-- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Droitisation documentée en trois étapes sur le blocage des prix (2022/2024/2026). Démontage de son idéalisme sur les "gauches irréconciliables". Chèques énergie ciblés comme néolibéralisme social. Capital-solutionnisme vs communal-solutionnisme. "La ligne jadociale libérale."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Présente à Bram, joue la "déléguée de classe" qui appelle Glucksmann et Mélenchon par leurs prénoms, tente de faire croire que le conflit est personnel et non structurel. Parie sur la primaire comme mécanisme consensuel pour s'imposer. Réaction de Mélenchon sur son blog : elle et le PCF "tenaient la chandelle" et ont été "sifflés à juste titre."
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Conférence FP2027 : vote anti-symboles communistes, "abus de langage" sur la primaire, sociotype de son électorat de bus. "On n'est peut-être pas d'accord."
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Prédit à 3-4% comme "Nathalie Arto des gens en haut au milieu dans le graphique" ; annonce elle-même une candidature de témoignage si la primaire ne se fait pas.
@@ -230,6 +165,5 @@ La PaduTeam précise que ce n'est pas un problème de mauvaise volonté mais un 
 - [[TONDELIER PLUS CRINGE QUE FRANCOIS RUFFIN]] — Affaire des aimants BFM TV : analogie physique démontée (lignes vs angles), positionnée comme "noisette" prise entre Glucksmann et Mélenchon, "refroidisseuse de mouvement social", "traîtresse aux masses", "Marine Macron" (ferait la même politique que Glucksmann sans l'assumer). Idéalisme positiviste diagnostiqué comme maladie de classe.
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Salon Mif Expo : essaie des jeans 1083, démontage du mécanisme "femme sandwich du capitalisme vert" (publicité gratuite pour une SAS capitaliste), critique du changement par la consommation, violence de classe de la sobriété imposée, alternative : jean nationalisé/socialisé sur le modèle Duralex.
 - [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] — L'aile droite EELV s'abstient sur le PLFSS 2026 (26 abstentions décisives) pour sauver Faure et maintenir la primaire. L'aile gauche (Ruffin, Davi, Corbière, Sbai, Simonet) vote contre. Révélateur de la fracture entre anciens FI et encartés Verts autour de Tondelier.
-- [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — Dîner des Bâtisseurs : 2e participation, réseau Stérin-Bolloré, Duflot comme introducatrice. Thèse : l'écologie est une fausse conscience transclasse qui lui interdit de rompre avec la bourgeoisie catholique. Crise interne chez les Verts. Trajectoire 2027 : faire exploser son parti quel que soit le choix.
-- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Réaction le soir et le lendemain du second tour : accuse les "gauches irréconciliables" alors qu'elle est la vraie perdante ; invoque la diabolisation de l'écologie et les pressions de l'Élysée ; la PaduTeam : "C'est la noisette qui dit 'Ouais, comment ça se fait ? Le casse-noisette m'écrase.'" Primaire des noisettes déclarée officiellement morte. Piégée : toute ligne qu'elle adopte la fait avaler par les autres.
-- [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] - Analyse de la fracture Jadot/Rousseau qui révèle l'absence de ligne EELV. Épisode de la réunion confidentielle à Matignon : lit le programme des verts sur la prime rénovation et les vélos électriques pendant que le Premier ministre et les hautes autorités militaires parlent de la guerre en Iran. Identification de l'électorat EELV comme « nouvelle démocratie chrétienne » — altruisme transclasse sans redistribution, catholicisme social reconverti à l'écologie. Mort définitive de la primaire des noisettes : « il y a que Marine Tondelier, Clémentin et François Ruffin qui en veulent. »
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Clip de campagne primaire décortiqué : aucune idée programmatique, "campagne de présidente de région", stratégie Kamala Harris, mode de scrutin préférentiel analysé comme dispositif taillé pour son élection.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Purge de 500 militants de l'aile gauche qui ont signé une tribune anti-PS dans Mediapart. Contradiction avec sa posture "choquée" face aux non-investitures LFI. Risque de faire réémerger Jadot. Correspondance Bompard/Vanier révèle que la FI cherchait des accords que la direction EELV a systématiquement refusés.

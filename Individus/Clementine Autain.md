@@ -51,16 +51,10 @@ La vidéo la présente dans un segment télévisé aux côtés de [[Benjamin Luc
 [^autain-tweet]: [19:41](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1181) — Clémentine Autain : « À 18 voix près, la motion de censure du gouvernement vient d'être rejetée. Macron et Le Cornu sont provisoirement sauvés par le choix du Parti socialiste. C'est un sursis. »
 [^autain-lucaspassif]: [17:38](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1058) — Scène de plateau : Lucas (Génération.s) et Autain s'opposent pour la parole. « C'est du passif-agressif le pire tu sais. »
 
-## Pétition "Arrêtez de vous battre" — en orange (mars 2026)
-
-Le soir des résultats des municipales 2026, Autain lance sa propre pétition de l'union : "Arrêtez de vous battre", en orange, sans concertation avec [[Francois Ruffin]] qui a lancé la sienne au même moment. La PaduTeam note la contradiction fondamentale : "Ils veulent être unitaires et ils font chacun leur pétition de leur côté." Elle se ralliera ensuite au groupe siégeant avec le [[Printemps Republicain]] au conseil de Paris — "gigantesque traîtrise" selon la PaduTeam, qui leur demande comment "c'est d'être à la gamelle avec les mecs du Printemps républicain."[^autain-gamelle]
-
-[^autain-gamelle]: [29:33](https://www.youtube.com/watch?v=AVJFPP4PtCQ&t=1773) — "Clémentine, j'ai vraiment hâte que tu demandes à tes camarades comment ça se passe de siéger avec les mecs du printemps républicain. Est-ce que la gamelle est bonne ?" — dans [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]]
-
 ## Vidéos où Autain est analysée
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Trajectoire complète, primaire noisette, "opportuniste aventurière", rivale de Tondelier
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Rappel de sa trahison de 2017 quand Mélenchon s'approchait du 2e tour
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — "Moment historique", théorie des lucioles/horloges, pression sur la FI absente. "Le mec a bossé ça à l'entraînement."
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Comtesse de la noisette » : plus lucide que Tondelier sur le PS après la non-censure, commence à se positionner « Plus jamais PS », mais reste noisette. Scène passif-agressive de préséance avec Benjamin Lucas de Génération.s.
-- [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]] — Pétition "Arrêtez de vous battre" lancée au même moment que celle de Ruffin, sans concertation — ironie de l'union désunie. Siège avec le Printemps républicain au conseil de Paris.
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Candidate déclarée à la primaire noisette. La PaduTeam note que Garrido et Corbière ont bien manœuvré en ne se mettant pas en avant : "Faut l'envoyer sous le feu au va se faire défoncer et c'est tout ce qui va se passer." Identifiée comme "poisson dans l'eau" de la politique d'appareil : à l'aise dans toutes les configurations de primaire.

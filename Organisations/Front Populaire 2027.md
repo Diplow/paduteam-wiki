@@ -47,3 +47,4 @@ La convention de Trappes rassemble de gauche à droite : [[Marine Tondelier]], [
 ## Vidéos où FP2027 est analysé
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Analyse complète de la conférence de presse du 2 juillet 2025 : mythologie démontée, frictions internes, prédictions du Graphique
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — État catastrophique début 2026 : primaire sans règles, tensions PS-alliés sur le budget, Glucksmann absent, Hollande qui monte en coulisses
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — La conférence de presse de l'annonce de la primaire FP2027 disséquée via la sortie de Kanner : Faure présent sans mandat du bureau national ; Hollande agissant en coulisses pour torpiller la primaire au profit de sa propre fédération réformiste ; confirmation que le PS et FP2027 sont sur des logiques incompatibles.

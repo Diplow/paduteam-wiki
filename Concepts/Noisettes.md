@@ -30,12 +30,6 @@ Une noisette est quelqu'un qui croit pouvoir se positionner entre les deux force
 
 Les noisettes concassées (encore un peu visibles) vs l'[[Huile de noisette]] (complètement anéanties) représentent deux degrés du même destin.
 
-## L'alerte noisette : quand les révolutionnaires font de la noisette sans être noisettes
-
-La PaduTeam identifie un mécanisme adjacent : l'[[Alerte noisette]]. C'est le discours par lequel un acteur qui se revendique révolutionnaire appelle à ne pas "dissiper les voix" au profit du candidat le mieux placé, invoquant la menace de l'extrême droite. Poutou en mars 2026 est l'exemple canonique — un trotskiste historique qui produit exactement le discours d'une noisette sans en être une formellement. Le résultat est identique : dissolution dans la FI sans contrepartie, perte du réservoir de voix à gauche au second tour.
-
-La PaduTeam : "Ça s'avait nous ton truc tu vois" — les noisettes disent exactement la même chose que Poutou. La convergence des discours est révélatrice : l'alerte noisette est la forme qu'adopte la logique noisette quand elle traverse les frontières organisationnelles.
-
 ## La [[Guerre des gauches]] vue des noisettes
 Les partisans des noisettes sont souvent des "unité-istes" — ils réclament l'union à tout prix, peu importe le programme. La PaduTeam y voit une confusion : l'union arithmétique ne suffit pas, il faut que le programme soit de rupture pour transformer réellement la société.
 
@@ -145,45 +139,19 @@ La PaduTeam formalise dans [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]]
 
 La conclusion est identique à toutes les configurations noisettes précédentes : "des stratégies de gens qui partent déjà en ayant perdu [...] si je le déshonneur et pas la guerre, à la fin, ils ont la guerre et le déshonneur."
 
-## La noisette sous pression hégémonique
+## La primaire des noisettes vue du dessus (début 2026)
 
-La PaduTeam formule une loi : les noisettes se droitisent quand la gauche de rupture perd du terrain, et sont *contraintes* de se gauchir quand elle en gagne. "Au fur et à mesure qu'ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment. C'est-à-dire que c'est des gros néolibéraux de merde."[^noisette-pression] La noisette n'a pas de convictions propres — elle a des positions qui varient selon le poids relatif des deux pinces du casse-noisette. À 22-25 % pour la gauche de rupture, les noisettes sont tenues en laisse. À 5 %, elles expriment leur fond idéologique réel.
+L'annonce officielle de la date (11 octobre) et du mode de scrutin préférentiel permettent à la PaduTeam de formuler la conclusion analytique définitive sur la dynamique noisette : "Est-ce qu'on la baptisant reine des noisettes nous on l'a pas déjà élu ? C'est-à-dire qu'est-ce qu'on a pas déjà compris la primaire avant même que la primaire se fasse ?"
 
-[^noisette-pression]: [21:42](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1302) — "au fur et à mesure parce que eux ils pensent que Mélenchon est finito, ils se remettent à dire ce qu'ils pensent vraiment" — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
+La sociologie de l'électorat de la primaire est clé : ce sera un électorat haut sur le [[Graphique]] (bourgeoisie progressiste, "retraités riches" qui "se posent beaucoup la question"). Cet électorat ne votera pas Ruffin car il "incarne pas assez la présidentialité" et ne "votera pas Autain" pour des raisons de ligne. Il votera Tondelier. Mélenchon, lui, ne "tombe jamais là-dedans" (distribuer des tracts pour se montrer terrain) parce qu'il comprend son rôle.
 
-## L'analogie SPD/Hindenburg : fabriquer la dynamique du pire
+## La purge noisette : quand la noisette mange ses propres ailes
 
-Dans le contexte du second tour des municipales parisiennes 2026, la PaduTeam développe l'argument historique le plus construit contre le vote du moins pire. En 1932, le SPD et la gauche allemande soutiennent Hindenburg contre Hitler — "le moins pire" — et lui permettent d'être élu président. Quelques mois plus tard, Hindenburg nomme Hitler chancelier. "Vous fabriquez la dynamique du pire. Le vote du moins pire n'empêche pas le pire, il le prépare."[^spd-hindenburg]
+La purge des 500 militants écologistes (janvier 2026) illustre un mécanisme inédit : la noisette prise entre les deux blocs finit par purger sa propre aile gauche pour survivre dans le camp PS. [[Marine Tondelier]] sacrifie 500 militants qui réclamaient une écologie de rupture pour donner des gages à [[Olivier Faure]] et maintenir la [[Primaire des noisettes]]. La PaduTeam identifie l'ironie : en purgant son aile gauche, Tondelier risque de faire réémerger [[Yannick Jadot]] par la droite, qui sera alors mécaniquement plus à droite qu'elle dans un parti ramolli. "C'est toujours un peu le problème quand tu es sur un jeu d'équilibriste, il faut que tu gardes à la fois ton aile gauche et ton aile droite."[^purge-equilibriste]
 
-La transposition parisienne : voter Grégoire pour "barrer" Dati revient à permettre la recomposition d'un centre-droite post-macronien qui prépare activement la réaction (via le [[Printemps Republicain]] dans la liste, via l'alliance Bournazel, via la préparation d'une candidature hollandiste en 2027). "Vous fabriquez les pires conséquences parce que vous fabriquez une nouvelle alliance qui va se droitiser. Vous êtes le SPD."
+Pendant ce temps, des cadres du conseil municipal de Paris (Émile Menier, Jérôme Glaise) choisissent la liste FI de [[Sophia Chikirou]]. Exactement comme prévu : l'aile droite EELV va vers le PS, l'aile gauche vers la FI, il ne reste que l'appareil Tondelier.
 
-La PaduTeam formule la loi générale : "Les gens qui choisissent au 2e tour en disant on élimine, on prend la moins pire des solutions. Ces gens-là ont littéralement abandonné leurs idées."
-
-[^spd-hindenburg]: [10:21](https://www.youtube.com/watch?v=b5CY98TXYZk&t=621) — "Le vote du moins pire n'empêche pas le pire, il le prépare. Gardez ça en tête." — dans [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]]
-
-## La grenouille dans l'eau : les noisettes comme vecteurs du fascisme par degrés
-
-La PaduTeam développe dans [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] la métaphore de la grenouille dans l'eau dont la température monte progressivement. Les noisettes jouent exactement ce rôle : elles présentent chaque renoncement comme "1 degré de moins que le scénario catastrophe", jusqu'à ce que l'escalade les amène au fascisme. La progression est illustrée concrètement : voter Grégoire pour barrer Dati → voter Dati pour barrer Knafo → voter Knafo pour barrer Mariani → "un jour vous choisirez entre Hitler et Himler."
-
-La PaduTeam pointe que Rousseau appelle déjà à voter Estrosi à Nice — "et lui quand même est à droite de Dati" — ce qui illustre que la boussole barragiste-noisette ne produit pas de ligne mais une série de "moins pires" sans fin.[^grenouille-noisette]
-
-Ce mécanisme diffère du vote utile classique : la noisette ne se présente pas comme "pragmatique" mais comme "antifasciste" — ce qui la rend plus dangereuse car elle immunise le renoncement contre la critique de classe. "Ces gens-là ne se rendent pas compte qu'ils sont les meilleurs véhicules pour le fascisme."
-
-[^grenouille-noisette]: [11:51](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=711) — "un jour vous choisirez entre Grégoire et Dati. Puis un jour vous choisirez entre Dati et Knafo. Puis un jour vous choisirez entre Knafo et Mariani. Puis un jour vous choisirez entre Hitler et Himler."
-
-## Les pétitions unitaires désunies (mars 2026)
-
-La PaduTeam identifie dans [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]] un moment emblématique de la logique noisette : le soir des résultats des municipales, [[Francois Ruffin]] et [[Clementine Autain]] lancent chacun, séparément, sans concertation, leur propre pétition pour appeler à l'union. Ruffin : "déconne pas la gauche face au RN" (copié de Baron Noir, avec site lancé le lendemain — preuve que c'était préparé). Autain : "Arrêtez de vous battre" en orange. Le constat PaduTeam : "Ils veulent être unitaires et ils font chacun leur pétition de leur côté." C'est "l'équivalent trotskiste du NPA — la scission au moment même du rassemblement."
-
-Le plagiat de Baron Noir est relevé en détail : dans un épisode de la série, le camp du Printemps républicain (la droite PS) lance un mouvement "Déconne pas Michel" pour pousser à l'union sur une ligne de droite contre le candidat Mélenchon. La stratégie de Ruffin est identique, mot pour mot. "Ce type n'a aucune imagination. Il fabrique des sites, il fait croire que c'est spontané, il copie les stratégies dans Baron Noir."
-
-## Deux bons ingrédients qui font un plat immangeable
-
-La PaduTeam formalise dans [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] le mécanisme des défaites d'alliance sous la forme d'une métaphore culinaire : FI et PS sont chacun de "bons ingrédients" qui gagnent seuls, mais leur mélange est "dégueulasse". Ce n'est pas la faute de l'un ou de l'autre — c'est celle du mélange. Conséquence pratique : la bonne stratégie n'est pas de trouver la bonne formule d'alliance, c'est d'arrêter d'allier. "Bricolez des plats autour de ces deux-là mais arrêtez de les mélanger parce qu'ensemble c'est dégueulasse."[^ingrédients]
-
-Cette formulation complète le mécanisme noisette en le précisant : la noisette ne rate pas parce qu'elle choisit le mauvais moment ou la mauvaise tactique. Elle rate parce que l'espace entre les deux blocs n'existe pas socialement — les mélanger détruit ce que chacun représente.
-
-[^ingrédients]: [35:58](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=2158) — "bricoler des plats autour de ces deux-là mais arrêter de les mélanger parce qu'ensemble c'est dégueulasse quoi."
+[^purge-equilibriste]: [38:47](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=2327) — "Le risque en perdant 400 ou 500 militants de gauche, c'est que Jado réémerge parce qu'il sera plus à droite qu'elle et prenne le pouvoir." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
 ## Vidéos clés
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — Annonce de candidature : Tondelier "noisette bio" prise dans le Casse-Noisette entre Mélenchon et Glucksmann ; prophétie 2% ; primaire EELV interne avec 6 800 votants ; démonstration que l'espace noisette est vide car ni Mélenchon ni Glucksmann ne participeront à une primaire
@@ -206,10 +174,7 @@ Cette formulation complète le mécanisme noisette en le précisant : la noisett
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — Tondelier "reine des noisettes" dans sa dimension capitalisme vert : son écologie de boutiquiers (jean 1083, "perma industrie") est la face consumériste de la noisette bio — ni programme, ni rupture, juste du marché de niche progressiste.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Verdict : "au combat des noisettes, la branche Glucksmann vient de casser." Présente la mécanique du casse-noisette appliquée à Glucksmann : il se croyait une "pince du casse-noisette" (force tirant de l'espace centre-gauche), mais il était lui-même une noisette du grand casse-noisette PS. "Tout est relatif comme dirait Einstein : vous pouvez être une branche du casse-noisette à l'échelle d'une configuration [...] mais une noisette dans un plus grand casse-noisette."
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance PCF-PS-Verts à Paris comme cas d'école de la rhétorique noisette : invocation du danger d'extrême droite dans une ville à 7 % RN. Formalise le discours-type : "je trahis car il y a l'extrême droite en face."
-- [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]] — La noisette Tondelier en flagrant délit de tambouille post-premier tour : stratégie différenciée par ville qui sert systématiquement le PS, fusion 50/50 avec la FI refusée à Lille, illisibilité totale de la ligne "unioniste".
-- [[TONDELIER RETOURNE ENCORE SA VESTE]] — Loi de la noisette sous pression hégémonique : les noisettes se droitisent quand la gauche de rupture faiblit, reviennent à gauche quand elle pèse. Droitisation de Tondelier en trois étapes sur le blocage des prix (2022/2024/2026). Fond idéologique réel d'EELV : néolibéralisme social.
-- [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — La team cassoulet confirme le destin des noisettes : [[Marine Tondelier]] est "le dindon de la farce" de ce cassoulet, présente à Bram mais marginalisée. Les noisettes croient qu'il existe un espace entre les deux pôles — elles "sont condamnées à exploser entre les deux." Le pôle cassoulet (Glucksmann, Hollande, Delga) se constitue en excluant explicitement les noisettes qui n'ont pas leur poids.
-- [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]] — Analogie SPD/Hindenburg développée pour Paris 2026 : le vote du moins pire (Grégoire) fabrique la dynamique du pire (hollandisme 2027). Formule canonique : "Le vote du moins pire n'empêche pas le pire, il le prépare."
-- [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Post-second tour : Tondelier comme "la noisette écrasée par le casse-noisette" ; métaphore de la grenouille dans l'eau (les noisettes conduisent mécaniquement au fascisme par degrés) ; "deux bons ingrédients qui font un plat immangeable mélangés" ; confirmation que la primaire des noisettes est morte.
-- [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]] — Le "roi des noisettes" déchu au soir des municipales : pétitions unitaires désunies de Ruffin et Autain (Baron Noir plagiat) ; démonstration empirique que l'alliance LFI-PS fait perdre les deux à Toulouse (-5 000 voix entre les deux tours) ; pronostic : Ruffin seul à la présidentielle, 3 %.
-- [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] - Fracture post-municipales qui confirme l impossibilite de toute primaire noisette : PCF, FI, Place publique refusent tous. Il ne reste que Tondelier, Clementine et Ruffin - le trio de la louse. La fracture Jadot/Rousseau revele l absence de ligne et scelle la mort de l espace noisette chez EELV. Jadot = noisette gravitant vers le PS, Rousseau = noisette gravitant vers LFI, Tondelier = noisette broyee entre les deux.
+- [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]] — Démontage du programme TF1 de Ruffin "roi des noisettes" : statut des travailleurs essentiels = dog whistle de droite, présidentialisme au SMIC = validation pénuriste. Thèse : la primaire des noisettes sera votée par les classes supérieures, Ruffin n'aura pas "les codes."
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Analyse du mode de scrutin préférentiel comme dispositif taillé pour Tondelier : "est-ce qu'on l'a pas déjà élue avant même que la primaire se fasse ?" Sociologie de l'électorat de la primaire (haut Graphique = bourgeoisie progressiste) qui exclut Ruffin et favorise Tondelier. "Impasse mexicaine" du parrainage des 500 élus.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — La purge noisette : quand la noisette mange ses propres ailes pour survivre dans le camp PS. 500 militants de l'aile gauche EELV exclus pour avoir signé une tribune anti-PS. Mécanisme noisette poussé à son terme : tout sacrifier à la primaire, y compris la base militante.
+- [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — Démonstration que la primaire noisette sert à renforcer l'appareil des écologistes, pas le PS ni la gauche de rupture. Kanner pointe que Faure est sur la photo "avec le groupe des verts à l'Assemblée nationale" — révélant malgré lui que la primaire noisette est une pompe à votes pour EELV.

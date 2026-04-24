@@ -65,19 +65,7 @@ Référence concrète : Duralex (levée de fonds collective de 5 millions en que
 - [[Petite bourgeoisie]] — les "boutiquiers" du capitalisme vert (PME, SAS, TPE) comme classe sociale qui profite du marché de niche sans transformer les rapports de production
 - [[Sensible vs Concept]] — le capitalisme vert opère au niveau du "sensible" (la gentillesse écologique, la culpabilité individuelle) sans jamais atteindre le "concept" (la contradiction entre capital et nature)
 
-## Capital-solutionnisme vs Communal-solutionnisme
-
-La PaduTeam distingue deux rapports à la technique et à la résolution des problèmes écologiques :
-
-- **Capital-solutionnisme** : vouloir résoudre les problèmes créés par le capitalisme avec des solutions compatibles avec le mode de production capitaliste. Si vous voulez faire du profit, vous ne sauverez pas la planète — la contradiction est irréductible.
-- **Communal-solutionnisme** : vouloir des solutions adéquates à un autre mode de production — communiste ou communal — qui permet l'abondance plutôt que la gestion de la pénurie.
-
-La technique n'est pas en cause — elle est anthropologiquement constitutive de l'humanité depuis la préhistoire. Ce qui est en cause, c'est *dans quel cadre de propriété et de planification* elle est déployée. "La finitude, c'est le capital-solutionnisme" : les ressources paraissent finies parce que seules sont exploitées celles qui sont rentables dans le cadre capitaliste.[^cap-sol]
-
-[^cap-sol]: [30:31](https://www.youtube.com/watch?v=jHY3lK75_fs&t=1831) — "La finitude, c'est le capital-solutionnisme. [...] Si vous voulez faire du profit, vous ne sauverez pas la planète. Voilà ce qui est la question." — dans [[TONDELIER RETOURNE ENCORE SA VESTE]].
-
 ## Vidéos où ce concept est développé
 
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — formulation initiale du concept, démontage en direct de la séquence Mif Expo, mécanisme femme sandwich, alternative jean nationalisé/socialisé
-- [[TONDELIER RETOURNE ENCORE SA VESTE]] — distinction capital-solutionnisme / communal-solutionnisme. La "finitude" des ressources comme construction idéologique du capitalisme. Critique de l'écologie de la pénurie défendue par EELV.
-- [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] — Les cinq "entrepreneurs à impact" des Échos comme incarnation du capitalisme vert : finance responsable labellisée (Eva Sadoun, 160 M€), Plateau Urbain (friche privatisée), Yuka (outil individuel en lieu de réglementation publique). La PaduTeam généralise : 79 % des écoles de commerce ont un incubateur, "l'impact" est devenu le vernis standard de l'entrepreneuriat de classe.
+- [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Développement connexe : critique du "capitalisme productiviste" comme oxymore (tout capitalisme est par définition productiviste). La Chine comme contre-exemple de planification écologique réussie (0% → 50% de voitures électriques en 5 ans) contre le discours de la finitude des ressources. Formulation de l'alternative : sortir de la valeur, du royaume de la nécessité pour aller vers le royaume de la liberté.
