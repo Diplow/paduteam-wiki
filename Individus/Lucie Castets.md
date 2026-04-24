@@ -31,5 +31,6 @@ Quelques jours après la conférence de presse du 2 juillet 2025, elle déclare 
 - [[NFP]] — pressentie PM post-législatives 2024
 
 ## Vidéos où Castets est analysée
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Confirme qu'elle n'est pas candidate à la primaire des noisettes, ce qui réduit la liste à de purs chefs de partis (Tondelier, Autain, Ruffin). La PaduTeam en déduit que la primaire n'a plus de prétexte citoyen.
 - [[L'UNION BANCALE des TRAITRES et de la GAUCHE MOLLE]] — Analyse complète : "noisette caviare", existe par son vide, signe mauvaise foi sur le programme ("une base de départ")
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — "La marquise" de la primaire noisette. Elle affirme que l'annonce de la date va "créer un effet d'entraînement, une dynamique" — jugé par le journaliste du Monde avec un "veux croire, madame Castets" révélateur du scepticisme général. La PaduTeam : "C'est bizarre hein — 72% des gens qui ont voté pour une union de la gauche veulent une union de la gauche."

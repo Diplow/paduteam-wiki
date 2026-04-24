@@ -111,6 +111,21 @@ La mort politique de Faure sur ce sujet sert directement la stratégie d'Holland
 
 [^hollande-49-copie]: [31:25](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1885) — "Il a l'air de bien mieux connaître la copie que Fort ce matin. Du curieux ça. [...] C'est à croire que le mec est à la manœuvre depuis le début et qu'il est en train de baiser tout le monde."
 
+## Le plan Hollande en étapes (fév. 2026)
+
+Dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]], la PaduTeam reconstitue le plan en cours d'exécution :
+
+1. Patrick Canot et Cazeneuve assassinent Faure dans les instances ("le crâne d'Olivier Fort dans le viseur") — déjà accompli
+2. [[Jerome Guedj]] tue la primaire des noisettes sur le plan politique et médiatique — en cours (fév. 2026)
+3. La primaire confédérale (PS + [[Place Publique]] + radicaux de gauche + micro-partis) remplace la primaire ouverte, avec un processus maîtrisé par l'appareil PS
+4. [[Raphael Glucksmann]] est dévoré dans la primaire confédérale ("Apprends à compter — dès que tes voix vont passer dans les mains des scrutateurs, elles vont disparaître")
+5. Hollande ou son dauphin ([[Boris Vallaud]]) se désigne en "réconciliateur"
+
+"Le parrain prépare son plan depuis bientôt 10 ans."[^plan-hollande-etapes] La PaduTeam note le "dog whistle" : tous les candidats de l'autre gauche disent "moi président, moi présidente, lui président, nous président" — formule qui appelle Hollande comme figure tutélaire.[^dog-whistle]
+
+[^plan-hollande-etapes]: [12:46](https://www.youtube.com/watch?v=aKmS477MucE&t=766) — "Le parrain prépare son plan depuis bientôt 10 ans." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^dog-whistle]: [12:46](https://www.youtube.com/watch?v=aKmS477MucE&t=766) — "Ils disent tous moi président, moi présidente, lui président, nous président. Dog whistle pour amener Hollande hein. C'est l'hégémonie de François Hollande sur la gauche. Vraiment, c'est assez impressionnant."
+
 ## Vidéos
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — révélé comme vrai architecte du 49.3 sur le budget général (connaissait la copie avant Faure) ; sa déclaration publique referme la primaire de gauche en excluant LFI ; la mort de Faure lui profite en dégageant Vallaud.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — La réunion de Pontoise (Hollande + Cazeneuve + Glucksmann) décodée comme un piège délibéré : "On a parié sur toi, on te l'a pas fait à l'envers, tu nous as déçu, maintenant tu es mort." Hollande qualifié de "Vito Corléone de la gauche sociale-démocrate" — présenté comme un "requin" sous ses airs bonhommes, formaté au PS depuis le pire du pire des années 1980, "il écrivait pour Jacques Delors dans les années 80." Orchestre la succession via [[Boris Vallaud]].
@@ -126,3 +141,4 @@ La mort politique de Faure sur ce sujet sert directement la stratégie d'Holland
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — agit en coulisses via Vallaud et Temal pour imposer le 49.3 de compromis (formule inventée sous son mandat) et torpiller la ligne Faure ; la "main noire" sans visage
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Position Venezuela décortiquée comme ni-niisme en accord objectif avec l'impérialisme ; prophétie du congrès de Brest 1997, "la belle" 2027 Hollande vs Mélenchon formulée explicitement
 - [[MUNICIPALES PHILIPPE MARTINEZ SOUTIENT LE PS FACE A LFI]] — Évoqué comme candidat potentiel 2027 : Martinez et Berger feraient campagne pour lui contre Mélenchon. La PaduTeam discute le fossé générationnel, son "génie" politique, le scénario d'un Hollande à 17 % au premier tour. Rêve militant : "Mélenchon qui prend sa revanche et qui baise Hollande au premier tour, ce serait bon ça."
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Plan reconstitué en 5 étapes : assassinat de Faure par Canot/Cazeneuve → Guedj tue la primaire des noisettes → primaire confédérale maîtrisée par l'appareil PS → dévoration de Glucksmann → désignation Hollande/Vallaud. "Le parrain prépare son plan depuis bientôt 10 ans."

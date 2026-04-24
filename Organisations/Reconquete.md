@@ -37,6 +37,11 @@ La PaduTeam résume : "un parti avec une assise électorale très importante" �
 
 Reconquête a "enfin compris que Zemmour était une baudruche" et opère une bascule : Knafo remplace Zemmour comme figure de proue. Plus jeune, plus "on control", elle incarne la tentative de réhabilitation du parti avant 2027. La candidature à la mairie de Paris 2026 est lue par la PaduTeam comme une répétition générale — Knafo n'a aucune chance de gagner face à [[Rachida Dati]] ou [[Anne Hidalgo]], mais l'objectif est la visibilité présidentielle.
 
+## Robots et bottes algorithmiques
+
+La PaduTeam souligne que les contenus Knafo sont "hyper poussés par l'algorithme" mais que les interactions sous les posts sont principalement des comptes bots — mêmes photos de profil, mêmes formulations. Au moment du vote réel, cela ne se traduit pas : Reconquête est régulièrement "donné à 9-10" dans les sondages et fait 7 %. "Les bottes ne votent pas."
+
 ## Vidéos où l'organisation est analysée
 - [[Faut-il en finir avec le NFP]]
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Bilan électoral complet, analyse de la bascule Zemmour→Knafo, agenda médiatique vs réalité électorale
+- [[SARAH KNAFO LA BOURGEOISE HORS SOL S ENFONCE DANS LE RIDICULE]] — Épisode pass navigo comme révélateur de classe ; surperformance électorale à Versailles, Saint-Tropez, Neuilly ; bots sur les réseaux sociaux

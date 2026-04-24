@@ -25,12 +25,16 @@ Avec [[Alexis Corbière]] et [[Daniel Simonet]], elle a fondé [[L'Apres]]. La P
 
 En 2025, elle alimente des journalistes de Libération pour écrire contre la FI ("la meute"). La PaduTeam rappelle l'ironie : en 2017, dans la revue Regard, c'est elle qui accusait Autain "d'aller chercher de la gamelle dans les médias pour taper sur Jean-Luc Mélenchon." Aujourd'hui, elle fait exactement la même chose. "Bienvenue au club, Raquel."
 
-## Garrido comme Brutus (janv. 2023)
-Lors de l'affaire Quentin Deranque, Garrido intervient sur les plateaux pour insinuer que Mélenchon est le "problème" de la FI et qu'il devrait "se mettre en retrait pour sauver le mouvement." La PaduTeam : "Ça me rend fou. Ça fait plus de 10 ans qu'elle dit ça." Puis : "Elle était comme ça au PG." Et : "Honte à toi Raquel, vraiment honte à toi."
+## Garrido comme Brutus (fév. 2026)
+Lors de l'affaire Quentin Deranque, Garrido intervient sur les plateaux au micro d'Anne-Sophie Lapix pour insinuer que Mélenchon est le "problème" de la FI et qu'il devrait "se mettre en retrait pour sauver le mouvement." La PaduTeam : "Ça me rend fou. Ça fait plus de 10 ans qu'elle dit ça. Elle était déjà comme ça au PG."
 
-Comparée à Brutus et César, à [[Blaise Compaoré]] avec [[Thomas Sankara]] — "quelqu'un que Mélenchon appelait Alexis et Raquel sa famille quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants."
+La PaduTeam déconstruit l'argument : Mélenchon n'était même probablement pas au courant de la conférence de Rima Hassan ce soir-là — "il a autre chose à faire, il est dans sa pré-campagne présidentielle, il enchaîne les meetings pour les municipales." Invoquer son nom dans cette affaire n'a "aucun rapport" — c'est Garrido qui "essaie de tirer son marron du feu en tuant la FI."
 
-Sa tactique : trouver un lien entre n'importe quel événement et Mélenchon. "Si les crues d'Angers font trois morts, elle trouvera un lien avec Mélenchon."
+Sa tactique systématique décrite par la PaduTeam : "Si vous êtes journaliste RTL, France Inter, que vous l'appelez pour lui dire 'les crues à Angers et Saumur ont fait trois morts, est-ce que vous pouvez dire que c'est à cause de Mélenchon', elle dira 'Oui, pas de souci.' Et elle trouvera un lien en disant 'oui mais quand même si Mélenchon s'était mis en retrait peut-être qu'on aurait pu réduire les crues plus rapidement.'"
+
+Comparaison finale de la PaduTeam : Brutus et César, et [[Blaise Compaoré]] avec [[Thomas Sankara]] — "quelqu'un que Mélenchon appelait Alexis et Raquel sa famille quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants."[^brutus]
+
+[^brutus]: [42:19](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=2539) — "Mélenchon appelait Alexis et Raquel sa famille quoi. C'est vraiment Brutus et César quoi. Honte à toi Raquel, vraiment honte à toi quoi." — dans [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 
 ## Face à Louis Sarkozy sur LCI (2025)
 Chroniqueuse dans *Face à Face* sur [[LCI]] face à [[Louis Sarkozy]] à partir de mars 2025. La PaduTeam commente : "Là tu as l'apogée de la farce. Tu fais vraiment envie d'entendre les pires conneries." Raquel a "l'habitude de taper sur des baudruches."
@@ -55,6 +59,7 @@ Dans [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]], Garrid
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]]
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Fondatrice de L'Après, fuite vers Libération, retournement paradoxal vs sa critique d'Autain en 2017
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Brutus de Mélenchon, instrumentalise l'affaire Quentin Deranque pour attaquer la FI
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — Citée parmi les acteurs du bloc bourgeois activant le récit "fer à cheval" pour attaquer LFI après la mort de Quentin Deranque
 - [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Face à Louis Sarkozy sur LCI dans *Face à Face*
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Citée dans le contexte du complément d'enquête France 2 ; positionnée comme minorité pro-article-7 au sein du groupe FI que Guedj instrumentalisait
 - [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Expulse manu militari Badmulch et Bienfait pour tous du congrès de L'Après (congrès invité par Filoche) ; la PaduTeam : "aux abois", mauvais moves en cascade ; L'Après comme panier de crabes ; Garrido = responsable des médias qui joue le rôle du KGB interne.

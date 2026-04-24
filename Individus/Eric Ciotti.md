@@ -29,3 +29,4 @@ Padu le décrit comme "une noisette qui se pense clé de voûte au sein du casse
 ## Vidéos
 
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Comparaison avec Retailleau sur la méthode d'union des droites
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — Son ralliement au RN complique la stratégie Retailleau : si Bardella reste avec Le Pen et Siotti aussi, l'électorat raciste-libéral votera le duo Bardella-Siotti (30% dans les sondages) plutôt que Retailleau ; l'espace de Retailleau devient beaucoup plus étroit

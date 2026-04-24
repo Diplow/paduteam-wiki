@@ -59,6 +59,7 @@ L'individualisation des problèmes structurels est une application pratique de l
 
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — application la plus développée (urgences, transport, eugénisme)
 - [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire de la pénurie organisée vs mythe de la fatalité
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — L'auto-entrepreneuriat comme cas paradigmatique : solution individuelle à un problème collectif (surexploitation salariale). "Des solutions individuelles à des problèmes collectifs, là où le communisme c'est des solutions collectives à des problèmes individuels."
 
 [^1]: [5:46](https://www.youtube.com/watch?v=CI-C05V074k&t=346) — "vous avez pas assez de monde pour gérer les patients en amont des urgences, vous n'avez pas assez de lit pour hospitaliser les gens qui passent aux urgences et qui ont besoin de l'être en aval"
 [^2]: [24:56](https://www.youtube.com/watch?v=CI-C05V074k&t=1496) — "dans un département comme le mien qui est plutôt rural votre baraque elle est à 35 bornes de l'hôpital, le temps que vous ayez été vu et tout il est 23h30 quand vous sortez, vous avez pas de famille, vous faites comment"

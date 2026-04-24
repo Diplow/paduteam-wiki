@@ -21,3 +21,4 @@ Personnage récurrent des analyses de l'interview TF1 de Knafo. La PaduTeam util
 
 ## Vidéos où Boulot est mentionné
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Décryptage de l'interview TF1 qu'il fait avec Knafo
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — Retailleau annonce sa candidature présidentielle chez lui ; la PaduTeam réagit en direct aux extraits de l'interview

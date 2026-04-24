@@ -41,6 +41,12 @@ Présenté dans les médias comme une alternative sérieuse à Mélenchon pour 2
 - [[Mikheïl Saakachvili]] — dirigeant géorgien qu'il a soutenu
 - [[Bernard-Henri Lévy]] — même galaxie intellectuelle
 
+## Glucksmann dans l'affaire Deranque — "l'agent orange" (fév. 2026)
+
+Dans [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]], la PaduTeam lui attribue le surnom "agent orange" : "À quel point il est au service des Américains, toxique et proche du néolibéralisme ukrainien. L'agent orange quoi."
+
+Profitant de la mort de [[Quentin Deranque]], Glucksmann attaque publiquement [[Rima Hassan]] ("choqué qu'elle soit députée européenne") et [[Raphael Arnaud]] ("choqué qu'un homme comme ça soit député de la République"). La PaduTeam démonte l'argument : Rima Hassan et Raphaël Arnaud ont été élus démocratiquement, Arnaud avait même "fléché publiquement" sa participation à la Jeune Garde avant sa candidature. Son positionnement : faire passer des élus légitimes pour illégitimes en exploitant un fait divers, alors que lui-même a soutenu [[Mikheïl Saakachvili]] qui a "tué des gens, réprimé des manifestants, viré des fonctionnaires par centaines de milliers."
+
 ## Glucksmann et la stratégie électorale (analyse septembre 2025)
 La PaduTeam analyse Glucksmann comme la seule noisette ayant une stratégie cohérente : contrairement à Faure qui panique, il tient une ligne claire (refus des ministres insoumis) et pense à 2027. En cas de dissolution, c'est lui — et non Faure — qui profiterait de l'éclatement du [[Eclatement du bloc central|bloc central]] pour capter des sièges. Mais il ne voudra jamais devenir ministre subalterne de Faure : ça "niquerait complètement son projet présidentiel." Sa valeur stratégique en dissolution : capter les déçus du macronisme dans l'espace centre-gauche bourgeois, tout en laissant la FI dominer les espaces populaires.
 

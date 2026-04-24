@@ -51,3 +51,4 @@ La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé
 - [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — cartographie de "l'extrême gauche" : travail bâclé au ChatGPT, logique de race sociale perçue
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — [[Jordan Florentin]] et le harcèlement de la sœur de Louise
 - [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — conférence de Florentin sur le "fascisme de LFI" ; démontage : 1/7 pour LFI, 6/7 pour RN et Reconquête
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — diffuse le nom de Jacques-Élie Favrot (assistant parlementaire de [[Raphael Arnaud]]) comme agresseur présumé de [[Quentin Deranque]] avant toute confirmation judiciaire ; un "témoin" cité par Frontière dit être "sûr à 100%" alors que le groupe se décrivait lui-même comme masqué. La PaduTeam : opération de salissage politique de la FI via les médias d'extrême droite.

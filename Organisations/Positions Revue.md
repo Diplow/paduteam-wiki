@@ -61,3 +61,4 @@ Le financement passe par Tipi (plateforme de dons pour associations). La mise en
 - [[TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT]] — annonce de la levée de fonds Positions Revue : édition papier, refonte du site, open source du Graphique, Chroniques en podcast, événement physique 2026
 - [[On ANALYSE le PIRE PHILOSOPHE dans un TEAM BUILDING de MANAGERS]] — mention de la campagne Tipi ; relance potentielle de la chaîne YouTube ; appel aux abonnements et à soutenir Positions Revue
 - [[HOLLANDE prepare t-il SON RETOUR]] — nouvelle annonce de la campagne de financement en cours pour Positions Revue : refonte du site, podcasts pour les Chroniques de l'Exploitation, mise en ligne du Graphique accessible à tous, préparation d'un grand événement en 2026.
+- [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] — le numéro *L'Empire masculin* recommandé en clôture comme traitement du féminisme "bien mieux qu'Emmanuel Todd"

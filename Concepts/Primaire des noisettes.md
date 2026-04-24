@@ -31,6 +31,10 @@ Pour la PaduTeam c'est le "lancement officieux de la primaire des noisettes" —
 ## Sandrine Rousseau bloquée
 [[Sandrine Rousseau]] a été empêchée de se présenter à la primaire des noisettes. Elle représentait une ligne plus radicale que Tondelier au sein d'EELV. Sa présence aurait représenté une diversité de lignes intéressante.
 
+La décision était structurelle : la primaire ne convoque que des chefs de partis reconnus (Tondelier, Autain, Ruffin, Castets). La PaduTeam y voit une primaire d'appareil déguisée en processus citoyen — «si ce ne sont que des chefs de partis, réunissez-vous dans une salle, il n'y a pas besoin de faire une primaire.» Rousseau est paradoxalement la «noisette la moins anti-FI du lot» : prête à se retirer pour le mieux placé à gauche, qualité précisément indésirable dans une primaire construite pour couronner Tondelier. La mécanique est décrite comme une mise en abîme : Tondelier agit sous contrainte de Fort (Faure), qui agit sous contrainte de Hollande — «eux c'est même pas des noisettes — c'est des noisettes entre deux noisettes».[^mise_en_abime]
+
+[^mise_en_abime]: [18:09](https://www.youtube.com/watch?v=U4TFUS5mli0&t=1089) — "Tondelier est obligée de dire OK on fera pas alliance avec la FI pour faire plaisir à Fort [...] Fort c'est pour faire plaisir à Hollande [...] c'est une mise en abîme de la noisette"
+
 ## Mort de la primaire post-municipales 2026
 
 Les résultats des municipales confirment que la primaire des noisettes est morte. Tondelier convoque une réunion de crise le lendemain du second tour après la perte de Bordeaux, Strasbourg et Poitiers. La PaduTeam : "Là tout dit le contraire d'aller à la primaire." L'argument de la primaire était de maximiser les voix de gauche — les municipales montrent que les Verts ont un électorat bourgeois qui ne veut pas de la gauche de rupture. La primaire des noisettes ne peut pas rassembler quelque chose qui n'existe pas.
@@ -56,7 +60,31 @@ Dans [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]], la PaduTeam dresse u
 
 La PaduTeam compare la mise en scène de la convention de Trappes (tables pliantes de salle des fêtes, rollops colorés sans budget) à une cousinade — révélateur de la crédibilité de toute l'opération.
 
+## Guedj tue la primaire (fév. 2026)
+
+Dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]], la PaduTeam explique la mécanique d'exécution de la primaire. [[Jerome Guedj]] est envoyé par l'aile droite du PS pour deux choses simultanées : (1) tuer la primaire des noisettes sur le plan médiatique en se déclarant candidat présidentiel sans y passer, et (2) forcer à terme l'adoption d'un mode de désignation alternatif — une "primaire confédérale" (PS + [[Place Publique]] + radicaux de gauche + micro-partis) maîtrisée par l'appareil PS et défavorable à l'aile gauche.
+
+"C'est une fête la primaire des noisettes. C'est vraiment la fête où vous invitez tout le monde et tout le monde vous dit qu'il a un truc avant même que vous ayez donné la date."[^fete-noisettes]
+
+La PaduTeam prédit que cette primaire confédérale dévorera [[Raphael Glucksmann]] et Place Publique : "Apprends à compter hein parce que hop, dès que tes voix vont passer dans les mains des scrutateurs, elles vont disparaître."[^glucksmann-devor] Ce sont des "gens intelligents" qui "savent gérer les appareils de partis" — leur méthode sera "bien plus maligne que la méthode des noisettes."
+
+La PaduTeam reconnaît que le PS a compris la bataille des deux gauches et que le scrutin majoritaire leur était défavorable (leurs 15 % sont dilués géographiquement, LFI peut gagner des circonscriptions populaires au premier tour). La proportionnelle défendue par Guedj est aussi une arme dans ce combat.
+
+[^fete-noisettes]: [34:30](https://www.youtube.com/watch?v=aKmS477MucE&t=2070) — "C'est vraiment la fête où vous invitez tout le monde et tout le monde vous dit qu'il a un truc avant même que vous ayez donné la date." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^glucksmann-devor]: [37:38](https://www.youtube.com/watch?v=aKmS477MucE&t=2258) — "Apprends à compter hein parce que hop, tu dès que tes voix vont passer dans les mains des scrutateurs, Raphaël, hop, elles vont hop, elles vont disparaître, tu vois."
+
+## Vallaud atomise la primaire (fév. 2026)
+
+Dans [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]], [[Boris Vallaud]] déclare que la primaire "telle qu'elle se dessine n'est pas suffisante" — ce qui, combiné à [[Nicolas Mayer-Rossignol]], rend le PS officiellement majoritaire contre elle. La PaduTeam note le cynisme du mécanisme : "Ils font tout pour casser le truc et après ils disent bah c'est de la merde donc on y va pas quoi."[^blocus-noisettes] Comparaison explicite avec le blocus de Cuba : couper l'électricité puis s'étonner que l'avion ne décolle pas.
+
+Ce qui reste de la "primaire" : un processus désignatif au sein du groupe écologiste de l'AN, qui couronnera [[Marine Tondelier]] avec [[Francois Ruffin]] et [[Helene Jaufrois]]. Aucune des deux principales forces de gauche n'y participe — c'est une primaire de l'insignifiance.
+
+**La moïsation de la noisette** : la PaduTeam introduit une image : quand on écrase la noisette dans un pressoir, il sort de l'huile et de la matière. Les "huiles" (profils centraux, Verts acceptables, radicaux de gauche, une partie du PCF) iront vers la confédération Vallaud. La "matière" ira avec la FI. La guerre des deux gauches commence vraiment.
+
+[^blocus-noisettes]: [6:44](https://www.youtube.com/watch?v=lj582EONpMk&t=404) — "Ils font tout pour casser le truc et après ils disent bah c'est de la merde donc on y va pas quoi."
+
 ## Vidéos
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Analyse du verrouillage par Tondelier, mécanique d'appareil derrière la façade citoyenne, chaîne de subordination Tondelier→Fort→Hollande, Rousseau comme noisette exclue de sa propre primaire
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
 - [[THE MOST RIDICULOUS CANDIDATES FOR 2027]] — Version Ruffin de la primaire : Autain, Corbière, Castets perdront face à lui
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la primaire comme nécessité existentielle de Tondelier, jeux d'arrangements avec Faure, prédiction d'échec
@@ -64,3 +92,5 @@ La PaduTeam compare la mise en scène de la convention de Trappes (tables pliant
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Mort officielle : Tondelier en réunion de crise, perd Bordeaux/Strasbourg/Poitiers. "Tout dit le contraire d'aller à la primaire."
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Querelle Glucksmann/Tondelier sur l'inclusion de Mélenchon ; mécanique du "candidat consensuel" dans toute primaire (toujours le mou qui gagne) ; le [[Graphique]] prédit que les classes populaires ne votent pas aux primaires donc ça ne sert à rien pour quelqu'un qui veut conquérir les masses ; réaction de Mélenchon sur son blog qui qualifie la réunion d'"insipide"
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Bilan catastrophique début 2026 : conférence de décembre annulée, aucune règle arrêtée, PS totalement divisé, Glucksmann mort, Hollande qui monte. La convention de Trappes décortiquée comme révélateur du budget et de la crédibilité de toute l'opération.
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Guedj envoyé pour tuer la primaire médiatiquement ; mécanique de la primaire confédérale comme substitut maîtrisé par l'appareil PS ; Glucksmann condamné à être dévoré dans ce processus.
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Vallaud déclare publiquement la primaire "pas suffisante" ; PS majoritaire contre elle via l'alliance NMR ; comparaison blocus Cuba ; "moïsation de la noisette" — l'huile vers Vallaud, la matière vers la FI.

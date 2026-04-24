@@ -5,6 +5,7 @@ youtube_id: uxdDj_LCsA8
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [union-populaire]
+skill_version: write-video-2026-04-24
 date created: Wednesday, April 1st 2026, 11:23:29 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
@@ -12,8 +13,10 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # GLUCKSMANN, MACRON GARRIDO QUI VEUT TUER LA FI
 
+[![GLUCKSMANN, MACRON GARRIDO : QUI VEUT TUER LA FI ?](https://img.youtube.com/vi/uxdDj_LCsA8/0.jpg)](https://www.youtube.com/watch?v=uxdDj_LCsA8)
+
 ## Résumé
-Suite à la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]].
+Suite à la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]]. La capsule fait suite à une première capsule sur les faits et la méthode Némésis (vidéo sur [[Quentin Deranque]]).
 
 ## Thèses et analyses clés
 
@@ -42,9 +45,33 @@ Suite à la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis
 ## Concepts mobilisés
 [[Prophetie du 2002 inverse]], [[Moisation]], [[Bloc bourgeois]], [[Lame de fond]], [[Vote cache]], [[Pacte raciste]], [[Graphique]]
 
+## Formulations marquantes
+
+- **Sur Glucksmann** : "L'agent orange" — surnom donné par Chris, en référence à son atlantisme pro-américain toxique.[^1]
+- **Sur la diabolisation** : "Ils ont raison d'avoir peur de nous parce qu'on va nationaliser Orange, on va nationaliser les autoroutes, on va nationaliser tout un tas de gros agriculteurs pour avoir un pôle agricole français. Il faut qu'on arrive avec un truc où ils ont raison d'avoir peur en fait."[^2]
+- **Sur Garrido** : "Mélenchon appelait Alexis et Raquel sa famille quoi. C'est vraiment Brutus et César. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants quoi."[^3]
+- **Sur la violence** : Mélenchon cité — "la violence rabouit nos mouvements. Quand la violence est là, alors la peur contamine, gagne, et on a des actes motivés par la peur et de l'autre côté des méfiances, des mises à distance de tous ceux que tout ça intimide."[^4]
+- **Sur Macron et l'antisémitisme** : "Il dit dans la France insoumise des expressions antisémites mais quand il parle du rassemblement national c'est juste des brebis galoseuses — il te dit que la France insoumise est plus antisémite que le rassemblement national. C'est quand même une dinguerie."[^5]
+
+## Données et faits précis
+
+- **Mélenchon à 400 000 voix du second tour** en 2022 — "ça se joue à rien du tout." Résultat que les sondages (qui le donnent à 14-15%) masquent.
+- **Score réel estimé** : 17-18% dans un scrutin fragmenté, suffisant pour se qualifier au second tour comme Le Pen en 2002.
+- **Répression physique** : depuis l'affaire Deranque, une quinzaine de permanences parlementaires FI et locaux de campagne attaqués, tagués ou vitrés cassés. Des candidates aux municipales voient leur domicile tagué.[^6]
+- **Minute de silence à l'Assemblée** pour Quentin Deranque organisée par Yaël Braun-Pivé — alors que la même semaine un militant kurde de 30-31 ans meurt en prison (classé "mort naturelle"), et que des crues font des victimes sans hommage national.
+- **Classement FI à "l'extrême gauche"** par le ministère de l'Intérieur ([[Laurent Nunez]]) pour les élections municipales — le programme FI est jugé "à droite du programme PS de 1980."
+- **Leclerc** = 20% des grandes et moyennes surfaces françaises — Michel-Édouard Leclerc a intérêt à la relance keynésienne FI (consommation populaire) plutôt qu'au trumpisme RN.
+
 ## Enjeux avancés
 [[Union populaire]] — La FI est le seul barrage au fascisme, sans elle Marine Le Pen aurait pris le pouvoir dès 2022. Soutenir la FI est une obligation antifasciste.
 [[Graphique]] — La prophétie du 2002 inversé se déroule exactement comme prévu : surdiabolisation + vote caché = second tour.
 
 ## Transcript
 [[GLUCKSMANN, MACRON GARRIDO  QUI VEUT TUER LA FI]]
+
+[^1]: [24:49](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=1489) — "L'agent orange quoi. C'est pas mal comme surnom l'agent orange."
+[^2]: [07:44](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=464) — "Ils ont raison d'avoir peur de nous et de nous diaboliser parce qu'on va nationaliser Orange, on va nationaliser les autoroutes..."
+[^3]: [42:19](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=2539) — "C'est vraiment Brutus et César quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants quoi."
+[^4]: [50:09](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=3009) — Mélenchon cité : "la violence rabouit nos mouvements."
+[^5]: [11:20](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=680) — "il te dit que la France insoumise est plus antisémite que le rassemblement national. C'est quand même une dinguerie."
+[^6]: [05:10](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=310) — Mélenchon cité dans son discours solennel : "depuis jeudi soir, une quinzaine de permanences parlementaires..."

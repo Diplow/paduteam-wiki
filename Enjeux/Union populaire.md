@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-22
+skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -372,8 +372,31 @@ Le corpus de janvier 2026 apporte deux confirmations empiriques de la thèse de 
 
 **Le lawfare judiciaire comme nouveau mécanisme de déstabilisation de l'union populaire ([[PROCES CHIKIROU JUSTICE OU MANIPULATION]]).** Le procès de [[Sophia Chikirou]] pour 67 000 € de «favoritisme» — dans un contexte où Bardella et Le Pen sont condamnés à des millions sans conséquence électorale — illustre la nouvelle mécanique : lawfare → presse progressiste (amplification dans Mediapart, Libération) → extrême droite (récupération). L'objectif n'est pas le verdict, c'est la démobilisation des militants et la décrédibilisation de la candidate LFI au moment des municipales Paris 2026. La PaduTeam tire la leçon pour l'union populaire : seule une base formée sur ces mécanismes peut y résister. Le durcissement du capitalisme contre la gauche de rupture confirme que LFI est suffisamment menaçante pour justifier la mobilisation de l'appareil judiciaire.
 
+## La diabolisation confirmée, la réponse : radicaliser plutôt que modérer — W08 2026
+
+[[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] apporte la validation la plus récente de la prophétie du 2002 inversé et formule la réponse stratégique à la diabolisation qui s'intensifie.
+
+La séquence Deranque a permis à [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] de classer officiellement la FI à "l'extrême gauche" — classement institutionnalisé par le ministère de l'Intérieur ([[Laurent Nunez]]) pour les élections municipales. La PaduTeam lit ce classement à travers le Graphique : le programme FI est "à droite du programme PS de 1980" — preuve que le classement est politique, non analytique. C'est le cordon sanitaire en train de se mettre en place, exactement comme Le Pen en 2002.
+
+La réponse stratégique centrale est contre-intuitive : **ne pas se modérer face à la diabolisation, mais radicaliser le programme**. "Si tu es diabolisé mais que tu as le même programme que des candidats non diabolisés, les gens ne voient aucune raison de voter pour toi. Il faut que la diabolisation soit justifiée par un vrai programme de rupture."[^up_diabol] "Ils ont raison d'avoir peur de nous parce qu'on va nationaliser Orange, on va nationaliser les autoroutes, on va nationaliser tout un tas de gros agriculteurs."[^up_national] Le cordon sanitaire devient un argument positif : si la bourgeoisie met toutes ses forces contre LFI, c'est la preuve que LFI est suffisamment menaçante pour le transformer.
+
+Le cas Garrido est traité séparément comme une forme interne particulièrement dangereuse : en présentant Mélenchon comme "le problème de la FI" depuis sa position d'ancienne membre, elle tente de fragmenter la base militante de l'intérieur. "C'est vraiment Brutus et César."[^gdg_garrido_up] La réponse de la PaduTeam : la FI doit rester "la force tranquille", ne pas tomber dans les provocations, s'appuyer sur la [[Lame de fond]] silencieuse — Mélenchon à 400 000 voix du second tour en 2022 dans des sondages qui le donnaient à 14-15%, avec un résultat réel à 22%.
+
+La [[Moisation]] s'accélère : [[Michel-Edouard Leclerc]] et [[Thierry Breton]] commencent à défendre Mélenchon publiquement — preuve que le camp bourgeois lui-même commence à craquer et que la polarisation oblige chacun à choisir son camp. "Il n'y a plus de solution centriste possible."
+
+## Vidéos clés — W07-W08 2026
+
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — diabolisation comme étape prédite ; classement FI "extrême gauche" par Nunez institutionalisé ; réponse : radicaliser le programme (nationalisations) pas se modérer ; Garrido = Brutus interne ; moïsation accélérée (Leclerc et Breton défendent Mélenchon) ; 400 000 voix du second tour en 2022
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — affaire Deranque instrumentalisée pour l'équivalence LFI/Némésis ; LFI a les mains propres ; théorie du fer à cheval comme mécanique prédite par le Graphique ; l'État comme orchestrateur passif
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Acte 2 du plan Hollande : la mort de la primaire libère la PaduTeam de l'attente de la recomposition noisette ; deux pôles confirmés ; le Casse-Noisette achève son mouvement
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Tondelier verrouille la primaire et précipite la satellisation des noisettes autour de Vallaud ; espace entre les deux pôles résorbé
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Acte 1 documenté : Guedj comme outil de destruction de la primaire démocratique ; confirmation que le PS ne veut pas d'union mais d'absorption
+
 [^up_poutou]: [23:46](https://www.youtube.com/watch?v=gtB7UZM3OD4&t=1426) — "choisissez entre RP et l'aile gauche de la FI [...] Si vous êtes révolutionnaire que vous êtes trosquiste, allez à RP. Si vous êtes révolutionnaire, vous êtes pas trotkiste, allez à l'URC"
 [^up_buzin]: [24:47](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=1487) — "Cette opposition, travail individuel, travail collectif, c'est vraiment l'opposition fondamentale de la lutte des classes. Gardez ça en tête parce que c'est absolument clé."
 [^up_buzin2]: [43:26](https://www.youtube.com/watch?v=_4xb8Fl0IwA&t=2606) — "l'émancipation des travailleurs par eux-mêmes se fera de manière collective et individuelle [...] il faut une force collective d'union du salariat généralisé."
 [^up_prop1]: [24:37](https://www.youtube.com/watch?v=3xTxs8LHIWo&t=1477) — "Il suffit pas simplement que la prise de conscience soit là en tant qu'activité intellectuelle. Il faut qu'elle se transforme en activité expressive."
 [^up_prop2]: [15:53](https://www.youtube.com/watch?v=3xTxs8LHIWo&t=953) — "Peut-être que le 10 septembre, ce sera la fondation de nouveaux groupes qui vont durer pendant des années, qui vont s'intensifier."
+[^up_diabol]: [07:44](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=464) — "Si tu es diabolisé mais que tu as le même programme que des candidats non diabolisés, les gens ne voient aucune raison de voter pour toi. Il faut que la diabolisation soit justifiée par un vrai programme de rupture."
+[^up_national]: [07:44](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=464) — "Ils ont raison d'avoir peur de nous et de nous diaboliser parce qu'on va nationaliser Orange, on va nationaliser les autoroutes, on va nationaliser tout un tas de gros agriculteurs pour avoir un pôle agricole français."
+[^gdg_garrido_up]: [42:19](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=2539) — "C'est vraiment Brutus et César quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants quoi."

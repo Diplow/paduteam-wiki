@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-22
+skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -120,6 +120,50 @@ La conclusion de la PaduTeam est sans appel : LFI doit radicaliser son programme
 
 ## Campagne militante
 La PaduTeam a lancé une campagne physique "Plus Jamais PS" : collages en binômes paritaires, kit de collage gratuit fourni par la chaîne, site web dédié. Appel au recrutement en région parisienne prioritairement mais dans toute la France. Événement public le 20 février 2026 (bilan du PS de 2022 à nos jours) — sold out en 24h (400 places), rediffusion YouTube prévue.
+
+## Le sens précis de "Plus jamais PS" clarifié (février 2026)
+
+Le corpus W07-W08 est celui de la cristallisation de la campagne. Trois vidéos formulent en clair ce que le combat signifie — et ce qu'il ne signifie pas.
+
+**Ce que "Plus jamais PS" n'est pas.** La PaduTeam le dit explicitement dans [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] : «Il faut pas être borné en mode tous les gens qui ont été au PS sont pestiférés. Non, vous venez et vous adoptez la ligne.»[^pjps_sens] Ce n'est pas la haine des individus PS. C'est la fin de l'hégémonie socialiste sur la gauche. Ce qui ne peut pas être accepté, c'est que des gens qui rejoignent la gauche de rupture «gardent une main libre pour trahir» — métaphore de la PaduTeam : «clouer les deux mains à la table».
+
+**Ce que "Plus jamais PS" est.** Selon [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]], le combat vise précisément «l'hégémonie du PS et le rôle central du PS dans les politiques de gauche dans ce pays».[^pjps_hegem] Le PS post-2022 sous programme NFP était acceptable ; c'est le retour à la ligne social-libérale autonome qui est refusée.
+
+**La soirée militante du 20 février 2026** — annoncée sold out (400 places) en moins de 24 heures dans les vidéos de la période — est le point d'aboutissement organisationnel de ce travail de clarification. Trois intervenants : [[Stephane Palombarini]] (historique de la conversion néolibérale), [[Said Bouamama]] (PS et impérialisme), [[Nicolas Da Silva]] (bilan économique des quinquennats PS).
+
+## Le plan Hollande reconstitué : de Guedj à Vallaud (W07-W08 2026)
+
+Deux vidéos consécutives — [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] et [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — permettent à la PaduTeam de reconstituer la mécanique complète de l'opération Hollande contre la gauche de rupture.
+
+**Acte 1 : Guedj comme outil de destruction de la primaire.** [[Jerome Guedj]] annonce sa candidature présidentielle sans passer par la [[Primaire des noisettes]]. La PaduTeam : ce n'est pas une candidature sérieuse, c'est une manœuvre. Son rôle est de «tuer Fort et la primaire sur le plan politique et médiatique».[^pjps_guedj] Il incarne une «gauche républicaine» — code pour ligne islamophobe et pro-sioniste — qui nomme explicitement la fracture avec LFI sur les terrains de «l'universalisme et de la laïcité». Le «parrain» Hollande orchestre depuis l'ombre : «il prépare son plan depuis bientôt 10 ans.»
+
+**Acte 2 : Vallaud exécute Faure et enterre la primaire.** [[Boris Vallaud]] déclare que la primaire des noisettes «n'est pas suffisante» — après avoir tout fait pour la vider. La PaduTeam nomme le cynisme : «ils font tout pour casser le truc et après ils disent bah c'est de la merde donc on y va pas.»[^pjps_vallaud] En rejoignant Nicolas Mayer-Rossignol (80 % du PS à deux contre Faure), Vallaud exécute politiquement le secrétaire général et se positionne comme candidat naturel d'une «confédération non-mélanchoniste». Formulation-clé : «si Val est désigné comme le candidat du PS, quelle force politique pourrait le contraindre à ne pas être le candidat d'une fédération unie ?»
+
+**La moïsation de la noisette.** La PaduTeam décrit la dynamique comme une «moïsation de la noisette» : l'huile (Verts acceptables, Place Publique, partie du PCF) partira avec Vallaud ; la matière restera avec la primaire dégradée. La Primaire des noisettes devient une réunion d'appareils avec une façade plébiscitaire, sans dynamique citoyenne. [[Olivier Faure]] est déclaré «mort dans le film».
+
+## La "gauche républicaine" comme code PS (W07-W08 2026)
+
+[[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] fournit le décryptage le plus précis de ce que «gauche républicaine, européenne, universaliste, laïque» signifie dans la bouche du PS : un code pour islamophobie structurelle et soutien pro-israélien. La vraie fracture que Guedj nomme avec LFI n'est pas économique mais sur ces deux axes — «la fracture se fait sur universaliste, laïque. Il le dit à mot caché.»[^pjps_code]
+
+La PaduTeam retourne l'accusation d'antisémitisme : ceux qui associent systématiquement la judéité au soutien au gouvernement israélien «mettent en danger les personnes juives de ce pays.» Guedj, en instrumentalisant l'accusation contre LFI, fait monter l'antisémitisme par l'amalgame. «Les antisémites, c'est eux.»
+
+La proportionnelle défendue par Guedj est démontée : dans un parlement à 5 blocs à ~15-20% chacun, elle favorise structurellement le bloc central bourgeois. L'exemple allemand est convoqué — 50 ans de coalition obligée vers le centre. «Ce qu'il appelle la vraie démocratie fait en sorte que toujours ça soit le bloc bourgeois qui soit au pouvoir.»[^pjps_prop]
+
+## Mensonge PS sur l'électorat populaire : le cas Backseat (W07-W08 2026)
+
+[[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]] fournit la réfutation statistique la plus complète du mythe de la popularité PS. [[Lumir Lapray]] affirme sur [[Backseat]] que les classes populaires blanches rurales votent PS. La PaduTeam démonte avec les données du ministère de l'Intérieur : Hidalgo fait 2% en zone rurale (superposable à son score national), Mélenchon y fait 19% — soit dix fois plus.
+
+L'électorat Glucksmann 2024, examiné sur le [[Graphique]], est très cadre, très propriétaire, très en haut à droite — le [[Bloc bourgeois]]. C'est le visage réel du PS, pas les prolétaires ruraux. L'illusion d'un PS populaire vient de la loyauté résiduelle de vieux électeurs qui ont toujours voté PS — pas d'une base sociale ouvrière.
+
+La PaduTeam nomme le «poison raciste» du récit adverse : l'idée que les classes populaires blanches refusent LFI à cause de l'antiracisme, et que les non-blancs votent Mélenchon par communautarisme. Ce récit est «faux, archi faux» — et dangereux, parce qu'il naturalise le racisme des classes populaires.[^pjps_backseat]
+
+[^pjps_sens]: [21:46](https://www.youtube.com/watch?v=U4TFUS5mli0&t=1306) — «ils ont refait tous leur truc du PS de A à Z. [...] Donc là maintenant, il faut leur clouer les deux mains à la table.»
+[^pjps_hegem]: [18:57](https://www.youtube.com/watch?v=aKmS477MucE&t=1137) — «Ce qu'il ne faut plus du PS, c'est l'hégémonie du PS et le rôle central du PS dans les politiques de gauche dans ce pays.»
+[^pjps_guedj]: [32:25](https://www.youtube.com/watch?v=aKmS477MucE&t=1945) — «Il vient pour casser le processus de primaire [...] pour tuer Fort et la primaire sur le plan politique et médiatique.»
+[^pjps_vallaud]: [6:44](https://www.youtube.com/watch?v=lj582EONpMk&t=404) — «Ils font tout pour casser le truc et après ils disent bah c'est de la merde donc on y va pas quoi.»
+[^pjps_code]: [24:40](https://www.youtube.com/watch?v=aKmS477MucE&t=1480) — «La fracture se fait sur universaliste, laïque et cetera. Donc il le dit à mot caché, mais vous avez bien compris la fracture avec LFI est bien plus grande parce que LFI refuse d'aller dans un discours islamophobe et dans un discours pro Israël.»
+[^pjps_prop]: [17:23](https://www.youtube.com/watch?v=aKmS477MucE&t=1043) — «Ce qu'il appelle la vraie démocratie fait en sorte que toujours ça soit le bloc bourgeois qui soit au pouvoir. Ça c'est la démocratie libre et non faussée.»
+[^pjps_backseat]: [20:08](https://www.youtube.com/watch?v=iXImwyHjrwM&t=1208) — «Ce poison raciste : des classes populaires blanches qui votent anti-Mélenchon, PS, Ruffin et cetera — et des classes populaires non blanches qui voteraient Mélenchon parce que ce serait un islamogauchiste. C'est faux, archi faux.»
 
 ## Martinez et la reconstitution du PS via les syndicats (janvier 2026)
 

@@ -35,5 +35,6 @@ La PaduTeam mobilise la formule dans la critique des "noisettes" contemporaines.
 ## Vidéos où le concept est développé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — application à la guerre des gauches : la voie SPD (troisième voie entre socialisme et barbarie) mène à la barbarie ; les communistes comme "seuls qui ne viennent pas tenir un discours d'accompagnement du capitalisme néolibéral"
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — formulation dans le contexte antifasciste : "L'antifascisme, on repousse le fascisme en reprenant le pouvoir à sa place, en sortant la société de sa crise à sa place. C'est pour ça qu'on dit toujours socialisme ou barbarie."
 
 [^1]: [1:04:57](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=3897) — "Croire qu'il y a une troisième voie entre le socialisme et la barbarie, c'est préparer la barbarie. Et c'est ce qui est arrivé en 33."

@@ -37,10 +37,21 @@ Les solutions xénophobes et autoritaires de l'extrême droite deviennent alors 
 
 Corollaire : les "patrons de gauche" des années 70-80 n'avaient pas de meilleures valeurs — ils étaient dans un cycle de profit ascendant qui rendait le progressisme compatible avec leurs intérêts. Voir [[Patrons de gauche]].
 
+## Application au programme Retailleau
+
+Dans le transcript Retailleau 2027, la PaduTeam applique directement la BTTP au programme de surexploitation du travail. Le raisonnement : avec un capital qui n'arrive plus à faire de la plusvalue par investissement productif, "le seul moyen de refaire encore un peu de jus, c'est de presser le plus fort possible." Travailler plus, réformer les retraites, réformer l'assurance chômage — c'est la seule variable disponible.
+
+La métaphore du citron : "On a déjà un pressoir, on a déjà un citron sans investir, le seul moyen de refaire encore un peu de jus, c'est-à-dire de plusvalue, bah c'est de presser le plus fort possible. Et ben, c'est ça le capital."[^citron]
+
+Le paradoxe de la retraite et du chômage est formulé clairement : avec 9 millions de chômeurs et 15 millions de personnes inactives (chômeurs + arrêts), au lieu de répartir le travail, la droite propose de surintensifier l'exploitation des 25 millions qui travaillent. Résultat prévisible : plus d'arrêts maladie, plus de travail au noir, diminution encore plus grande du "citron" disponible.
+
+[^citron]: [27:53](https://www.youtube.com/watch?v=U0N868hjOPw&t=1673) — "On a déjà un pressoir, on a déjà un citron sans investir, le seul moyen de refaire encore un peu de jus, c'est-à-dire de plusvalue, bah c'est de presser le plus fort possible. Et ben, c'est ça le capital."
+
 ## Vidéos
 - [[Nicolas qui paye]] — Explication de la compression salariale des cadres comme manifestation de la baisse tendancielle
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — Application à la désindustrialisation américaine et l'impasse du protectionnisme
 - [[CE QUE SIGNIFIE VRAIMENT L ELECTION DE TRUMP]] — Première application à chaud (novembre 2024) : « ils n'ont pas les capacités à faire de la hausse de productivité, donc il y a une espèce de baisse tendancielle du taux de profit — voilà je refais mon marxiste rabouri ». Le fait que les infrastructures industrielles US (Silicon Valley externalisée, agroalimentaire Pepsi/Kellogg's/Coca arriéré) ne peuvent plus faire hausser la productivité est posé comme le socle structurel de la crise
 - [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — Application au rapprochement patronat/extrême droite ; démocratie comme obstacle au profit ; réfutation des explications idéalistes par Mauduit
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — Métaphore du citron ; programme Retailleau comme surexploitation maximale sans investissement ; paradoxe retraites/chômage (9 millions de chômeurs, on intensifie sur 25 millions qui travaillent)
 
 [^demo]: [42:32](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=2552) — "Donc la démocratie devient un problème quand le taux de profit devient un problème."

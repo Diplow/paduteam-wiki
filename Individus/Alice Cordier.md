@@ -82,3 +82,4 @@ Un autre tweet de Cordier — "ceux qui collaborent avec ces gens devront payer 
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
 - [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — distinguée de Thaïs d'Escufon : Némésis tient un discours moins pire sur le viol conjugal, mais reste identitaire de guerre des civilisations
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — récupération de l'attentat de Magdebourg retournée par le profil réel de l'auteur (apostat saoudien réfugié, affilié AFD)
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — son communiqué officiel lu et décortiqué : présente Quentin comme "agent de sécurité" alors que sa famille dit le contraire ; cite le nom de Jacques-Élie Favrot avant toute confirmation judiciaire ; les stories de Jordan Florentin montrant les militantes au restaurant le soir même, indice de la nature performative de l'opération

@@ -48,8 +48,21 @@ Le verdict concédé : "entre Raphaël Hoven et Viktorovitch, je préfère Vikto
 
 [^cv_viktorovitch]: [49:21](https://www.youtube.com/watch?v=RxV2ICVzwlQ&t=2961) — "pourquoi il insiste tant sur le facteur endogène de la montée du RN la communication — parce que c'est son taf de dire que la communication c'est importante"
 
+## Le militant anti-LFI en campagne électorale (fév. 2026)
+
+Dans [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]], la PaduTeam analyse sa réaction vidéo à l'article Mediapart sur [[Sophia Chikirou]] — un contentieux de 60 000 € réglé entre les parties depuis 8 ans — publié en pleine campagne municipale parisienne. Trois griefs structurants :
+
+**1. La "minute égale" comme mensonge structurel.** Viktorovitch s'estime équitable parce qu'il donne une minute à chaque camp. Mais dans un paysage médiatique saturé d'anti-LFI, sa minute s'ajoute aux 100 déjà existantes contre la France insoumise et à la demi-minute contre le PS : "Tu te sens les mains propres mais en fait tu t'es sali les mains au nom de tous les autres."[^cv_min]
+
+**2. La logique libérale vs matérialiste.** Sa position de fond est identifiée : "argumenter d'abord, choisir ensuite" — croire en une méthode neutre de raisonnement politique. La PaduTeam retourne : "Être politique et être militant politique, c'est choisir d'abord et argumenter ensuite. Eux les libéraux considèrent qu'il faut d'abord argumenter pour pouvoir bien choisir."[^cv_lib] Référence directe à la 2e Thèse sur Feuerbach : la vérité objective est une question pratique, pas théorique.
+
+**3. L'"emballage médiatique" appliqué.** En reprenant l'article Mediapart pour l'amplifier en vidéo, Viktorovitch applique exactement la technique rhétorique qu'il prétend décrypter — grossissement d'un fait insignifiant à l'échelle de l'élection. Et il ne distingue pas parquet et juges — erreur "hyper grave en terme de désinformation pour quelqu'un qui parle de rhétorique."
+
+[^cv_min]: [15:42](https://www.youtube.com/watch?v=A3xTMnOQ4Dw&t=942) — "tu te sens les mains propres mais en fait tu t'es sali les mains au nom de tous les autres"
+[^cv_lib]: [18:07](https://www.youtube.com/watch?v=A3xTMnOQ4Dw&t=1087) — "Être politique et être militant politique c'est choisir d'abord et argumenter ensuite"
+
 ## Vidéos où Viktorovitch est analysé
-- [[CLÉMENT VIKTOROVITCH  LE MEILLEUR MILITANT ANTI-LFI]] — Vidéo entièrement dédiée
+- [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — Vidéo entièrement dédiée à son react anti-Chikirou en campagne municipale ; la "minute égale" comme mensonge structurel ; logique libérale vs matérialiste ; 2e Thèse sur Feuerbach ; emballage médiatique
 - [[MELENCHON vs LE PEN 2027 les MEDIAS ENTREVOIENT enfin la PROPHETIE]] — Cité comme exemple de ceux qui "font semblant" d'être de gauche tout en étant macronistes en 2017
 - [[VIKTOROVITCH MELENCHON NE SERA PAS AU 2EME TOUR]] — React à son doom sur 2027 ; démontage de son analyse du "bulldozer extrême droite" ; accusé de fabriquer le désespoir qu'il prétend redouter
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]] — Cité comme exemple d'antiparlementarisme intellectuel ("posture surplombante") ; inverse sociologique de l'artisan : fort capital scolaire/culturel, position économique modeste (haut-gauche du Graphique)

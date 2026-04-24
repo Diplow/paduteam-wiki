@@ -79,6 +79,15 @@ La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTea
 
 [^vallaud-49.3]: [25:49](https://www.youtube.com/watch?v=aX7LA5CR5jo&t=1549) — "Donc moi je vais vous dire je veux pas baisser la tête parce que un certain nombre d'hommes et de femmes vont toucher un petit peu plus à la fin du mois."
 
+### Exécution de la primaire des noisettes (fév. 2026)
+
+Dans [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]], Vallaud déclare publiquement que la primaire "telle qu'elle se dessine n'est pas suffisante". En s'alliant avec [[Nicolas Mayer-Rossignol]], il fait basculer le PS majoritairement contre la primaire — privant [[Olivier Faure]] de son seul soutien. La PaduTeam lit le mouvement : Vallaud avait d'abord donné des gages à Faure (présence discrète à Bram, discours sur la démocratie interne), puis le lâche "comme un bâtard" au moment stratégique.[^vallaud-atomise] C'est "un coup de boss" — il récupère tous les bénéfices et rejette toutes les fautes.
+
+À la place de la primaire citoyenne, il propose une "confédération non-mélanchoniste" : désignation interne PS + accord d'appareil avec Place Publique, radicaux de gauche, et Verts acceptables. Dans ce format, les scrutateurs PS feront le tri. La PaduTeam formule la thèse clé : "si Val est désigné comme le candidat du PS, quelle force politique pourrait le contraindre à ne pas être le candidat d'une fédération unie ?"[^candidate-unique-atomise] Position du [[Graphique]] : "central mais pas noisette" — il renforce sa centralité en rejetant les fautes sur les autres, contrairement à Faure/Glucksmann/Tondelier qui sont au centre mais pris en étau.
+
+[^vallaud-atomise]: [8:15](https://www.youtube.com/watch?v=lj582EONpMk&t=495) — "premier truc qu'il a donné des gages à Fort pour être un peu l'aile gauche pour négocier [...] Deuxième truc là il donne des trucs à Rossignol pour pouvoir avoir une primaire. C'est un coup parfait."
+[^candidate-unique-atomise]: [13:19](https://www.youtube.com/watch?v=lj582EONpMk&t=799) — "si Val est désigné comme le candidat du PS, quelle force politique pourrait le contraindre à ne pas être le candidat d'une fédération unie ?"
+
 ## Vidéos où Vallaud est analysé
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — assume la non-censure "la mort dans l'âme" ; présente des non-dégradations comme victoires ; bougonnement qui confirme son positionnement d'arbitre tenu à distance du désastre Faure.
 - [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Désigné successeur naturel de Glucksmann dans l'espace PS : "fidèle depuis toujours de Hollande", en train de se "frayer un chemin" après la branche Glucksmann cassée.
@@ -94,3 +103,4 @@ La PaduTeam note son "bougonnement" visible — il n'est "pas venu à la PaduTea
 - [[FAURE VEUT FAIRE DU MELENCHON SOFT]] — Congrès de Nancy : faiseur de roi (~20%), confirmation de la prophétie candidat PS 2027, "le seul qui aura une ligne cohérente".
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — ouvre la porte au "49.3 de compromis" avec Temal, torpillant la stratégie Faure ; bras exécutant de la main noire d'Hollande.
 - [[HOLLANDE prepare t-il SON RETOUR]] — Cité comme candidat que Hollande pousse pour 2027 (dissident interne qui pense que ce sera lui et non Boris Vallaud). La PaduTeam divulgue l'existence d'un débat interne entre "ceux qui pensent que le candidat sera Boris Vallaud" et ceux qui pensent que ce sera Hollande lui-même — sans trancher.
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Exécution de la primaire en déclarant qu'elle "n'est pas suffisante" ; alliance NMR pour faire basculer le PS ; proposition de confédération non-mélanchoniste maîtrisée par l'appareil PS ; thèse de la centralité "levier" vs centralité "noisette" ; scénario Attal comme seul challenger possible.

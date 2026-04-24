@@ -147,6 +147,30 @@ Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définiti
 
 [^barrage-partielle]: [32:28](https://www.youtube.com/watch?v=9kqHXTUnY-w&t=1948) — "Retaillo veut tuer d'abord le RN pour être l'opposant de la gauche. [...] Retailleau se positionne parfaitement pour concurrencer le RN [...] et montrer qu'il est vraiment l'alternative absolue."
 
+## Candidature présidentielle 2027 — annonce et stratégie
+
+Retailleau annonce sa candidature chez [[Gilles Boulot]], en dehors de toute primaire. La PaduTeam l'avait prévu : il n'a aucun intérêt à passer par une primaire. Il arrive avec une ligne connue et cherche à siphonner l'espace entre [[Edouard Philippe]] et [[Marine Le Pen]].
+
+### Retailleau = Glucksmann de droite
+Comme [[Raphael Glucksmann]] à gauche capte l'antimélenchonnisme en arrivant seul avec une ligne claire, Retailleau capte l'antiLe Pen en arrivant seul. "C'est un peu le Glucksmann de la droite. C'est celui qui arrive et qui dit 'Moi, j'ai une ligne, j'ai un cap clair'"[^ret-glux].
+
+[^ret-glux]: [0:30](https://www.youtube.com/watch?v=U0N868hjOPw&t=30) — "C'est un peu le Glucksmann de la droite. C'est celui qui arrive et qui dit 'Moi, j'ai une ligne, j'ai un cap clair, tu vois ? Et suivez-moi quoi.'"
+
+### La fracturation Bardella/Le Pen
+Retailleau se différencie de [[Marine Le Pen]] (qu'il traite de "socialiste"), pas de [[Jordan Bardella]]. Choix stratégique : Bardella est encore dans l'appareil RN et peut espérer des choses à l'intérieur — il est en position de force relative. Le travail de Retailleau est "beaucoup plus dur" que celui de quelqu'un qui attendrait Bardella comme parti en dehors de l'appareil[^ret-bard]. En traitant Le Pen de socialiste, il cible la ligne libérale-raciste (Zemmour côté) contre la ligne sociale-nationaliste. La PaduTeam anticipe que Bardella rejoindra Retailleau comme Chirac en 1974 avec Giscard — trahison d'appareil pour exister politiquement.
+
+[^ret-bard]: [2:34](https://www.youtube.com/watch?v=U0N868hjOPw&t=154) — "Bardella lui, est encore dans le giron du Rassemblement national et peut encore espérer des choses à l'intérieur du Rassemblement national [...] le travail de Retaillo est beaucoup plus dur"
+
+### Reconstitution du bloc Sarkozy 2007
+L'objectif chiffré : faire 25-26% en descendant le RN à 17-18%, là où Sarkozy faisait 31% contre un FN à 10%. La clé est que Siotti ([[Eric Ciotti]]) a rejoint le RN : si Bardella reste avec Le Pen et Siotti avec Le Pen, l'électorat raciste-libéral a de bonnes chances de voter pour le duo Bardella-Siotti plutôt que pour Retailleau[^ret-siotti].
+
+[^ret-siotti]: [35:34](https://www.youtube.com/watch?v=U0N868hjOPw&t=2134) — "cet électorat raciste libéral, il y a de bonnes chances qu'il vote pour le duo Bardel Sioti en réalité, tu vois ? Parce qu'en fait c'est la même ligne que Rota sauf que c'est une ligne qui compte 30% dans les sondages"
+
+### Programme = Sarkozy 2007 bis
+Son discours "travailler plus", réforme des retraites et réforme de l'assurance chômage est identifié comme du "Sarkozy bis" — même programme que celui qui a fait 30-35% en 2007-2012 et qui n'en ferait plus que 16-17% aujourd'hui. Le retour du "centre post-moïsation" qui essaie de revenir à un état des choses qui n'existe plus[^ret-sarko].
+
+[^ret-sarko]: [9:49](https://www.youtube.com/watch?v=U0N868hjOPw&t=589) — "C'est vraiment du SarkoZi bis qu'il essaie de refaire. Tout comme le PS essaie de refaire du Holland Beast [...] ils vont faire 16 17% [...] Ils vont avoir perdu la moitié de leur électorat"
+
 ## Vidéos où Retailleau est analysé
 - [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]] — veto sur Bruno Le Maire ; fait tomber le gouvernement en 14h ; stratégie de séparation du "socle commun" pour imposer ses conditions à Macron
 - [[MORT DE JEAN-MARIE LE PEN - SEPARER L'HOMME DU TORTIONNAIRE FASCISTE]] — Cité pour sa proposition d'interdire aux femmes voilées les sorties scolaires ; héritage politique de Le Pen dans le débat actuel
@@ -170,3 +194,4 @@ Ce geste entérine, avec Finkielkraut, que le "barrage républicain" a définiti
 - [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]] — appel à ne pas voter NFP dans la partielle du Tarn-et-Garonne ; stratégie Chirac 81 analysée ; confirmation de la prophétie du 2002 inversé
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Fracture avec Wauquiez ; exclusion des élus allés au gouvernement ; positionnement trumpiste pour capter l'électorat Le Pen
 - [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — cité comme exemple de la contradiction des libéraux "anti-euthanasie" : s'oppose à la loi pour des raisons religieuses tout en détruisant l'hôpital ; "il porte très bien le Hugo Boss Bruno Retailleau" selon Padu (référence à l'uniforme nazi)
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — candidature présidentielle 2027 : stratégie Glucksmann de droite, reconstitution du bloc Sarkozy 2007, programme Sarkozy bis, fracturation Bardella/Le Pen via le label "socialiste" sur Marine, analyse de l'auto-entrepreneuriat comme fausse sortie

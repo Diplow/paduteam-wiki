@@ -54,6 +54,7 @@ Dans la même séquence, un activiste présenté comme "engagé contre la haine 
 - [[SOS Racisme]] — fondateur, antiracisme paternaliste années 80
 
 ## Vidéos où Dray est cité
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Mentionné dans l'analyse du "pipeline" ex-gauche radicale vers le sionisme de droite : vient de la LCR ("aile gauche du PS, trotskiste"), confondu un instant avec Guedj (les deux "interchangeables"). La PaduTeam pointe l'itinéraire de la gauche prolétarienne maoïste / LCR vers un "conservatisme sioniste."
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
 - [[DOUANIER ROUSSEL DEVOILE les SPORTIVES MUSULMANES sur CNEWS]] — Cité comme représentant de l'antiracisme paternaliste années 80 qui est devenu réactionnaire.
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse de son "dossier" sur l'enfance de Mélenchon comme exemple de diabolisation absurde.

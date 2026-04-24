@@ -43,6 +43,7 @@ Les milices supplétives sont des instruments de [[Brutalisation]] : elles norma
 ## Vidéos où la distinction est analysée
 
 - [[LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES]] — présentation de la distinction par Chris, application au Club 1988
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — application au cas Némésis : le "service d'ordre" de Némésis n'en est pas un (il protège une provocation, pas une manifestation propre) ; les milices fascistes servent à faire monter la peur et à appeler à l'ordre — elles finissent toujours liquidées une fois leur rôle joué (SA → SS)
 
 [^1]: [10:00](https://www.youtube.com/watch?v=SQN9eTGn1Cg&t=600) — Chris développe la distinction milice supplétive / milice oppositionnelle et positionne le Club 1988 dans la première catégorie.
 [^2]: [12:00](https://www.youtube.com/watch?v=SQN9eTGn1Cg&t=720) — La distinction est analytique, pas morale : logique, fonction et contre-stratégies différent entre les deux types.
