@@ -20,5 +20,11 @@ Nuñez est celui qui a officiellement classifié la FI à l'extrême gauche pour
 - [[France Insoumise]] — l'a classifiée à l'extrême gauche pour les municipales
 - [[Emmanuel Macron]] — dans le camp macroniste
 
+### Coordination macroniste-PS (fév. 2026)
+Dans [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]], la PaduTeam établit la collusion entre le classement FI à l'extrême gauche par Nuñez et la stratégie PS de [[Boris Vallaud]] : les deux mouvements se renforcent mutuellement pour présenter le PS comme "la seule vraie gauche." Justifications officielles de Nuñez : refus de la discussion parlementaire, appels à la censure, refus de réunions de travail avec le gouvernement — "des trucs bidons" selon la PaduTeam. Comparaison avec les syndicats : convoquer des réunions bidon pour que les syndicats ne viennent pas, puis s'en servir comme preuve de leur "radicalisme anti-institutionnel." "C'est exactement la même chose."
+
+La PaduTeam note le paradoxe : la désignation "extrême gauche" pourrait être une bénédiction pour la FI — pipeline vers des abstentionnistes et anciens électeurs d'extrême droite qui verraient dans le label une forme d'anti-système.
+
 ## Vidéos où Nuñez est mentionné
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Classement FI à l'extrême gauche analysé comme coordination macroniste-PS ; démontage des justifications officielles ; comparaison avec la tactique syndicale des "réunions bidon" ; paradoxe : ce classement peut devenir un pipeline pour la FI.

@@ -50,6 +50,7 @@ La Jeune Garde est une organisation internationaliste. Elle a envoyé des milita
 
 ## Vidéos où La Jeune Garde est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — Mise en cause par Némésis dans la mort de Quentin Deranque ; la PaduTeam déconstruit ces accusations comme opération politique sans base factuelle établie
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Procédure de dissolution, riposte, théorisation de la lutte
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Militants envoyés à Manbij via la brigade Henri Krasucki, lien direct avec la guerre contre Daesh en Syrie
 

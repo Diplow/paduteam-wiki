@@ -30,6 +30,12 @@ Une noisette est quelqu'un qui croit pouvoir se positionner entre les deux force
 
 Les noisettes concassées (encore un peu visibles) vs l'[[Huile de noisette]] (complètement anéanties) représentent deux degrés du même destin.
 
+## La mise en abîme de la noisette
+
+Une noisette peut elle-même être contrainte par une noisette de plus grande taille — produisant une «mise en abîme». Dans la séquence de la primaire des noisettes de février 2026, [[Marine Tondelier]] se positionne comme force centrale, mais elle-même agit sous contrainte d'[[Olivier Faure]] (Fort), qui agit sous contrainte de [[Francois Hollande]]. La chaîne de subordination devient : Tondelier dit «on fera pas alliance avec la FI» non par conviction programmatique, mais pour préserver sa primaire ; Fort le dit pour préserver son leadership au PS ; Hollande, en bout de chaîne, est pourtant le moins contraint — il peut se permettre de dire l'inverse en privé. «Eux c'est même pas des noisettes — c'est des noisettes entre deux noisettes, c'est une mise en abîme de la noisette.»[^abime_noisette]
+
+[^abime_noisette]: [18:09](https://www.youtube.com/watch?v=U4TFUS5mli0&t=1089) — dans [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]]
+
 ## La [[Guerre des gauches]] vue des noisettes
 Les partisans des noisettes sont souvent des "unité-istes" — ils réclament l'union à tout prix, peu importe le programme. La PaduTeam y voit une confusion : l'union arithmétique ne suffit pas, il faut que le programme soit de rupture pour transformer réellement la société.
 

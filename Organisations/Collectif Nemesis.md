@@ -60,6 +60,7 @@ La PaduTeam : "En fait, je pense que quand tu as Déranque, c'était le type gen
 ## Vidéos où le Collectif Némésis est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — Leur stratégie de provocation décryptée ; mort de Quentin Deranque instrumentalisée
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — Analyse causale de la mort de Quentin : recrutement de jeunes non formés, absence de débrief, non-assistance à personne en danger ; renseignements territoriaux informés mais aucun dispositif policier déployé
 - [[DR ZOE RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NEMESIS]]
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]

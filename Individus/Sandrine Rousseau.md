@@ -24,6 +24,12 @@ La PaduTeam reconnaît que la ligne politique de Rousseau ne leur convient pas, 
 ## Empêchée à la primaire des noisettes (2026)
 Rousseau a été empêchée de se présenter à la [[Primaire des noisettes]]. La PaduTeam y voit une perte pour la diversité de lignes au sein de la noisette — Rousseau représentait une version plus radicale que Tondelier. La primaire interne EELV de 2022 (Jadot vs Rousseau, ~30 000 votants) avait montré une vraie division de lignes. La PaduTeam avoue avoir voté Rousseau "pour le troll."
 
+La décision était tranchée dès décembre : seuls les chefs de partis pouvaient s'y présenter, ce qui excluait mécaniquement Rousseau. La PaduTeam identifie un paradoxe : elle est la «noisette la moins anti-FI du lot», capable de se retirer au dernier moment pour le mieux placé — qualité que la primaire officielle des noisettes ne veut précisément pas. «La tragédie de Sandrine, c'est que c'est une noisette interdite de primaire des noisettes.»[^rousseau_primaire26]
+
+La PaduTeam note également que Rousseau aurait pu peser dans la primaire (candidature aurait représenté une vraie diversité de lignes), et suggère qu'elle devrait négocier avec [[Badmulch]] — seul candidat extérieur capable de réunir 500 signatures et disposé à se désister pour le mieux placé à gauche.
+
+[^rousseau_primaire26]: [26:55](https://www.youtube.com/watch?v=U4TFUS5mli0&t=1615) — "la tragédie de Sandrine c'est que c'est une noisette elle aussi l'aile gauche des noisettes [...] elle est interdite de primaire des noisettes"
+
 ## Prise de misogynie
 [[Marine Tondelier]] bénéficie d'une protection contre les attaques misogynes moins forte que Rousseau selon la PaduTeam. Rousseau est "très très ciblée" pour des attaques misogynes et la PaduTeam la défend dans ces cas — tout en restant en désaccord politique avec elle. Distinction entre attaque misogyne (inacceptable) et critique politique (légitime).
 
@@ -61,3 +67,5 @@ Plus durement encore, la PaduTeam lui reproche un double jeu systématique : ell
 - [[MOTION DE CENSURE CAUSES ET CONSEQUENCES]] — citée comme exemple de l'antifascisme moral abstrait ("non je vais jamais avec le RN") face à l'antifascisme de terrain de [[Raphael Arnaud]]
 - [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Appel à voter Estrosi décortiqué comme illustration de l'incohérence barragiste (Estrosi > Dati > Knafo selon les villes). Double jeu : vote contre les symboles communistes au PE sans en assumer la responsabilité. "Elle est pas loyale."
 - [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] - Dans la fracture post-municipales, Rousseau appelle à « s'émanciper du PS » : « Nous sommes devenus les vassaux du PS. » Elle accuse les socialistes d'avoir fait perdre Strasbourg et Poitiers en s'alliant avec la droite. Son positionnement est symétrique et inverse de Jadot : là où Jadot veut s'affranchir de Mélenchon, elle veut s'affranchir du PS — révélant une fois de plus l'impossibilité de toute cohérence de ligne chez EELV.
+- [[SANDRINE ROUSSEAU DENONCE LA TRAHISON DES ECOLOGISTES]] — Seule à voter contre le PLFSS dans son groupe ; la PaduTeam : "Sandrine Rousseau parle comme une insoumise, Tondelier parle comme le PS"
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Analyse détaillée du verrouillage de la primaire ; comparaison avec Olivier Faure (même position de "trop à gauche sans espace propre") ; figure tragique de l'idéaliste sans ancrage matériel ; discussion sur un éventuel rôle de premier ministre Mélenchon

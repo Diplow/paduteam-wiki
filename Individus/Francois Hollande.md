@@ -118,6 +118,20 @@ Dans [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]], la PaduTeam reco
 La PaduTeam projette la suite : Hollande va reconstituer une "fédération" autour de Vallaud, absorbant à terme des fragments noisettes comme [[Yannick Jadot]] ("un Jadeau [...] il va partir tranquillement dans la Fédération de Hollande"). La moïsation de la gauche reformiste est son œuvre, pas un accident.
 
 [^hollande-kanner]: [20:13](https://www.youtube.com/watch?v=WpfmoXD7yMI&t=1213) — "Eh Patrick, tu descends à France info, je les appelle, tu me le déglingues ce gars, tu lui rappelles qui sont les instances et qu'est-ce qu'il a le droit de faire ou non."
+## Le plan Hollande en étapes (fév. 2026)
+
+Dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]], la PaduTeam reconstitue le plan en cours d'exécution :
+
+1. Patrick Canot et Cazeneuve assassinent Faure dans les instances ("le crâne d'Olivier Fort dans le viseur") — déjà accompli
+2. [[Jerome Guedj]] tue la primaire des noisettes sur le plan politique et médiatique — en cours (fév. 2026)
+3. La primaire confédérale (PS + [[Place Publique]] + radicaux de gauche + micro-partis) remplace la primaire ouverte, avec un processus maîtrisé par l'appareil PS
+4. [[Raphael Glucksmann]] est dévoré dans la primaire confédérale ("Apprends à compter — dès que tes voix vont passer dans les mains des scrutateurs, elles vont disparaître")
+5. Hollande ou son dauphin ([[Boris Vallaud]]) se désigne en "réconciliateur"
+
+"Le parrain prépare son plan depuis bientôt 10 ans."[^plan-hollande-etapes] La PaduTeam note le "dog whistle" : tous les candidats de l'autre gauche disent "moi président, moi présidente, lui président, nous président" — formule qui appelle Hollande comme figure tutélaire.[^dog-whistle]
+
+[^plan-hollande-etapes]: [12:46](https://www.youtube.com/watch?v=aKmS477MucE&t=766) — "Le parrain prépare son plan depuis bientôt 10 ans." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^dog-whistle]: [12:46](https://www.youtube.com/watch?v=aKmS477MucE&t=766) — "Ils disent tous moi président, moi présidente, lui président, nous président. Dog whistle pour amener Hollande hein. C'est l'hégémonie de François Hollande sur la gauche. Vraiment, c'est assez impressionnant."
 
 ## Vidéos
 - [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner décryptée ; Hollande en "Vito Corléone" qui envoie ses Clemenza et Tessio ; construction de la fédération réformiste 2027 absorbant les fragments noisettes.
@@ -135,3 +149,4 @@ La PaduTeam projette la suite : Hollande va reconstituer une "fédération" auto
 - [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]] — agit en coulisses via Vallaud et Temal pour imposer le 49.3 de compromis (formule inventée sous son mandat) et torpiller la ligne Faure ; la "main noire" sans visage
 - [[LA PRIMAIRE des NOISETTES TOURNE a la CATASTROPHE]] — Position Venezuela décortiquée comme ni-niisme en accord objectif avec l'impérialisme ; prophétie du congrès de Brest 1997, "la belle" 2027 Hollande vs Mélenchon formulée explicitement
 - [[MUNICIPALES PHILIPPE MARTINEZ SOUTIENT LE PS FACE A LFI]] — Évoqué comme candidat potentiel 2027 : Martinez et Berger feraient campagne pour lui contre Mélenchon. La PaduTeam discute le fossé générationnel, son "génie" politique, le scénario d'un Hollande à 17 % au premier tour. Rêve militant : "Mélenchon qui prend sa revanche et qui baise Hollande au premier tour, ce serait bon ça."
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Plan reconstitué en 5 étapes : assassinat de Faure par Canot/Cazeneuve → Guedj tue la primaire des noisettes → primaire confédérale maîtrisée par l'appareil PS → dévoration de Glucksmann → désignation Hollande/Vallaud. "Le parrain prépare son plan depuis bientôt 10 ans."

@@ -82,6 +82,32 @@ La PaduTeam note également que sa candidature à la présidentielle le fait qua
 
 [^guedj-pression]: [27:20](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=1640) — "Tondelier c'est la première à dire Mélenchon c'est le pire candidat au deuxième tour. Donc lui il arrive, il dit 'Bah je comprends pas, tu fais monter un mec dont tu dis toi-même que c'est le pire candidat au deuxième tour.'"
 [^guedj-mort]: [40:12](https://www.youtube.com/watch?v=_JfOct_Lmzo&t=2412) — "Je pense même que le PS va le griller rapidement maintenant qu'ils ont éclairci la ligne. Vraiment lui il est mort vivant aussi là."
+## Candidature présidentielle (fév. 2026) : second couteau au service du plan Hollande
+
+Guedj annonce sa candidature à la présidentielle chez Benjamin Duhamel (France Inter) — sans passer par la [[Primaire des noisettes]]. La PaduTeam est catégorique : "il n'est pas en train de se présenter à la présidentielle." Il est le "second couteau" envoyé par l'aile droite du PS (piloté par [[Francois Hollande]]) pour remplir une mission précise : tuer la primaire des noisettes sur le plan politique et médiatique, et enterrer [[Olivier Faure]] une deuxième fois. La grosse artillerie (Hollande, Vallaud) attend l'après-municipales.
+
+Faire son annonce de candidature à la matinale de France Inter plutôt que sur TF1 chez Gilles Boulot est déjà un signe : "c'est le signe que tu es un peu un second couteau." Qui croit que Mélenchon annoncera sa candidature chez Duhamel ?
+
+### Guedj = dernier représentant du Printemps républicain au PS
+
+Sa candidature est portée sous les étiquettes "gauche républicaine, européenne, universaliste, laïque." La PaduTeam identifie la filiation : Laurent Bouvet, fondateur du Printemps républicain, dont la femme Astrid Panosian-Bouvet était ministre macroniste (propositions : supprimer des semaines de congé payé). Guedj est aujourd'hui l'héritier désigné de cette ligne à l'intérieur du PS : "c'est sa ligne."[^bouvet-guedj]
+
+### La proportionnelle comme programme de classe
+
+Guedj défend la proportionnelle contre la 5e République. La PaduTeam démonte : dans un parlement à 5 blocs à ~15-20 % chacun, la proportionnelle oblige les forces radicales à s'allier avec le bloc central. Elle produit 50 ans de politique allemande — SMIC dérisoire, baisse de l'espérance de vie, retraite à 70 ans. "Ce qu'il appelle la vraie démocratie fait en sorte que toujours ça soit le bloc bourgeois qui soit au pouvoir."[^proportionnelle-guedj] Guedj a aussi compris que la proportionnelle dilue l'espace LFI (qui gagne des circonscriptions populaires) tout en valorisant les 15 % du PS dilués géographiquement.
+
+### La fracture réelle avec LFI : islamophobie et soutien à Israël
+
+Guedj nomme sa fracture avec LFI sur "universaliste, laïque" — code pour deux refus : insuffisance d'islamophobie et refus du soutien à Israël. Pour la PaduTeam, ces deux critères le rapprochent "très fortement de la pire extrême droite de France, c'est-à-dire même le parti de Sarah Knafo et Éric Zemmour."[^fracture-guedj] La véritable fracture économique (doublement des franchises médicales, 8 jours de carence proposés par Moscovici, doublement des fortunes milliardaires, 20 % des enfants sous le seuil de pauvreté) n'est pas mentionnée par Guedj.
+
+### Paillasson de l'extrême droite
+
+La logique des CRA est décortiquée : les dispositifs préfascistes créés par des socio-traîtres (ICE par Obama, CRAs sous Hollande, présence massive à Nantes avec Johanna Roland) sont ensuite radicalisés par l'extrême droite. "Tu crois être un rempart mais tu es un paillasson pour l'extrême droite."[^paillasson-guedj]
+
+[^bouvet-guedj]: [4:41](https://www.youtube.com/watch?v=aKmS477MucE&t=281) — "Laurent Bouvet qui a infusé ses idées droitières soi-disant anti-indigéniste au PS et dont aujourd'hui Gage est vraiment le dernier représentant à l'intérieur du PS." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^proportionnelle-guedj]: [17:23](https://www.youtube.com/watch?v=aKmS477MucE&t=1043) — "Ce qu'il appelle la vraie démocratie fait en sorte que toujours ça soit le bloc bourgeois qui soit au pouvoir." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^fracture-guedj]: [27:15](https://www.youtube.com/watch?v=aKmS477MucE&t=1635) — "Ces deux critères là le rapprochent très fortement de la pire extrême droite de France, c'est-à-dire même le parti de Sarah Knafo et Éric Zemour." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+[^paillasson-guedj]: [8:52](https://www.youtube.com/watch?v=aKmS477MucE&t=532) — "Tu crois être un rempart mais tu es un paillasson pour l'extrême droite qui finira par arriver au pouvoir." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
 
 ## Vidéos où Guedj est analysé
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — reprend le lead PS à droite après la capitulation Faure ; retourne la responsabilité du 49.3 contre LFI ; dialecte de la "vision" vs la "posture" ; déclaré "lui-même un qualificatif" par la PaduTeam.
@@ -89,6 +115,7 @@ La PaduTeam note également que sa candidature à la présidentielle le fait qua
 - [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] — Trajectoire PRS/PG/NUPES ; trahison politique de 2008 ; démontage de l'accusation sur l'article 7 ; fausse comparaison Mitterrand/Guevara ; stratégie de sortie par Gaza
 - [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]] — Cité dans le pôle anti-Mélenchon qui se constitue autour de Glucksmann, Hollande et Delga.
 - [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Sur plateau France TV soir du second tour avec Tondelier : "met la pression" avec la ligne clarté anti-FI ; piège Tondelier avec ses propres déclarations sur Mélenchon ; déclaré "mort vivant" et promis à être grillé par le PS dès que la ligne Hollande sera totalement imposée. Mentionné comme présent aux événements parallèles organisés par Hollande avec Cazeneuve, assistant au "livre journal" de Laurent Joffrin avec Hollande, Cazeneuve et Aurore Laluc. Sa place dans la team cassoulet confirme sa ligne : "gauche réformiste" dont la raison d'être est l'opposition à LFI.
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Candidature présidentielle sans passer par la primaire ; rôle de second couteau pour Hollande ; "gauche républicaine" décryptée comme islamophobie codée ; proportionnelle comme programme de classe ; plan Hollande en étapes
 
 [^vote]: [35:16](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2116) — "la position insoumise, elle est tranchée par un vote du groupe insoumis"
 [^minorite]: [35:02](https://www.youtube.com/watch?v=5d_O04ofrhw&t=2102) — "il était sûrement d'accord avec les insoumis qui s'appelaient Clémentine Autain, Raquel Garrido, Daniel Simonet — ils étaient sûrement d'accord entre eux, mais pas avec d'autres insoumis"

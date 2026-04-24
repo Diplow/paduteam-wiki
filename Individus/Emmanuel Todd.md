@@ -3,6 +3,7 @@ type: individu
 domaine: [société, théorie]
 thèmes: [féminisme, démographie]
 aliases: [Tod, Emmanuel Tod]
+skill_version: write-video-2026-04-24
 date created: Wednesday, April 1st 2026, 6:39:41 pm
 date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
@@ -28,7 +29,9 @@ Todd est "un chercheur mais pas un trouveur" — il accumule des données de qua
 
 **Sur la natalité** : Todd identifie correctement des causes économiques à la baisse de natalité (logement, pouvoir d'achat, services de garde) mais y ajoute une explication culturaliste réactionnaire : le mouvement #MeToo et le mariage pour tous auraient accéléré la chute de fécondité depuis 2016. La PaduTeam démonte cette thèse point par point — une grossesse dure 9 mois, une chute en 2016 implique des conceptions en 2015, bien avant la diffusion de #MeToo. Et il contredit lui-même sa thèse des modèles familiaux stables en prétendant que 2-3 ans de mobilisations féministes peuvent les abattre.
 
-**Sur le féminisme** : Todd refuse le concept de genre ("masque des réalités biologiques"), attaque le "néoféminisme" bourgeois en accusant ces femmes d'avoir mis de mauvaises idées dans la tête des femmes prolétaires — comme si les femmes prolétaires n'avaient pas constaté par elles-mêmes la violence masculine. Sa conclusion pratique : "faire la paix des genres" dans les classes populaires, ce qui est en réalité l'assujettissement demandé aux femmes. Il a écrit un livre entier sur le féminisme sans lire les féministes. Seul un homme blanc riche de 70 ans très bien éduqué peut se permettre ça.
+**Sur le féminisme** : Todd refuse le concept de genre ("masque des réalités biologiques"), attaque le "néoféminisme" bourgeois en accusant ces femmes d'avoir mis de mauvaises idées dans la tête des femmes prolétaires — comme si les femmes prolétaires n'avaient pas constaté par elles-mêmes la violence masculine. Sa conclusion pratique : "faire la paix des genres" dans les classes populaires — ce qui est en réalité l'assujettissement demandé aux femmes. "La paix qu'il appelle dans la famille, c'est l'assujettissement. C'est pas la paix, c'est la soumission." Il a écrit un livre entier sur le féminisme sans lire les féministes. Seul un homme blanc riche de 70 ans très bien éduqué peut se permettre ça.
+
+**La structure sujet/objet révélée par ses titres** : Todd a publié *Où en sommes-nous ?* (sous-titré "brève esquisse de l'histoire humaine") puis *Où en sont-elles ?* (sur les femmes). La différence de pronom est révélatrice. Dans le premier, "nous" inclut les femmes comme matière secondaire, et c'est "l'humanité" guidée par des hommes comme lui. Dans le second, les femmes sont un "elles" — objet d'étude extérieur. Il y a un sujet (l'humanité masculine) et un objet (les femmes étudiées). C'est révélateur de pourquoi il peut écrire sur le féminisme sans lire les féministes : il se place naturellement dans la position du sujet qui étudie l'objet.
 
 **Le mythe des prévisions** : l'image de Todd grand prophète repose sur une seule prévision (chute de l'URSS). La PaduTeam revendique plus de prévisions réussies depuis le [[Graphique]] que Todd.
 

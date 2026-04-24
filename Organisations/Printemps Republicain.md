@@ -24,10 +24,18 @@ La PaduTeam souligne que le "problème islamophobe spécifique" n'est **pas venu
 
 Ces milieux se disaient anti-Le Pen et pour le "cordon sanitaire" tout en portant la même islamophobie culturaliste. La jonction avec le RN est ainsi devenue structurellement facile.
 
+## Infusion dans le Parti Socialiste
+
+Laurent Bouvet, fondateur du Printemps Républicain, a selon la PaduTeam "infusé ses idées droitières soi-disant anti-indigéniste au PS." [[Jerome Guedj]] est désigné comme "le dernier représentant" de cette ligne à l'intérieur du PS. La femme de Bouvet, Astrid Panosian-Bouvet, était ministre du travail macroniste — ce qui illustre la continuité pratique entre le milieu PR, l'aile droite du PS et le macronisme.[^bouvet-infusion]
+
+[^bouvet-infusion]: [4:41](https://www.youtube.com/watch?v=aKmS477MucE&t=281) — "Laurent Bouvet qui a infusé ses idées droitières soi-disant anti-indigéniste au PS et dont aujourd'hui Gage est vraiment le dernier représentant à l'intérieur du PS c'est sa ligne." — dans [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]]
+
 ## Figures associées
 - [[Caroline Fourest]] — figure du féminisme islamophobe
+- Laurent Bouvet — fondateur, auteur de l'infusion dans le PS
 - Raphaël Enthoven — philosophe médiatique, posture anticléricale anti-islam
 - Emmanuel Valls — trajectoire du PS à la laïcité culturaliste
+- [[Jerome Guedj]] — dernier représentant de cette ligne au PS (2026)
 
 ## Relation aux autres organisations
 - [[Rassemblement National]] — convergence pratique malgré la rhétorique de cordon sanitaire
@@ -42,3 +50,4 @@ Dans la liste [[Emmanuel Gregoire]] aux municipales parisiennes 2026, le Printem
 ## Vidéos où l'organisation est analysée
 - [[FROM TROTSKISTE TO RACISTE]] — Identifiée comme représentante de la matrice 2 (bourgeoisie anticléricale) qui converge avec la droite réactionnaire pour taper sur les musulmans
 - [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]] — Prise de pouvoir dans la liste Grégoire selon le témoignage de Coffin ; agressivité contre les luttes féministes et antiracistes au sein du conseil de Paris
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Filiation Bouvet → Guedj comme dernier représentant au PS ; connexion Panosian-Bouvet / macronisme

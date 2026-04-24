@@ -37,8 +37,13 @@ Pourquoi ne pas rejoindre [[Sophia Chikirou]] (LFI), pourtant au coude à coude 
 
 La PaduTeam ironise sur le tableau de photo : "le seul truc rouge hein, c'est la veste de Brossat sur l'image — il s'est dit je vais mettre un truc rouge parce que là c'est trop à droite quand même."
 
+## Vers la confédération Vallaud (fév. 2026)
+
+Dans [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]], la PaduTeam prédit que Brossat sera l'un des profils PCF qui rejoindra la confédération Vallaud plutôt que d'aller vers la FI. Raisons : son alliance avec [[Emmanuel Gregoire]] (PS) pour les municipales de Paris trace déjà ce chemin — "c'est un chemin pour aller se rallier à Vallaud." La PaduTeam nuance sa sympathie pour Brossat ("j'arrive pas à le détester") en le comparant à [[Léon des Fontaines]] : Brossat est sincèrement attaché à l'héritage du PCF, moins purement opportuniste, mais son unionisme finit au même endroit — la subordination au PS. "Boutiqué du parti communiste" plutôt que boutiqué pour sa gueule, mais résultat identique.
+
 ## Vidéos où Brossat est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Venu à Bram à la place de Roussel, successeur probable, ligne unioniste, candidature à la mairie de Paris
 - [[GLUCKSMANN ET TONDELIER S'ENGUEULENT AUTOUR D'UN CASSOULET !!!]] — Analyse plus approfondie : sa présence à Bram vs absence de Roussel est "très significatif", défend parfois LFI contre les accusations d'antisémitisme (stratégie intelligente pour un candidat à la mairie de Paris), ligne plus cohérente électoralement que Roussel
 - [[LE RN ET LA DROITE ATTAQUENT LES COMMUNISTES ET LEURS 100 MILLIARDS DE MORTS]] — Cité pour sa déclaration sur les victimes du communisme en France
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Alliance PCF-PS-Verts à Paris votée à 77 % des adhérents ; analyse de la stratégie gamelle contre la logique de rupture ; ironie sur la veste rouge dans un accord trop à droite.
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Prédit comme profil PCF susceptible de rejoindre la confédération Vallaud ; son alliance avec Grégoire (PS) est déjà un chemin ; la PaduTeam le différencie de Léon des Fontaines (sincèrement attaché au PCF vs pur opportunisme) mais conclut au même résultat.

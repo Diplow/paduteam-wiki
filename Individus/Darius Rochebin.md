@@ -18,3 +18,4 @@ Journaliste LCI. Interviewe [[Jordan Bardella]] sur les droits de douane de Trum
 
 ## Vidéos où Rochebin est mentionné
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — interview où Bardella s'effondre face aux questions sur les droits de douane
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — La PaduTeam réagit à son interview avec Retailleau sur LCI, où Retailleau expose son programme (retraites, assurance chômage, tronçonnage de l'État)

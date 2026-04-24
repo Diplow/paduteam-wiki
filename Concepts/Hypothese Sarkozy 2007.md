@@ -34,9 +34,18 @@ Si Bardella choisit la trahison (stratégie Chirac 74), le scenario Sarkozy 2007
 
 Conséquence pour la gauche : le bloc Retailleau laisse de l'espace à une "gauche molle à la [[Raphael Glucksmann]]" plutôt qu'à [[Jean-Luc Melenchon]], reconfigurant le paysage vers un bipartisme américain (droite dure vs centre-gauche atlantiste) plutôt que vers le clivage "eux/nous" recherché par la PaduTeam.
 
+## L'hypothèse mise en action : Retailleau candidat (fév. 2026)
+
+L'annonce de candidature de [[Bruno Retailleau]] constitue la mise en application concrète de l'hypothèse. Il ne fait pas de primaire — il arrive seul, comme Sarkozy arrivait seul. Il se différencie de [[Marine Le Pen]] en la traitant de "socialiste", ciblant précisément l'électorat libéral-raciste (l'aile Zemmour). Son programme est littéralement le même que Sarkozy 2007 : travailler plus, réformer les retraites, réformer l'assurance chômage.
+
+La PaduTeam donne l'objectif chiffré de Retailleau : faire 25-26% pour descendre le RN à 17-18%, reproduisant le rapport 31% (Sarkozy) / 10% (Le Pen) de 2007. Mais dans le contexte de [[Moisation]] achevée, ce calcul est "précrise capitaliste" — ils ne pourront faire que 16-17%.
+
+Le rôle de [[Eric Ciotti]] complique le scénario : en rejoignant le RN, il a ancré l'électorat raciste-libéral dans le giron Bardella/Le Pen. Si Bardella reste avec Le Pen et Siotti aussi, l'espace Retailleau est beaucoup plus étroit qu'espéré.
+
 ## Vidéos
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Analyse fondatrice du rôle de Sarkozy comme initiateur de la stratégie (Buisson 2007) et comme parrain actif de sa réplication par Retailleau/Bardella en 2025 ; dîner officiel Bardella/Sarkozy comme première étape de la reconstitution du bloc
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]] — Version aggravée post-condamnation Le Pen ; Bardella devant le choix trahison/loyauté ; scénario Retailleau-Philippe au 2e tour
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Identification du risque que le RN perde des plumes en jouant la droite respectable
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Retailleau comme incarnation de l'hypothèse Sarkozy : donne des gages à l'extrême droite depuis l'intérieur du pouvoir, paraît "nouveau" et crédible vs Wauquiez trop marqué establishment
 - [[LENA SITUATIONS et JEAN-FRANCOIS COPE sont-ils VRAIMENT FRERISTES]] — Version islamophobie : Copé comme signe qu'une fraction de la droite envisage un concordat avec l'électorat musulman conservateur plutôt que la surenchère islamophobe ; stratégie identique à Sarkozy 2007 pour capter classes populaires musulmanes (artisans, commerçants)
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — Mise en application directe : candidature sans primaire, label "socialiste" sur Le Pen, programme Sarkozy bis, objectif 25-26% ; complication via le ralliement de Ciotti au RN

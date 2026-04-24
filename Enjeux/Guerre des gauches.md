@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-24
+skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -439,6 +439,48 @@ La fin novembre 2025 concentre trois événements qui, lus ensemble, marquent la
 
 **La bifurcation hollandiste.** Le [[Neokeynesianisme]] PS est une "bifurcation du néolibéralisme" — faible, insuffisante, condamnée à décevoir. Mais c'est une bifurcation réelle. Et si LFI ne propose pas une bifurcation plus radicale (nationalisations, [[Theorie moderne de la monnaie|MMT]], sortie de l'ordre monétaire néolibéral), le PS prendra le lead et LFI sera la gauche d'accompagnement. La stratégie optimale pour LFI n'est pas de débunker la Taxe Zucman mais de la dépasser : reprendre des moyens de production, sortir de la dépendance aux banques privées, affirmer que la dette française est le montant cumulé des intérêts payés depuis la sortie de Bretton Woods dans les années 70.
 
+### 33. La fausse neutralité médiatique comme militantisme anti-LFI structurel — W07 2026
+
+[[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] fournit l'analyse la plus précise d'un mécanisme de guerre des gauches propre à l'espace médiatique : la fausse neutralité comme position politique active. [[Clement Viktorovitch]] se revendique "analyste du discours" et non journaliste politique — position qui lui permet de cibler systématiquement la FI tout en affirmant ne pas prendre parti.
+
+La PaduTeam démonte la structure idéologique sous-jacente : Viktorovitch est idéaliste libéral. Pour lui, le discours façonne le réel — donc les mauvais effets politiques (montée du RN, fascisation) viennent de "mauvaises pratiques rhétoriques" (la conflictualisation de Mélenchon, le "langage de guerre"). La PaduTeam lui oppose la 2e Thèse sur Feuerbach : "les philosophes n'ont fait qu'interpréter le monde de différentes manières, il s'agit maintenant de le transformer." Le fascisme monte parce que le capitalisme est en crise et que les classes populaires sont abandonnées — pas parce que Mélenchon dit "ami/ennemi".
+
+La PaduTeam formule le mécanisme central : "tu te sens les mains propres mais en fait tu t'es sali les mains au nom de tous les autres."[^gdg_viko] Quiconque analyse la politique sans nommer la lutte des classes joue mécaniquement en faveur des dominants — la neutralité prétendue est conservatrice par construction. Cette logique est identique à celle documentée dans [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] : la cause personnaliste (Bolloré, Macron, la rhétorique de Mélenchon) est mise au service de la défense du centre contre la gauche de rupture.
+
+### 34. Le fer à cheval activé sur l'affaire Deranque : l'État comme orchestrateur — W08 2026
+
+[[QUI A VRAIMENT TUE QUENTIN DERANQUE]] et [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] forment une double analyse du même événement : la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis]], instrumentalisée pour opérer une équivalence LFI/fascisme dans la guerre des gauches.
+
+La PaduTeam nomme la mécanique "alerte noisette" : "les extrêmes poussent à la violence de rue et Némésis et la France insoumise c'est pareil. Et le RN et Renaissance c'est pareil."[^gdg_deranque] C'est la [[Theorie du fer a cheval]] en action — activer l'équivalence des extrêmes pour sauver le centre. La PaduTeam démontre que cette mécanique est produite par l'État lui-même : les renseignements territoriaux étaient informés depuis plusieurs jours du happening Némésis devant Sciences Po Lyon, aucun dispositif policier n'a été déployé. Laisser faire pour pouvoir équipoler.
+
+[[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent tous les trois le drame pour classer la FI à "l'extrême gauche." Ce classement n'est pas rhétorique — le ministère de l'Intérieur ([[Laurent Nunez]]) range officiellement la FI à "l'extrême gauche" pour les municipales, alors que le programme FI est évalué par la PaduTeam comme "à droite du programme PS de 1980." La guerre des gauches utilise la mort comme arme de repositionnement institutionnel.
+
+La réponse PaduTeam est la [[Prophetie du 2002 inverse]] : cette diabolisation était prédite et fait partie du plan. Elle ne doit pas amener la FI à se modérer — "si tu es diabolisé mais que tu as le même programme que des candidats non diabolisés, les gens ne voient aucune raison de voter pour toi." La réponse à la diabolisation est la radicalité du programme, pas le repositionnement centriste.
+
+### 35. Garrido = Brutus : la trahison depuis l'intérieur — W08 2026
+
+[[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] introduit une figure nouvelle dans la guerre des gauches : [[Raquel Garrido]] comme Brutus interne, différente des noisettes extérieures (Tondelier, Ruffin, Glucksmann) qui n'ont jamais été FI. Garrido était "la famille" — quelqu'un que Mélenchon appelait ainsi. "C'est vraiment Brutus et César quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants."[^gdg_garrido]
+
+La PaduTeam distingue deux types de traîtres dans la guerre des gauches : les noisettes structurelles (dont la trajectoire est produite par leur espace de classe) et les traîtres subjectifs (dont la trahison est un choix calculé à partir d'un espace de classe partagé). Garrido appartient à la seconde catégorie — elle essaie de tuer la FI "de l'intérieur" en présentant Mélenchon comme le problème de la FI, avec la légitimité de l'ancienne militante. Cela la rend plus dangereuse que Glucksmann.
+
+Ce schéma avait déjà été documenté dans [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]] mais la séquence Deranque marque un seuil : Garrido utilise la mort d'un militant d'extrême droite pour attaquer LFI depuis sa position d'ex-membre. La PaduTeam l'appelle "honte."
+
+### 36. La moïsation de la noisette PS : Vallaud exécute Faure — W08 2026
+
+[[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] documente l'accélération décisive du casse-noisette côté PS : Boris Vallaud, "fidèle de Hollande depuis toujours", exécute politiquement Olivier Faure et fait sauter la primaire démocratique au sein du PS. Ce n'est pas un accident de parcours — c'est l'Acte 2 du plan Hollande tel que la PaduTeam l'avait reconstitué (voir enjeu [[Plus jamais PS]]).
+
+La mort de la primaire PS est analysée comme un accélérateur de moïsation : elle contraint les noisettes qui espéraient "s'unir dans une primaire ouverte" à choisir leur camp. Celles qui ne peuvent pas rejoindre la FI (Tondelier, Ruffin) deviennent des satellites du PS-Vallaud, confirmant leur dépendance structurelle. La PaduTeam voit dans cette séquence la confirmation que le PS ne veut pas d'union démocratique mais d'absorption — une confédération "non-mélenchoniste" sous leadership hollandiste.
+
+Le résultat attendu : non pas l'élimination des noisettes mais leur satellisation autour du pôle PS, offrant en apparence une "union de la gauche" qui cache une domination PS-Hollande. Face à ça, la seule réponse est un pôle FI suffisamment fort pour que la moïsation ne fonctionne pas en faveur du centre-gauche mais en faveur de la gauche radicale.
+
+### 37. Le récit blanc/non-blanc comme arme de la guerre des gauches — W07 2026
+
+[[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]] documente une arme spécifique de la guerre des gauches : la fabrication d'un récit racial ("les blancs votent PS, les non-blancs votent FI") pour invisibiliser la classe comme ligne de fracture et remplacer l'analyse matérialiste par un clivage identitaire.
+
+La PaduTeam procède à une démolition statistique : Hidalgo à 2% dans les villes rurales contre Mélenchon à 19% ; le mythe selon lequel le PS serait le parti des classes populaires blanches est démenti par les données. Cette démolition a une portée stratégique dans la guerre des gauches : le PS ne peut pas prétendre représenter les classes populaires tout entières si ses scores réels dans ces classes sont catastrophiques.
+
+Le "poison raciste" du récit blanc/non-blanc est identifié comme doublement dangereux : il divise le sujet révolutionnaire potentiel selon des lignes qui servent le [[Pacte raciste]] (les blancs populaires "rationnels" préférant le RN face aux non-blancs "identitaires" votant LFI) ; et il offre au PS un alibi pour ne pas faire de politique de classe ("nous ne parlons pas aux bons publics"). La réponse PaduTeam : les femmes rurales comme classe révolutionnaire potentielle, invisible dans les analyses de gauche parce que ni urbaines, ni ethniquement visibles, ni syndiquées.
+
 ## Vidéos clés
 - [[GLUCKSMANN NE CHOISIT PAS ENTRE MELENCHON ET LE PEN]] — mécanique du casse-noisette en temps réel : Glucksmann resserre son côté de la noisette ; la guerre des gauches comme préalable nécessaire à la victoire de 2027 ; double contrainte du report au second tour comme bonne nouvelle structurelle
 - [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — sociologie réelle de L'Après (vieux, masculin, blanc) ; Garrido aux abois ; démocratie interne comme écran de fumée ; utilité tactique de Bad Mulch pour révéler la vraie nature des faux-unitaires
@@ -549,6 +591,17 @@ Le batch W11-W14 (mars-avril 2026) produit l'analyse la plus complète de l'effo
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Festival Noisette de Bram : Hollande/Glucksmann/Tondelier/PCF sans FI = lancement officieux fédération Hollande ; Tondelier catastrophique sur le capitalisme à L'Humanité ; Boris Vallaud se positionne comme arbitre discret
 - [[RETAILLEAU LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRESIDENTIELLE]] — Retailleau = Sarkozy 2007 confirmé ; stratégie miroir de Glucksmann ; fenêtre Mélenchon intacte malgré la consolidation à droite ; espérance de vie en bonne santé 63 ans vs retraite 67 comme donnée centrale
 - [[ALAIN DUHAMEL DECRYPTE GLUCKSMANN MELENCHON ET BARDELLA]] — journalisme de cour comme instrument de la guerre des gauches : Glucksmann traité en "candide" poli, Bardella comme "incarnation de sa génération" démontée (les jeunes votent Mélenchon) ; clan médiatique népo comme nomenklatura qui structure le débat sans analyse de rapport de force
+- [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — fausse neutralité médiatique comme militantisme anti-LFI structurel ; idéalisme libéral vs matérialisme historique (2e Thèse sur Feuerbach) ; "tu te sens les mains propres mais en fait tu t'es sali les mains au nom de tous les autres" ; dépolitisation comme conséquence mécanique de l'analyse personnaliste du fascisme
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — théorie du fer à cheval activée sur l'affaire Deranque ; "alerte noisette" comme mécanique d'équivalence LFI/Némésis ; LFI a les mains propres ; l'État comme orchestrateur passif de la confrontation (renseignements informés, aucun dispositif déployé)
+- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]] — diabolisation comme étape prédite par le Graphique ; Garrido = Brutus depuis l'intérieur ; classement officiel FI à "l'extrême gauche" par Nunez ; la réponse à la diabolisation est la radicalisation du programme, pas le repositionnement ; prophétie du 2002 inversé confirmée
+- [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Acte 2 du plan Hollande : Vallaud exécute Faure, la primaire démocratique disparaît ; moïsation de la noisette PS accélérée ; satellisation des noisettes (Tondelier, Ruffin) autour du pôle Vallaud-Hollande ; confédération "non-mélenchoniste" comme projet d'absorption
+- [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]] — démolition statistique du mythe PS populaire (Hidalgo 2% rural, Mélenchon 19%) ; récit blanc/non-blanc comme arme de division du sujet révolutionnaire ; femmes rurales comme classe révolutionnaire invisible ; "poison raciste" du clivage identitaire comme alibi du PS pour ne pas faire de politique de classe
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Tondelier "cloue les deux mains à la table" de Rousseau : verrouillage de la primaire noisette ; confirmation de la dépendance structurelle des noisettes écolo au pôle PS-Vallaud ; Rousseau comme figure de la noisette piégée entre LFI et le verrouillage de la primaire
+- [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Acte 1 du plan Hollande : Guedj comme outil de destruction de la primaire ; "gauche républicaine" comme code islamophobe pour exclure LFI sans l'affronter sur les classes ; paillasson de l'extrême droite sur l'immigration
+
+[^gdg_viko]: [15:42](https://www.youtube.com/watch?v=A3xTMnOQ4Dw&t=942) — "tu te sens les mains propres mais en fait tu t'es sali les mains au nom de tous les autres"
+[^gdg_deranque]: [23:11](https://www.youtube.com/watch?v=2lojw09EHRw&t=1391) — "on va être dans l'alerte noisette [...] les extrêmes poussent à la violence de rue et Némésis et la France insoumise c'est pareil. Et le RN et Renaissance c'est pareil"
+[^gdg_garrido]: [42:19](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=2539) — "C'est vraiment Brutus et César quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants quoi."
 
 ## Les municipales mars 2026 : recomposition de la guerre des gauches
 

@@ -27,3 +27,4 @@ La PaduTeam formule la critique directement : "pourquoi quand on parle des petit
 - [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] — critique directe du débat de janvier 2026 avec les syndicats patronaux ; liste des organisations invitées ; question sur l'absence des syndicats de salariés
 
 [^syndicats]: [1:02:52](https://www.youtube.com/watch?v=-LxOG_3Mvm0&t=3772) — "pourquoi quand on parle des petites et moyennes entreprises, c'est pas plutôt les représentants des salariés qu'on invite ?"
+- [[CHAPOUTOT DETRUIT MARIANNE EN LIVE ILS SE VENGENT]] -- cite comme preuve de la derivation militante de Chapoutot selon Marianne

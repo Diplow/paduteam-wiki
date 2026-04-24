@@ -52,8 +52,13 @@ Or l'auteur (Taleb al-Abdulmohsen) est un apostat saoudien réfugié en Allemagn
 
 Le mécanisme de sélection par le profil du suspect s'effondre ici complètement — l'auteur est précisément la figure que l'extrême droite défend (apostat, antimusulman, pro-Occident). La récupération survient quand même, en ignorant délibérément le profil réel. La PaduTeam nomme ce cas une "complicité idéologique" — pas juridique, mais réelle : ceux qui ont nourri la conviction que "la paix ne sert à rien" et que l'État islamise l'Europe ont alimenté la radicalisation de l'auteur.
 
+## Variante : récupération d'un mort d'extrême droite contre la gauche
+
+L'affaire Quentin Deranque (2026) illustre une variante du mécanisme : [[Collectif Nemesis|Némésis]] récupère non plus une victime "de la violence immigrée" mais un de ses propres militants morts lors d'une rixe qu'elle a elle-même provoquée, pour accuser la gauche de rupture ([[France Insoumise]], [[La Jeune Garde]]). La logique est identique : nommer des responsables avant les faits établis, circuler dans les médias, construire un portrait victimaire. Différence : cette fois la victime est un militant néonazi, et même l'[[Action Francaise]] reconnaît que c'est Némésis qui l'a mis en danger.
+
 ## Vidéos où le concept est développé
 
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — analyse principale : harcèlement de la sœur, sélection par profil du suspect, statistiques homicides
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — FdeSouche utilise l'affaire Cotino pour attaquer la PaduTeam sans s'intéresser aux vraies solutions
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — cas limite : récupération d'un attentat d'extrême droite islamophobe en argument anti-immigration, alors que l'auteur partage le logiciel idéologique de ses récupérateurs
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — variante : récupération d'un militant néonazi mort en rixe pour accuser LFI ; le portrait victimaire est démontage par les affiliations réelles de Quentin

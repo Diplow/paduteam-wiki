@@ -53,6 +53,14 @@ La condamnation relance la question tactique pour [[Bruno Retailleau]] : faire u
 
 [^sarko-cond]: [28:54](https://www.youtube.com/watch?v=zMo6F5Iuwjk&t=1734) — "ça va pas être dans la pierre cellule partagée machin et tout. Je pense que ça va être au final 3 ans de prison ou 2 ans et demi [...] il va sortir rapidos avec un bracelet"
 
+## Sarkozy 2007 comme matrice du projet Retailleau
+
+Le parallèle Sarkozy 2007 / Retailleau 2027 est central dans l'analyse de la candidature de [[Bruno Retailleau]]. Retailleau essaie de refaire le "Sarkozy bis" : reconstituer un bloc de 25-26% en fractionnant le RN, comme Sarkozy avait fait 31% en descendent Le Pen père à 10%. Mais la PaduTeam souligne que ce n'est pas l'original : là où Sarkozy "faisait 30-35% en 2007-2012", Retailleau ne pourra faire "que 16-17%", parce que la [[Moisation]] est achevée et que les gens préféreront aller voter directement pour les pôles consolidés (RN ou LFI) plutôt que pour une tentative de centre-droite reconstituée[^sarko-2007].
+
+Le programme de Retailleau ("travailler plus", réforme des retraites, réforme de l'assurance chômage) est identifié comme littéralement le même discours que Sarkozy en 2007 : "Je te promets là, c'est Sarkozy 2007 ce gars. C'est le même discours."
+
+[^sarko-2007]: [9:49](https://www.youtube.com/watch?v=U0N868hjOPw&t=589) — "C'est vraiment du SarkoZi bis qu'il essaie de refaire. Tout comme le PS essaie de refaire du Holland Beast [...] ils vont faire 16 17%"
+
 ## Vidéos où l'individu est analysé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme référence de la "fillonisation" : Sarkozy en 2017 a été humilié par Juppé puis Fillon en revenant dans la course primaire. Hollande subira le même sort face à Vallaud.
 - [[Faut-il en finir avec le NFP]]
@@ -60,3 +68,4 @@ La condamnation relance la question tactique pour [[Bruno Retailleau]] : faire u
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Sarkozy comme parrain de la droite, inaugurateur de la Moisation via Buisson, faiseur de roi indispensable pour l'union des droites
 - [[SARKOZY CONDAMNE A 5 ANS DE PRISON FERME]] — condamnation pénale ; justice de classe obligée de sauver les apparences ; analogie Al Capone ; réaction de Sarkozy (complot) ; analyse tactique pour Retailleau
 - [[CNEWS PLEURE POUR UN CRIMINEL]] — la réaction de CNews à sa condamnation ; nostalgie sarkozyste comme cœur idéologique de l'empire Bolloré ; électeurs RN qui se réjouissent de sa chute (le traître)
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — "Sarkozy 2007 bis" : Retailleau reprend le même programme mais dans un contexte de moïsation achevée où il ne peut faire que 16-17% là où Sarkozy faisait 30-35%

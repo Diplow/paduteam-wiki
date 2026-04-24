@@ -134,6 +134,11 @@ Conclusion PaduTeam : il est "en train de jouer le deuxième tour en oubliant le
 
 [^bardella-gel]: [08:57](https://www.youtube.com/watch?v=ukGofdDhUmk&t=537) — "il veut qu'on paye 2,50 € tu sais mais sans que ça rapporte d'argent à l'État. Ça a aucun sens quoi."
 [^bardella-medef]: [15:09](https://www.youtube.com/watch?v=ukGofdDhUmk&t=909) — "parler au MEDEF, ça n'a aucun intérêt quand tu n'as pas un bloc social."
+## Parallèle avec Ruffin — une différence de degrés
+
+La PaduTeam compare le binôme Bardella/Le Pen au binôme Mélenchon/Ruffin — avec une différence cruciale : Ruffin s'est vraiment barré de LFI et a rejoint le giron du PS (soutient des candidats PS en primaires). Bardella lui, est encore dans l'appareil du RN et peut encore espérer des choses à l'intérieur. "Même s'il y a deux lignes au rassemblement national [...] ces deux lignes se sont vraiment séparées avec quelqu'un qui a quitté l'appareil qui est Ruffin alors que de l'autre côté les deux essaient d'avoir le pouvoir sur l'appareil à l'intérieur du Rassemblement national."[^bard-ruffin] Il est donc en position de force relative : [[Bruno Retailleau]] doit faire un travail "beaucoup plus dur" pour le capter que quelqu'un qui attendrait Ruffin en dehors.
+
+[^bard-ruffin]: [2:34](https://www.youtube.com/watch?v=U0N868hjOPw&t=154) — "Bardella lui, est encore dans le giron du Rassemblement national et peut encore espérer des choses à l'intérieur du Rassemblement national [...] même s'il y a deux lignes au rassemblement national"
 
 ## Vidéos
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — longfall : blocage des prix refusé (Venezuela/Cuba), alliance LR contre LFI, prestation télé catastrophique sur la récupération politique ; "Jospin 2002" qui prépare le second tour et oublie le premier
@@ -158,3 +163,4 @@ Conclusion PaduTeam : il est "en train de jouer le deuxième tour en oubliant le
 - [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — tweet de condoléances qualifiant l'attentat d'"islamiste" alors que l'auteur est un apostat affilié à l'AFD ; complicité idéologique désignée
 - [[LECORNU DEJA CENSURE]] — effacement de Bardella dans la séquence Lecornu II
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Programme libertarien Milei (réduction agences, ARS, fonctionnaires) opposé à la ligne Le Pen ; gages au MEDEF ; contre-budget 23 oct. 4 milliards ; mélonisme en acte (c'est Le Pen qui prend les devants, "on l'a très peu vu") ; tension ligne Bardella (non-bordéliser, droite de gouvernement) vs ligne Marine/Tanguy (opposition frontale) ; la PaduTeam diagnostique que ce double jeu est intenable à terme
+- [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — Différence avec Ruffin : Bardella encore dans l'appareil RN, en position de force relative ; scénario de ralliement à Retailleau comparé à Chirac 1974 trahissant Chaban-Delmas ; risque de finir comme Gabriel Attal (premier ministre exploité puis éjecté)

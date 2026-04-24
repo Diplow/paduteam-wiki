@@ -21,5 +21,10 @@ En utilisant "antifrance", Bergé mobilise inconsciemment (ou non) le vocabulair
 ## Figures clés
 - [[Charles Maurras]] — fondateur, idéologue du nationalisme intégral
 
+## Rôle dans l'affaire Quentin Deranque
+
+Dans l'analyse PaduTeam, l'[[Action Francaise]] a elle-même reconnu que [[Quentin Deranque]] — un de ses membres — avait été "mis en danger" par [[Collectif Nemesis|Némésis]], qui l'a qualifié de "groupe judéo-serv". Ce point est clé : l'organisation d'extrême droite la plus directement liée à Quentin accuse Némésis, pas la FI. Mais c'est la FI qui est ciblée médiatiquement.
+
 ## Vidéos où l'Action Française est citée
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]]
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — Paradoxe de l'affaire Deranque : l'AF reconnaît que Némésis a mis en danger leur propre militant

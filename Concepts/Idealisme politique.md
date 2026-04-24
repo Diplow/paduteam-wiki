@@ -52,8 +52,15 @@ L'analyse idéaliste laisse les gens désarmés : "Macron a trahi, tu as l'impre
 
 Résultat : il fait de l'"antimacronisme" avec "7 ans de retard" sur les gilets jaunes, produit le même type d'analyse que des affiches "Micron explosion" sur Facebook, mais avec "tout un appareillage un peu scientifique."
 
+## L'idéaliste libéral : "choisir après avoir argumenté"
+
+Le corollaire pratique de l'idéalisme politique est une certaine conception de la méthode : il existerait une façon neutre de "bien raisonner" en politique, et en suivant cette méthode on arriverait au seul "vrai choix réaliste." La PaduTeam formule le renversement matérialiste directement, en référence à la 2e Thèse sur Feuerbach : "la question de savoir s'il y a lieu de reconnaître à la pensée humaine une vérité objective n'est pas une question théorique mais une question pratique." En politique, "choisir d'abord et argumenter ensuite" — pas l'inverse. Le libéral croit en une raison politique universelle ; le matérialiste sait qu'il choisit d'abord son camp de classe, puis construit ses arguments pour défendre ce camp et convaincre d'autres.
+
+Cette position implique aussi une asymétrie de discipline : en période de conflit actif (génocide à Gaza, guerre pour encercler la Chine, campagne électorale), on ne critique pas en public ses alliés — même si la critique serait fondée à froid. Critiquer Maduro pendant 1 minute et Trump pendant 1 minute, c'est objectivement ne faire entendre que la critique de Maduro dans un environnement médiatique déjà saturé d'anti-Maduro. L'idéaliste confond équanimité personnelle et équité structurelle.
+
 ## Vidéos où le concept est développé
 
+- [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — application en campagne électorale : la "minute égale" comme mensonge structurel, défense des institutions bourgeoises (presse, parquet) comme entités neutres, 2e Thèse sur Feuerbach citée directement ; logique libérale ("argumenter d'abord") vs logique matérialiste ("choisir d'abord")
 - [[VIKTOROVITCH VS PADUTEAM QUI ANALYSE MIEUX LA MONTEE DU FASCISME]] — développement central : Viktorovitch comme cas d'école, inversion cause/conséquence sur le RN et Bolloré, dépolitisation pratique, positivisme du débunking
 - [[TONDELIER RETOURNE ENCORE SA VESTE]] — Tondelier comme cas d'idéalisme politique appliqué à la guerre des gauches : elle pense que le concept de "gauches irréconciliables" *a causé* les divisions — pas que les divisions existent parce que deux groupes sociaux ont des conditions matérielles d'existence différentes. En déduire que Mélenchon défend la Palestine uniquement pour faire foirer la primaire : exemple d'inversion cause/conséquence.
 

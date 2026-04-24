@@ -39,10 +39,12 @@ Reconquête a "enfin compris que Zemmour était une baudruche" et opère une bas
 
 ## Délabrement organisationnel
 Aux élections européennes 2024, Reconquête avait fait élire 5 eurodéputés. 4 d'entre eux ont quitté le parti depuis[^rec1]. À deux mois des municipales parisiennes (mars 2026), Knafo n'a pas encore de colistiers et lance un appel public sur un site ("jsuiscandidat.fr") où des contributeurs racistes ont rapidement envahi la plateforme, obligeant à la fermer. La PaduTeam : "ils ont été obligés de fermer le truc parce que c'était trop voyant que c'était un parti de nazis."
-
 [^rec1]: [51:08](https://www.youtube.com/watch?v=kJgGc2z0INg&t=3068) — "Quand ils ont fait élire cinq personnes aux européens, il y en a quatre qui sont partis du parti. C'est-à-dire qu'ils se sont fait baiser quatre députés européens sur 5"
+## Robots et bottes algorithmiques
+La PaduTeam souligne que les contenus Knafo sont "hyper poussés par l'algorithme" mais que les interactions sous les posts sont principalement des comptes bots — mêmes photos de profil, mêmes formulations. Au moment du vote réel, cela ne se traduit pas : Reconquête est régulièrement "donné à 9-10" dans les sondages et fait 7 %. "Les bottes ne votent pas."
 
 ## Vidéos où l'organisation est analysée
 - [[Faut-il en finir avec le NFP]]
 - [[SARAH KNAFO PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN]] — Bilan électoral complet, analyse de la bascule Zemmour→Knafo, agenda médiatique vs réalité électorale
 - [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Délabrement organisationnel : 4 eurodéputés partis sur 5, absence de colistiers à J-2 mois, site participatif fermé pour contenus racistes
+- [[SARAH KNAFO LA BOURGEOISE HORS SOL S ENFONCE DANS LE RIDICULE]] — Épisode pass navigo comme révélateur de classe ; surperformance électorale à Versailles, Saint-Tropez, Neuilly ; bots sur les réseaux sociaux

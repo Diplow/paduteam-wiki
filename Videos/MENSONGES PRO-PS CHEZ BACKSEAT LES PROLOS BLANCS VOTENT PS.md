@@ -6,6 +6,7 @@ enjeux: [plus-jamais-PS, union-populaire]
 date: 2026-02-14
 youtube_id: iXImwyHjrwM
 aliases: [MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]
+skill_version: write-video-2026-04-24
 date created: Wednesday, April 1st 2026, 5:56:45 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
@@ -63,3 +64,31 @@ La PaduTeam retrace le parcours de [[Lumir Lapray]] : originaire de l'Ain (rural
 
 ## Concepts mobilisés
 [[Guerre des gauches]], [[Graphique]], [[Plus jamais PS]], [[Bloc bourgeois]], [[Pacte egalitaire]], [[Pacte raciste]], [[Vote utile]], [[Moisation]], [[Proletarisation des cadres]], [[Gauche de rupture]], [[Neoliberalisme]], [[Pensee idealiste vs materialiste]], [[Strategie de bloc social]], [[Sujet collectif]]
+
+## Enjeux avancés
+
+- **[[Plus jamais PS]]** : démonstration statistique que l'électorat PS est structurellement bourgeois et résiduel — Hidalgo à 2 % en ruralité détruit le mythe du PS populaire rural. La campagne *Plus jamais PS* organisée par [[On ne veut plus]] est annoncée dans la conclusion, avec la soirée bilan du 20 février 2026 (intervenants : [[Stephane Palombarini]], [[Nicolas Da Silva]], [[Said Bouamama]]).
+
+- **[[Guerre des gauches]]** : la vidéo est un épisode clé de la bataille de récit pour 2027. Le mensonge de [[Lumir Lapray]] sur le vote rural est qualifié d'"intellectuel organique" du camp social-libéral. La PaduTeam anticipe que ce récit — "Mélenchon parle aux quartiers, pas aux campagnes blanches" — sera le cadre narratif de l'autre gauche pour la présidentielle.
+
+## Formulations marquantes
+
+- *"Le PS fait 2 %, donc c'est normal qu'il ne vienne pas nous dire c'est nous qui allons imposer notre programme. Tu fais 2 %, tu te tais et tu suis."*[^1]
+- *"Ce poison raciste : des classes populaires blanches qui votent anti-Mélenchon et des classes populaires non blanches qui voteraient Mélenchon parce que ce serait un islamogauchiste. C'est faux, archi faux."*[^2]
+- *"L'hégémonie se conquiert par l'adéquation à la vision du monde d'une classe sociale. On ne conquiert pas l'hégémonie sur une classe sociale simplement par la performance médiatique."*[^3]
+- *"Ces femmes qui tiennent tout le tissu social de la ruralité sont la classe révolutionnaire des campagnes."*[^4]
+- *"Enlevez vos lunettes de classe moyenne sup suréduquée, citadine, anti-Mélenchon qui trouve qu'il faut pas parler trop fort — ça vous fait dire des conneries."*[^5]
+
+[^1]: [08:46](https://www.youtube.com/watch?v=iXImwyHjrwM&t=526) — "Le PS fait 2 % donc c'est normal qu'il ne vienne pas nous dire c'est nous qui allons imposer notre programme. Tu fais 2 %, tu te tais et tu suis."
+[^2]: [20:08](https://www.youtube.com/watch?v=iXImwyHjrwM&t=1208) — "Ce poison raciste : des classes populaires blanches qui votent anti-Mélenchon, PS, Ruffin et cetera — et des classes populaires non blanches qui voteraient Mélenchon parce que ce serait un islamogauchiste. C'est faux, archi faux."
+[^3]: [38:17](https://www.youtube.com/watch?v=iXImwyHjrwM&t=2297) — "L'hégémonie se conquiert par l'adéquation à la vision du monde d'une classe sociale. On ne conquiert pas l'hégémonie sur une classe sociale simplement par la performance médiatique."
+[^4]: [1:15:26](https://www.youtube.com/watch?v=iXImwyHjrwM&t=4526) — "Ces femmes qui tiennent tout le tissu social de la ruralité sont la classe révolutionnaire des campagnes."
+[^5]: [36:43](https://www.youtube.com/watch?v=iXImwyHjrwM&t=2203) — "Enlevez vos lunettes de classe moyenne sup suréduquée, citadine, anti-Mélenchon — ça vous fait dire des conneries."
+
+## Lien embarqué
+
+[![MENSONGES PRO-PS CHEZ BACKSEAT : "LES PROLOS BLANCS VOTENT PS" !!](https://img.youtube.com/vi/iXImwyHjrwM/0.jpg)](https://www.youtube.com/watch?v=iXImwyHjrwM)
+
+## Transcript
+
+[[MENSONGES PRO-PS CHEZ BACKSEAT  LES PROLOS BLANCS VOTENT PS !!]]

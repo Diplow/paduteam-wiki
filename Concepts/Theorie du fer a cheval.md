@@ -30,5 +30,10 @@ Cette théorie est pour la PaduTeam une arnaque analytique et politique :
 ## Fonction idéologique
 La théorie du fer à cheval sert à préserver le [[Populisme bourgeois|populisme bourgeois]] macroniste comme "seule option raisonnable". En mettant LFI et RN dans le même sac, les médias imposent la narration : le seul vote qui ne soit pas "extrémiste" est le vote centriste. C'est une stratégie de maintien de l'hégémonie macroniste/néolibérale.
 
+## Activation après la mort de Quentin Deranque
+
+L'affaire Quentin Deranque (février 2026) est un cas d'école d'activation du fer à cheval par le centre. La PaduTeam anticipe : on va être dans "l'alerte noisette" — le centre dira "Némésis et la France insoumise c'est pareil, le RN et Renaissance c'est pareil, la jeune garde enfin bref". Objectif : faire apparaître le bloc bourgeois comme "le parti de l'ordre de la non-violence." La PaduTeam nomme cela une "stratégie pour survivre du centre des débris macronistes, des débris socialistes."
+
 ## Vidéos où le concept est analysé
 - [[LFI = RN POURQUOI LES MEDIAS ont 10 ANS DE RETARD sur le POPULISME]] — déconstruction systématique point par point
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — illustration concrète de l'activation du fer à cheval par le centre après un événement violent

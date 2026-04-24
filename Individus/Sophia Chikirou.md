@@ -54,6 +54,8 @@ La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des mu
 - [[Gerard Miller]] — dirigeait Le Média au moment du litige
 
 ## Vidéos où Chikirou est analysée
+- [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — La PaduTeam défend Chikirou contre l'attaque Viktorovitch/Mediapart : contentieux de 60 000 € vieux de 8 ans, réglé entre parties, ressort à quelques semaines des municipales ; décryptage de l'"emballage médiatique" ; défense de sa position sur la Chine (pas une dictature au sens libéral) ; démonstration que Viktorovitch "fait la campagne d'Agrégoire."
+- [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Mentionnée comme cible des tractations PS-Renaissance à Paris : «le PS préfère perdre Paris plutôt que de mettre Chikirou à la tête de Paris» ; analyse du double bind en cas de victoire PS-Renaissance (LFI dit «on vous l'avait dit») ou de défaite (PS blâme LFI).
 - [[PROCES CHIKIROU JUSTICE OU MANIPULATION]] — Lawfare en 3 étapes : timing politique, relais presse progressiste, amplification extrême droite ; disproportion des 67 000 € ; cas d'école de l'offert contre une candidate LFI en campagne.
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Avant les municipales : base de 30 % (Mélenchon 2022) sous-estimée par les sondages ; prescriptions stratégiques (mesures logement, modèle Mamdani) ; figure de "Zoran Mamdani" parisienne face au front PS-Verts-PCF.
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Signal avant les élections : des cadres écologistes parisiens (Menier, Glaise) quittent l'alliance PS pour rejoindre sa liste, malgré les sondages à 10 %. La PaduTeam y lit la preuve que ces élus voient le rapport de force réel et choisissent leur camp.
