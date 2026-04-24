@@ -23,3 +23,4 @@ LVMH est mis en cause dans le documentaire *Merci Patron* de [[Francois Ruffin]]
 
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
 - [[TAXE ZUCMAN 2% C'EST DEJA TROP POUR BERNARD ARNAULT]] — [[Bernard Arnault]] comme PDG de LVMH face à la [[Taxe Zucman]] ; la PaduTeam souligne que sans Arnault "LVMH ça tournerait aussi" — ce sont les salariés qui produisent la valeur
+- [[LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME]] — LVMH a dû intervenir pour modérer les dépenses d'[[Helene Mercier Arnault]] lors du gala des pièces jaunes de Brigitte Macron, jugées "potentiellement abusives" pour le groupe

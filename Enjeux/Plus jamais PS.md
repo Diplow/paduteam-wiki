@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
+skill_version: write-enjeu-2026-04-24-enrichi-w15-w16
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -235,6 +235,16 @@ La PaduTeam étend parfois la critique au-delà du PS pour viser toute organisat
 La vidéo [[ROUSSEL trouve RETAILLEAU TROP MOU]] radicalise le diagnostic : après les violences post-PSG, Roussel tient mot pour mot le même discours sécuritaire que Retailleau (peur insuffisante de la police, durcissement des peines) sans aucune analyse des causes matérielles de la violence. Diagnostic PaduTeam : le PCF ne fait plus la distinction entre force policière et protection populaire, abandonnant le terrain ouvrier pour courir après un électorat de droite qui ne votera jamais pour lui. La PaduTeam prédit que le PCF fera "moins de 2%" à la présidentielle et présente l'[[Union pour la Reconstruction Communiste]] comme l'embryon du communisme de masse nécessaire.
 
 La PaduTeam distingue cependant Roussel du PS : "Le PS a au moins la dignité de fermer sa gueule. On ne voit pas Faure aller sur CNews dire le racisme antiblanc."
+
+## Roussel refuse l'offre Bompard et contribue au pacte raciste (W15-W16 2026)
+
+[[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] (avril 2026) constitue la démonstration la plus complète à ce stade que Roussel est "agent du PS, conscient ou non."
+
+**Le refus de l'offre Bompard comme confirmation de stratégie.** [[Manuel Bompard]] propose une offre fédérative claire : se ranger derrière le candidat FI à la présidentielle = accord automatique aux législatives 2027 ; pas d'accord présidentiel = pas d'accord législatif. Roussel refuse. Ce refus confirme la ligne : exister en tapant sur LFI, ménager le PS pour préserver les alliances locales, "draguer les vieux riches" positionnés en haut à droite du [[Graphique]]. Sa stratégie de campagne consiste à attaquer la FI sur la forme (antisémitisme présumé, style Mélenchon) tout en ménageant le PS — soit exactement ce que [[Francois Hollande]] attendrait d'un allié.
+
+**La tribune du Monde comme contribution au pacte raciste.** La PaduTeam lit la tribune de Roussel dans *Le Monde* comme un discours "color blind" structurellement identique au [[Pacte raciste]] : accuser Mélenchon de "catégoriser les citoyens en fonction de leur couleur de peau" et de "fragmenter le corps social en identités concurrentes" sont exactement les termes que Marine Le Pen utilisera pour attaquer Mélenchon lors de la campagne présidentielle. La PaduTeam formule la prophétie : "Vous verrez ces mots-là, exactement les mêmes termes, dans la bouche de Marine Le Pen." En les prononçant en premier depuis la gauche, Roussel ouvre et valide le registre pour l'extrême droite.
+
+**L'électorat PCF comme électorat de retraités propriétaires.** Donnée structurante : les électeurs de Roussel sont majoritairement dans le coin haut-droite du Graphique — superposables sociologiquement à l'électorat [[Eric Zemmour|Zemmour]]. Deux projets de nostalgie différents (France salarié ouvrier vs France blanche), mêmes classes. Ce diagnostic invalide définitivement l'utilité du PCF-Roussel pour la gauche de rupture : ses voix ne viennent pas des classes populaires, elles ne reviennent pas à Mélenchon au second tour (~47% seulement), et elles maintiennent des gens "qui veulent pas voter Mélenchon de toute façon" dans un espace politique de droite.
 
 ## L'affrontement avec Glucksmann comme enjeu tactique principal
 La PaduTeam distingue "affrontement principal" (tactique) et "contradiction principale" (structurelle). La contradiction principale, c'est avec le capitalisme et la réaction. Mais tactiquement, **l'affrontement principal est avec la gauche molle** — Glucksmann, le PS — pour "faire de l'hégémonie" sur ce que doit être la gauche. C'est du "billard à trois bandes" : gagner la bataille idéologique à gauche pour maximiser le bloc de gauche, afin que ce bloc soit majoritaire dans les consciences quand vient la contradiction principale (le 2e tour).

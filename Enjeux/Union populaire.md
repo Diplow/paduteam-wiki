@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
+skill_version: write-enjeu-2026-04-24-enrichi-w15-w16
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -62,6 +62,24 @@ Padu et Chris appellent à porter la "conflictualité" directement dans les terr
 Trois conditions sont nécessaires : (1) refuser la peur de la diabolisation — comme Le Pen imposait ses thèmes au RPR, Mélenchon doit imposer des thèmes de rupture (32h, nationalisation du crédit immobilier, retraite à 60 ans) que ni PS ni RN ne peuvent reprendre ; (2) un programme suffisamment radical pour que PS et macronistes le refusent au 1er tour, les piégeant au second (captifs entre Bardella et Mélenchon) ; (3) des États généraux convoqués sur la base du Graphique — 5000 personnes tirées au sort selon la structuration de classe réelle (30% ouvriers, 20% employés…), représentation nationale matérialiste en contraste avec la hiérarchie politique.
 
 La cartographie analogique complète : Le Pen 2002 → Mélenchon 2027 / Chirac → Bardella ou Marine Le Pen / Jospin → Boris Vallaud / Bayrou → Édouard Philippe / Chevènement → Villepin / Mamère → écolos / Gluckstein → Anasse Kazib ou NPA / Mégret → Zemmour.
+
+## L'offre Bompard comme seule voie fédérative viable (W15-W16 2026)
+
+[[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] (avril 2026) formule la stratégie fédérative LFI dans sa version la plus directe.
+
+**L'offre Bompard comme test de sérieux.** [[Manuel Bompard]] propose aux noisettes une offre claire : se ranger derrière le candidat LFI à la présidentielle = accord automatique pour les législatives 2027 ; refuser cet accord présidentiel = pas d'accord législatif. L'offre n'est adressée ni au PS ni à Glucksmann — seulement à EELV et au PCF. La PaduTeam valide sans réserve : "c'est notre ligne déjà." C'est la seule architecture fédérative cohérente : construire l'union populaire autour du candidat qui occupe l'espace des classes populaires, pas autour d'un consensus flou entre espaces de classe incompatibles.
+
+**Le refus de Roussel comme preuve empirique que la noisette ne peut pas fédérer.** Roussel refuse l'offre. Ce refus confirme la thèse : le PCF sous Roussel ne cherche pas à faire gagner la gauche de rupture. Son électorat (retraités propriétaires, haut-droite du [[Graphique]], superposable à Zemmour) n'alimente pas le bloc populaire — il le dilue. Les 2,3% de Roussel en 2022 "ne sont pas des voix volées à LFI" : ce sont des gens qui ne voulaient pas voter Mélenchon de toute façon. L'offre Bompard a le mérite de clarifier : la FI n'a pas besoin de ménager les noisettes, elle peut les forcer à choisir leur camp.
+
+## La fragmentation droite en 2027 comme condition favorable à l'union populaire
+
+[[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]] et [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] (avril 2026) documentent la fragmentation structurelle de la droite — condition nécessaire au scénario "2002 inversé."
+
+**La droite incapable de se rassembler.** [[David Lisnard]], [[Jordan Bardella]], [[Marine Le Pen]], [[Edouard Philippe]] occupent des espaces distincts sans base commune. La PaduTeam avait prédit cette configuration : "ils seront plusieurs parce qu'ils seront incapables de se mettre d'accord sur une vision du monde et un programme." Le programme et la vision du monde partagés permettent à LFI de choisir son candidat secondairement — c'est l'inverse pour la droite, condamnée à la dispersion.
+
+**Bardella joue le deuxième tour avant le premier.** La normalisation glamour (Paris Match, Maria Carolina de Bourbon) et le lobbying patronal (dîner Le Pen/Arnault) aliènent l'électorat populaire RN sans capter le bloc bourgeois, qui préférera des candidats plus légitimes. La PaduTeam prédit un score Bardella inférieur à 20% s'il est candidat. Chaque point perdu par Bardella est une chance supplémentaire pour Mélenchon de qualifier au second tour.
+
+**L'union populaire assume soutenir tactiquement Lisnard.** La PaduTeam assume explicitement : "go David Lisnard, on est derrière toi. On veut que tu ailles taper tes 4%." Cette tactique n'est pas une contradiction — c'est la logique du 2002 inversé appliquée : la gauche a intérêt à ce que la droite soit la plus fragmentée possible au premier tour.
 
 ## La moïsation validée par le mainstream — et ses effets sur l'union populaire
 

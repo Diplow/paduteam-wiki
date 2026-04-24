@@ -126,6 +126,29 @@ Stéphane Peu (GDR), lui, adopte une position bien différente et plus énervée
 [^roussel-victoire]: [28:27](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1707) — Roussel : « La suspension de la réforme des retraites à 62 ans 9 mois 170 trimestres est une première victoire pour les 500 000 salariés qui en profiteront de cette année. »
 [^roussel-silence]: [28:57](https://www.youtube.com/watch?v=6zj8SkKVQ9s&t=1737) — « Je vous propose que nous fassions tous après cette vidéo, chacun chez nous, une minute de silence en l'hommage à tous les camarades communistes qui sont encore au parti communiste français et qui doivent se taper ce mec comme chef. »
 
+## L'offre Bompard refusée et la stratégie anti-LFI 2027 (avril 2026)
+
+[[Manuel Bompard]] propose une offre fédérative claire : se ranger derrière la FI à la présidentielle = accord automatique pour les législatives 2027. L'offre est adressée au PCF et à EELV — pas au PS. Roussel la refuse. La PaduTeam : "on l'avait dit dès le départ qu'il irait tout seul."[^roussel-bompard]
+
+Sa stratégie de campagne se dessine : taper sur LFI sur la forme (style Mélenchon, "antisémitisme") tout en préservant les alliances législatives avec le PS. Il refuse de demander aux militants quel candidat au second tour entre Retailleau et Mélenchon — question pourtant fondamentale. Il est accusé de faire monter l'extrême droite : Le Pen tiendra "exactement le même discours sur Mélenchon" que Roussel.
+
+La PaduTeam formule le tableau : "François Hollande est content d'entendre Fabien Roussel. Je pense qu'il lui a passé un petit coup de fil en disant merci Fabien, tu es vraiment mon meilleur allié."[^roussel-hollande]
+
+## Le "color blind" comme pacte raciste : la tribune du *Monde*
+
+[[Stefano Palombarini]] exhume une tribune de Roussel dans *Le Monde*. Roussel y accuse LFI de "catégoriser les citoyens en fonction de leur couleur de peau, de leur religion pour en faire des objets politiques" et de "fragmenter le corps social en identités concurrentes."
+
+La PaduTeam qualifie ce discours de **"color blind"** — identique aux discours Twitter de 2019 qui disaient "parler de racisé divise les gens." Fonctionnellement, c'est le même discours que celui du [[Pacte raciste]] : un "commun abstrait" dont les luttes contre l'islamophobie et l'antiracisme seraient exclues. La PaduTeam fait la prophétie : "Vous verrez ces mots-là, exactement les mêmes termes, dans la bouche de Marine Le Pen pour attaquer Mélenchon quand elle sera candidate."[^roussel-lepen]
+
+Distinction centrale : le [[Contrat racial]] (Mills) est inconscient ; le pacte raciste est conscient, un projet politique. Roussel, en disant que les luttes des camarades musulmans et noirs "ne font pas partie du commun", fabrique du pacte raciste.
+
+Verdict : "Honte à Roussel, honte à cette tribune, honte à des gens qui se disent antiracistes et qui reflètent cette tribune car elle est profondément attachée au pacte raciste."[^roussel-honte]
+
+[^roussel-bompard]: [2:05](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=125) — "La proposition de Manuel Bompard, ça a été de dire 'Bah, nous on propose une offre fédérative, vous vous rangez derrière le candidat Jean-Luc Mélenchon ou le candidat de la FI.'"
+[^roussel-hollande]: [21:14](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=1274) — "François Hollande est content d'entendre Fabien Roussel tenir ce discours. Je pense que j'espère que il lui a passé un petit coup de fil après l'interview en lui disant 'Merci Fabien, tu es vraiment mon meilleur allié, tu es vraiment mon gars sûr.'"
+[^roussel-lepen]: [34:44](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=2084) — "Vous verrez ces mots-là, exactement les mêmes termes dans la bouche de Marine Le Pen pour attaquer Mélenchon quand elle sera candidate. Notez-le bien, je fais la prophétie là."
+[^roussel-honte]: [44:31](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=2671) — "honte à Roussell, honte à cette tribune, honte à des gens qui se disent antiracistes et qui reflètent cette tribune car elle est profondément attachée au pacte raciste contre l'antiracisme véritable."
+
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
@@ -144,3 +167,4 @@ Stéphane Peu (GDR), lui, adopte une position bien différente et plus énervée
 - [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] — « Bouffon des noisettes » : se félicite de la suspension partielle des retraites comme d'une « première victoire » alors que GDR a voté la censure. PaduTeam : une minute de silence pour les camarades qui doivent le subir comme chef.
 - [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]] — Mentionné comme responsable de la nomination de [[Cecile Cukierman]] comme porte-parole en 2018 ; la "team rapprochée de Roussel" incarne la déchéance théorique de la direction PCF.
 - [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — Le slogan "parti du travail" disséqué comme convergence avec la rhétorique sarkoziste et pétainiste ; Cukierman comme incarnation de la stratégie rouselliste d'adaptation à la "conscience réelle" au lieu de battre la conscience de classe.
+- [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] — Refuse l'offre Bompard ; électorat PCF = vieux riches superposables à Zemmour sur le Graphique (tous deux électorats de nostalgie) ; tribune *Le Monde* analysée comme discours color blind = pacte raciste ; prophétie : Le Pen dira la même chose que Roussel contre Mélenchon.

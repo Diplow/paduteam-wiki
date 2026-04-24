@@ -57,6 +57,12 @@ La vidéo [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] ajoute un
 
 Les "Robinsonades" (Marx) constituent l'envers du fétichisme : croire qu'il existait un temps où chacun maîtrisait de A à Z son environnement de production est aussi une fable libérale que de croire que la marchandise a une valeur autonome.
 
+## Fétichisme libéral comme religion naturelle
+
+La vidéo sur Lisnard ajoute une formulation particulièrement nette : [[Jean-Marc Sylvestre]] affirme que "le libéralisme n'est pas une construction intellectuelle comme le marxisme. Le monde a été créé ainsi." La PaduTeam commente : "ces gens-là ont tué Dieu, enfin le dieu historique des religions pour en faire un nouveau [...] l'appel à la religion n'est jamais fait pour être vendu comme une construction sociale. Personne nous dit 'Croyez en Dieu, c'est une construction sociale.' Non, justement Dieu est là pour être naturel." Le libéralisme comme religion naturelle, c'est le fétichisme de la marchandise à l'état pur.[^sylvestre]
+
+**Application électorale :** [[Sardoche]] achète des actions [[David Lisnard|Lisnard]] sur Polymarket, pointe la courbe montante comme preuve de popularité, sans voir qu'il en est lui-même la cause. "Ces gens qui confondent les causes et les conséquences, qui ne comprennent pas que la courbe est la résultante de leurs actions, qui croient juste se soumettre au dieu la courbe des tendances." Le même mécanisme que pour la bourse, appliqué aux sondages électoraux.[^poly]
+
 ## Vidéos
 - [[Nicolas qui paye]] — Application à la figure du cadre qui croit se faire tout seul
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Lien entre fétichisme, accumulation du capital et aliénation bourgeoise ; la fonctionnarisation comme sortie du fétichisme
@@ -71,8 +77,11 @@ Les "Robinsonades" (Marx) constituent l'envers du fétichisme : croire qu'il exi
 - [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]] — [[Badmulch]] comme cas d'école du fétichisme libéral : vision des individus isolés produisant chacun un bien et s'échangeant via des coquillages (le mythe du 18e siècle). Il "ne voit pas que c'est la différence entre l'hôpital public et une clinique privée."
 - [[On ANALYSE le PIRE PHILOSOPHE dans un TEAM BUILDING de MANAGERS]] — Distinction aliénation/abrutissement ancrée dans le fétichisme : la séparation du producteur de son travail et de son produit est la définition même de l'aliénation, qui "ne se ressent pas, elle se conceptualise"
 - [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] — personnification de l'industrie comme agent intentionnel ("les industries vous mentent") ; les Robinsonades comme envers du fétichisme ; ATR comme cas d'école du fétichisme de la marchandise appliqué à l'écologie
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — le libéralisme naturalisé comme "religion" chez Sylvestre ; fétichisme électoral via Polymarket (Sardoche qui confond cause et conséquence de la courbe Lisnard)
 
 [^5]: [31:51](https://www.youtube.com/watch?v=d3Bx2Z4dpmw&t=1911) — "ce n'est pas le pétrole en soi qui porte l'extraction d'énergie — c'est le monde moderne capitaliste, les rapports sociaux — c'est typiquement le fétichisme de la marchandise de Jankovici de croire que le pétrole en lui-même porte l'extraction énergétique"
 [^6]: [3:37](https://www.youtube.com/watch?v=oJJjXM92mjs&t=217) — "c'est vraiment la fétichisation de la marchandise. Normalement, le ticket est juste un rapport social [...] à la fin c'est fétichisé. Les mecs, ils comptent les tickets sans se poser la question de ce qu'il y a derrière."
 [^7]: [7:43](https://www.youtube.com/watch?v=oJJjXM92mjs&t=463) — "le communisme il va pas s'imposer simplement [...] parce qu'il était plus progressiste ou plus moral ou plus égalitaire. Non c'est aussi que c'est un mode de production qui va faire mieux le boulot."
 [^8]: [41:39](https://www.youtube.com/watch?v=m-tDWzrPgg0&t=2499) — "Ça n'existe pas les sociétés où les gens s'assoient par terre et attendent jusqu'à ce qu'ils meurent. [...] La société capitaliste a fabriqué ça. Des gens qui pensent que si on ne les stimule pas par de l'argent, de la monnaie et de la concurrence, la société tourne toute seule sans eux."
+[^sylvestre]: [44:30](https://www.youtube.com/watch?v=G_D7VLi26ko&t=2670) — "Ces gens-là ont tué Dieu, enfin le dieu historique des religions pour en faire un nouveau. [...] c'est un dieu horrible qu'ils ont créé parce que c'est un dieu qui tous les jours s'abat sur ta gueule quoi. Le dieu libéral."
+[^poly]: [50:10](https://www.youtube.com/watch?v=G_D7VLi26ko&t=3010) — "Le fétichisme de la marchandise, c'est des gens, voyez, qui confondent les causes et les conséquences, qui ne comprennent pas que la courbe est la résultante de leurs actions, qui croient juste se soumettre au dieu la courbe des tendances et donc que la courbe agit toute seule et que eux ne font que y répondre."

@@ -330,6 +330,21 @@ Position centrale sur la [[Justice transformatrice|réhabilitation]] : deux cond
 
 **Le fétichisme de la marchandise comme révélateur de classe.** Les sacs Hermès achetés à Dubaï représentent 40 mois de salaire de la nourrice ougandaise. La PaduTeam mobilise le concept marxiste de [[Fetichisme de la marchandise]] : la marchandise cache les rapports sociaux de production qui l'ont rendue possible. Acheter un sac Hermès à Dubaï, c'est consommer le rapport de subalternisation qui a permis d'en avoir les moyens — sans que ce rapport soit visible dans la transaction.
 
+## Le congé fausse couche comme paradigme du féminisme bourgeois — W15 2026
+
+[[TONDELIER ENCEINTE ELLE POLITISE (MAL) SA GROSSESSE]] fournit la démonstration la plus directe de la différence entre féminisme bourgeois et féminisme matérialiste sur le terrain concret des droits sociaux.
+
+La proposition de loi sur le congé fausse couche est analysée comme un cas d'école de la **logique des droits particuliers** : au lieu de l'universalité des droits (arrêts de travail corrects pour tous, sans jours de carence), on crée un droit catégoriel pour les femmes. Résultat : on enferme les femmes dans leur statut de femme pour qu'elles puissent accéder à quelque chose que tout corps non-performant devrait avoir de droit. La migraineuse, le maçon avec tendinite, la personne en poussée de maladie de Crohn n'y auraient pas droit.
+
+La thèse générale : **la grossesse n'est pas une exception féminine, c'est un cas particulier du [[Validisme du travail capitaliste]]**. Le capitalisme normalise le corps performant et traite comme anomalie tout corps qui "dévie" — malade, enceinte, vieux, handicapé. La vraie politique féministe n'est pas de créer des droits de compensation pour les anomalies féminines. C'est d'exiger que la non-performance normale soit reconnue comme normale pour tous.
+
+Le contrepoint positif : la PaduTeam formule une thèse sur la conquête révolutionnaire des femmes. En démontrant que le corps féminin est irréductiblement multiple (grossesse, règles, post-partum, ménopause), les femmes prouvent que "la normalité c'est la multitude et non pas l'uniformité" — et ouvrent ainsi un possible universel pour tous les corps qui résistent à la normalisation capitaliste.[^fem-multitude]
+
+La critique de Tondelier est aussi un diagnostic politique : elle fait de la politique par **empathie individuelle**, pas par pensée du collectif. Elle voit les femmes et veut les aider — rapport asymétrique aidant/aidé qui maintient les structures sans les transformer. "L'empathie, ça fait jamais de la bonne politique, paradoxalement, parce que c'est toujours un rapport asymétrique."[^fem-empathie] La même logique que les chèques énergie ciblés — gérer la pénurie, pas produire l'abondance.
+
+[^fem-multitude]: [1:01:40](https://www.youtube.com/watch?v=bPvVHaMzt7k&t=3700) — "Les femmes apportent une révolution au monde [...] La normalité c'est la multitude et non pas l'uniformité."
+[^fem-empathie]: [53:56](https://www.youtube.com/watch?v=bPvVHaMzt7k&t=3236) — "L'empathie, ça fait jamais de la bonne politique, paradoxalement, parce que c'est toujours un rapport asymétrique."
+
 ## Todd et la natalité : quand le démographe abandonne le matérialisme — W07 2026
 
 [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] fournit la critique la plus développée de l'argument démographique réactionnaire habillé en science sociale. [[Emmanuel Todd]] avance la thèse que la baisse de la natalité vient du féminisme — et la PaduTeam lui oppose une thèse symétrique et inverse : "parce que les féministes n'ont pas été assez communistes, nous sommes dans une merde aujourd'hui."[^todd_communiste]
@@ -402,5 +417,6 @@ Le corollaire dans la guerre des gauches : le récit PS selon lequel LFI serait 
 - [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — distinction subalternisation/exploitation (Sara Farris) ; nourrice ougandaise à 700€/mois séparée de ses enfants = subalternisation économique mondiale ; fémonationalisme comme externalisation de la subalternisation domestique vers la périphérie ; Dubaï comme "pure occidentalité périphérique" ; sacs Hermès = 40 mois de salaire de la nourrice = fétichisme de la marchandise en acte
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]] — retournement de la thèse Todd : "parce que les féministes n'ont pas été assez communistes, nous sommes dans une merde aujourd'hui" ; matérialisme démographique sans marxisme = naturalisation des comportements sociaux ; Scandinavie la plus féministe = natalité la plus haute ; [[Famille nucleaire patriarcale en crise]] comme conséquence du refus de l'exploitation non rémunérée, pas d'une régression
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]] — femmes rurales comme classe révolutionnaire invisible (ni urbaines, ni syndiquées, ni ethniquement visibles) ; cumul exploitation double journée + précarité territoriale ; le récit blanc/non-blanc comme invisibilisation du sujet révolutionnaire réel
+- [[TONDELIER ENCEINTE ELLE POLITISE (MAL) SA GROSSESSE]] — congé fausse couche démoli comme féminisme bourgeois par droit particulier ; grossesse comme cas du validisme capitaliste vs universalité des droits ; empathie individuelle vs pensée du collectif ; conquête féminine comme moteur d'un universel des corps multiples ; Lukacs et réification cités ; données : 1 femme sur 20 morte en couche sans médecine moderne
 
 [^todd_communiste]: [54:19](https://www.youtube.com/watch?v=nWck0GgPnxw&t=3259) — "parce que les féministes n'ont pas été assez communistes, nous sommes dans une merde aujourd'hui"

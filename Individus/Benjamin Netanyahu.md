@@ -44,6 +44,19 @@ Lors de la chute d'Assad, Netanyahou se rend en personne à la frontière syrien
 
 [^netanyahu_syrie]: [34:30](https://www.youtube.com/watch?v=QN89GVrV0u8&t=2070) — "on a vu aussi des vidéos de Netanyahu qui s'est rendu à la frontière syrienne qui disait que c'est un grand jour pour le Moyen-Orient"
 
+## Netanyahu comme architecte de la guerre Iran-US (2026) et saboteur du cessez-le-feu
+
+La vidéo [[GUERRE IRAN-US TRUMP HEGEMONIE]] apporte la documentation la plus précise sur le rôle actif de Netanyahu dans le déclenchement de la guerre. Le 11 février 2026, dans la Situation Room, il présente un scénario en quatre actes : tuer le guide suprême, détruire l'armée iranienne, déclencher une révolution populaire, installer un nouveau régime. Il montre une vidéo de montage IA avec les "futurs dirigeants" iraniens. Trump répond "Sounds good to me." La CIA, Rubio, JD Vance et le général Kane savent tous que c'est du vent — mais personne ne dit non franchement à Trump.[^bibi_war]
+
+Une fois le cessez-le-feu obtenu, Netanyahu reprend délibérément les bombardements au Liban (200 morts, 500 blessés en 24h), forçant l'Iran à refermer le détroit d'Ormuz. L'objectif est clair : maintenir la guerre pour maintenir son pouvoir. "Ce n'est pas une erreur de Trump, c'est la stratégie de Netanyahu."
+
+La PaduTeam formule une analogie de classe : Netanyahu joue le rôle du directeur des opérations qui sait que le PDG (Trump) est un crétin, lui fabrique des slides PowerPoint, lui fait croire que c'est son idée, et avance sa propre carrière. "C'est littéralement ce qui se passe dans n'importe quelle boîte."[^bibi_slides]
+
+La PaduTeam anticipe : Netanyahu devrait "finir comme Milozevic et ses lieutenants — Radovan Karadzic." Elle réclame explicitement le gel de ses avoirs, l'application du mandat d'arrêt CPI. Vance et Rubio pourraient l'utiliser comme bouc émissaire après les midterms.
+
+[^bibi_war]: [27:59](https://www.youtube.com/watch?v=A198m2MhnL0&t=1679) — "Netanyahou a vendu un rêve. Le 11 février dans la situation room. Le premier ministre israélien a présenté un scénario en quatre actes. Tuer le guide suprême, détruire l'armée iranienne, déclencher une révolution populaire, installer un nouveau régime."
+[^bibi_slides]: [35:13](https://www.youtube.com/watch?v=A198m2MhnL0&t=2113) — "Bibi il sait très bien ce que c'est. Tu as le PDG, c'est un débile mais c'est lui [...] Lui il est directeur des opérations Bibi [...] il fabrique des slides PowerPoint, il lui fait croire que c'est son idée."
+
 ## Vidéos où Netanyahu est analysé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]]
@@ -56,3 +69,4 @@ Lors de la chute d'Assad, Netanyahou se rend en personne à la frontière syrien
 - [[MEYER HABIB ET NETANYAHU INSURGENT LA CPI EST ANTISEMITE]] — Réaction au mandat d'arrêt ; discours de "suprémisme zinin" selon la PaduTeam
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Avancée sur le Golan post-Assad, stratégie d'expansion via le chaos syrien
+- [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Netanyahu comme architecte du déclenchement de la guerre, saboteur délibéré du cessez-le-feu, future cible de Trump comme bouc émissaire

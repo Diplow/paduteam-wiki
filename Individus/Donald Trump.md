@@ -144,6 +144,17 @@ La PaduTeam résume la situation géopolitique : Trump "reculé sur le Groenland
 [^davos_trump]: [26:28](https://www.youtube.com/watch?v=m_yowJv-TVw&t=1588) — "Il a aussi affirmé que les États-Unis avaient payé 100 % de l'OTAN alors qu'il paye 16 % du budget de l'OTAN."
 [^davos_trump2]: [31:38](https://www.youtube.com/watch?v=m_yowJv-TVw&t=1898) — "il fait des menaces comme il n'a plus les moyens qu'on lui obéisse. Bah en fait les gens disent 'Ah bon ? Bah non.'"
 
+## Le bilan post-Iran : Trump finito, Netanyahu bouche-émissaire
+
+La vidéo [[GUERRE IRAN-US TRUMP HEGEMONIE]] documente le bilan complet après le cessez-le-feu. Trump "crie victoire" sur Truth Social mais a accordé à l'Iran le contrôle du [[Detroit d Ormuz|détroit d'Ormuz]] avec un péage de 2 millions de dollars par bateau (70-90 milliards $ annuels selon JP Morgan, soit 20% du PIB iranien). Il se comporte "comme le gars qui vient te voir, dit 'cède-moi toute ton entreprise', revient le lendemain et dit 'on n'a qu'à s'associer.'"[^iran3]
+
+Le New York Times révèle comment il a pris la décision : Netanyahu lui fait un slideshow le 11 février 2026, montre une vidéo IA des "futurs dirigeants de l'Iran", Trump répond "Sounds good to me." La CIA dit que c'est du vent, Rubio dit "In other words, it's bullshit", [[JD Vance]] s'oppose frontalement. Trump signe quand même — à bord d'Air Force One, 22 minutes avant la deadline.[^iran4]
+
+La PaduTeam anticipe qu'après les midterms, Vance et Rubio chercheront à faire porter le chapeau du fiasco à Netanyahu — Trump s'était fait élire comme "le président contre la guerre."
+
+[^iran3]: [16:05](https://www.youtube.com/watch?v=A198m2MhnL0&t=965) — "il y a des pro maga comme Cand et cetera qui commence à dire comme nous, ce type là fait n'importe quoi, il est en train de nous faire perdre la puissance dans le monde. Arrêtez-le 25e amendement"
+[^iran4]: [34:11](https://www.youtube.com/watch?v=A198m2MhnL0&t=2051) — "Trump a signé à bord Air Force One 22 minutes avant la deadline fixée par son propre général. 'Operation Epic Frey is up, no abort, good luck.'"
+
 ## Vidéos où Trump est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
@@ -155,3 +166,4 @@ La PaduTeam résume la situation géopolitique : Trump "reculé sur le Groenland
 - [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] — Discours Rubio Munich : le colonialisme sans masque
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Crise constitutionnelle Newsom, désagrégation de l'empire, contrat racial hispanique
 - [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Davos : 72 minutes d'erreurs factuelles, NASDAQ effondré, Trump "poisson hors de l'eau", acculé par la concurrence Macron pour les capitaux chinois
+- [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Bilan du cessez-le-feu : péage à Ormuz (70-90 Mds$/an pour l'Iran), fiasco révélé par le NYT, Netanyahu comme architecte de la guerre

@@ -43,6 +43,13 @@ La PaduTeam articule le néolibéralisme avec la question de la dette via un mé
 ## Opposition
 La stratégie de Mélenchon consiste à "marteler des positions en rupture avec le néolibéralisme" ([[Strategie Le Pen 2002]] inversée). Programme anti-néolibéral: 32h, SMIC à 2000€, nationalisation crédits immobiliers, 6e semaine congés pa
 
+## Libertarisme vs néolibéralisme : la distinction clé
+
+La PaduTeam distingue le **néolibéralisme réel** (savant, post-1938, qui utilise l'État pour fabriquer le marché) des **libertariens naïfs** comme [[David Lisnard]] ou [[Javier Milei|Milei]] qui veulent revenir au capitalisme du 19e siècle. Ces derniers "ne comprennent pas l'histoire économique même de leur tradition." Broyer le code de l'environnement ou la loi SRU, c'est détruire les instruments néolibéraux eux-mêmes — ceux qui permettent au marché d'éviter les crises de surproduction et l'implosion. "L'État est une nécessité absolue, même si ça les fâche, même si c'est une contrainte, il est comme l'air sous les ailes des oiseaux."[^lnl]
+
 ## Vidéos où le concept est développé
 - [[TRUMP EN GUERRE CONTRE LA CHINE VOICI POURQUOI]] — La "phase de clôture du néolibéralisme" : Trump essaie de sortir du néolibéralisme par le protectionnisme à l'ancienne, sans les outils de planification nécessaires. La Chine, elle, représente le seul modèle qui sort effectivement du néolibéralisme par la planification.
 - [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] — L'auto-entrepreneuriat comme politique de classe néolibérale ; le travail collectif rendu détestable pour pousser vers l'individualisme entrepreneurial ; données 71 % / 34 % sur l'aspiration entrepreneuriale des jeunes.
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — Distinction libertarisme naïf / néolibéralisme réel via le cas Lisnard ; le [[Congres Lippmann|Congrès Lippmann]] comme réponse à l'échec du laisser-faire ; Roosevelt et le New Deal comme preuve empirique que l'injection de capital public relance la machine.
+
+[^lnl]: [21:16](https://www.youtube.com/watch?v=G_D7VLi26ko&t=1276) — "L'État est une nécessité absolue, même si ça les fâche, même si c'est une contrainte, il est comme l'air sous les ailes des oiseaux. Il n'est pas ce qui contraint d'aller plus vite, il est ce qui permet simplement de voler."

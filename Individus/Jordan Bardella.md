@@ -140,7 +140,21 @@ La PaduTeam compare le binôme Bardella/Le Pen au binôme Mélenchon/Ruffin — 
 
 [^bard-ruffin]: [2:34](https://www.youtube.com/watch?v=U0N868hjOPw&t=154) — "Bardella lui, est encore dans le giron du Rassemblement national et peut encore espérer des choses à l'intérieur du Rassemblement national [...] même s'il y a deux lignes au rassemblement national"
 
+## Bel-Ami : l'arriviste qui monte par les femmes (avril 2026)
+
+Dans [[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]], la PaduTeam analyse la révélation publique du couple Bardella / [[Maria Carolina de Bourbon des Deux-Siciles]] (via Paris Match, appartenant à [[Bernard Arnault]]) comme un symptôme d'arrivisme social classique — référence directe au roman *Bel-Ami* de Maupassant.
+
+La trajectoire amoureuse de Bardella est lue comme une ascension calculée : fille de [[Frederic Chatillon]] (réseaux fascistes, premier ancrage), une nièce de [[Marine Le Pen]] (légitimité au sein de l'appareil RN), puis [[Maria Carolina de Bourbon des Deux-Siciles]] (noblesse européenne, réseaux mondains). "À chaque fois des meufs qui lui permettent d'avoir du pouvoir, de se présenter comme le mec d'eux."[^bardella-belami]
+
+Cette révélation éclaire aussi la stratégie de communication du RN pour 2027 : là où [[Emmanuel Macron]] cumulait en 2017 l'image glamour ET les déjeuners patronaux, le RN divise le travail — Bardella prend le glamour via Paris Match, [[Marine Le Pen]] prend le volet patronal en dînant avec une quinzaine des plus grands patrons français (dont [[Bernard Arnault]], Cyril Boloré, Paul Hermelin, dirigeants Total, Accor, NG, Renault). Première rencontre entre Arnault et le RN — Arnault "n'est pas con, il les rencontre pas quand ils ont pas de chances de passer."
+
+**L'erreur stratégique** : afficher une relation avec une héritière aristocratique et mondaine (scolarisée à domicile avec tutrice privée, Harvard en ligne, accidentée à moto à Monaco) aliène massivement l'électorat populaire du RN. La PaduTeam diagnostique que Bardella va "parler à une petite classe moyenne qui adore la civilisation française" (lectorat Stéphane Bern, Zemmour) — soit environ 8% de l'électorat — sans capter rien de compensatoire. Il "va perdre les ouvriers-employés" et "continuez comme ça, vous êtes en train de vous saborder vous-même."[^bardella-niche]
+
+[^bardella-belami]: [13:39](https://www.youtube.com/watch?v=k2JDCYqR5iU&t=819) — "Il a un devenir bel ami tu vois [...] C'est vraiment le gars qui essaie de monter dans la société et de devenir un bourgeois comme les autres quoi."
+[^bardella-niche]: [16:15](https://www.youtube.com/watch?v=k2JDCYqR5iU&t=975) — "il va parler à une espèce de petite classe moyenne qui adore la civilisation française [...] c'est 8 % de l'électorat et en plus il en captera rien."
+
 ## Vidéos
+- [[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]] — arrivisme Bel-Ami, stratégie glamour/patronat divisée avec Le Pen, erreur d'électorat noblesse vs populaire
 - [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Graphique de Chris : RN 2026 fait ~950 000 voix avec ~400 listes — stagnation absolue par rapport à 2014 (1 million de voix, 500+ listes), et ne capte que 12 % de son socle des européennes 2024. La PaduTeam explique pourquoi sa dérive libérale érode le "pacte raciste" qui faisait sa force : "ils étaient sociaux mais que pour les Français." Prédiction réitérée : "moins de 20 % si c'est lui le candidat."
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — longfall : blocage des prix refusé (Venezuela/Cuba), alliance LR contre LFI, prestation télé catastrophique sur la récupération politique ; "Jospin 2002" qui prépare le second tour et oublie le premier
 - [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — media training 133 000€ ; mécanisme de la nullité fonctionnelle ; narratif classe populaire démoli ; dilemme Chirac 74 vs Ségolène Royal du RN

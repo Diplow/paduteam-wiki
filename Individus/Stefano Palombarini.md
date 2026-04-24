@@ -22,3 +22,4 @@ Palombarini publie un tweet dans lequel il conclut qu'avec le mode de scrutin pr
 
 ## Vidéos où Palombarini est cité
 - [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L ANNEE]] -- Son tweet sur le scrutin préférentiel cité comme confirmation analytique que Tondelier est la gagnante prédésignée.
+- [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] -- A trouvé la tribune de Roussel dans *Le Monde* ; la PaduTeam la lit phrase par phrase comme preuve du discours color blind = pacte raciste de Roussel.
