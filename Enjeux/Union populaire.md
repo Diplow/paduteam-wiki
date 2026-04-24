@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, États-Unis, travail]
-skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
+skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
 date created: Thursday, April 2nd 2026, 1:07:41 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -400,3 +400,34 @@ La [[Moisation]] s'accélère : [[Michel-Edouard Leclerc]] et [[Thierry Breton]]
 [^up_diabol]: [07:44](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=464) — "Si tu es diabolisé mais que tu as le même programme que des candidats non diabolisés, les gens ne voient aucune raison de voter pour toi. Il faut que la diabolisation soit justifiée par un vrai programme de rupture."
 [^up_national]: [07:44](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=464) — "Ils ont raison d'avoir peur de nous et de nous diaboliser parce qu'on va nationaliser Orange, on va nationaliser les autoroutes, on va nationaliser tout un tas de gros agriculteurs pour avoir un pôle agricole français."
 [^gdg_garrido_up]: [42:19](https://www.youtube.com/watch?v=uxdDj_LCsA8&t=2539) — "C'est vraiment Brutus et César quoi. C'est vraiment les pires traîtres, c'est vraiment tes frères et tes enfants quoi."
+
+## Les municipales 2026 comme validation empirique de l'union populaire — W11-W12
+
+Les résultats des municipales 2026 fournissent les données quantifiées les plus solides à ce jour en faveur de la thèse de l'union populaire : LFI seule, sans coalition, réalise un score supérieur à toutes les alliances de la gauche radicale des 12 dernières années.
+
+### La démonstration par les chiffres
+
+Chris présente un diagramme comparant Front de gauche 2014, FI 2020, FI 2026 face au RN sur les mêmes scrutins. Le bilan est sans appel :
+
+- **FI 2026 : ~660 000 voix, 280 listes** — 50 % de plus que le Front de gauche PCF+PG de 2014 (~400 000 voix), avec bien moins d'implantation locale
+- **Captation du socle européen** : FI a capté 25 % de son socle des européennes 2024 (600 000 / 2,4 millions) contre 12 % pour le RN — deux fois plus efficace dans la mobilisation relative
+- **Le RN stagne absolument** : ~950 000 voix en 2026 contre ~1 million en 2014, avec moins de listes
+
+La conclusion est formulée comme un argument contre la thèse du "vote utile PS" : l'union populaire n'est pas une coalition de façade à construire avec les autres gauches — c'est LFI seule qui mobilise une base plus large que toutes les alliances historiques. La [[Moisation]] produit des résultats.
+
+### La panique bourgeoise comme preuve externe
+
+La réaction des commentateurs bourgeois face aux scores LFI (tweets d'éditorialistes bourgeois, plateaux de CNews) confirme que la dynamique est réelle. La PaduTeam identifie dans Fog Gisbert — qui dit exactement les mêmes mots sur Mélenchon qu'il disait sur Jean-Marie Le Pen en 2002 — la preuve vivante de la [[Prophetie du 2002 inverse]] : la [[Bourgeoisie progressiste]] ne distingue pas le progrès de la réaction, elle défend son capital. Sa panique est le meilleur signe que l'union populaire menace concrètement.
+
+### La leçon de Marx sur les mesures emblématiques
+
+La PaduTeam mobilise *Les Luttes de classes en France* de Marx (les paysans de la 2e République) pour formuler la condition de consolidation de l'union populaire : si LFI prend le pouvoir, elle doit rapidement réaliser 1-2 mesures emblématiques — SMIC, 32h, constituante — pour que "France insoumise au pouvoir" rime avec ça dans la mémoire populaire. Sans ancrage mémoriel concret, l'union populaire peut être défaite à la prochaine élection comme les paysans de 1848 ont voté Louis-Napoléon Bonaparte. Ce n'est pas une mise en garde contre LFI — c'est un mode d'emploi pour consolider la victoire.
+
+### Chikirou comme figure de l'union populaire tenue
+
+[[Sophia Chikirou]] à Paris incarne la thèse : LFI seule en liste au premier tour, refus de la fusion technique dictée par Grégoire au second, maintien comme pôle de rupture face au bloc hollandiste. Si Grégoire perd Paris face à Dati, ce sera la conséquence directe de son refus d'alliance — preuve que l'union populaire sans PS n'est pas un caprice mais une nécessité de victoire.
+
+## Vidéos clés — W11-W12 2026
+
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — validation empirique centrale : 660 000 voix LFI seule (280 listes) dépassent le Front de gauche PCF+PG de 2014 (400 000 voix) ; captation socle européen 25 % vs 12 % pour le RN ; panique bourgeoise comme indicateur externe de la menace réelle ; leçon Marx sur les mesures emblématiques pour consolider la victoire ; prédiction Bardella < 20 % si ligne libérale maintenue
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — validation par la séquence Lille : les militants verts voulaient l'union LFI (26/24), l'état-major l'a bloquée pour sauver la primaire ; appel direct aux Verts conséquents à court-circuiter l'état-major et rejoindre la fédération populaire ; Chikirou à Paris comme pôle d'union populaire tenu face à la pression PS

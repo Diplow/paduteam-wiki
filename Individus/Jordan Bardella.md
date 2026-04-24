@@ -141,6 +141,7 @@ La PaduTeam compare le binôme Bardella/Le Pen au binôme Mélenchon/Ruffin — 
 [^bard-ruffin]: [2:34](https://www.youtube.com/watch?v=U0N868hjOPw&t=154) — "Bardella lui, est encore dans le giron du Rassemblement national et peut encore espérer des choses à l'intérieur du Rassemblement national [...] même s'il y a deux lignes au rassemblement national"
 
 ## Vidéos
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Graphique de Chris : RN 2026 fait ~950 000 voix avec ~400 listes — stagnation absolue par rapport à 2014 (1 million de voix, 500+ listes), et ne capte que 12 % de son socle des européennes 2024. La PaduTeam explique pourquoi sa dérive libérale érode le "pacte raciste" qui faisait sa force : "ils étaient sociaux mais que pour les Français." Prédiction réitérée : "moins de 20 % si c'est lui le candidat."
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — longfall : blocage des prix refusé (Venezuela/Cuba), alliance LR contre LFI, prestation télé catastrophique sur la récupération politique ; "Jospin 2002" qui prépare le second tour et oublie le premier
 - [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]] — media training 133 000€ ; mécanisme de la nullité fonctionnelle ; narratif classe populaire démoli ; dilemme Chirac 74 vs Ségolène Royal du RN
 - [[BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY]] — Première analyse du dilemme Chirac 74 pour Bardella (juillet 2025) ; dîner avec Sarkozy comme premier signe ; analyse de la reconstitution du bloc Sarkozy et du rôle de parrain de Sarkozy

@@ -53,6 +53,18 @@ La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des mu
 - [[Le Media TV]] — partie civile initiale du différend commercial (affaire close)
 - [[Gerard Miller]] — dirigeait Le Média au moment du litige
 
+## Post-second tour : l'appel à voter Chikirou
+
+La vidéo post-second tour est l'aboutissement de la séquence Chikirou. La PaduTeam radicalise la position : après le refus de Grégoire de fusionner ou même de négocier avec Chikirou — se bornant à un appel rapide pour "se souhaiter bonne chance" — la PaduTeam appelle directement les électeurs qui avaient voté Grégoire au premier tour à voter Chikirou au second[^paris-post1].
+
+Argument central : "De toute façon la mairie était gentrifiée de A à Z. Si Grégoire gagne, dans 6 ans ça sera Dati parce qu'il va tellement trahir que ce sera la catastrophe. Donc de toute façon vous êtes face à l'histoire." Le refus de Grégoire est qualifié de "honte absolue" et de "CSC" (coup de sang collectif), notamment parce qu'il préfère draguer les électeurs d'Horizon (identifiés comme "droite, pas centre — Christian Estrosi") plutôt que ceux de Chikirou[^paris-post2].
+
+La PaduTeam formule la projection stratégique : si Grégoire perd face à Dati, c'est la ligne Hollande-Glucksmann qui perd l'espace. "Hollande va avoir beaucoup moins d'espace. Ça va être beaucoup plus difficile pour lui de faire valoir sa ligne." La victoire de Chikirou serait ainsi doublement avantageuse : gagner Paris et affaiblir le hollandisme[^paris-post3].
+
+[^paris-post1]: [10:57](https://www.youtube.com/watch?v=ASBdZheusV0&t=657) — "les gens qu'on ont ras le bol de cette arrogance PS, de ce mépris [...] ne votez pas pour eux."
+[^paris-post2]: [13:01](https://www.youtube.com/watch?v=ASBdZheusV0&t=781) — "il est en train de draguer des électeurs d'un parti où il y a Christian Estrosi que les électeurs de Chikirou quoi."
+[^paris-post3]: [12:31](https://www.youtube.com/watch?v=ASBdZheusV0&t=751) — "Si Grégoire perd face à Dati et ben Hollande va avoir beaucoup moins d'espace."
+
 ## Vidéos où Chikirou est analysée
 - [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — La PaduTeam défend Chikirou contre l'attaque Viktorovitch/Mediapart : contentieux de 60 000 € vieux de 8 ans, réglé entre parties, ressort à quelques semaines des municipales ; décryptage de l'"emballage médiatique" ; défense de sa position sur la Chine (pas une dictature au sens libéral) ; démonstration que Viktorovitch "fait la campagne d'Agrégoire."
 - [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Mentionnée comme cible des tractations PS-Renaissance à Paris : «le PS préfère perdre Paris plutôt que de mettre Chikirou à la tête de Paris» ; analyse du double bind en cas de victoire PS-Renaissance (LFI dit «on vous l'avait dit») ou de défaite (PS blâme LFI).
@@ -60,3 +72,4 @@ La campagne "Plus jamais PS" est déclarée "la campagne la plus réussie des mu
 - [[SURPRISE (non) LE PCF S'ALLIE AU PS POUR TUER LFI]] — Avant les municipales : base de 30 % (Mélenchon 2022) sous-estimée par les sondages ; prescriptions stratégiques (mesures logement, modèle Mamdani) ; figure de "Zoran Mamdani" parisienne face au front PS-Verts-PCF.
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — Signal avant les élections : des cadres écologistes parisiens (Menier, Glaise) quittent l'alliance PS pour rejoindre sa liste, malgré les sondages à 10 %. La PaduTeam y lit la preuve que ces élus voient le rapport de force réel et choisissent leur camp.
 - [[MUNICIPALES CE QU'IL FAUT RETENIR]] — Campagne "Plus jamais PS" à Paris ; se maintient malgré la pression ; démonstration que Grégoire gagne sans elle et que Dati n'est pas Hitler.
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — Post-second tour : appel direct à voter Chikirou pour les électeurs Grégoire du 1er tour ; refus de Grégoire qualifié de "honte absolue" ; ligne ultra-sioniste (Hollande-Glucksmann) exposée ; la victoire de Chikirou comme double coup (Paris + affaiblissement du hollandisme).

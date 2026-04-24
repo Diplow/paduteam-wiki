@@ -34,3 +34,4 @@ Sur la gentriﬁcation : il déclare ne pas vouloir gentriﬁer Saint-Denis, ce 
 ## Vidéos où Bally Bagayoko est analysé
 
 - [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]]
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Sa mairie est l'exemple central de la panique bourgeoise post-premier tour : Julien Odoul annonce que le drapeau de la France va être remplacé par le drapeau du Hamas, la PaduTeam démonte le délire en rappelant qu'il n'y avait même pas de liste RN à Saint-Denis. Les résultats : LFI ~51 %, PS 32 %, Révolution Permanente 7 % — aucun espace RN dans la ville.

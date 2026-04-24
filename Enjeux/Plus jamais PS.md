@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
+skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -472,3 +472,5 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[LE PLAN MEDIAPART POUR EMPECHER MELENCHON EN 2027]] — Mediapart comme dispositif anti-Mélenchon structuré : plateau sans FI, injections thématiques (antisémitisme dès la 4e minute, Palestine trop présente) ; moïsation et bataille des deux gauches absentes du plateau = deux conditions de la victoire occultées ; Plenel et la deuxième gauche à l'œuvre
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Festival de la Noisette de Bram comme lancement officieux de la "gauche de gouvernement" (Delga + Tondelier + Glucksmann + Hollande + PCF) ; Boris Vallaud présent en arbitre discret ; campagne PJPS présentée avec kit de collage et recrutement ; Tondelier catastrophique sur le capitalisme à l'Humanité (incapable de répondre à "qu'est-ce qu'on met à la place")
 - [[ALAIN DUHAMEL DECRYPTE GLUCKSMANN MELENCHON ET BARDELLA]] — campagne PJPS citée (400 places vendues en 24h) ; Glucksmann décrit comme "candidat coquille vide" par Duhamel lui-même (candide = "complètement con mais poliment") ; "Rafa c'est fini pour toi" — face à Hollande, il est "un gamin de 19 ans porté par ses sponsors"
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — validation empirique post-second-tour : Grégoire refuse Chikirou et drague Horizon (ligne Hollande-Glucksmann incarnée) ; EELV à Lille trahit sa base (26/24 pour LFI, accord PS imposé d'en haut) ; PS de Strasbourg s'allie avec Horizon pour battre EELV-LFI ; chaque séquence documentée prouve que le PS est structurellement incapable d'alliance de rupture, même quand cette alliance lui serait électoralement supérieure (LFI proposait 50/50, PS n'a offert que 13-15 conseillers municipaux)
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — panique des commentateurs bourgeois "de gauche" face aux scores LFI comme preuve de l'alignement objectif du bloc hollandiste avec la réaction : reprennent les mots du RN (antisémitisme, islamisme, violence) pour attaquer Bally Bagayoko et David Guirot qui proposent bus gratuits et passe navigo ; Hollande identifié comme occupant la niche "gauche réformiste anti-Mélenchon" = incarnation exacte du "Plus jamais PS" pour 2027

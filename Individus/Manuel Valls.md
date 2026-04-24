@@ -30,6 +30,7 @@ Valls incarne pour la PaduTeam le hollandisme dans sa version la plus droitisée
 Dans le réact avec Dr Zoé, Valls est cité parmi les figures qui occupent un quota "de gauche" sur les plateaux d'extrême droite. La PaduTeam note qu'à la différence d'Onfray (dont le rôle de quota ne présente aucun intérêt stratégique), Valls peut avoir une utilité pour la droite libérale : inciter ses anciens électeurs à voter directement à droite (Hollande, kluxman) plutôt que de rester dans la confusion.
 
 ## Vidéos où Valls est mentionné
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Cité comme contre-exemple à Hollande dans l'analyse de la niche hollandiste anti-LFI : "Tu as vu Vals, il est encore plus crédible" — parce qu'il appelle directement à voter à droite contre LFI à Toulouse. La PaduTeam l'utilise pour montrer que la ligne hollandiste, poussée à son terme, mène mécaniquement à l'appel au vote de droite.
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple de la gauche traîtresse qui a nourri le confusionnisme de Padu ado
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme ministre de l'Intérieur de Hollande ayant réprimé les manifestations pro-palestiniennes
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Réaction au mandat CPI : Valls et Habib dans le même camp

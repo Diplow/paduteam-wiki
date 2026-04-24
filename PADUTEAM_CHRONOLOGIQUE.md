@@ -690,20 +690,20 @@ Fiches créées : [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]]
 ---
 ## Batch 37 — Semaines 2026-W11 à 2026-W12 (9 mar 2026 – 22 mar 2026)
 
-Statut : ✅ fait (2026-04-23)
+Statut : ✅ fait (2026-04-24) — complété (3 vidéos récupérées)
 Slug branche : ingest-batch/paduteam-2026-w11-w12
-Fiches créées : [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]], [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]], [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] (⚠️ mismatch transcript : contenu réel = Dîner des Bâtisseurs/Tondelier), [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]], [[BARDELLA est-il le MAILLON FAIBLE du RN]] + 7 individus (Lahouaria Addouche, David Guirot, Julien Sanchez, Franck Alisio, Marie Mesmer, Marianne Maximi, Olivier Besancenot) + enjeux enrichis : Union populaire, Plus jamais PS, Guerre des gauches, Critique de la fachosphere
+Fiches créées : [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]], [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]], [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] (⚠️ mismatch transcript : contenu réel = Dîner des Bâtisseurs/Tondelier), [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]], [[BARDELLA est-il le MAILLON FAIBLE du RN]], [[LA FACE CACHEE DE QUENTIN DERANQUE]], [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]], [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] + individus enrichis (Lahouaria Addouche, Sophia Chikirou, Marine Tondelier, Quentin Deranque, Francois Hollande, Jordan Bardella, etc.) + enjeux enrichis : Union populaire, Plus jamais PS, Guerre des gauches, Critique de la fachosphere
 
 - [x] HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?
 - [x] SONDAGE ANTI-MÉLENCHON : L’IFOP MET L’EXTRÊME DROITE À 62% AU 1ER TOUR 
 - [x] TRUMP PREND UNE FESSÉE EN IRAN : ON AVAIT TOUT PRÉVU !!!!
 - [x] POUTOU SOUTIENT MELENCHON : LA PIRE STRATÉGIE POSSIBLE !!
 - [x] LES PIRES ET LES MEILLEURES VILLES DE FRANCE : COMMENT VOTER STRATÉGIQUEMENT AU MUNICIPALES
-- [ ] La FACE CACHÉE de QUENTIN DÉRANQUE va vous ÉTONNER ! (ou pas ) ⚠️ transcript absent
+- [x] La FACE CACHÉE de QUENTIN DÉRANQUE va vous ÉTONNER ! (ou pas )
 - [x] MUNICIPALES : LFI PERCE, LE CENTRE EST MORT, LE RN STAGNE ! ⚠️ mismatch transcript (contenu réel : Dîner des Bâtisseurs)
 - [x] TONDELIER RIDICULE, GARRIDO HYPOCRITE, HOLLANDE LE PATRON : LES CONSÉQUENCES MUNICIPALES !!
-- [ ] Ces INSOUMISES FONT EXPLOSER les ÉCOLOGISTES !! (CHIKIROU, LAHOUARIA ADDOUCHE et CO) ⚠️ transcript absent
-- [ ] Ces BOURGEOIS PANIQUÉS face à LA MONTÉE de LFI ! ⚠️ transcript absent
+- [x] Ces INSOUMISES FONT EXPLOSER les ÉCOLOGISTES !! (CHIKIROU, LAHOUARIA ADDOUCHE et CO)
+- [x] Ces BOURGEOIS PANIQUÉS face à LA MONTÉE de LFI !
 - [x] BARDELLA est-il le MAILLON FAIBLE du RN ? (Blocage des prix, Trump, etc...)
 
 ---

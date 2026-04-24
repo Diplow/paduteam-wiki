@@ -29,11 +29,6 @@ Chenu a dédié le début d'un discours à Lille à [[Quentin Deranque]], affirm
 
 [^chenu]: [47:02](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=2822) — "tous les députés insoumis [...] face à Sébastien Chenu, lui parler de l'article et de dire il a soutenu vos idées. Alors on va faire la liste de toutes les idées de Quentin Dean. Est-ce que c'est vos idées du coup Sébastien Chenu ?"
 
-## Relations
-
-- Fidèle de [[Marine Le Pen]]
-- En opposition structurelle à [[Jordan Bardella]] dans la guerre de succession du RN
-
 ## Vidéos
 
 - [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Cité comme profil de "Medvedev" possible pour Le Pen

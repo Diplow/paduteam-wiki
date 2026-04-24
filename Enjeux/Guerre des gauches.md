@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, marxisme, travail, médias-propagande]
-skill_version: write-enjeu-2026-04-24-enrichi-w07-w08
+skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande
 
@@ -679,5 +679,32 @@ La vidéo [[TONDELIER RETOURNE ENCORE SA VESTE]] fournit la documentation la plu
 - [[TONDELIER RETOURNE ENCORE SA VESTE]] — droitisation en trois étapes (2022-2024-2026) sur le blocage des prix ; idéalisme sur les gauches irréconciliables ; mécanique de la pression hégémonique (noisette qui dit ce qu'elle pense quand la gauche de rupture faiblit) ; la contre-proposition chèques énergie ciblés comme logique de rationnement pénuriste
 
 ### Vidéos clés (W13-W14 2026)
+
+- [[L'ANGLE MORT DE LA FRANCE INSOUMISE  LE PATRONAT !]] — guerre des gauches à l'intérieur de LFI : le "class blind" d'Aurélie Trouvé (raisonnement individu → classe, invitation syndicats patronaux sans syndicats de salariés) ; convergence avec le PS comme signal d'alarme ; contre-exemple salarial (BGT Strasbourg : exploitées par "des patrons, nos frères africains", défendues par la CGT pas la CPME) ; LFI doit-elle définir les PME par leurs patrons ou par leurs salariés ?
+
+## Le post-second tour municipal : la guerre des gauches confirmée en actes (W11-W12 2026)
+
+Les résultats du second tour des municipales 2026 permettent d'observer la guerre des gauches non plus comme prévision ou rhétorique, mais comme comportement documenté ville par ville.
+
+### Grégoire "joue guitou double" : l'arrogance anti-LFI comme stratégie de classe
+
+À Paris, [[Emmanuel Gregoire]] refuse toute fusion technique avec [[Sophia Chikirou]] et choisit de draguer l'électorat d'Horizon plutôt que la gauche de rupture. La PaduTeam lit ce choix comme la ligne Hollande-Glucksmann incarnée en acte : ultra-sioniste, anti-LFI, prête à perdre Paris plutôt qu'allier la gauche de rupture. Le pari est qualifié de "guitou double" — s'il perd, Hollande aura moins d'espace. La guerre des gauches n'est plus une posture : c'est un refus calculé de victoire commune.
+
+### La trahison EELV à Lille : l'état-major contre sa base
+
+La consultation interne EELV à Lille donne 26 voix pour l'accord LFI et 24 pour le PS. L'état-major Tondelier impose l'accord PS — pour sauver la [[Primaire des noisettes]], pas pour gagner Lille. Conséquences immédiates : Simon Jamelin (3e de liste) se retire, la Fédération des jeunes écologistes du Nord-Pas-de-Calais publie "Not in my name", Stéphanie Bocquet (chef de groupe écolo au département) tweete "Not in my name #lille". La PaduTeam diagnostique : "C'est vraiment des trucs de sauver des baronnies. C'est quoi la ligne politique derrière ?" La trahison n'est pas idéologique — c'est une trahison de survie institutionnelle.
+
+### Poitiers : la exception qui confirme la règle
+
+[[Leonore Moncond'huy]] choisit seule (contre la ligne Tondelier) de fusionner avec LFI. La PaduTeam y lit une élue qui "comprend qu'elle est toute seule, qu'il y a plus de capitaine dans le bateau." L'exception documente la règle : quand une élue verte rompt avec la direction et choisit la cohérence politique, elle s'allie à LFI. C'est ce que les bases militantes veulent — et que les états-majors bloquent.
+
+### Strasbourg : le PS poignarde les siens pour Hollande
+
+Pendant que Tondelier sacrifie Lille au PS, le PS de Strasbourg s'allie avec Horizon contre la liste EELV-LFI de [[Jeanne Barseghian]]. La PaduTeam formule le diagnostic : "Hollande a commencé par tuer Fort et maintenant il commence à tuer Tondelier." La guerre des gauches n'est pas une défense — c'est une stratégie d'offensive bourgeoise pour reconquérir le centre-gauche avant 2027.
+
+### Vidéos clés (W11-W12 2026)
+
+- [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — post-second-tour : trahison EELV à Lille (consultation 26/24 ignorée pour sauver la primaire) ; Grégoire "guitou double" anti-LFI ; Poitiers comme exception (Moncond'huy choisit LFI seule) ; Strasbourg comme piège (PS poignarde EELV pour Hollande) ; diagnostic final : "les Verts vont disparaître du champ politique" ; appel aux Verts conséquents à rejoindre la fédération populaire avant 2027
+- [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — la panique bourgeoise comme révélateur de la guerre des gauches en cours : les commentateurs bourgeois "de gauche" (Fog Gisbert) utilisent les mots du RN contre LFI, prouvant l'alignement objectif du bloc hollandiste avec la réaction ; niche Hollande identifiée : "gauche réformiste anti-Mélenchon" pour d'anciens gaullistes reconvertis ; la [[Prophetie du 2002 inverse]] se réalise — les bourgeois paniqués jouent le rôle de Fog Gisbert face à Le Pen en 2002
 
 - [[L'ANGLE MORT DE LA FRANCE INSOUMISE  LE PATRONAT !]] — Aurélie Trouvé comme figure du "class blind" au sein de LFI ; fracture interne sur la stratégie PME (patrons ou salariés ?) ; Institut La Boétie invitant uniquement des syndicats patronaux ; convergence programmatique avec le PS comme signal d'alarme ; l'intersectionnalité ne justifie pas de gommer la classe

@@ -51,10 +51,12 @@ La PaduTeam note que Déranque — né d'une mère péruvienne — surjouait une
 - [[Rima Hassan]] — sa conférence était le prétexte de la confrontation
 - [[Sebastien Chenu]] — a rendu hommage posthume en assumant que Déranque "défendait leurs idées"
 - [[Alice Cordier]] — associée mais d'un niveau idéologique inférieur selon la PaduTeam
+- [[La Jeune Garde]] — organisation antifasciste présente lors des affrontements, mise en cause par Némésis
 
 ## Vidéos
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
 - [[LA FACE CACHEE DE QUENTIN DERANQUE]]
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — analyse causale complète : affiliations réelles, mécanisme médical du décès, responsabilité de Némésis et de l'État
 
 [^hopital]: [18:08](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=1088) — "qui ont refusé de l'emmener à l'hôpital lui ont dit non non non on n'y va pas [...] ça donne quand même des signes sur leur responsabilité pénale ou criminelle."
 
@@ -69,9 +71,3 @@ La PaduTeam note que Déranque — né d'une mère péruvienne — surjouait une
 [^combat]: [44:59](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=2699) — "le 1er février 2026 [...] une vingtaine de jeunes hommes sont venus comme lui pour des formations de techniques de combat dispensé par le groupuscule néofasciste Audace Lyon."
 
 [^converti]: [23:51](https://www.youtube.com/watch?v=-1N05ZVOmmg&t=1431) — "c'est quand tu étais dans une quête d'identité, pour être vraiment reconnu comme identique ou pur [...] ça crée toutes les formes d'ultrazel, d'ultra orthodoxie."
-- [[La Jeune Garde]] — organisation antifasciste présente lors des affrontements, mise en cause par Némésis
-
-## Vidéos
-- [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
-- [[LA FACE CACHEE DE QUENTIN DERANQUE]]
-- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — analyse causale complète : affiliations réelles, mécanisme médical du décès, responsabilité de Némésis et de l'État

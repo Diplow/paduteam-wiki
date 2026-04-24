@@ -26,3 +26,4 @@ La mort de [[Quentin Deranque]] le 14 février 2026 lors d'affrontements à la c
 ## Vidéos où Audace Lyon est analysé
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — formation de techniques de combat dispensée par Audace Lyon le 1er février 2026 (deux semaines avant la mort de Déranque), réunissant une vingtaine de jeunes hommes dans un parc au nord de Lyon
