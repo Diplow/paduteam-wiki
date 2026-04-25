@@ -757,3 +757,13 @@ Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + 2 conc
 - [ ] BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ? — 2026-04-24
 
 ---
+## Batch 41 — Rattrapage transcripts (vidéos de batches ✅ sans fiche)
+
+Statut : ⏳ à ingérer
+Slug branche : ingest-batch/paduteam-rattrapage-transcripts
+
+- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (transcript récupéré — batch 10 déjà ✅)
+- [ ] THAÏS : les VSS l'ont rendue NAZIE !? (transcript récupéré — batch 18 déjà ✅)
+- [ ] TONDELIER VA À DES DÎNERS DE BOURGEOIS D'EXTRÊME DROITE !? (c'est pire que vous croyez...) (transcript récupéré — batch 34 déjà ✅)
+
+---
