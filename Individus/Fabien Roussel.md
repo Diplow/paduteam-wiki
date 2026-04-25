@@ -149,6 +149,14 @@ Verdict : "Honte à Roussel, honte à cette tribune, honte à des gens qui se di
 [^roussel-lepen]: [34:44](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=2084) — "Vous verrez ces mots-là, exactement les mêmes termes dans la bouche de Marine Le Pen pour attaquer Mélenchon quand elle sera candidate. Notez-le bien, je fais la prophétie là."
 [^roussel-honte]: [44:31](https://www.youtube.com/watch?v=IkRB5Sfl2MU&t=2671) — "honte à Roussell, honte à cette tribune, honte à des gens qui se disent antiracistes et qui reflètent cette tribune car elle est profondément attachée au pacte raciste contre l'antiracisme véritable."
 
+## Roussel dans l'espace Charlie : plus hégélien que léniniste
+
+Le [[Graphique]] appliqué au sondage Ifop sur le droit de caricaturer positionne Roussel du côté de [[Franc-Tireur]] et de [[Raphael Enthoven]] — dans l'espace "non" (pro-caricature illimitée), identique à [[Marion Marechal|Maréchal]] et [[Eric Zemmour]] sur cette question. La PaduTeam diagnostique : Roussel est "plus hégélien que léniniste" ici — il préfère défendre la laïcité dans son histoire absolue et l'anticléricalisme historique de la gauche plutôt que d'analyser concrètement que le clivage Charlie est "une forme de violence contre les classes les plus opprimées."[^roussel-charlie]
+
+La PaduTeam insiste : ce n'est pas un reproche abstrait. Sur le [[Graphique]], les classes populaires — les premières à subir les conséquences de l'islamophobie — s'opposent davantage à la caricature illimitée. En se positionnant dans l'espace Charlie, Roussel parle *contre* l'intérêt de son propre électorat supposé.
+
+[^roussel-charlie]: [20:45](https://www.youtube.com/watch?v=X0tXWZsjENQ&t=1245) — "il va préférer par exemple penser de défendre la laïcité dans l'histoire absolue et cetera le droit au blasphème l'anticléricalisme historique de la gauche plutôt que de penser que aujourd'hui c'est le clivage Charlie est une forme de violence contre des classes les plus opprimées" — dans [[CHARLIE HEBDO EST-IL REACTIONNAIRE]]
+
 ## Vidéos où Roussel est analysé
 - [[SONDAGE MELENCHON - BARDELLA C EST PIRE QUE CE QUE VOUS CROYEZ|SONDAGE MÉLENCHON - BARDELLA]] — Donné à 3% par [[Odoxa]]. Ses électeurs se reporteraient à seulement 47% sur Mélenchon au 2nd tour (avec 8% allant vers Bardella) — incohérence totale pour un électorat PCF. Ironie de la PaduTeam sur l'hypothèse d'un communiste votant Bardella au 2nd tour
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Analyse de la "maison Saucisson" : même sociologie que Zemmour, fédération de chasse, tragédie historique vs farce actuelle
@@ -168,3 +176,4 @@ Verdict : "Honte à Roussel, honte à cette tribune, honte à des gens qui se di
 - [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]] — Mentionné comme responsable de la nomination de [[Cecile Cukierman]] comme porte-parole en 2018 ; la "team rapprochée de Roussel" incarne la déchéance théorique de la direction PCF.
 - [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]] — Le slogan "parti du travail" disséqué comme convergence avec la rhétorique sarkoziste et pétainiste ; Cukierman comme incarnation de la stratégie rouselliste d'adaptation à la "conscience réelle" au lieu de battre la conscience de classe.
 - [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]] — Refuse l'offre Bompard ; électorat PCF = vieux riches superposables à Zemmour sur le Graphique (tous deux électorats de nostalgie) ; tribune *Le Monde* analysée comme discours color blind = pacte raciste ; prophétie : Le Pen dira la même chose que Roussel contre Mélenchon.
+- [[CHARLIE HEBDO EST-IL REACTIONNAIRE]] — Positionné dans l'espace "pro-caricature illimitée" du Graphique, même espace que Franc-Tireur et Enthoven ; "plus hégélien que léniniste" sur la question laïcité/islamophobie.

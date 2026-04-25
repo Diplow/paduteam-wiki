@@ -24,3 +24,6 @@ Selon la PaduTeam (notamment Zoé) : Vota illustre le mécanisme par lequel l'ex
 
 ## Vidéos où Virginie Vota est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[THAIS LES VSS L ONT RENDUE NAZIE]] — invoquée comme contre-exemple positif de Thaïs d'Escufon : même sphère tradicato-catholique, même expérience des VSS dans le cadre du mariage, mais tirage de la conclusion inverse. La PaduTeam : "Virginie Vota, c'était une meuf qui a tout tradit d'extrême droite [...] qui est revenue avec une vidéo où elle explique qu'elle a changé d'avis sur le féminisme parce qu'elle a fait l'expérience du mariage et de la maternité avec un mec qui s'est comporté comme une merde."[^vota1]
+
+[^vota1]: [15:28](https://www.youtube.com/watch?v=4MLEHjkr7Rs&t=928) — "Virginie Vota, c'était une meuf qui a tout tradit d'extrême droite, qui faisait beaucoup de vidéos antiéministe et cetera, qui avait disparu d'Internet et qui est revenu avec une vidéo où elle explique qu'elle a changé d'avis sur le féminisme parce qu'elle a fait l'expérience du mariage et de la maternité avec un mec qui s'est comporté comme un [merde]"

@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, masculinisme, trajectoires-politiques, racisme-antiracisme]
-skill_version: write-enjeu-2026-04-24-enrichi-w11-w12
+skill_version: write-enjeu-2026-04-25-enrichi-batch41
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/masculinisme #thème/racisme-antiracisme #enjeu/critique-de-la-fachosphere
 
@@ -304,10 +304,19 @@ La présence de Tondelier au Dîner des Bâtisseurs illustre la thèse centrale 
 
 Les Verts vont devoir "se Moïser" — choisir leur camp. Tondelier est "en train de tuer son parti" en le positionnant dans un espace où la bourgeoisie catholique et le capital financier (Bolloré) peuvent se reconnaître. Ce n'est pas un accident de parcours — c'est la logique d'une écologie qui refuse de nommer le capitalisme comme cause des crises environnementales.
 
+### Le pipeline écolo/fachosphère comme confusionnisme structurel
+
+La PaduTeam formalise le mécanisme dans [[TONDELIER VA A DES DINERS DE BOURGEOIS D EXTREME DROITE (c est pire que vous croyez...)]] : l'écologie punitive, en refusant le clivage de classe au profit d'un clivage pro/anti-nature, crée un "pipeline confus" — non par volonté mais "par omission ou non-conscience de la lutte des classes." Ce confusionnisme involontaire est aggravé par le choix des réseaux : au lieu d'aller au Secours catholique ou chez les prêtres de Calais (le christianisme des sans-papiers et des précaires), Tondelier va "dans les réseaux les plus réactionnaires et les plus bourgeois."
+
+La connexion avec le financement de la fachosphère est documentée au niveau des actionnaires d'Obol : la **Financière de Rosario** (véhicule d'Édouard Michot, ancien cadre de Génération Identitaire) figure au capital jusqu'en 2023, reliant le Dîner des Bâtisseurs aux réseaux identitaires violents. Stérin, par ailleurs, finance le **plan Péricles** : 150 millions d'euros pour faire accéder le RN au pouvoir dans 300 villes aux municipales 2026 (selon L'Humanité). La face "culturelle" (Dîner des Bâtisseurs) et la face "politique" (plan Péricles) forment un projet cohérent.
+
+Le diagnostic final sur Tondelier est sans appel : "soit tu t'es pas renseigné sur où tu allais et ça prouve que tu es bête — une erreur tactique inadmissible pour quelqu'un qui veut être présidente — soit tu es consciente." La deuxième participation ne laisse plus de place à l'ignorance.
+
 ## Vidéos clés (batch 37 — mars-avril 2026)
 
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — dissection structurelle du RN sans programme : blocage des prix refusé (Venezuela/Cuba), alliance LR suicidaire, "mon travail c'est la récupération politique" ; Marine Le Pen comme stratège du sabotage interne ; 400 000 voix d'écart Bardella/Mélenchon ; la boutique RN incapable de gouverner
 - [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] — thèse centrale : l'écologie est une "fausse conscience", compatible avec toute classe ; Tondelier au Dîner des Bâtisseurs deux années de suite, aux côtés de financeurs identitaires (Stérin <2%, Bolloré 29,26% via Canal+) ; ticket 195 € comme filtre de classe ; ex-Génération Identitaire comme organisateur ; les Verts devront "se Moïser"
+- [[TONDELIER VA A DES DINERS DE BOURGEOIS D EXTREME DROITE (c est pire que vous croyez...)]] — react de l'article Reporter sur la 2e participation consécutive au Dîner des Bâtisseurs ; Financière de Rosario (Michot/GI) au capital d'Obol jusqu'en 2023 ; plan Péricles (150M€ Stérin, 300 villes municipales 2026) ; thèse "l'écologie n'est pas une idéologie, c'est une fausse conscience" formalisée explicitement ; pipeline confus par non-conscience de la lutte des classes ; dilemme "bête ou consciente" ; les Verts se demandent "dans quoi tu nous as embarqué"
 
 ## Onfray : l'"adversaire-clown" et l'anticommunisme bourgeois
 

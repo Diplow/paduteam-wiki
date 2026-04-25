@@ -41,9 +41,14 @@ L'antihumanisme des mouvements comme ATR — même de bonne foi — fabrique l'i
 
 La PaduTeam oppose à l'écologie réactionnaire une **écologie humaniste et communiste** : préserver l'écosystème parce que c'est la condition de la survie de l'humanité, pas pour sauver "Gaïa". La victime à défendre n'est pas la planète — c'est la majorité de l'humanité qui subira de plein fouet la crise climatique. La solution n'est pas la décroissance technique mais la transformation des rapports sociaux de production : qui décide de la technique, pour qui elle est utilisée, dans l'intérêt de qui.
 
+## Lien avec l'écologie comme fausse conscience
+
+L'[[Ecologie comme fausse conscience]] est la dimension complémentaire de l'écologie réactionnaire : si l'écologie réactionnaire désigne les courants délibérément réactionnaires, la fausse conscience écologique désigne la structure idéologique plus large qui rend possible l'alliance involontaire entre écologistes de bonne foi et réseaux bourgeois conservateurs. [[Marine Tondelier]] au Dîner des Bâtisseurs en est l'illustration : ce n'est pas de l'écologie réactionnaire assumée, c'est la fausse conscience qui efface le clivage de classe et rend possible la coexistence à la même table entre une cheffe des Verts et des financeurs de l'extrême droite.
+
 ## Vidéos où le concept est développé
 
 - [[DES ÉCOLOS D'EXTRÊME DROITE (Anti-Tech Résistance) #1]] — analyse fondatrice : mécanisme de l'idéologie de crise bourgeoise, antihumanisme structurel, Kaczynski, Extinction Rebellion
 - [[ANTI FÉMINISTE, TRANSPH0BE ET EUGÉNISTE  LE VRAI VISAGE D'ANTITECH RESISTANCE #2]] — applications concrètes : santé des femmes, droits trans, pipeline fasciste
+- [[TONDELIER VA A DES DINERS DE BOURGEOIS D EXTREME DROITE]] — cas de l'écologie réactionnaire "par omission" : Tondelier dans des réseaux catholiques identitaires financés par Bolloré/Stérin ; "des solutions d'extrême droite à l'écologie" explicitées (stérilisation, blocage du développement du Sud)
 
 [^1]: [1:03:57](https://www.youtube.com/watch?v=mnyb6lvRc9Y&t=6237) — "les gens qui s'enrichissent en détruisant la planète sont ceux qui ne subiront pas la violence, le dérèglement climatique."

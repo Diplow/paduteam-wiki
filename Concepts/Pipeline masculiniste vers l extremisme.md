@@ -31,6 +31,18 @@ Le pipeline masculiniste désigne le processus par lequel la misogynie et le mas
 - Bassem (cité dans le transcript) — même mécanique de fédération par la misogynie
 - Jordan Peterson (international) — développement personnel → anti-wokisme → droite réactionnaire
 
+## L'asymétrie incels / féministes
+
+La question "le féminisme n'est-il pas la version féminine de l'incellisme ?" est posée par [[Thais d'Escufon]] dans [[THAIS LES VSS L ONT RENDUE NAZIE]]. La PaduTeam la démonte structurellement[^asymetrie] :
+
+- Les féministes appartiennent à un groupe **dominé** qui lutte pour des droits concrets (contraception, divorce, compte en banque sans accord du mari, accès au travail) — des avancées réelles mais qui "ne constituent pas une vraie révolution" car elles se heurtent ensuite au capitalisme
+- Les incels appartiennent à un groupe **dominant** (les hommes) dont les membres en bas de la hiérarchie masculine interne, au lieu de se révolter contre l'ordre capitaliste et la masculinité hégémonique qui les écrasent, se révoltent contre les femmes qui "refusent de les sucer"
+- La formule : "les perdants de cette compétition entre les hommes [...] se disent 'moi aussi j'ai envie de pouvoir dominer. Pourquoi les femmes ne veulent pas me sucer ?'"
+
+Ce n'est pas la même démarche : l'une est une lutte contre une oppression réelle, l'autre est la revendication d'exercer une oppression.
+
+[^asymetrie]: [24:13](https://www.youtube.com/watch?v=4MLEHjkr7Rs&t=1453) — "Quelqu'un qui est dans une position dominante et où il y a un mouvement social révolutionnaire qui est en cours depuis des décennies pour essayer de commencer à remettre en cause cette situation de domination [...] toutes ces avancées qui pour l'instant n'ont pas du tout abouti à une vraie révolution"
+
 ## Ce que le pipeline dit du féminisme matérialiste
 
 Pour la PaduTeam, l'existence du pipeline masculiniste est un argument pour un féminisme matérialiste fort — et non un argument contre lui. Si des jeunes hommes frustrés tombent dans la radicalisation, c'est parce qu'aucune alternative crédible n'est disponible : ni une analyse matérialiste de leur condition masculine (précarisation, perte de repères liée aux restructurations capitalistes), ni une perspective collective de lutte. Le féminisme matérialiste offre cette alternative : les problèmes des hommes et des femmes ont la même source (le capitalisme et le rapport de classe), et la solution est collective, pas la guerre des genres.

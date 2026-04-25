@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [société, théorie]
 thèmes: [féminisme, VSS, travail, psychiatrie-psychologie]
-skill_version: write-enjeu-2026-04-21
+skill_version: write-enjeu-2026-04-25-enrichi-batch41
 date created: Monday, April 13th 2026, 11:23:10 pm
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -235,11 +235,31 @@ Lancement de la chaîne YouTube de [[Dr Zoe]] intégrée à la structure collect
 
 **La réponse pénale individuelle ne résout rien.** La vraie question n'est pas la prison pour Naruto — c'est : "pourquoi peut-on faire de la tune sur l'humiliation de personnes handicapées, et pourquoi ces personnes n'ont-elles pas d'autre option ?" La PaduTeam relie cela à la "double besogne" : gains immédiats (protéger les personnes) + lutte longue (abattre le capitalisme).[^vss_jp4]
 
+## La preuve empirique par les témoignages cliniques contre le mythe de l'âge d'or
+
+[[THAIS LES VSS L ONT RENDUE NAZIE]] fournit une réfutation empirique directe du discours réactionnaire sur la supériorité des rapports traditionnels pré-féministes. L'expérience clinique de Padu comme pédopsychiatre oppose aux thèses de [[Thais d'Escufon]] des témoignages concrets de femmes de 75 ans et plus : femmes qui racontent les viols par le garçon de ferme dès 12 ans, femmes qui ont dû attendre le décès de leur mari pour parler de l'inceste vécu à 6 ans (parce que la honte était intériorisée), femmes qui ont eu 14 enfants "non par courage mais parce qu'elles avaient un mari qui avait la main leste et qui ne savait pas se tenir tranquille." Ces témoignages dévastent empiriquement la thèse de l'"âge d'or" ante-féministe : les structures tradicato-catholiques ne protégeaient pas les femmes, elles organisaient leur silence.
+
+La démonstration renforce le mécanisme central de l'enjeu : le système du silence (honte intériorisée, scandale pire que la violence, mari vivant qui empêche la parole) est structurel, pas individuel. La femme qui attend 70 ans pour parler confirme que les 94% de plaintes classées sans suite sous-représentent encore l'étendue réelle des VSS.
+
+## Le retournement de la statistique : Thaïs prouve contre elle-même
+
+La vidéo produit un retournement rhétorique décisif sur l'argument statistique masculiniste. Thaïs d'Escufon avait argué que "90% des plaintes pour violence conjugale finissent classées sans suite — donc 90% sont fausses." Or Thaïs elle-même vient de confesser avoir subi des violences conjugales **sans jamais porter plainte**. La PaduTeam retourne l'argument : la statistique ne prouve pas la fausseté des plaintes — elle prouve que la majorité des victimes ne portent pas plainte du tout. Thaïs est la démonstration vivante de ce qu'elle prétend réfuter.
+
+Ce retournement est une arme récurrente dans cet enjeu : les données sur les classements sans suite (94% selon l'étude IEP) ne mesurent pas la fausseté des accusations — elles mesurent les obstacles structurels au dépôt et au traitement des plaintes.
+
+## La violence structurelle de l'extrême droite sur ses propres militantes
+
+La PaduTeam documente que les structures mentales qui posent la violence masculine comme "ordre naturel du monde" produisent des comportements de violence concrets, y compris au sein même de la fachosphere. [[Pierre-Rene Laavier]] (secrétaire général de Frontière) condamné à 10 mois avec sursis pour violences conjugales filmées ; [[Baptiste Marche]] ayant frappé [[Alice Cordier]] sur une terrasse parce qu'elle lui demandait d'arrêter d'être "insistant avec ses militantes" ; [[Eric Tenner]] ([[Frontiere]]) accusé par ses employées de se glisser dans leurs lits en déplacement en Afrique du Sud. La conclusion est structurelle : des organisations qui théorisent la domination masculine comme ordre naturel produisent des hommes "complètement odieux avec leurs meufs." Ce n'est pas un paradoxe — c'est la cohérence interne d'une idéologie.
+
 ## Le masculinisme comme pipeline vers les VSS : le cas Rochedy
 
 [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]] confirme le lien structurel entre idéologie masculiniste et normalisation des VSS. La PaduTeam identifie le masculinisme comme le principal pipeline de recrutement de l'extrême droite sur internet — et note que Rochedy en 2015 a répondu au viol d'une fillette de 7 ans par un migrant non par des mots sur les VSS mais par une apologie d'Hitler ("un homme a voulu redresser son pays et porter l'Europe... au mépris de tous les autres"). 10% des enfants subissent des violences sexuelles, dans l'immense majorité des cas par des membres de la famille. Rochedy n'a jamais écrit de lettres pour eux.
 
 La PaduTeam formule le mécanisme structurel : "la misogynie et le sexisme sont les meilleurs pipelines de recrutement de l'extrême droite sur internet." Ce n'est pas un accident — c'est une stratégie délibérée. L'eugénisme diffus de Rochedy (*Sous-homme et surhomme* : le progrès médical supprime la sélection naturelle et cause la "dégénérescence") rejoint la logique des droitards qui ont un problème avec les VSS subies et pas commises : ils sélectionnent les victimes à défendre selon leur race.
+
+## Vidéos associées (corpus W25 2025)
+
+- [[THAIS LES VSS L ONT RENDUE NAZIE]] — réfutation empirique du mythe de l'âge d'or par les témoignages cliniques (femmes de 75 ans+) ; retournement de la statistique "90% de fausses plaintes" par la confession même de Thaïs (victime non-plaignante) ; violence structurelle de l'extrême droite sur ses propres militantes comme cohérence d'une idéologie naturalisant la domination masculine
 
 ## Vidéos associées (corpus été 2025)
 - [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]] — mort au travail sous emprise ; le validisme capitaliste comme condition matérielle de l'exploitation ; l'emprise démontée mécanisme par mécanisme (chaud-froid, isolement, dépendance financière) ; discours du consentement comme protection des exploiteurs ; réponse structurelle nécessaire (soins, logement, éducation inclusive)
