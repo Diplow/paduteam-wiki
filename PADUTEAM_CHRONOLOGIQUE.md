@@ -748,13 +748,13 @@ Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBA
 ---
 ## Batch 40 — Semaine 2026-W17 (20 avr 2026 – 26 avr 2026)
 
-Statut : ⏳ à compléter (2 vidéos publiées après l'ingestion initiale du 2026-04-23)
+Statut : ✅ fait (2026-04-25)
 Slug branche : ingest-batch/paduteam-2026-w17
-Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + 2 concepts (Class Blind, Structures mentales de classe) + 1 individu (Stephane Peu) + 2 organisations (Institut La Boetie, Peau Noir Ligne Rouge) + enrichissements : Aurelie Trouvee, Stathis Kouvelakis, France Insoumise, Confederation des PME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat generalise, Alienation de la bourgeoisie + enjeux : Union populaire, Guerre des gauches
+Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + [[LA PRIMAIRE DES NOISETTES EN ROUTE POUR LA CATASTROPHE EPISODE 263]] + [[BARDELLA VS LE PEN GUERRE AU RN ET CHANGEMENT DE LIGNE]] + 2 concepts (Class Blind, Structures mentales de classe) + individus : Stephane Peu, Olivier Fort, Cyrel Chatelin, Laurence Rossignol, Francois Durvi, Victor Chabert + 2 organisations (Institut La Boetie, Peau Noir Ligne Rouge) + enrichissements : Aurelie Trouvee, Stathis Kouvelakis, France Insoumise, Confederation des PME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat generalise, Alienation de la bourgeoisie + enjeux : Union populaire, Guerre des gauches
 
 - [x] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
-- [ ] LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263) — 2026-04-23
-- [ ] BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ? — 2026-04-24
+- [x] LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263) — 2026-04-23
+- [x] BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ? — 2026-04-24
 
 ---
 ## Batch 41 — Rattrapage transcripts (vidéos de batches ✅ sans fiche)
