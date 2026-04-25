@@ -55,8 +55,19 @@ La conclusion matérialiste : les politiques d'interdiction du voile ont des eff
 [^voile2]: [30:56](https://www.youtube.com/watch?v=kJgGc2z0INg&t=1856) — "Dans son cas, un grand t-shirt est un objet qui participe en fait à sa soumission. Est-ce que du coup la solution c'est d'interdire les grands t-shirts larges ?"
 [^voile3]: [34:38](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2078) — "Il y a plein de meufs qui portent le voile justement pour affirmer leur liberté. Et ça va faire râler les droitards."
 
+## La démonstration par l'absence : le cas Thaïs
+
+Dans [[THAIS LES VSS L ONT RENDUE NAZIE]], la PaduTeam effectue la démonstration a contrario : ce que produit l'absence du féminisme matérialiste. Thaïs d'Escufon a vécu des VSS dans un milieu donde ce cadre était structurellement inaccessible. Sans cette grille, les seules options qu'elle perçoit sont la soumission ou le "féminisme amer" — défini comme un ressentiment contre les hommes. Elle refuse les deux et choisit une troisième voie non nommée : instrumentaliser ses propres violences au service de l'antiféminisme.
+
+"Son logiciel de pensée biologisant et naturalisant bébette l'empêche de penser ce truc-là" — c'est-à-dire l'idée même qu'une transformation structurelle de la société pourrait rendre les relations moins violentes. Ce n'est pas une limitation individuelle : c'est le produit d'un environnement idéologique qui biologise tous les rapports sociaux.
+
+La PaduTeam mobilise aussi l'argument empirique : les femmes de 75 ans et plus qu'un médecin rencontre en consultation attestent que le prétendu "âge d'or" des relations tradicato était une période de viol conjugal normalisé, d'inceste tu, de maternité forcée[^tradition]. Le féminisme matérialiste est précisément l'outil qui permet de nommer ces réalités comme produits d'un rapport social — pas comme destin naturel de la femme.
+
+[^tradition]: [22:41](https://www.youtube.com/watch?v=4MLEHjkr7Rs&t=1361) — "mademoiselle, c'était pas du courage. J'avais juste un mari qui avait la main leste et qui savait pas se tenir tranquille" ; [23:11](https://www.youtube.com/watch?v=4MLEHjkr7Rs&t=1391) — "ce que c'était que la vie des femmes qui n'avaient que comme option le viol conjugal plusieurs fois par semaine pendant 25 ans sans contraception"
+
 ## Vidéos où le concept est développé
 
+- [[THAIS LES VSS L ONT RENDUE NAZIE]] — démonstration a contrario : sans féminisme matérialiste disponible, les VSS vécues peuvent renforcer l'antiféminisme ; invalidation empirique du mythe de l'âge d'or tradicato
 - [[DR ZOE CANCEL POSITIONS REVUE POUR MISOGYNIE SUR TONDELIER]] — Définition la plus explicite : refus d'accorder la misogynie sur "Karen", critique du féminisme essentialiste des Verts, lecture du terme Karen comme outil du féminisme noir
 - [[GIULIA SARKOZY TRAITEE DE POUFFE PAR MARIANNE]] — Application pratique : démontage d'un article Marianne qui confond police de l'esthétique féminine et féminisme protecteur ; liste des vraies menaces pour les adolescentes vs. panique morale bourgeoise
 - [[BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN A ARY ABITTAN]] — Les femmes bourgeoises en position de gardienne du système patriarcal : Brigitte Macron choisit la solidarité de classe (avec Abittan, homme puissant) contre la solidarité de genre (avec les militantes de NousToutes) ; [[Priscilla Even]] comme contre-type du féminisme médiatique macroniste

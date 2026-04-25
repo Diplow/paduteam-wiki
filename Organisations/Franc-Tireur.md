@@ -24,6 +24,13 @@ Franc-Tireur représente pour la PaduTeam la variante "gauche de droite" du rés
 - [[Raphael Enthoven]] — figure associée
 - [[T18]] — chaîne du même écosystème
 
+## Position dans le [[Graphique]]
+
+Franc-Tireur se retrouve dans l'espace "non" sur le [[Graphique]] du débat Charlie (pro-caricature illimitée), aux côtés de [[Marion Marechal|Maréchal]] et [[Eric Zemmour]]. C'est l'espace que la PaduTeam appelle "la raison contre les extrêmes" — la pensée Charlie-Enthoven-Macron qui considère que tous les gens dans l'espace "oui" (islamogauchistes, islamistes, populaires racisés) sont identiques. La PaduTeam : Franc-Tireur va "considérer que tous les gens qui sont dans l'OUI — Mélenchon et Le Pen — sont identiques."[^ft-graphique]
+
+[^ft-graphique]: [23:21](https://www.youtube.com/watch?v=X0tXWZsjENQ&t=1401) — "c'est vraiment la pensée fran-tireur, frantireur va considérer que tous les gens qui sont dans l'OUI, Mélenchon et Le Pen, sont identiques"
+
 ## Vidéos
 
 - [[GARRIDO SES METHODES HONTEUSES POUR REGLER SES COMPTES AVEC LFI]] — cité comme réseau proche de T18 où Garrido tient son discours islamophobe.
+- [[CHARLIE HEBDO EST-IL REACTIONNAIRE]] — Franc-Tireur situé dans l'espace "non" (pro-caricature) sur le Graphique, même espace que Zemmour/Maréchal ; analysé comme "autant islamophobe que Zemmour mais se croyant de la gauche des Lumières"

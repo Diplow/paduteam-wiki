@@ -96,6 +96,14 @@ La PaduTeam identifie dans [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE 
 - Le Graphique montre que Mélenchon et Le Pen occupent le même espace sociologique (classes populaires) — la [[Conflictualite interne aux classes populaires]] est le clivage central
 - L'[[Eclatement du bloc central]] et la [[Moisation]] achevée rendent possible un second tour Mélenchon/Le Pen en 2027
 
+## L'esprit Charlie comme clivage de classe — démonstration Graphomarxisme
+
+Application à l'Ifop sondage sur le droit à la caricature (10e anniversaire de l'attentat, janvier 2025) : la diagonale oui/non est **parallèle** à la diagonale de classe — c'est donc un clivage de classe, non un clivage transclasse. Les partisans de la caricature illimitée sont dans les classes supérieures ; les classes populaires, qui subissent ces caricatures, s'y opposent davantage (38% en moyenne nationale, 53% chez les électeurs FI).
+
+Ce cas introduit une nuance : le clivage peut être *parallèle mais décalé* — ici, décalé vers les vieux. Les classes supérieures retraitées portent le "non" (pro-caricature), les retraités de classes inférieures le "oui". Les deux diagonales sont parallèles mais pas superposées — il y a une composante générationnelle dans le clivage Charlie, sans en faire un [[Clivage generationnel]] pur (qui serait perpendiculaire).
+
+Voir [[CHARLIE HEBDO EST-IL REACTIONNAIRE]] — application complète.
+
 ## Racisme économique vs racisme culturel — deux espaces différents
 
 Le Graphique permet de distinguer deux racismes qui ne captent pas les mêmes PCS :
@@ -145,5 +153,6 @@ La prédiction réussie de 2022 a consolidé la légitimité du Graphique. Dès 
 - [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]] — Application de la distinction "confusion du haut" vs "confusion du bas" pour analyser l'intérêt stratégique (ou non) de délester les faux-gauches de leurs plateaux médiatiques
 - [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]] — Portrait de classe de Patrick Martin (président du MEDEF) comme archétype du haut-droite du Graphique : Sciences Po Paris + Assas + école de commerce + officier de réserve. Application directe de l'axe exploitation : "structure d'investissement = structure d'exploitation". Démonstration que le patronat (95% des richesses) est au sommet droit du Graphique — exploiteur et dominant.
 - [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]]
+- [[CHARLIE HEBDO EST-IL REACTIONNAIRE]] — Application à un objet culturel : sondage Ifop repondéré ACM, démonstration du clivage de classe parallèle (vs perpendiculaire pour le cannabis), distinction racisme civilisationnel (haut-droite) vs racisme de pénurie (bas-gauche), positionnement de Roussel/Franc-Tireur dans l'espace Charlie
 - [[TONDELIER CANDIDATE A LA PRESIDENTIELLE ON ANALYSE LA REINE DES NOISETTES]] — application de la position haut-milieu pour expliquer l'idéalisme maximal de Tondelier : à l'écart de l'inconfort matériel ET à l'écart de la possession des moyens de production ; prédiction 2% par le Graphique — Application du Graphique à la stratégie 2027 : rubans électoraux depuis 2002, positionnement des candidats 2027 par analogie avec 2002, proposition des [[Etats generaux du Graphique]] (assemblée de 5000 tirée au sort selon les PCS) comme horizon démocratique
 - [[SONDAGE ANTI-MELENCHON L IFOP MET L EXTREME DROITE A 62 AU 1ER TOUR]] — Démonstration complète du biais sondagier via le Graphique : positionnement des candidats du sondage IFOP 2026, comparaison structurelle avec la dispersion de 2012 (même partitionnement avant [[Moisation]] macroniste), "graphicide" opéré sur les PCS révélées par l'IFOP lui-même (71% de chômeurs pour Bardella = aberration de composition), comparaison visuelle des blocs réels vs sondages depuis 2002. Inclut aussi une explication pédagogique complète des deux axes (Zoé se positionne elle-même : médecin = haut et un peu à droite)

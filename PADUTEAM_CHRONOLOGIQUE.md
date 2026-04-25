@@ -759,11 +759,13 @@ Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + [[LA P
 ---
 ## Batch 41 — Rattrapage transcripts (vidéos de batches ✅ sans fiche)
 
-Statut : ⏳ à ingérer
+Statut : ✅ fait (2026-04-25)
 Slug branche : ingest-batch/paduteam-rattrapage-transcripts
 
-- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (transcript récupéré — batch 10 déjà ✅)
-- [ ] THAÏS : les VSS l'ont rendue NAZIE !? (transcript récupéré — batch 18 déjà ✅)
-- [ ] TONDELIER VA À DES DÎNERS DE BOURGEOIS D'EXTRÊME DROITE !? (c'est pire que vous croyez...) (transcript récupéré — batch 34 déjà ✅)
+- [x] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (transcript récupéré — batch 10 déjà ✅)
+- [x] THAÏS : les VSS l'ont rendue NAZIE !? (transcript récupéré — batch 18 déjà ✅)
+- [x] TONDELIER VA À DES DÎNERS DE BOURGEOIS D'EXTRÊME DROITE !? (c'est pire que vous croyez...) (transcript récupéré — batch 34 déjà ✅)
+
+Fiches créées : Charlie Hebdo (vidéo + organisation), Tondelier dîners (vidéo), Ecologie comme fausse conscience (concept), Pierre-Rene Laavier (individu). Fiches enrichies : Thaïs VSS (vidéo), +14 fiches concepts/individus/organisations/enjeux.
 
 ---
