@@ -182,7 +182,7 @@ Fiches créées : 11 vidéos, 8 individus (Psykocouac, Alexia Michelin, Marina S
 Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w09-w10
 Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEBAT ZAWATALK PSY PSYKOCOUAC]], [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]], [[RAZ ET WISSAM ONT-ILS GACHE LE ZAWATALK]], [[ANTOINE DANIEL DERAPE AU SUJET DES MILLIARDAIRES]], [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]] + 15 concepts, 13 individus, 3 organisations — Enjeux enrichis : Guerre des gauches, Union populaire, Plus jamais PS, Féminisme matérialiste, Antiféminisme identitaire comme menace, Critique de la fachosphère
-- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue) ⚠️ transcript absent
+- [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
 - [x] PADUSTREAM C'EST DÉJÀ FINI !!
 - [x] Les FANS de BÉGAUDEAU sont-ils des FRAGILES ? (avec @Dr_Zoé_YT )
 - [x] FDESOUCHE nous ATTAQUE : “PADU ET DR ZOÉ sont-ils COMPLICES de PAYD0CRIM1NELS ?” (avec @Dr_Zoé_YT)
@@ -335,11 +335,11 @@ Fiches créées : [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]
 - [x] Les DERNIERS JOURS de l'IRAN des MOLLAH ? (analyse MARXISTE)
 - [x] USUL ATTAQUÉ par le PIRE MAIRE PS de FRANCE !!
 - [x] RETAILLEAU TRAQUE LES SANS-PAPIERS et veut "S'INSPIRER DES ALLEMANDS"
-- [ ] THAÏS : les VSS l'ont rendue NAZIE !? ⚠️ transcript absent
-- [ ] Les CHÔMEURS sont-ils VRAIMENT des ASSISTÉS ? ⚠️ transcript absent
+- [ ] THAÏS : les VSS l'ont rendue NAZIE !?
+- [ ] Les CHÔMEURS sont-ils VRAIMENT des ASSISTÉS ?
 - [x] PAYE TON DROITARD #9 : JULIEN ROCHEDY, de SURHOMME à PAPA DÉCONSTRUIT
 - [x] SARAH SALDMANN explique LA LUTTE DES CLASSES à PASCAL PRAUD
-- [ ] MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES !! ⚠️ transcript absent
+- [ ] MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES !!
 - [x] MACRON veut nous FAIRE TRAVAILLER jusqu'à LA MORT
 - [x] HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM
 
@@ -483,11 +483,11 @@ Statut : ✅ fait (2026-04-21)
 Slug branche : ingest-batch/paduteam-2025-w41-w42
 Fiches créées : [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]], [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]], [[LECORNU DEJA CENSURE]], [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]], [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]], [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]], [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] + 8 concepts (Conflictualisation, Classe techno-stato-capitaliste, Dignite generationnelle, Homo-economicus comme piege ideologique, Patrons de gauche, Petit-bourgeoisisme, Politique de terre brulee, Reification) + 7 individus (Benjamin Duhamel, Bernard Arnaud, Clementine Autain, Eric Dupont-Moretti, Jeremy Corbyn, Magali Berdah, Nathalie Saintcric) + 3 enjeux enrichis (Guerre des gauches, Plus jamais PS, Union populaire)
 
-- [ ] LA GUERRE AU RN EST DÉCLARÉE ?! ⚠️ transcript absent
+- [ ] LA GUERRE AU RN EST DÉCLARÉE ?! ⚠️ sous-titres indisponibles sur YouTube (vérifié 2026-04-25)
 - [x] GAZA : 2 ANS APRÈS LE 7 OCTOBRE- STOP AU GEN0CIDE
 - [x] DÉMISSION DE LECORNU : ÇA CHAUFFE DE + EN + POUR MACRON !
-- [ ] MACRON VA PARTIR ! LES BANQUIERS VONT LE DÉGAGER ⚠️ transcript absent
-- [ ] SONDAGE ANTI-MÉLENCHON : LES MENSONGES DE L’IFOP VS LA VÉRITÉ DU SAINT GRAPHIQUE ⚠️ transcript absent
+- [ ] MACRON VA PARTIR ! LES BANQUIERS VONT LE DÉGAGER ⚠️ sous-titres indisponibles sur YouTube (vérifié 2026-04-25)
+- [ ] SONDAGE ANTI-MÉLENCHON : LES MENSONGES DE L’IFOP VS LA VÉRITÉ DU SAINT GRAPHIQUE ⚠️ sous-titres indisponibles sur YouTube (vérifié 2026-04-25)
 - [x] INTERVIEW CATASTROPHIQUE DE SALOMÉ SAQUÉ ET LAURENT MAUDUIT : LES PATRONS DE GAUCHE
 - [x] LECORNU DÉJÀ CENSURÉ ?
 - [x] FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MÉLENCHON !
@@ -570,7 +570,7 @@ Fiches créées : [[HOLLANDE prepare t-il SON RETOUR]], [[LA PORTE-PAROLE DU PCF
 - [x] COMMISSION MÉLENCHON : LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS !!
 - [x] BRIGITTE MACRON INSULTE les MILITANTES de NousToutes en soutien à ARY ABITTAN
 - [x] LE PS et LES ÉCOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON
-- [ ] BÉGAUDEAU se RIDICULISE sur le DÉTERMINISME et le MARXISME !! ⚠️ transcript absent
+- [ ] BÉGAUDEAU se RIDICULISE sur le DÉTERMINISME et le MARXISME !!
 
 ---
 ## Batch 31 — Semaines 2025-W51 à 2025-W52 (15 déc 2025 – 28 déc 2025)
@@ -638,7 +638,7 @@ Slug branche : ingest-batch/paduteam-2026-w05-w06
 - [x] PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE !
 - [x] BARDELLA S’APLATIT DEVANT TRUMP !! (c’est gênant)
 - [x] RUFFIN : UN PRÉSIDENT ÉCO + EST POSSIBLE !
-- [ ] TONDELIER VA À DES DÎNERS DE BOURGEOIS D’EXTRÊME DROITE !? (c’est pire que vous croyez...) — transcript absent
+- [ ] TONDELIER VA À DES DÎNERS DE BOURGEOIS D’EXTRÊME DROITE !? (c’est pire que vous croyez...)
 - [x] LE PLAN MEDIAPART POUR EMPÊCHER MÉLENCHON EN 2027 !
 - [x] TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES ! (même Zoé est choquée )
 - [x] FAURE ET SA PRIMAIRE ASSASSINÉS PAR LE PS DE FRANÇOIS HOLLANDE !!
@@ -746,12 +746,14 @@ Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBA
 - [x] TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !
 
 ---
-## Batch 40 — Semaine 2026-W17 (20 avr 2026)
+## Batch 40 — Semaine 2026-W17 (20 avr 2026 – 26 avr 2026)
 
-Statut : ✅ fait (2026-04-23)
+Statut : ⏳ à compléter (2 vidéos publiées après l'ingestion initiale du 2026-04-23)
 Slug branche : ingest-batch/paduteam-2026-w17
 Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + 2 concepts (Class Blind, Structures mentales de classe) + 1 individu (Stephane Peu) + 2 organisations (Institut La Boetie, Peau Noir Ligne Rouge) + enrichissements : Aurelie Trouvee, Stathis Kouvelakis, France Insoumise, Confederation des PME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat generalise, Alienation de la bourgeoisie + enjeux : Union populaire, Guerre des gauches
 
 - [x] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
+- [ ] LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263) — 2026-04-23
+- [ ] BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ? — 2026-04-24
 
 ---

@@ -75,3 +75,33 @@
 [2026-04-20 16:47:49]   Succès : 1
 [2026-04-20 16:47:49]   Échecs : 0
 [2026-04-20 16:47:49] ============================================================
+[2026-04-23 03:54:39]   stdout: Batch 40 terminé et mergé dans `develop`. Voici le bilan :
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: ---
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **Batch 40 — W17 2026 — 1 vidéo ingérée**
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **Vidéo** : L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT ! (`-LxOG_3Mvm0`)
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **6 fiches créées :**
+[2026-04-23 03:54:39]   stdout: - `Videos/L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !.md` — 11 thèses, 5 données chiffrées, 13 footnotes timestampées
+[2026-04-23 03:54:39]   stdout: - `Concepts/Class Blind.md` — nouveau concept : incapacité à voir la classe comme déterminant structurel, par analogie avec gender/race blind
+[2026-04-23 03:54:39]   stdout: - `Concepts/Structures mentales de classe.md` — mécanisme complet, cas médecins/infirmières/boucher
+[2026-04-23 03:54:39]   stdout: - `Individus/Stephane Peu.md` — député PCF, présent à l'Institut La Boétie
+[2026-04-23 03:54:39]   stdout: - `Organisations/Institut La Boetie.md` — think tank LFI, critique de l'invitation exclusive aux syndicats patronaux
+[2026-04-23 03:54:39]   stdout: - `Organisations/Peau Noir Ligne Rouge.md` — collectif afroféministe, contre-exemple à la stratégie LFI
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **9 fiches enrichies** : Aurélie Trouvé, Stathis Kouvelakis, France Insoumise, CPME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat généralisé, Aliénation de la bourgeoisie
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **2 enjeux enrichis** : Union populaire (stratégie petits patrons ≠ salariat des PME), Guerre des gauches (fracture de classe interne à LFI avec Aurélie Trouvé)
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: ---
+[2026-04-23 03:54:39]   stdout: 
+[2026-04-23 03:54:39]   stdout: **Note git** : les changements batch 38 sont dans le stash (`stash@{0}: batch38-wip`). Pour reprendre : `git checkout ingest-batch/paduteam-2026-w13-w14 && git stash pop`.
+[2026-04-23 03:54:39] ✓ Batch 40 terminé avec succès.
+[2026-04-23 03:54:39] 
+============================================================
+[2026-04-23 03:54:39] TERMINÉ
+[2026-04-23 03:54:39]   Succès : 9
+[2026-04-23 03:54:39]   Échecs : 3
+[2026-04-23 03:54:39] ============================================================
