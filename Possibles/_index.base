@@ -1,0 +1,26 @@
+filters:
+  and:
+    - couche.contains("possible")
+views:
+  - type: table
+    name: Tous les possibles
+    order:
+      - file.name
+      - domaine
+      - thèmes
+      - file.mtime
+      - couche_skill_version
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 280
+  - type: table
+    name: Récents
+    order:
+      - file.name
+      - domaine
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

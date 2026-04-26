@@ -3,11 +3,14 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Iran, États-Unis]
 enjeux: [anti-impérialisme, campisme-assumé]
+methodes: [Materialisme historique]
+conjonctures: [Crise de l'hegemonie americaine, Doctrine Monroe 2.0]
+evenements: [Guerre USA-Iran 2026]
 date: 2026-03-17
 youtube_id: ZkNLJ6DzTTM
 skill_version: ingest-batch-2026-04-23
 date created: Monday, April 13th 2026, 11:57:46 pm
-date modified: Thursday, April 23rd 2026, 12:00:00 pm
+date modified: 2026-04-25
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran #thème/États-Unis #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

@@ -1,11 +1,13 @@
 ---
 type: concept
+couche: conjoncture
+periode: "2025-2026"
 domaine: [géopolitique, théorie]
 thèmes: [anti-impérialisme, États-Unis]
 aliases: [colonialisme sans masque, colonialisme assumé, impérialisme transparent, sortie du néoconservatisme]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 10:00:00 pm
-date modified: Monday, April 20th 2026, 1:27:59 pm
+date modified: 2026-04-25
 ---
 #domaine/géopolitique #domaine/théorie #thème/anti-impérialisme #thème/États-Unis
 

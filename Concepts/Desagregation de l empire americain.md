@@ -1,11 +1,13 @@
 ---
 type: concept
+couche: [conjoncture, possible]
+periode: "2025-2026"
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, États-Unis]
 aliases: [désagrégation de l'empire, dislocation de l'empire américain, CalExit, séparatisme américain]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Sunday, April 19th 2026, 9:00:00 pm
+date modified: 2026-04-25
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/États-Unis
 # Desagregation de l empire americain

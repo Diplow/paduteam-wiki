@@ -1,11 +1,13 @@
 ---
 type: concept
+couche: conjoncture
+periode: "2008-2026"
 domaine: [économie, théorie]
 thèmes: [anti-impérialisme, écologie]
 aliases: [triple crise, crise sociale mondiale écologique, crise totale du capitalisme]
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 10:00:00 pm
-date modified: Monday, April 20th 2026, 1:27:59 pm
+date modified: 2026-04-25
 ---
 #domaine/économie #domaine/théorie #thème/anti-impérialisme #thème/écologie
 

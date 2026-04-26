@@ -4,10 +4,14 @@ youtube_id: r8ovmwQWv8U
 domaine: [géopolitique, théorie]
 thèmes: [États-Unis, anti-impérialisme, racisme-antiracisme]
 enjeux: [anti-impérialisme, campisme-assumé]
+methodes: [Materialisme historique]
+conjonctures: [Crise de l'hegemonie americaine, Colonialisme revendique, Triple crise du capitalisme]
+possibles: [Universalisme materiel, Desagregation de l empire americain]
+evenements: [Discours Rubio Munich 2026]
 date: 2026-02-25
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm
-date modified: Monday, April 20th 2026, 1:27:50 pm
+date modified: 2026-04-25
 ---
 #domaine/géopolitique #domaine/théorie #thème/États-Unis #thème/anti-impérialisme #thème/racisme-antiracisme #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

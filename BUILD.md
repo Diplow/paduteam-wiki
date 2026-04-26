@@ -52,8 +52,23 @@ Elle ne fait **pas** de recherche extensive. Elle prend le contexte pour acquis 
 | `write-video` | Rédiger/enrichir une fiche `Videos/` | v1 |
 | `write-entity` | Rédiger/enrichir une fiche `Individus/` ou `Organisations/` | v1 |
 | `write-concept` | Rédiger/enrichir une fiche `Concepts/` | v1 |
-| `write-enjeu` | Rédiger/enrichir une fiche `Enjeux/` | v1 |
+| `write-enjeu` | Rédiger/enrichir une fiche `Enjeux/` (format loadout) | v2 |
+| `write-methode` | Promouvoir un concept en méthode (couche d'analyse) | v1 |
+| `write-conjoncture` | Promouvoir un concept en conjoncture (diagnostic du moment) | v1 |
+| `write-possible` | Promouvoir un concept en possible (horizon défendu) | v1 |
+| `write-evenement` | Rédiger/enrichir une fiche `Evenements/` (fait daté) | v1 |
 | `ingest-batch` | Ingérer plusieurs transcripts par sujet pour cohérence maximale | v1 |
+
+### Couches d'accès au-dessus des entités
+
+Au-delà des 5 types de fiches « entité » (Vidéos / Individus / Organisations / Concepts / Enjeux), 4 **couches d'accès** rendent navigable la pensée PaduTeam comme projet structuré :
+
+- **Méthodes** (`Methodes/`) — outils d'analyse (matérialisme historique, Le Graphique, analyse en blocs sociaux). Une méthode organise le regard.
+- **Conjonctures** (`Conjonctures/`) — diagnostics du moment historique (crise de l'hégémonie US, triple crise du capitalisme, moïsation, extrême-droitisation). Une conjoncture décrit un état structurant.
+- **Possibles** (`Possibles/`) — horizons défendus (universalisme matériel, choc d'abondance, désagrégation progressiste de l'empire). Un possible se déploie *vers* un horizon ; un enjeu se mène *contre* un adversaire.
+- **Évènements** (`Evenements/{période}/`) — faits datés analysés en profondeur (Guerre USA-Iran 2026, Discours Rubio Munich 2026, Coup CIA contre Mossadegh 1953).
+
+Les 3 premières couches **n'ont pas de fichiers propres** au-delà du MOC + `.base` : les concepts qui en relèvent restent dans `Concepts/` avec un champ `couche` en frontmatter. Méthodes/Conjonctures/Possibles sont donc des *vues* sur Concepts, matérialisées par les `.base`. Les Évènements, en revanche, sont des entités à part entière (nouveau type `evenement`).
 
 ---
 
@@ -86,7 +101,7 @@ Elle ne fait **pas** de recherche extensive. Elle prend le contexte pour acquis 
 ### YAML frontmatter
 
 Toujours inclure au minimum :
-- `type` : vidéo / individu / organisation / concept / enjeu
+- `type` : vidéo / individu / organisation / concept / enjeu / evenement / moc
 - `domaine` : 1-2 valeurs parmi politique-intérieure, géopolitique, économie, théorie, société
 - `thèmes` : liste de thèmes du vocabulaire contrôlé
 - `skill_version` : identifiant de la skill + date (ex: `write-video-2026-04-12`, `ingest-2026-04-12`)
@@ -95,8 +110,23 @@ Selon le type :
 - **Vidéos** : + `enjeux`, `date`, `youtube_id`
 - **Individus** : + `aliases`
 - **Organisations** : + `aliases`
-- **Concepts** : + `aliases`
+- **Concepts** : + `aliases`. *Optionnel* : `couche` (`methode`, `conjoncture`, `possible` — peut être une liste si transverse), `couche_skill_version` (set par la skill avancée), `periode` (pour les conjonctures).
 - **Enjeux** : pas de champ supplémentaire spécifique
+- **Évènements** : + `date` (YYYY-MM-DD), `periode` (sous-dossier, ex: "2026"), optionnel `date_fin`, `aliases`
+
+### Back-références vers les couches d'accès
+
+Les fiches bas-niveau (Vidéos, Individus, Organisations, Concepts) qui mobilisent un objet de couche supérieure le déclarent en frontmatter. C'est ce qui alimente les `.base` des couches.
+
+```yaml
+methodes: [Materialisme historique, Graphique]
+conjonctures: [Crise de l hegemonie americaine, Triple crise du capitalisme]
+possibles: [Desagregation de l empire americain]
+evenements: [Guerre USA-Iran 2026, Enlevement Maduro 2026]
+# enjeux: [...] existe déjà pour les vidéos
+```
+
+Ne pas remplir ces champs gratuitement — uniquement si la fiche bas-niveau *traite significativement* de la couche. Ce sont les `.base` qui alimentent la navigation par couche : la qualité du back-référencement = la qualité de la navigation.
 
 ### Hashtags inline
 
@@ -201,6 +231,7 @@ Merge manuel par l'utilisateur. Publication via Obsidian Publish.
 
 ```
 Graphiked/
+├── Bienvenue.md                     ← homepage publique (Obsidian Publish)
 ├── CLAUDE.md                        ← instructions projet (ce qu'est le vault)
 ├── BUILD.md                         ← ce fichier (comment le vault est construit)
 ├── Sources/
@@ -210,7 +241,14 @@ Graphiked/
 ├── Individus/                       ← 1 fiche par personne
 ├── Organisations/                   ← 1 fiche par parti/asso/média
 ├── Concepts/                        ← 1 fiche par concept analytique
-├── Enjeux/                          ← 1 fiche par combat stratégique
+├── Enjeux/                          ← 1 fiche par combat stratégique (loadout)
+├── Methodes/                        ← MOC + .base — vue sur les concepts couche=methode
+├── Conjonctures/                    ← MOC + .base — vue sur les concepts couche=conjoncture
+├── Possibles/                       ← MOC + .base — vue sur les concepts couche=possible
+├── Evenements/                      ← 1 fiche par fait daté, organisé par période
+│   ├── 2026/
+│   ├── 1950-1979/
+│   └── ...
 └── Skills/                          ← skills Claude (1 dossier par skill)
 ```
 

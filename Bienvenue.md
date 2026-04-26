@@ -48,15 +48,31 @@ Les fiches sont taguées par domaine (`#domaine/politique-intérieure`, `#domain
 
 ## Structure de la base
 
-Les fiches sont organisées en 5 types dans le dossier `Knowledge/` :
+La base s'organise en deux niveaux : des **entités** (le matériau de base) et des **couches d'accès** (des portes d'entrée qui rendent navigable la pensée PaduTeam comme projet structuré).
+
+### Entités
 
 | Dossier | Contenu | Exemple |
 |---|---|---|
-| `videos/` | Une fiche par vidéo ingérée — résumé, thèses défendues, liens vers les concepts | [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] |
-| `individus/` | Profils de personnalités politiques — position sur le Graphique, trajectoire | [[Jean-Luc Melenchon]] |
-| `organisations/` | Partis, associations, médias — dynamique, figures clés, analyse PaduTeam | [[France Insoumise]] |
-| `concepts/` | Outils analytiques de la PaduTeam — Le Graphique, la Moïsation, la Fascisation... | [[Graphique]] |
-| `enjeux/` | Combats stratégiques récurrents — positions militantes défendues vidéo après vidéo | [[Plus jamais PS]] |
+| `Videos/` | Une fiche par vidéo ingérée — résumé, thèses défendues, liens vers les concepts | [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] |
+| `Individus/` | Profils de personnalités politiques — position sur le Graphique, trajectoire | [[Jean-Luc Melenchon]] |
+| `Organisations/` | Partis, associations, médias — dynamique, figures clés, analyse PaduTeam | [[France Insoumise]] |
+| `Concepts/` | Outils analytiques de la PaduTeam — Le Graphique, la Moïsation, la Fascisation... | [[Graphique]] |
+| `Enjeux/` | Combats stratégiques récurrents — positions militantes défendues vidéo après vidéo | [[Plus jamais PS]] |
+| `Evenements/` | Faits datés analysés en profondeur — organisés par période | [[Guerre USA-Iran 2026]] |
+
+### Couches d'accès
+
+Au-delà des entités, 4 couches reflètent la façon dont la PaduTeam pense :
+
+| Couche | Question | Exemples |
+|---|---|---|
+| [[Methodes (MOC)\|Méthodes]] | Avec quels outils analyser ? | Matérialisme historique, [[Graphique]], analyse en blocs sociaux |
+| [[Conjonctures (MOC)\|Conjonctures]] | Dans quel moment vit-on ? | Crise de l'hégémonie US, Triple crise du capitalisme, Moïsation |
+| [[Possibles (MOC)\|Possibles]] | Vers quels horizons aller ? | Universalisme matériel, Choc d'abondance, Désagrégation de l'empire |
+| [[Evenements (MOC)\|Évènements]] | Quels faits font nœud ? | Guerre USA-Iran 2026, Discours Rubio Munich 2026, Coup CIA Mossadegh 1953 |
+
+Les Méthodes / Conjonctures / Possibles ne sont pas des dossiers de fiches autonomes — ce sont des *vues* sur les Concepts pertinents (matérialisées par des `.base` Obsidian). Les Évènements, eux, sont des fiches à part entière.
 
 ---
 

@@ -54,13 +54,23 @@ Le vault est une base de connaissances vivante — l'interroger fait partie de s
 
 ## Structure
 
+**Entités** (1 fiche par objet du monde) :
 - `Sources/` — Matériau brut (transcripts de vidéos YouTube, inventaire)
 - `Videos/` — 1 fiche par vidéo ingérée
 - `Individus/` — 1 fiche par personne
 - `Organisations/` — 1 fiche par parti/asso/média
 - `Concepts/` — 1 fiche par concept analytique
-- `Enjeux/` — 1 fiche par combat stratégique récurrent
-- `Skills/` — Skills Claude pour automatiser l'ingestion
+- `Enjeux/` — 1 fiche par combat stratégique récurrent (format loadout militant)
+- `Evenements/` — 1 fiche par fait daté analysé en profondeur, organisé par période (`2026/`, `1950-1979/`…)
+
+**Couches d'accès** (vues sur les Concepts via le frontmatter `couche`) :
+- `Methodes/` — outils d'analyse (matérialisme historique, Le Graphique…)
+- `Conjonctures/` — diagnostics du moment (crise hégémonie US, triple crise…)
+- `Possibles/` — horizons défendus (universalisme matériel, désagrégation de l'empire…)
+
+Chaque couche contient un MOC + un `_index.base` (vue Obsidian Bases). Les fiches concepts qui relèvent d'une couche ne sont pas migrées : elles restent dans `Concepts/` avec un champ `couche: methode|conjoncture|possible` en frontmatter.
+
+- `Skills/` — Skills Claude pour automatiser l'ingestion et la promotion par couche
 
 ## Conventions générales
 

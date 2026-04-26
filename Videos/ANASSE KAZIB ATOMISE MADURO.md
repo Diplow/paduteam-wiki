@@ -3,11 +3,14 @@ type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, Venezuela, guerre-des-gauches, théorie, Amérique-latine]
 enjeux: [anti-imperialisme, campisme-assume, guerre-des-gauches]
+methodes: [Materialisme historique]
+conjonctures: [Crise de l'hegemonie americaine, Doctrine Monroe 2.0]
+evenements: [Enlevement Maduro 2026]
 date: 2026-01-07
 youtube_id: "aeSazWdKNNs"
 skill_version: write-video-2026-04-22
 date created: Tuesday, April 14th 2026, 12:19:58 am
-date modified: Wednesday, April 22nd 2026, 12:00:00 pm
+date modified: 2026-04-25
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/Venezuela #thème/guerre-des-gauches #thème/Amérique-latine #enjeu/anti-imperialisme #enjeu/campisme-assume #enjeu/guerre-des-gauches
 
