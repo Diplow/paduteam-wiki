@@ -74,11 +74,9 @@ Chaque couche contient un MOC + un `_index.base` (vue Obsidian Bases). Les fiche
 
 ## Conventions générales
 
-- **Noms de fichiers**: pas d'accents ni de caractères spéciaux (`Jean-Luc Melenchon.md`, pas `Jean-Luc Mélenchon.md`). Les noms accentués sont définis en `aliases` dans le frontmatter.
-- **Wikilinks**: `[[Nom Exact du Fichier]]` sans chemin, sans .md
-- **Aliases**: définis en frontmatter YAML, permettent les liens via `[[Nom réel|alias]]`
-- **Langue**: français, ton analytique (pas encyclopédique)
-- **Principe fondamental**: restituer la vision PaduTeam telle quelle, sans modérer ni nuancer
+Pour les conventions de fichiers, wikilinks, aliases, frontmatter, voir le `BUILD.md` de WikiPol (`../../BUILD.md`). Spécificités PaduTeam : voir `BUILD.md` (ce dossier).
+
+**Principe fondamental** : restituer la vision PaduTeam telle quelle, sans modérer ni nuancer. Langue : français, ton analytique (pas encyclopédique).
 
 ## Lire les sources PaduTeam — avertissements
 
@@ -92,62 +90,55 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 
 ## Taxonomie des tags
 
-3 axes structurent le tagging (voir `BUILD.md` pour le détail complet) :
-
-1. **domaine** — champ d'analyse (politique-intérieure, géopolitique, économie, théorie, société)
-2. **thèmes** — sujets spécifiques récurrents (vocabulaire contr��lé, extensible)
-3. **enjeux** — combats stratégiques récurrents de la PaduTeam
-
-**Le tag `paduteam` n'est pas utilisé** — tout le vault est PaduTeam par définition.
+Voir `BUILD.md` (ce dossier) pour la liste complète des domaines, thèmes et enjeux PaduTeam, et les seuils d'ajout d'un nouveau tag. Le tag `paduteam` n'est pas utilisé — tout le vault est PaduTeam par définition.
 
 ## Ingestion automatisée
 
 Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅ et un slug de branche. C'est la source de vérité pour l'avancement de l'ingestion.
 
-### Scripts d'automatisation (`Sources/Transcripts/`)
+### Scripts d'automatisation (au niveau WikiPol)
 
-**Lancer l'ingestion d'un batch spécifique :**
+Les scripts d'ingestion vivent à la racine du repo parent (WikiPol) et lisent `source.yaml` via `--source Sources/Paduteam` :
+
 ```bash
-python Sources/Transcripts/run_ingest.py --batch N
+# depuis la racine WikiPol :
+python Scripts/run_ingest.py --source Sources/Paduteam --batch N
+python Scripts/run_ingest.py --source Sources/Paduteam              # tous les batchs en attente
+python Scripts/run_ingest.py --source Sources/Paduteam --dry-run    # afficher sans exécuter
+python Scripts/run_ingest.py --source Sources/Paduteam --from N     # reprendre depuis le batch N
+python Scripts/run_ingest.py --source Sources/Paduteam --model opus # Opus au lieu de Sonnet
+
+python Scripts/batch_transcripts.py --source Sources/Paduteam --full
+python Scripts/batch_transcripts.py --source Sources/Paduteam --recent N
+python Scripts/batch_transcripts.py --source Sources/Paduteam --dry-run
+
+python Scripts/generate_chronological.py --source Sources/Paduteam
+python Scripts/generate_chronological.py --source Sources/Paduteam --force
+
+python Scripts/timestamp_to_seconds.py "MM:SS"   # helper MM:SS → secondes
 ```
 
-**Lancer tous les batchs en attente :**
-```bash
-python Sources/Transcripts/run_ingest.py
-```
+### Skills spécifiques à PaduTeam
 
-**Autres options `run_ingest.py` :**
-```bash
---dry-run          # afficher sans exécuter
---from N           # reprendre depuis le batch N
---model opus       # utiliser Opus au lieu de Sonnet
-```
+Le dossier `Skills/` contient les skills source-spécifiques qui surchargent les skills génériques de WikiPol :
 
-**Gérer les transcripts (découverte, extraction, correctifs) :**
-```bash
-python Sources/Transcripts/batch_transcripts.py --full        # discover + fix + extract
-python Sources/Transcripts/batch_transcripts.py --recent N    # N vidéos les plus récentes
-python Sources/Transcripts/batch_transcripts.py --dry-run     # toutes les modes supportent --dry-run
-```
+| Skill | Rôle | Particularité PaduTeam |
+|-------|------|------------------------|
+| `write-enjeu` | Fiche `Enjeux/` | Format **loadout militant** (thèse + munitions + dispositifs adverses + vidéos par usage), pas le format narratif générique |
+| `write-evenement` | Fiche `Evenements/{periode}/` | Sous-dossiers de période (`2026/`, `1950-1979/`…), back-références via frontmatter `evenements:` |
+| `write-methode` | Concept `couche: methode` | « Promotion » d'un concept en méthode (vue) — pas de fiche séparée |
+| `write-conjoncture` | Concept `couche: conjoncture` | « Promotion » en conjoncture — vue sur Concepts |
+| `write-possible` | Concept `couche: possible` | « Promotion » en possible — vue sur Concepts |
 
-**Régénérer `PADUTEAM_CHRONOLOGIQUE.md` :**
-```bash
-python Sources/Transcripts/generate_chronological.py
-python Sources/Transcripts/generate_chronological.py --force  # écraser même si des batchs ✅ existent
-```
-
-**Helper timestamps (MM:SS → secondes pour les liens `&t=`) :**
-```bash
-python Sources/timestamp_to_seconds.py
-```
+Toutes les autres skills (`gather-context`, `ingest-video`, `ingest-batch`, `write-video`, `write-entity`, `write-concept`) sont génériques et viennent de `WikiPol/Skills/`.
 
 ### Mode automatique d'ingestion (batch)
 
-Quand l'utilisateur demande d'ingérer un batch en "mode automatique", utiliser le skill `ingest-batch` en passant le numéro de batch depuis `PADUTEAM_CHRONOLOGIQUE.md`. Le skill lit les transcripts un par un (un sous-agent par vidéo), puis consolide les enjeux en fin de batch.
+Quand l'utilisateur demande d'ingérer un batch en "mode automatique", utiliser le skill `ingest-batch` en passant le numéro de batch depuis `PADUTEAM_CHRONOLOGIQUE.md`. Le skill lit les transcripts un par un (un sous-agent par vidéo), puis consolide les enjeux/conjonctures/possibles/methodes en fin de batch (selon `content_types` dans `source.yaml`).
 
 ## Comment le vault est construit
 
-Voir `BUILD.md` pour l'architecture des skills, les conventions de construction, le workflow git et les invariants.
+Voir `../../BUILD.md` (WikiPol) pour les conventions universelles (architecture skills, nommage, wikilinks, frontmatter, hashtags, sourcing YouTube, workflow git). Voir `BUILD.md` (ce dossier) pour les conventions spécifiques à PaduTeam (couches d'accès, taxonomie, attribution, style).
 
 ## Principe d'auto-amélioration
 

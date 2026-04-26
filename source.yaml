@@ -1,0 +1,49 @@
+# Configuration de la source PaduTeam — paramètre unique d'entrée
+# pour les scripts (Scripts/*.py au niveau WikiPol) et les skills.
+
+source:
+  name: "PaduTeam"
+  slug: "paduteam"
+  type: "youtube"
+  attribution: "la PaduTeam"
+
+youtube:
+  channel_url: "https://www.youtube.com/@PaduTeam/videos"
+  channel_handle: "@PaduTeam"
+
+files:
+  inventaire: "Sources/Inventaire PaduTeam.md"
+  chronologique: "PADUTEAM_CHRONOLOGIQUE.md"
+
+git:
+  repo: "Diplow/paduteam-wiki"
+  default_branch: "develop"
+  ingest_branch_prefix: "ingest-batch/"
+
+claude:
+  default_model: "sonnet"
+
+# Whitelist stricte des types de fiches activés pour PaduTeam.
+# Particularités :
+# - Methodes / Conjonctures / Possibles sont activés mais traités via les skills
+#   source-spécifiques de Skills/, qui les implémentent comme des "couches" sur
+#   les fiches Concepts (champ couche: methode|conjoncture|possible) plutôt que
+#   comme des fiches séparées. Les dossiers correspondants ne contiennent
+#   que MOC + _index.base.
+# - Livres : pas utilisé pour l'instant (PaduTeam ne fait pas de chroniques d'ouvrage).
+# - Voir BUILD.md de WikiPol pour la spec frontmatter de chaque type.
+content_types:
+  raw:
+    Transcripts: true
+  basic:
+    Individus: true
+    Organisations: true
+    Concepts: true
+    Videos: true
+    Livres: false
+    Evenements: true
+  advanced:
+    Enjeux: true
+    Conjonctures: true
+    Possibles: true
+    Methodes: true
