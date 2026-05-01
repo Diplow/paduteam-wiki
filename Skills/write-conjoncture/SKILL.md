@@ -1,12 +1,6 @@
 ---
 name: write-conjoncture
-description: >
-  Rédige ou enrichit une fiche de couche "conjoncture" — c'est-à-dire un diagnostic d'état
-  structurant du moment historique selon la PaduTeam (crise de l'hégémonie américaine,
-  triple crise du capitalisme, moïsation, extrême-droitisation, néolibéralisme en crise…).
-  Une conjoncture n'est pas un évènement (fait daté) ni une méthode (outil). Déclencher
-  quand l'utilisateur demande une promotion d'un concept en conjoncture, ou la création/
-  enrichissement d'une fiche conjoncture.
+description: Rédige ou enrichit une fiche de couche "conjoncture" — c'est-à-dire un diagnostic d'état structurant du moment historique selon la PaduTeam (crise de l'hégémonie américaine, triple crise du capitalisme, moïsation, extrême-droitisation, néolibéralisme en crise…). Une conjoncture n'est pas un évènement (fait daté) ni une méthode (outil). Déclencher quand l'utilisateur demande une promotion d'un concept en conjoncture, ou la création/ enrichissement d'une fiche conjoncture.
 date created: 2026-04-25
 date modified: 2026-04-25
 ---
