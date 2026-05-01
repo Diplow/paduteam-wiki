@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [le-Graphique, racisme-antiracisme, médias-propagande]
 enjeux: [bataille-culturelle]
+methodes: [Graphique]
 date: 2025-01-07
 youtube_id: "X0tXWZsjENQ"
 skill_version: write-video-2026-04-25

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, le-Graphique]
 enjeux: [union-populaire]
+methodes: [Graphique]
 date: 2025-04-21
 youtube_id: VFiHhZiOWZ8
 aliases: [COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR]

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]
+methodes: [Graphique]
 date created: Wednesday, April 1st 2026, 12:38:04 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---

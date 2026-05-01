@@ -5,6 +5,7 @@ youtube_id: f5eZq8_ZUuc
 domaine: [théorie]
 thèmes: [le-Graphique, travail, féminisme]
 enjeux: []
+methodes: [Graphique]
 intervenants: [Padu, Chris, Dr Zoe]
 aliases: [2 MÂLES TOXIQUES MARXPLIQUENT le GRAPHIQUE]
 date created: Wednesday, April 1st 2026, 5:02:55 pm

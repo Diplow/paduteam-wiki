@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, médias-propagande, le-Graphique]
 enjeux: [union-populaire, plus-jamais-PS]
+methodes: [Graphique]
 date: 2026-03-17
 youtube_id: sk8a235f5Js
 skill_version: write-video-2026-04-23

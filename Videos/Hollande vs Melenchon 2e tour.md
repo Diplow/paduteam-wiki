@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, le-Graphique]
 enjeux: [union-populaire, plus-jamais-PS]
+methodes: [Graphique]
 date: 2026-03-31
 youtube_id: 81kznHfk78k
 aliases: [HOLLANDE vs MÉLENCHON au 2ÈME TOUR la PROPHÉTIE INTERDITE]

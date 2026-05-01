@@ -5,6 +5,7 @@ youtube_id: nBPS8I4ioRs
 domaine: [politique-intérieure, théorie]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]
+methodes: [Graphique]
 date created: Thursday, April 2nd 2026, 1:05:48 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [LORDON MÉLENCHON peut GAGNER en 2027]

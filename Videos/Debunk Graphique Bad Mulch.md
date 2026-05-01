@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [le-Graphique, guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
+methodes: [Graphique]
 date: 2025-03-28
 youtube_id: "GTN2rUgOdFo"
 skill_version: write-video-2026-04-21

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, politique-intérieure]
 thèmes: [psychiatrie-psychologie, le-Graphique, guerre-des-gauches]
 enjeux: [union-populaire]
+methodes: [Graphique]
 date: 2025-01-20
 youtube_id: "CnBY7MaHo04"
 date created: Wednesday, April 1st 2026, 12:46:03 am

@@ -5,6 +5,7 @@ youtube_id: MJsGgEA_Slw
 domaine: [théorie, politique-intérieure]
 thèmes: [le-Graphique, élections]
 enjeux: [union-populaire]
+methodes: [Graphique]
 aliases: [Carte des QI marxiste, Capsule Graphique Positions Revue]
 date created: Wednesday, April 1st 2026, 5:37:20 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

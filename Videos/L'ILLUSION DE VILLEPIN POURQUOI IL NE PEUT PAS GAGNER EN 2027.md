@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [élections, le-Graphique]
 enjeux: [le-Graphique, union-populaire]
+methodes: [Graphique]
 date: 2025-01-27
 youtube_id: "0fGLh8MvMco"
 skill_version: write-video-2026-04-20
