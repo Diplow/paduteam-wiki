@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [travail, marxisme]
 enjeux: []
+conjonctures: [Triple crise du capitalisme]
 date: 2025-07-07
 youtube_id: "oJJjXM92mjs"
 skill_version: write-video-2026-04-21

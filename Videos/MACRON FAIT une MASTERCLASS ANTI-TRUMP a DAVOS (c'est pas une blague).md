@@ -4,6 +4,7 @@ youtube_id: m_yowJv-TVw
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
 enjeux: [anti-imperialisme, campisme-assume]
+conjonctures: [Triple crise du capitalisme]
 date: 2026-01-22
 skill_version: ingest-video-2026-04-22
 ---

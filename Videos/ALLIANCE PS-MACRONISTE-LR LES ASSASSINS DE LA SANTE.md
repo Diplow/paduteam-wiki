@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, économie]
 thèmes: [santé, travail]
 enjeux: [defense-secu, plus-jamais-PS]
+conjonctures: [Triple crise du capitalisme]
 date: 2025-10-20
 youtube_id: "muzy4rcCi8s"
 skill_version: ingest-batch-2026-04-21

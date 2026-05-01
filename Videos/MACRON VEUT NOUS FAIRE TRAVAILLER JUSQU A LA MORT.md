@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, société]
 thèmes: [santé, travail]
 enjeux: [defense-secu]
+conjonctures: [Triple crise du capitalisme]
 date: 2025-06-15
 youtube_id: "dseEwYxePGM"
 skill_version: write-video-2026-04-21

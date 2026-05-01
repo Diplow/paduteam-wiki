@@ -5,6 +5,7 @@ youtube_id: 8ec4hM5ImGs
 domaine: [économie, société]
 thèmes: [travail, anti-impérialisme]
 enjeux: [anti-impérialisme]
+conjonctures: [Triple crise du capitalisme]
 skill_version: write-video-2026-04-21
 aliases: [BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?]
 ---

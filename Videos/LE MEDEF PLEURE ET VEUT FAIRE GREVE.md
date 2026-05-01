@@ -3,6 +3,7 @@ type: video
 domaine: [politique-intérieure, économie]
 thèmes: [lutte-des-classes, travail, marxisme, mouvement-social]
 enjeux: [guerre-des-gauches, union-populaire]
+conjonctures: [Triple crise du capitalisme]
 date: 2025-09-09
 youtube_id: YcsA0DOXtQw
 skill_version: ingest-single-2026-04-21

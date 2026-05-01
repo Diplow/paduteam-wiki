@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, politique-intérieure]
 thèmes: [travail, guerre-des-gauches]
 enjeux: [plus-jamais-PS]
+conjonctures: [Triple crise du capitalisme]
 date: 2025-09-20
 youtube_id: "OOcX-XbD57k"
 skill_version: write-video-2026-04-21

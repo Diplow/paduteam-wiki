@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, économie]
 thèmes: [guerre-des-gauches, écologie, industrie, consommation]
 enjeux: [union-populaire]
+conjonctures: [Triple crise du capitalisme]
 date: 2025-11-14
 youtube_id: "Wp5cDiWWgd4"
 skill_version: "1.0"
