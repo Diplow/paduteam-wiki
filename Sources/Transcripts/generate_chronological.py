@@ -264,7 +264,6 @@ def format_batch_section(batch):
     if dense_warning:
         lines.append(dense_warning.strip())
     lines.append(f"Statut : ⏳ en attente")
-    lines.append(f"Slug branche : {slug}")
     lines.append("")
     for v in videos:
         lines.append(f"- [ ] {v['title']}")

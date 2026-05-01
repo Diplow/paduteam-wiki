@@ -1,5 +1,6 @@
 filters:
-  and:
+  or:
+    - type == "methode"
     - couche.contains("methode")
 views:
   - type: table
@@ -9,7 +10,7 @@ views:
       - domaine
       - thèmes
       - file.mtime
-      - couche_skill_version
+      - skill_version
     sort:
       - property: file.name
         direction: ASC

@@ -2,9 +2,11 @@
 date created: Sunday, April 12th 2026, 6:30:00 pm
 date modified: Monday, April 20th 2026, 1:28:00 pm
 ---
-# BUILD.md — Comment le vault est construit
+# BUILD.md — Comment le vault Paduteam est construit
 
-Ce fichier documente **comment** le vault Graphiked est construit et maintenu : l'architecture des skills, les conventions partagées, et le workflow git. Les skills individuelles (dans `Skills/`) décrivent leur workflow spécifique ; ce fichier contient les invariants communs.
+Ce fichier documente la **taxonomie locale** de Paduteam et les **spécifications des couches advanced** (Enjeu, Conjoncture, Possible, Methode). Les conventions universelles (nommage, wikilinks, frontmatter de base, workflow git) vivent dans `BUILD.md` à la racine de WikiPol — ne pas les redoublonner ici.
+
+Les skills individuelles (dans `Skills/`) décrivent leur workflow spécifique ; ce fichier contient les invariants propres à Paduteam.
 
 ---
 
@@ -25,7 +27,7 @@ Ce fichier documente **comment** le vault Graphiked est construit et maintenu : 
 │  1. Lit le transcript                                │
 │  2. Appelle gather-context pour le sujet             │
 │  3. Dispatche vers les skills spécialisées           │
-│  4. Gère le git (branche, commit, PR)                │
+│  4. Commit direct sur develop                        │
 └───────┬──────────┬──────���───┬──────────┬─────────────┘
         │          │          │          │
         ▼          ▼          ▼          ▼
@@ -45,30 +47,125 @@ Elle ne fait **pas** de recherche extensive. Elle prend le contexte pour acquis 
 
 ### Skills
 
-| Skill | Rôle | Statut |
-|-------|------|--------|
-| `gather-context` | Rassembler tout ce que le vault sait sur un sujet donné | v1 |
-| `ingest-video` | Orchestrer l'ingestion d'un transcript | v2 (orchestrateur) |
-| `write-video` | Rédiger/enrichir une fiche `Videos/` | v1 |
-| `write-entity` | Rédiger/enrichir une fiche `Individus/` ou `Organisations/` | v1 |
-| `write-concept` | Rédiger/enrichir une fiche `Concepts/` | v1 |
-| `write-enjeu` | Rédiger/enrichir une fiche `Enjeux/` (format loadout) | v2 |
-| `write-methode` | Promouvoir un concept en méthode (couche d'analyse) | v1 |
-| `write-conjoncture` | Promouvoir un concept en conjoncture (diagnostic du moment) | v1 |
-| `write-possible` | Promouvoir un concept en possible (horizon défendu) | v1 |
-| `write-evenement` | Rédiger/enrichir une fiche `Evenements/` (fait daté) | v1 |
-| `ingest-batch` | Ingérer plusieurs transcripts par sujet pour cohérence maximale | v1 |
+Skills génériques héritées de WikiPol (non listées ici, voir `BUILD.md` racine) : `gather-context`, `ingest-video`, `ingest-batch`, `write-video`, `write-entity`, `write-concept`, `write-evenement`, `synthesize-couche`.
 
-### Couches d'accès au-dessus des entités
+Skills source-spécifiques de Paduteam (dans `Sources/Paduteam/Skills/`) :
 
-Au-delà des 5 types de fiches « entité » (Vidéos / Individus / Organisations / Concepts / Enjeux), 4 **couches d'accès** rendent navigable la pensée PaduTeam comme projet structuré :
+| Skill | Rôle |
+|-------|------|
+| `write-enjeu` | Rédiger/enrichir une fiche `Enjeux/` (format loadout militant). Rédaction pure — l'orchestration est gérée par `synthesize-couche` (WikiPol). |
+| `write-conjoncture` | Rédiger/enrichir une fiche `Conjonctures/` (`type: conjoncture`). Rédaction pure. |
+| `write-possible` | Rédiger/enrichir une fiche `Possibles/` (`type: possible`). Rédaction pure. |
+| `write-methode` | Rédiger/enrichir une fiche `Methodes/` (`type: methode`). Rédaction pure. |
 
-- **Méthodes** (`Methodes/`) — outils d'analyse (matérialisme historique, Le Graphique, analyse en blocs sociaux). Une méthode organise le regard.
-- **Conjonctures** (`Conjonctures/`) — diagnostics du moment historique (crise de l'hégémonie US, triple crise du capitalisme, moïsation, extrême-droitisation). Une conjoncture décrit un état structurant.
-- **Possibles** (`Possibles/`) — horizons défendus (universalisme matériel, choc d'abondance, désagrégation progressiste de l'empire). Un possible se déploie *vers* un horizon ; un enjeu se mène *contre* un adversaire.
-- **Évènements** (`Evenements/{période}/`) — faits datés analysés en profondeur (Guerre USA-Iran 2026, Discours Rubio Munich 2026, Coup CIA contre Mossadegh 1953).
+Les skills `write-<couche>` ne gèrent ni git, ni gather-context, ni la lecture des vidéos — c'est l'orchestrateur générique `synthesize-couche` qui s'en charge avant de leur déléguer la rédaction.
 
-Les 3 premières couches **n'ont pas de fichiers propres** au-delà du MOC + `.base` : les concepts qui en relèvent restent dans `Concepts/` avec un champ `couche` en frontmatter. Méthodes/Conjonctures/Possibles sont donc des *vues* sur Concepts, matérialisées par les `.base`. Les Évènements, en revanche, sont des entités à part entière (nouveau type `evenement`).
+### Couches advanced de Paduteam
+
+Au-delà des 5 types de fiches « entité » (Vidéos / Individus / Organisations / Concepts / Evenements), 4 **couches advanced** structurent la pensée PaduTeam comme projet :
+
+- **Enjeux** (`Enjeux/`) — combats stratégiques récurrents (3+ vidéos avec position constante).
+- **Conjonctures** (`Conjonctures/`) — diagnostics du moment historique (crise de l'hégémonie US, triple crise du capitalisme, etc.).
+- **Possibles** (`Possibles/`) — horizons défendus (universalisme matériel, choc d'abondance, etc.). Un possible se déploie *vers* un horizon ; un enjeu se mène *contre* un adversaire.
+- **Methodes** (`Methodes/`) — procédures analytiques réutilisables (matérialisme historique, Le Graphique, analyse en blocs sociaux). Une méthode organise le *regard*, pas une thèse politique.
+
+**Approche actuelle (vraies fiches).** Chaque couche est matérialisée par de **vraies fiches dans son dossier dédié** avec `type: enjeu | conjoncture | possible | methode`. Les fiches sont produites par les skills `write-<couche>` (locales à Paduteam) via le workflow `synthesize` de WikiPol (`Scripts/synthesize.py`).
+
+**Cohabitation avec le legacy `couche:`.** Une douzaine de Concepts existants portent encore un champ `couche: conjoncture | possible | methode` en frontmatter — vestiges de l'approche initiale où les couches étaient des *vues virtuelles* sur Concepts. Ces fiches restent en l'état : pas de migration. Les `.base` des dossiers Conjonctures/Possibles/Methodes acceptent les deux conventions (`type == "<couche>" OR couche.contains("<couche>")`). Pour les nouvelles synthèses, **toujours créer une vraie fiche dans le dossier dédié** — ne plus utiliser `couche:` sur des Concepts.
+
+### Spécifications des couches
+
+#### Enjeu
+
+- **Critère de création** : combat stratégique récurrent (3+ vidéos avec position constante).
+- **Format** : « loadout militant » — outil de retrieval pour activistes, pas essai analytique.
+  - Thèse (15-25 mots, mobilisable telle quelle)
+  - Dispositifs adverses à désamorcer (sous-sections par cadrage adverse)
+  - Arguments de fond (bullets, pas paragraphes)
+  - Munitions factuelles (dates, chiffres, cas — **gras pour les clés**)
+  - Adversaires (regroupés par type)
+  - Alliés (optionnel)
+  - Concepts-outils (regroupés par fonction)
+  - Cas d'application (optionnel — déclinaison par région/secteur)
+  - Vidéos par usage (catégorisées par fonction militante, pas chronologie)
+  - Log d'évolution
+- **Frontmatter** :
+  ```yaml
+  type: enjeu
+  domaine: [...]
+  thèmes: [...]
+  skill_version: write-enjeu-...
+  aliases: [...]            # optionnel
+  ```
+- **Nom de fichier** : nom court du combat, sans accents (`Plus jamais PS.md`, `Palestine libre.md`).
+
+#### Conjoncture
+
+- **Critère de création** : diagnostic du moment historique posé explicitement (2+ vidéos avec diagnostic stable, formulation claire — pas une déduction).
+- **Format** :
+  - Diagnostic (1-3 phrases : qu'est-ce qui est structurant ?)
+  - Mécanisme causal (rapport causal — pas description, explication)
+  - Symptômes / manifestations (liste des phénomènes visibles)
+  - Période (bornes temporelles approximatives)
+  - Concepts associés (wikilinks)
+  - Vidéos clés
+- **Frontmatter** :
+  ```yaml
+  type: conjoncture
+  domaine: [...]
+  thèmes: [...]
+  statut: ouverte           # ouverte | confirmée | infirmée | dépassée
+  periode: "2008-2026"
+  skill_version: write-conjoncture-...
+  aliases: [...]            # optionnel
+  horizon: 2030-12-31       # optionnel
+  ```
+- **Nom de fichier** : nom court du diagnostic, sans accents (`Crise de l hegemonie americaine.md`).
+
+#### Possible
+
+- **Critère de création** : trajectoire alternative explicitement articulée par la source (pas une déduction de l'analyste).
+- **Format** :
+  - Horizon (vision positive du monde défendue)
+  - Mécanisme matériel (comment on y va — pas juste « c'est bien »)
+  - Vision adverse (le possible concurrent)
+  - Concepts associés (wikilinks)
+  - Vidéos clés
+- **Frontmatter** :
+  ```yaml
+  type: possible
+  domaine: [...]
+  thèmes: [...]
+  nature: programmatique    # programmatique | contrefactuel
+  skill_version: write-possible-...
+  aliases: [...]            # optionnel
+  acteurs_pivots: [...]     # optionnel
+  horizon: 2030-12-31       # optionnel
+  ```
+- **Nom de fichier** : nom de la trajectoire, sans accents (`Universalisme materiel.md`).
+
+#### Methode
+
+- **Critère de création** : procédure analytique réutilisable enseignée ou systématiquement appliquée par PaduTeam — décomposable en étapes, pas une simple grille de lecture.
+- **Format** :
+  - Définition (1-3 phrases : principe d'analyse ?)
+  - Mécanisme (étapes ordonnées : quelles distinctions elle produit, quels rapports elle met en lumière)
+  - Exemples d'application (2-4 cas concrets)
+  - Concepts dérivés (wikilinks)
+  - Adversaires méthodologiques (méthodes alternatives critiquées)
+  - Vidéos où elle est mobilisée
+- **Frontmatter** :
+  ```yaml
+  type: methode
+  domaine: [...]
+  thèmes: [...]
+  etapes:
+    - "Étape 1 courte"
+    - "Étape 2 courte"
+  skill_version: write-methode-...
+  aliases: [...]            # optionnel
+  ```
+- **Nom de fichier** : nom court de la méthode, sans accents (`Materialisme historique.md`, `Graphique.md`).
 
 ---
 
@@ -100,33 +197,23 @@ Les 3 premières couches **n'ont pas de fichiers propres** au-delà du MOC + `.b
 
 ### YAML frontmatter
 
-Toujours inclure au minimum :
-- `type` : vidéo / individu / organisation / concept / enjeu / evenement / moc
-- `domaine` : 1-2 valeurs parmi politique-intérieure, géopolitique, économie, théorie, société
-- `thèmes` : liste de thèmes du vocabulaire contrôlé
-- `skill_version` : identifiant de la skill + date (ex: `write-video-2026-04-12`, `ingest-2026-04-12`)
+Pour les invariants communs (`type`, `domaine`, `thèmes`, `skill_version`), voir `BUILD.md` à la racine de WikiPol.
 
-Selon le type :
-- **Vidéos** : + `enjeux`, `date`, `youtube_id`
-- **Individus** : + `aliases`
-- **Organisations** : + `aliases`
-- **Concepts** : + `aliases`. *Optionnel* : `couche` (`methode`, `conjoncture`, `possible` — peut être une liste si transverse), `couche_skill_version` (set par la skill avancée), `periode` (pour les conjonctures).
-- **Enjeux** : pas de champ supplémentaire spécifique
-- **Évènements** : + `date` (YYYY-MM-DD), `periode` (sous-dossier, ex: "2026"), optionnel `date_fin`, `aliases`
+**Domaines Paduteam** : `politique-intérieure`, `géopolitique`, `économie`, `théorie`, `société` (1-2 valeurs par fiche).
 
-### Back-références vers les couches d'accès
+**Champs spécifiques par type** :
+- **Vidéos** : `enjeux:` (liste de wikilinks vers fiches `Enjeux/`), `date`, `youtube_id`. Optionnellement `methodes:`, `conjonctures:`, `possibles:` pour les vidéos qui mobilisent ces couches structurellement.
+- **Individus / Organisations** : `aliases` recommandé.
+- **Concepts** : `aliases` recommandé. *Legacy* : `couche` (`methode | conjoncture | possible`, peut être une liste si transverse) + `periode` — ne plus appliquer aux nouvelles fiches, voir « Cohabitation » ci-dessus.
+- **Enjeux / Conjonctures / Possibles / Methodes** : voir la section « Spécifications des couches » ci-dessus.
+- **Evenements** : `date_debut` (YYYY-MM-DD), optionnels `date_fin`, `lieu`, `acteurs` (liste de wikilinks), `aliases`.
 
-Les fiches bas-niveau (Vidéos, Individus, Organisations, Concepts) qui mobilisent un objet de couche supérieure le déclarent en frontmatter. C'est ce qui alimente les `.base` des couches.
+### Back-références vers les couches
 
-```yaml
-methodes: [Materialisme historique, Graphique]
-conjonctures: [Crise de l hegemonie americaine, Triple crise du capitalisme]
-possibles: [Desagregation de l empire americain]
-evenements: [Guerre USA-Iran 2026, Enlevement Maduro 2026]
-# enjeux: [...] existe déjà pour les vidéos
-```
+Les fiches Vidéos déclarent en frontmatter quelles couches elles mobilisent (champs `enjeux:`, `methodes:`, `conjonctures:`, `possibles:` au pluriel — listes de noms de fiches sans accents). Cela permet aux skills `synthesize-couche` et `gather-context` de retrouver les vidéos par grep sur frontmatter.
 
-Ne pas remplir ces champs gratuitement — uniquement si la fiche bas-niveau *traite significativement* de la couche. Ce sont les `.base` qui alimentent la navigation par couche : la qualité du back-référencement = la qualité de la navigation.
+Ne pas remplir ces champs gratuitement — uniquement si la vidéo *traite significativement* de la couche.
+
 
 ### Hashtags inline
 
@@ -154,7 +241,7 @@ Les fiches vidéo incluent un lien YouTube embarqué en haut (avant le résumé)
 
 **Lien embarqué** (en haut de chaque fiche vidéo, après les hashtags, avant le `# Titre`) :
 ```markdown
-[![TITRE](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_ID)
+![TITRE](https://www.youtube.com/watch?v=YOUTUBE_ID)
 ```
 
 **Notes de bas de page avec timestamp** (dans le corps des fiches — vidéos, entités, concepts, enjeux) :
@@ -184,31 +271,26 @@ Pour les fiches non-vidéo (entités, concepts, enjeux), les footnotes référen
 
 ## Workflow git
 
-Le vault est versionné sur GitHub (`Diplow/paduteam-wiki`).
+Le vault est versionné sur GitHub (`Diplow/paduteam-wiki`). Voir aussi le workflow git défini dans `BUILD.md` à la racine de WikiPol — Paduteam n'a pas de spécificité.
 
-### Stratégie de branches
+### Branches
 
 ```
 main              ← production (publication du wiki)
- └── develop      ← intégration (état courant du vault)
-      ├── ingest/slug-video        ← ingestion unitaire (1 vidéo)
-      └── ingest-batch/slug-sujet  ← ingestion batch (N vidéos d'un même sujet)
+ └── develop      ← intégration et travail courant
 ```
 
-- **`main`** : état publié du wiki. Jamais de push direct.
-- **`develop`** : branche d'intégration. Toutes les ingestions sont mergées ici via PR.
-- **`ingest/<slug>`** : branche éphémère pour une ingestion unitaire. Slug = titre de la vidéo en minuscules, sans accents, tirets, tronqué à ~50 chars.
-- **`ingest-batch/<slug>`** : branche éphémère pour un batch thématique. Slug = nom du sujet (ex: `guerre-des-gauches`), ~40 chars max. Un seul commit et une seule PR couvrant toutes les vidéos du batch.
+- **`main`** : état publié du wiki. Jamais de push direct — promu depuis `develop` par l'utilisateur.
+- **`develop`** : branche unique de travail. Les ingestions, synthèses et corrections committent **directement** sur `develop`. Pas de branches éphémères.
 
-### En début d'ingestion
+### En début d'ingestion ou de synthèse
 
 1. Se placer sur develop à jour : `git checkout develop && git pull origin develop`
-2. Créer la branche : `git checkout -b ingest/<slug>`
 
-### En fin d'ingestion
+### En fin d'ingestion ou de synthèse
 
 1. Stage les fichiers modifiés/créés par nom (pas `git add -A`)
-2. Commit avec message structuré :
+2. Commit avec message structuré sur `develop` :
    ```
    ingest: TITRE ABRÉGÉ DE LA VIDÉO
 
@@ -216,10 +298,10 @@ main              ← production (publication du wiki)
    Fiches enrichies: Y (liste)
    Corrections ortho: Z (liste si applicable)
 
-   Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+   Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
    ```
-3. Push : `git push -u origin ingest/<slug>`
-4. PR vers `develop` avec résumé (fiches créées, enrichies, corrections, liens orphelins)
+   Préfixes : `ingest:` (1 vidéo), `ingest-batch:` (batch), `synthesize: COUCHE — Nom cible` (synthèse).
+3. Push direct : `git push origin develop`
 
 ### Publication (develop → main)
 
@@ -230,27 +312,29 @@ Merge manuel par l'utilisateur. Publication via Obsidian Publish.
 ## Chemins du vault
 
 ```
-Graphiked/
+Sources/Paduteam/
 ├── Bienvenue.md                     ← homepage publique (Obsidian Publish)
 ├── CLAUDE.md                        ← instructions projet (ce qu'est le vault)
-├── BUILD.md                         ← ce fichier (comment le vault est construit)
+├── BUILD.md                         ← ce fichier (taxonomie + spécifications des couches)
+├── source.yaml                      ← config paramétrique (content_types, git, model)
 ├── Sources/
 │   ├── Inventaire PaduTeam.md       ← table des vidéos
 │   └── Transcripts/                 ← transcripts bruts (.md)
+├── Syntheses/                       ← batch files pour `Scripts/synthesize.py`
 ├── Videos/                          ← 1 fiche par vidéo ingérée
 ├── Individus/                       ← 1 fiche par personne
 ├── Organisations/                   ← 1 fiche par parti/asso/média
 ├── Concepts/                        ← 1 fiche par concept analytique
-├── Enjeux/                          ← 1 fiche par combat stratégique (loadout)
-├── Methodes/                        ← MOC + .base — vue sur les concepts couche=methode
-├── Conjonctures/                    ← MOC + .base — vue sur les concepts couche=conjoncture
-├── Possibles/                       ← MOC + .base — vue sur les concepts couche=possible
+├── Enjeux/                          ← couche advanced — fiches loadout (type: enjeu)
+├── Conjonctures/                    ← couche advanced — type: conjoncture (+ legacy: concepts couche=conjoncture)
+├── Possibles/                       ← couche advanced — type: possible (+ legacy: concepts couche=possible)
+├── Methodes/                        ← couche advanced — type: methode (+ legacy: concepts couche=methode)
 ├── Evenements/                      ← 1 fiche par fait daté, organisé par période
 │   ├── 2026/
 │   ├── 1950-1979/
 │   └── ...
-└── Skills/                          ← skills Claude (1 dossier par skill)
+└── Skills/                          ← skills Claude (1 dossier par skill, dont write-<couche>)
 ```
 
-**Chemin sur le disque :** `C:\Users\uboil\Documents\Obsidian\Graphiked`
+**Chemin (submodule depuis la racine WikiPol) :** `Sources/Paduteam/` (où WikiPol est le repo parent — `../../` depuis ce fichier).
 **Repo GitHub :** `git@github.com:Diplow/paduteam-wiki.git`

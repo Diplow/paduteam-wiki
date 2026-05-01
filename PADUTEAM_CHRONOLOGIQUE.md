@@ -19,7 +19,6 @@ Pour lancer l'ingestion : `python Sources/Transcripts/run_ingest.py`
 ## Batch 01 — Semaines 2024-W43 à 2024-W44 (21 oct 2024 – 3 nov 2024)
 
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2024-w43-w44
 Fiches créées : [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]], [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]], [[LA BRECHE LEGALISATION DROGUES AFFAIRE ANDY KERBRAT LFI]] + 19 fiches Concepts/Individus
 
 - [x] Ce PNJ de DROITE QUITTE la FRANCE À CAUSE de la MISÈRE S*XUELLE et de l'INSÉCURITÉ !!
@@ -30,7 +29,6 @@ Fiches créées : [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE
 ## Batch 02 — Semaines 2024-W45 à 2024-W46 (4 nov 2024 – 17 nov 2024)
 
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2024-w45-w46
 Fiches créées : [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIRES]], [[Guillaume Kasbarian]], [[Ratchet droitier sur les droits du travail]] + enrichissements Trump, Thaïs 4.1, Enjeux
 
 - [x] Ce que SIGNIFIE VRAIMENT l'ÉLECTION de TRUMP !! (avec @Positions_revue )
@@ -41,7 +39,6 @@ Fiches créées : [[GUILLAUME KASBARIAN LE MINISTRE QUI DETESTE LES FONCTIONNAIR
 ## Batch 03 — Semaines 2024-W47 à 2024-W48 (18 nov 2024 – 1 déc 2024)
 
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2024-w47-w48
 Fiches créées : [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]], [[PAPACITO ET ROUGEYRON SE LA JOUENT SORAL]], [[PINARD ET POLITIQUE LA DROITE DES LOBBYS VS LA GAUCHE DU TERROIR]], [[RAZ DIT LES TERMES SUR PAPACITO EN BALLE]], [[GLUPATATE QUITTE LA BRAV-M DR ZOE PADUTEAM SUR LE TRAVAIL]], [[CYRUS NORTH EXPLIQUE LE MARXISME A CHRIS DE POSITIONS REVUE]], [[J'AI TROUVE LE PIRE PATRON DU MONDE]] + individus : Pierre-Yves Rougeyron, Dany Raz, Glupatate, Cyrus North, Yannick Noder + concepts : Soralisme (enrichi), Lobby viticole, Individualisme de droite, Temps de vie, Précarité comme levier de coercition + enjeux : Critique de la fachosphère (nouveau), Féminisme matérialiste (enrichi), Palestine libre (enrichi), Sionisme de droite (enrichi)
 
 - [x] PAYE TA DROITARDE #4.2 THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS (x @Dr_Zoé_YT)
@@ -61,7 +58,6 @@ Fiches créées : [[LOBSERVATEUR OFFICIEL ME REPOND PADU EST UNE PETITE SALLOPE]
 
 <!-- ⚠ batch dense : 13 vidéos -->
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2024-w49-w50
 Fiches créées : [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA]], [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]], [[CUISINE ET POLITIQUE NOS AVIS PROBLEMATIQUES]], [[STEPHANE EDOUARD CONDAMNE AU TRIBUNAL]], [[DE WOKE A FACHO SLAPP RACONTE SA REDPILL]], [[5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE A NOEL]] + 16 concepts, 10 individus, 4 organisations — Enjeux enrichis : Critique de la fachosphère, Défense Sécu, VSS comme fait social, Féminisme matérialiste, Anti-impérialisme
 
 - [x] MILA REFUSE LES AVANCES DE KROC BLANC : IL PORTE PLAINTE !! (@fdenews)
@@ -82,7 +78,6 @@ Fiches créées : [[UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES
 ## Batch 05 — Semaines 2024-W51 à 2024-W52 (16 déc 2024 – 29 déc 2024)
 
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2024-w51-w52
 Fiches créées : [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXISTE]], [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]], [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]], [[MAYOTTE MACRON ENGUEULE LES SURVIVANTS AU CYCLONE CHIDO]], [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]], [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] + 8 concepts, 9 individus, 3 organisations — Enjeux enrichis : Féminisme matérialiste, VSS comme fait social, Antiféminisme identitaire, Plus jamais PS, Défense Sécu
 
 - [x] ARTHUR : ANIMATEUR TÉLÉ ou PRÉDATEUR qui TRIP0TE et HUMILE les PAUVRES ? (avec @Dr_Zoé_YT)
@@ -100,7 +95,6 @@ Fiches créées : [[ONLYFAN BAISER AVEC 100 MECS EN 1 JOUR EST-IL VRAIMENT MARXI
 ## Batch 06 — Semaines 2025-W01 à 2025-W02 (30 déc 2024 – 12 jan 2025)
 
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2025-w01-w02
 Fiches créées : [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]], [[MACRON NE FINIRA PAS L'ANNEE 2025 ANALYSE MARXISTE]], [[MARINE TONDELIER SE RIDICULISE FACE A LUMI]], [[DANIEL COHN-BENDIT VEUT LUTTER CONTRE LE GRAND-REMPLACEMENT]], [[MORT DE JEAN-MARIE LE PEN DOIT-ON SEPARER L HOMME DU TORTIONNAIRE FASCISTE]], [[LA CLIQUE A SORAL ME CLASHE PUDUSTREAM EST UN GAUCHISTE MOU]] + concepts : Marxplaining, Grand remplacement, Liberal libertaire, Dediabolisation, Scenario 95 inverse, Karen (terme), Feminisme materialiste, Pensee rationaliste d'ingenieur, Le Graphique comme outil + individus : Jean-Marc Jancovici, Renaud Camu, Pierre de Brague, Lumi, Medine, Luc Ferry, Jacques Chirac, Alexandre Jaffari, Alex Luau + organisations : L Humanite + enjeux : Guerre des gauches (nouveau)
 
 - [x] TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)
@@ -119,7 +113,6 @@ Fiches créées : [[TONTON RACISTE COUSINE WOKE ON MARXSPLAIN LES REVEILLONS]], 
 
 <!-- ⚠ batch dense : 13 vidéos -->
 Statut : ✅ fait (2026-04-20)
-Slug branche : ingest-batch/paduteam-2025-w03-w04
 Fiches créées : [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]], [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]], [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]], [[FAURE ETAIT OBLIGE DE TRAHIR VOICI POURQUOI]], [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]], [[LE GRAPHIQUE EST-IL VRAIMENT SEXISTE]], [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]], [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]], [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]], [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] + individus : Michel Onfray, Pascal Praud, Michel Yun, Yohan du Canard Réfractaire, Le Guiz, OseilleTV, Charles Gave, Vincent Bolloré + concepts : Autodetermination politique, Marxisme heideggerien, Armee de reserve du capital, Technocrate politique vs professionnel de la revolution, Tirage au sort, Darwinisme social, Minarchisme et anarcocapitalisme, Surdiagnostic et biais du taux de survie, Piege mediatique anti-gauche, Strategie de reniment, Eurocentrisme du deuil + enjeux : Confusionnisme rouge-brun (nouveau)
 
 - [x] ONFRAY, NAULLEAU ET VALLS DÉCOUVRENT QU'ILS SONT DE DROITE !! ( avec Dr Zoé)
@@ -140,7 +133,6 @@ Fiches créées : [[ONFRAY NAULLEAU ET VALLS DECOUVRENT QU'ILS SONT DE DROITE]],
 ## Batch 08 — Semaines 2025-W05 à 2025-W06 (27 jan 2025 – 9 fév 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w05-w06
 
 - [x] WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉM1TE en plein LIVE !!
 - [x] VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
@@ -160,7 +152,6 @@ Fiches créées : 9 vidéos (+ 2 existantes), 6 individus (Merwan Benlazar, Fran
 ## Batch 09 — Semaines 2025-W07 à 2025-W08 (10 fév 2025 – 23 fév 2025)
 
 Statut : ✅ fait
-Slug branche : ingest-batch/paduteam-2025-w07-w08
 
 - [x] M€URTRE de LOUISE : L'EXTRÊME-DROITE HARC€LE sa SOEUR et son PÈRE !! (avec @Dr_Zoé_YT)
 - [x] AFFAIRE BÉTHARRAM : BAYROU PROTÈGE LES P€D0PHILES ? (avec @Dr_Zoé_YT )
@@ -180,7 +171,6 @@ Fiches créées : 11 vidéos, 8 individus (Psykocouac, Alexia Michelin, Marina S
 ## Batch 10 — Semaines 2025-W09 à 2025-W10 (24 fév 2025 – 9 mar 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w09-w10
 Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEBAT ZAWATALK PSY PSYKOCOUAC]], [[WISSAM me TRAITE de MARXISTE STALINIEN quasi RASSISTE]], [[RAZ ET WISSAM ONT-ILS GACHE LE ZAWATALK]], [[ANTOINE DANIEL DERAPE AU SUJET DES MILLIARDAIRES]], [[J EXPLIQUE LE COMMUNISME AUX FANS D ANTOINE DANIEL]] + 15 concepts, 13 individus, 3 organisations — Enjeux enrichis : Guerre des gauches, Union populaire, Plus jamais PS, Féminisme matérialiste, Antiféminisme identitaire comme menace, Critique de la fachosphère
 - [ ] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
 - [x] PADUSTREAM C'EST DÉJÀ FINI !!
@@ -197,7 +187,6 @@ Fiches créées : [[LES FANS DE BEGAUDEAU SONT-ILS DES FRAGILES]], [[DEBRIEF DEB
 ## Batch 11 — Semaines 2025-W11 à 2025-W12 (10 mar 2025 – 23 mar 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w11-w12
 
 Fiches créées : LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES, A QUOI RESSEMBLERA LE COMMUNISME, DELAVIER LEAK SUR LE JARL, NOTRE AVIS SUR L AFFAIRE DANY CALIGULA, DR ZOE APPREND A BAISER A CE PUCIX, DANIEL WOIRIN ET CYRIL DIABATE DETRUISENT LE JARL, INFAME EST DEVENU WOKE, GLUCKSMANN ADORE LA DEMOCRATIE SAUF A PLACE PUBLIQUE + individus (Le Jarl, Delavier, Diabaté, Woirin, Infame, Christa Bango, Hirschfeld, Marsha P. Johnson) + organisations (Club 1988, Humane Evolution) + concepts (DARVO, Misation, Pipeline class first, Milice supplétive, Autosupport trans, Association libre des producteurs, Loi de l'attraction)
 
@@ -217,7 +206,6 @@ Fiches créées : LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES, A QU
 ## Batch 12 — Semaines 2025-W13 à 2025-W14 (24 mar 2025 – 6 avr 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w13-w14
 Fiches créées : [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]], [[FAUT-IL INTERNER TIBO INSHAPE EN PSYCHIATRIE]], [[Debunk Graphique Bad Mulch]], [[RACISME ANTI-ASIATIQUE AYMERIC LOMPRET DERAPE L'ANALYSE DE LINH LAN DAO]], [[ETUDIANTS EN COLERE VOICI POURQUOI UNION PIRATE SOLIDAIRES ETUDIANTS]], [[MARINE LE PEN INELIGIBLE POUR 2027 QUELLES CONSEQUENCES]], [[LE PEN CONDAMNEE MELENCHON SCANDALISE]], [[MACRON REMET UN PRIX ANTIRACISTE A ARTHUR ET SOPHIA ARAM]], [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]], [[Ces FEMINISTES SONT SOLIDAIRES DE MARINE LE PEN]] + 7 individus, 3 organisations, 6 concepts, 1 enjeu créé (Antiracisme institutionnel comme arme), 5 enjeux enrichis
 
 - [x] VIE DE CARABIN : le MÉDECIN qui trouve les PATIENTS TROP C0NS (selon Chris, pas Zoé hein) !!
@@ -235,7 +223,6 @@ Fiches créées : [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]
 ## Batch 13 — Semaines 2025-W15 à 2025-W16 (7 avr 2025 – 20 avr 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w15-w16
 Fiches créées : [[THAIS ET VALEK APPRENNENT A BAISER]], [[CHRIS DEVOILE COMMENT MELENCHON VA GAGNER EN 2027]], [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]], [[NICOLAS DEMORAND AVOUE ETRE MALADE MENTAL]], [[MARIANNE LE JOURNAL NEGA-SIONNISTE]] + concepts : Delegation de taches medicales, Evopsychologie comme naturalisation, Misogynie protegee par le statut, Etats generaux du Graphique, Validisme, Psychiatrisation du social, Psychophobie, Propriete milliardaire des medias, Clause de conscience, Sociotype jeune ingenieur reac, Wokisme comme concept creux, Accelerationnisme, Printemps Republicain + individus : Maboula Soumahoro, Nicolas Demorand, Quentin M, Daniel Kretinski, Sylvain Mercadier, Samuel Paty + enjeux enrichis : Palestine libre, Le Graphique comme outil, Union populaire, Critique de la fachosphere, Feminisme materialiste, Defense de la Securite Sociale, Corpo medicale
 
 - [x] LFI envoie les MÉDECINS aux CHAMPS ?! (@Dr_Zoé_YT X @pasduhring)
@@ -254,7 +241,6 @@ Fiches créées : [[THAIS ET VALEK APPRENNENT A BAISER]], [[CHRIS DEVOILE COMMEN
 ## Batch 14 — Semaines 2025-W17 à 2025-W18 (21 avr 2025 – 4 mai 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w17-w18
 Fiches créées : [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]], [[LES CHEMINOTS PRENNENT EN OTAGE SARAH SALDMANN]], [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]], [[GARRIDO CORBIERE et GUEDJ DIABOLISENT MELENCHON]], [[ZOE ET CHRIS SONT NOSTALGIQUES DE TITO]], [[M0RT D ABOUBAKAR CISSE MELENCHON EN LARMES]] + 6 vidéos enrichies, 8 individus (Julia de Funes, Sarah Salman/Saldmann, Tito Josip Broz, Aboubakar Cisse, PPDA, Raoul Peck, Sylvie Tremouille, Daniel Buffier), 5 organisations, 17 concepts créés + 8 enjeux enrichis
 
 - [x] JULIA DE FUNÈS : LA BOURGEOISE LA + INSUPPORTABLE ? (@Dr_Zoé_YT X Chris)
@@ -274,7 +260,6 @@ Fiches créées : [[JULIA DE FUNES LA BOURGEOISE LA PLUS INSUPPORTABLE]], [[LES 
 ## Batch 15 — Semaines 2025-W19 à 2025-W20 (5 mai 2025 – 18 mai 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w19-w20
 Fiches créées : [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]], [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]], [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]], [[Fabien Gay]], [[Alain Jakubowicz]], [[Marie Coquille Chambel]], [[DFla]], [[Sanofi]], [[Empire Mulliez]], [[Socialiser les pertes privatiser les profits]], [[Assimilation antisemite]], [[Intellectuel organique]] + 3 enjeux enrichis (Guerre des gauches, Union populaire, VSS comme fait social)
 
 - [x] Les MANIFESTATIONS des MÉDECINS sont-elles les + CRINGES ? (@Dr_Zoé_YT x @pasduhring)
@@ -292,7 +277,6 @@ Fiches créées : [[CES PDG SE FONT DETRUIRE PAR CE SENATEUR COMMUNISTE]], [[JAK
 ## Batch 16 — Semaines 2025-W21 à 2025-W22 (19 mai 2025 – 1 jun 2025)
 
 Statut : ✅ ingéré
-Slug branche : ingest-batch/paduteam-2025-w21-w22
 
 - [x] RETAILLEAU MET FIN au WAUQUISME !! (@pasduhring X Chris)
 - [x] BÉGAUDEAU : "WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL"
@@ -309,7 +293,6 @@ Slug branche : ingest-batch/paduteam-2025-w21-w22
 ## Batch 17 — Semaines 2025-W23 à 2025-W24 (2 jun 2025 – 15 jun 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w23-w24
 Fiches créées : [[LE PEN DECLARE la GUERRE a BARDELLA !!]], [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]], [[LINGUISTICAE EN CONCURRENCE AVEC LES ENFANTS GAZAOUIS]], [[CHRIS DERAPE SUR LINGUISTICAE TAS QUA ALLER BOSSER EN INTERIM]], [[MARINE TONDELIER CATASTROPHIQUE sur FRANCE INTER]], [[ROUSSEL TROUVE RETAILLEAU TROP MOU]], [[NATACHA POLONY VEUT PLUS DE VIOLENCE A L ECOLE]] + 9 concepts (Strategie Chirac 74, Libertarisme du cul, Lien parasocial, Aristocratie ouvriere, Securite sociale des medias, Tapis rouge pour le fascisme, Cryptage du reel, Punitivisme, Violence educative) + 2 individus (Natacha Polony, enrichi Linguisticae) + 2 organisations (Marianne, Garde nationale des Etats-Unis) + 8 enjeux enrichis
 
 - [x] LE PEN DÉCLARE la GUERRE à BARDELLA !!
@@ -327,7 +310,6 @@ Fiches créées : [[LE PEN DECLARE la GUERRE a BARDELLA !!]], [[Les INCELS ont E
 ## Batch 18 — Semaines 2025-W25 à 2025-W26 (16 jun 2025 – 29 jun 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w25-w26
 Fiches créées : [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]], [[FAURE VEUT FAIRE DU MELENCHON SOFT]], [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]], [[RETAILLEAU TRAQUE LES SANS-PAPIERS ET S INSPIRE DES ALLEMANDS]], [[PAYE TON DROITARD 9 JULIEN ROCHEDY DE SURHOMME A PAPA DECONSTRUIT]], [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] + enrichissements Iran, Macron, Hollande + 8 individus (Marc-Antoine Jamet, France Jamet, Alain Jamet, Masoud Pezeshkian, Hassan Nasrallah, Mohammed Ben Salman, Bruno Goldnich, Ivan Benedetti) + 8 organisations (MJCF enrichi, Parti communiste Tudeh, Pasdaran, Oeuvre française, Frontex, LVMH, CNED, Jardin d'Acclimatation) + 6 concepts (Psychologie évolutionniste comme idéologie, Pipeline masculiniste vers l'extrémisme, Validisme du travail capitaliste, Croissant chiite comme outil géopolitique, Pétrole de schiste comme levier impérialiste, Pantouflage) + 7 enjeux enrichis
 
 - [x] GUEDJ au CONGRÈS du PS : "MÉLENCHON EST UN SAL0PARD ANT!SEMITE" !!
@@ -347,7 +329,6 @@ Fiches créées : [[GUEDJ AU CONGRES DU PS MELENCHON EST UN SALOPARD ANTISEMITE]
 ## Batch 19 — Semaines 2025-W27 à 2025-W28 (30 jun 2025 – 13 jul 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w27-w28
 Fiches créées : [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]], [[ROCHEDY CATASTROPHIQUE sur L'ECONOMIE]], [[LE CAPITALISME REND VOTRE TRAVAIL INEFFICACE]] + 8 organisations/individus, 8 concepts, 4 enjeux enrichis
 
 - [x] Comment AIDER CONCRÈTEMENT le PEUPLE PALESTINIEN ? (avec Résistance et Solidarité)
@@ -366,7 +347,6 @@ Fiches créées : [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]], [[ROCHED
 ## Batch 20 — Semaines 2025-W29 à 2025-W30 (14 jul 2025 – 27 jul 2025)
 
 Statut : ✅ ingéré
-Slug branche : ingest-batch/paduteam-2025-w29-w30
 
 - [x] GLUCKSMANN ne CHOISIT PAS entre MÉLENCHON et LE PEN !
 - [x] GARRIDO VIRE ce STREAMER du CONGRÈS de L'APRÈS !!
@@ -385,7 +365,6 @@ Slug branche : ingest-batch/paduteam-2025-w29-w30
 ## Batch 21 — Semaines 2025-W31 à 2025-W32 (28 jul 2025 – 10 aoû 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w31-w32
 Fiches créées : [[SARAH SALDMANN DEGOMME LES DEPUTES]], [[VALEK ACCUSE ZOE D ETRE COMPLICE DES PEDOCRIMINELS]], [[10 SEPTEMBRE ON NE VEUT PLUS]], [[NICOLAS QUI PAYE SOUMIS A MACRON ET SON PATRON]], [[Le DROITARD LE PLUS PANIQUÉ SUR LA SECURITE]], [[La PADUTEAM HOMOPHOBES envers LAGASNERIE ECHARPE nous RECADRE]], [[BERNARD ARNAULT LE PIRE ESCLAVAGISTE]], [[La MASTERCLASS DE MELENCHON SUR LE 10 SEPTEMBRE]], [[Ce MILLIARDAIRE veut des BEBES BLANCS CATHOLIQUES STERIN]] + 5 individus/enrichissements + 3 concepts créés/enrichis
 
 - [x] SARAH SALDMANN DÉGOMME LES DÉPUTÉS !
@@ -404,7 +383,6 @@ Fiches créées : [[SARAH SALDMANN DEGOMME LES DEPUTES]], [[VALEK ACCUSE ZOE D E
 ## Batch 22 — Semaines 2025-W33 à 2025-W34 (11 aoû 2025 – 24 aoû 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w33-w34
 Fiches créées : [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]], [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]], [[POUTOU D'OUVRIER REVOLUTIONNAIRE A LIBRAIRE INSOUMIS]], [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] (enrichi), [[CES 2 BOURGEOISES NOUS MOTIVENT POUR LE 10 SEPTEMBRE]], [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]], [[LA VERITE SUR LA MORT DE JEAN PORMANOVE TORTURES EMPRISE ET VALIDISME]], [[PROPAGANDE ANTI-MACRON ON PEUT TOUS S'Y METTRE 10SEPTEMBRE]], [[CHARLES CONSIGNY VEUT PLUS D'ESCLAVES POUR LES VENDANGES]] + 8 concepts (Guerre culturelle, Dog whistle, Plan Jospin, Matérialisme contemplatif, Emprise, Contre-communication populaire, Méritocratie, Rapport Terranova) + 9 individus (Sydney Sweeney, Britney Spears, George W Bush, Jean Pormanove, Agnès Buzin, Isabelle Lasserre, etc.) + 6 enjeux enrichis
 
 - [x] CE DROITARD ADORE LES GÈNES DE SYDNEY SWEENEY
@@ -421,7 +399,6 @@ Fiches créées : [[CE DROITARD ADORE LES GENES DE SYDNEY SWEENEY]], [[PARTI SOC
 ## Batch 23 — Semaines 2025-W35 à 2025-W36 (25 aoû 2025 – 7 sep 2025)
 
 Statut : ✅ fait
-Slug branche : ingest-batch/paduteam-2025-w35-w36
 
 - [x] PADU GÂCHE l’HOMMAGE à TROTSKI pour les 85 ANS de sa MORT !!
 - [x] BAYROU ANNONCE SA DÉMISSION LE 8 SEPTEMBRE !?
@@ -440,7 +417,6 @@ Slug branche : ingest-batch/paduteam-2025-w35-w36
 ## Batch 24 — Semaines 2025-W37 à 2025-W38 (8 sep 2025 – 21 sep 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w37-w38
 Fiches créées : [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]], [[AU CŒUR DU 10 SEPTEMBRE ANALYSES A CHAUD]], [[CES BOURGEOIS SONT EN SUEUR DEVANT LE 10 SEPTEMBRE]], [[LES GRANDES GUEULES PORMANOVE A ETE VICTIME DE L’ISLAM]], [[LE 18 SEPTEMBRE TOUS EN GREVE LE 21 SEPTEMBRE TOUS ENSEMBLE]], [[LA POLICE DE RETAILLEAU MALTRAITE UNE JEUNE FEMME]], [[LE MEDEF PLEURE ET VEUT FAIRE GREVE]], [[18 SEPTEMBRE ON EST LA]] + 5 individus (Cyrielle Chatelain, Antoine Diers, Patrick Martin, Barbara Stiegler, Cyrielle Chatelain), 2 organisations (MEDEF, Confederation Paysanne), 1 concept (Autodefense juridique militante) + 5 enjeux enrichis
 
 - [x] LEGRAND et COHEN COMPLOTENT pour placer GLUCKSMANN !! (déjà ingérée batch 23)
@@ -460,7 +436,6 @@ Fiches créées : [[DEPART DE BAYROU AIDONS MACRON A FAIRE SES CARTONS]], [[AU C
 
 <!-- ⚠ batch dense : 13 vidéos -->
 Statut : ✅ fait
-Slug branche : ingest-batch/paduteam-2025-w39-w40
 
 - [x] MACRON, HIDALGO, etc. : ILS RECONNAISSENT LA PALESTINE après 2 ANS DE GEN0C1DE
 - [x] TAXE ZUCMAN : 2% C’EST DÉJÀ TROP POUR BERNARD ARNAULT
@@ -480,7 +455,6 @@ Slug branche : ingest-batch/paduteam-2025-w39-w40
 ## Batch 26 — Semaines 2025-W41 à 2025-W42 (6 oct 2025 – 19 oct 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w41-w42
 Fiches créées : [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]], [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]], [[LECORNU DEJA CENSURE]], [[FINKIELKRAUT ET RETAILLEAU MONTENT UN BARRAGE CONTRE MELENCHON]], [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]], [[MAGALI BERDAH LA PETITE-BOURGEOISE QUI VEUT VOUS APPRENDRE LE TRAVAIL]], [[TONDELIER, CORBIERES, AUTAIN... PANIQUE AU ROYAUME DES NOISETTES !]] + 8 concepts (Conflictualisation, Classe techno-stato-capitaliste, Dignite generationnelle, Homo-economicus comme piege ideologique, Patrons de gauche, Petit-bourgeoisisme, Politique de terre brulee, Reification) + 7 individus (Benjamin Duhamel, Bernard Arnaud, Clementine Autain, Eric Dupont-Moretti, Jeremy Corbyn, Magali Berdah, Nathalie Saintcric) + 3 enjeux enrichis (Guerre des gauches, Plus jamais PS, Union populaire)
 
 - [ ] LA GUERRE AU RN EST DÉCLARÉE ?! ⚠️ sous-titres indisponibles sur YouTube (vérifié 2026-04-25)
@@ -500,7 +474,6 @@ Fiches créées : [[DEMISSION DE LECORNU CA CHAUFFE DE PLUS EN PLUS POUR MACRON]
 ## Batch 27 — Semaines 2025-W43 à 2025-W44 (20 oct 2025 – 2 nov 2025)
 
 Statut : ✅ ingéré (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w43-w44
 
 - [x] EXPLOSION DES DROITES : LE RN ET LR AU BORD DE LA SCISSION !?
 - [x] Cet INCEL LIBERTARIEN nous CLASHE : ON le RÉÉDUQUE sur la SCIENCE (réponse à Mos Majorum)
@@ -518,7 +491,6 @@ Slug branche : ingest-batch/paduteam-2025-w43-w44
 ## Batch 28 — Semaines 2025-W45 à 2025-W46 (3 nov 2025 – 16 nov 2025)
 
 Statut : ✅ ingéré
-Slug branche : ingest-batch/paduteam-2025-w45-w46
 
 - [x] LA STRATÉGIE RUFFIN : UN AUTRE GLUCKSMAN EST POSSIBLE
 - [x] L’ARME DU PS POUR BATTRE LFI : LA TAXE ZUCMAN
@@ -537,7 +509,6 @@ Slug branche : ingest-batch/paduteam-2025-w45-w46
 ## Batch 29 — Semaines 2025-W47 à 2025-W48 (17 nov 2025 – 30 nov 2025)
 
 Statut : ✅ fait
-Slug branche : ingest-batch/paduteam-2025-w47-w48
 
 - [x] SAUCISSON - BÉRET - SARDOU : LES FÊTES DE DROITE HORS DE PRIX DU CANON FRANÇAIS
 - [x] ELLE A CHOQUÉ LCI  UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS
@@ -556,7 +527,6 @@ Slug branche : ingest-batch/paduteam-2025-w47-w48
 ## Batch 30 — Semaines 2025-W49 à 2025-W50 (1 déc 2025 – 14 déc 2025)
 
 Statut : ✅ fait (2026-04-21)
-Slug branche : ingest-batch/paduteam-2025-w49-w50
 Fiches créées : [[HOLLANDE prepare t-il SON RETOUR]], [[LA PORTE-PAROLE DU PCF DERAPE SUR LE VOILE]], [[SURPRISE LE PS TRAHIT ET S'ALLIE AVEC LES MACRONISTES]], [[On EDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME]], [[BARDELLA EST-IL LE PLUS NUL DE TOUS LES POLITIQUES (130 000€ POUR APPRENDRE A SOURIRE)]], [[LE PCF REJOINT SARKOZY SUR LA VALEUR TRAVAIL]], [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]], [[LE PS et LES ECOLOS sauvent le BUDGET CATASTROPHIQUE de MACRON]] + concepts : Abolition de la monnaie, Centralisme democratique, Fabrication de l ennemi interieur, Notabilisation du PCF, Philosophie comme outil, VSS comme fait social + individus : Amelie de Montchalin, Rachid Temal, Badmulch, Ambroise Croizat, Laurent Voquat, Cecile Cukierman (enrichie) + enjeux enrichis : Plus jamais PS, Guerre des gauches, Féminisme matérialiste, Union populaire, Défense de la Sécurité Sociale
 
 - [x] CETTE INFLUENCEUSE à DUBAÏ se JUSTIFIE D'AVOIR UNE DOMESTIQUE
@@ -576,7 +546,6 @@ Fiches créées : [[HOLLANDE prepare t-il SON RETOUR]], [[LA PORTE-PAROLE DU PCF
 ## Batch 31 — Semaines 2025-W51 à 2025-W52 (15 déc 2025 – 28 déc 2025)
 
 Statut : ✅ fait (2026-04-22)
-Slug branche : ingest-batch/paduteam-2025-w51-w52
 
 - [x] MÉLENCHON nous DÉVOILE sa MATRICE IDÉOLOGIQUE
 - [x] TONDELIER se JUSTIFIE sur la TRAHISON DES ÉCOLOS
@@ -594,7 +563,6 @@ Slug branche : ingest-batch/paduteam-2025-w51-w52
 ## Batch 32 — Semaines 2026-W01 à 2026-W02 (29 déc 2025 – 11 jan 2026)
 
 Statut : ✅ fait (2026-04-22)
-Slug branche : ingest-batch/paduteam-2026-w01-w02
 
 - [x] SURPRISE (non) : le PCF S’ALLIE au PS pour TUER LFI !!
 - [x] USUL : CETTE GAUCHE qui VEUT NOUS EMMENER à la GUERRE
@@ -613,7 +581,6 @@ Slug branche : ingest-batch/paduteam-2026-w01-w02
 ## Batch 33 — Semaines 2026-W03 à 2026-W04 (12 jan 2026 – 25 jan 2026)
 
 Statut : ✅ fait (2026-04-22)
-Slug branche : ingest-batch/paduteam-2026-w03-w04
 
 - [x] MATHILDE PANOT REFUSE DE CONDAMNER MADURO SUR BFMTV !!
 - [x] La PRIMAIRE des NOISETTES TOURNE à la CATASTROPHE !
@@ -632,7 +599,6 @@ Slug branche : ingest-batch/paduteam-2026-w03-w04
 ## Batch 34 — Semaines 2026-W05 à 2026-W06 (26 jan 2026 – 8 fév 2026)
 
 Statut : ✅ fait (2026-04-24)
-Slug branche : ingest-batch/paduteam-2026-w05-w06
 
 - [x] RETAILLEAU : LA PIRE CAMPAGNE DE COMMUNICATION POUR LA PRÉSIDENTIELLE
 - [x] PRIMAIRE DE LA GAUCHE : LA PLUS GRANDE ANNONCE DE L’ANNÉE !
@@ -651,7 +617,6 @@ Slug branche : ingest-batch/paduteam-2026-w05-w06
 ## Batch 35 — Semaines 2026-W07 à 2026-W08 (9 fév 2026 – 22 fév 2026)
 
 Statut : ✅ fait (2026-04-24)
-Slug branche : ingest-batch/paduteam-2026-w07-w08
 Fiches créées : [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]], [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]], [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]], [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]], [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]], [[SARAH KNAFO LA BOURGEOISE HORS SOL S ENFONCE DANS LE RIDICULE]], [[QUI A VRAIMENT TUE QUENTIN DERANQUE]], [[CHAPOUTOT DETRUIT MARIANNE EN LIVE ILS SE VENGENT]] + individus : Eve Cheftel, Denis Oliven, Adrien Matou, Croblanc, Brigitte Bardot, Pierre Bourdieu, Laurent Bouvet, Christian Ingrao, Nicolas Patin, Léon des Fontaines, Stéphane Peu + organisations : Contre-Attaque, Institut La Boétie + concepts : Auto-entrepreneuriat comme solution individuelle, Dépolitisation par l’apparence, Emballage médiatique, Science et militantisme + 5 enjeux enrichis (Plus jamais PS, Guerre des gauches, Féminisme matérialiste, Bataille culturelle, Union populaire)
 
 - [x] SANDRINE ROUSSEAU PRIVÉE DE PRIMAIRE DES NOISETTES PAR TONDELIER !
@@ -671,7 +636,6 @@ Fiches créées : [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDE
 ## Batch 36 — Semaines 2026-W09 à 2026-W10 (23 fév 2026 – 8 mar 2026)
 
 Statut : ✅ fait (2026-04-24)
-Slug branche : ingest-batch/paduteam-2026-w09-w10
 Fiches créées : [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], [[ONFRAY DEBUNK DEFINITIVEMENT LE COMMUNISME]], [[TRUMP N’IRA PAS AU BOUT DE SON MANDAT]] (enrichi), [[PRAUD ET MENARD EN SUEUR LEURS ENFANTS VOTENT MELENCHON]], [[TRUMP ET RUBIO REGRETTENT LE TEMPS BENI DES COLONIES]] (existant), [[Hollande vs Melenchon 2e tour]] (enrichi), [[MELENCHON LE STALINIEN TRIE LES MEDIAS]], [[AURORE BERGE FAIT BARRAGE A LFI EN S’ALLIANT AU RN]] (existant), [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]], [[IRAN LA PIRE PROPAGANDE DE GUERRE]] (enrichi), [[NEMESIS A MENTI LA PREUVE ACCABLANTE]] (existant), [[HARCELE PAR LA MEUTE LFI LYES LOUFFOK TRAITRE OU VICTIME]] + individus : Friedrich Merz, Irene Montero, Robert Menard, Hugo Clement (ébauche), enrichissements : Lyes Louffok, Edwy Plenel, Francois Hollande, Jean-Luc Melenchon, Michel Onfray, Pascal Praud, Manon Aubry, Manuel Bompard, Emmanuel Gregoire + concepts : Crise de senilite, Militantisme thematique, Positions de principe vs analyse concrete + enjeux enrichis : Guerre des gauches, Plus jamais PS, Anti-imperialisme, Campisme assume, Critique de la fachosphere
 
 - [x] HOLLANDE CONTRE-ATTAQUE : "MÉLENCHON NE SERA PAS AU 2ÈME TOUR" !!
@@ -691,7 +655,6 @@ Fiches créées : [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]]
 ## Batch 37 — Semaines 2026-W11 à 2026-W12 (9 mar 2026 – 22 mar 2026)
 
 Statut : ✅ fait (2026-04-24) — complété (3 vidéos récupérées)
-Slug branche : ingest-batch/paduteam-2026-w11-w12
 Fiches créées : [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]], [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]], [[MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE]] (⚠️ mismatch transcript : contenu réel = Dîner des Bâtisseurs/Tondelier), [[TONDELIER RIDICULE GARRIDO HYPOCRITE HOLLANDE LE PATRON LES CONSEQUENCES MUNICIPALES]], [[BARDELLA est-il le MAILLON FAIBLE du RN]], [[LA FACE CACHEE DE QUENTIN DERANQUE]], [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]], [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] + individus enrichis (Lahouaria Addouche, Sophia Chikirou, Marine Tondelier, Quentin Deranque, Francois Hollande, Jordan Bardella, etc.) + enjeux enrichis : Union populaire, Plus jamais PS, Guerre des gauches, Critique de la fachosphere
 
 - [x] HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?
@@ -710,7 +673,6 @@ Fiches créées : [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], [[POUTOU SOUTIENT M
 ## Batch 38 — Semaines 2026-W13 à 2026-W14 (23 mar 2026 – 5 avr 2026)
 
 Statut : ✅ fait (2026-04-24)
-Slug branche : ingest-batch/paduteam-2026-w13-w14
 Fiches créées : [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]], [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]], [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]], [[RUFFIN VEUT QUE LA GAUCHE ARRETE DE DECONNER]], [[CUBA SAUVEE PAR POUTINE]], [[GUERRE TONDELIER ROUSSEAU JADOT LES VERTS AU BORD DE L EXPLOSION]] + 5 individus (Alice Coffin, Bally Bagayoko, Clémence Guété, Claudia Sheinbaum, Florentin Lissier, Jeremy Jordanov) + 3 concepts (Alerte noisette, Flotte fantôme russe, Mensonge par omission) + 4 enjeux enrichis (Plus jamais PS, Guerre des gauches, Union populaire, Anti-impérialisme)
 
 - [x] ALICE COFFIN DÉVOILE L’ENFER DU SYSTÈME EMMANUEL GRÉGOIRE !!
@@ -730,7 +692,6 @@ Fiches créées : [[ALICE COFFIN DEVOILE L ENFER DU SYSTEME EMMANUEL GREGOIRE]],
 ## Batch 39 — Semaines 2026-W15 à 2026-W16 (6 avr 2026 – 19 avr 2026)
 
 Statut : ✅ fait (2026-04-23) — complété le 2026-04-24 (6 vidéos supplémentaires)
-Slug branche : ingest-batch/paduteam-2026-w15-w16 + ingest-batch/paduteam-2026-w15-w16-compl
 Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBAT LORDON vs MELENCHON GENIAL ou DECEVANT]], [[TONDELIER RETOURNE ENCORE SA VESTE]], [[GLUCKSMANN DELGA GUEDJ LA TEAM CASSOULET FAIT BLOC CONTRE MELENCHON]], [[JEUNES ENTREPRENEURS LEURS BUSINESS INSUPPORTABLES]] + [[GUERRE IRAN-US TRUMP HEGEMONIE]], [[LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME]], [[ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES]], [[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]], [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]], [[TONDELIER ENCEINTE ELLE POLITISE (MAL) SA GROSSESSE]] + concepts : Detroit d Ormuz, Strategie d equilibration bourgeoise + individus : JD Vance, Ahmed al-Shara, Helene Mercier Arnault, Marc-Olivier Fogiel, Maria Carolina de Bourbon des Deux-Siciles, Alain Madelin + orgas : Nouvelle Energie, Association des maires de France, Le Canard Enchaine + 12 enrichissements + 4 enjeux enrichis
 
 - [x] RIMA HASSAN : DR0GUE, GARDE À VUE, LOI YADAN !
@@ -749,7 +710,6 @@ Fiches créées : [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] (enrichi), [[DEBA
 ## Batch 40 — Semaine 2026-W17 (20 avr 2026 – 26 avr 2026)
 
 Statut : ✅ fait (2026-04-25)
-Slug branche : ingest-batch/paduteam-2026-w17
 Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + [[LA PRIMAIRE DES NOISETTES EN ROUTE POUR LA CATASTROPHE EPISODE 263]] + [[BARDELLA VS LE PEN GUERRE AU RN ET CHANGEMENT DE LIGNE]] + 2 concepts (Class Blind, Structures mentales de classe) + individus : Stephane Peu, Olivier Fort, Cyrel Chatelin, Laurence Rossignol, Francois Durvi, Victor Chabert + 2 organisations (Institut La Boetie, Peau Noir Ligne Rouge) + enrichissements : Aurelie Trouvee, Stathis Kouvelakis, France Insoumise, Confederation des PME, CGT, Petite bourgeoisie, Fracture du patronat, Salariat generalise, Alienation de la bourgeoisie + enjeux : Union populaire, Guerre des gauches
 
 - [x] L'ANGLE MORT DE LA FRANCE INSOUMISE : LE PATRONAT !
@@ -760,7 +720,6 @@ Fiches créées : [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] + [[LA P
 ## Batch 41 — Rattrapage transcripts (vidéos de batches ✅ sans fiche)
 
 Statut : ✅ fait (2026-04-25)
-Slug branche : ingest-batch/paduteam-rattrapage-transcripts
 
 - [x] CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (transcript récupéré — batch 10 déjà ✅)
 - [x] THAÏS : les VSS l'ont rendue NAZIE !? (transcript récupéré — batch 18 déjà ✅)

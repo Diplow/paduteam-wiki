@@ -102,7 +102,7 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 
 ## Ingestion automatisée
 
-Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅ et un slug de branche. C'est la source de vérité pour l'avancement de l'ingestion.
+Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅. C'est la source de vérité pour l'avancement de l'ingestion. Les commits sont directs sur `develop` (plus de branches éphémères — voir `BUILD.md` § Workflow git).
 
 ### Scripts d'automatisation (`Sources/Transcripts/`)
 

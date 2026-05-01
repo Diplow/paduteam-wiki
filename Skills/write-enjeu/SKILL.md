@@ -1,13 +1,16 @@
 ---
 name: write-enjeu
 description: >
-  Rédige ou enrichit une fiche `Enjeux/` au format **loadout militant** : la fiche n'est
-  pas un essai analytique, c'est un outil de retrieval pour militer (extraire la thèse,
-  désamorcer un cadrage adverse, mobiliser une donnée chiffrée, choisir la bonne vidéo
-  à envoyer). Déclencher quand l'utilisateur demande de créer ou améliorer une fiche enjeu,
-  ou quand `ingest-video` identifie un enjeu qui nécessite un traitement dédié.
+  Rédige ou enrichit une fiche `Enjeux/{Nom}.md` (`type: enjeu`) au format **loadout militant** :
+  la fiche n'est pas un essai analytique, c'est un outil de retrieval pour militer (extraire la
+  thèse, désamorcer un cadrage adverse, mobiliser une donnée chiffrée, choisir la bonne vidéo à
+  envoyer). Skill de **rédaction pure** : appelée par `synthesize-couche` (orchestrateur générique
+  WikiPol) qui fournit le contexte, lit les vidéos source, gère git. Cette skill **ne touche ni à
+  git, ni au contexte**. Peut aussi être déclenchée par `ingest-batch` lors de la consolidation
+  finale d'un batch d'ingestion.
 date created: 2026-04-12
-date modified: 2026-04-25
+date modified: 2026-05-01
+skill_version: write-enjeu-2026-05-01
 ---
 
 # Skill : Write Enjeu (format loadout)
@@ -18,20 +21,25 @@ Un enjeu est un combat militant récurrent. La fiche est un **loadout** : optimi
 
 Différence avec un essai : on n'écrit pas des paragraphes denses, on écrit des bullets scannables. Différence avec un index : chaque section porte une *valeur d'usage* spécifique (désamorcer un cadrage, fournir un fait, orienter un militant).
 
-## Prérequis
+## Contrat
 
-- `Sources/.context-tmp.md` produit récemment par `gather-context` sur l'enjeu
-- Conventions partagées : voir `BUILD.md`
-- Si une fiche existe (souvent), la lire en entier — décider création vs enrichissement
+Cette skill est appelée par `synthesize-couche` (workflow `synthesize`) ou par `ingest-batch` (consolidation finale). Dans les deux cas, elle reçoit :
+- `target_name` — nom de l'enjeu cible
+- Mode : création ou enrichissement
+- Chemin de `Sources/Paduteam/.context-tmp.md` (à lire intégralement)
+- Liste des chemins de fiches Vidéos lues par l'orchestrateur (à mobiliser comme matière première)
+- Liste des fiches pivots (Concepts/Individus/Organisations) à intégrer en priorité
 
-## Navigation de la carte de contexte
-
-`.context-tmp.md` est une carte (liens annotés, pas contenu). **Ouvrir systématiquement** chaque fiche vidéo liée pour récupérer les arguments, formulations, chiffres. Ouvrir aussi les fiches Concepts pour les wikilinks d'outils analytiques, et les Individus/Organisations pour identifier adversaires et alliés.
+Cette skill **ne fait que la rédaction**. Elle :
+- Ne lance pas `gather-context` (déjà fait par l'orchestrateur)
+- Ne touche pas à git (branche, commit, merge gérés par l'orchestrateur)
+- Ne lit pas les transcripts (granularité fiche vidéo)
+- Ne modifie pas le batch file
 
 ## Entrée / Sortie
 
-- **Entrée** : nom de l'enjeu, contexte gather-context
-- **Sortie** : fiche `Enjeux/{Nom}.md` créée ou enrichie. Si l'enjeu est massif (anti-impérialisme, palestine-libre…), le décomposer en sous-fiches `Cas/` n'est pas obligatoire mais peut s'envisager après itération.
+- **Entrée** : voir « Contrat » ci-dessus.
+- **Sortie** : fiche **`Sources/Paduteam/Enjeux/{target_name}.md`** créée ou enrichie. Si l'enjeu est massif (anti-impérialisme, palestine-libre…), le décomposer en sous-fiches `Cas/` n'est pas obligatoire mais peut s'envisager après itération.
 
 ## Sections attendues
 
@@ -109,3 +117,4 @@ Chronologique mais dense — marquer les bascules doctrinales et les évènement
 - **La neutralisation** : un enjeu est un combat. La fiche doit porter la conviction, pas la nuancer.
 - **Les vidéos en liste plate** : la section *Vidéos par usage* doit catégoriser par fonction militante, pas lister chronologiquement. Si on ne sait pas comment catégoriser, c'est probablement que la fiche n'a pas encore assez de matière.
 - **Les Munitions sans gras** : les chiffres clés doivent ressortir au scan. *5% Venezuela / 84% Colombie* en bullet sans gras se perd ; **5%** vs **84%** en gras saute aux yeux.
+- **Référencer le batch ou la skill** : ne jamais écrire « consolidé à partir du batch X » ou « cette synthèse a été produite par write-enjeu ». L'origine vit dans l'historique git.

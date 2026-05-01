@@ -1,15 +1,17 @@
 filters:
-  and:
+  or:
+    - type == "possible"
     - couche.contains("possible")
 views:
   - type: table
     name: Tous les possibles
     order:
       - file.name
+      - nature
       - domaine
       - thèmes
       - file.mtime
-      - couche_skill_version
+      - skill_version
     sort:
       - property: file.name
         direction: ASC
@@ -19,6 +21,7 @@ views:
     name: Récents
     order:
       - file.name
+      - nature
       - domaine
       - file.mtime
     sort:

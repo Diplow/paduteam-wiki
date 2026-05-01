@@ -1,5 +1,6 @@
 filters:
-  and:
+  or:
+    - type == "conjoncture"
     - couche.contains("conjoncture")
 views:
   - type: table
@@ -7,10 +8,11 @@ views:
     order:
       - file.name
       - periode
+      - statut
       - domaine
       - thèmes
       - file.mtime
-      - couche_skill_version
+      - skill_version
     sort:
       - property: periode
         direction: DESC
