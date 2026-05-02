@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [racisme-antiracisme, répression-justice, médias-propagande]
 enjeux: [résistance-à-la-fascisation]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-06-19
 youtube_id: "WGHw2vRLIhc"
 skill_version: write-video-2026-04-21

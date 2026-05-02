@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, trajectoires-politiques, racisme-antiracisme]
 enjeux: []
+conjonctures: [Fascisation rampante hors RN]
 date: 2024-11-18
 youtube_id: kK3A0L-J8mE
 skill_version: write-video-2026-04-20

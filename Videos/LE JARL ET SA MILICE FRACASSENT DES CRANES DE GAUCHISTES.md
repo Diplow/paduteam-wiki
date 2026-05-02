@@ -5,6 +5,7 @@ youtube_id: SQN9eTGn1Cg
 domaine: [politique-intérieure]
 thèmes: [extrême-droite, milices, brutalisation]
 enjeux: [critique-de-la-fachosphere]
+conjonctures: [Fascisation rampante hors RN]
 aliases: [LE JARL ET SA MILICE FRACASSENT DES CRÂNES DE GAUCHISTES]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

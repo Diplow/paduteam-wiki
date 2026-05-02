@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [écologie, extrême-droite]
 enjeux: []
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-12-29
 youtube_id: "mnyb6lvRc9Y"
 skill_version: write-video-2026-04-22

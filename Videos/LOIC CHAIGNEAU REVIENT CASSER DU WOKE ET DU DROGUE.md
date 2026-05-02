@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [marxisme, médias-propagande, féminisme, guerre-des-gauches]
 enjeux: [bataille-culturelle]
+conjonctures: [Fascisation rampante hors RN]
 date: 2026-02-07
 youtube_id: "PuF4Q8X_Hl0"
 skill_version: write-video-2026-04-23

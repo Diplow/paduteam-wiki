@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [féminisme, extrême-droite, écologie]
 enjeux: [féminisme-matérialiste, antiféminisme-identitaire-comme-menace, bataille-culturelle]
+conjonctures: [Fascisation rampante hors RN]
 date: 2026-01-10
 youtube_id: "30gViuLs8J0"
 skill_version: write-video-2026-04-22

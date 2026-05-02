@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société, théorie]
 thèmes: [féminisme, extrême-droite, théorie, racisme-antiracisme]
 enjeux: [antiféminisme-identitaire]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-03-08
 youtube_id: "CP3mKiRpH_I"
 skill_version: ingest-batch-2026-04-13

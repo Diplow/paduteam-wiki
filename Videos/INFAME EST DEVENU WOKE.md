@@ -5,6 +5,7 @@ youtube_id: dkaLuyMY-SE
 domaine: [société, politique-intérieure]
 thèmes: [déradicalisation, extrême-droite, pipeline-class-first]
 enjeux: [guerre-des-gauches]
+conjonctures: [Fascisation rampante hors RN]
 aliases: [INFAME EST DEVENU WOKE]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

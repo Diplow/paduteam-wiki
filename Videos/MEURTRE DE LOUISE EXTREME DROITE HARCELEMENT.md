@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, racisme-antiracisme, médias-propagande]
 enjeux: [feminisme-materialiste, antiféminisme-identitaire-comme-menace]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-02-11
 youtube_id: "7OzlCXM5t-U"
 skill_version: write-video-2026-04-21

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [féminisme, psychiatrie-psychologie, travail]
 enjeux: [vss-comme-fait-social]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-08-20
 youtube_id: "Szw7Cli2ltE"
 skill_version: write-video-2026-04-21

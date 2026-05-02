@@ -5,6 +5,7 @@ youtube_id: 0FXlB7EWfic
 domaine: [société]
 thèmes: [médias-propagande, répression-justice]
 enjeux: []
+conjonctures: [Fascisation rampante hors RN]
 date created: Thursday, April 2nd 2026, 9:15:19 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---

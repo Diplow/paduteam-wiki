@@ -5,6 +5,7 @@ youtube_id: QZKe7o1CF1Y
 domaine: [politique-intérieure]
 thèmes: [extrême-droite, MMA, corruption]
 enjeux: [critique-de-la-fachosphere]
+conjonctures: [Fascisation rampante hors RN]
 aliases: [DANIEL WOIRIN ET CYRIL DIABATÉ DÉTRUISENT LE JARL]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

@@ -2,7 +2,7 @@
 type: individu
 domaine: [politique-intérieure]
 thèmes: [extrême-droite, milices, MMA]
-aliases: [Le Jarl, Jovann de l'Ourme]
+aliases: [Le JARL, Le Jarl, Jovann de l'Ourme]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm
 date modified: Monday, April 21st 2026, 12:00:00 pm

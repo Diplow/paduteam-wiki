@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, médias-propagande]
 enjeux: [union-populaire]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-10-28
 youtube_id: YZCzNwaRlw8
 skill_version: ingest-2026-04-21

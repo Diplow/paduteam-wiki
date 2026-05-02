@@ -5,6 +5,7 @@ youtube_id: Qsq5Lc_Trhk
 domaine: [politique-intérieure]
 thèmes: [extrême-droite, corruption, milices]
 enjeux: [critique-de-la-fachosphere]
+conjonctures: [Fascisation rampante hors RN]
 aliases: [DELAVIER LEAK SUR LE JARL]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

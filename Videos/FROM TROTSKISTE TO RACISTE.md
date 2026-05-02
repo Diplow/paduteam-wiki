@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [islamophobie, laïcité, racisme-antiracisme, trajectoires-politiques]
 enjeux: [union-populaire, campisme-assumé]
+conjonctures: [Fascisation rampante hors RN]
 date: 2024-01-01
 youtube_id: KLW4D2xB95E
 date created: Thursday, April 2nd 2026, 10:22:04 am

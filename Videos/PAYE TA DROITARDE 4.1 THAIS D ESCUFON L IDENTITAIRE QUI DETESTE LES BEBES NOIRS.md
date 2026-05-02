@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
 enjeux: [Antiféminisme identitaire comme menace]
+conjonctures: [Fascisation rampante hors RN]
 date: 2024-11-14
 youtube_id: "6E070o72u6U"
 skill_version: write-video-2026-04-20

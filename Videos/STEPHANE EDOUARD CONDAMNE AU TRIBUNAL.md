@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [médias-propagande, répression-justice, féminisme, masculinisme]
 enjeux: []
+conjonctures: [Fascisation rampante hors RN]
 date: 2024-12-11
 youtube_id: 3sUnX8lHgJM
 aliases: [STÉPHANE ÉDOUARD CONDAMNÉ AU TRIBUNAL]

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [extrême-droite, féminisme, médias-propagande]
 enjeux: [antiféminisme-identitaire]
+conjonctures: [Fascisation rampante hors RN]
 date: 2026-02-26
 youtube_id: "ZOUKWB_eWbM"
 skill_version: ingest-batch-2026-04-13

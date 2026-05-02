@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, économie, société]
 thèmes: [racisme-antiracisme, travail, médias-propagande]
 enjeux: [Critique de la fachosphere]
+conjonctures: [Fascisation rampante hors RN]
 date: 2025-11-01
 youtube_id: "5q7K8bnPyB4"
 skill_version: write-video-2026-04-21
