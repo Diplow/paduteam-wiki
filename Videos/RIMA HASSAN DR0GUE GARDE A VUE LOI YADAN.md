@@ -9,6 +9,7 @@ thèmes:
   - médias-propagande
   - guerre-des-gauches
 enjeux:
+conjonctures: [Genocide a Gaza]
   - Répression des pro-Palestine
   - Palestine libre
 date: 2026-04-12

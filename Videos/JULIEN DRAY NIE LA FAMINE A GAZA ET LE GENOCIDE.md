@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, théorie]
 thèmes: [Palestine, médias-propagande, anti-impérialisme]
 enjeux: [Palestine-libre, Campisme-assume]
+conjonctures: [Genocide a Gaza]
 date: 2025-08-15
 youtube_id: pmkfvlIocN0
 skill_version: write-video-2026-04-21

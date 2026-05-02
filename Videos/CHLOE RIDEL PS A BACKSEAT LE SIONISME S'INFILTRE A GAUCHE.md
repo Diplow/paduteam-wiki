@@ -5,6 +5,7 @@ youtube_id: uPMZImTM3zw
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, guerre-des-gauches, médias-propagande]
 enjeux: [Palestine-libre, sionisme-gauche-comme-menace, plus-jamais-PS, campisme-assumé]
+conjonctures: [Genocide a Gaza]
 intervenants: [Padu, Zoé]
 skill_version: ingest-2026-04-21
 date created: Monday, April 13th 2026, 3:05:49 am
