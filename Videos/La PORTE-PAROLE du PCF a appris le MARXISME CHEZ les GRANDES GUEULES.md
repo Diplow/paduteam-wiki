@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [marxisme, guerre-des-gauches, PCF, dialectique]
 enjeux: [Guerre des gauches, Bataille culturelle]
+methodes: [Materialisme historique]
 date: 2025-12-26
 youtube_id: "uUqQEfMrOB8"
 skill_version: ingest-2026-04-22

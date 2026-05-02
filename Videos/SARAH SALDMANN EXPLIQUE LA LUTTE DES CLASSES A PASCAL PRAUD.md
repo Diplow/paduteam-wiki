@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [travail, lutte-des-classes, médias-propagande]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2025-06-22
 youtube_id: "v2VmqVWIqYQ"
 skill_version: write-video-2026-04-21

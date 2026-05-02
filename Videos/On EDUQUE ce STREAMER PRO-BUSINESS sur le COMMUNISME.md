@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [communisme, marxisme, économie-politique, bataille-culturelle]
 enjeux: [bataille-culturelle]
+possibles: [Universalisme materiel]
 date: 2025-12-01
 youtube_id: "Bp54ODk7qZ4"
 aliases: ["On ÉDUQUE ce STREAMER PRO-BUSINESS sur le COMMUNISME"]

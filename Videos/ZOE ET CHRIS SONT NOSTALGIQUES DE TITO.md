@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, théorie]
 thèmes: [anti-impérialisme, socialisme-autogestionnaire, histoire-du-mouvement-ouvrier]
 enjeux: [anti-impérialisme, campisme-assumé]
+methodes: [Materialisme historique]
 date: 2026-03-31
 youtube_id: "YKdEbgZZg1Q"
 skill_version: ingest-2026-04-21

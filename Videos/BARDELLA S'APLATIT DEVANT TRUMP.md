@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, géopolitique]
 thèmes: [États-Unis, anti-impérialisme, guerre-des-gauches]
 enjeux: [anti-impérialisme, campisme-assumé]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-01-30
 youtube_id: bI8XNzxjq6E
 skill_version: write-video-2026-04-22

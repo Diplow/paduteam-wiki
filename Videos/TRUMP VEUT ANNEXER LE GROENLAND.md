@@ -4,6 +4,7 @@ youtube_id: Z_vN3SrjNzQ
 domaine: [géopolitique]
 thèmes: [États-Unis, anti-impérialisme, Amérique-latine]
 enjeux: [anti-imperialisme, campisme-assume]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-01-05
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm

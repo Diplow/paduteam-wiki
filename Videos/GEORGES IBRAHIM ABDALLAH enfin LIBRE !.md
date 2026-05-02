@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, répression-justice]
 enjeux: [Palestine-libre, anti-impérialisme]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2025-07-XX
 date created: Tuesday, March 31st 2026, 10:57:26 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

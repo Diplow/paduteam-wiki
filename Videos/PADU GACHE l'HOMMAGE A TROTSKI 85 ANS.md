@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [théorie-marxiste, histoire-longue]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2025-08-20
 youtube_id: "fdDPaGLqzHs"
 skill_version: write-video-2026-04-21

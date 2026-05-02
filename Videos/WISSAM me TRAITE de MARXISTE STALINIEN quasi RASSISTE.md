@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [théorie-marxiste, racisme-antiracisme, psychiatrie-psychologie, guerre-des-gauches]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2025-06-01
 youtube_id: "HiwN_ccy050"
 skill_version: write-video-2026-04-21

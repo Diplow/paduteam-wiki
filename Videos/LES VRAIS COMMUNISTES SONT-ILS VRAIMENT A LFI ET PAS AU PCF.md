@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire]
+methodes: [Materialisme historique]
 date: 2025-01-20
 youtube_id: "doHZgeVGQRY"
 skill_version: write-video-2026-04-20

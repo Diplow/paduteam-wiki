@@ -5,6 +5,7 @@ youtube_id: 19gMooUolzA
 domaine: [théorie]
 thèmes: [communisme, marxisme, économie-politique]
 enjeux: []
+possibles: [Universalisme materiel]
 aliases: [À QUOI RESSEMBLERA LE COMMUNISME]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

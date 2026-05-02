@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, stratégie-mélenchon, anti-impérialisme, moisation]
 enjeux: [union-populaire, plus-jamais-ps]
+possibles: [Universalisme materiel]
 date: 2025-03-31
 youtube_id: "2bnZmlEDhpE"
 skill_version: ingest-2026-04-21

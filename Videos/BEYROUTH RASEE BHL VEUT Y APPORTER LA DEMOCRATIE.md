@@ -6,6 +6,7 @@ domaine: [géopolitique, société]
 thèmes: [Palestine, anti-impérialisme, médias-propagande]
 format: analyse
 enjeux: [Palestine-libre, anti-impérialisme, sionisme-gauche-comme-menace]
+conjonctures: [Crise de l'hegemonie americaine]
 intervenants: [Padu]
 statut: ébauche
 date created: Monday, April 13th 2026, 3:05:49 am

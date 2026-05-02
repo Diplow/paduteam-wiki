@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, économie]
 thèmes: [marxisme-théorie]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2025-02-01
 youtube_id: i4UUL9DZ9Sc
 aliases: ["DROITARD FRAGILE CHRIS MARXISME", "prix valeur marxisme diaporama"]

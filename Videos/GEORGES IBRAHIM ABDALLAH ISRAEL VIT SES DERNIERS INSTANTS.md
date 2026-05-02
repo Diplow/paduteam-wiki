@@ -4,6 +4,8 @@ date: 2025-07-26
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme]
+possibles: [Universalisme materiel]
+conjonctures: [Crise de l'hegemonie americaine]
 aliases: [GEORGES IBRAHIM ABDALLAH : "ISRAËL VIT SES DERNIERS INSTANTS" !!]
 skill_version: "ingest-batch-2026-04-21"
 ---

@@ -4,6 +4,7 @@ youtube_id: _h7v0R4K1Nk
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, anti-impérialisme, racisme-antiracisme]
 enjeux: [anti-imperialisme]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2025-06
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm

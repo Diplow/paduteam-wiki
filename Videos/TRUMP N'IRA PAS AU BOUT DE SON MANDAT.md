@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme]
 enjeux: [anti-impérialisme, campisme-assumé]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-03-01
 youtube_id: lxJLMr_6WnA
 skill_version: write-video-2026-04-23

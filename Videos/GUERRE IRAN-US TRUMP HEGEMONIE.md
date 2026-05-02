@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Iran, États-Unis]
 enjeux: [anti-impérialisme, campisme-assumé]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-04-14
 youtube_id: "A198m2MhnL0"
 skill_version: ingest-batch-2026-04-24

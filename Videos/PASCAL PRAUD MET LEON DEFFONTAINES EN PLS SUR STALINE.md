@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, médias-propagande]
 thèmes: [médias-propagande, guerre-des-gauches]
 enjeux: [guerre-des-gauches]
+methodes: [Materialisme historique]
 date: 2025-01-01
 youtube_id: "C1MLgXQ7fJA"
 skill_version: write-video-2026-04-20

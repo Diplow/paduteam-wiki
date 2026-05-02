@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [psychiatrie-psychologie, théorie]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2026-03-31
 youtube_id: zp-Oi6dkzgU
 aliases: [LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, Cuba, répression-justice]
 enjeux: [Palestine-libre, anti-impérialisme]
+possibles: [Universalisme materiel]
 date: 2025-07-07
 youtube_id: "SVlzc9NgoeI"
 skill_version: write-video-2026-04-21

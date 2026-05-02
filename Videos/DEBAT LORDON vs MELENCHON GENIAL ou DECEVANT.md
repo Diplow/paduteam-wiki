@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [guerre-des-gauches]
+methodes: [Materialisme historique]
 date: 2026-04-12
 youtube_id: "vzhzJUUjx28"
 skill_version: write-video-2026-04-23

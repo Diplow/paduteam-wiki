@@ -5,6 +5,7 @@ youtube_id: kmJDHYGIm9c
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, racisme-antiracisme]
 enjeux: []
+possibles: [Universalisme materiel]
 aliases: [PURGÉS pour ISLAMO-GAUCHISME ? ÇA BOUGE CHEZ les JEUNESSES COMMUNISTES !!]
 skill_version: "ingest-batch-2026-04-21"
 ---

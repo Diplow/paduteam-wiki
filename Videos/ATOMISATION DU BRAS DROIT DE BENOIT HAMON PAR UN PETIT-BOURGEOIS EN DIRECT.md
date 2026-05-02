@@ -5,6 +5,7 @@ youtube_id: IpS_wmPph0Q
 domaine: [théorie, politique-intérieure]
 thèmes: [le-Graphique, travail, guerre-des-gauches]
 enjeux: []
+methodes: [Materialisme historique]
 date created: Thursday, April 2nd 2026, 8:30:17 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---

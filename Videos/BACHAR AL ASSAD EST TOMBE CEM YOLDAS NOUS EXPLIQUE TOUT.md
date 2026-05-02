@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, géopolitique]
 enjeux: [anti-impérialisme, campisme-assumé]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2024-12-09
 youtube_id: QN89GVrV0u8
 aliases: [BACHAR AL ASSAD EST TOMBÉ — CEM YOLDAŞ NOUS EXPLIQUE TOUT]

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [féminisme, masculinisme, travail-du-sexe]
 enjeux: [feminisme-materialiste]
+methodes: [Materialisme historique]
 date: 2024-12-01
 youtube_id: "7W8760i06fw"
 skill_version: write-video-2026-04-20

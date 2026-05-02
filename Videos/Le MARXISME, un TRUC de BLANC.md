@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [racisme-antiracisme, le-Graphique, théorie-marxiste]
 enjeux: [le-Graphique]
+methodes: [Materialisme historique]
 date: 2025-04-28
 youtube_id: cB1crSU0r-k
 skill_version: ingest-2026-04-21

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, économie]
 thèmes: [travail, médias-propagande]
 enjeux: []
+possibles: [Universalisme materiel]
 date: 2025-03-09
 youtube_id: "a_IRACDXLkU"
 skill_version: write-video-2026-04-21

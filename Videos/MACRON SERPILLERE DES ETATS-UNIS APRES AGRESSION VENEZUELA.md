@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, Venezuela, États-Unis, Amérique-latine]
 enjeux: [anti-imperialisme, campisme-assume]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-01-04
 youtube_id: VgWWsxNdV9E
 skill_version: write-video-2026-04-22

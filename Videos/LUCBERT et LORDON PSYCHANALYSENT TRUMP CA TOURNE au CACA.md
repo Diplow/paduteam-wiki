@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [États-Unis, médias-propagande]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2026-02-21
 youtube_id: dqhm9fNiQ8A
 date created: Wednesday, April 1st 2026, 9:31:14 pm

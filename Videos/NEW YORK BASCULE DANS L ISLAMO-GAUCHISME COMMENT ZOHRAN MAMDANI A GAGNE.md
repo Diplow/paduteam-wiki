@@ -3,6 +3,8 @@ type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, élections, anti-impérialisme, féminisme, guerre-des-gauches]
 enjeux: [plus-jamais-PS, union-populaire]
+possibles: [Universalisme materiel]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2025-11-05
 youtube_id: 1vgv1fRXUIA
 skill_version: ingest-batch-2026-04-19

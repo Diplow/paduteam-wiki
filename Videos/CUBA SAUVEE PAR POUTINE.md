@@ -3,6 +3,8 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, États-Unis, Amérique-latine, Cuba, médias-propagande]
 enjeux: [anti-impérialisme, campisme-assumé]
+possibles: [Universalisme materiel]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-04-02
 youtube_id: "aFy07PCOjyo"
 skill_version: write-video-2026-04-24

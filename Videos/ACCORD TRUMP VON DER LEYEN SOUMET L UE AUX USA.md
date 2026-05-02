@@ -3,7 +3,7 @@ type: video
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, États-Unis, Ukraine]
 enjeux: [anti-imperialisme]
-conjonctures: [Triple crise du capitalisme]
+conjonctures: [Triple crise du capitalisme, Crise de l'hegemonie americaine]
 date: 2026-08-03
 youtube_id: S5wMhwDNpy4
 skill_version: ingest-batch-2026-04-14

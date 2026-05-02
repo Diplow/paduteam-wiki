@@ -3,6 +3,7 @@ type: video
 domaine: [théorie, politique-intérieure]
 thèmes: [anticommunisme, marxisme, médias-propagande, histoire-de-la-philosophie]
 enjeux: [critique-de-la-fachosphere]
+methodes: [Materialisme historique]
 date: 2026-03-31
 youtube_id: XNDOTTLHxH8
 skill_version: write-video-2026-04-23

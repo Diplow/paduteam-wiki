@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [psychiatrie-psychologie, théorie]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2025-02-20
 youtube_id: "fJFeN2nHvuc"
 skill_version: write-video-2026-04-21

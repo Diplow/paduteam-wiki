@@ -4,6 +4,7 @@ youtube_id: 6K3SRK1Jl_0
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, élections, guerre-des-gauches, anti-impérialisme, le-Graphique]
 enjeux: [plus-jamais-PS, union-populaire, anti-impérialisme]
+possibles: [Universalisme materiel]
 date: 2025-11-06
 skill_version: ingest-batch-2026-04-19
 date created: Sunday, April 19th 2026, 12:00:00 pm

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, économie]
 thèmes: [États-Unis, anti-impérialisme, néolibéralisme]
 enjeux: [anti-impérialisme]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2026-03-31
 youtube_id: T4Bbrp6Hm94
 skill_version: ingest-2026-04-21

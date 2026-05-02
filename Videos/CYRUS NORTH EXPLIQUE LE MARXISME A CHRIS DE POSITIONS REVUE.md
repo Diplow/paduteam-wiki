@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [marxisme-vulgarisation]
 enjeux: []
+methodes: [Materialisme historique]
 date: 2019-09-12
 youtube_id: "7d1lLvnd2cE"
 skill_version: write-video-2026-04-20

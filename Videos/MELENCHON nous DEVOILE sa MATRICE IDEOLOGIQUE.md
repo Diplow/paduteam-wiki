@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [marxisme, humanisme, laïcité, conscience-de-classe, antiracisme, guerre-des-gauches]
 enjeux: [bataille-culturelle, union-populaire]
+methodes: [Materialisme historique]
 date: 2025-12-15
 youtube_id: "nayohVBSukU"
 skill_version: ingest-2026-04-22
