@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, économie]
 thèmes: [santé, médias-propagande]
 enjeux: [defense-secu]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2026-03-31
 youtube_id: "TQsW3pWt1yw"
 skill_version: ingest-batch-2026-04-14

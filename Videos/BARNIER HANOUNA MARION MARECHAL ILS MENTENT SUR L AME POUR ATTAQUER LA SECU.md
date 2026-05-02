@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, politique-intérieure]
 thèmes: [santé, racisme-antiracisme, médias-propagande]
 enjeux: [defense-secu]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2026-03-31
 youtube_id: "bG4svF-3KLE"
 skill_version: ingest-batch-2026-04-14

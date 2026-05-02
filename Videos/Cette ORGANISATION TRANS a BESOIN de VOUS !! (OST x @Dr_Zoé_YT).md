@@ -5,6 +5,7 @@ youtube_id: FOdXSBG_54g
 domaine: [société]
 thèmes: [féminisme, santé]
 enjeux: [féminisme-matérialiste]
+conjonctures: [Capture capitaliste du systeme de sante]
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

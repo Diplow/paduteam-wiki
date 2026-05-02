@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [racisme-antiracisme, santé]
 enjeux: [plus-jamais-PS]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2024-12-01
 youtube_id: "9rptwstCFFk"
 skill_version: write-video-2026-04-20

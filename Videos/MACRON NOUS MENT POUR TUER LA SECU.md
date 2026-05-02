@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, société]
 thèmes: [santé]
 enjeux: [defense-secu]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2026-03-31
 youtube_id: "jtDb2meKMn8"
 skill_version: ingest-2026-04-21

@@ -5,6 +5,7 @@ youtube_id: UIc7Nsqg1Lg
 domaine: [politique-intérieure, économie]
 thèmes: [travail, élections]
 enjeux: [defense-secu]
+conjonctures: [Capture capitaliste du systeme de sante]
 aliases: [ANNONCES DE BAYROU : IL VEUT METTRE LE FEU AU PAYS !!]
 skill_version: "ingest-batch-2026-04-21"
 ---

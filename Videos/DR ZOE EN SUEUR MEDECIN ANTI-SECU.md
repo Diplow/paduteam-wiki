@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [santé, corpo-médicale]
 enjeux: [defense-securite-sociale]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2025-02-21
 youtube_id: "voX9WyUDJe8"
 skill_version: write-video-2026-04-21

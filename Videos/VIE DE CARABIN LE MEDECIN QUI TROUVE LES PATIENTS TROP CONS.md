@@ -5,6 +5,7 @@ youtube_id: CI-C05V074k
 domaine: [société]
 thèmes: [médecine-santé, corpo-médicale]
 enjeux: [Corpo medicale]
+conjonctures: [Capture capitaliste du systeme de sante]
 skill_version: write-video-2026-04-21
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Tuesday, April 21st 2026, 12:00:00 pm

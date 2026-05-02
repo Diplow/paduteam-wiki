@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, économie]
 thèmes: [travail, santé, le-Graphique]
 enjeux: [defense-de-la-securite-sociale]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2025-09-29
 youtube_id: "sPTaGxN7JFE"
 skill_version: write-video-2026-04-21

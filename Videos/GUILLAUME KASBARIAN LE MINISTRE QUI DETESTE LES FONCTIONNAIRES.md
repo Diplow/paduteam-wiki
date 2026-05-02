@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, société]
 thèmes: [travail, santé]
 enjeux: [defense-service-public]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2024-11-01
 youtube_id: "cLfeliDVdDA"
 skill_version: write-video-2026-04-20

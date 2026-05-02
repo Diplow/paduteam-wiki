@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [psychiatrie-psychologie, médecine-santé, médias-propagande]
 enjeux: [corpo-medicale, psychiatrie-progressiste]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2025-03-31
 youtube_id: "43_Rj76Mv0Y"
 skill_version: write-video-2026-04-21

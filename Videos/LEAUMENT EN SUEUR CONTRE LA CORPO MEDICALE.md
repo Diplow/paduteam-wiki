@@ -5,6 +5,7 @@ youtube_id: gMRUskGZPMw
 domaine: [société, économie, politique-intérieure]
 thèmes: [santé, corpo-médicale, guerre-des-gauches]
 enjeux: [Corpo medicale, Union populaire]
+conjonctures: [Capture capitaliste du systeme de sante]
 skill_version: ingest-batch-2026-04-14
 date created: Tuesday, April 14th 2026, 9:10:35 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

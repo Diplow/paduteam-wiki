@@ -5,6 +5,7 @@ youtube_id: 8aw2darqPmc
 domaine: [théorie, économie]
 thèmes: [travail, le-Graphique]
 enjeux: []
+conjonctures: [Capture capitaliste du systeme de sante]
 methodes: [Graphique]
 date created: Wednesday, April 1st 2026, 5:55:03 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

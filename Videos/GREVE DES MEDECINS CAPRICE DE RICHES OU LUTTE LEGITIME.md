@@ -4,6 +4,7 @@ date: 2026-03-30
 youtube_id: nGt2B6jgMaI
 domaine: [société, économie]
 thèmes: [santé, corpo-médicale, travail]
+conjonctures: [Capture capitaliste du systeme de sante]
 skill_version: ingest-batch-2026-04-22
 ---
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale #thème/travail

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [santé, féminisme, antivalidisme]
 enjeux: [defense-de-la-securite-sociale]
+conjonctures: [Capture capitaliste du systeme de sante]
 date: 2025-05-19
 youtube_id: pB7BqriwRzM
 skill_version: ingest-2026-04-21
