@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [féminisme, VSS]
 enjeux: [féminisme-matérialiste]
+possibles: [Feminisme materialiste]
 date: 2024-12-19
 youtube_id: "iE5xY9roHbY"
 skill_version: ingest-batch-2026-04-13

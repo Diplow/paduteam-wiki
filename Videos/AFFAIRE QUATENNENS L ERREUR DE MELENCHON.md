@@ -4,6 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, guerre-des-gauches]
 format: analyse
 enjeux: [féminisme-matérialiste, VSS-comme-fait-social]
+possibles: [Feminisme materialiste]
 date: 2022-10-01
 youtube_id: vpr0o3duK_4
 intervenants: [Dr Zoe, Chris]

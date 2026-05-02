@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [féminisme, VSS]
 enjeux: [féminisme-matérialiste]
+possibles: [Feminisme materialiste]
 date: 2025-01-21
 youtube_id: "VLC13nwzaEo"
 skill_version: write-video-2026-04-20

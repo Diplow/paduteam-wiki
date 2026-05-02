@@ -5,6 +5,7 @@ youtube_id: -Q-ulX_kTmU
 domaine: [société, politique-intérieure]
 thèmes: [VSS, féminisme]
 enjeux: [vss-comme-fait-social, feminisme-materialiste]
+possibles: [Feminisme materialiste]
 skill_version: ingest-2026-04-21
 date created: Monday, April 13th 2026, 6:31:54 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

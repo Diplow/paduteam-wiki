@@ -8,6 +8,7 @@ thèmes:
   - masculinisme
   - féminisme
 enjeux:
+possibles: [Feminisme materialiste]
   - féminisme-matérialiste
 aliases:
   - "@Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES"

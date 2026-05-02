@@ -5,6 +5,7 @@ youtube_id: vfEiOQKnZ4M
 domaine: [société]
 thèmes: [féminisme, VSS]
 enjeux: [féminisme-matérialiste]
+possibles: [Feminisme materialiste]
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 2:42:51 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

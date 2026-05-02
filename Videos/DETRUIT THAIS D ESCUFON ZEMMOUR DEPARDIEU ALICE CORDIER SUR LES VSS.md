@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [féminisme, VSS, médias-propagande]
 enjeux: [antiféminisme-identitaire]
+possibles: [Feminisme materialiste]
 date: 2024-05-29
 youtube_id: "nRNFvVDvI4s"
 skill_version: ingest-batch-2026-04-13
