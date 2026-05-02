@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, ruralité]
 enjeux: [plus-jamais-PS, union-populaire]
+possibles: [Antiracisme politique multiracial]
 date: 2026-02-14
 youtube_id: iXImwyHjrwM
 aliases: [MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]

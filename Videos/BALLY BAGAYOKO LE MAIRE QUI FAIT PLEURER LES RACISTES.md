@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [racisme-antiracisme, élections, médias-propagande]
 enjeux: [union-populaire, bataille-culturelle]
+possibles: [Antiracisme politique multiracial]
 date: 2026-03-30
 youtube_id: "Q-tgXhC2SFg"
 skill_version: write-video-2026-04-24

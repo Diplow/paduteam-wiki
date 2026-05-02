@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, ruralité, racisme-antiracisme]
 enjeux: [union-populaire, plus-jamais-PS]
+possibles: [Antiracisme politique multiracial]
 date: 2026-03-28
 youtube_id: xnU_T2a6Nz0
 aliases: [BACKSEAT vs PADUTEAM COMMENT EMPÊCHER LE RN EN RURALITÉ]

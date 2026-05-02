@@ -5,6 +5,7 @@ youtube_id: PCTAW_j9JAQ
 domaine: [politique-intérieure, société]
 thèmes: [féminisme, racisme-antiracisme, guerre-des-gauches]
 enjeux: [feminisme-materialiste]
+possibles: [Antiracisme politique multiracial]
 methodes: [Anatomie des visions adverses]
 aliases: [NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!, Arthaud voile]
 skill_version: ingest-2026-04-21

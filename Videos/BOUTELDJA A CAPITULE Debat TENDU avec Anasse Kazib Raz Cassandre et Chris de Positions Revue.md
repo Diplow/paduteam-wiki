@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [racisme-antiracisme, guerre-des-gauches, théorie-politique]
 enjeux: [guerre-des-gauches]
+possibles: [Antiracisme politique multiracial]
 date: 2025-02-23
 youtube_id: "0zLB47ivZhg"
 skill_version: write-video-2026-04-21

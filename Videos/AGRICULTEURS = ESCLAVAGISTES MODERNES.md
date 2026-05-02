@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, société, théorie]
 thèmes: [racisme-antiracisme, travail, ruralité]
 enjeux: []
+possibles: [Antiracisme politique multiracial]
 date: 2025-04
 youtube_id: "sGjOpM5NjWM"
 skill_version: ingest-2026-04-21

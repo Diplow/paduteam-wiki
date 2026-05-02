@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [travail, racisme-antiracisme, féminisme]
 enjeux: [le-Graphique, union-populaire]
+possibles: [Antiracisme politique multiracial]
 date: 2024-12-31
 youtube_id: "d3Bx2Z4dpmw"
 skill_version: write-video-2026-04-20

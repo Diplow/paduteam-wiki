@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, racisme-antiracisme, répression-justice]
 enjeux: [campisme-assumé]
+possibles: [Antiracisme politique multiracial]
 date: 2025-11-20
 youtube_id: "3u97XDBGFaA"
 skill_version: write-video-2026-04-21
