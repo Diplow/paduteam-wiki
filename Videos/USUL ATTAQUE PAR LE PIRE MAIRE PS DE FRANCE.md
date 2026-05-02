@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, médias-propagande]
 enjeux: [plus-jamais-PS]
+methodes: [Anatomie des visions adverses]
 date: 2025-06-22
 youtube_id: "X9ugVNsv3vw"
 skill_version: write-video-2026-04-21

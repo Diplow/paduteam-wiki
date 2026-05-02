@@ -3,6 +3,7 @@ type: video
 domaine: [géopolitique, politique-intérieure]
 thèmes: [guerre-des-gauches, Ukraine, anti-impérialisme]
 enjeux: [camp-de-la-paix, bellicisme-social-democrate]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-15
 youtube_id: HLh38KWYpl8
 skill_version: ingest-2026-04-21

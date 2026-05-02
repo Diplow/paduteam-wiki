@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [trajectoires-politiques, masculinisme, médias-propagande, extrême-droite]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 conjonctures: [Fascisation rampante hors RN]
 date: 2024-12-09
 youtube_id: 0lAbOcFqZ7k

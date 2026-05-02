@@ -5,6 +5,7 @@ youtube_id: 3i1WdOAscvg
 domaine: [politique-intérieure, société]
 thèmes: [guerre-des-gauches, médias-propagande, extrême-droite]
 enjeux: [guerre-des-gauches]
+methodes: [Anatomie des visions adverses]
 skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/médias-propagande #thème/extrême-droite #enjeu/guerre-des-gauches

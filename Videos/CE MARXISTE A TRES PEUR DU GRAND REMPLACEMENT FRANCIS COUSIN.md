@@ -3,7 +3,7 @@ type: vidéo
 domaine: [théorie, politique-intérieure]
 thèmes: [racisme-antiracisme, marxisme]
 enjeux: []
-methodes: [Materialisme historique]
+methodes: [Materialisme historique, Anatomie des visions adverses]
 date: 2025-01-01
 youtube_id: "gkhMEFKypDc"
 skill_version: write-video-2026-04-20

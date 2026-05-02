@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [économie-politique, médias-propagande, féminisme]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2025-01-29
 youtube_id: "zTP80Zv0Rgk"
 skill_version: write-video-2026-04-20

@@ -5,6 +5,7 @@ youtube_id: qFduz90djok
 domaine: [société]
 thèmes: [masculinisme, racisme-antiracisme]
 enjeux: [féminisme-matérialiste]
+methodes: [Anatomie des visions adverses]
 aliases: ["PAYE TON DROITARD #2 @lobservateurOfficiel", "PTD #2", "PTD2"]
 skill_version: "1.0"
 date created: Monday, April 13th 2026, 3:04:21 pm

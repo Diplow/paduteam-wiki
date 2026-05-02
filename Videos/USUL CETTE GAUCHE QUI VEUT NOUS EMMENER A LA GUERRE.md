@@ -3,6 +3,7 @@ type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [guerre-des-gauches, Ukraine, anti-impérialisme]
 enjeux: [camp-de-la-paix, campisme-assume]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-31
 youtube_id: yNSlkCVhLWM
 skill_version: ingest-batch-2026-04-22

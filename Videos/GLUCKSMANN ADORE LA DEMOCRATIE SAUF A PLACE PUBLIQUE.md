@@ -5,6 +5,7 @@ youtube_id: VtyOyYkN-rE
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, démocratie-interne, PS]
 enjeux: [plus-jamais-PS, guerre-des-gauches]
+methodes: [Anatomie des visions adverses]
 aliases: [GLUCKSMANN ADORE LA DÉMOCRATIE SAUF À PLACE PUBLIQUE]
 skill_version: ingest-batch-2026-04-21
 date created: Monday, April 21st 2026, 12:00:00 pm

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches]
 enjeux: [bataille-culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2025-09-01
 youtube_id: "3x1ILszpXeI"
 skill_version: write-video-2026-04-21

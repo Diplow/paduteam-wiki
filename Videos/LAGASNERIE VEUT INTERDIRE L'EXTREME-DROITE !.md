@@ -5,6 +5,7 @@ youtube_id: i_sv_j53qxo
 domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, médias-propagande]
 enjeux: [union-populaire]
+methodes: [Anatomie des visions adverses]
 aliases: [LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]
 date created: Saturday, April 4th 2026, 11:19:29 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm

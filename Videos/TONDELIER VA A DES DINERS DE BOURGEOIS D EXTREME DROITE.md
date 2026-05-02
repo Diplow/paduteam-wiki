@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, écologie, extrême-droite, médias-propagande]
 enjeux: [Critique de la fachosphere, Guerre des gauches]
+methodes: [Anatomie des visions adverses]
 date: 2026-02-06
 youtube_id: "mCek51AyK50"
 skill_version: write-video-2026-04-25

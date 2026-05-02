@@ -6,6 +6,7 @@ date: 2025-09-05
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, mouvement-social]
 enjeux: [guerre-des-gauches, plus-jamais-ps, union-populaire]
+methodes: [Anatomie des visions adverses]
 skill_version: write-video-2026-04-21
 date created: Tuesday, April 21st 2026
 ---

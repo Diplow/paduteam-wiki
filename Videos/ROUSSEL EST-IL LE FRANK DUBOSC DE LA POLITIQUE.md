@@ -5,6 +5,7 @@ youtube_id: E_6pF5YK-CE
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, stratégie-électorale]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 aliases: [ROUSSEL est il le FRANK DUBOSC de la POLITIQUE ?]
 skill_version: "ingest-batch-2026-04-21"
 ---

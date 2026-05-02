@@ -5,6 +5,7 @@ youtube_id: nxqv571BG-g
 domaine: [société]
 thèmes: [féminisme]
 enjeux: [Feminisme materialiste]
+methodes: [Anatomie des visions adverses]
 intervenants: [Padu]
 aliases: [THAÏS D'ESCUFON AIDE les INCELS à TROUVER une MEUF pour 19,90 EUROS par mois, Thaïs Conquête de Valeur]
 date created: Monday, April 13th 2026, 12:00:00 pm

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie]
 thèmes: [masculinisme, racisme-antiracisme, trajectoires-politiques, complotisme]
 enjeux: [antiféminisme-identitaire-comme-menace]
+methodes: [Anatomie des visions adverses]
 date: 2025-04-04
 youtube_id: "aEztMIYxbwo"
 skill_version: write-video-2026-04-21

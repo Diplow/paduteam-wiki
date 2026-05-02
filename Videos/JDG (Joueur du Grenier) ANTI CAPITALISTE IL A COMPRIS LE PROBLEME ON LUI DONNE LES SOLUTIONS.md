@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [médias-propagande, travail]
 enjeux: [bataille-culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2025-11-14
 youtube_id: m-tDWzrPgg0
 skill_version: write-video-2026-04-21

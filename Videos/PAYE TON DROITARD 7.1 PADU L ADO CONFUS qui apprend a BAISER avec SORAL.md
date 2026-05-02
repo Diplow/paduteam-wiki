@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [guerre-des-gauches, élections, masculinisme]
 enjeux: [confusionnisme-rouge-brun]
+methodes: [Anatomie des visions adverses]
 date: 2025-01-31
 youtube_id: 9AJZrCZJvPk
 aliases: ["PAYE TON DROITARD #7.1", "PTD #7.1", "PADU L'ADO CONFUS SORAL"]

@@ -6,6 +6,7 @@ période: W35-W36
 domaine: [politique-intérieure, théorie]
 thèmes: [écologie, guerre-des-gauches, anticapitalisme]
 enjeux: [guerre-des-gauches]
+methodes: [Anatomie des visions adverses]
 skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/écologie #thème/guerre-des-gauches #thème/anticapitalisme

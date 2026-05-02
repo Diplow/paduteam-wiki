@@ -5,6 +5,7 @@ youtube_id: jw1-EY_9DDc
 domaine: [théorie, société]
 thèmes: [guerre-des-gauches, féminisme]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 aliases: [LAGASNERIE : REBELLE GÉNIAL OU ADOLESCENT BOURGEOIS RONCHON ?]
 skill_version: "ingest-batch-2026-04-21"
 ---

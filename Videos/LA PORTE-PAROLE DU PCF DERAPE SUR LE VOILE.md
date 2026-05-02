@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, islamophobie, PCF]
 enjeux: [guerre-des-gauches, bataille-culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-01
 youtube_id: "Z4bJwLusIM8"
 skill_version: write-video-2026-04-21

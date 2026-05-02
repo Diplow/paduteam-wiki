@@ -5,6 +5,7 @@ youtube_id: GfF0eNxM3EY
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
 enjeux: [Feminisme materialiste]
+methodes: [Anatomie des visions adverses]
 intervenants: [Padu, Dr Zoe]
 aliases: [PAYE TA DROITARDE 4.2, Paye ta droitarde 4.2 Thaïs d'Escufon]
 date created: Monday, April 13th 2026, 12:00:00 pm

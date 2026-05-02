@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, économie]
 thèmes: [travail, médias-propagande, guerre-des-gauches]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2026-03-31
 youtube_id: "WTrg8i2HfP0"
 skill_version: write-video-2026-04-21

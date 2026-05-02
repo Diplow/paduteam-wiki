@@ -3,7 +3,7 @@ type: vidéo
 domaine: [théorie, économie]
 thèmes: [marxisme-théorie, médias-propagande]
 enjeux: []
-methodes: [Materialisme historique]
+methodes: [Materialisme historique, Anatomie des visions adverses]
 date: 2025-01-29
 youtube_id: ffkIcOrj8kQ
 aliases: ["MOS MAJORUM MARX", "Mos Majorum débunker Marx"]

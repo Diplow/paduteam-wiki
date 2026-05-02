@@ -5,6 +5,7 @@ youtube_id: kyOS41v2Ubg
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]
+methodes: [Anatomie des visions adverses]
 skill_version: write-video-2026-04-21
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Tuesday, April 21st 2026, 12:00:00 pm

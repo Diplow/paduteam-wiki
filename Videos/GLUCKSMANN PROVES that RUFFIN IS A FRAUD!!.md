@@ -5,6 +5,7 @@ youtube_id: c6YvwHjVfYg
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
+methodes: [Anatomie des visions adverses]
 skill_version: ingest-2026-04-21
 date created: Sunday, April 12th 2026, 5:25:28 pm
 date modified: Wednesday, April 21st 2026, 12:00:00 pm

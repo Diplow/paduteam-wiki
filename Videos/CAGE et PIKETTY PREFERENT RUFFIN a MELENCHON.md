@@ -5,6 +5,7 @@ youtube_id: vM1SmvSWsVE
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections, ruralité, racisme-antiracisme, le-Graphique]
 enjeux: [union-populaire, guerre-des-gauches]
+methodes: [Anatomie des visions adverses]
 aliases: [CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON]
 skill_version: ingest-2026-04-21
 date created: Wednesday, April 1st 2026, 7:51:47 pm

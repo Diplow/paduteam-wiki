@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [psychiatrie-psychologie, théorie-marxiste, guerre-des-gauches]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2025-05-22
 youtube_id: k9780aGiMZU
 skill_version: ingest-2026-04-21

@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société]
 thèmes: [féminisme, médias-propagande]
 enjeux: [féminisme-matérialiste]
+methodes: [Anatomie des visions adverses]
 conjonctures: [Fascisation rampante hors RN]
 date: 2025-01-28
 youtube_id: 1-_qK1EfnNE
