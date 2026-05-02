@@ -3,6 +3,7 @@ type: vidéo
 domaine: [économie, société]
 thèmes: [travail, racisme-antiracisme, ruralité, médias-propagande]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2025-08
 youtube_id: "Pb8WmNTbl_8"
 skill_version: write-video-2026-04-21

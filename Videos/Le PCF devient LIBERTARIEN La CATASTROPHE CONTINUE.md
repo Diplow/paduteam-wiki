@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, théorie]
 thèmes: [pcf, nationalisation, communisme, socialisme, scop, propriete-privee, anticommunisme]
 enjeux: [Guerre des gauches, Bataille culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-17
 youtube_id: "cvxNFgP7aaM"
 skill_version: ingest-2026-04-22

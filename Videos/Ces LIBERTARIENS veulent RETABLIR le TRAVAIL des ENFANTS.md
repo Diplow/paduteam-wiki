@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, économie]
 thèmes: [marxisme-théorie, travail]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2025-01-30
 youtube_id: ycTPdN15eWk
 aliases: ["LIBERTARIENS TRAVAIL ENFANTS", "HowToBitcoin travail enfants"]

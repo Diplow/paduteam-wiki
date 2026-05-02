@@ -3,6 +3,7 @@ type: video
 domaine: [théorie, économie]
 thèmes: [marxisme, travail, capitalisme, écologie]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2026-04-12
 youtube_id: "udA8qWZMe4A"
 skill_version: write-video-2026-04-23

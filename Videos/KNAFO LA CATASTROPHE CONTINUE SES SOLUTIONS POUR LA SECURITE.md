@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, société]
 thèmes: [féminisme, VSS, médias-propagande, extrême-droite, élections]
 enjeux: [Bataille culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2026-02-01
 youtube_id: "kJgGc2z0INg"
 skill_version: write-video-2026-04-23

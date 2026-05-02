@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, médias-propagande]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2026-04-14
 youtube_id: "k2JDCYqR5iU"
 skill_version: write-video-2026-04-24

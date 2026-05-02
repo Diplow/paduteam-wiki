@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, théorie, politique-intérieure]
 thèmes: [travail, médias-propagande, élections]
 enjeux: [union-populaire]
+methodes: [Anatomie des visions adverses]
 date: 2024-12-27
 youtube_id: uRyKZrDAsgc
 date created: Thursday, April 2nd 2026, 1:07:24 am

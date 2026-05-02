@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure]
 thèmes: [élections, médias-propagande, féminisme]
 enjeux: [plus-jamais-PS]
+methodes: [Anatomie des visions adverses]
 date: 2026-03-30
 youtube_id: "3ftDNZQXp74"
 skill_version: write-video-2026-04-22

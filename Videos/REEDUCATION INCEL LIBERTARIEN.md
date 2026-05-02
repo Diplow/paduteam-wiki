@@ -5,6 +5,7 @@ youtube_id: eyF1l-60H-Q
 domaine: [société, théorie]
 thèmes: [masculinisme, marxisme]
 enjeux: [féminisme-matérialiste]
+methodes: [Anatomie des visions adverses]
 aliases: ["RÉÉDUCATION DE L'INCEL LIBERTARIEN", "ON FINIT LE TRAVAIL"]
 skill_version: "ingest-2026-04-21"
 date created: Monday, April 13th 2026, 3:04:21 pm

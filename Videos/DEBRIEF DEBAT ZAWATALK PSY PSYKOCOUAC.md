@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie, société]
 thèmes: [psychiatrie-psychologie, santé, sécurité-sociale]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2025-02-21
 youtube_id: "E6keQBxtrt0"
 skill_version: write-video-2026-04-21

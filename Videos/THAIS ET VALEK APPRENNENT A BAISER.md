@@ -5,6 +5,7 @@ youtube_id: -8WwlRECQgE
 domaine: [société]
 thèmes: [féminisme, masculinisme]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 ---
 
 #domaine/société #thème/féminisme #thème/masculinisme

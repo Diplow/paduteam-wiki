@@ -3,6 +3,7 @@ type: vidéo
 domaine: [politique-intérieure, économie]
 thèmes: [élections, néolibéralisme, médias-propagande]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date: 2026-04-10
 youtube_id: "G_D7VLi26ko"
 skill_version: write-video-2026-04-24

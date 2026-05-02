@@ -3,6 +3,7 @@ type: vidéo
 domaine: [théorie]
 thèmes: [travail, communisme, anthropologie-libérale, aliénation, planification, abondance-pénurie, incitation-au-travail]
 enjeux: [Bataille culturelle]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-19
 youtube_id: "PiNfS8KVU_k"
 skill_version: ingest-2026-04-22

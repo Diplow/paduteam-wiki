@@ -5,6 +5,7 @@ youtube_id: L4b3g_GHEqk
 domaine: [politique-intérieure]
 thèmes: [élections]
 enjeux: []
+methodes: [Anatomie des visions adverses]
 date created: Thursday, April 2nd 2026, 1:13:51 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 aliases: [LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]

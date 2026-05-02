@@ -3,6 +3,7 @@ type: vidéo
 domaine: [société, économie]
 thèmes: [psychiatrie-psychologie, santé, sécurité-sociale]
 enjeux: [defense-securite-sociale]
+methodes: [Anatomie des visions adverses]
 conjonctures: [Capture capitaliste du systeme de sante]
 date: 2025-02-18
 youtube_id: "wGjME6ekbhQ"
