@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [aristocratisme intellectuel, pensée aristocratique]
 date created: Saturday, April 4th 2026, 11:20:21 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -25,3 +25,4 @@ Le mécanisme repose sur un double héritage aristocratique : familial (naissanc
 
 ## Vidéos où le concept est développé
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — Nietzsche comme vernis intellectuel adopté après politisation YouTube mascu ; "ingénieur nietzschéen" comme avatar populaire du rebelle aristocratique sans la profondeur

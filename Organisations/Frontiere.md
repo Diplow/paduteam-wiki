@@ -6,10 +6,10 @@ ancienne_appellation: Livre Noir
 patron: Eric Tegner
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande]
-apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]"]
+apparitions: ["[[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]]", "[[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]]"]
 aliases: [Frontière]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/médias-propagande
 
@@ -23,13 +23,13 @@ Média d'extrême droite français, anciennement connu sous le nom de **Livre No
 
 La PaduTeam analyse cette carte comme typique du niveau analytique de l'extrême droite : travail bâclé au ChatGPT, classifications incohérentes (Thomas Piketty et Jean-Marc Rouillant dans la même catégorie, le Secours catholique et Emmaüs en "sans frontiériste"), et surtout une logique de **race sociale perçue** plutôt que d'analyse politique — les arabes vont en "islamogauchiste" et "décolonial", les noirs en "racialiste".
 
-La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", ce que Padu souligne comme révélateur de la confusion intellectuelle du média.
+La carte inclut même Alain Soral dans la cartographie de "l'extrême gauche", révélateur de la confusion intellectuelle du média selon la PaduTeam.
 
 ## Personnalités associées
 
 - [[Eric Tegner]] — patron actuel, mis en cause pour VSS
 - Pierre-René Laville — prédécesseur condamné pour violence conjugale
-- Jordan Florentin — journaliste, accusé d'avoir harcelé une femme endeuillée pour ses positions politiques
+- Jordan Florentin — journaliste, accusé d'avoir harcelé une femme endeuillée pour ses positions politiques ; conférencier sur le "fascisme de LFI" (octobre 2025)
 - Dora Muto — ancienne rédactrice adjointe de Combini, partie chez Frontière
 
 ## Affaire Louise (février 2025)
@@ -44,4 +44,12 @@ La sœur est contrainte de supprimer son compte Twitter. Le père avait demandé
 
 ## Regard de la PaduTeam
 
-"VA+, Frontière : l'extrême droite la plus ridicule de France" (Zoé). La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."
+"VA+, Frontière : l'extrême droite la plus ridicule de France." La PaduTeam utilise Frontière comme exemple de médias d'extrême droite qui n'ont pas besoin de travailler intellectuellement parce que toute la bourgeoisie médiatique porte déjà leurs positions. "Il suffit d'être stupide et de dire des trucs un peu dégueulasses."
+
+## Vidéos où Frontière est analysé
+
+- [[FRONTIERES nous CANCEL de sa CARTOGRAPHIE de l'EXTREME-GAUCHE]] — cartographie de "l'extrême gauche" : travail bâclé au ChatGPT, logique de race sociale perçue
+- [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — [[Jordan Florentin]] et le harcèlement de la sœur de Louise
+- [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — conférence de Florentin sur le "fascisme de LFI" ; démontage : 1/7 pour LFI, 6/7 pour RN et Reconquête
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — Tegner sur CNews face à l'élection du maire noir de Saint-Denis ; négrophobie médiatique systémique analysée et démontée par la PaduTeam
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — diffuse le nom de Jacques-Élie Favrot (assistant parlementaire de [[Raphael Arnaud]]) comme agresseur présumé de [[Quentin Deranque]] avant toute confirmation judiciaire ; un "témoin" cité par Frontière dit être "sûr à 100%" alors que le groupe se décrivait lui-même comme masqué. La PaduTeam : opération de salissage politique de la FI via les médias d'extrême droite.

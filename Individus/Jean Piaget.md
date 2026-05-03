@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [psychiatrie-psychologie, théorie]
 aliases: [Piaget, Jean Piaget]
 date created: Thursday, April 2nd 2026, 3:19:13 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/psychiatrie-psychologie #thème/théorie
 
@@ -23,3 +23,4 @@ Psychologue et épistémologue suisse (1896-1980). Fondateur de la psychologie g
 
 ## Vidéos où Piaget est mentionné
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — présenté comme "l'Einstein de la psychologie du développement" ; ses expériences sur la conservation des volumes (enfant face à deux verres d'eau de forme différente) citées comme exemple du standard empirique que Lordon/Lucbert n'atteignent pas ; son biais individualiste (enfant naît égocentré puis s'ouvre au social) corrigé par Vygotski

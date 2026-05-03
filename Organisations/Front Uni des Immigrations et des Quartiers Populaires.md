@@ -4,7 +4,7 @@ domaine: []
 thèmes: [racisme-antiracisme]
 aliases: [FUIQP, FUP, Front Uni travailleurs immigrés et des quartiers populaires]
 date created: Tuesday, March 31st 2026, 10:58:47 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #thème/racisme-antiracisme
 # Front Uni des Immigrations et des Quartiers Populaires

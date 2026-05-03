@@ -4,6 +4,8 @@ domaine: [politique-intérieure]
 thèmes: [santé, travail]
 aliases: [Maud Brégeon, Brégeon]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 9:10:35 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/santé #thème/travail
 
@@ -14,7 +16,7 @@ Macroniste "quasiment première heure" (rejoint Macron en 2016), proche de Darma
 
 ## Position politique : attaquer les arrêts de travail
 
-Brégeon invoque la hausse de 25% des jours d'arrêt indemnisés depuis 2019 sans jamais se demander **pourquoi**. La PaduTeam (Zoé) répond : les gens sont malades, les conditions de travail se sont dégradées, les collectifs de travail sont à bout. L'augmentation des arrêts est un symptôme — les macronistes la traitent comme une fraude.[^1]
+Brégeon invoque la hausse de 25% des jours d'arrêt indemnisés depuis 2019 sans jamais se demander **pourquoi**. La PaduTeam répond : les gens sont malades, les conditions de travail se sont dégradées, les collectifs de travail sont à bout. L'augmentation des arrêts est un symptôme — les macronistes la traitent comme une fraude.[^1]
 
 Son programme : augmenter les [[Jours de carence|jours de carence]] pour "endiguer le dérapage". La PaduTeam démontre que c'est contre-productif : l'augmentation des jours de carence produit des arrêts plus longs, de la contagion, des accidents de travail. Au final ça coûte plus cher.
 

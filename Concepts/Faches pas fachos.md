@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: []
 aliases: [fâchés pas fachos, ruffinisme, Fâchés pas fachos]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure
 # Fâchés pas fachos
@@ -19,7 +19,7 @@ Expression et posture politique critiquée par la [[PaduTeam]]. Consiste à dire
 ## Porteurs
 - [[Francois Ruffin]] et le journal [[Fakir]] — ligne historique
 - [[Lumir Lapray]] — version terrain en ruralité
-- [[Jean-Luc Melenchon]] y est "tombé des fois" selon Padu
+- [[Jean-Luc Melenchon]] y est "tombé des fois" selon la PaduTeam
 
 ## Opposition PaduTeam
 La PaduTeam oppose deux visions de gauche qui sont toutes les deux dans l'erreur : la gauche "Walking Dead" (les racistes sont des zombies irrécupérables, vision moraliste) et la gauche "fâchés pas fachos" (les électeurs RN ne sont pas racistes, vision ruffiniste). La position PaduTeam : les électeurs RN sont racistes au sens fonctionnel (ils ont choisi le [[Pacte raciste]]) mais peuvent changer si on leur propose un [[Pacte egalitaire]] crédible porté par un [[Choc d'abondance]].

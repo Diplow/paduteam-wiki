@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [travail]
 aliases: [fondateur SuperProf, fondateur Super Prof]
 date created: Thursday, April 2nd 2026, 1:07:33 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/travail
 

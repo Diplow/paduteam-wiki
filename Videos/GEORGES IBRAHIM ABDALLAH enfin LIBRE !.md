@@ -3,9 +3,10 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, répression-justice]
 enjeux: [Palestine-libre, anti-impérialisme]
+conjonctures: [Crise de l'hegemonie americaine]
 date: 2025-07-XX
 date created: Tuesday, March 31st 2026, 10:57:26 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #thème/répression-justice #enjeu/Palestine-libre #enjeu/anti-impérialisme
 # GEORGES IBRAHIM ABDALLAH enfin LIBRE ! (Entretien avec SAÏD BOUAMAMA)

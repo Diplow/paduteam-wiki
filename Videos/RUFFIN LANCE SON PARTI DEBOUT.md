@@ -1,11 +1,12 @@
 ---
 type: vidéo
+date: 2025-07-02
+youtube_id: XhU0kCHHN0c
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire]
-date:
 date created: Sunday, April 12th 2026, 5:25:30 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire
 

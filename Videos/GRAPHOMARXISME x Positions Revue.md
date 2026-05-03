@@ -4,7 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [élections]
 enjeux: [union-populaire]
 date created: Wednesday, April 1st 2026, 1:13:36 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/le-Graphique #thème/élections #enjeu/union-populaire
 # GRAPHOMARXISME x Positions Revue
@@ -40,3 +40,6 @@ Analyse de la candidature potentielle de [[Dominique de Villepin]] à la présid
 ## Enjeux avancés
 [[Graphique]] — Démonstration prédictive majeure : le Graphique projette Villepin à 6-7% max et explique pourquoi par l'analyse de classe. Nouvelle version interactive présentée.
 [[Union populaire]] — Mélenchon confirmé comme seul véhicule viable de la gauche populaire : sa stratégie 2017 (double positionnement diagonale + gauche) puis 2022 (bloc progressiste) sont les seules cohérentes avec la structure de classe.
+
+---
+*Voir aussi la fiche vidéo complète : [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]]*

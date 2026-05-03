@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Récupération posthume, honorer les morts pour réprimer les vivants]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
@@ -24,7 +24,7 @@ Le dispositif fonctionne en trois temps :
 
 ## Exemples historiques déployés par la PaduTeam
 
-- **Missak Manouchian** — Résistant arménien-français communiste, exécuté par les Nazis en 1944. Panthéonisé par [[Emmanuel Macron]] en 2024. Chris : « Macron panthéonise Manouchian tout en nommant Retailleau à l'Intérieur et en laissant monter l'extrême droite — il utilise un antifasciste mort pour dissimuler son soutien actif à ce que Manouchian aurait combattu. »
+- **Missak Manouchian** — Résistant arménien-français communiste, exécuté par les Nazis en 1944. Panthéonisé par [[Emmanuel Macron]] en 2024. La PaduTeam : « Macron panthéonise Manouchian tout en nommant Retailleau à l'Intérieur et en laissant monter l'extrême droite — il utilise un antifasciste mort pour dissimuler son soutien actif à ce que Manouchian aurait combattu. »
 - **Nelson Mandela** — Emprisonné 27 ans par un régime d'apartheid soutenu par l'Occident, libéré et célébré une fois devenu compatible avec le marché mondial. Le Mandela utile est le Mandela âgé et pacifié, pas le Mandela jeune et armé.
 - **Ernesto « Che » Guevara** — Tué en 1967 après la chasse organisée par la CIA. Devenu icône commerciale sur des t-shirts, merchandisé, vidé de sa portée révolutionnaire. Le Che mort est rentable ; le Che vivant était une cible à abattre.
 - **Léon Landini** — Résistant communiste PCF récemment décédé (2025-2026). La PaduTeam anticipe : « Macron l'honorera une fois enterré, après l'avoir ignoré ou combattu toute sa vie. »
@@ -33,7 +33,7 @@ Le dispositif fonctionne en trois temps :
 ## Pattern institutionnel français spécifique
 La Ve République a institutionnalisé le Panthéon comme outil de récupération posthume. Chaque président y fait entrer des figures « rebelles » dont il ignore ou combat activement les héritiers actuels. Macron est particulièrement hypocrite à ce jeu : Manouchian (2024), Joséphine Baker (2021), Simone Veil (2018)... Toutes figures dont les combats vivants contrediraient sa politique.
 
-Le parallèle tenu par Chris : **Mélenchon sera récupéré posthumément** dans 30 ans — on célébrera son génie oratoire, son combat contre l'austérité, sa défense des services publics — alors qu'aujourd'hui on le diabolise, l'accuse d'antisémitisme, le censure, le traite de populiste. Le pattern est prévisible.
+Le parallèle tenu par la PaduTeam : **Mélenchon sera récupéré posthumément** dans 30 ans — on célébrera son génie oratoire, son combat contre l'austérité, sa défense des services publics — alors qu'aujourd'hui on le diabolise, l'accuse d'antisémitisme, le censure, le traite de populiste. Le pattern est prévisible.
 
 ## Conséquence politique
 Comprendre la récupération posthume libère de l'illusion que les institutions bourgeoises peuvent « se convertir » à cause juste. Elles ne se convertissent pas — elles attendent la mort des porteurs pour récupérer sans danger. D'où la nécessité de construire des structures de contre-pouvoir vivantes et organisées (voir [[La Breche]], [[Mouvement gazeux]], [[Guerre de position]]) qui échappent à cette logique.

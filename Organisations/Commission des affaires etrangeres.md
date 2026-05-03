@@ -4,6 +4,8 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, élections]
 aliases: [Commission des affaires étrangères]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:42:35 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine
 

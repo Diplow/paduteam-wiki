@@ -5,7 +5,7 @@ thèmes: [féminisme, extrême-droite]
 aliases: [Transphobie, transphobie]
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/extrême-droite
 
@@ -21,7 +21,7 @@ La transphobie n'est pas un désaccord de valeurs — c'est un mécanisme de pro
 
 ## Formes identifiées dans le corpus
 
-**Transphobie raciste** : campagne contre [[Imane Khelif]] (JO 2024) — personnes intersexes noires ou nord-africaines présentées comme "hommes biologiques infiltrés" dans les catégories féminines. Padu note que les cibles des accusations transphobes dans le sport sont quasi-systématiquement des athlètes noires ou nord-africaines.
+**Transphobie raciste** : campagne contre [[Imane Khelif]] (JO 2024) — personnes intersexes noires ou nord-africaines présentées comme "hommes biologiques infiltrés" dans les catégories féminines. La PaduTeam note que les cibles des accusations transphobes dans le sport sont quasi-systématiquement des athlètes noires ou nord-africaines.
 
 **Transphobie désinformatrice** : [[Marguerite Stern]] + [[Psyhodelik]] — fake news délibérées (carnaval espagnol droitier présenté comme "poupées sexuelles LGBT"), reprise sans vérification, amplification. Conséquences matérielles : empêcher l'acceptation familiale, forcer le masquage de l'identité.
 
@@ -35,7 +35,7 @@ Un mécanisme transphobe récurrent consiste à confondre [[Intersexualite]] et 
 
 ## Le TERF comme variante interne à la gauche
 
-Les TERF (Trans-Exclusionary Radical Feminists) partagent la même prémisse que l'antiféminisme naturaliste : les catégories de sexe sont déterminées biologiquement, inviolables. Chris (ATR #2) : ce "matérialisme vulgaire" de Stern et du mouvement TERF aboutit mécaniquement à la défense de l'ordre naturel et à la cohabitation avec la réaction.
+Les TERF (Trans-Exclusionary Radical Feminists) partagent la même prémisse que l'antiféminisme naturaliste : les catégories de sexe sont déterminées biologiquement, inviolables. La PaduTeam (ATR #2) : ce "matérialisme vulgaire" de Stern et du mouvement TERF aboutit mécaniquement à la défense de l'ordre naturel et à la cohabitation avec la réaction.
 
 ## Vidéos associées
 

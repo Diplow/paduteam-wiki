@@ -4,14 +4,14 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [bloc modéré, gauche démocrate, gauche bourgeoise, Bloc démocrate]
 date created: Thursday, April 2nd 2026, 3:19:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
 # Bloc démocrate
 
 ## Définition
-Catégorie analytique de Chris ([[Positions Revue]]) désignant les forces de gauche "modérée" : [[Parti Socialiste]], [[Europe Ecologie Les Verts]], leurs alliés. Nommé en référence au Parti démocrate américain — "dans le mauvais sens du terme" (Padu) — pour souligner son caractère de gestionnaire du capitalisme néolibéral plutôt que force de transformation. Opposition au [[Bloc de rupture]].
+Catégorie analytique de la PaduTeam ([[Positions Revue]]) désignant les forces de gauche "modérée" : [[Parti Socialiste]], [[Europe Ecologie Les Verts]], leurs alliés. Nommé en référence au Parti démocrate américain — "dans le mauvais sens du terme" — pour souligner son caractère de gestionnaire du capitalisme néolibéral plutôt que force de transformation. Opposition au [[Bloc de rupture]].
 
 ## Mécanisme
 Le bloc démocrate est structurellement en recul depuis 2012. Son plafond de croissance est atteint depuis les européennes 2014. Sa composition varie selon les épisodes :
@@ -32,4 +32,4 @@ Le bloc démocrate est structurellement en recul depuis 2012. Son plafond de cro
 En juillet 2024, une partie de ce bloc (incluant des "frondeurs" comme [[Francois Ruffin]], et potentiellement certains secteurs du PS et d'EELV) envisage une coalition avec la macronie contre LFI. Pour [[Stathis Kouvelakis]], ce serait l'équivalent de la "3e force" de la SFIO sous [[Guy Mollet]] — politique molletiste, guerres coloniales.
 
 ## Vidéos où le concept est développé
-- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation et données par Chris, analysé avec Stathis
+- [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — formulation et données analysées avec Stathis

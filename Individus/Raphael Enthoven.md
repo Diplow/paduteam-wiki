@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure, théorie]
 thèmes: [médias-propagande, guerre-des-gauches]
 date created: Wednesday, April 1st 2026, 11:37:24 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches
 

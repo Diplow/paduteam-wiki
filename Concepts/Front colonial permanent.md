@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [Front colonial permanent, guerre coloniale permanente]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
@@ -38,5 +38,5 @@ Le concept articulé au [[Colonialisme de peuplement]] : la colonisation n'est p
 
 ## Vidéos où le concept est développé
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Formulation explicite par Paul Elek : « le front colonial ne cesse pas », définition du cessez-le-feu comme trêve (houdna) tactique
-- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Chris : « politique de colonisation, de tuerie et d'assassinats ciblés permanents »
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — la PaduTeam : « politique de colonisation, de tuerie et d'assassinats ciblés permanents »
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Déconstruction du discours de « défense » israélienne comme camouflage de la colonisation

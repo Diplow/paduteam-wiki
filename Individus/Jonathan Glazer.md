@@ -3,8 +3,8 @@ type: individu
 domaine: [géopolitique, société]
 thèmes: [Palestine, médias-propagande, culture]
 aliases: [Jonathan Glazer]
-date created: 2026-04-13
-date modified: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/médias-propagande
@@ -20,12 +20,12 @@ Analysé avec GuimFocus (chaîne cinéma). La PaduTeam voit dans le cas Glazer l
 ### Le discours et la réaction
 Glazer : la guerre transforme les victimes en chiffres, "qu'il s'agisse des victimes du 7 octobre ou du massacre à Gaza." Il condamne les deux côtés et utilise le mot "occupation". 450 professionnels du cinéma juifs signent une lettre l'accusant d'avoir "établi une équivalence morale entre un régime nazi et une nation israélienne qui cherche à éviter sa propre extermination."
 
-Le réalisateur hongrois László Nemes (*Le Fils de Saul*, même Oscar 7 ans plus tôt) déclare que Glazer "utilise des arguments diffusés par la propagande destinée à éradiquer toute présence juive sur terre." GuimFocus et Padu : "C'est complètement délirant comme propos. On dit que tu es pour éradiquer tous les Juifs sur terre parce que tu as dit que la guerre déshumanise les victimes."
+Le réalisateur hongrois László Nemes (*Le Fils de Saul*, même Oscar 7 ans plus tôt) déclare que Glazer "utilise des arguments diffusés par la propagande destinée à éradiquer toute présence juive sur terre." GuimFocus et la PaduTeam : "C'est complètement délirant comme propos. On dit que tu es pour éradiquer tous les Juifs sur terre parce que tu as dit que la guerre déshumanise les victimes."
 
 ### Le film *La Zone d'intérêt*
 GuimFocus analyse le film comme politiquement radical précisément parce qu'il *ne montre pas* l'horreur des camps — il montre le quotidien banal du commandant nazi à côté, sa femme qui jardine, ses enfants. "Plus on est dans ce calme, plus c'est absolument horrible de voir qu'en fait il y a pas vraiment de conscience de ce qui est en train de se dérouler — ou alors ils sont parfaitement conscients mais considèrent ça comme un métier, quelque chose de normal." 
 
-Padu situe le film dans l'histoire de l'*Alltagsgeschichte* (histoire de la vie quotidienne) : comprendre comment des gens sans pathologie psychopathique ont pu alimenter un crime de masse. "Ça permet aussi de se dire qu'est-ce qui ferait que nous on devienne comme ça — comment faire pour éviter que ça se reproduise."
+La PaduTeam situe le film dans l'histoire de l'*Alltagsgeschichte* (histoire de la vie quotidienne) : comprendre comment des gens sans pathologie psychopathique ont pu alimenter un crime de masse. "Ça permet aussi de se dire qu'est-ce qui ferait que nous on devienne comme ça — comment faire pour éviter que ça se reproduise."
 
 ### Le paradoxe Nemes
 Nemes dit que le film est "important" mais accuse ensuite Glazer de propagande génocidaire. GuimFocus : "Mais qu'est-ce que tu as compris dans le film, alors, si tu trouves que le film est important ?"

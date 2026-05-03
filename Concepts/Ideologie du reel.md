@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [le-Graphique, médias-propagande]
 aliases: [idéologie du réel, "du côté du réel", "tout le monde sait", Idéologie du réel]
 date created: Thursday, April 2nd 2026, 8:31:25 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/le-Graphique #thème/médias-propagande
 
@@ -28,3 +28,4 @@ La PaduTeam établit une analogie : prétendre que "parler de classes sociales d
 
 ## Vidéos où le concept est développé
 - [[ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT]]
+- [[BEGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le REEL]] — Bégaudeau comme cas exemplaire : se réclamer du "réel" et du "concret" est ici l'expression d'une vision de classe sensible et contemplative, pas un accès privilégié à la réalité

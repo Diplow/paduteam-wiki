@@ -3,7 +3,7 @@ type: individu
 domaine: [théorie]
 thèmes: []
 date created: Wednesday, April 1st 2026, 12:46:36 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 # Antonio Gramsci
@@ -26,3 +26,4 @@ La formule "[[Journalisme integral|journalisme intégral]]" est reprise telle qu
 ## Vidéos où Gramsci est cité
 - [[Cannabis Rasta Roussel vs Douanier Roussel]] — Citation de *Découvrir Gramsci* sur l'hygiénisme et la prohibition
 - [[10 SEPTEMBRE NE PAS REPRODUIRE LES ERREURS DES GILETS JAUNES]] — Exposition centrale du cadre guerre de position / guerre de mouvement, du "journalisme intégral", et de la conception matérialiste de l'hégémonie culturelle
+- [[5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE A NOEL]] — *Découvrir Gramsci* (Éditions sociales, Florian Gulli et Jean Quétier) recommandé par Chris comme entrée accessible aux concepts d'hégémonie culturelle et de bloc historique

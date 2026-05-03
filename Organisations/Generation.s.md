@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Génération.s, Generation.s, parti de Hamon]
 date created: Thursday, April 2nd 2026, 8:30:44 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 

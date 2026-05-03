@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
 date created: Wednesday, April 1st 2026, 12:38:37 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Valéry Giscard d'Estaing
@@ -16,3 +16,4 @@ En 1974, Giscard et [[Francois Mitterrand|Mitterrand]] sont tous deux proches du
 
 ## Vidéos où l'individu est analysé
 - [[Faure oblige de trahir]] — Référence historique 1974 pour illustrer la centralité barycentrique en configuration bipartite
+- [[LE PEN DECLARE la GUERRE a BARDELLA !!]] — Cité dans la [[Strategie Chirac 74]] : Chirac lui apporte une partie de l'UDR gaulliste, il gagne à 129 000 voix sur Mitterrand, fait Chirac premier ministre

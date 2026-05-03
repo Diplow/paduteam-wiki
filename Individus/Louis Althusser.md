@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [Althusser, Altusser, Louis Althusser]
 date created: Thursday, April 2nd 2026, 12:37:52 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -41,3 +41,4 @@ Thèse centrale d'Althusser : à partir de 1845 (Idéologie Allemande, Thèses s
 ## Vidéos où Althusser est mentionné
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — utilisé comme précédent du dualisme épistémologique (marxisme pour les structures + psychanalyse pour l'individu) que Lordon/Lucbert reproduisent ; rappel qu'il n'avait pas lu les *Grundrisse*

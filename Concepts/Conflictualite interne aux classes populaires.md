@@ -4,7 +4,7 @@ domaine: ['théorie']
 thèmes: ['le-Graphique']
 aliases: [surconflictualité, conflictualité fondamentale, Conflictualité interne aux classes populaires]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/le-Graphique
 # Conflictualité interne aux classes populaires
@@ -23,6 +23,9 @@ Paradoxalement, [[Eric Zemmour]] et Le Pen, très éloignés dans le graphique, 
 
 ## Conséquence stratégique
 La concorde et l'unité nationale sont impossibles dans cet espace. Il faut assumer la confrontation frontale. L'approche "[[Faches pas fachos]]" qui veut gommer cette conflictualité est une erreur stratégique. Le changement politique passe toujours par le conflit (exemple : le suffrage féminin n'a pas attendu que 100% des hommes soient d'accord).
+
+## Extension : race et genre comme dimensions de l'hétérogénéité prolétarienne
+Dans [[Le MARXISME, un TRUC de BLANC]], la PaduTeam développe une extension du concept : à l'intérieur du prolétariat, il y a non seulement des logiques économiques différentes (cadres vs employés vs ouvriers) mais aussi des "logiques de race" et des "logiques de genre" qui produisent de la conflictualité interne. C'est pour cela qu'il faut "penser le racisme, penser le genre dans le prolétariat pour essayer de trouver pareil des mesures qui permettent de sortir de l'hétérogénéité, voire de la conflictualité interne au prolétariat." La réponse n'est pas une épistémologie séparée — c'est l'enrichissement du point de vue du prolétariat par l'apport des femmes et des racisés. [1:07:22](https://www.youtube.com/watch?v=cB1crSU0r-k&t=4042)
 
 ## Vidéos où le concept est analysé
 - [[La CARTE DES QI version MARXISTE le GRAPHIQUE de Positions Revue|La CARTE DES QI version MARXISTE]] — Démonstration visuelle que Mélenchon, Le Pen et l'abstention occupent le même espace en 2017 et 2022. L'antiracisme comme seul clivage possible dans cet espace partagé. Le racisme de Le Pen dans les classes populaires est un "racisme de gestion de la pénurie" distinct du racisme civilisationnel de Zemmour

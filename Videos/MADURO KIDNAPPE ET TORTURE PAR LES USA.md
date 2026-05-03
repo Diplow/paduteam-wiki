@@ -3,9 +3,13 @@ type: vidéo
 domaine: [géopolitique]
 thèmes: [Venezuela, anti-impérialisme]
 enjeux: [anti-impérialisme, campisme-assumé]
+methodes: [Materialisme historique]
+conjonctures: [Crise de l'hegemonie americaine, Doctrine Monroe 2.0]
+evenements: [Enlevement Maduro 2026]
 date: 2026-03-31
+youtube_id: InxosoRwAmQ
 date created: Tuesday, March 31st 2026, 11:22:07 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: 2026-04-25
 aliases: [MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]
 ---
 #domaine/géopolitique #thème/Venezuela #thème/anti-impérialisme #enjeu/anti-impérialisme #enjeu/campisme-assumé

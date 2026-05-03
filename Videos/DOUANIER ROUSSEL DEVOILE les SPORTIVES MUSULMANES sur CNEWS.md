@@ -1,12 +1,14 @@
 ---
 type: vidéo
+date: 2025-04-08
+youtube_id: HZfk8m0cvtU
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, islamophobie, racisme-antiracisme, médias-propagande]
 enjeux: [union-populaire, plus-jamais-PS]
-date: 2025
+methodes: [Anatomie des visions adverses]
 aliases: [DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS]
 date created: Sunday, April 12th 2026, 5:28:16 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/islamophobie #thème/racisme-antiracisme #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 

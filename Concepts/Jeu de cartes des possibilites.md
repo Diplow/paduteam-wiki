@@ -4,14 +4,14 @@ domaine: [théorie]
 thèmes: []
 aliases: [jeu de cartes, cartes de possibilités, Jeu de cartes des possibilités]
 date created: Thursday, April 2nd 2026, 12:38:45 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
 # Jeu de cartes des possibilités
 
 ## Définition
-Concept pédagogique développé par Padu et Chris pour expliquer comment les [[Sujet collectif|sujets collectifs]] se traduisent en possibilités concrètes pour les individus. Chaque sujet collectif auquel appartient un individu lui distribue des "cartes" — c'est-à-dire des possibilités d'action autorisées ou facilitées par sa position sociale.
+Concept pédagogique développé par la PaduTeam pour expliquer comment les [[Sujet collectif|sujets collectifs]] se traduisent en possibilités concrètes pour les individus. Chaque sujet collectif auquel appartient un individu lui distribue des "cartes" — c'est-à-dire des possibilités d'action autorisées ou facilitées par sa position sociale.
 
 ## Mécanisme
 - Les structures sociales ne sont pas des entités abstraites qui "planent au-dessus" des individus — elles sont des habitudes de coopération fonctionnelle.
@@ -27,7 +27,7 @@ Le jeu est redistribué en permanence : on n'arrive pas à "la table" avec les c
 Face à la critique de Lucbert ("vous ne pouvez pas expliquer pourquoi certains hommes activent la 'proposition perverse' et d'autres non"), la PaduTeam répond : l'analyse des sujets collectifs *croisés* le permet. Les hommes de Mazan appartiennent à des sujets collectifs spécifiques — classe intermédiaire, rapport au travail individualisant, éloignement de la solidarité collective — qui expliquent leur jeu de cartes particulier.
 
 ## Projet pédagogique
-Padu et Chris envisagent de créer un véritable jeu de cartes pour des ateliers d'éducation populaire — permettre aux gens de visualiser concrètement quelles cartes ils ont ou n'ont pas (ex : "vous n'avez pas la carte surveiller les fringues de votre partenaire, si vous êtes une femme").
+La PaduTeam envisage de créer un véritable jeu de cartes pour des ateliers d'éducation populaire — permettre aux gens de visualiser concrètement quelles cartes ils ont ou n'ont pas (ex : "vous n'avez pas la carte surveiller les fringues de votre partenaire, si vous êtes une femme").
 
 ## Vidéos où le concept est développé
 - [[SANDRA LUCBERT nous ATOMISE chez DANY et RAZ]]

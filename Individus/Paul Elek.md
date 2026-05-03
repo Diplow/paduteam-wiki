@@ -4,8 +4,8 @@ domaine: [géopolitique, théorie]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [Paul Elek]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
-skill_version: ingest-batch-2026-04-13
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
+skill_version: write-video-2026-04-21
 ---
 #domaine/géopolitique #domaine/théorie #thème/Palestine #thème/anti-impérialisme
 # Paul Elek

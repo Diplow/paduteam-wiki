@@ -6,7 +6,7 @@ description: >
   de la PaduTeam mérite sa fiche. Être ambitieux dans la création.
   Appelée par ingest-video pour chaque concept analytique identifié dans un transcript.
 date created: Sunday, April 12th 2026, 7:00:00 pm
-date modified: Sunday, April 12th 2026, 7:00:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 
 # Skill : Write Concept
@@ -17,10 +17,14 @@ Cette skill rédige ou enrichit les fiches dans `Concepts/`. Les concepts sont l
 
 ## Prérequis
 
-- Le contexte vault est disponible dans `Sources/.context-tmp.md`
+- `Sources/.context-tmp.md` existe et a été produit par un appel **récent** à `gather-context` sur le sujet (le concept ou le thème parent). Si ce fichier n'existe pas, ne concerne pas ce sujet, ou paraît périmé, **interrompre** et demander à l'appelant de lancer `gather-context` d'abord. Ne pas tenter de l'exécuter soi-même.
 - Ce que le transcript dit du concept a été identifié par l'analyse
 
 **Conventions partagées** : voir `BUILD.md`.
+
+## Navigation de la carte de contexte
+
+`.context-tmp.md` est une **carte** : présentation synthétique + liens annotés vers les fiches pertinentes. Elle ne contient pas les détails. Pour rédiger ou enrichir une fiche Concept, **ouvrir les fiches Vidéos où le concept est développé** pour extraire les formulations et les exemples concrets, et **ouvrir les fiches Individus/Organisations** qui servent d'exemples d'application pour les wikilinker dans la section « Exemples ». Si la fiche Concept existe déjà (carte la liste), l'ouvrir pour ne pas dupliquer ce qui y est déjà.
 
 ---
 

@@ -4,14 +4,14 @@ domaine: [théorie, société]
 thèmes: [médias-propagande]
 aliases: [dialectique complotisme/anticomplotisme, complotisme comme pensée critique, clair-obscur]
 date created: Wednesday, April 1st 2026, 9:33:52 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/médias-propagande
 
 # Dialectique complotisme anticomplotisme
 
 ## Définition
-Le complotisme et l'anticomplotisme sont les "deux phases de la même pièce" — deux formes d'impuissance politiques dans une période de crise systémique. Concept développé par Padu et Chris en prolongeant l'analyse de [[Frederic Lordon]] sur le complotisme comme "première pensée critique".
+Le complotisme et l'anticomplotisme sont les "deux phases de la même pièce" — deux formes d'impuissance politiques dans une période de crise systémique. Concept développé par la PaduTeam en prolongeant l'analyse de [[Frederic Lordon]] sur le complotisme comme "première pensée critique".
 
 ## Mécanisme
 
@@ -33,7 +33,7 @@ Référence au "fétichisme de la personnalité" de [[Lucien Seve]] : voir les p
 La [[Moisation]] est la sortie du clair-obscur. Elle correspond à la structuration d'une opposition de classe efficiente — le populisme de gauche (Mélenchon) l'a réussi, le populisme de droite a dégénéré. L'action politique collective est le seul débouché réel : "la conscience humaine sert à transformer".
 
 ## Critique du spinosisme
-Padu critique Spinoza comme forme philosophique du contemplatisme : "La béatitude spinozienne, c'est-à-dire comprendre l'intégralité du monde et se dire que cette compréhension me rend libre — ça n'a aucun sens empirique. Personne ne se satisfait de ça."
+La PaduTeam critique Spinoza comme forme philosophique du contemplatisme : "La béatitude spinozienne, c'est-à-dire comprendre l'intégralité du monde et se dire que cette compréhension me rend libre — ça n'a aucun sens empirique. Personne ne se satisfait de ça."
 
 ## Parallèle avec la psychanalyse politique et le trotskisme liturgique
 La même structure d'impuissance se retrouve dans deux courants a priori différents :
@@ -50,3 +50,4 @@ Voir aussi [[Savoir sans agir]] pour la dimension intellcutelle de cette impuiss
 ## Vidéos où le concept est développé
 - [[MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — Parallèle psychanalyse/complotisme, Epstein Files, liturgie trotskiste
+- [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — Formulation de la dialectique dans la critique de [[Francis Cousin]] : "c'est parce que tout le monde complote qu'il n'y a pas de complot" ; les classes comme coopérations de consciences individuelles qui se percutent, sans complot centralisé ni automatisme métaphysique

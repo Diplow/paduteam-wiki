@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [médias-propagande, Palestine]
 aliases: [Philippe Njar]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/médias-propagande #thème/Palestine
@@ -19,7 +19,7 @@ Confronté à [[Emeric Caron]] lors de l'audition. Njar ne connaît pas le nombr
 
 Sur la censure du gouvernement israélien qui interdit aux journalistes étrangers de couvrir Gaza : "je n'ai pas de réponse supplémentaire à donner."
 
-Padu : "c'est là sûr prendre parti sur quelque chose." Il suffirait de répondre oui. Le fait qu'il ne peut pas répondre révèle la position editoriale de CNews sur Gaza.
+La PaduTeam : "c'est là sûr prendre parti sur quelque chose." Il suffirait de répondre oui. Le fait qu'il ne peut pas répondre révèle la position editoriale de CNews sur Gaza.
 
 ## Vidéos où Njar est mentionné
 - [[AYMERIC CARON ECRABOUILLE CNEWS SUR GAZA]] — L'audition parlementaire ; refus de condamner les assassinats de journalistes

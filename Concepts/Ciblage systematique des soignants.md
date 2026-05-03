@@ -4,14 +4,14 @@ domaine: [géopolitique]
 thèmes: [Palestine]
 aliases: [Ciblage systématique des soignants, attaque contre le personnel médical]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine
 # Ciblage systématique des soignants
 
 ## Définition
-Spécificité du génocide en cours à Gaza identifiée par [[Dr Zoe]] : le personnel médical et les infrastructures de soin ne sont pas des victimes collatérales mais des **cibles intentionnelles et systématiques** de l'armée israélienne. Plus de 450 soignants tués, plus de 1 000 arrêtés et placés en centres de détention israéliens depuis octobre 2023, tous les hôpitaux de Gaza endommagés ou détruits, les ambulances frappées, les équipes humanitaires de MSF et Médecins du Monde tuées. Cette systématicité constitue une violation explicite des Conventions de Genève et un crime de guerre autonome — mais aussi le révélateur d'une stratégie plus large : détruire la capacité de la population palestinienne à se soigner, c'est-à-dire à durer.
+Spécificité du génocide en cours à Gaza identifiée par la PaduTeam : le personnel médical et les infrastructures de soin ne sont pas des victimes collatérales mais des **cibles intentionnelles et systématiques** de l'armée israélienne. Plus de 450 soignants tués, plus de 1 000 arrêtés et placés en centres de détention israéliens depuis octobre 2023, tous les hôpitaux de Gaza endommagés ou détruits, les ambulances frappées, les équipes humanitaires de MSF et Médecins du Monde tuées. Cette systématicité constitue une violation explicite des Conventions de Genève et un crime de guerre autonome — mais aussi le révélateur d'une stratégie plus large : détruire la capacité de la population palestinienne à se soigner, c'est-à-dire à durer.
 
 ## Mécanisme
 Le ciblage des soignants produit une chaîne d'effets :
@@ -36,9 +36,9 @@ Le ciblage des soignants produit une chaîne d'effets :
 
 ## Déontologie médicale mobilisée
 
-Dr Zoé ([[GAZA LES SIONISTES TUENT DES MEDECINS]]) articule le ciblage au **serment d'Hippocrate** qu'elle qualifie de « quasi protocommuniste » : « je donnerai mes soins à l'indigent et à quiconque me les demandera, je ne me laisserai pas influencer par la soif du gain ou la recherche de la gloire... je respecterai toutes les personnes sans aucune discrimination selon leur état ou leur conviction ». Le serment est inconciliable avec le silence professionnel sur Gaza. Position structurelle : la médecine libérale produit des soignants qui ont des intérêts de petite bourgeoisie à ménager l'ordre existant ; une médecine salariée sous santé publique réduirait cette inertie.
+La PaduTeam ([[GAZA LES SIONISTES TUENT DES MEDECINS]]) articule le ciblage au **serment d'Hippocrate** qualifié de « quasi protocommuniste » : « je donnerai mes soins à l'indigent et à quiconque me les demandera, je ne me laisserai pas influencer par la soif du gain ou la recherche de la gloire... je respecterai toutes les personnes sans aucune discrimination selon leur état ou leur conviction ». Le serment est inconciliable avec le silence professionnel sur Gaza. Position structurelle : la médecine libérale produit des soignants qui ont des intérêts de petite bourgeoisie à ménager l'ordre existant ; une médecine salariée sous santé publique réduirait cette inertie.
 
 ## Vidéos où le concept est développé
 - [[GAZA LES SIONISTES TUENT DES MEDECINS]] — Cadrage central du concept : 450+/1000+, cas Abou Safiya et Albourch, déontologie hippocratique, Conseil de l'Ordre
-- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Zoé mentionne Abou Safiya et le chirurgien torturé comme emblème de la spécificité génocidaire
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — la PaduTeam mentionne Abou Safiya et le chirurgien torturé comme emblème de la spécificité génocidaire
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]] — Témoignage de Pascal André (PALMED), MSF « frappé par des attaques israéliennes »

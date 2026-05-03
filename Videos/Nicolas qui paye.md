@@ -10,9 +10,11 @@ thèmes:
 enjeux:
   - le-Graphique
   - union-populaire
+methodes:
+  - Graphique
 date:
 date created: Wednesday, April 1st 2026, 7:17:11 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail #thème/le-Graphique #thème/féminisme #enjeu/union-populaire
 # La VÉRITÉ sur NICOLAS QUI PAYE

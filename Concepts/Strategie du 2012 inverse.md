@@ -4,13 +4,13 @@ domaine: ['politique-intérieure']
 thèmes: [élections, guerre-des-gauches]
 aliases: [2012 inversé, stratégie du 2012 inversé]
 date created: Wednesday, April 1st 2026, 4:03:15 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 # Stratégie du 2012 inversé
 
 ## Définition
-Stratégie électorale proposée par [[Chris]] pour la présidentielle 2027 : reproduire la configuration de 2012 (deux candidats de gauche au premier tour, un social-démocrate et un de rupture) mais en inversant le rapport de force. En 2012, [[Francois Hollande|Hollande]] faisait ~24% et [[Jean-Luc Melenchon|Mélenchon]] ~8%. L'objectif est que le candidat de rupture fasse ~23% et le candidat social-démocrate ~16-17%, pour un total de ~40%.
+Stratégie électorale proposée par la PaduTeam pour la présidentielle 2027 : reproduire la configuration de 2012 (deux candidats de gauche au premier tour, un social-démocrate et un de rupture) mais en inversant le rapport de force. En 2012, [[Francois Hollande|Hollande]] faisait ~24% et [[Jean-Luc Melenchon|Mélenchon]] ~8%. L'objectif est que le candidat de rupture fasse ~23% et le candidat social-démocrate ~16-17%, pour un total de ~40%.
 
 ## Logique dans le [[Graphique]]
 Le problème du [[NFP]] et de la [[NUPES]] est qu'en fusionnant deux blocs sociologiquement distincts, on obtient un barycentre central-bourgeois qui ne correspond à aucun électorat réel. Deux candidats séparés permettent à chacun de maximiser son espace propre sur le [[Graphique]] :
@@ -18,12 +18,12 @@ Le problème du [[NFP]] et de la [[NUPES]] est qu'en fusionnant deux blocs socio
 - Le candidat social-démocrate occupe l'espace supérieur (cadres, professions intermédiaires), en concurrence avec le centre macroniste
 
 ## Report de voix au second tour
-Le candidat qui passe au second tour bénéficie du report de l'autre bloc. Même [[Chris]] concède qu'entre [[Raphael Glucksmann]] et [[Marine Le Pen]], il voterait Glucksmann. Le report fonctionne mieux que l'alliance de premier tour car il n'aliène personne.
+Le candidat qui passe au second tour bénéficie du report de l'autre bloc. La PaduTeam concède qu'entre [[Raphael Glucksmann]] et [[Marine Le Pen]], elle voterait Glucksmann. Le report fonctionne mieux que l'alliance de premier tour car il n'aliène personne.
 
 ## Candidats envisagés pour le bloc social-démocrate
-- [[Boris Vallaud]] — favori de Chris, candidat naturel du PS
+- [[Boris Vallaud]] — favori de la PaduTeam, candidat naturel du PS
 - [[Francois Hollande]] — hypothèse provocatrice mais illustrative
-- [[Raphael Glucksmann]] — écarté par Chris comme trop faible politiquement, incapable de maximiser son espace
+- [[Raphael Glucksmann]] — écarté par la PaduTeam comme trop faible politiquement, incapable de maximiser son espace
 
 ## Conditions de réussite
 - Que le centre macroniste continue son [[Eclatement du bloc central|éclatement]]

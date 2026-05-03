@@ -1,13 +1,15 @@
 ---
 type: vidéo
+date: 2025-02-27
+youtube_id: CElQQFq-Ntk
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, VSS, médias-propagande, racisme-antiracisme]
 format: analyse
 enjeux: [feminisme-materialiste]
 intervenants: [Padu, Dr Zoé]
 statut: ébauche
-date created: Sunday, April 13th 2026
-date modified: Sunday, April 13th 2026
+date created: Tuesday, January 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS #thème/médias-propagande #thème/racisme-antiracisme #enjeu/feminisme-materialiste
 

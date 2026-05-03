@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [féminisme, VSS]
 aliases: [Pelicot, Dominique Pélicot]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:42:51 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/féminisme #thème/VSS
 
@@ -33,3 +35,4 @@ Pelicot est aussi mis en cause pour un viol et un meurtre des années 1990, une 
 - [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — présentation de l'affaire
 - [[AFFAIRE MAZAN THAIS D ESCUFON ALICE CORDIER ET ROCHEDY FONT PARTIE DU PROBLEME]] — démontage de la narrative d'extrême droite sur ses déclarations
 - [[VERDICT MAZAN TOUS CONCERNES TOUS RESPONSABLES]] — verdict, 20 ans de prison
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — cité comme cas d'école du biais de classe dans les condamnations VSS : arrêté pour agression d'une inconnue, pas pour 10 ans de viol conjugal

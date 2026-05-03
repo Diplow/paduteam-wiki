@@ -1,17 +1,20 @@
 ---
 type: vidéo
+date: 2025-11-11
+youtube_id: IpS_wmPph0Q
 domaine: [théorie, politique-intérieure]
 thèmes: [le-Graphique, travail, guerre-des-gauches]
 enjeux: []
+methodes: [Materialisme historique]
 date created: Thursday, April 2nd 2026, 8:30:17 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/travail #thème/guerre-des-gauches
 
 # ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT !!
 
 ## Résumé
-Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, artisan du BTP, atomise Benjamin Lucas ([[Generation.s]], bras droit de [[Benoît Hamon]]) en le traitant de "parti de la jalousie". Le débat est prétexte à une longue analyse marxiste de la fausse conscience de la petite bourgeoisie, du continuum bourgeois/petite-bourgeoisie, et de la notion de capital techno-scolaire comme dépassement critique de Bourdieu.
+La PaduTeam réagit à un extrait de BFM TV dans lequel Samuel Ferrara, artisan du BTP, atomise Benjamin Lucas ([[Generation.s]], bras droit de [[Benoît Hamon]]) en le traitant de "parti de la jalousie". Le débat est prétexte à une longue analyse marxiste de la fausse conscience de la petite bourgeoisie, du continuum bourgeois/petite-bourgeoisie, et de la notion de capital techno-scolaire comme dépassement critique de Bourdieu.
 
 ## Thèses et analyses clés
 
@@ -19,7 +22,7 @@ Padu et Chris réagissent à un extrait de BFM TV dans lequel Samuel Ferrara, ar
 
 2. **Le continuum bourgeois/petite-bourgeoisie** — Il y a un continuum entre petite bourgeoisie et grande bourgeoisie (même rapport à la propriété, à la concurrence, à l'individualisme), mais une rupture de nature entre petite bourgeoisie et prolétariat. → [[Continuum de classe]]
 
-3. **Le capital techno-scolaire** — Chris affine Bourdieu : le "capital culturel" bourdieusien n'est pertinent que comme capital scolaire transformable économiquement. Hors du circuit scolaire, avoir lu des livres n'a aucune valeur économique. Ce qu'ils appellent "capital techno-scolaire" est la forme efficace du capital culturel dans le mode de reproduction actuel. → [[Capital techno-scolaire]]
+3. **Le capital techno-scolaire** — La PaduTeam affine Bourdieu : le "capital culturel" bourdieusien n'est pertinent que comme capital scolaire transformable économiquement. Hors du circuit scolaire, avoir lu des livres n'a aucune valeur économique. Ce qu'ils appellent "capital techno-scolaire" est la forme efficace du capital culturel dans le mode de reproduction actuel. → [[Capital techno-scolaire]]
 
 4. **Le lumpenproletariat** — Classe non intégrée aux rapports de production (hors du collectif salarial), oscillant entre progressisme et réaction selon "le plus offrant". Lien structurel avec la petite bourgeoisie : même fragmentation individuelle, même incapacité à construire un collectif. → [[Lumpenproletariat]]
 

@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [Palestine, guerre-des-gauches]
 aliases: [Escuro]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #thème/Palestine #thème/guerre-des-gauches
@@ -22,3 +22,4 @@ Chris et Zoé ([[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]) : la condamna
 
 ## Vidéos où Escuro est mentionné
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]]
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Cité ("Jean-Paul de l'esco") aux côtés d'Anasse Kazib comme exemple du double standard judiciaire : condamné pour avoir défendu la résistance palestinienne, pendant que Julien Dray nie le génocide à la télévision sans jamais être inquiété

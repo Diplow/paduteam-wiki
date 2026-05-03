@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [répression-justice, Palestine]
 aliases: [La Jeune Garde, Jeune Garde]
 date created: Wednesday, April 1st 2026, 11:24:48 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #thème/répression-justice #thème/Palestine #enjeu/Palestine-libre
@@ -36,14 +36,31 @@ Organisation antifasciste présente à Lyon, Marseille, Aix-en-Provence, Montpel
 ## Thèse centrale sur la dissolution
 La dissolution cible les organisations **organisées et efficaces**. Les petits groupuscules non organisés ne sont pas dissous. Ce qui effraie la bourgeoisie, c'est le maillage de terrain concret — les réseaux locaux que ni la répression médiatique ni la dissolution formelle ne peuvent neutraliser.
 
-Padu : "On essaie pas de dissoudre des organisations qui servent à rien. Très clairement, les gens qui ont été attaqués, ils ont été ciblés."
+La PaduTeam : "On essaie pas de dissoudre des organisations qui servent à rien. Très clairement, les gens qui ont été attaqués, ils ont été ciblés."
 
 ## Figures clés
 - [[Raphael Arnaud]] — ex-porte-parole, devenu député LFI
 - [[Cem Yoldas]] — représentant et porte-parole
 
+## Internationalisme et engagement en Syrie
+
+La Jeune Garde est une organisation internationaliste. Elle a envoyé des militants combattre l'État islamique en Syrie, notamment à Manbij via la **brigade Henri Krasucki** — dont le commandant était un des fondateurs de la Jeune Garde. Manbij était en décembre 2024 sous pression offensive de l'[[Armee Nationale Syrienne]] (front sud, est et nord). [[Cem Yoldas]] ne confirme pas si des militants sont encore présents — "c'est un secret d'État"[^jg2].
+
+[^jg2]: [20:00](https://www.youtube.com/watch?v=QN89GVrV0u8&t=1200) — "avec la jeune garde on avait envoyé des gens en Syrie combattre l'État islamique [...] le commandant de la brigade Henri Krasucki justement c'était l'un des fondateurs de la jeune garde"
+
+## Instrumentalisation post-Deranque et division du travail (mars 2026)
+
+Dans [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]], la mort de Quentin Deranque dans une rixe impliquant des membres de la Jeune Garde devient le prétexte d'une opération politique majeure. Hollande utilise l'affaire pour définir l'extrême gauche comme "un mouvement qui entretient en son sein des groupes qui font autre chose que de la participation au scrutin" — définition directement construite pour piéger la FI via ses liens avec la Jeune Garde.
+
+La PaduTeam formule sa réponse : la [[Division du travail]] militant. La Jeune Garde fait un travail indispensable et légitime. Mélenchon peut soutenir ce travail — il peut aller à leurs universités d'été — mais la Jeune Garde ne doit pas être institutionnalisée comme "partie intégrante du mouvement" France Insoumise. La frontière doit être claire pour éviter que l'antifascisme de terrain soit "proché à Jean-Luc Mélenchon en disant bah regardez c'est un assistant parlementaire machin et si on regarde les fiches de pay c'est la France insoumise qui va payer ce gars."[^jg-div]
+
+[^jg-div]: [16:00](https://www.youtube.com/watch?v=BaoHrF9zy24&t=960) — "le fait qu'il soit assistant parlementaire il devrait pas être là-bas [...] pas parce que je condamne le fait d'être là-bas et d'être antifasciste mais justement parce que la division du travail veut que l'antifascisme de terrain [...] ne doit pas pouvoir être reproché à Jean-Luc Mélenchon"
+
 ## Vidéos où La Jeune Garde est mentionnée
+- [[HOLLANDE CONTRE-ATTAQUE MELENCHON NE SERA PAS AU 2EME TOUR]] — Instrumentalisation de la rixe pour piéger la FI (définition de l'extrême gauche comme "mouvement entretenant des groupes non électoraux") ; réponse PaduTeam : division du travail militant, pas de lien institutionnel FI-Jeune Garde
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — Mise en cause par Némésis dans la mort de Quentin Deranque ; la PaduTeam déconstruit ces accusations comme opération politique sans base factuelle établie
 - [[RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE]] — Procédure de dissolution, riposte, théorisation de la lutte
+- [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Militants envoyés à Manbij via la brigade Henri Krasucki, lien direct avec la guerre contre Daesh en Syrie
 
 [^jg1]: [10:46](https://www.youtube.com/watch?v=apa807lyQeM&t=646) — "le gouvernement nous accuse en premier lieu d'être antifasciste, c'est-à-dire c'est écrit noir sur blanc, la jeune garde prône un discours antifasciste qui conduirait à la violence"

@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [travail, féminisme]
 aliases: [travail reproductif, care]
 date created: Sunday, April 12th 2026, 5:25:11 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/travail #thème/féminisme
 
@@ -19,7 +19,7 @@ Ensemble des tâches liées à l'entretien du foyer et au soin des personnes (en
 Le travail domestique est socialement considéré comme "pas un vrai travail" ("c'est des trucs que tout le monde sait faire"). Cette dévalorisation est à la fois cause et conséquence de sa féminisation : les femmes en sont chargées parce qu'il est dévalorisé, il est dévalorisé parce que les femmes en sont chargées. Les maladies professionnelles chez les femmes de ménage et agents de soins illustrent sa pénibilité réelle.
 
 ### Division de classe
-Zoé : les femmes bourgeoises délèguent le travail domestique aux femmes prolétaires. Cette délégation est une forme de reproduction des rapports de classe : les femmes riches accèdent au marché du travail "libérées" du domestique, au prix de l'exploitation ou de la subalternisation de femmes plus pauvres.
+La PaduTeam : les femmes bourgeoises délèguent le travail domestique aux femmes prolétaires. Cette délégation est une forme de reproduction des rapports de classe : les femmes riches accèdent au marché du travail "libérées" du domestique, au prix de l'exploitation ou de la subalternisation de femmes plus pauvres.
 
 ### Internationalisation impérialiste
 [[Sara Farris]] montre dans *Au nom des femmes* que cette division de classe s'est mondialisée : les femmes du centre impérialiste délèguent le travail domestique aux femmes de la périphérie (notamment d'Afrique, d'Asie du Sud). C'est le [[Femonationalisme]] comme économie politique du care à l'échelle mondiale.
@@ -37,4 +37,5 @@ La PaduTeam refuse la solution individuelle (chaque bourgeois doit "faire un eff
 - Les bébés secoués : conséquence de la solitude post-partum, faute de collectivisation du soin
 
 ## Vidéos où le concept est développé
-- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale, avec Chris et Zoé
+- [[CETTE INFLUENCEUSE A DUBAI SE JUSTIFIE D'AVOIR UNE DOMESTIQUE]] — analyse centrale
+- [[LOUIS SAN CATASTROPHIQUE sur le FEMINISME au JAPON]] — démonstration du biais de Louis San : ses graphiques sur le "temps de travail" excluent le travail domestique et la charge mentale, massivement féminins, ce qui inverse artificiellement les conclusions

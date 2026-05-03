@@ -4,8 +4,9 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: [union-populaire]
 date: 2025-07-08
+youtube_id: TucnkB-bPBg
 date created: Sunday, April 12th 2026, 5:28:16 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/union-populaire
 
@@ -43,7 +44,7 @@ React à la révélation que [[Jordan Bardella]] a officiellement rencontré [[N
 | Macron tue ses héritiers → prophétie Mélenchon | En cours |
 
 ## Individus mentionnés
-[[Jordan Bardella]], [[Nicolas Sarkozy]], [[Marine Le Pen]], [[Bruno Retailleau]], [[François Bayrou]], [[Gabriel Attal]], [[Edouard Philippe]], [[Patrick Buisson]], [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]], [[Florian Philippot]], [[Valerie Pecresse|Valérie Pécresse]], [[Laurent Wauquiez]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Xavier Bertrand]], [[Francois Hollande|François Hollande]], [[Sebastien Chenu|Sébastien Chenu]], [[Valery Giscard d'Estaing|Valéry Giscard d'Estaing]], [[Jacques Chaban-Delmas]], [[Francois Mitterrand|François Mitterrand]], [[Edwy Plenel]]
+[[Jordan Bardella]], [[Nicolas Sarkozy]], [[Marine Le Pen]], [[Bruno Retailleau]], [[François Bayrou]], [[Gabriel Attal]], [[Edouard Philippe]], [[Patrick Buisson]], [[Alain Soral]], [[Florian Philippot]], [[Valerie Pecresse|Valérie Pécresse]], [[Laurent Wauquiez]], [[Raphael Glucksmann]], [[Jean-Luc Melenchon|Jean-Luc Mélenchon]], [[Xavier Bertrand]], [[Francois Hollande|François Hollande]], [[Sebastien Chenu|Sébastien Chenu]], [[Valery Giscard d'Estaing|Valéry Giscard d'Estaing]], [[Jacques Chaban-Delmas]], [[Francois Mitterrand|François Mitterrand]], [[Edwy Plenel]]
 
 ## Organisations mentionnées
 [[Rassemblement National]], [[Les Republicains]], [[MoDem]], [[France Insoumise]], [[Positions Revue]], [[Le Point]]

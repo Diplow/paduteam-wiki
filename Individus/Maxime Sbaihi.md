@@ -4,7 +4,7 @@ domaine: [société, économie]
 thèmes: [féminisme, démographie]
 aliases: [Maxime Sbai]
 date created: Wednesday, April 1st 2026, 6:39:52 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/économie #thème/féminisme
 

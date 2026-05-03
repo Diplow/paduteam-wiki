@@ -4,7 +4,7 @@ domaine: ['politique-intérieure', 'théorie']
 thèmes: ['élections']
 aliases: [bloc macroniste, bloc central]
 date created: Monday, March 30th 2026, 3:05:06 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections
 # Bloc bourgeois
@@ -30,3 +30,4 @@ Dans la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]], [[Francois Ho
 ## Vidéos
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
 - [[Hollande vs Melenchon 2e tour]] — Hollande identifié comme successeur du bloc bourgeois macroniste, "Poutine" dont Macron n'était que le "Medvedev"
+- [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]] — La PaduTeam théorise que le bloc bourgeois "a toujours survécu en se présentant comme rempart aux extrêmes" depuis 2002. Hollande incarne cette fonctionnalité avec un avantage spécifique : ni "lieutenant de Macron" (contrairement à Atal, Philippe, Rotailleau), ni aventuriste. Il cumule distanciation de Macron et stature présidentielle — le candidat idéal du bloc bourgeois pour 2027. La PaduTeam note aussi que la bourgeoisie "se pose la question" de Bardella face à la montée de LFI, exactement comme la bourgeoisie allemande face au PC montant dans les années 1930 (parallèle Chapoutot, sans équivalence idéologique avec les nazis).

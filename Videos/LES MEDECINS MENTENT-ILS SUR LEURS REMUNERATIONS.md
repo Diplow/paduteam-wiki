@@ -1,11 +1,14 @@
 ---
 type: vidéo
+date: 2024-05-22
+youtube_id: zXH_UBDwvMU
 domaine: [société, économie]
 thèmes: [santé, corpo-médicale]
 enjeux: [Corpo medicale]
-date: 2024-06
-youtube_id: zXH_UBDwvMU
+conjonctures: [Capture capitaliste du systeme de sante]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 9:10:35 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale #enjeu/corpo-médicale

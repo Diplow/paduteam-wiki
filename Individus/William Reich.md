@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [théorie-marxiste, psychiatrie-psychologie]
 aliases: []
 date created: Sunday, April 12th 2026, 3:47:25 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/psychiatrie-psychologie
 

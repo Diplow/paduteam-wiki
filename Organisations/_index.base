@@ -9,6 +9,7 @@ views:
       - domaine
       - thèmes
       - file.mtime
+      - skill_version
     sort:
       - property: file.name
         direction: ASC
@@ -21,6 +22,7 @@ views:
       - domaine
       - thèmes
       - file.mtime
+      - skill_version
     sort:
       - property: file.mtime
         direction: DESC
@@ -32,6 +34,7 @@ views:
     order:
       - file.name
       - domaine
+      - skill_version
     sort:
       - property: file.name
         direction: ASC
@@ -43,6 +46,7 @@ views:
     order:
       - file.name
       - domaine
+      - skill_version
     sort:
       - property: file.name
         direction: ASC

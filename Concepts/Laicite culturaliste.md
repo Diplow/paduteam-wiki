@@ -4,7 +4,7 @@ domaine: [société, politique-intérieure]
 thèmes: [islamophobie, laïcité, racisme-antiracisme]
 aliases: [laïcité dévoiée, laïcardisme, Laïcité culturaliste]
 date created: Thursday, April 2nd 2026, 10:23:08 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/islamophobie #thème/racisme-antiracisme
 
@@ -21,21 +21,21 @@ La laïcité culturaliste, elle, inverse le principe : elle estime que personne 
 **Résultat concret** : une jeune fille arabe avec un bonnet est interpellée, une jeune fille blanche avec le même bonnet ne l'est pas. L'ostentation religieuse est une catégorie racialisée.
 
 ## Origine historique
-[[Chris]] remonte à la bourgeoisie républicaine anticléricale (Jules Ferry, radicaux-socialistes, franc-maçons) du tournant du XXe siècle. Cette bourgeoisie a utilisé l'anticléricalisme comme outil de contrôle contre le mouvement ouvrier (affaire des fiches — on fichait les pratiquants catholiques pour les écarter de la fonction publique).
+La PaduTeam remonte à la bourgeoisie républicaine anticléricale (Jules Ferry, radicaux-socialistes, franc-maçons) du tournant du XXe siècle. Cette bourgeoisie a utilisé l'anticléricalisme comme outil de contrôle contre le mouvement ouvrier (affaire des fiches — on fichait les pratiquants catholiques pour les écarter de la fonction publique).
 
 Paradoxe colonial : la laïcité de 1905 **ne s'appliquait pas aux indigènes** dans les colonies — la puissance coloniale y maintenait la religion comme outil de contrôle des populations. La laïcité n'a jamais été universelle, elle a été refusée à ceux qu'on voulait dominer.
 
 Cette tradition anticléricale bourgeoise se perpétue aujourd'hui dans des milieux qui se disent de gauche (Printemps Républicain, Enthoven, Fourest, certains au PS) et qui portent l'islamophobie sous couvert de féminisme et de défense de la laïcité.
 
-## Critique féministe (Zoé)
-L'argument féministe anti-voile ("le voile opprime les femmes") est dénoncé comme une récupération du féminisme. Zoé note que :
+## Critique féministe
+L'argument féministe anti-voile ("le voile opprime les femmes") est dénoncé comme une récupération du féminisme. La PaduTeam note que :
 - Les injonctions patriarcales sur le corps des femmes sont universelles (catholiques, évangéliques, athées)
 - Interdire le voile ne libère pas les femmes, ça les empêche d'aller à l'école, au sport, au travail
 - L'effet concret de ces lois est de punir des femmes spécifiquement pour des raisons racistes
 - "Paye ta loi féministe si l'effet concret c'est ça"
 
 ## Red Flag contemporain
-Zoé : "quand j'entends laïcité aujourd'hui, j'ai 9 chances sur 10 que ce soit un Red Flag d'extrême droite." Le mot est désormais capturé par l'islamophobie, ce qui rend son usage suspect dans le débat politique actuel.
+La PaduTeam : "quand j'entends laïcité aujourd'hui, j'ai 9 chances sur 10 que ce soit un Red Flag d'extrême droite." Le mot est désormais capturé par l'islamophobie, ce qui rend son usage suspect dans le débat politique actuel.
 
 ## Exemples
 - Loi 2004 : voile à l'école
@@ -46,3 +46,5 @@ Zoé : "quand j'entends laïcité aujourd'hui, j'ai 9 chances sur 10 que ce soit
 
 ## Vidéos où le concept est développé
 - [[FROM TROTSKISTE TO RACISTE]] — analyse des deux matrices, critique de la laïcité comme outil culturaliste
+- [[NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE]] — cas pratique du laïcisme coercitif dans la tradition trotskiste (LO) ; contre-exemple léniniste historique (non-interventionnisme religieux dans les républiques soviétiques à population musulmane)
+- [[COMMISSION MELENCHON LES DROITARDS S'AVOUENT VAINCUS SUR CNEWS]] — Développement le plus complet sur la laïcité de 1905 comme loi politique (fin du Concordat napoléonien), pas loi religieuse ; paradoxe colonial (1905 ne s'applique pas aux colonies) ; "C'est l'État qui est laïque en France, c'est pas la rue" ; Mélenchon défini comme "le plus fidèle à 1905"

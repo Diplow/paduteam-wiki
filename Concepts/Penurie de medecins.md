@@ -4,6 +4,8 @@ domaine: [société, économie]
 thèmes: [santé, corpo-médicale]
 aliases: [pénurie médicale, désert médical, numerus clausus]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 9:10:35 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale
@@ -31,7 +33,7 @@ Main dans la main avec des gouvernements néolibéraux soucieux de "maîtrise de
 Les effets se font sentir avec 30-40 ans de décalage (durée des études + temps d'exercice). En 2024-2025 :
 - **87% du territoire français désertifié** (manque de médecins généralistes)
 - **96% de l'Île-de-France** désertifiée — le premier désert médical est à Paris[^3]
-- Urgences en plan blanc plusieurs semaines par hiver (hôpital local de Zoé : 1,5 mois de plan blanc en 2025)
+- Urgences en plan blanc plusieurs semaines par hiver (1,5 mois de plan blanc en 2025)
 - Patients sans médecin traitant dans des proportions massives
 - 1 suicide d'interne en médecine tous les 18 jours
 
@@ -66,12 +68,25 @@ La pénurie est aussi une pénurie de **diversité sociale** : les études de m�
 - **100% Sécurité Sociale** — supprimer les complémentaires pour concentrer les moyens dans le public
 - **Salaire décent dès la première année d'études** — en échange d'un engagement territorial à la sortie
 
+## L'impossibilité du flux tendu en santé
+
+Un mécanisme spécifique aux urgences, formulé par Zoé dans [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] : contrairement à une chaîne de production, les flux hospitaliers sont fondamentalement imprévisibles. Un service peut savoir qu'il traitera en moyenne 50 infarctus par an — sans pouvoir prévoir leur répartition mensuelle. Supprimer les "variables d'ajustement" (lits non constamment occupés) pour des raisons comptables revient à condamner le système à saturation dès le premier pic. "Ces mecs n'arrivent pas à comprendre qu'on ne peut pas fonctionner à flux tendu en santé, ce n'est pas possible, ça met des vies en danger."[^flux]
+
+Ce mécanisme s'inscrit dans la politique délibérée de fermeture de lits : chaque lit supprimé réduit la marge de manœuvre du système. En pratique, les patients les plus lourds (personnes âgées, polypathologiques) sont traités en dernier parce qu'ils "rapportent moins" à la tarification à l'acte — une conséquence directe de la logique de rentabilité appliquée à la santé publique.[^T2A]
+
+[^flux]: [7:13](https://www.youtube.com/watch?v=9rptwstCFFk&t=433) — "vous pouvez savoir que pour un an par exemple [...] il va y avoir certaines fois où vous n'allez avoir aucun infarctus pendant un mois et il y a un mois où il va y avoir 20 infarctus"
+[^T2A]: [7:44](https://www.youtube.com/watch?v=9rptwstCFFk&t=464) — "le service il a qu'une place [...] il va avoir un rapport un peu utilitariste et prendre celui qui va rapporter le plus en tarification à l'acte, qui va rester le moins longtemps, qui va être le moins compliqué à gérer"
+
 ## Vidéos clés
 
-- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire complète de la pénurie organisée
+- [[LFI ENVOIE LES MEDECINS AUX CHAMPS]] — histoire complète de la pénurie organisée ; analyse du tweet de Paul ; sélection de classe dans les études ; solutions d'urgence ([[Delegation de taches medicales|délégation]], auto-arrêt) ; salariat comme sortie de crise
 - [[LES MANIFESTATIONS DES MEDECINS SONT-ELLES LES PLUS CRINGES]] — la grève de droite comme symptôme
 - [[LES MEDECINS MENTENT-ILS SUR LEURS REMUNERATIONS]] — démystification des chiffres
 - [[VIE DE CARABIN LE MEDECIN QUI TROUVE LES PATIENTS TROP CONS]] — le faux bouc émissaire
+- [[MACRON DERAPE LE PROBLEME DES URGENCES C EST QUE C EST REMPLI DE MAMADOU]] — modèle "plomberie" des urgences, impossibilité du flux tendu, fermeture de lits comme politique comptable, 30 ans de crise encore 5 à 10 ans
+- [[DR ZOE EN SUEUR MEDECIN ANTI-SECU]] — la pénurie comme contexte du déconventionnement ; données chiffrées : 1 généraliste sur 3 > 60 ans, secteur de Zoé passé de 24 à 15 médecins en 4 ans ; la crise comme moment de révolte escamoté
+- [[EUTHANASIE MACRON veut-il RENTABILISER ta FIN de VIE]] — la pénurie se prolonge dans les soins palliatifs : 3 médecins de soins palliatifs pour tout un département, impossibilité d'entrées directes en service pour les patients en phase terminale, hospitalisations à domicile avec passages de 30 minutes 3 fois par jour ; la pénurie comme contexte du "choix" de mourir
+- [[GREVE DES MEDECINS CAPRICE DE RICHES OU LUTTE LEGITIME]] — 10e année d'étude (docteur junior), 8 ministres de la Santé en 5 ans, instabilité politique comme obstacle à toute réforme ; responsabilité corporatiste dans la pénurie organisée rappelée ; solution Grimaldi des centres de santé publics comme alternative au libéralisme
 
 [^1]: [2:33](https://www.youtube.com/watch?v=XT_0YFmY_lM&t=153) — "il y a 87 % du territoire français qui est actuellement désertifié et contrairement à ce qu'on pense, c'est pas que dans les campagnes. Le plus grand désert médical de France, c'est l'Île-de-France 96 % du territoire qui est désertifié"
 [^2]: [7:08](https://www.youtube.com/watch?v=V14W9I6sqjA&t=428) — "eux, ils ont demandé à ce qu'on commence à baisser le nombre de médecins formés... En sous-texte, c'était de se dire 'quand on est moins nombreux, on a plus de marges pour négocier nos tarifs'"

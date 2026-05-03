@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure, géopolitique]
 thèmes: [anti-impérialisme, Venezuela]
 date created: Monday, March 30th 2026, 3:01:57 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/anti-impérialisme #thème/Venezuela
 # Anasse Kazib
@@ -34,5 +34,28 @@ La vidéo [[ANASSE KAZIB ATOMISE MADURO]] est entièrement consacrée à décons
 
 Le trotskisme est qualifié d'"antimarxisme" occidental : "ils n'ont jamais dirigé aucune révolution, ils n'ont jamais participé à aucune transformation" — un mouvement "occidental littéraire" qui fait la leçon à toutes les expériences de socialisme réel.
 
+## Débat Bouteldja : capitalisation idéologique et stratégie de classe
+
+Dans [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]], Kazib s'invite spontanément dans un live de Padu pour apporter la perspective de [[Revolution Permanente]] sur le tournant de [[Houria Bouteldja]] vers la "France révolutionnaire".
+
+Ses arguments principaux :
+
+- PDH n'a "pas de stratégie de classe" : leur orientation est populiste, non prolétarienne. Ils avaient même dit que "la défense de la classe et non de la race, c'est une position de la gauche blanche."
+- Le drapeau français est "le drapeau de l'opération Barkhane, le drapeau du génocide en Palestine, de l'oppression à Mayotte, à la Martinique" — défendre ce symbole en tant qu'antiraciste décolonial revient à "défendre son propre impérialisme."
+- La stratégie de réappropriation du signifiant national est "une capitulation idéologique" — une concession à la logique nationaliste dans un contexte où il faudrait batailler pour la conscience de classe.
+
+Kazib articule aussi sa divergence avec la ligne Mélenchon : il est contre l'union de gauche comme stratégie permanente, car elle dilue la radicalité. Il critique notamment la décision de LFI de ressusciter le PS via le NFP. Sa stratégie préférée : construire un pôle révolutionnaire autonome, critiquer la bureaucratie syndicale, et prioritairement sortir les 57% de prolétaires qui votent RN — pas chercher des abstentionnistes.
+
+## Meeting du 4 mai 2027 : la consolidation entre les deux tours
+
+Grand meeting à Sarcelles (70 000 personnes). Kazib monte à la tribune main dans la main avec Mélenchon. Moment symbolique décisif : la gauche radicale se range derrière la candidature FI, sans ambiguïté. La PaduTeam décrit cet événement comme "absolument fabuleux"[^meeting].
+
+[^meeting]: [37:48](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=2268) — "On va voir Anas entre les deux tours dans un meeting de Jean-Luc Mélenchon. [...] un grand meeting à Sarcelles, Jean-Luc Mélenchon, 70 000 personnes, avec Anas à la tribune, main dans la main avec Jean-Luc."
+
 ## Vidéos
+- [[POUTOU SOUTIENT MELENCHON LA PIRE STRATEGIE POSSIBLE]] — cité comme modèle du candidat révolutionnaire indépendant que Mélenchon devrait soutenir avec ses signatures ; valeur des candidatures révolutionnaires dans les débats à 11 pour déporter le cadre vers la gauche
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Rôle de polarisateur à gauche au 1er tour 2027 (4,72 %, 500 signatures de Mélenchon, fracasse Le Pen et Retailleau en débat) ; meeting Sarcelles 4 mai 2027 avec Mélenchon
 - [[ANASSE KAZIB ATOMISE MADURO]] — Sa position "dictateur 100% anti-ouvrier" déconstruite comme occidentalocentrisme trotskiste
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — Débat sur le tournant nationaliste de PDH et la stratégie de classe
+- [[JULIEN DRAY NIE LA FAMINE A GAZA ET LE GENOCIDE]] — Cité comme victime du double standard judiciaire : procès en apologie du terrorisme pour avoir défendu la résistance palestinienne, pendant que Dray nie la famine à la télé sans jamais être inquiété
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Mis en examen pour apologie du terrorisme ; la PaduTeam mentionne vouloir l'inviter sur "On ne veut plus" avant son jugement attendu fin 2025-début 2026

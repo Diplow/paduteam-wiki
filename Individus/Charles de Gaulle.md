@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections]
 aliases: [de Gaulle, de Goll, De Gaulle]
 date created: Sunday, April 12th 2026, 5:25:13 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Monday, April 20th 2026, 1:27:58 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique
 
@@ -25,12 +25,12 @@ Fondateur de la [[5e Republique]] (1958), figure tutélaire du gaullisme. Pour l
 - Guevara / Guévarisme : "Pour être guévariste, faut être Guevara." Même logique pour le gaullisme.
 - Mitterrand avait attaqué la 5e République dans *Le Coup d'État permanent*, puis l'avait acceptée : "Ce costume n'a pas été taillé pour moi mais il me va très bien."
 
-## Le gaullisme comme néolibéralisme (Padu)
-Dans [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], Padu développe une thèse cruciale contre [[0. Developpement personnel/Notes/The Art of Improvement/Alain Soral]] qui idéalise le gaullisme : le gaullisme n'est pas une alternative au néolibéralisme, c'en est une **forme**. L'économie dirigiste gaulliste (planification quinquennale, ENA, grands projets, nationalisation des secteurs stratégiques) est du néolibéralisme technocratique au sens du [[Congres Lippmann]] — l'État fabrique et oriente le marché plutôt que de s'y soustraire.
+## Le gaullisme comme néolibéralisme
+Dans [[FURAX SORAL M'INSULTE PETIT CON PETIT MERDEUX INCULTE]], la PaduTeam développe une thèse cruciale contre [[Alain Soral]] qui idéalise le gaullisme : le gaullisme n'est pas une alternative au néolibéralisme, c'en est une **forme**. L'économie dirigiste gaulliste (planification quinquennale, ENA, grands projets, nationalisation des secteurs stratégiques) est du néolibéralisme technocratique au sens du [[Congres Lippmann]] — l'État fabrique et oriente le marché plutôt que de s'y soustraire.
 
 Preuves : des économistes libéraux comme [[Jacques Rueff]] étaient au cœur du dispositif gaulliste (réforme Pinay-Rueff). De Gaulle crée l'ENA pour confier l'appareil productif à la technocratie "stato-capitaliste" (hauts fonctionnaires + hauts cadres ingénieurs). C'est précisément ce mouvement — confier la production à la technocratie plutôt qu'à la lutte ouvrière — qui prépare le terrain du néolibéralisme ultérieur.
 
-Padu : "l'après-de Gaulle et 68 est un PCH contre de Gaulle, parce que les forces en présence économique étaient antigaulliennes. Ce n'est pas faux et archi-faux — ce que de Gaulle a fait ne pouvait déboucher que sur ce qu'a fait Giscard dans les années 70."
+La PaduTeam : "l'après-de Gaulle et 68 est un PCH contre de Gaulle, parce que les forces en présence économique étaient antigaulliennes. Ce n'est pas faux et archi-faux — ce que de Gaulle a fait ne pouvait déboucher que sur ce qu'a fait Giscard dans les années 70."
 
 ## Vidéos
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]]

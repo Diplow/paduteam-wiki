@@ -1,7 +1,7 @@
----
-date created: Wednesday, April 1st 2026, 5:27:10 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
----
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # Graphiked — Projet de documentation PaduTeam
 
 ## Objectif
@@ -54,13 +54,23 @@ Le vault est une base de connaissances vivante — l'interroger fait partie de s
 
 ## Structure
 
+**Entités** (1 fiche par objet du monde) :
 - `Sources/` — Matériau brut (transcripts de vidéos YouTube, inventaire)
 - `Videos/` — 1 fiche par vidéo ingérée
 - `Individus/` — 1 fiche par personne
 - `Organisations/` — 1 fiche par parti/asso/média
 - `Concepts/` — 1 fiche par concept analytique
-- `Enjeux/` — 1 fiche par combat stratégique récurrent
-- `Skills/` — Skills Claude pour automatiser l'ingestion
+- `Enjeux/` — 1 fiche par combat stratégique récurrent (format loadout militant)
+- `Evenements/` — 1 fiche par fait daté analysé en profondeur, organisé par période (`2026/`, `1950-1979/`…)
+
+**Couches d'accès** (vues sur les Concepts via le frontmatter `couche`) :
+- `Methodes/` — outils d'analyse (matérialisme historique, Le Graphique…)
+- `Conjonctures/` — diagnostics du moment (crise hégémonie US, triple crise…)
+- `Possibles/` — horizons défendus (universalisme matériel, désagrégation de l'empire…)
+
+Chaque couche contient un MOC + un `_index.base` (vue Obsidian Bases). Les fiches concepts qui relèvent d'une couche ne sont pas migrées : elles restent dans `Concepts/` avec un champ `couche: methode|conjoncture|possible` en frontmatter.
+
+- `Skills/` — Skills Claude pour automatiser l'ingestion et la promotion par couche
 
 ## Conventions générales
 
@@ -89,6 +99,51 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 3. **enjeux** — combats stratégiques récurrents de la PaduTeam
 
 **Le tag `paduteam` n'est pas utilisé** — tout le vault est PaduTeam par définition.
+
+## Ingestion automatisée
+
+Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅. C'est la source de vérité pour l'avancement de l'ingestion. Les commits sont directs sur `develop` (plus de branches éphémères — voir `BUILD.md` § Workflow git).
+
+### Scripts d'automatisation (`Sources/Transcripts/`)
+
+**Lancer l'ingestion d'un batch spécifique :**
+```bash
+python Sources/Transcripts/run_ingest.py --batch N
+```
+
+**Lancer tous les batchs en attente :**
+```bash
+python Sources/Transcripts/run_ingest.py
+```
+
+**Autres options `run_ingest.py` :**
+```bash
+--dry-run          # afficher sans exécuter
+--from N           # reprendre depuis le batch N
+--model opus       # utiliser Opus au lieu de Sonnet
+```
+
+**Gérer les transcripts (découverte, extraction, correctifs) :**
+```bash
+python Sources/Transcripts/batch_transcripts.py --full        # discover + fix + extract
+python Sources/Transcripts/batch_transcripts.py --recent N    # N vidéos les plus récentes
+python Sources/Transcripts/batch_transcripts.py --dry-run     # toutes les modes supportent --dry-run
+```
+
+**Régénérer `PADUTEAM_CHRONOLOGIQUE.md` :**
+```bash
+python Sources/Transcripts/generate_chronological.py
+python Sources/Transcripts/generate_chronological.py --force  # écraser même si des batchs ✅ existent
+```
+
+**Helper timestamps (MM:SS → secondes pour les liens `&t=`) :**
+```bash
+python Sources/timestamp_to_seconds.py
+```
+
+### Mode automatique d'ingestion (batch)
+
+Quand l'utilisateur demande d'ingérer un batch en "mode automatique", utiliser le skill `ingest-batch` en passant le numéro de batch depuis `PADUTEAM_CHRONOLOGIQUE.md`. Le skill lit les transcripts un par un (un sous-agent par vidéo), puis consolide les enjeux en fin de batch.
 
 ## Comment le vault est construit
 

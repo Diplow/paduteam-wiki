@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [robinsonade]
 date created: Saturday, April 4th 2026, 11:20:31 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -25,3 +25,5 @@ Concrètement : [[Geoffroy de Lagasnerie]] qui dit "de quel droit ces autres me 
 
 ## Vidéos où le concept est développé
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[CE MARXISTE A TRES PEUR DU GRAND REMPLACEMENT FRANCIS COUSIN]] — [[Francis Cousin]] comme robinsonade par excellence : penser le communisme primitif comme horizon pour demain, c'est exactement ce que Marx appelle une robinsonade ("ça change rien au problème — que ce fut le cas au début des tout premiers hominidés ou pas")
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — application au libertarianisme : Le Guiz part d'une "feuille blanche" (individus libres qui se répartissent la terre) et ne tient pas compte des rapports de force dans la durée ; la PaduTeam montre que ce raisonnement aboutit inévitablement aux monopoles de Marx et Lénine

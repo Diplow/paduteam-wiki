@@ -3,6 +3,8 @@ type: concept
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Ukraine, États-Unis]
 skill_version: ingest-batch-2026-04-14
+date created: Tuesday, April 14th 2026, 1:18:40 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Ukraine
 
@@ -41,4 +43,4 @@ La Finlande a rejoint l'OTAN en 2023 — le modèle historique ne s'applique don
 [[Camp de la paix]], [[Anti-imperialisme]], [[Bellicisme social-democrate]], [[Atlantisme]]
 
 ## Vidéos où le concept est développé
-- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Analyse complète des deux scénarios (finlandisation vs partition), avec Chris
+- [[GUERRE EN UKRAINE FAUT-IL COMMENCER A APPRENDRE LE RUSSE]] — Analyse complète des deux scénarios (finlandisation vs partition)

@@ -4,7 +4,7 @@ domaine: [théorie, société]
 thèmes: [féminisme, racisme-antiracisme]
 aliases: [3 systèmes de domination, triple domination, capitalisme-sexisme-colonialisme]
 date created: Wednesday, April 1st 2026, 6:31:53 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/racisme-antiracisme
 
@@ -32,4 +32,6 @@ Le [[Graphique]] capture principalement l'axe capitalisme (exploitation) et une 
 - Les familles monoparentales précaires — articulation sexisme (charge des enfants sur les femmes) + capitalisme (pauvreté sans filet collectif)
 
 ## Vidéos où le concept est développé
-- [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — application explicite à la figure de Marc
+- [[Les INCELS ont ENFIN leur SAINT GRAPHIQUE]] — application explicite à la figure de [[Marc]] : "Il y a presque les trois systèmes de domination là-dedans. Il y a le colonialisme [...] le côté sexiste patriarcal [...] et il y a le côté capitaliste."[^1]
+
+[^1]: [2:02](https://www.youtube.com/watch?v=cboXFgyovFY&t=122) — "Il y a presque les trois systèmes de domination là-dedans. [...] Il y a le colonialisme et donc le racisme [...] Il y a le côté sexiste patriarcal [...] et il y a le côté capitaliste."

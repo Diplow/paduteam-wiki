@@ -4,22 +4,23 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, le-Graphique, élections]
 enjeux: [union-populaire, le-Graphique, campisme-assumé]
 date: 2025-05-01
+youtube_id: A3vdhX9Ocfg
 aliases: [LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES]
 date created: Sunday, April 12th 2026, 5:27:36 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/union-populaire #enjeu/le-Graphique #enjeu/campisme-assumé
 
 # LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES !!
 
 ## Résumé
-Padu réagit à un micro-trottoir du 1er mai réalisé par [[Cathedrale Osseuse]], militant communiste, qui interview des militantes JC roussellistes, des anciens FI purgés, et des militants de L'Après. Padu atomise leurs positions : l'antiracisme n'est pas un "sous-débat", Roussell est en haut à droite dans le [[Graphique]], et L'Après ne propose rien de structurel.
+La PaduTeam réagit à un micro-trottoir du 1er mai réalisé par [[Cathedrale Osseuse]], militant communiste, qui interview des militantes JC roussellistes, des anciens FI purgés, et des militants de L'Après. La PaduTeam atomise leurs positions : l'antiracisme n'est pas un "sous-débat", Roussell est en haut à droite dans le [[Graphique]], et L'Après ne propose rien de structurel.
 
 ## Thèses et analyses clés
 
 1. **Le [[Graphique]] contre Roussell** — Cathédrale Osseuse demande directement à la militante JC : "comment ça se fait que Roussell soit en haut à droite dans le graphique ?" L'électorat du PCF est structurellement composé de classes intermédiaires, pas de classes populaires. Le vote PCF vers Mélenchon n'est pas un vote utile des prolos mais la preuve que les électorats sont distincts et que la stratégie médiatique de Roussell ne parle pas aux classes populaires.
 
-2. **L'antiracisme n'est pas stérile** — La militante JC dit que le débat "racisme/pas racisme" est un "sous-débat stérile." Padu : c'est catastrophique. Dire "on essaie d'être large" en direction des électeurs d'extrême droite, c'est exactement ce qui ne marche pas — c'est la ligne du PCF dans les années 80 avec Mitterrand qui a provoqué l'effondrement du vote PCF dans les classes populaires.
+2. **L'antiracisme n'est pas stérile** — La militante JC dit que le débat "racisme/pas racisme" est un "sous-débat stérile." La PaduTeam juge ça catastrophique. Dire "on essaie d'être large" en direction des électeurs d'extrême droite, c'est exactement ce qui ne marche pas — c'est la ligne du PCF dans les années 80 avec Mitterrand qui a provoqué l'effondrement du vote PCF dans les classes populaires.
 
 3. **[[Division raciale du proletariat]] — explication matérialiste** — Le prolétariat blanc a accédé aux couches intermédiaires via l'exploitation des pays pauvres (anciennes colonies). Cela crée une division raciale du prolétariat : blancs en position légèrement meilleure, noirs/arabes dans les métiers les moins bien payés. Le racisme s'accentue comme projet politique de stigmatisation et de scission du prolétariat. Face à ça, seul un projet antiraciste et égalitaire peut répondre.
 

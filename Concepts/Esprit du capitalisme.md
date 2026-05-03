@@ -4,14 +4,14 @@ domaine: [théorie]
 thèmes: [travail]
 aliases: [esprit du capitalisme, spirit of capitalism]
 date created: Thursday, April 2nd 2026, 12:51:46 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/travail
 
 # Esprit du capitalisme
 
 ## Définition
-Concept de Boltanski (et Weber) mobilisé par Chris pour décrire la logique interne qui fait fonctionner le capitalisme : les agents sociaux ne produisent pas pour la valeur d'usage (ce que la chose est concrètement), mais pour la valeur d'échange (ce que la chose rapporte en argent abstrait). L'activité humaine est inversée : l'argent n'est plus un moyen, il devient la fin.
+Concept de Boltanski (et Weber) mobilisé par la PaduTeam pour décrire la logique interne qui fait fonctionner le capitalisme : les agents sociaux ne produisent pas pour la valeur d'usage (ce que la chose est concrètement), mais pour la valeur d'échange (ce que la chose rapporte en argent abstrait). L'activité humaine est inversée : l'argent n'est plus un moyen, il devient la fin.
 
 ## Mécanisme
 Le capitalisme ne fonctionne qu'avec des agents qui ont intégré cette inversion. Un entrepreneur qui vend des plateformes de cours particuliers (SuperProf) devrait parler d'éducation — mais ne parle que de valorisation financière (exit, dividende, levée de fonds). Quand un agent orienté valeur d'usage apparaît à table (le fondateur de SuperProf qui ne prend pas de dividende et ne cherche pas d'exit), les capitalistes le vivent comme un "sauvage", un OVNI. Ils ne comprennent pas qu'on puisse ne pas jouer le jeu.

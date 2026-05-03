@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: [élections]
 date created: Wednesday, April 1st 2026, 7:01:18 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Marie Toussaint
@@ -27,3 +27,4 @@ Chris avait parié avec "Paul Elec" qu'elle ferait moins de 5% — Toussaint a r
 - [[GRAPHOMARXISME x Positions Revue]] — Positionnée sur le Graphique des européennes 2024
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — La campagne "douceur" avec Jadot, l'échec aux européennes, le rebond NFP
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — "écologie des couchaisés des cent-villes", campagne catastrophique analysée par Stathis
+- [[Faure oblige de trahir]] — Citée comme l'exemple le plus haut sur le Graphique : son électorat est positionné dans l'espace capital éducatif/culturel le plus élevé, son clivage (écologie) est une valeur post-matérielle, inaccessible aux classes en urgence matérielle. Illustration du concept "fin du monde vs fin du mois"

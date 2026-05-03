@@ -4,7 +4,7 @@ domaine: [politique-intérieure, théorie]
 thèmes: [élections, médias-propagande, guerre-des-gauches]
 aliases: [diabolisation médiatique, diabolisation de Mélenchon]
 date created: Thursday, April 2nd 2026, 9:59:30 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/médias-propagande #thème/guerre-des-gauches
 
@@ -21,7 +21,7 @@ La diabolisation fonctionne en deux temps selon la PaduTeam :
 La diabolisation est ainsi auto-destructrice pour ses promoteurs : en forçant le vote Mélenchon dans la clandestinité sondagière, elle "fabrique" un vote caché qui dépasse les prévisions le soir de l'élection.
 
 ## La diabolisation par l'absurde
-Phénomène observé à partir de juillet 2025 : les accusations deviennent si grotesques (enfant de 6 ans persécutant des juifs au Maroc) que la diabolisation atteint le point de rupture. Padu : "L'homme qui criait au loup" — si une vraie accusation sortait, plus personne ne la croirait. L'excès de diabolisation vide le discours médiatique de sa crédibilité.
+Phénomène observé à partir de juillet 2025 : les accusations deviennent si grotesques (enfant de 6 ans persécutant des juifs au Maroc) que la diabolisation atteint le point de rupture. La PaduTeam : "L'homme qui criait au loup" — si une vraie accusation sortait, plus personne ne la croirait. L'excès de diabolisation vide le discours médiatique de sa crédibilité.
 
 ## Parallèle historique
 En 2002, le vote [[Marine Le Pen|Jean-Marie Le Pen]] était un vote caché des ouvriers — les gens ne l'assumaient pas en public mais votaient pour lui dans l'isoloir. La diabolisation de Mélenchon produit le même mécanisme mais dans le sens inverse : ce sont les **cadres et classes moyennes** qui soutiennent ses positions (pro-palestiniennes, anti-américaines, antilibérales) sans pouvoir l'assumer dans leur milieu professionnel.
@@ -35,8 +35,19 @@ La diabolisation est intégrée dans la prophétie : les médias et le bloc bour
 - "Dossier" Julien Dray sur l'enfance au Maroc (juillet 2025)
 - Accusations de stalinisme
 - "Extrémiste", "dangereux pour la démocratie"
+- Comparaison avec Goebbels par [[Alain Jakubowicz]] (président d'honneur de la [[LICRA]]) sur BFM TV, mai 2025 — forme paroxystique de la [[Assimilation antisemite|diabolisation par assimilation antisémite]]
+
+## La diabolisation comme instrument de la gauche de droite
+
+À partir d'octobre 2025, la PaduTeam note un déplacement : la diabolisation ne vient plus seulement de la droite et de l'extrême droite, mais surtout de la "gauche de droite" — PS, Glucksmann, macronistes se disant progressistes. Ce déplacement confirme la thèse : le PS est l'adversaire principal du premier tour, et la diabolisation de Mélenchon par ses propres anciens alliés est la technique pour écraser LFI avant le scrutin.[^PS-diabolise]
+
+La PaduTeam formule sa réponse : "Notre diabolisation nous gagne le respect de ceux qui ne supportent plus ce système." La [[Conflictualisation]] assumée est la seule réponse correcte — pas la modération, pas les excuses.
+
+[^PS-diabolise]: [25:20](https://www.youtube.com/watch?v=33j6Pv7BzOo&t=1520) — "elle va surtout venir de gens qui vont se dire progressistes de gauche et cetera et qui vont passer du macronisme au Parti socialiste. Là voilà, c'est pour ça le Parti socialiste maintenant est terminé. Il faut vraiment c'est l'adversaire principal."
 
 ## Vidéos où le concept est développé
+- [[JAKUBOWICZ COMPARE MELENCHON A GOEBBELS]] — Forme la plus extrême : la société civile antiraciste retourne son cordon contre la gauche radicale
 - [[JULIEN DRAY A DES REVELATIONS SUR LE PASSE DE MELENCHON]] — Analyse du mécanisme vote caché comme résultat de la diabolisation
 - [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Formulation initiale de la diabolisation comme carburant du vote caché
 - [[Hollande vs Melenchon 2e tour]] — La diabolisation dans le cadre du 2002 inversé
+- [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Incident du doigt d'honneur (oct. 2025) ; analyse de la diabolisation par la gauche de droite comme principal vecteur ; asymétrie documentée avec Dupont-Moretti ; formule Mélenchon "Notre diabolisation nous gagne le respect de ceux qui ne supportent plus ce système"

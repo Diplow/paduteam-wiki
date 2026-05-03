@@ -4,7 +4,7 @@ domaine: [économie, société]
 thèmes: [travail, ruralité, racisme-antiracisme]
 aliases: [Alain Aunac, Aunac]
 date created: Friday, April 3rd 2026, 2:31:20 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/économie #domaine/société #thème/travail #thème/ruralité #thème/racisme-antiracisme
 

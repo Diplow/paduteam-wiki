@@ -1,10 +1,13 @@
 ---
 type: vidéo
+date: 2024-12-06
+youtube_id: 6Efl9NtTZ1s
 domaine: [société, théorie]
 thèmes: [féminisme, masculinisme]
 enjeux: [féminisme-matérialiste]
-date:
-date created: 2026-04-13
+methodes: [Anatomie des visions adverses]
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme
 

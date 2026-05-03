@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [féminisme]
 aliases: [famille nucléaire en crise, famille fordiste, famille patriarcale, famille nucléaire capitaliste]
 date created: Thursday, April 2nd 2026, 1:08:38 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme
 
@@ -34,4 +34,4 @@ La famille nucléaire patriarcale est la structure familiale du capitalisme ford
 
 ## Vidéos où le concept est développé
 - [[TODD DESASTREUX SUR LA NATALITE  IL ACCUSE LE FEMINISME]]
-- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Padu analyse la famille nucléaire capitaliste chez les libertariens : le père "exemplaire mais absent" transmet son patrimoine via le rôle model ; réactionnaires sur la famille parce qu'ils ont besoin de ce vecteur de transmission du capital
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — la PaduTeam analyse la famille nucléaire capitaliste chez les libertariens : le père "exemplaire mais absent" transmet son patrimoine via le rôle model ; réactionnaires sur la famille parce qu'ils ont besoin de ce vecteur de transmission du capital

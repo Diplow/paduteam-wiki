@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, guerre-des-gauches]
 aliases: []
 date created: Wednesday, April 1st 2026, 11:26:54 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/guerre-des-gauches
 
@@ -28,6 +28,14 @@ La PaduTeam la défend : "Il y a un racisme évidemment." Et rappelle son exempl
 ## Candidature Saint-Ouen (municipales 2026)
 [[Eric Coquerel]] propose que Rima Hassan se présente à Saint-Ouen. Bouamrane entre dans une fureur que Padu analyse via le [[Graphique]] : Hassan a une "aura" dans les quartiers populaires "pour son combat pour la Palestine" et parce qu'elle est soutenue par Mélenchon — bien mieux placée que Hollande ou Mayer-Rossignol dans ces quartiers. Bouamrane voit sa mairie menacée.
 
+## Incident de l'avion Tel Aviv-Paris (juin 2025)
+
+Lors de son rapatriement forcé de Palestine par les autorités israéliennes, Rima Hassan est filmée dans l'avion Tel Aviv-Paris par une bourgeoise sioniste du 7e arrondissement parisien (boutique boulevard Saint-Germain). Cette femme la filme en brandissant un drapeau israélien, dit "Am Yisrael Chai", puis dénonce des passagers arabes du vol au commandant de bord en les désignant comme des "petits merdeux d'arabes qui foutent la révolution". Elle poste ses vidéos sur les réseaux sociaux, récoltant un buzz qui lui vaut une invitation sur CNews.
+
+La PaduTeam contextualise : Rima Hassan reçoit quotidiennement des menaces de mort, des menaces de viol et des appels depuis Israël où des voix lui disent en vocal "on est en train de torturer un gars, si tu réponds pas on le tue". La femme à l'écharpe israélienne dans l'avion n'est pas une menace — c'est une anecdote dans un quotidien de harcèlement intense.
+
+L'essentiel de la vidéo porte sur les déclarations ultérieures de cette femme, qui déclare avoir "zéro compassion pour les Palestiniens" et que les enfants palestiniens sont des "futurs terroristes" — propos analysés par la PaduTeam comme structurellement identiques au [[Discours genocidaire|discours génocidaire]] nazi documenté par l'historien [[Johann Chapoutot]]. Ces propos sont diffusés librement sur CNews et les réseaux sociaux, pendant que des syndicalistes CGT sont condamnés pour "apologie du terrorisme". C'est la [[Double mesure]] appliquée au discours.
+
 ## Arc répression / censure (2024-2025)
 
 Rima Hassan est au croisement de tout ce que le bloc dominant déteste : LFI, mouvement pro-Palestine, droit international, femme arabe, féministe. "La femme à abattre pour mettre un coup de pression à toutes ces branches." (Chris, [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]])
@@ -47,8 +55,8 @@ Elle tweete "Venez à Sciences Po, l'heure est au soulèvement" pendant l'occupa
 ### BFM TV — "Vous devrez rendre des comptes" (octobre 2024)
 Invitée sur BFM TV (8 octobre 2024), elle dénonce en direct que le porte-parole de l'armée israélienne Olivier Rafovic avait félicité BFM TV pour sa couverture du conflit. Le plateau coupe court à l'interview, BFM TV publie un communiqué. Analyse : preuve directe de la ligne éditoriale pro-israélienne de BFM TV (propriété de Patrick Drahi).
 
-### Garde à vue / drogue / loi Yadan (2025)
-16 plaintes déposées contre elle en ~2 ans et demi (13 classées sans suite). Lors d'une convocation judiciaire, elle est placée en garde à vue, son sac fouillé. Des informations fuitent dans les médias (via Caroline Fourest) : "drogue de synthèse". Réalité : CBD légal, test urinaire confirmant seulement des traces de THC (normal avec le CBD). Son immunité parlementaire a été violée — elle n'est pas censée être convoquée pour chaque tweet. Loi Yadan (criminalisation de l'antisionisme) en cours de discussion. Paul Vannier l'accompagne dans l'offensive médiatique.
+### Garde à vue / drogue / loi Yadan (2026)
+16 plaintes déposées contre elle en ~2 ans et demi (13 classées sans suite). Lors d'une convocation judiciaire pour "apologie du terrorisme", elle est placée en garde à vue, son sac fouillé. Des informations fuitent dans les médias (via [[Caroline Fourest]]) : "drogue de synthèse". Réalité : CBD légal, test urinaire confirmant seulement des traces de THC (résultat pharmacologiquement normal avec le CBD). Son immunité parlementaire d'eurodéputée a été violée — "elle n'est pas censée être amenée à devoir pointer au commissariat dès qu'elle fait un tweet." [[Loi Yadan]] (criminalisation de l'antisionisme) en cours de discussion. [[Paul Vanier]] l'accompagne dans l'offensive médiatique. Une procédure d'audience est prévue le 7 juillet.
 
 La PaduTeam formule la frontière politique révélée par cette affaire : LFI, NPA, L'après réagissent fort. Tondelier dit "excessif". Roussel "je soutiens mais je suis pas d'accord avec leurs positions". Glucksmann — silence. "C'est des moments très très importants. En plus, c'est une ligne de démarcation entre les gens qui soutiennent réellement et concrètement la résistance palestinienne [...] et les gens qui s'y soumettent."
 
@@ -60,6 +68,18 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 - [[Collectif Nemesis|Némésis]] — a déposé une plainte contre elle pour un post relayé d'un collectif étudiant
 - Paul Vannier — l'accompagne dans l'offensive après la garde à vue
 
+## Criminalisation de la solidarité pro-palestinienne en France
+
+La PaduTeam utilise Rima Hassan comme exemple emblématique de la criminalisation de la solidarité avec la Palestine en France — et la met en parallèle avec la répression physique de la Global March for Gaza en Égypte. Les deux phénomènes relèvent de la même logique : empêcher la solidarité internationale par tous les moyens disponibles (judiciaire en France, policier/militaire en Égypte).
+
+## Naulleau et l'analogie Rima Hassan / Léon Blum
+
+[[Eric Naulleau]] fait de Rima Hassan la figure centrale de son scénario complotiste : LFI comme "idiots utiles" de l'islamisme, avec Rima Hassan jouant le rôle de Lénine face à [[Mathilde Panot]] (comparée à Ceaușescu lors de son dernier discours). La PaduTeam identifie immédiatement le recyclage antisémite : c'est exactement ce que la rhétorique de l'entre-deux-guerres faisait avec Léon Blum — une figure étrangère à la tête d'un parti populaire, qui "gangrenait" la France de l'intérieur. La fixation de Naulleau sur Rima Hassan est analysée comme la réaction d'un "vieux mec blanc qui comprend qu'il n'a plus le contrôle" : une femme arabe qui "le regarde dans les yeux" et qui "ne fait pas ce job" de soumission[^rima_nolo].
+
+## Tweet Lisnard / camée (avril 2026)
+
+[[David Lisnard]] tweete que Rima Hassan est "proterroriste [...] et camée avec l'argent des contribuables" au moment même où ses tests urinaires lors de sa garde à vue s'avèrent négatifs (CBD légal). La PaduTeam prévient Lisnard : "j'espère David que tu as un bon avocat car tu mérites d'être en bonne place sur la liste des gens qui vont se faire prendre par la patrouille." Elle compte intenter des procès à l'ensemble des personnes ayant relayé les intox — [[Caroline Fourest]] en tête.
+
 ## Vidéos où Hassan est mentionnée
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Éric Coquerel propose sa candidature à Saint-Ouen, ce qui déclenche la fureur de Bouamrane
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Épisode Karen/Tondelier : l'invitation de Rima Hassan par Mélenchon comme déclencheur de la polémique
@@ -68,6 +88,11 @@ La PaduTeam formule la frontière politique révélée par cette affaire : LFI, 
 - [[Rima Hassan TAILLE Le Crayon]] — Affaire du Crayon / interview tronquée
 - [[RIMA HASSAN et JEAN-LUC MELENCHON CENSURES par les PRO-SIONISTES]] — Conférence interdite à Lille
 - [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — Occupation Sciences Po, tweet "soulèvement"
-- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Bourgeoise sioniste dans l'avion
+- [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]] — Harcèlement filmé dans l'avion Tel Aviv-Paris ; analyse du discours génocidaire de la bourgeoise via Chapoutot ; asymétrie judiciaire (propos génocidaires impunis vs militants poursuivis)
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Dénonce la ligne éditoriale de BFM TV
 - [[RIMA HASSAN DR0GUE GARDE A VUE LOI YADAN]] — Garde à vue, montage drogue, loi Yadan
+- [[COMMENT AIDER CONCRETEMENT LE PEUPLE PALESTINIEN]] — citée parmi les actions de solidarité visibles (flotille, sit-ins) et la répression qu'elles subissent
+- [[NAULLEAU EN PANIQUE DEVANT LE COMPLOT ISLAMIQUE A LA FRANCE INSOUMISE]] — Naulleau en fait le pivot du complot islamiste LFI ; la PaduTeam déconstruit l'analogie antisémite (Rima Hassan = Léon Blum)
+- [[DAVID LISNARD MILEI DE WISH OU MOZART DE LA FINANCE]] — tweet Lisnard "proterroriste et camée" (tests négatifs) ; analyse du racisme cannois ; annonce d'une vague de procès contre les diffuseurs d'intox
+
+[^rima_nolo]: [43:29](https://www.youtube.com/watch?v=nvQ95LyW7x0&t=2609) — "il y a trop de dignité et trop de force dans Rima Hassan [...] ils comprennent qu'ils n'ont plus le contrôle sur ces femmes, cette femme, cette jeunesse et cetera"

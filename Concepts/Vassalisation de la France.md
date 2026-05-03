@@ -3,7 +3,7 @@ type: concept
 domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, États-Unis, Ukraine]
 date created: Wednesday, April 1st 2026, 10:45:02 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/États-Unis #thème/Ukraine
@@ -14,7 +14,7 @@ skill_version: ingest-batch-2026-04-14
 Ce que propose [[Jordan Bardella]] au plan économique et géopolitique : faire de la France un satellite définitif des États-Unis, incapable de toute autonomie stratégique. En voulant "rivaliser" avec Trump via le libre-échange et la déréglementation, Bardella accepte les règles du jeu américain — ce qui revient à perdre d'avance.
 
 ## Mécanisme
-- Bardella copie le programme Madelin/Michel Rocard (libéralisme de l'offre) — "dans quelle merde on s'est mis" (Padu sur les années 80)
+- Bardella copie le programme Madelin/Michel Rocard (libéralisme de l'offre) — "dans quelle merde on s'est mis" (la PaduTeam sur les années 80)
 - Ce programme = baisser les impôts des sociétés, baisser les cotisations sociales, "libérer les énergies"
 - Résultat : les capitalistes français restent dépendants du marché américain et du dollar, incapables de pivoter vers la Chine
 - Pendant ce temps, Trump s'en fout : il veut que les capitaux reviennent aux États-Unis, pas que la France se "libère"

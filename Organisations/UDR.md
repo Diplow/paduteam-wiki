@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections]
 aliases: [Union des Droites pour la République]
 date created: Wednesday, April 1st 2026, 5:49:06 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 
@@ -18,3 +18,4 @@ L'UDR est systématiquement agrégée au RN dans les analyses sondagières (bloc
 
 ## Vidéos
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Le bloc RN+UDR est en recul dans les sondages Cluster 17
+- [[LECORNU DEJA CENSURE]] — L'UDR qualifiée de "clébar" du RN : "si le RN censure pas, l'UDR censure pas." Dépendance mécanique qui la rend inerte comme acteur autonome.

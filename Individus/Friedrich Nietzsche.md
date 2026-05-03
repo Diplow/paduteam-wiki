@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [Nietzsche]
 date created: Saturday, April 4th 2026, 11:19:49 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -27,3 +27,4 @@ Les idéalistes qui lisent Nietzsche "en se disant qu'il critique les chrétiens
 
 ## Vidéos où Nietzsche est analysé
 - [[LAGASNERIE VEUT INTERDIRE L'EXTREME-DROITE !]]
+- [[ADO GAUCHISTE INGENIEUR NIETZSCHEEN]] — Nietzsche comme vernis intellectuel d'une politisation YouTube masculiniste ; contradiction directe entre nietzschéisme et "amour de la raison" ; Nietzsche est contre la raison, pas pour

@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Johanna Roland, Rolland]
 date created: Sunday, April 12th 2026, 5:25:15 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -19,7 +19,7 @@ Anti-NUPES en 2022 mais favorable au NFP en 2024. Fusionne en panique avec la li
 [[Olivier Faure]] attend sa réélection pour dénoncer Mélenchon, car une défaite aurait été immédiatement imputée à la fusion LFI.
 
 ## Analyse détaillée (municipales 2026)
-Sa victoire à 52,18% dans une ville "historiquement très à gauche" est "chaud" selon Chris. Elle a fusionné avec [[William Aucant]] (LFI) après un premier tour très serré — la PaduTeam concède qu'elle était "obligée" vu son faible score initial. Mais avec Renaissance en face (au lieu de LR), elle perdait. La question posée par la PaduTeam : les électeurs centristes ne seraient-ils pas allés à droite à cause de la fusion ? Peut-être que la fusion a en fait gonflé les voix à droite.
+Sa victoire à 52,18% dans une ville "historiquement très à gauche" est "chaud" selon la PaduTeam. Elle a fusionné avec [[William Aucant]] (LFI) après un premier tour très serré — la PaduTeam concède qu'elle était "obligée" vu son faible score initial. Mais avec Renaissance en face (au lieu de LR), elle perdait. La question posée par la PaduTeam : les électeurs centristes ne seraient-ils pas allés à droite à cause de la fusion ? Peut-être que la fusion a en fait gonflé les voix à droite.
 
 ## Relations
 - [[Olivier Faure]] — même tendance PS

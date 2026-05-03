@@ -4,13 +4,13 @@ domaine: [théorie, politique-intérieure]
 thèmes: [élections]
 aliases: [luttes en classe, luttes de classe, lutte en classe]
 date created: Wednesday, April 1st 2026, 12:39:32 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/élections
 # Luttes en classe vs luttes de classe
 
 ## Définition
-Distinction analytique introduite par [[Chris]] pour décrire ce que le [[Graphique]] rend visible : la différence entre les conflits *entre* classes sociales différentes (luttes de classe au sens marxiste classique) et les conflits *à l'intérieur* d'un même espace de classe pour l'hégémonie idéologique (luttes en classe).
+Distinction analytique introduite par la PaduTeam pour décrire ce que le [[Graphique]] rend visible : la différence entre les conflits *entre* classes sociales différentes (luttes de classe au sens marxiste classique) et les conflits *à l'intérieur* d'un même espace de classe pour l'hégémonie idéologique (luttes en classe).
 
 ## Mécanisme
 Quand deux candidats occupent le même espace sur le [[Graphique]], cela signifie qu'ils sont composés des mêmes types de classes. Ils ne s'affrontent pas entre classes différentes — ils se battent pour l'hégémonie sur les mêmes classes, avec des visions du monde opposées.
@@ -28,4 +28,4 @@ Ce concept explique pourquoi deux candidats au même endroit du Graphique peuven
 [[Graphique]], [[Clivage materiel vs clivage de valeurs]], [[Pacte egalitaire]], [[Pacte raciste]], [[Conflictualite interne aux classes populaires]], [[Guerre des gauches]]
 
 ## Vidéos où le concept est analysé
-- [[Faure oblige de trahir]] — Formulation explicite du concept par Chris, application aux couples Mélenchon/Le Pen et Deffontaines/Maréchal
+- [[Faure oblige de trahir]] — Formulation explicite du concept par la PaduTeam, application aux couples Mélenchon/Le Pen et Deffontaines/Maréchal

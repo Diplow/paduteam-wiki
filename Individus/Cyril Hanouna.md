@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande, santé]
 aliases: [Hanouna]
 date created: Thursday, April 2nd 2026, 1:22:24 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/société #thème/médias-propagande #thème/santé
@@ -15,7 +15,7 @@ skill_version: ingest-batch-2026-04-14
 Animateur de [[CNews]] et C8, figure médiatique polarisante. Dans les analyses PaduTeam, il incarne les médias Boloré — un écosystème qui amplifie les attaques contre la gauche radicale. Est juif — ce qui rend l'affaire de l'affiche LFI particulièrement sensible.
 
 ## L'affaire de l'affiche
-La [[France Insoumise]] publie une affiche le représentant avec des codes visuels antisémites classiques des années 30 : longs doigts, visage fermé en noir et blanc. Padu reconnaît le problème : "Vous pouvez pas dire que mettre quelqu'un qui est juif et quelqu'un qui ne l'est pas c'est pareil — c'est un argument color blind." La FI retire l'affiche, [[Manuel Bompard]] reconnaît publiquement que ça n'aurait pas dû être produit. Padu : probablement une erreur involontaire, pas une intention antisémite.
+La [[France Insoumise]] publie une affiche le représentant avec des codes visuels antisémites classiques des années 30 : longs doigts, visage fermé en noir et blanc. La PaduTeam reconnaît le problème : "Vous pouvez pas dire que mettre quelqu'un qui est juif et quelqu'un qui ne l'est pas c'est pareil — c'est un argument color blind." La FI retire l'affiche, [[Manuel Bompard]] reconnaît publiquement que ça n'aurait pas dû être produit. La PaduTeam juge que c'est probablement une erreur involontaire, pas une intention antisémite.
 
 ## La contradiction de classe : anti-Sécu et yacht à Guernesey
 

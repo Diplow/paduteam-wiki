@@ -4,7 +4,8 @@ domaine: [société, économie]
 thèmes: [féminisme, masculinisme, capitalisme]
 aliases: [industrie de la séduction, coach en séduction, pick-up artistry, PUA]
 skill_version: "1.0"
-date created: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/économie #thème/féminisme #thème/masculinisme #thème/capitalisme
 
@@ -17,7 +18,7 @@ Selon la PaduTeam, l'industrie du "coach en séduction" (pick-up artistry, PUA) 
 ## Mécanisme
 
 **1. Le marché de la frustration**
-L'industrie cible des hommes en difficulté relationnelle (souvent aussi en difficulté sociale et économique) et leur vend une solution capitaliste : des techniques codifiées pour "obtenir" des femmes. La frustration n'est pas résolue — elle est exploitée commercialement. Padu sur Valek : "le gars il est passé de trucs JVC à scammer le public en se disant j'ai fait un suicide social en balançant des théories racistes, il faut maintenant que je commence à gagner ma vie avec ça."
+L'industrie cible des hommes en difficulté relationnelle (souvent aussi en difficulté sociale et économique) et leur vend une solution capitaliste : des techniques codifiées pour "obtenir" des femmes. La frustration n'est pas résolue — elle est exploitée commercialement. La PaduTeam sur Valek : "le gars il est passé de trucs JVC à scammer le public en se disant j'ai fait un suicide social en balançant des théories racistes, il faut maintenant que je commence à gagner ma vie avec ça."
 
 **2. La réification de la femme**
 Le vocabulaire du coaching en séduction traite les femmes comme des cibles à acquérir, des obstacles à surmonter, des marchandises à optimiser. Hiérarchie alpha/sigma/beta (Killian), bodycount comme critère de valeur (Alex Hitchens), "techniques de salle de bain" pour entraîner une femme à l'isolement (Fabrice Julien).
@@ -44,3 +45,4 @@ L'industrie du coaching en séduction codifie des pratiques de [[Culture du viol
 - [[PAYE TON DROITARD 8 VALEK COACH LIBERTARIEN]] — trajectoire du racisme au libertarianisme
 - [[LE COACH SEDUCTION FLIPPANT]] — prédation de rue codifiée
 - [[ALEX HITCHENS HUMILIE CARLA VYX]] — rituel d'humiliation en live
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — usage de l'évopsie pour légitimer le "marché amoureux" ; distinction misogynie saine/toxique comme formalisation explicite de la protection par le statut

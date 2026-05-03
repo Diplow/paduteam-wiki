@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Victoire populaire]
 date created: Wednesday, April 1st 2026, 6:03:37 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -18,7 +18,7 @@ Pitch du collectif : cibler prioritairement les communes pivots, former des bén
 ## Analyse PaduTeam
 La PaduTeam critique le positionnement fondamental de Victoire Populaire : vouloir faire gagner "la gauche" au niveau local sans distinguer quelle gauche. Faire campagne indifféremment pour une commune PS ou une commune EELV ou une commune FI, c'est de la dépolitisation. La question n'est pas de "faire gagner la gauche", c'est quelle ligne politique est hégémonique à gauche.
 
-Chris note que le nom même "Victoire Populaire" rappelle "Primaire Populaire" — ce n'est pas un hasard, c'est le même réseau ([[Samuel Grzybowski]]). La méthode (phoning, grassroots américain) est jugée intéressante dans la forme mais vidée de contenu politique. Ils ont oublié le meilleur de Brand New Congress : aller chercher des gens locaux de classe populaire pour être les représentants, plutôt que des apparatchiks de parti ou des diplômés de Sciences Po.
+La PaduTeam note que le nom même "Victoire Populaire" rappelle "Primaire Populaire" — ce n'est pas un hasard, c'est le même réseau ([[Samuel Grzybowski]]). La méthode (phoning, grassroots américain) est jugée intéressante dans la forme mais vidée de contenu politique. Ils ont oublié le meilleur de Brand New Congress : aller chercher des gens locaux de classe populaire pour être les représentants, plutôt que des apparatchiks de parti ou des diplômés de Sciences Po.
 
 ## Relations
 - Lié à la [[Primaire Populaire]] via [[Samuel Grzybowski]]

@@ -3,8 +3,8 @@ type: individu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, répression-justice, Palestine]
 aliases: [Guillaume Meurice]
-date created: 2026-04-13
-date modified: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/répression-justice
@@ -20,7 +20,7 @@ Analysé dans la vidéo sur [[Raphael Enthoven|Enthoven]], qui commente la suspe
 ### La suspension et ses justifications
 Meurice fait une blague sur Netanyahou. France Inter le suspend. Enthoven est invité sur BFMTV pour commenter — malgré son conflit d'intérêt évident. Sa position : "J'ai toujours été hostile à l'exclusion de Guillaume Meurice. On ne vire pas un humoriste pour une mauvaise blague." Mais dans la même intervention, il dit que Meurice n'a "aucun talent" et qu'il ne l'aurait pas gardé pour ça.
 
-Padu : "Le mec prend la pire position. Il dit qu'il fallait pas l'exclure donc en fait ils l'ont exclu, il fout sa meuf dans la sauce — il fallait pas l'exclure pour ce que vous avez fait, il fallait l'exclure parce qu'il est nul — sauf que c'est débile parce qu'il l'avait gardé avant."
+La PaduTeam : "Le mec prend la pire position. Il dit qu'il fallait pas l'exclure donc en fait ils l'ont exclu, il fout sa meuf dans la sauce — il fallait pas l'exclure pour ce que vous avez fait, il fallait l'exclure parce qu'il est nul — sauf que c'est débile parce qu'il l'avait gardé avant."
 
 ### La vraie question (indépendante du talent)
 La PaduTeam est explicite : peu importe si Meurice est drôle ou pas. La question est : "est-ce que c'est normal qu'il se fasse virer et censurer parce qu'il parle de Netanyahou ?" La réponse est non — et ce indépendamment de la qualité de ses blagues.

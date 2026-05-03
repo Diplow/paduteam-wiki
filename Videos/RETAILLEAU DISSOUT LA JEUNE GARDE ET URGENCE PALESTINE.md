@@ -1,11 +1,14 @@
 ---
 type: vidéo
+date: 2025-05-09
+youtube_id: apa807lyQeM
 domaine: [politique-intérieure, géopolitique]
 thèmes: [Palestine, répression-justice, racisme-antiracisme]
 enjeux: [Palestine-libre, Repression des pro-Palestine]
-date: 2025
-youtube_id: apa807lyQeM
+conjonctures: [Genocide a Gaza]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:39:10 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/racisme-antiracisme #enjeu/Palestine-libre
 
@@ -14,12 +17,12 @@ skill_version: ingest-batch-2026-04-13
 # RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE !! (avec Cem Yoldas)
 
 ## Résumé
-[[Bruno Retailleau]] annonce une procédure de dissolution contre [[La Jeune Garde]] et [[Urgence Palestine]], quelques jours après le meurtre d'Abouakar (tué parce que musulman). Padu et [[Cem Yoldas]] analysent la procédure, les griefs officiels, la montée de l'islamophobie, et théorisent la lutte antifasciste de terrain face à la fascisation.
+[[Bruno Retailleau]] annonce une procédure de dissolution contre [[La Jeune Garde]] et [[Urgence Palestine]], quelques jours après le meurtre d'Abouakar (tué parce que musulman). La PaduTeam et [[Cem Yoldas]] analysent la procédure, les griefs officiels, la montée de l'islamophobie, et théorisent la lutte antifasciste de terrain face à la fascisation.
 
 ## Le contexte : après le meurtre d'Abouakar
 La dissolution est annoncée peu après qu'Abouakar est tué en France dans un contexte de montée de l'islamophobie et de violences d'extrême droite. Logique inversée : au lieu de réprimer la violence islamophobe, Retailleau réprime ceux qui luttent contre le fascisme et pour la Palestine.
 
-Padu : "on voit bien un peu un lien [...] assez étonnant pour ce ministre d'extrême droite entre le fait qu'il y a une montée de l'islamophobie et de la violence et le fait de dissoudre des gens qui luttent soit contre un génocide, soit contre le fascisme[^1]."
+La PaduTeam : "on voit bien un peu un lien [...] assez étonnant pour ce ministre d'extrême droite entre le fait qu'il y a une montée de l'islamophobie et de la violence et le fait de dissoudre des gens qui luttent soit contre un génocide, soit contre le fascisme[^1]."
 
 ## Les trois griefs officiels
 Cem Yoldas détaille les accusations du gouvernement :
@@ -50,7 +53,7 @@ La réponse est triple : juridique (avocate, recours), politique (développement
 
 Yoldas sur le militantisme internet vs terrain : "si on a que des médias internet, c'est de la merde. On fera jamais rien." Ce qu'il faut construire : des réseaux locaux concrets, des gens qui se connaissent dans les quartiers, des clubs de sport, des commerçants progressistes. "Ils peuvent dissoudre la Jeune Garde mais ils vont pas dissoudre l'antifascisme."
 
-Padu sur les médias locaux : projet de fédération, recréer un maillage de médias locaux. La force ne vient pas de YouTube mais de l'ancrage territorial.
+La PaduTeam sur les médias locaux : projet de fédération, recréer un maillage de médias locaux. La force ne vient pas de YouTube mais de l'ancrage territorial.
 
 ## La trajectoire historique : fascisation
 Yoldas théorise la trajectoire : Macron 2017 (libéralisme centriste, discours maïeutique) → libéralisme autoritaire (réactions aux mobilisations 2017-2024) → extrême droitisation avec Retailleau. La bourgeoisie tape d'autant plus fort sur les organisations de gauche que les mobilisations sociales se multiplient — gilets jaunes, retraites, mouvements antiracistes, pro-Palestine.

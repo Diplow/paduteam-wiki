@@ -4,6 +4,8 @@ domaine: [politique-intérieure, société]
 thèmes: [extrême-droite, féminisme, médias-propagande]
 aliases: [Méthode Némésis, méthode Némésis]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 2:43:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 
 #domaine/politique-intérieure #thème/extrême-droite #thème/médias-propagande
@@ -39,10 +41,17 @@ Des conversations internes entre Némésis (responsable lyonnaise "Ornela") et l
 - Exposer la méthode publiquement, pas se laisser piéger
 - Services d'ordre de gauche formés : exfiltrer proprement, sans violence, sans leur donner le clip dont elles ont besoin
 - "Ne les violentez pas — c'est ce qu'elles cherchent. Moquez-les."
-- Former les militants aux gestes d'urgence médicaux (Zoé : "quand on voit quelqu'un de blessé, on sait réagir")
+- Former les militants aux gestes d'urgence médicaux (la PaduTeam : "quand on voit quelqu'un de blessé, on sait réagir")
+
+## Non-assistance à personne en danger
+
+L'affaire Quentin Deranque (14 février 2026) ajoute une dimension médicale à la méthode. La PaduTeam (voix médicale) développe le mécanisme de l'hématome subdural : après des coups à la tête, une poche de sang se forme entre crâne et cerveau, indolore dans un premier temps, puis fatale à mesure qu'elle comprime le cerveau dans une cavité inextensible. Quentin refuse l'hôpital malgré des signes manifestes de traumatisme ; personne dans le groupe Némésis ne l'y contraint.
+
+Qualification de la PaduTeam : "c'est quasiment de l'homicide involontaire d'avoir créé les circonstances de cette mort et en plus là il y a clairement une non assistance en personne en danger."
 
 ## Vidéos où le concept est développé
 
 - [[DR ZOE RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NEMESIS]]
 - [[NEMESIS A MENTI LA PREUVE ACCABLANTE]]
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — analyse de la mort de Quentin : chaîne causale du recrutement au refus d'hôpital, qualification d'homicide involontaire et non-assistance

@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [VSS]
 aliases: [Harry Abittan, Ary Abittan]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 6:31:54 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/VSS
 
@@ -18,9 +20,9 @@ Une femme porte plainte pour viol, avec :
 - Lésions graves aux parties intimes documentées
 - Saignements abondants
 - Syndrome de stress post-traumatique grave ayant nécessité des soins
-- Selon Zoé, Abittan "se serait excusé, aurait reconnu que c'était peut-être pas super mais pas si grave que ça"
+- Selon la PaduTeam, Abittan "se serait excusé, aurait reconnu que c'était peut-être pas super mais pas si grave que ça"
 
-Issue : non-lieu. Zoé rappelle la mécanique : le non-lieu ne signifie pas l'innocence — il signifie que la procédure judiciaire s'arrête faute d'éléments suffisants dans un système où 94 % des plaintes pour viol ne prospèrent pas.
+Issue : non-lieu. La PaduTeam rappelle la mécanique : le non-lieu ne signifie pas l'innocence — il signifie que la procédure judiciaire s'arrête faute d'éléments suffisants dans un système où 94 % des plaintes pour viol ne prospèrent pas.
 
 ## La réhabilitation
 
@@ -28,9 +30,7 @@ Abittan remonte sur scène. [[Brigitte Macron]] assiste à son spectacle et, fil
 
 ## Dans l'analyse PaduTeam
 
-Pour Padu (avec [[Chris]]), la scène illustre la thèse centrale sur les VSS : c'est la position de pouvoir qui permet d'agresser ET de s'en sortir. Brigitte Macron, en soutenant Abittan, choisit son camp de classe. L'aristocratie médiatique se serre les coudes. Les militantes qui disent "nous on a rien à foutre de votre non-lieu et on veut que ce mec dégage des positions de pouvoir" sont dans la ligne exacte du féminisme matérialiste : la justice bourgeoise ne règle rien, il faut passer par le dépositionnement.
-
-Padu à Zoé : "Je te propose un 1v1 avec Brigitte Macron."
+Pour la PaduTeam, la scène illustre la thèse centrale sur les VSS : c'est la position de pouvoir qui permet d'agresser ET de s'en sortir. Brigitte Macron, en soutenant Abittan, choisit son camp de classe. L'aristocratie médiatique se serre les coudes. Les militantes qui disent "nous on a rien à foutre de votre non-lieu et on veut que ce mec dégage des positions de pouvoir" sont dans la ligne exacte du féminisme matérialiste : la justice bourgeoise ne règle rien, il faut passer par le dépositionnement.
 
 ## Relations
 

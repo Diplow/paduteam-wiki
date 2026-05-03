@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Bouamrane]
 date created: Wednesday, April 1st 2026, 7:27:12 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
@@ -16,7 +16,7 @@ Maire PS de Saint-Ouen, aile droite du [[Parti Socialiste]]. Partisan de [[Nicol
 ## L'affaire Coquerel (2025-2026)
 Lors d'un meeting de soutien à [[Nicolas Mayer-Rossignol]], Bouamrane est enregistré déclarant : "J'ai dit à Éric Coquerel : si tu viens nous emmerder, on va te défoncer." Déclencheur : [[Eric Coquerel]] avait proposé que [[Rima Hassan]] se présente à Saint-Ouen aux municipales 2026. Bouamrane y voit une menace directe sur sa mairie — Rima Hassan a une "aura" dans les quartiers populaires et est soutenue par Mélenchon.
 
-La sortie est ensuite publiée par Hugo Coutourier (journaliste Twitter). Bouamrane publie un communiqué s'excusant, accusant ses critiques de "vocabulaire teinté de colonialisme" — stratégie de [[Concernisme]] selon la PaduTeam. Chris : "Personne ne lui met dans la gueule parce qu'il est racisé — le mec dit qu'il va te défoncer, c'est ça le problème."
+La sortie est ensuite publiée par Hugo Coutourier (journaliste Twitter). Bouamrane publie un communiqué s'excusant, accusant ses critiques de "vocabulaire teinté de colonialisme" — stratégie de [[Concernisme]] selon la PaduTeam. La PaduTeam : "Personne ne lui met dans la gueule parce qu'il est racisé — le mec dit qu'il va te défoncer, c'est ça le problème."
 
 **Hypocrisie PS** : Bouamrane accuse LFI de "brutaliser le débat" tout en menaçant Coquerel. "Méfiez-vous des gens qui veulent vous faire faire des trucs que eux ne savent pas faire."
 
@@ -26,11 +26,11 @@ Aile droite du PS — haut-droite, sociolibéral. Sa stratégie d'aller seul et 
 ## Stratégie électorale
 - Soutien à l'aile droite du PS (Mayer-Rossignol) contre les tendances plus à gauche (Faure)
 - Stratégie municipale : défense de Saint-Ouen contre les avancées LFI
-- Candidature présidentielle possible dans une primaire PS : joue la carte "concernisme Obama" — candidat racisé anti-LFI face à Mélenchon "vieux blanc de 75 ans". Padu : "On aurait un vieux blanc de 75 ans très antiraciste contre un jeune arabe très raciste — ça brouillerait les pistes."
+- Candidature présidentielle possible dans une primaire PS : joue la carte "concernisme Obama" — candidat racisé anti-LFI face à Mélenchon "vieux blanc de 75 ans". La PaduTeam : "On aurait un vieux blanc de 75 ans très antiraciste contre un jeune arabe très raciste — ça brouillerait les pistes."
 - "Peut-être que Obama c'est le Bouamrane américain" — retournement de la comparaison que la PaduTeam analyse comme révélatrice de sa prétention démesurée (il est maire de Saint-Ouen, Obama était président des États-Unis)
 
 ## Candidature présidentielle 2027
-Chris le surnomme "l'Obama du pauvre". La PaduTeam ne croit pas à sa candidature mais l'envisage dans le cadre d'une primaire PS : peut représenter l'aile droite (ligne Mayer-Rossignol) face à [[Boris Vallaud]] (ligne Faure-réconciliation) ou [[François Hollande]]. Sa carte "concernisme" peut lui donner un avantage dans une primaire où il peut accuser ses rivaux blancs d'être "moins antiracistes" que lui — tout en faisant une campagne très à droite sur le fond.
+La PaduTeam le surnomme "l'Obama du pauvre". La PaduTeam ne croit pas à sa candidature mais l'envisage dans le cadre d'une primaire PS : peut représenter l'aile droite (ligne Mayer-Rossignol) face à [[Boris Vallaud]] (ligne Faure-réconciliation) ou [[François Hollande]]. Sa carte "concernisme" peut lui donner un avantage dans une primaire où il peut accuser ses rivaux blancs d'être "moins antiracistes" que lui — tout en faisant une campagne très à droite sur le fond.
 
 ## Relations
 - [[Nicolas Mayer-Rossignol]] — allié, le soutient au congrès PS

@@ -4,9 +4,10 @@ domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2024-07-06
+youtube_id: 4-j1k5auwOU
 aliases: [LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN]
 date created: Sunday, April 12th 2026, 5:25:29 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 
@@ -23,7 +24,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 
 3. **Stagnation du bloc démocrate** : [[Raphael Glucksmann]] a capté l'essentiel de ce bloc aux européennes 2024 via une campagne de référendum anti-LFI. [[Marie Toussaint]] (EELV) a réalisé une campagne "catastrophique", incarnant une écologie déconnectée des classes populaires.
 
-4. **[[Strategie de la respectabilite]]** : le PCF sous [[Fabien Roussel]] et d'autres cherchent à être "bien vus" des médias bourgeois. Zoé démontre que c'est une impasse : un dirigeant de gauche prêt à prendre le pouvoir ne sera jamais bien reçu par des médias au service de la bourgeoisie. Être respectable aux yeux de ces médias est au contraire un signal inquiétant.
+4. **[[Strategie de la respectabilite]]** : le PCF sous [[Fabien Roussel]] et d'autres cherchent à être "bien vus" des médias bourgeois. La PaduTeam démontre que c'est une impasse : un dirigeant de gauche prêt à prendre le pouvoir ne sera jamais bien reçu par des médias au service de la bourgeoisie. Être respectable aux yeux de ces médias est au contraire un signal inquiétant.
 
 5. **[[Mouvement gazeux]]** : Stathis et Chris convergent sur la faiblesse organisationnelle de LFI. Il faut sortir du gazeux, créer un maillage organisationnel local, s'insérer dans des associations, des conseils d'administration, recréer le tissu que la gauche avait avant 1981. Référence au modèle du PS des années 70 dans les municipalités, et aux centres sociaux de la gauche radicale catalane et italienne.
 
@@ -31,7 +32,7 @@ date modified: Sunday, April 12th 2026, 5:46:47 pm
 
 7. **Leçon historique : Front populaire** : Stathis distingue le front unique ouvrier (unité des organisations ouvrières) et le Front populaire élargi (Dimitrov, 1935). La trahison du Parti radical en 1936 a ouvert la voie à Pétain. Parallèle avec la tentation "bloc bourgeois 2.0" aujourd'hui : coalition macronie + gauche hors LFI = SFIO sous Guy Mollet, 3e force, guerres coloniales.
 
-8. **Ruffin comme pointe avancée du bloc bourgeois 2.0** : [[Francois Ruffin]] pose 3 conditions pour gouverner avec [[Xavier Bertrand]] (retraites, RIC, SMIC) et compare cela au CNR. Pour Stathis et Zoé : honte et dévoiement — le CNR c'est la Sécurité sociale, né dans un contexte de rupture radicale avec la bourgeoisie collaborationniste.
+8. **Ruffin comme pointe avancée du bloc bourgeois 2.0** : [[Francois Ruffin]] pose 3 conditions pour gouverner avec [[Xavier Bertrand]] (retraites, RIC, SMIC) et compare cela au CNR. Pour la PaduTeam et Stathis : honte et dévoiement — le CNR c'est la Sécurité sociale, né dans un contexte de rupture radicale avec la bourgeoisie collaborationniste.
 
 9. **[[Pacte raciste]] et néolibéralisme racial** : Stathis développe que les classes populaires "blanches" qui votent RN ne font pas de vote de redistribution vers elles — elles votent pour l'exclusion des racisés et le démantèlement des services publics (logement social) sur fond d'anti-étatisme intériorisé. La pénurie néolibérale a détruit le lien social et rendu les solutions collectives suspectes.
 

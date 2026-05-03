@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Gérard Filoche, Filoche, la béfiloche, l'abbé Filoche]
 date created: Wednesday, April 1st 2026, 7:50:04 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 
@@ -25,5 +25,6 @@ Pour la PaduTeam, Filoche incarne une stratégie réformiste interne typique de 
 - [[Bad Mulch]] — l'a invité à une réunion de L'Après, incident du bol de riz avec [[Raquel Garrido]]
 
 ## Vidéos où Filoche est mentionné
+- [[GARRIDO VIRE CE STREAMER DU CONGRES DE L'APRES]] — Rôle central : c'est lui qui invite Bad Mulch au congrès, le défend face à Garrido ("n'écoutez pas Raquel Garrido, restez dans la salle") et négocie leur retour le lendemain. La PaduTeam : "la seule vraie personne dans ce truc."
 - [[Les SEIGNEURS des NOISETTES (Vol. 1, 2 & 3)]] — Sa présence à L'Après illustre la recomposition gauche PS + droite FI
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Cité comme exemple du militant de gauche qui se targue de vivre en logement social à 60 ans. La PaduTeam critique cette vision comme élitiste et déconnectée des aspirations populaires à la propriété.

@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Debout le peuple]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -37,3 +37,4 @@ Le clip de lancement est un concentré de tout ce qui ne va pas : micro-cravate 
 
 ## Vidéos où Debout est analysé
 - [[RUFFIN LANCE SON PARTI DEBOUT]] — React au lancement, démolition complète du positionnement
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — Confirmation de l'orientation stratégique : Ruffin-Debout se positionne pour aller chercher les électeurs Glucksmann décrocheurs du bloc central. "Un autre Glucksmann possible" plutôt qu'une force de rupture.

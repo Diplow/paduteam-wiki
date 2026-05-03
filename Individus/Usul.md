@@ -4,7 +4,7 @@ domaine: [politique-intérieure, géopolitique]
 thèmes: [guerre-des-gauches, médias-propagande, Ukraine]
 aliases: [Usule]
 date created: Wednesday, April 1st 2026, 5:57:36 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/guerre-des-gauches #thème/médias-propagande #thème/Ukraine
@@ -19,17 +19,17 @@ La PaduTeam a un rapport ambivalent avec Usul. Ils reconnaissent qu'il a voté [
 
 Cependant, la PaduTeam lui reproche des positions antérieures problématiques, notamment sur la guerre en Ukraine où il a défendu une position belliciste (refaire le lien entre la nation et l'armée), et des épisodes où [[Backseat]] a déroulé le tapis rouge à des sionistes du [[Parti Socialiste]].
 
-Chris note aussi qu'Usul, face à l'affirmation fausse de [[Lumir Lapray]] sur le vote PS des ruraux, ne la contredit pas assez fermement — il accepte le constat et se demande "du coup on fait quoi avec le racisme ?" au lieu de dire simplement "c'est faux".
+La PaduTeam note aussi qu'Usul, face à l'affirmation fausse de [[Lumir Lapray]] sur le vote PS des ruraux, ne la contredit pas assez fermement — il accepte le constat et se demande "du coup on fait quoi avec le racisme ?" au lieu de dire simplement "c'est faux".
 
 ## Relations
 - Chroniqueur [[Backseat]]
-- Génération proche de [[Padu]]
+- Génération proche de la PaduTeam
 - A formé politiquement une partie de la gauche internet (mais pas les membres de la PaduTeam)
 
 ## Rôle dans la trajectoire de Padu (2014)
 En 2014, Usul sort un épisode de sa série "Mes chers contemporains" sur [[Etienne Chouard]], dans lequel il le défend contre les accusations de fascosphère. Puis, après discussion nocturne avec des antifas, il se rétracte et ajoute un avertissement dans la vidéo sur les liens de Chouard avec la fachosphère.
 
-Padu adolescent interprète ce "faopa d'Usul" comme la preuve que "la gauche censure le débat." Chris : "c'est la goutte d'eau qui lui a fait se dire que la solution ne se trouvait pas à gauche mais dans le ni droite ni gauche." Cet épisode est cité comme l'un des déclencheurs du basculement de Padu vers les milieux "dissident" soraliens.
+La PaduTeam interprète ce "faopa d'Usul" comme la preuve que "la gauche censure le débat" : "c'est la goutte d'eau qui lui a fait se dire que la solution ne se trouvait pas à gauche mais dans le ni droite ni gauche." Cet épisode est cité comme l'un des déclencheurs du basculement de Padu vers les milieux "dissident" soraliens.
 
 ## La rupture sur le bellicisme (fin 2025 – début 2026)
 
@@ -46,18 +46,34 @@ Le verdict PaduTeam : Usul est devenu **"le Jadot de 2022 sur la question milita
 "On a perdu Usul." La formule est sèche. Il ne s'agit pas d'un désaccord tactique sur un point de programme — c'est une rupture de camp.
 
 ### La trajectoire trotskiste vers l'impérialisme libéral
-Chris analyse la trajectoire comme structurellement trotskiste : depuis l'abstraction théorique ("l'armée doit appartenir à la gauche", "il faut reprendre le thème de la nation"), Usul finit par servir objectivement la logique de l'OTAN. C'est le même mécanisme que le ni-nisme vénézuélien appliqué à la guerre en Europe : depuis un espace d'indépendance doctrinale, on arrive à la même position que l'impérialisme dominant.
+La PaduTeam théorise explicitement le chemin : **communiste révolutionnaire internationaliste → révolutionnaire progressiste internationaliste → progressiste défensif internationaliste → impérialiste sous couvert de progressisme**. À chaque étape, on abandonne un pilier (le communisme, la révolution) mais on garde l'internationalisme. Or, quand on a renoncé au communisme et à la révolution mais qu'on reste "internationaliste" soumis à l'ordre occidental, on est forcément impérialiste. [[Edwy Plenel]] est le modèle type — l'internationalisme sans transformation sociale interne devient défense de la "démocratie" contre les "autres civilisations."
+
+**La dégénérescence trotskiste diffère de la dégénérescence marxiste-léniniste** : le trotskisme abandonne l'internationalisme en dernier et dégénère vers l'impérialisme libéral (atlantisme) ; le marxisme-léniniste abandonne l'internationalisme en premier et dégénère vers le nationalisme autoritaire (campisme pro-Russie ou autoritarisme étatique). Cette différence est structurée par les bases sociales respectives : le trotskisme touche les classes intermédiaires et intellectuelles d'Occident ; le marxisme-léninisme a touché des classes très prolétarisées dans les pays colonisés.
 
 Le trotskisme de la deuxième génération internet (Usul, une partie du NPA) est particulièrement vulnérable à cette dérive : il a intégré le féminisme, l'antiracisme, les luttes LGBTQ — mais il est fragile sur la question nationale et militaire, où l'abstraction doctrinale le rend imperméable à l'analyse matérialiste des intérêts de classe.
+
+**La contradiction interne** : Usul se bat contre la fascisation, les violences contre les femmes, le racisme. Et il applaudit le réarmement. Or l'armée est le secteur le plus raciste, le plus sexiste, le plus violent. Et elle fabrique de la masculinité hégémonique violente — les premières victimes étant les soldats eux-mêmes et leurs proches. C'est "ne pas avoir de colonne."
 
 ### La contamination par les milieux de Backseat
 [[Backseat]] est le milieu où circule Usul. La PaduTeam observe que c'est un espace où la gauche atlantiste (pro-Ukraine, service militaire, défense européenne) est hégémonique. La pression de ce milieu — les journalistes de gauche, les intellectuels médiatiques, les chroniqueurs de presse — a "contaminé" Usul sans qu'il s'en aperçoive. La pression sociale des pairs vaut parfois plus que la rigueur théorique.
 
 La PaduTeam appelle les militants FI plus jeunes, attirés par Usul sur des questions féministes et antiracistes, à **résister à cette contamination** : on peut apprécier son travail sur d'autres sujets sans suivre sa ligne belliciste.
 
+## Le débat Luma sur l'humour de droite (octobre 2025)
+
+Avant la rupture consommée sur le bellicisme, la PaduTeam avait déjà documenté une divergence de méthode avec Usul : lors d'un débat à Luma sur "l'humour comme arme politique", Usul met publiquement au pied du mur Pierre-Antoine Valade, journaliste animateur du panel, pour avoir regardé des vidéos de [[Papacito]] sans manifester de dégoût viscéral. Usul dit explicitement que "sa décontraction est suspecte." [[Cly Marx]] adopte une position similaire mais avec une intensité moindre.
+
+La PaduTeam contextualise la réaction d'Usul : Papacito l'a directement visé (mannequin poignardé à son effigie), ce qui rend sa réaction viscérale compréhensible. Mais en la transposant en norme universelle pour la gauche, Usul bascule dans "l'onanisme intellectuel" — il ne dit rien, ne fait rien, ne transforme rien. Il reste dans le registre affectif sans entrer dans la signification politique[^usul_luma].
+
+Cette posture est comparée à l'antifascisme de lycée : aller à la manif le 21 avril 2002 pour se mettre une médaille sans avoir rien à faire de l'élection dix jours avant. "Mode de lutte antifasciste du lycée." La PaduTeam lui oppose l'analyse matérialiste d'[[Alexandre Jafari]] sur les 7 ressorts du [[Humour de droite comme pipeline]].
+
+[^usul_luma]: [16:30](https://www.youtube.com/watch?v=3i1WdOAscvg&t=990) — "C'est du pur affect. Ça ne dit rien, ça ne fait rien, ça ne transforme rien. C'est juste ça se fait plaisir à lui-même."
+
 ## Sources
+- [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — débat Luma, posture morale contre Pierre-Antoine, rejet par la PaduTeam de l'antifascisme affectif
+- [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]] — Usul attaqué par [[Marc-Antoine Jamet]] (maire PS de Val-de-Reuil + secrétaire général LVMH) pour ses anciennes vidéos de jeux vidéo et une fuite d'une vidéo intime consentie. La PaduTeam prend la défense d'Usul et démonte le profil de Jamet comme incarnation de la dégénérescence PS.
 - [[MENSONGES PRO-PS CHEZ BACKSEAT LES PROLOS BLANCS VOTENT PS]]
 - [[FRANCE INTER et LE POINT reprennent MON CONCEPT]]
-- [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — son rôle dans la trajectoire confusionniste de Padu ado via l'épisode Chouard 2014 — Contacté par [[Le Point]] pour commenter la [[Moisation|moïsation]]. Sa réaction par MP à Padu : "J'ai été contacté par Le Point pour parler de Moïsation. C'était pas dans mon bingo 2025." La PaduTeam note l'improbabilité comique de la situation — Usul et Padu ne se parlent pas régulièrement, et le Point les contacte tous les deux sur le même sujet.
+- [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — son rôle dans la trajectoire confusionniste de Padu ado via l'épisode Chouard 2014 — Contacté par [[Le Point]] pour commenter la [[Moisation|moïsation]]. Sa réaction par MP : "J'ai été contacté par Le Point pour parler de Moïsation. C'était pas dans mon bingo 2025." La PaduTeam note l'improbabilité comique de la situation — ils ne se parlent pas régulièrement, et le Point les contacte tous les deux sur le même sujet.
 - [[USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE]] — Première réaction au soutien au service militaire : capsule "drôle", analyse de la trajectoire trotskiste
 - [[USUL CETTE GAUCHE QUI VEUT NOUS EMMENER A LA GUERRE]] — Deuxième réaction après réitération sur Backseat : "on a perdu Usul", comparaison Jadot 2022, rupture consommée

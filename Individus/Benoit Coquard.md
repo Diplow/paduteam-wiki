@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [ruralité]
 aliases: [Benoît Coquard, Benoît Cocard, Benoît Cocar, Coquard]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/ruralité
 # Benoît Coquard
@@ -23,3 +23,4 @@ La PaduTeam note que son bouquin est très centré sur les hommes et recommande 
 
 ## Vidéos où Cocard est cité
 - [[BACKSEAT vs PADUTEAM COMMENT EMPECHER LE RN EN RURALITE]] — Ses enquêtés illustrent la concurrence structurelle pour l'emploi qui rend impossible la solidarité de classe. Sa conclusion ("quand il n'y a pas de boulot pour tout le monde, vous ne pouvez pas être ami avec tout le monde") synthétise le mécanisme du [[Pacte raciste]].
+- [[MELENCHON DRAGUE LES PETITS PATRONS]] — cité pour montrer que le tissu TPE-PME est un très gros employeur dans les zones rurales du nord-est qu'il étudie, et que ces zones votent fortement à droite/RN ; justifie l'intérêt de LFI pour ces territoires tout en posant la question de la méthode (salariat vs patronat).

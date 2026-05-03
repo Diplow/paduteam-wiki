@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [Vygotski, Vigotski]
 date created: Wednesday, April 1st 2026, 9:31:46 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -33,6 +33,11 @@ Lucien Sève et Françoise Sève (sa femme) accompagnent la publication et la tr
 - [[Henri Wallon]] — convergences sur le développement social de l'enfant
 - [[Georges Politzer]] — parallèle français de la psychologie marxiste
 
+## Vygotski contre Lordon : le standard empirique
+
+Dans la réaction à l'interview de Lordon/Lucbert, la PaduTeam le mobilise directement pour challenger Lordon : "je veux une vidéo ou un livre de Lordon [qui explique] pourquoi Vygotski s'est trompé [...] pourquoi le mot n'est pas une parcelle de société humaine mais est intrinsèque au désir de l'individu jouissant." Sa relecture critique de Piaget est rappelée : là où Piaget voit un enfant égocentré qui s'ouvre progressivement au social, Vygotski dit que l'enfant part d'une indistinction avec le social et construit au fur et à mesure son individualité — "une pensée beaucoup plus proche du marxisme". *Pensée et langage*, réédité par [[Marina Simonin|Marina Simonin/Nagar]] aux [[Editions Sociales]], est recommandé aux spectateurs.
+
 ## Vidéos où Vygotski est mentionné
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
+- [[FREDERIC LORDON NOUS CLASHE ces MARXISTES STALINIENS qui REJETTENT la PSYCHANALYSE]] — mobilisé comme standard empirique contre la spéculation spinoziste de Lordon ; sa relecture de Piaget explicitée ; *Pensée et langage* recommandé
 - [[LUCIEN SEVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE]]

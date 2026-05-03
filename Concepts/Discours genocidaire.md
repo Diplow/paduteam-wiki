@@ -4,6 +4,8 @@ domaine: [géopolitique, théorie]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [discours génocidaire, rhétorique génocidaire, normalisation du génocide]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 11:52:40 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/théorie #thème/Palestine #thème/anti-impérialisme
 
@@ -31,6 +33,11 @@ La PaduTeam applique ce schéma Chapoutot directement à la sioniste de l'avion 
 - La bourgeoise sioniste du 7e arrondissement (dans l'avion Tel Aviv-Paris) : "J'ai zéro compassion pour les Palestiniens. Vous armez vos enfants à 3-4-5 ans et les lobotomisez pour que ce soit les futurs terroristes de demain." — [[Cette BOURGEOISE SIONISTE AGRESSE RIMA HASSAN]]
 - Ministres israéliens : Yoav Gallant parle d'"animaux humains" (cité dans [[Palestine libre]]). Isaac Herzog : "les civils [palestiniens] aussi responsables."
 - Le refus du "discours génocidaire" en miroir : la PaduTeam refuse explicitement de qualifier les Palestiniens/Hamas de "nazis" — la logique de domination est du côté du dominant, pas du dominé.
+
+## La preuve par les lettres de soldats
+[[Johann Chapoutot]] développe dans sa conférence un élément glaçant : les membres des *Einsatzgruppen* (unités mobiles d'extermination nazie opérant en Europe de l'Est — Pays Baltes, Ukraine) écrivaient des lettres à leurs femmes expliquant *pourquoi* ils tuaient des enfants au bord de fosses. Ces hommes n'étaient pas des "brutes incultes" — c'était souvent l'aristocratie universitaire, des juristes, des doctorants. Leur discours : "aujourd'hui j'ai buté des gosses, c'est pas très agréable, mais c'est nécessaire parce que je pense à ma petite fille que j'aime du plus fort de tout mon cœur, et je tue ce gosse pour qu'il ne vienne pas tuer ma gosse plus tard." La PaduTeam : "C'est vraiment le discours exactement le même."
+
+L'anticommunisme/antislavisme fonctionnait sur la même structure : "c'est eux ou nous", "les bolcheviques nous menacent", "les Slaves ne sont pas vraiment des blancs" — le même glissement biologisant, la même vision de vermine à éradiquer. Les nazis qui oeuvrirent le plus dans la violence directe en Europe de l'Est étaient souvent des collaborateurs locaux (Ukrainiens, Lituaniens, Baltes) que les nazis allemands jugeaient parfois "un peu trop zélés" dans leur manière d'exterminer — ce qui dit tout sur les gradations internes à la logique génocidaire.
 
 ## Relation avec la [[Double mesure]]
 Le discours génocidaire tenu publiquement par des pro-israéliens en France ne fait jamais l'objet de procédures judiciaires. En regard, la description factuelle du génocide en cours par des militants pro-palestiniens est poursuivie comme "apologie du terrorisme". Cette asymétrie est la double mesure appliquée au niveau du discours.

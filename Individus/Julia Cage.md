@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Julia Cagé, Cagé, Kagé, Kaget, Kager]
 date created: Wednesday, April 1st 2026, 5:56:21 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -41,3 +41,4 @@ La PaduTeam y voit un vote de classe de petit-bourgeois universitaire : une assu
 
 ## Vidéos où Cagé est analysée
 - [[CAGE et PIKETTY PREFERENT RUFFIN a MELENCHON|CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!]] — Analyse complète et démontage de sa grille de lecture, confusion problème/solution, track record 2017
+- [[LA STRATEGIE RUFFIN UN AUTRE GLUCKSMAN EST POSSIBLE]] — ses données cartographiques (avec Piketty, *Une histoire du conflit politique*) utilisées pour démonter la fable géographique de Ruffin : taux d'ouvriers-employés par commune dans la 1ère circonscription de la Somme révèle que Ruffin est fort dans les zones urbaines, faible dans les zones périphériques rurales qu'il prétend incarner

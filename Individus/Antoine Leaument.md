@@ -4,7 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [guerre-des-gauches, racisme-antiracisme, santé]
 aliases: [Antoine Léaument]
 date created: Sunday, April 12th 2026, 5:38:31 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-14
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/racisme-antiracisme #thème/santé
@@ -34,3 +34,5 @@ Antoine Léaument est l'un des rares parlementaires à porter publiquement la cr
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — mentionné dans la discussion sur l'assimilation et le nationalisme de gauche
 - [[LEAUMENT EN SUEUR CONTRE LA CORPO MEDICALE]] — face à un médecin de droite (FMF) sur le financement de la Sécu
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — son tweet sur la légalisation du cannabis est le déclencheur du bad buzz du [[MJCF]] (Lena R lui répond que "les addictions aux stupéfiants ne seront jamais une émancipation") ; la PaduTeam prend sa défense
+- [[SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI]] — mentionné comme celui qui "a regardé la vidéo où nous le coachons pour faire face aux médecins de droite" et a "laissé un petit commentaire épinglé" ; c'est lui qui a tweeté la bourde de France Info sur le sondage, déclenchant la demande de rectification

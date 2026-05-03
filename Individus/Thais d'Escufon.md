@@ -2,9 +2,9 @@
 type: individu
 domaine: [société, politique-intérieure]
 thèmes: [féminisme, racisme-antiracisme]
-aliases: [Thais d'Escufon, Thaïs Descufon, Thaïs d'Escufon]
+aliases: [Thais d'Escufon, Thaïs Descufon, Thaïs d'Escufon, Thais d Escufon]
 date created: Wednesday, April 1st 2026, 9:44:12 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 
@@ -53,7 +53,7 @@ Le site "Conquête de Valeur" est analysé comme un tunnel de vente exploitant l
 3. Elle propose sa solution payante comme seule issue
 4. Elle ignore systématiquement les vraies causes : instabilité économique, logement, précarité, santé mentale
 
-Padu : "Quand tu as une maison et un CDI, la natalité remonte en flèche." vs. Thaïs : "Le féminisme a cassé les rapports hommes-femmes."
+La PaduTeam : "Quand tu as une maison et un CDI, la natalité remonte en flèche." vs. Thaïs : "Le féminisme a cassé les rapports hommes-femmes."
 
 Sa finalité nataliste est formulée explicitement : "la grande réconciliation des hommes et des femmes de mon peuple pour qu'ils puissent construire des familles solides" — natalisme à coloration raciale.
 
@@ -72,15 +72,15 @@ Extrême droite identitaire, en dehors du salariat généralisé.
 
 Pendant le procès Mazan, Thaïs d'Escufon a posté un texte affirmant que "le concept de viol conjugal" avait été "travestit par certaines femmes fourbes pour ne plus avoir à entretenir une intimité avec leur mari", et que "personne n'est dupe de vos petits jeux malsains".
 
-Selon Zoé, ce texte illustre quelque chose que l'extrême droite fait mieux que la droite "respectable" : *assumer* ce que le patriarcat sous-entend normalement. Thaïs d'Escufon dit explicitement que la femme doit au mari une "intimité", que refuser des rapports sexuels c'est jouer un "petit jeu malsain". Ce faisant, elle expose le fond idéologique de la [[Culture du viol]] — la contrainte sexuelle dans le couple comme norme.
+Selon la PaduTeam, ce texte illustre quelque chose que l'extrême droite fait mieux que la droite "respectable" : *assumer* ce que le patriarcat sous-entend normalement. Thaïs d'Escufon dit explicitement que la femme doit au mari une "intimité", que refuser des rapports sexuels c'est jouer un "petit jeu malsain". Ce faisant, elle expose le fond idéologique de la [[Culture du viol]] — la contrainte sexuelle dans le couple comme norme.
 
-Zoé : "Tu normalises la contrainte sexuelle. Tu traites de femmes fourbes les femmes qui refusent des relations non consenties. Tout ça pour extorquer de l'argent à des types perdus sur internet en stimulant leur misogynie. Tu te rends compte de la gravité de ce que tu dis ? Les gens qui tiennent ces discours ont du sang sur les mains."
+La PaduTeam : "Tu normalises la contrainte sexuelle. Tu traites de femmes fourbes les femmes qui refusent des relations non consenties. Tout ça pour extorquer de l'argent à des types perdus sur internet en stimulant leur misogynie. Tu te rends compte de la gravité de ce que tu dis ? Les gens qui tiennent ces discours ont du sang sur les mains."
 
 ## Positions sur les VSS
 
-Selon Zoé dans la vidéo sur les VSS, Thaïs d'Escufon tient des discours de légitimation du viol conjugal ("une invention de femmes perfides") et affirme que 90% des accusatrices de viol mentent. Zoé : cet argument est faux statistiquement et participe directement au système du silence — moins de victimes portent plainte, moins d'agresseurs sont condamnés.
+Selon la PaduTeam, Thaïs d'Escufon tient des discours de légitimation du viol conjugal ("une invention de femmes perfides") et affirme que 90% des accusatrices de viol mentent. Cet argument est faux statistiquement et participe directement au système du silence — moins de victimes portent plainte, moins d'agresseurs sont condamnés.
 
-Son activité commerciale : vente de PDF et de formations à des hommes incels/mascus pour "trouver une femme". Zoé a payé un abonnement d'un mois (via un abonné) et y a trouvé "strictement rien — des vieux sites faits avec ChatGPT et un forum avec 99% de robots et des incels qui l'appellent 'Reine Taïs'".
+Son activité commerciale : vente de PDF et de formations à des hommes incels/mascus pour "trouver une femme". La PaduTeam a payé un abonnement d'un mois et y a trouvé "strictement rien — des vieux sites faits avec ChatGPT et un forum avec 99% de robots et des incels qui l'appellent 'Reine Taïs'".
 
 ## Vidéos où Thaïs d'Escufon est analysée
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]] — miniatures polémiques ; distinction caricature politique / attaque sexiste
@@ -91,3 +91,5 @@ Son activité commerciale : vente de PDF et de formations à des hommes incels/m
 - [[THAIS D ESCUFON AIDE LES INCELS A TROUVER UNE MEUF POUR 19 90 EUROS PAR MOIS]] — "Conquête de Valeur" ; tunnel de vente incel ; démontage analytique ; Julien Rochedy
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]] — Dr Zoé détruit son positionnement sur les VSS
 - [[NEMESIS ET LEURS AMIS NAZ1 S INCRUSTENT DANS NOS MANIFS]]
+- [[CETTE DROITARDE TENTE DE NOUS CLASHER CA TOURNE MAL]] — comparée à Némésis : jugée "pire" car normalise le viol conjugal explicitement, là où Némésis ne le fait pas
+- [[THAIS ET VALEK APPRENNENT A BAISER]] — podcast avec Valek décortiqué par Padu et Dr Zoé ; évopsychologie comme naturalisation ; le "mur" comme biologisation d'un rapport de domination marchande ; contradiction réac-libertarien

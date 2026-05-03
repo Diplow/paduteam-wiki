@@ -7,7 +7,7 @@ date: 2026-01-30
 youtube_id: MU-Z4Jt1o2A
 skill_version: ingest-batch-2026-04-13
 date created: Tuesday, April 14th 2026, 12:00:31 am
-date modified: Tuesday, April 14th 2026, 12:01:04 am
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran #thème/médias-propagande #enjeu/anti-impérialisme #enjeu/campisme-assumé
 

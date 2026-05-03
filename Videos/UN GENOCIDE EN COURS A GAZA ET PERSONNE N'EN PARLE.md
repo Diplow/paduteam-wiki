@@ -1,12 +1,13 @@
 ---
 type: vidéo
+date: 2024-03-01
+youtube_id: xvFF163UFn4
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme]
-date: 2024-05-XX
-youtube_id: "xvFF163UFn4"
+conjonctures: [Genocide a Gaza]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme #enjeu/Palestine-libre #enjeu/anti-impérialisme

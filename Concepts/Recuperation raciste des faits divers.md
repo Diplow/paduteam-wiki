@@ -3,8 +3,8 @@ type: concept
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande, racisme-antiracisme, féminisme]
 aliases: [Récupération raciste des faits divers, instrumentalisation raciste des victimes]
-date created: Sunday, April 13th 2026
-date modified: Sunday, April 13th 2026
+date created: Tuesday, January 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/médias-propagande #thème/racisme-antiracisme #thème/féminisme
 
@@ -40,9 +40,25 @@ La PaduTeam assume de faire de la politique à partir des faits divers — mais 
 - Femme tuée par son conjoint = fait systémique (violence masculine, patriarcat)
 - Louise : pas assez d'informations au moment de la vidéo pour conclure quoi que ce soit
 
-"Pas de faits divers, que des faits politiques" — mais les faits politiques doivent partir des mécanismes réels, pas du profil ethnic du suspect.
+"Pas de faits divers, que des faits politiques" — mais les faits politiques doivent partir des mécanismes réels, pas du profil ethnique du suspect.
+
+La question posée par les rares cas de meurtres publics par des inconnus récidivistes est une question de politique pénale (voir [[Escalade de la violence des predateurs publics]]), pas d'immigration.
+
+## Cas limite : l'attentat de Magdebourg (décembre 2024)
+
+Ce cas pousse le mécanisme à son paroxysme et en révèle les contradictions internes. L'attentat du marché de Noël de Magdebourg a été immédiatement récupéré par [[Alice Cordier]], [[Jordan Bardella]], [[Marine Le Pen]], [[Eric Zemmour]] et [[Vincent Lapierre]] comme argument anti-immigration et anti-islam.
+
+Or l'auteur (Taleb al-Abdulmohsen) est un apostat saoudien réfugié en Allemagne depuis 2006, reconnu réfugié en 2016 pour persécutions liées à son apostasie, militant antimusulman affilié à l'[[Alternative fur Deutschland|AFD]] et soutien d'Elon Musk. Il partage exactement le logiciel idéologique de ses récupérateurs. Il correspond même directement avec [[Jean Messia]] sur Twitter, partageant les mêmes convictions sur l'islamisation de l'Europe par la gauche.
+
+Le mécanisme de sélection par le profil du suspect s'effondre ici complètement — l'auteur est précisément la figure que l'extrême droite défend (apostat, antimusulman, pro-Occident). La récupération survient quand même, en ignorant délibérément le profil réel. La PaduTeam nomme ce cas une "complicité idéologique" — pas juridique, mais réelle : ceux qui ont nourri la conviction que "la paix ne sert à rien" et que l'État islamise l'Europe ont alimenté la radicalisation de l'auteur.
+
+## Variante : récupération d'un mort d'extrême droite contre la gauche
+
+L'affaire Quentin Deranque (2026) illustre une variante du mécanisme : [[Collectif Nemesis|Némésis]] récupère non plus une victime "de la violence immigrée" mais un de ses propres militants morts lors d'une rixe qu'elle a elle-même provoquée, pour accuser la gauche de rupture ([[France Insoumise]], [[La Jeune Garde]]). La logique est identique : nommer des responsables avant les faits établis, circuler dans les médias, construire un portrait victimaire. Différence : cette fois la victime est un militant néonazi, et même l'[[Action Francaise]] reconnaît que c'est Némésis qui l'a mis en danger.
 
 ## Vidéos où le concept est développé
 
 - [[MEURTRE DE LOUISE EXTREME DROITE HARCELEMENT]] — analyse principale : harcèlement de la sœur, sélection par profil du suspect, statistiques homicides
 - [[FDESOUCHE PADU DR ZOE COMPLICES PEDOCRIMINELS]] — FdeSouche utilise l'affaire Cotino pour attaquer la PaduTeam sans s'intéresser aux vraies solutions
+- [[70 VICTIMES ATTENTAT EXTREME-DROITE MAGDEBOURG FAUTE IMMIGRATION]] — cas limite : récupération d'un attentat d'extrême droite islamophobe en argument anti-immigration, alors que l'auteur partage le logiciel idéologique de ses récupérateurs
+- [[QUI A VRAIMENT TUE QUENTIN DERANQUE]] — variante : récupération d'un militant néonazi mort en rixe pour accuser LFI ; le portrait victimaire est démontage par les affiliations réelles de Quentin

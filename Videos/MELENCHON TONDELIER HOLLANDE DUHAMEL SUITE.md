@@ -4,19 +4,20 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]
 date: 2026-02-07
+youtube_id: G7buQImilu0
 date created: Wednesday, April 1st 2026, 7:26:15 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/plus-jamais-PS #enjeu/union-populaire
 
 # MÉLENCHON, TONDELIER, HOLLANDE, ON CONTINUE L'ANALYSE CLAQUÉE DE DUHAMEL !!
 
 ## Résumé
-Compilation de plusieurs segments : analyse du concept de "Karen" appliqué à Tondelier (avec Zoé), décorticage du Festival de la Noisette de Bram organisé par Carole Delga, analyse de Tondelier catastrophique sur le capitalisme à l'Humanité (avec présentation du Graphique), continuation de la lecture du livre d'Alain Duhamel via Paris Match (Hollande, Larcher), et analyse de Sandrine Rousseau empêchée à la primaire des noisettes.
+Compilation de plusieurs segments : analyse du concept de "Karen" appliqué à Tondelier, décorticage du Festival de la Noisette de Bram organisé par Carole Delga, analyse de Tondelier catastrophique sur le capitalisme à l'Humanité (avec présentation du Graphique), continuation de la lecture du livre d'Alain Duhamel via Paris Match (Hollande, Larcher), et analyse de Sandrine Rousseau empêchée à la primaire des noisettes.
 
 ## Thèses et analyses clés
 
-1. **Karen n'est pas misogyne** — Zoé : appeler Tondelier "Karen" n'est pas misogyne car Karen désigne une femme de classe bourgeoise blanche qui utilise son privilège racial comme outil de domination. Le féminisme matérialiste reconnaît que les femmes peuvent être des ennemies de classe. Voir [[Condescendance de classe]].
+1. **Karen n'est pas misogyne** — La PaduTeam : appeler Tondelier "Karen" n'est pas misogyne car Karen désigne une femme de classe bourgeoise blanche qui utilise son privilège racial comme outil de domination. Le féminisme matérialiste reconnaît que les femmes peuvent être des ennemies de classe. Voir [[Condescendance de classe]].
 
 2. **Festival de la Noisette de Bram** — Carole Delga organise un rassemblement de la gauche réformiste (Tondelier, Glucksmann, Hollande, Olivier Fort, PCF) à Bram (Aude). Pour la PaduTeam c'est le lancement officieux de la primaire des noisettes. Boris Vallaud présent mais discret — "l'élu de la prophétie" joue la carte de l'arbitre.
 

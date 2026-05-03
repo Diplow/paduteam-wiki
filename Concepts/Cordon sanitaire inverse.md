@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [cordon sanitaire inversé]
 date created: Thursday, April 2nd 2026, 12:31:04 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -32,3 +32,4 @@ Une variante différente apparaît avec [[Laurent Wauquiez]] : il déclare voulo
 ## Vidéos où le concept est développé
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Première formulation explicite par Bergé sur BFM TV
 - [[BOMPARD DETRUIT WAUQUIEZ sur BFMTV]] — Wauquiez se contredit en faisant un demi-cordon sanitaire ; Mélenchon montre que le cordon lui est favorable
+- [[EDWY PLENEL EN OPERATION CIA CONTRE MELENCHON]] — Cordon transpartisan (Mediapart → Printemps républicain → extrême droite → gauche de témoignage) : Tondelier, Castet, Roussel, et Bardella du même côté. "Là il y a plus de droite gauche [...] il y a tout le monde."

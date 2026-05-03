@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [anti-impérialisme, élections]
 aliases: [Orban, Viktor Orban, Viktor Orbán]
 date created: Thursday, April 2nd 2026, 3:19:14 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/élections
 
@@ -28,3 +28,4 @@ La PaduTeam voit en lui l'un des repères de comparaison pour les années 1920 :
 
 ## Vidéos où Orbán est analysé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
+- [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — la Hongrie comme destination fantasmée des droitards masculinistes français ; Orbán y a mis le féminisme "au ban" et construit un régime où les relations de genre "sont plus simples" selon les droitards

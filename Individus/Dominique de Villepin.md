@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections]
 aliases: [Villepin]
 date created: Wednesday, April 1st 2026, 1:14:12 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique
 # Dominique de Villepin
@@ -35,10 +35,20 @@ Le [[Graphique]] prédit que Villepin se positionnerait dans l'espace de [[Rapha
 Seul intérêt : polariser à gauche des gens tentés par la fascisation, diviser l'espace droit/centre (prendre 2% au candidat macroniste), et forcer le débat médiatique sur la [[Centralite de la question palestinienne|question palestinienne]]. Scénario optimiste : Bardella-Mélenchon au 2e tour, Villepin appelle à voter Mélenchon.
 
 ## Lancement de La France Humaniste (2026)
-Villepin lance son mouvement "[[La France Humaniste]]" en mars 2026 sur [[France Inter]], présenté par [[Benoît Jiménez|le maire de Garges-les-Gonesse]]. Se positionne comme gaulliste "au-dessus des partis", "pas dans une démarche personnelle." La PaduTeam avait prédit ce positionnement et le nom "L'Idée de la France" (plus fidèle à de Gaulle selon Chris). Le vrai gaullisme requiert d'être de Gaulle — Villepin "c'est le gars qui a pas passé le CPE." Pronostic confirmé : 3-4%.
+Villepin lance son mouvement "[[La France Humaniste]]" en mars 2026 sur [[France Inter]], présenté par [[Benoît Jiménez|le maire de Garges-les-Gonesse]]. Se positionne comme gaulliste "au-dessus des partis", "pas dans une démarche personnelle." La PaduTeam avait prédit ce positionnement et le nom "L'Idée de la France" (plus fidèle à de Gaulle). Le vrai gaullisme requiert d'être de Gaulle — Villepin "c'est le gars qui a pas passé le CPE." Pronostic confirmé : 3-4%.
 
 L'adhésion gratuite à la France Humaniste signale l'absence de base militante réelle et un financement forcément extérieur (État ou milliardaires). Soutenu par [[Edwy Plenel]] depuis 2005-2007.
 
+## Responsabilité dans la victoire PS 1997
+
+La PaduTeam rappelle que c'est Villepin qui a soufflé à Chirac l'idée de la dissolution de 1997 — celle qui a provoqué la victoire de Jospin. "Ce grand stratège de Villepin avait proposé à Chirac de faire cette dissolution pour reprendre la main sur l'assemblée." La PaduTeam ironise : ce prétendu grand stratège a offert le pouvoir à ses adversaires. Elle prévient aussi de ne pas se laisser séduire par ses prises de position humanistes sur la Palestine — son bilan en France-Afrique est lourd[^villepin-1997].
+
+[^villepin-1997]: [18:03](https://www.youtube.com/watch?v=VIjS60Badeg&t=1083) — "Chris, on ne parlera pas de ce que Villepin a fait avec la France-Afrique [...] ça concerne des peuples africains avec des gens qui crèvent." — dans [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]].
+
 ## Vidéos
+- [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] — Analyse prédictive complète par le Graphique : pourquoi il finira à 6-7% max, aucun espace idéologique cohérent
 - [[VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!]] — Lancement de La France Humaniste analysé en direct; validation de la prédiction du Graphique
-- [[GRAPHOMARXISME x Positions Revue]] — Analyse
+- [[GRAPHOMARXISME x Positions Revue]] — Analyse (voir [[L'ILLUSION DE VILLEPIN POURQUOI IL NE PEUT PAS GAGNER EN 2027]] pour la fiche complète)
+- [[PARTI SOCIALISTE LEUR PLAN ANTI-MELENCHON ENFIN DEVOILE]] — Responsable de la dissolution Chirac 1997 (il l'a conseillée) ; critique de son bilan France-Afrique ; avertissement contre la séduction de ses positions humanistes
+- [[LECORNU DEJA CENSURE]] — "La première fois comme une tragédie, la deuxième fois comme une farce" : analysé en farce gaulliste dans la crise Lecornu II ; "noisette des noisettes" ; prédit à 3-4%
+- [[VILLEPIN DERAPE SUR ZYED ET BOUNA]] — Décryptage de son communiqué pour le 20e anniversaire de la mort de [[Zyed Benna]] et [[Bouna Traore]] ; amalgame entre [[Coercition de population vs maintien de l ordre|coercition de population]] et maintien de l'ordre ; blanchiment de sa responsabilité comme Premier ministre 2005 ; "confession sans dépositionnement"

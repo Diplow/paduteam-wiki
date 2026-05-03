@@ -4,14 +4,14 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [gauche gueule de bois de Hollande, gauche critique d'elle-même]
 date created: Sunday, April 12th 2026, 5:25:09 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
 # Gauche gueule de bois
 
 ## Définition
-Expression de [[Padu]] pour décrire l'électorat de [[Jean-Luc Melenchon]] en 2017 : une gauche fondamentalement de gauche mais qui n'ose plus se dire "de gauche" après la trahison [[François Hollande|hollandiste]]. "Comme quand tu te dis 'Oh non, plus jamais je picole' parce que tu as trop fait la fête — mais là c'était la gauche qui disait 'plus jamais je parle de gauche parce que là ça a été trop traître.'"
+Expression de la PaduTeam pour décrire l'électorat de [[Jean-Luc Melenchon]] en 2017 : une gauche fondamentalement de gauche mais qui n'ose plus se dire "de gauche" après la trahison [[François Hollande|hollandiste]]. "Comme quand tu te dis 'Oh non, plus jamais je picole' parce que tu as trop fait la fête — mais là c'était la gauche qui disait 'plus jamais je parle de gauche parce que là ça a été trop traître.'"
 
 ## Mécanisme
 En 2012, il y avait un bloc de gauche qui votait Hollande (28%) + Mélenchon (12%) = ~40% de l'électorat. Ce bloc s'est scindé en 2017 entre Macron et Mélenchon. Ce n'est **pas** que des ouvriers ou des populistes "nationaux" ont basculé vers Mélenchon — c'est la même base sociologique de gauche qui s'est redistribuée. Il y avait déjà du Macron dans l'électorat Hollande.

@@ -4,14 +4,14 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [Pointe avancée du nationalisme ethnique, leadership ethnationaliste mondial]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/anti-impérialisme
 # Pointe avancée du nationalisme ethnique
 
 ## Définition
-Formulation de [[Chris]] dans [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] pour désigner la position de [[Benjamin Netanyahu]] dans le paysage mondial des nationalismes ethniques contemporains. Netanyahu n'est pas une anomalie israélienne, il est le **leader mondial de l'ethno-nationalisme** : il incarne, assume et légalise ce que les extrêmes droites européennes, américaines et indiennes rêvent d'appliquer — une hiérarchie juridique des êtres humains sur base ethno-religieuse (loi constitutionnelle israélienne de 2018), un projet colonial explicite, une décomplexion totale du racisme d'État.
+Formulation de la PaduTeam dans [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] pour désigner la position de [[Benjamin Netanyahu]] dans le paysage mondial des nationalismes ethniques contemporains. Netanyahu n'est pas une anomalie israélienne, il est le **leader mondial de l'ethno-nationalisme** : il incarne, assume et légalise ce que les extrêmes droites européennes, américaines et indiennes rêvent d'appliquer — une hiérarchie juridique des êtres humains sur base ethno-religieuse (loi constitutionnelle israélienne de 2018), un projet colonial explicite, une décomplexion totale du racisme d'État.
 
 ## Mécanisme
 Le concept articule trois thèses :
@@ -20,7 +20,7 @@ Le concept articule trois thèses :
 
 2. **Netanyahu comme icône internationale** — de [[Donald Trump]] à Viktor Orbán, de Javier Milei à Giorgia Meloni, de Marine Le Pen à Modi, tous voient en Netanyahu non un pestiféré mais un modèle : celui qui ose. L'alliance Trump-Netanyahu (plan Gaza de janvier 2026) n'est pas un accident, c'est une convergence idéologique. Les extrêmes droites européennes, traditionnellement antisémites, adoptent un « sionisme pragmatique » précisément parce qu'Israël incarne leur rêve : un État ethnique en guerre permanente avec son « ennemi civilisationnel ».
 
-3. **Le combat contre le sionisme comme combat pour l'universalisme** — Chris : « c'est pour ça que c'est pas simplement de l'anticolonialisme et de l'internationalisme, c'est aussi profondément un combat progressiste pour l'unité du genre humain, pour sortir du racialisme, du racisme, du nationalisme ». Défendre la Palestine contre Netanyahu, c'est défendre l'idée d'une humanité non hiérarchisée — ce qui en fait un combat universel, pas « communautaire ».
+3. **Le combat contre le sionisme comme combat pour l'universalisme** — La PaduTeam : « c'est pour ça que c'est pas simplement de l'anticolonialisme et de l'internationalisme, c'est aussi profondément un combat progressiste pour l'unité du genre humain, pour sortir du racialisme, du racisme, du nationalisme ». Défendre la Palestine contre Netanyahu, c'est défendre l'idée d'une humanité non hiérarchisée — ce qui en fait un combat universel, pas « communautaire ».
 
 ## Implications stratégiques
 Le concept invalide deux positions classiques :
@@ -39,6 +39,6 @@ Le concept articule donc la Palestine au combat contre l'extrême droite frança
 - Les discours ministériels israéliens décomplexés (Gallant « animaux humains », Regev « fière des ruines de Gaza ») qui préfigurent ce que les extrêmes droites européennes rêvent de dire publiquement
 
 ## Vidéos où le concept est développé
-- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Formulation par Chris : « Netanyahu à la pointe avancée de tous les ethnationalistes »
+- [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Formulation par la PaduTeam : « Netanyahu à la pointe avancée de tous les ethnationalistes »
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Application à l'interview : Netanyahu comme icône médiatique platformée, pas comme pestiféré
 - [[MACRON HIDALGO RECONNAISSENT LA PALESTINE]] — Analyse de la complicité bourgeoise française, liée à la montée de l'ethno-nationalisme européen

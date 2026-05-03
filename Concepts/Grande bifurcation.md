@@ -4,7 +4,7 @@ domaine: [théorie, économie]
 thèmes: [travail]
 aliases: [grande bifurcation, bifurcation Duménil Lévy]
 date created: Wednesday, April 1st 2026, 7:18:26 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/économie #thème/travail
 # Grande bifurcation
@@ -24,4 +24,4 @@ Duménil et Lévy montrent qu'une autre configuration est possible : l'alliance 
 La PaduTeam traduit cette thèse en stratégie électorale concrète : le programme de [[France Insoumise|LFI]] doit proposer aux cadres déclassés (Nicolas, Caroline, Mohamed) des mesures qui parlent à leur situation — 32 heures, propriété du logement principal, contrôle ouvrier — pour les détacher de l'alliance néolibérale et les rallier au [[Salariat generalise]].
 
 ## Vidéos
-- [[Nicolas qui paye]] — Chris cite explicitement Duménil et Lévy et la possibilité de changer l'alliance de classe des cadres
+- [[Nicolas qui paye]] — La PaduTeam cite explicitement Duménil et Lévy et la possibilité de changer l'alliance de classe des cadres

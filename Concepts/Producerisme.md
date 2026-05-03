@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, médias-propagande]
 aliases: [producerisme, productivisme de droite, logique producteur-parasite]
 date created: Wednesday, April 1st 2026, 11:36:27 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande
 

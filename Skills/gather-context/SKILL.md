@@ -1,25 +1,28 @@
 ---
 name: gather-context
 description: >
-  Rassemble tout ce que le vault sait sur un sujet donné et produit un document de contexte structuré.
-  Utilisé en amont des skills write-* pour leur fournir une vision d'ensemble plutôt qu'un contexte partiel.
-  Déclencher quand une autre skill a besoin de contexte vault, ou quand l'utilisateur demande
+  Rassemble ce que le vault sait déjà sur un sujet et produit une carte de navigation légère :
+  une présentation synthétique + des liens vers les fiches pertinentes. Toujours appelée en amont
+  des skills write-* — les write-* ne doivent jamais tenter de faire ce travail elles-mêmes.
+  Déclencher quand une skill d'écriture va être lancée, ou quand l'utilisateur demande
   "quel contexte on a sur X", "qu'est-ce qu'on sait de X", "rassemble les infos sur X".
 date created: Sunday, April 12th 2026, 6:45:00 pm
-date modified: Sunday, April 12th 2026, 6:45:00 pm
+date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 
 # Skill : Gather Context
 
 ## Vue d'ensemble
 
-Cette skill prend un **sujet** (nom d'enjeu, concept, individu, organisation, thème de vidéo, ou question libre) et produit un **document de contexte structuré** contenant tout ce que le vault sait déjà sur ce sujet.
+Cette skill prend un **sujet** (nom d'enjeu, concept, individu, organisation, thème de vidéo, ou question libre) et produit une **carte de navigation** : un document léger contenant une présentation synthétique du sujet et une liste de fiches liées à ouvrir au besoin.
 
-Le contexte produit est destiné à être consommé par les skills `write-*` (write-enjeu, write-concept, write-entity, write-video). Il peut aussi être utilisé directement pour répondre à une question de l'utilisateur.
+Le document produit est destiné à être consommé par les skills `write-*` (write-enjeu, write-concept, write-entity, write-video). Il peut aussi servir à répondre à une question de l'utilisateur.
 
 ## Principe
 
-Les skills d'écriture ne doivent pas faire de recherche extensive — elles reçoivent le contexte et se concentrent sur la rédaction. C'est cette skill qui fait le travail de recherche.
+`.context-tmp.md` est **une carte, pas un dump**. Il ne recopie pas le contenu des fiches. Il présente le sujet en 1-3 paragraphes et liste les fiches pertinentes. Les skills `write-*` en aval sont explicitement chargées d'ouvrir les fiches wikilinkées dont elles ont besoin pour rédiger — gather-context ne fait pas ce travail à leur place.
+
+Ce choix évite de saturer la fenêtre de contexte des `write-*` avec du contenu qu'elles n'utiliseront peut-être pas, et leur laisse l'initiative d'aller chercher la donnée qu'elles exigent vraiment.
 
 ---
 
@@ -33,7 +36,7 @@ Un sujet, fourni sous l'une de ces formes :
 
 ## Sortie
 
-Un fichier temporaire `Sources/.context-tmp.md` (ignoré par git via `.gitignore`) contenant le contexte structuré. Ce fichier est écrasé à chaque appel.
+Un fichier temporaire `Sources/.context-tmp.md` (ignoré par git via `.gitignore`) contenant la carte de contexte. Ce fichier est écrasé à chaque appel.
 
 ---
 
@@ -43,7 +46,7 @@ Un fichier temporaire `Sources/.context-tmp.md` (ignoré par git via `.gitignore
 
 Chercher dans le vault les fiches dont le sujet est le thème principal :
 
-1. **Fiche exacte** : si le sujet correspond à un fichier existant dans `Enjeux/`, `Concepts/`, `Individus/`, `Organisations/`, le lire en entier
+1. **Fiche exacte** : si le sujet correspond à un fichier existant dans `Enjeux/`, `Concepts/`, `Individus/`, `Organisations/`, la lire en entier
 2. **Fiches vidéo** : chercher dans `Videos/` les fiches qui mentionnent le sujet (grep dans le contenu ou dans les tags thèmes/enjeux du frontmatter)
 3. **MOC et Enjeux liés** : ces deux types de fiches sont les meilleurs relais de contexte — elles agrègent des liens thématiques par nature. Chercher dans `MOC/` et `Enjeux/` les fiches qui touchent au sujet (par wikilinks ou par thème). Les lire en priorité.
 4. **Fiches entités liées (profondeur 1)** : à partir des wikilinks trouvés dans les fiches ci-dessus (y compris MOC et enjeux), identifier les individus, organisations et concepts les plus pertinents (ceux qui reviennent dans 2+ fiches liées au sujet). Les lire.
@@ -51,33 +54,19 @@ Chercher dans le vault les fiches dont le sujet est le thème principal :
 
 **Critère d'arrêt** : ne pas aller au-delà de la profondeur 2. Si une fiche de profondeur 2 ouvre un sujet très différent du sujet initial, ne pas la suivre.
 
-### Étape 1b — Exploration par grep (pistes élargies)
+### Étape 1b — Exploration par grep des fiches
 
 La recherche par fiches et wikilinks ne trouve que ce qui est déjà explicitement lié. Pour découvrir des connexions que le vault n'a pas encore formalisées :
 
-1. **Mots-clés du sujet** : générer 5-10 mots-clés et synonymes liés au sujet (ex: pour "Plus jamais PS" → PS, socialiste, Faure, Hollande, trahison, noisette, social-démocratie, gauche molle...)
-2. **Grep dans toutes les fiches** (`Individus/`, `Organisations/`, `Concepts/`, `Enjeux/`, `Videos/`) pour ces mots-clés
-3. **Grep dans les transcripts** pour les mêmes mots-clés — ne pas lire les transcripts, juste noter lesquels matchent et le nombre de hits (un transcript avec 20 occurrences de "PS" est probablement plus pertinent qu'un avec 1)
-4. **Évaluer les pistes** : parmi les résultats grep, identifier les fiches et transcripts qui n'étaient pas déjà trouvés à l'étape 1. Les lire si ils semblent apporter du contexte nouveau.
+1. **Mots-clés du sujet** : générer 5-10 mots-clés et synonymes liés au sujet (ex: pour "Plus jamais PS" → PS, socialiste, Faure, Hollande, trahison, noisette, social-démocratie, gauche molle…)
+2. **Grep dans les fiches** uniquement — `Individus/`, `Organisations/`, `Concepts/`, `Enjeux/`, `Videos/`. **Ne pas grep les transcripts** : ils ne sont pas lus à cette étape, et leur rôle (source brute) ne les qualifie pas pour construire la carte de contexte.
+3. **Évaluer les pistes** : parmi les résultats grep, identifier les fiches qui n'étaient pas déjà trouvées à l'étape 1. Les lire si elles semblent apporter du contexte nouveau.
 
 Cette étape est particulièrement utile pour :
 - Les sujets transversaux qui touchent beaucoup de fiches sans y être centraux
 - Les connexions non formalisées (un concept utilisé dans une vidéo mais pas encore lié à l'enjeu)
-- Les transcripts non ingérés qui traitent du sujet sans qu'on le sache
 
-### Étape 2 — Scanner les transcripts disponibles
-
-Chercher dans `Sources/Transcripts/` les transcripts qui traitent du sujet :
-
-1. Croiser avec `Sources/Inventaire PaduTeam.md` pour identifier les vidéos pertinentes (par titre)
-2. Si le sujet est un enjeu ou un thème large, grep les transcripts pour des mots-clés associés
-3. **Ne pas lire les transcripts en entier** à cette étape — noter seulement lesquels sont pertinents et si ils ont déjà été ingérés (colonne Fiche de l'inventaire)
-
-Distinguer :
-- **Transcripts déjà ingérés** → la fiche vidéo contient déjà l'essentiel, pas besoin de relire le transcript
-- **Transcripts non encore ingérés** → signaler leur existence comme source potentielle non exploitée
-
-### Étape 3 — Construire le document de contexte
+### Étape 2 — Construire la carte de contexte
 
 Écrire `Sources/.context-tmp.md` avec la structure suivante :
 
@@ -86,40 +75,58 @@ Distinguer :
 
 Généré le {DATE} par gather-context.
 
-## Fiche principale
-{Contenu complet de la fiche principale si elle existe, sinon "Pas de fiche existante"}
+## Présentation
 
-## Fiches vidéo pertinentes
-{Pour chaque vidéo liée, résumé + thèses clés — copier les sections pertinentes}
+{1-3 paragraphes synthétisant, à partir des fiches lues :
+- les faits essentiels du sujet (ce qu'il est, son cadre temporel, les acteurs en jeu)
+- l'analyse PaduTeam (position, combat, grilles de lecture mobilisées)
+Ton PaduTeam, pas encyclopédique. Pas de citation longue — la présentation renvoie aux fiches
+pour les détails.}
 
-## Entités liées (profondeur 1-2)
-{Liste des individus, organisations, concepts connexes avec un résumé 1 ligne de leur rapport au sujet}
-{Indiquer la profondeur : (direct) pour les liens de la fiche principale, (indirect) pour les liens découverts via une fiche liée}
+## Fiches liées
 
-## Pistes grep (connexions non formalisées)
-{Fiches et transcripts découverts par grep qui ne sont pas déjà liés par wikilinks}
-{Pour chaque piste : fichier, nombre de hits, extrait pertinent si utile}
+### Fiche principale
+- [[Nom de la fiche]] — {1 ligne sur son contenu}
 
-## Transcripts non ingérés disponibles
-{Liste des transcripts qui traitent du sujet mais n'ont pas encore de fiche vidéo — source de contexte supplémentaire}
-{Indiquer le nombre de hits grep par transcript pour prioriser}
+### Enjeux
+- [[Enjeu A]] — {rapport au sujet, 1 ligne}
+- [[Enjeu B]] — {…}
 
-## Lacunes identifiées
-{Ce qui manque : fiches orphelines, sujets mentionnés mais pas documentés, contradictions entre fiches, connexions qui devraient exister (wikilinks manquants)}
+### Concepts
+- [[Concept X]] — {rapport, 1 ligne}
+
+### Individus
+- [[Personne Y]] — {rapport, 1 ligne}
+
+### Organisations
+- [[Org Z]] — {rapport, 1 ligne}
+
+### Vidéos
+- [[Vidéo 1]] — {angle sous lequel elle traite le sujet}
+
+## Lacunes
+
+{Optionnel — fiches manquantes qu'on pourrait créer, wikilinks orphelins récurrents,
+contradictions entre fiches existantes qui mériteraient une clarification.}
 ```
 
-### Étape 4 — Rapporter à l'appelant
+Règles de forme :
+- Omettre une sous-section si elle est vide (ex: pas de fiche d'organisation pertinente → pas de section « Organisations »).
+- La fiche principale (si elle existe) apparaît en premier dans « Fiches liées » avec une description 1 ligne ; son contenu n'est **pas** recopié dans la carte.
+- Chaque lien a une courte annotation (1 ligne, ~120 caractères max) expliquant son rapport au sujet — c'est ce qui permet à la skill `write-*` en aval de décider quelles fiches ouvrir en priorité.
+
+### Étape 3 — Rapporter à l'appelant
 
 Résumer en quelques lignes :
-- Volume de contexte trouvé (nombre de fiches, de vidéos, de transcripts)
+- Volume de contexte trouvé (nombre de fiches par catégorie)
 - Les lacunes principales
-- Recommandation : le contexte est-il suffisant pour écrire/enrichir, ou faut-il d'abord ingérer des transcripts supplémentaires ?
+- Recommandation : le contexte est-il suffisant, ou existe-t-il des fiches absentes qui devraient être créées avant de rédiger ?
 
 ---
 
 ## Règles
 
 - **Ne pas modifier le vault.** Cette skill est en lecture seule — elle ne crée ni ne modifie aucune fiche.
-- **Ne pas lire tous les transcripts.** Les transcripts sont longs. Ne les lire que si spécifiquement demandé ou si le contexte des fiches existantes est insuffisant.
-- **Budget de 30K tokens maximum.** Le fichier de contexte ne doit pas dépasser ~30K tokens. Au-delà, les skills write-* se noient dans le bruit. Copier en entier la fiche principale et les MOC/enjeux liés ; résumer les fiches secondaires (vidéos, entités) à leurs passages pertinents. Si le sujet est très transversal et que le budget est atteint, prioriser la profondeur (fiches les plus riches) plutôt que la couverture (toutes les fiches qui matchent).
-- **Signaler les transcripts non ingérés.** C'est une information cruciale : elle permet à l'orchestrateur de décider s'il faut d'abord ingérer ces vidéos avant d'écrire/enrichir une fiche.
+- **Ne pas lire les transcripts.** Les transcripts sont la source brute des fiches vidéo. Leur rôle est en amont (ingestion). Pour le contexte, gather-context se concentre sur les fiches déjà produites.
+- **Carte de navigation, pas dump de contenu.** `.context-tmp.md` ne doit pas dépasser ~3K tokens. Si la carte dépasse, resserrer : privilégier les liens + annotations courtes, couper les présentations trop longues. Le détail vit dans les fiches liées — les skills `write-*` iront les ouvrir.
+- **Annotations informatives.** L'annotation d'un lien répond à « pourquoi cette fiche pour ce sujet ? ». Pas de tautologie (« Fiche concept X → parle de X »), pas de résumé — une indication de rapport.

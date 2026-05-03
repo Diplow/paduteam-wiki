@@ -4,7 +4,7 @@ domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, anti-impérialisme]
 aliases: [Milei]
 date created: Thursday, April 2nd 2026, 1:15:47 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/États-Unis #thème/anti-impérialisme
 
@@ -29,4 +29,6 @@ Bardella navigue entre "trumpisme et mélonisme" sans cohérence. Son programme 
 ## Vidéos où Milei est analysé
 - [[TRUMP N'IRA PAS AU BOUT DE SON MANDAT]]
 - [[BARDELLA S'APLATIT DEVANT TRUMP]] — Miléisme de Bardella démontré comme vassalisation économique
-- [[LOUIS SARKOZY LE + GROS DEBILE DU MOMENT]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)
+- [[LOUIS SARKOZY LE + GROS DEBILE DU MONDE]] — Cité comme référence politique revendiquée par Louis Sarkozy (avec Trump et Musk)
+- [[PAYE TON DROITARD 6 LE GUIZ ET OSEILLETV LES LIBERTARIENS LES PLUS BETES DU MONDE]] — cité comme référence des YouTubeurs libertariens Le Guiz et OseilleTV
+- [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Bardella comparé à Milei pour son programme libertarien (réduction agences, fonctionnaires) ; "faire du miléisme c'est réellement devenir le 51e État des États-Unis" ; Milei se dit anarcocapitaliste en théorie mais est minarchiste dans les faits ("dans le réel il faut une minarchie") ; la PaduTeam signale que la hausse de 40% de la bourse argentine traduit une hausse du taux d'exploitation du prolétariat argentin, pas une création de richesse

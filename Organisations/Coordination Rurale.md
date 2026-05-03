@@ -4,7 +4,7 @@ sous-type: syndicat
 domaine: [politique-intérieure, économie]
 thèmes: [ruralité, racisme-antiracisme, travail]
 date created: Friday, April 3rd 2026, 2:31:34 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/économie #thème/ruralité #thème/racisme-antiracisme #thème/travail
 
@@ -27,3 +27,4 @@ Le syndicat illustre la contradiction apparente — mais en réalité cohérente
 ## Vidéos
 
 - [[AGRICULTEURS = ESCLAVAGISTES MODERNES]] — au cœur de l'analyse
+- [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — mentionnée comme illustration de la cohérence extrême-droite : stigmatiser l'immigration en politique tout en l'exploitant dans les champs ; le double meurtre de Sosignac (inspecteurs du travail tués par un agriculteur proche du syndicat) cité comme cas exemplaire

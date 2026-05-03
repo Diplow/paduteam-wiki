@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: []
 aliases: [non-conscient, inconscient psychanalytique, refoulement]
 date created: Thursday, April 2nd 2026, 12:39:01 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie
 
@@ -21,7 +21,7 @@ La catégorie d'"inconscient" dans la psychanalyse suppose impérativement le **
 2. Un acte de refoulement (décision de ne plus penser quelque chose)
 3. Un retour du refoulé récupérable par la médiation d'un psychanalyste
 
-Pour Padu (psychiatre), c'est absurde sur le plan matériel : les bébés n'ont pas la capacité de prendre conscience de manière "parfaitement claire" d'un traumatisme et de le refouler. Le regret est une émotion complexe que les nourrissons ne peuvent pas avoir. La psychanalyse **projette** une conscience adulte sur des enfants (adultomorphisme).
+Pour la PaduTeam, c'est absurde sur le plan matériel : les bébés n'ont pas la capacité de prendre conscience de manière "parfaitement claire" d'un traumatisme et de le refouler. Le regret est une émotion complexe que les nourrissons ne peuvent pas avoir. La psychanalyse **projette** une conscience adulte sur des enfants (adultomorphisme).
 
 ### Le non-conscient marxiste (mobilisé)
 En marxisme, les structures mentales sont incorporées sans nécessiter de conscience préalable. Un individu qui intègre un sujet collectif adopte *immédiatement* des structures mentales de coopération sans en être "conscient" au sens d'une décision délibérée.

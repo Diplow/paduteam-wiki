@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [élections]
 aliases: [Pétainisme transcendantal, pétainisme transcendantal]
 date created: Thursday, April 2nd 2026, 1:15:06 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/élections #thème/le-Graphique
 
@@ -32,7 +32,7 @@ En période de crise, une partie des classes sociales cherche une figure de reco
 **La 5e République** : la formule initiale de Badiou vise la constitution elle-même — tant qu'elle existe, elle produira mécaniquement des figures providentielles. C'est sa logique interne.
 
 ## Nuance PaduTeam sur Badiou
-Padu dit "j'aime pas trop Badiou" — il lui reconnaît la formule mais ne partage pas l'ensemble du projet philosophique. La formule reste néanmoins opérationnelle pour analyser les phénomènes de recours au chef en politique française.
+La PaduTeam dit "j'aime pas trop Badiou" — elle lui reconnaît la formule mais ne partage pas l'ensemble du projet philosophique. La formule reste néanmoins opérationnelle pour analyser les phénomènes de recours au chef en politique française.
 
 ## Lien avec d'autres concepts
 - [[Tragedie et farce]] — les deux concepts s'articulent : tragédie/farce explique *pourquoi* certains pétainismes ont du sens et d'autres pas

@@ -1,137 +1,120 @@
 ---
 name: write-enjeu
 description: >
-  Rédige ou enrichit une fiche Enjeux/ à partir du contexte produit par gather-context.
-  Contrairement à l'ingestion vidéo par vidéo, cette skill produit des fiches enjeux consolidées
-  avec une vue d'ensemble multi-vidéos : arguments récurrents consolidés (pas empilés),
-  adversaires identifiés, évolution tracée dans le temps.
-  Déclencher quand l'utilisateur demande de créer ou améliorer une fiche enjeu,
-  ou quand ingest-video identifie un enjeu qui nécessite un traitement dédié.
-date created: Sunday, April 12th 2026, 6:45:00 pm
-date modified: Sunday, April 12th 2026, 6:45:00 pm
+  Rédige ou enrichit une fiche `Enjeux/{Nom}.md` (`type: enjeu`) au format **loadout militant** :
+  la fiche n'est pas un essai analytique, c'est un outil de retrieval pour militer (extraire la
+  thèse, désamorcer un cadrage adverse, mobiliser une donnée chiffrée, choisir la bonne vidéo à
+  envoyer). Skill de **rédaction pure** : appelée par `synthesize-couche` (orchestrateur générique
+  WikiPol) qui fournit le contexte, lit les vidéos source, gère git. Cette skill **ne touche ni à
+  git, ni au contexte**. Peut aussi être déclenchée par `ingest-batch` lors de la consolidation
+  finale d'un batch d'ingestion.
+date created: 2026-04-12
+date modified: 2026-05-01
+skill_version: write-enjeu-2026-05-01
 ---
 
-# Skill : Write Enjeu
+# Skill : Write Enjeu (format loadout)
 
 ## Vue d'ensemble
 
-Cette skill rédige ou enrichit une fiche dans `Enjeux/`. Elle se distingue des autres skills d'écriture par son besoin de **vision multi-vidéos** : un enjeu est un combat récurrent qui se construit à travers de nombreuses vidéos. Il ne peut pas être bien documenté à partir d'une seule source.
+Un enjeu est un combat militant récurrent. La fiche est un **loadout** : optimisée pour la mobilisation, pas pour la lecture linéaire. Le militant arrive avec un besoin précis (quelqu'un m'a sorti X, je dois répondre / je veux convaincre Y) et doit pouvoir extraire en quelques secondes la thèse, les munitions et la vidéo à envoyer.
 
-## Prérequis
+Différence avec un essai : on n'écrit pas des paragraphes denses, on écrit des bullets scannables. Différence avec un index : chaque section porte une *valeur d'usage* spécifique (désamorcer un cadrage, fournir un fait, orienter un militant).
 
-Avant d'appeler cette skill, le contexte doit avoir été rassemblé par `gather-context`. Le fichier `Sources/.context-tmp.md` doit exister et contenir le contexte sur l'enjeu à documenter.
+## Contrat
 
-Si le contexte n'existe pas, appeler d'abord `gather-context` avec le nom de l'enjeu.
+Cette skill est appelée par `synthesize-couche` (workflow `synthesize`) ou par `ingest-batch` (consolidation finale). Dans les deux cas, elle reçoit :
+- `target_name` — nom de l'enjeu cible
+- Mode : création ou enrichissement
+- Chemin de `Sources/Paduteam/.context-tmp.md` (à lire intégralement)
+- Liste des chemins de fiches Vidéos lues par l'orchestrateur (à mobiliser comme matière première)
+- Liste des fiches pivots (Concepts/Individus/Organisations) à intégrer en priorité
 
-**Conventions partagées** (nommage, wikilinks, frontmatter, taxonomie, style) : voir `BUILD.md`.
+Cette skill **ne fait que la rédaction**. Elle :
+- Ne lance pas `gather-context` (déjà fait par l'orchestrateur)
+- Ne touche pas à git (branche, commit, merge gérés par l'orchestrateur)
+- Ne lit pas les transcripts (granularité fiche vidéo)
+- Ne modifie pas le batch file
 
----
+## Entrée / Sortie
 
-## Entrée
+- **Entrée** : voir « Contrat » ci-dessus.
+- **Sortie** : fiche **`Sources/Paduteam/Enjeux/{target_name}.md`** créée ou enrichie. Si l'enjeu est massif (anti-impérialisme, palestine-libre…), le décomposer en sous-fiches `Cas/` n'est pas obligatoire mais peut s'envisager après itération.
 
-- **Nom de l'enjeu** : le combat stratégique à documenter
-- **Contexte** : `Sources/.context-tmp.md` (produit par `gather-context`)
-- **Source déclenchante** (optionnel) : le transcript ou la vid��o qui a déclenché la création/enrichissement
-
-## Sortie
-
-Une fiche `Enjeux/{Nom de l'enjeu}.md` créée ou enrichie.
-
----
-
-## Ce qui distingue un enjeu
-
-Un enjeu n'est ni un concept (outil analytique) ni un thème (sujet descriptif). C'est une **thèse politique militante** que la PaduTeam défend avec constance :
-
-- **Prescriptif** : "il faut..." / "plus jamais..." / "nous défendons..."
-- **Récurrent** : revient dans 3+ vidéos avec une position stable
-- **Engagé** : la PaduTeam prend parti, pas juste elle analyse
-
-Si le sujet est descriptif/analytique plutôt que militant, c'est probablement un concept → utiliser `write-concept` à la place.
-
----
-
-## Workflow
-
-### Étape 1 — Lire le contexte et la fiche existante
-
-1. Lire `Sources/.context-tmp.md`
-2. Si une fiche existe déjà dans `Enjeux/`, la lire en entier
-3. Évaluer : création ou enrichissement ?
-
-### Étape 2 — Analyser le contexte multi-vidéos
-
-À partir du contexte rassemblé, identifier :
-
-1. **La position centrale** : quelle est la thèse défendue, en 1-3 phrases ?
-2. **Les arguments récurrents** : quels arguments reviennent dans plusieurs vidéos ? Ne pas les empiler vidéo par vidéo — les consolider par thème ou par type d'argument.
-3. **Les concepts mobilisés** : quels outils analytiques la PaduTeam utilise pour défendre cet enjeu ?
-4. **Les adversaires** : qui défend la position inverse, et pourquoi selon la PaduTeam ?
-5. **L'évolution** : la position a-t-elle changé ? S'est-elle durcie ? Des événements l'ont-ils confirmée ou infirmée ?
-6. **Les vidéos clés** : lesquelles sont les plus importantes pour cet enjeu, et pourquoi ?
-
-### Étape 3 — Rédiger ou enrichir la fiche
-
-#### Création
-
-Utiliser le template :
+## Sections attendues
 
 ```markdown
 ---
 type: enjeu
-domaine: [valeur]
-thèmes: [thème1, thème2]
+domaine: [...]
+thèmes: [...]
 skill_version: write-enjeu-YYYY-MM-DD
 ---
-#domaine/valeur #thème/thème1 #thème/thème2
+#domaine/... #thème/...
 
-# Nom de l'enjeu
+# {Nom de l'enjeu}
 
-## Position PaduTeam
-1-3 phrases : la thèse défendue et pourquoi c'est un combat central.
+## Thèse
+La position en 15-25 mots, mobilisable telle quelle.
 
-## Arguments récurrents
-Arguments consolidés par thème — pas une liste vidéo par vidéo.
-Chaque argument doit être compréhensible sans avoir vu la vidéo source.
+## Dispositifs adverses à désamorcer
+Cadrages que le militant va rencontrer et comment les renvoyer. Une sous-section par dispositif :
 
-## Concepts associés
-[[Concept1]], [[Concept2]] — les outils analytiques mobilisés pour ce combat.
+### « Citation du cadrage adverse »
+Pourquoi c'est un piège, comment le retourner. Wikilink vers la fiche-vidéo qui en montre le démontage si pertinent.
 
-## Adversaires de cette position
-Qui défend la position inverse et pourquoi (selon la PaduTeam).
+## Arguments de fond
+Bullets, pas paragraphes. Chaque bullet = un argument substantiel mobilisable.
 
-## Évolution
-Comment cette position a évolué au fil des vidéos.
-Événements qui l'ont confirmée ou infirmée.
+## Munitions factuelles
+Dates, chiffres, cas précis extractibles sans relire le contexte. Format scannable : *Vote ONU contre Cuba : seuls USA + Israël*. Mettre les chiffres clés en **gras**.
 
-## Vidéos clés
-- [[Titre vidéo 1]] — pourquoi cette vidéo est importante pour cet enjeu
-- [[Titre vidéo 2]] — ...
+## Adversaires
+Qui défend la position inverse, regroupés par type (atlantistes de gauche, ni-nistes, vassaux européens, etc.). Citer les positions précises avec wikilinks.
+
+## Alliés
+Pas obligatoire mais utile : qui porte cette position (individus, organisations, structures militantes).
+
+## Concepts-outils
+Wikilinks vers les concepts/méthodes/possibles mobilisables. Regrouper par fonction (méthode, analyse, technique impériale, cadre théorique…) si la liste est longue.
+
+## Cas d'application (optionnel)
+Si l'enjeu se décline par cas (régions, secteurs), lister chaque cas avec une ligne et un wikilink vers la sous-fiche correspondante. Sinon, omettre cette section.
+
+## Vidéos par usage
+Catégoriser par fonction militante, pas par chronologie :
+
+**Pour se former (doctrinal)**
+- [[Titre]] — pourquoi cette vidéo
+
+**Pour envoyer à un atlantiste de gauche**
+- [[Titre]] — pourquoi
+
+**Pour démonter le dispositif X**
+- [[Titre]] — pourquoi
+
+(Adapter les catégories à l'enjeu.)
+
+## Log d'évolution
+Chronologique mais dense — marquer les bascules doctrinales et les évènements qui ont confirmé ou recadré la position. Wikilinks vers les évènements pertinents.
+
+- **Date / évènement** — ce qui a changé dans la position ou son intensité
 ```
 
-#### Enrichissement
+## Enrichissement (fiche existante)
 
-Quand la fiche existe déjà :
+1. **Ne pas supprimer** sauf si factuellement faux
+2. **Consolider** plutôt qu'empiler — si un nouvel argument recoupe un existant, renforcer l'existant
+3. **Mettre à jour** Munitions factuelles avec les nouveaux chiffres clés
+4. **Ajouter** dans Vidéos par usage avec la catégorie qui convient
+5. **Compléter** le Log d'évolution si l'évènement déplace la position
 
-1. **Ne pas supprimer** de contenu existant sauf si factuellement faux
-2. **Consolider** les arguments : si un nouvel argument recoupe un existant, renforcer l'existant plutôt que d'ajouter une ligne
-3. **Ajouter** les nouvelles vidéos dans "Vidéos clés" avec une ligne d'explication
-4. **Mettre à jour** "Évolution" si de nouveaux événements confirment/infirment la position
-5. **Enrichir** "Adversaires" si de nouveaux adversaires apparaissent
-6. **Mettre à jour** le `statut` si la fiche s'enrichit significativement
+## Anti-patterns
 
-### Étape 4 — Vérification
-
-1. Tous les `[[wikilinks]]` pointent vers des fiches existantes ?
-2. La fiche est compréhensible sans avoir lu les vidéos sources ?
-3. Le ton est celui de la PaduTeam (militant, engagé, pas encyclopédique) ?
-4. Les arguments sont consolidés, pas empilés vidéo par vidéo ?
-
----
-
-## Anti-patterns à éviter
-
-- **L'empilement chronologique** : "Dans la vidéo X, la PaduTeam dit... Dans la vidéo Y, la PaduTeam dit..." → consolider par argument, pas par source.
-- **Le résumé de vid��o** : une fiche enjeu n'est pas une liste de résumés. C'est une synthèse du combat.
-- **L'attribution individuelle** : sauf exception (cf. `BUILD.md` § Attribution), écrire "la PaduTeam" et non "Chris dit" ou "Padu dit".
-- **La neutralisation** : un enjeu est un combat. La fiche doit porter la conviction, pas la nuancer avec des "cependant" ou "on pourrait objecter".
+- **L'essai analytique** : paragraphes longs avec « cependant », « par ailleurs », « en effet ». La fiche est un loadout, pas une dissertation. Privilégier les bullets, les sous-sections courtes, les chiffres en gras.
+- **L'empilement chronologique vidéo par vidéo** : « Dans la vidéo X… Dans la vidéo Y… ». Consolider par argument, pas par source.
+- **L'attribution individuelle** : sauf exception (cf. `BUILD.md` § Attribution), écrire « la PaduTeam ».
+- **La neutralisation** : un enjeu est un combat. La fiche doit porter la conviction, pas la nuancer.
+- **Les vidéos en liste plate** : la section *Vidéos par usage* doit catégoriser par fonction militante, pas lister chronologiquement. Si on ne sait pas comment catégoriser, c'est probablement que la fiche n'a pas encore assez de matière.
+- **Les Munitions sans gras** : les chiffres clés doivent ressortir au scan. *5% Venezuela / 84% Colombie* en bullet sans gras se perd ; **5%** vs **84%** en gras saute aux yeux.
+- **Référencer le batch ou la skill** : ne jamais écrire « consolidé à partir du batch X » ou « cette synthèse a été produite par write-enjeu ». L'origine vit dans l'historique git.

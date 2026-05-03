@@ -1,16 +1,20 @@
 ---
 type: vidéo
+date: 2025-09-02
+youtube_id: 2cipbRaFSxQ
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, PS]
 enjeux: [plus-jamais-PS, union-populaire]
-date: 2025-09
 aliases: [FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]
+skill_version: write-video-2026-04-21
 date created: Sunday, April 12th 2026, 5:25:28 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/PS #enjeu/plus-jamais-PS #enjeu/union-populaire
 
 # FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!
+
+![FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!](https://www.youtube.com/watch?v=2cipbRaFSxQ)
 
 ## Résumé
 Padu et Chris analysent la tentative d'[[Olivier Faure]] de positionner le [[Parti Socialiste]] comme gouvernement de remplacement de [[Francois Bayrou|Bayrou]] — en cherchant à être nommé Premier ministre par Macron lui-même. La PaduTeam y voit la confirmation du [[Graphique]] et de la [[Guerre des gauches]] : le PS est structurellement du côté de la barricade macroniste. [[Mathilde Panot]] confirme que la FI censurera tout gouvernement sans programme de rupture. En toile de fond : la mobilisation du 10 septembre et la campagne [[On ne veut plus]].
@@ -55,5 +59,20 @@ Padu et Chris analysent la tentative d'[[Olivier Faure]] de positionner le [[Par
 [[Union populaire]] — La FI comme seul vrai parti de rupture : Mélenchon veut la destitution, Panot confirme la censure, le mouvement social (10 septembre) est derrière LFI.
 [[Graphique]] — Prophétie confirmée : deux gauches irréconciliables, chacune dans son espace de classe. Faure ne peut pas se positionner comme anti-Macron sans perdre sa base.
 
+## Notes
+
+[^ps-2pct]: [4:42](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=282) — "Le PS c'est 2%... enfin le PS version Fort c'est 2%. Marine Tondelier c'est 4%... 3-4 Roussel."
+[^refroidisseurs]: [6:16](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=376) — "Toutes les personnes qui parlent de gouverner, de faire élire et cetera [...] tant que Macron est encore au pouvoir [...] tous ces gens-là sont des traîtres et des refroidisseurs de l'histoire."
+[^budget-14mds]: [8:51](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=531) — Le plan PS : 14 milliards d'économie, réduction du déficit de 21,7 milliards en 2026 (deux fois moins que les 44 milliards de Bayrou), retraite à 62 ans, 19 milliards pour l'investissement.
+[^csg-mecanisme]: [10:27](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=627) — "Ça veut dire que la valeur ajoutée [...] va pas être prise sur le capital, elle va être prise sur les salaires [...] Le PS propose de vous faire les poches."
+[^taxe-zucman]: [10:58](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=658) — "La fameuse taxe Zucman là de 2% sur les patrimoines de plus de 100 millions d'euros [...] vraiment de la blague."
+[^900euros-par-an]: [26:27](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=1587) — Les 900€/an = moins de 80€/mois — "C'est du sourfin là que tu fais [...] arrêtes, les comptes ne sont pas bons."
+[^smic-1470]: [28:05](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=1685) — "Là il vous propose une augmentation pour certaines personnes de 5% du SMIC [...] ça fait moins de 80€ par mois. [...] il manque au moins [...] 1600€ net. Voilà. [...] il manque 150€ dans les comptes."
+[^noisette-noisettes]: [18:11](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=1091) — "Il y a un casse noisette à l'intérieur du casse noisette pour lui, tellement c'est ridicule."
+[^panot-censure]: [34:19](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=2059) — Mathilde Panot : "Je vous confirme que nous n'accorderons pas de confiance à un gouvernement qui ne porte pas le programme de rupture."
+[^oiseau-sel]: [21:47](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=1307) — "Si vous en êtes à vouloir nommer Olivier Fort [...] pour enlever le chaos [...] ça voudrait dire que dans la rue, il se passe quelque chose qu'il faut éteindre et donc on peut obtenir beaucoup plus."
+[^sondage-gauche-separee]: [53:27](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=3207) — "Une France insoumise minimisée [...] 10 + 16,5 ça fait déjà 26. Il y a déjà trois points de plus pour la gauche [...] que si elle est rassemblée. On vous le dit depuis le début, ça n'a aucune dynamique."
+[^1997-jospin]: [55:30](https://www.youtube.com/watch?v=2cipbRaFSxQ&t=3330) — "En 97 quand Chirac [dissout], la gauche a gagné. Elle a pas fait de NFP [...] les Verts présentaient [leurs candidats] [...] c'est à la fin les accords entre au deuxième tour qui ont fait la majorité de gauche."
+
 ## Transcript
-[[FAURE (PS) VEUT ETRE PREMIER MINISTRE de MACRON !!]]
+[[Sources/Transcripts/FAURE (PS) VEUT ÊTRE PREMIER MINISTRE de MACRON !!]]

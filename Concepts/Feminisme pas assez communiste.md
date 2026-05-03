@@ -4,14 +4,14 @@ domaine: [société, théorie]
 thèmes: [féminisme]
 aliases: [féminisme matérialiste communiste, féminisme pas assez communiste]
 date created: Wednesday, April 1st 2026, 6:48:33 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme
 
 # Feminisme pas assez communiste
 
 ## Définition
-Thèse de [[Zoé]] : le mouvement féministe des 50 dernières années a correctement identifié et fait exploser les structures patriarcales oppressives, mais a failli en ne proposant pas de structures communistes pour les remplacer. Cette absence explique en grande partie la crise de natalité et la précarisation des femmes.
+Thèse de la PaduTeam : le mouvement féministe des 50 dernières années a correctement identifié et fait exploser les structures patriarcales oppressives, mais a failli en ne proposant pas de structures communistes pour les remplacer. Cette absence explique en grande partie la crise de natalité et la précarisation des femmes.
 
 ## Mécanisme
 

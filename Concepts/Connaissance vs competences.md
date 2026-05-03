@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [travail]
 aliases: [connaissance vs compétences, connaissance contre compétence, école émancipatrice]
 date created: Thursday, April 2nd 2026, 12:52:25 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/travail
 
@@ -34,7 +34,7 @@ Les "compétences" ne sont pas neutres : ce sont des **compétences exploitables
 ## Exemples
 - Laurent Alexandre : "Ne faites plus d'études" — mesure la valeur de l'éducation à sa rentabilité financière
 - Les startuppers critiquent Marx à l'école sans avoir lu Marx ; veulent Bloomberg en direct plutôt que de la compta sur papier
-- Chris note l'ironie : Keynes et Schumpeter (et même Marx) sont au programme de terminale — les startuppers ne le savent pas
+- La PaduTeam note l'ironie : Keynes et Schumpeter (et même Marx) sont au programme de terminale — les startuppers ne le savent pas
 
 ## Vidéos où le concept est développé
-- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Thème central ; Padu et Chris formulent la distinction explicitement
+- [[STARTUPPERS PROJETS DESASTREUX POUR NOS ENFANTS]] — Thème central ; la PaduTeam formule la distinction explicitement

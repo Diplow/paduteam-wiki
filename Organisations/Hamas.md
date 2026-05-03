@@ -4,7 +4,7 @@ domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 aliases: [Hamas, Mouvement de la Résistance Islamique]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/géopolitique #thème/Palestine #thème/anti-impérialisme
@@ -30,6 +30,7 @@ Le Hamas contrôle Gaza depuis sa victoire électorale de 2006 et le blocus isra
 Les leaders historiques ont été massivement assassinés : Sheikh Ahmed Yassine, Abdel Aziz al-Rantissi (assassinés par Israël), Khaled Mashaal (multiples tentatives). L'assassinat systématique des dirigeants fait partie du [[Front colonial permanent|dispositif colonial]].
 
 ## Vidéos où le Hamas est analysé
+- [[LES DERNIERS JOURS DE L'IRAN DES MOLLAH]] — alliance Hamas/Hezbollah analysée comme exemple de solidarité anti-impérialiste transcendant la division chiite/sunnite
 - [[GAZA L'ILLUSION DU CESSEZ-LE-FEU]] — Paul Elek : contexte historique, cadre houdna, élections 2006
 - [[GAZA 2 ANS APRES LE 7 OCTOBRE STOP AU GENOCIDE]] — Qualification ONU du 7 octobre comme résistance
 - [[NETANYAHOU EN ROUE LIBRE SUR TF1LCI]] — Instrumentalisation rhétorique par Netanyahu

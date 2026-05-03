@@ -3,7 +3,7 @@ type: individu
 domaine: [politique-intérieure]
 thèmes: []
 date created: Tuesday, March 31st 2026, 10:38:54 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure
 # Nicolas Mayer-Rossignol
@@ -31,7 +31,12 @@ Dans le contexte de la primaire à gauche, deux lignes PS s'affrontent :
 
 La PaduTeam : la ligne Rossignol a "plus d'intérêt" pour le PS que la ligne Fort, mais les deux conduisent à droite.
 
+## Veille des municipales 2026 — Rouen
+
+La PaduTeam l'analyse pré-premier tour : annoncé à **32 %** sans alliance avec les noisettes ("seulement sur son nom"), grâce à un ancrage local solide depuis 2014. Face à lui : l'union de droite (Marine Caron, LR), LFI à **16 %**, et RN à **14 %** — étonnamment faible pour une ville où Mélenchon avait fait **33 %** et Le Pen seulement **11 %** au présidentiel 2022. Consigne formulée : "les camarades rouennais, surtout vous vous maintenez face au PS, il y a pas de risque fasciste, il y a pas de réserve pour la droite." La PaduTeam évoque même un "coup de Trafalgar" : fusion LFI-Écolos pour menacer NMR d'une liste à 27-28 % — et "clouer la main aux écolos" (en les forçant à s'engager contre le PS). La Brèche y a une section active ("ils sont très jamais PS").
+
 ## Vidéos où NMR est analysé
 - [[KARIM BOUAMRANE (PS) ON VA DEFONCER ERIC COQUEREL ET LA FI]] — Bouamrane le soutient ; congrès PS prévu le 15 juin ; NMR à ~40% face à Faure (~40%) et Vallaud (~15-20%)
 - [[RETAILLEAU MET FIN au WAUQUISME]] — mentionné dans le contexte du congrès PS
 - [[GLUCKSMANN PROVES that RUFFIN IS A FRAUD!!]] — Sa ligne Rossignol (aligner le PS sur Glucksmann) analysée vs ligne Fort (candidature PS propre) ; PaduTeam : la ligne Rossignol est plus viable mais les deux droitisent le PS
+- [[LES PIRES ET LES MEILLEURES VILLES DE FRANCE COMMENT VOTER STRATEGIQUEMENT AU MUNICIPALES]] — Analyse pré-électorale : 32 % sans les noisettes, RN faible à 14 %, consigne LFI de se maintenir et viser la fusion avec les écolos

@@ -5,7 +5,7 @@ thèmes: [féminisme]
 aliases: [Intersexualité, intersexualité, personne intersexe, hyperandrogénie]
 skill_version: ingest-batch-2026-04-13
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/féminisme
 
@@ -24,7 +24,7 @@ La confusion délibérée entre intersexualité et transidentité est un mécani
 2. Alimenter l'indignation sur "des hommes dans les compétitions féminines"
 3. Généraliser à toutes les femmes trans ou intersexes dans le sport
 
-Padu : "Je trouve ça assez humiliant de devoir prouver que cette meuf est une meuf."
+La PaduTeam : "Je trouve ça assez humiliant de devoir prouver que cette meuf est une meuf."
 
 ## Violence médicale sur les enfants intersexes
 

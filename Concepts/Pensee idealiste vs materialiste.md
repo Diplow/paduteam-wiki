@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [le-Graphique]
 aliases: [pensée idéaliste, idéalisme vs matérialisme, pensée d'ingénieur, ingénierie politique]
 date created: Wednesday, April 1st 2026, 12:23:06 am
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/le-Graphique
 # Pensée idéaliste vs matérialiste
@@ -28,5 +28,15 @@ Opposition fondamentale entre deux manières de penser la politique, structurant
 ## Lien avec le Graphique
 La position dans le [[Graphique]] détermine la tendance à la pensée idéaliste ou matérialiste. Les cadres et ingénieurs (haut du graphique) ont l'habitude de résoudre des problèmes abstraitement — ils transposent ça en politique. Les classes populaires (bas-gauche) ont un rapport plus concret et oppositionnel au monde.
 
+## Application : psychologisation des adversaires politiques
+
+Un cas spécifique de pensée idéaliste est la réduction des politiques des dirigeants à leur psychologie individuelle — "Trump est fou", "Biden est sénile". La PaduTeam, en relayant l'analyse de Mélenchon, en fait une démonstration rigoureuse : si Biden était "un peu vieux", sa politique n'en restait pas moins cohérente avec les intérêts de la bourgeoisie qui soutient les Démocrates. Explication par la sénilité = pensée idéaliste. Explication par la structure de classe = pensée matérialiste.
+
+Sur Trump : Mélenchon (et la PaduTeam) refusent le registre "il est fou, il est excité, ça va lui passer." Trump a une cohérence structurelle : maintenir la domination des États-Unis face à la montée de la Chine comme premier producteur mondial et face à la crise de la circulation du dollar. L'expansionnisme (Canada, Groenland) n'est pas de la folie — c'est une stratégie pour l'accès aux ressources et aux routes maritimes arctiques. "D'abord cet homme n'est pas fou. Arrêtez les analyses psychologiques. Il a une cohérence."
+
+Ce principe s'étend à l'analyse de tous les dirigeants : "C'est jamais des hommes tout seuls et qui font tous les choix. Ils ont toujours un système autour d'eux. Ils tiennent dans des rapports de force internes à leur pays."
+
 ## Vidéos
 - [[Debunk Graphique Bad Mulch]] — Démonstration complète de l'opposition idéalisme/matérialisme à travers le cas Bad Mulch
+- [[ETIENNE CHOUARD CATASTROPHIQUE FACE A YOHAN DU CANARD REFRACTAIRE]] — Critique approfondie de l'idéalisme de Chouard (tirage au sort, raison universelle, constituante) mis en regard avec l'alternative matérialiste : le parlement du travailleur collectif et le doublement du Tiers comme modèle historique
+- [[MELENCHON LACHE UNE MASTERCLASS CONTRE TRUMP AU QUEBEC]] — Mélenchon refuse la psychologisation de Trump et Biden ; analyse structurelle de la domination US face à la Chine et au dollar

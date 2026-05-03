@@ -4,7 +4,7 @@ domaine: ['géopolitique']
 thèmes: ['Amérique-latine', 'Venezuela', 'anti-impérialisme']
 aliases: [Brest-Litovsk des Caraïbes, Retraite tactique bolivarienne]
 date created: Tuesday, March 31st 2026, 9:52:44 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/Amérique-latine #thème/Venezuela #thème/anti-impérialisme
 # Brest-Litovsk des Caraïbes
@@ -21,5 +21,10 @@ Brest-Litovsk (1918): les soviétiques perdent des territoires face à l'Empire 
 ## Spécificité pétrolière
 L'industrie pétrolière vénézuélienne est structurellement tournée vers les USA: pièces de rechange, raffineries du sud-est américain adaptées au pétrole extra-lourd vénézuélien. Même sous Chavez, 60% des exportations allaient aux USA. La réorientation commerciale n'est pas une trahison mais une nécessité structurelle.
 
+## Cuba et le même principe
+
+Bien que la notion de Brest-Litovsk soit développée pour le Venezuela, la vidéo Cuba illustre la même logique : [[Claudia Sheinbaum]] a stoppé les exportations mexicaines vers Cuba sous pression américaine directe, mais maintient le cap stratégique et cherche à reprendre les livraisons dès que la fenêtre géopolitique s'y prête. Ce n'est pas une trahison — c'est le même calcul que la retraite tactique bolivarienne : préserver l'essentiel sans risquer une confrontation perdue d'avance.
+
 ## Vidéos où le concept est développé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
+- [[CUBA SAUVEE PAR POUTINE]] — Sheinbaum comme application du même principe côté mexicain

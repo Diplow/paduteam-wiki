@@ -3,8 +3,8 @@ type: concept
 domaine: [société]
 thèmes: [féminisme, VSS]
 aliases: [Mythe du monstre, figure du prédateur monstrueux]
-date created: Sunday, April 13th 2026
-date modified: Sunday, April 13th 2026
+date created: Tuesday, January 13th 2026, 12:00:00 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/féminisme #thème/VSS
 
@@ -28,7 +28,7 @@ Conséquences concrètes :
 
 **Le procès Mazan** : 51 accusés — pompier, journaliste, infirmier, chef d'entreprise, père de famille, retraité. Un panel représentatif de la société française. Aucun monstre. Tous des gens ordinaires qui ont fait le choix de violer une femme endormie.
 
-**Bétharram** : Bayrou dit "je ne peux pas croire ça d'un homme comme le père Caricar." Le père Caricar est le directeur d'une école catholique, figure respectable de la région. C'est précisément pour ça qu'il a pu abuser pendant des années. Zoé : "encore une fois mais ce n'est pas la question — oui et tu vois que Bayrou disait ah je ne peux pas croire ça et cetera en fait tout ça c'est des choix c'est des choix de ne pas voir c'est du dénis choisi et donc c'est du dénis coupable."
+**Bétharram** : Bayrou dit "je ne peux pas croire ça d'un homme comme le père Caricar." Le père Caricar est le directeur d'une école catholique, figure respectable de la région. C'est précisément pour ça qu'il a pu abuser pendant des années. La PaduTeam : "encore une fois mais ce n'est pas la question — oui et tu vois que Bayrou disait ah je ne peux pas croire ça et cetera en fait tout ça c'est des choix c'est des choix de ne pas voir c'est du dénis choisi et donc c'est du dénis coupable."
 
 **Le père Patron** : le père de famille d'accueil qui agressait les jeunes filles placées chez lui — et qui se présentait en direct à la télévision pour demander la peine de mort pour "les gens comme ça". Le prédateur le plus efficace est celui qui dénonce le plus fort les prédateurs imaginaires.
 
@@ -47,5 +47,5 @@ La réponse n'est pas biologique (pulsion) ni psychopathologique (monstre) : c'e
 
 ## Vidéos où le concept est développé
 
-- [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — Zoé développe longuement le mythe du monstre appliqué à Bétharram et aux violences institutionnelles
+- [[AFFAIRE BETHARRAM BAYROU PROTEGE LES PEDOPHILES]] — la PaduTeam développe longuement le mythe du monstre appliqué à Bétharram et aux violences institutionnelles
 - [[AFFAIRE MAZAN LA SUMISSION CHIMIQUE N'EST PAS CE QUE VOUS PENSEZ]] — les 51 accusés comme réfutation vivante du mythe du monstre

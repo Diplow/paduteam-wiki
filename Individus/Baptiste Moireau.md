@@ -4,6 +4,8 @@ domaine: [société]
 thèmes: [VSS]
 aliases: [Baptiste Moireau, Baptiste Pas Net, tpasnet]
 skill_version: ingest-batch-2026-04-13
+date created: Monday, April 13th 2026, 6:31:54 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/VSS
 
@@ -24,7 +26,7 @@ Le COJO annonce l'annulation de sa désignation comme porteur de la flamme : "d�
 
 ## Dans l'analyse PaduTeam
 
-Padu : "quand il y a plusieurs meufs, c'est un peu voilà. Si tu as cinq nanas qui disent 'ouais il m'a envoyé des messages quand j'avais 12 ans', c'est quand même chelou."
+La PaduTeam : "quand il y a plusieurs meufs, c'est un peu voilà. Si tu as cinq nanas qui disent 'ouais il m'a envoyé des messages quand j'avais 12 ans', c'est quand même chelou."
 
 La défense "j'envoyais ça à tous mes contacts sans vérifier les âges" est démontée : "à quel moment tu envoies des vidéos à caractère sexuel à tous tes contacts ?" Ce n'est pas une défense — c'est une aggravation.
 

@@ -1,12 +1,19 @@
 ---
 type: vidéo
 domaine: [société, politique-intérieure]
-thèmes: [psychiatrie-psychologie]
+thèmes: [psychiatrie-psychologie, le-Graphique, guerre-des-gauches]
 enjeux: [union-populaire]
+methodes: [Graphique]
+date: 2025-01-20
+youtube_id: "CnBY7MaHo04"
 date created: Wednesday, April 1st 2026, 12:46:03 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
+skill_version: write-video-2026-04-20
 ---
-#domaine/société #domaine/politique-intérieure #thème/le-Graphique #thème/psychiatrie-psychologie #enjeu/union-populaire
+#domaine/société #domaine/politique-intérieure #thème/le-Graphique #thème/psychiatrie-psychologie #thème/guerre-des-gauches #enjeu/union-populaire
+
+![CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ?](https://www.youtube.com/watch?v=CnBY7MaHo04)
+
 # CANNABIS : RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON ?
 
 ## Résumé
@@ -30,15 +37,29 @@ Analyse de la position prohibitionniste du [[Parti Communiste Francais|PCF]] et 
 
 8. **Roussel inadéquat sur la question** — Sur le [[Graphique]], Roussel est positionné près du "oui" à la pénalisation mais ne recouvre même pas la masse réactionnaire qui porte ce "oui". Il est trop cadre supérieur pour les retraités populaires, et trop réac pour les actifs. Sa PCS la plus proche : les policiers. Même Le Pen est plus adéquate aux actifs que Roussel sur cette question. Mélenchon est pile sur le "non", parfaitement adéquat à la structuration normale des actifs.
 
+## Résultats / projections
+
+| Donnée | Valeur | Source |
+|--------|--------|--------|
+| Risque de dépendance à l'héroïne après expérimentation | 20-30% | Zoé, données addictologie |
+| Hommes favorables au renforcement des sanctions (cannabis) | 36% | Sondage IFOP 2021 |
+| Femmes favorables au renforcement des sanctions (cannabis) | 35% | Sondage IFOP 2021 |
+| Part des retraités dans la catégorie "ouvriers" (données brutes PCS) | ~40% | Algorithme Graphique |
+| Morts de la crise des opioïdes aux États-Unis (une décennie) | 500 000 | Zoé |
+| Prévalence vote pro-pénalisation : position sur Graphique | Bas-droite, espace réactionnaire (retraités, classes en déclin) | Analyse Chris |
+
 ## Individus mentionnés
-[[Padu]], [[Chris]], [[Dr Zoe|Zoé]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[Eric Zemmour]], [[Yannick Jadot]], [[Marion Marechal]], [[Michel Clouscar]], [[Antonio Gramsci]], [[Lucien Goldmann]], [[Daniel Cohn-Bendit]], [[Jacques Doriot]]
+[[Padu]], [[Chris]], [[Dr Zoe|Zoé]], [[Fabien Roussel]], [[Jean-Luc Melenchon]], [[Marine Le Pen]], [[Eric Zemmour]], [[Marion Marechal]], [[Michel Clouscard]], [[Antonio Gramsci]], [[Lucien Goldmann]], [[Daniel Cohn-Bendit]], [[Jacques Doriot]], [[Antoine Leaument]]
 
 ## Organisations mentionnées
 [[Parti Communiste Francais]], [[MJCF]], [[UEC]], [[France Insoumise]], [[Rassemblement National]], [[Les Republicains]], [[Positions Revue]], [[ASUD]]
 
 ## Concepts mobilisés
-[[Graphique]], [[Graphique]], [[Diagonale de pouvoir]], [[Reduction des risques]], [[Hygienisme proletarien]], [[Clivage generationnel]]
+[[Graphique]], [[Diagonale de pouvoir]], [[Reduction des risques]], [[Hygienisme proletarien]], [[Clivage generationnel]]
 
 ## Enjeux avancés
 [[Graphique]] — Nouvelle démonstration de la puissance analytique du Graphique : capable de distinguer un clivage générationnel/de mode de production (diagonale perpendiculaire) d'un clivage de classe (diagonale parallèle). Montre que la position prohibitionniste est sociologiquement réactionnaire.
 [[Union populaire]] — Mélenchon est parfaitement adéquat à la position majoritaire des actifs sur le cannabis, tandis que Roussel est isolé dans un espace réactionnaire sans base sociale.
+
+## Transcript
+`Sources/Transcripts/CANNABIS  RASTA ROUSSEL VS DOUANIER ROUSSEL, QUI A RAISON  (x Graph, @Dr_Zoé_YT, PositionsRevue).md`

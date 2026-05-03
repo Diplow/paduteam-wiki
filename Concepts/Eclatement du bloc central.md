@@ -4,7 +4,7 @@ domaine: ['politique-intérieure']
 thèmes: ['élections']
 aliases: [Éclatement du bloc central]
 date created: Tuesday, March 31st 2026, 2:20:34 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 # Eclatement du bloc central
@@ -23,10 +23,21 @@ Dans la prophétie du 2002 inversé, l'éclatement de la droite et du centre en 
 
 ## Le post-macronisme double
 
-Chris pose les termes : [[Gabriel Attal]] est le "post-macronisme de gauche", [[Edouard Philippe]] le "post-macronisme de droite". Contrairement à ce que dit [[Clément Viktorovitch]], ils ne viennent pas du même parti : Attal vient du PS, Philippe de LR. Le macronisme était justement la formule "des traîtres de gauche et des traîtres de droite" (formule attribuée à [[Rachida Dati]]). Sans Macron, chacun retourne vers son pôle — mais Philippe a un espace (droite libérale non-extrême) alors qu'Attal n'en a aucun (coincé entre Philippe et le PS). Attal et Philippe ne se désisteront pas l'un pour l'autre : chacun a son appareil (Renaissance vs Horizon), "ils sont pas dans le même truc".
+La PaduTeam pose les termes : [[Gabriel Attal]] est le "post-macronisme de gauche", [[Edouard Philippe]] le "post-macronisme de droite". Contrairement à ce que dit [[Clément Viktorovitch]], ils ne viennent pas du même parti : Attal vient du PS, Philippe de LR. Le macronisme était justement la formule "des traîtres de gauche et des traîtres de droite" (formule attribuée à [[Rachida Dati]]). Sans Macron, chacun retourne vers son pôle — mais Philippe a un espace (droite libérale non-extrême) alors qu'Attal n'en a aucun (coincé entre Philippe et le PS). Attal et Philippe ne se désisteront pas l'un pour l'autre : chacun a son appareil (Renaissance vs Horizon), "ils sont pas dans le même truc".
+
+## Projection chiffrée 2027
+
+Dans la projection du [[Graphique]], le bloc macroniste (27 % en 2022) se redistribue ainsi :
+- [[Parti Socialiste]] : 16,18 % (capte Attal + aile gauche macroniste)
+- [[Les Republicains]] : 13,67 % (Retailleau + Zemour + Bardella)
+- [[Horizon]] (Edouard Philippe) : 10,84 %
+
+Total ex-bloc central : ~40 %, là où Macron faisait 27 % à lui seul. L'addition des trois montre la redistribution, pas une croissance — la division est réelle. [[Jean-Luc Melenchon]], lui, n'a besoin que de 16,86 % pour passer au second tour dans ce paysage fragmenté[^chiffres].
+
+[^chiffres]: [4:47](https://www.youtube.com/watch?v=VFiHhZiOWZ8&t=287) — "Vous avez en haut 19,8 % pour le Rassemblement national. Vous avez la France insoumise 2e avec 16,86 %. Vous avez ensuite le Parti socialiste avec 16,18 %. Vous avez les républicains avec 13,67 %. Vous avez Horizon avec 10,84 %."
 
 ## Vidéos
-- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]]
+- [[COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR]] — Démonstration complète : le bloc macroniste à 27 % en 2022 éclate en trois fragments totalisant ~40 % en 2027, permettant à Mélenchon de passer avec seulement 16,86 %
 - [[Hollande vs Melenchon 2e tour]] — Démonstration par le Graphique du parallèle 2002/2027 : l'explosion à droite comme miroir de l'explosion à gauche en 2002
 - [[RETAILLEAU MET FIN au WAUQUISME]] — Retailleau incarne le bloc bourgeois déporté à droite, la fin du macronisme redistribue les cartes
 - [[L'ALLIANCE MELENCHON-GLUCKSMANN FAUSSE BONNE IDEE]] — Les sondages Cluster 17 montrent Ensemble passant de 18% à 12-14% selon les hypothèses, avec des électeurs du bloc central migrant vers la gauche social-libérale et vers LR

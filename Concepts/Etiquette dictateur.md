@@ -4,7 +4,7 @@ domaine: ['géopolitique', 'société']
 thèmes: ['anti-impérialisme', 'médias-propagande']
 aliases: [Étiquette dictateur, Label dictateur]
 date created: Tuesday, March 31st 2026, 9:52:55 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #domaine/société #thème/anti-impérialisme #thème/médias-propagande
 # Étiquette dictateur

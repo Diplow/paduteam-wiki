@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Baumel]
 date created: Thursday, April 2nd 2026, 3:19:13 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -25,5 +25,10 @@ Député PS de l'Essonne, figure de l'aile droite du [[Parti Socialiste]]. Repr�
 - [[François Hollande]] — dans la même mouvance politique
 - [[Olivier Faure]] — premier secrétaire dont il représente l'aile la plus droitière
 
+## Candidature prête-nom à la primaire noisette (début 2026)
+
+La PaduTeam anticipe qu'[[Olivier Faure]] va envoyer Baumel comme "homme de paille" à la primaire des noisettes — un inconnu capable de faire 8% et de perdre proprement, permettant à Faure de se dégager vers la campagne Hollande. "Ça va se voir que c'est fait pour échouer s'il présente ce type là." Baumel sur la photo de lancement de la primaire est identifié comme l'"espion" de l'aile droite du PS ou comme le futur prête-nom. Prédit à 8% à la primaire.
+
 ## Vidéos où Baumel est mentionné
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Cité via [[Antoine Oberdorff]] sur l'option Cazeneuve Premier ministre.
+- [[PRIMAIRE DE LA GAUCHE LA PLUS GRANDE ANNONCE DE L'ANNEE]] — Identifié sur la photo du lancement de la primaire comme probable prête-nom de Faure ; prédit à 8% à la primaire noisette.

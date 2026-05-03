@@ -5,7 +5,9 @@ url: "https://www.youtube.com/watch?v=wsiChBGb6T0"
 chaine: "PaduTeam"
 segments: 463
 date created: Monday, March 30th 2026, 12:04:40 pm
-date modified: Tuesday, March 31st 2026, 2:23:22 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
+youtube_id: wsiChBGb6T0
+
 ---
 
 La guerre au Parti socialiste commence.

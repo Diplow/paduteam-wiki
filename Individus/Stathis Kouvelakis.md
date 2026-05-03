@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, élections]
 aliases: [Stathis, Kouvelakis]
 date created: Thursday, April 2nd 2026, 12:23:36 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
@@ -41,6 +41,15 @@ Défend la ligne de rupture comme seule voie crédible pour la gauche. Soutien c
 - Connaît "Paul Elec" (camarade mentionné dans la discussion)
 - Milite à Paris-20e dans la France Insoumise
 
+## Position sur le patronat et la petite bourgeoisie
+
+Cité dans [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] via un tweet, Kouvelakis prend position clairement contre la stratégie LFI sur les petits patrons : "les grands et les petits patrons appartiennent à deux fractions d'une même classe" (bourgeoisie), tout en distinguant les "auto-entrepreneurs" qui peuvent être du "salariat dissimulé" et ceux qui sont dans une "transition" vers la petite bourgeoisie. Il souligne aussi que "les petits patrons exploitent même davantage leurs salariés que les grands." La PaduTeam salue cette clarté d'un marxiste insoumis et regrette que LFI ne s'appuie pas davantage sur "certaines franges insoumises qui sont marxistes et qui sont plus claires sur ces questions-là."[^tweet]
+
 ## Vidéos où Stathis Kouvelakis est mentionné
 - [[PADUSTREAM C'EST DEJA FINI]] — mentionné comme invité notable de La Brèche 2024
 - [[LA BRECHE - FRONT POPULAIRE VS BARRAGE REPUBLICAIN]] — invité principal, analyse de la stratégie de la gauche entre les deux tours des législatives 2024
+- [[LES VRAIS COMMUNISTES SONT-ILS VRAIMENT A LFI ET PAS AU PCF]] — Son parcours PCF → NPA → LFI cité comme modèle exemplaire du dilemme militant : articuler radicalité théorique et poids dans le rapport concret
+- [[BOUTELDJA A CAPITULE Debat TENDU avec Anasse Kazib Raz Cassandre et Chris de Positions Revue]] — cité comme ayant soutenu le projet "France révolutionnaire" de PDH depuis une perspective marxiste ; critiqué pour y perdre le fil en citant Marx de 1848 dans un contexte où la nation a une tout autre signification qu'alors
+- [[L'ANGLE MORT DE LA FRANCE INSOUMISE LE PATRONAT !]] — cité via un tweet : grands et petits patrons = deux fractions d'une même classe (bourgeoisie) ; les petits patrons exploitent même davantage leurs salariés ; la PaduTeam salue sa clarté marxiste contre le flou class blind d'Aurélie Trouvé
+
+[^tweet]: [36:06](https://www.youtube.com/watch?v=-LxOG_3Mvm0&t=2166) — "je vais être franc pas d'accord c'est un marxiste [...] les grands patrons appartiennent à deux fractions d'une même classe [...] les petits patrons exploitent même davantage leurs salariés que les grands"

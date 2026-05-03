@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 aliases: [BFMTV, BFM]
 date created: Wednesday, April 1st 2026, 7:41:55 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/médias-propagande
 
@@ -26,3 +26,4 @@ BFM TV est l'un des médias qui cadrent l'occupation pro-Palestine à Sciences P
 - [[AURORE BERGE FAIT BARRAGE A LFI EN S'ALLIANT AU RN]] — Bergé sur le plateau pour proposer le cordon sanitaire inversé
 - [[SCIENCES PO ET RIMA HASSAN DANS LE VISEUR DE BFMTV ET CO]] — BFM TV dans la campagne de diabolisation des étudiants pro-Palestine
 - [[RIMA HASSAN MET LA CLIM sur BFMTV]] — Rima Hassan dénonce la ligne éditoriale en direct ; la chaîne coupe l'interview
+- [[BALLY BAGAYOKO LE MAIRE QUI FAIT PLEURER LES RACISTES]] — plateau BFM TV où un journaliste de Valeurs Actuelles soumet le nouveau maire de Saint-Denis à des questions insinuantes sur les narcotrafiquants et la fraude électorale

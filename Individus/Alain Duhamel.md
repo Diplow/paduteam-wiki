@@ -4,7 +4,7 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande]
 aliases: [Duhamel]
 date created: Wednesday, April 1st 2026, 7:26:38 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande
 
@@ -23,6 +23,8 @@ Résume la politique à des personnes au lieu d'analyser lignes politiques et vi
 
 ## Relations
 - [[Paris Match]] — publie ses analyses (journal qualifié de "populaire" avec ironie)
+- [[Benjamin Duhamel]] — neveu, journaliste France Inter, fils de [[Patrice Duhamel]]
 
 ## Vidéos où Duhamel est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Lecture commentée de son article Paris Match sur Hollande, Larcher, Mélenchon, Tondelier, Zemmour
+- [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Cité dans la généalogie médiatique de [[Benjamin Duhamel]] : "Il est le neveu d'Alain Duhamel, éditorialiste chez RTL, chez BFM" — illustration de la reproduction de la caste journalistique bourgeoise

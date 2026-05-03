@@ -1,17 +1,20 @@
 ---
-type: video
+type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [guerre-des-gauches, Ukraine, anti-impérialisme]
 enjeux: [camp-de-la-paix, campisme-assume]
+methodes: [Anatomie des visions adverses]
 date: 2025-12-31
 youtube_id: yNSlkCVhLWM
-skill_version: ingest-batch-2026-04-14
+skill_version: ingest-batch-2026-04-22
+date created: Tuesday, April 14th 2026, 1:20:44 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
-#domaine/géopolitique #domaine/politique-intérieure #thème/guerre-des-gauches #thème/Ukraine
+#domaine/géopolitique #domaine/politique-intérieure #thème/guerre-des-gauches #thème/Ukraine #thème/anti-impérialisme #enjeu/camp-de-la-paix #enjeu/campisme-assume
+
+![USUL : CETTE GAUCHE QUI VEUT NOUS EMMENER À LA GUERRE](https://www.youtube.com/watch?v=yNSlkCVhLWM)
 
 # USUL : CETTE GAUCHE QUI VEUT NOUS EMMENER À LA GUERRE
-
-[![](https://img.youtube.com/vi/yNSlkCVhLWM/0.jpg)](https://www.youtube.com/watch?v=yNSlkCVhLWM)
 
 ## Résumé
 

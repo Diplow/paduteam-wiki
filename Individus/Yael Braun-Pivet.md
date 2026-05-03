@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 aliases: [Yaël Braun-Pivet, Bron Pivé]
 date created: Wednesday, April 1st 2026, 11:23:43 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande
 
@@ -22,3 +22,4 @@ Suite à la mort de [[Quentin Deranque]], elle fait tenir une minute de silence 
 
 ## Vidéos où Braun-Pivet est mentionnée
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[LA FACE CACHEE DE QUENTIN DERANQUE]] — la formulation "le jeune Quentin" décortiquée comme technique d'infantilisation pour créer de l'empathie : "cette espèce de familiarisation, tu sais c'est vraiment pour créer de l'empathie" — alors que l'enquête Mediapart révèle que ce "jeune" était un militant néonazi structuré

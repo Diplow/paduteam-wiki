@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 aliases: [Lame de fond]
 date created: Wednesday, April 1st 2026, 11:25:10 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/élections
 
@@ -25,5 +25,10 @@ La FI doit s'appuyer sur la lame de fond et ne pas se "rabouir" (réduire son am
 - [[Jean-Luc Melenchon]] fait 14,5% dans les sondages mais 17-18% en réalité (selon la prophétie du 2002 inversé)
 - [[Michel-Edouard Leclerc]] et [[Thierry Breton]] qui prennent position pour Mélenchon — surfacent d'un courant plus profond
 
+## Rapport à la crise de sénilité
+
+La lame de fond a un négatif : la [[Crise de senilite]]. Plus la vague monte, plus les figures réactionnaires qui « avaient tout » (blanc, capitalisé, inséré dans le néolibéralisme) paniquent et se radicalisent. [[Pascal Praud]] et [[Robert Menard]] en sont les exemples directs : leurs enfants font partie de la lame de fond depuis des années, et eux se radicalisent fascistement en réaction.
+
 ## Vidéos où le concept est développé
 - [[GLUCKSMANN MACRON GARRIDO QUI VEUT TUER LA FI]]
+- [[PRAUD ET MENARD EN SUEUR LEURS ENFANTS VOTENT MELENCHON]] — La lame de fond comme cause de la crise de sénilité de Praud et Ménard ; leurs enfants en sont porteurs depuis 2017

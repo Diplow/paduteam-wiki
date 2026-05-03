@@ -4,6 +4,8 @@ domaine: [théorie]
 thèmes: [anti-impérialisme, Venezuela, théorie-politique]
 aliases: [dictature post-révolutionnaire]
 skill_version: write-concept-2026-04-14
+date created: Tuesday, April 14th 2026, 12:19:58 am
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/anti-impérialisme #thème/Venezuela
 
@@ -25,9 +27,10 @@ La clé analytique : quand on accuse ce type de régime de "répression", il fau
 
 ## Exemples
 - [[Nicolas Maduro]] : accusé de dictature pour avoir réprimé des manifestants qui demandaient une intervention militaire américaine dans leur propre pays
-- Staline : cité par Chris pour montrer que même Trotski était "100000 fois plus répressif que Maduro" lorsque la révolution était attaquée de toute part
-- La Révolution française : le Comité de Salut Public comme parallèle — l'urgence révolutionnaire justifie des mesures que la paix démocratique ne justifierait pas
+- [[Staline]] : cité par la PaduTeam pour montrer que même Trotski était "100000 fois plus répressif que Maduro" lorsque la révolution était attaquée de toute part. La comparaison analogique centrale : **Napoléon préserve la révolution bourgeoise, Staline préserve la révolution prolétarienne** — même dynamique structurelle, valeur politique opposée du point de vue du prolétariat.
+- La Révolution française : le Comité de Salut Public comme parallèle — l'urgence révolutionnaire justifie des mesures que la paix démocratique ne justifierait pas. [[Lenine]] comparé à Robespierre, Staline à Napoléon.
 
 ## Vidéos où le concept est développé
 - [[VENEZUELA COMPLOTISME FACHECKERS]] — Goldman cité et expliqué, critique de "dictateur" comme mot-fourre-tout
 - [[MATHILDE PANOT REFUSE CONDAMNER MADURO BFMTV]] — Développement théorique sur pourquoi la qualifier Maduro de "dictateur" est faux
+- [[PADU GACHE l'HOMMAGE A TROTSKI 85 ANS]] — comparaison Napoléon/Staline comme structures significatives analogues (révolution bourgeoise vs révolution prolétarienne)

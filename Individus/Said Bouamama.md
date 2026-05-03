@@ -4,7 +4,7 @@ domaine: [théorie]
 thèmes: [racisme-antiracisme]
 aliases: [Saïd Bouamama]
 date created: Tuesday, March 31st 2026, 2:18:23 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/racisme-antiracisme
 # Saïd Bouamama
@@ -33,4 +33,7 @@ A synthétisé la pensée politique de [[Georges Ibrahim Abdallah]] dans le livr
 - [[Front Uni des Immigrations et des Quartiers Populaires]] — membre
 - Analyste sur [[Investigation]] (émission hebdomadaire de géopolitique)
 
-## Vidéos où Bouamama est m
+## Vidéos où Bouamama est mentionné
+
+- [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — annoncé comme intervenant à la soirée "Plus jamais PS" du 20 février 2026 ; fera le bilan du PS côté politique internationale, impérialisme et politiques racistes dans les quartiers populaires ; son livre sur la Tricontinentale est recommandé comme clé pour comprendre les projets 2026 de la PaduTeam.
+- [[VILLEPIN DERAPE SUR ZYED ET BOUNA]] — cité comme auteur incontournable sur les classes et quartiers populaires, le racisme structurel, le mythe national ; la PaduTeam recommande son livre *Les classes et quartiers populaires* et indique qu'il repassera sur la chaîne ; le [[Front Uni des Immigrations et des Quartiers Populaires|FUIQP]] qu'il co-anime organise la marche du 11 novembre contre les guerres impérialistes

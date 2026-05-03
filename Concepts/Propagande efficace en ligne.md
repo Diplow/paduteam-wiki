@@ -4,7 +4,7 @@ domaine: [société, théorie]
 thèmes: [médias-propagande]
 aliases: [propagande PaduTeam, communication politique en ligne]
 date created: Wednesday, April 1st 2026, 9:46:09 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #domaine/théorie #thème/médias-propagande
 
@@ -36,5 +36,12 @@ L'image est toujours reçue dans un contexte. Ce que le producteur voulait dire 
 - Miniature Mélenchon second tour 2027 (pastiche affiche Mitterrand)
 - Compte des noisettes (enluminures médiévales)
 
+### La propagande comme présence quotidienne
+
+Dans la vidéo de décembre 2024 répondant à un abonné critique, la PaduTeam développe une défense explicite de la propagande comme outil militant conscient. Face à la critique que le format réact "endort la méfiance critique", Padu retourne l'argument : oui, c'est le but. Comme le militant PCF sur le marché ne vient pas "expliquer les mécanismes de l'ARENH" mais simplement montrer que le parti est présent et établir le contact avant d'aller plus loin — la présence quotidienne sur les plateformes crée des réflexes, construit une communauté, et prépare l'audience à aller chercher du contenu plus analytique. "C'est du militantisme en fait."
+
+La conscience de ce mécanisme est revendiquée : "c'est le but de faire de la propagande. Vous allez me répliquer mais où est le problème." Le risque identifié est symétrique : l'auteur lui-même peut être conditionné par son propre format — c'est la critique de l'abonné que Padu intègre partiellement.
+
 ## Vidéos où le concept est développé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
+- [[ABONNE CRITIQUE PADU C ETAIT MIEUX AVANT]] — défense explicite de la propagande consciente comme outil militant, réponse à la critique du "conditionnement"

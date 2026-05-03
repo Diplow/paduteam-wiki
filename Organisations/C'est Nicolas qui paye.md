@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [médias-propagande]
 aliases: [Nicolas qui paye, C'est Nicolas qui paye collectif]
 date created: Thursday, April 2nd 2026, 10:24:41 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/médias-propagande
 
@@ -17,12 +17,12 @@ Collectif antitax créé autour d'un compte Twitter/X. Le nom renvoie à "C'est 
 Lors du mouvement du 10 septembre 2024, le collectif a tenté de se rattacher au mouvement de blocages ("bloc tout") tout en étant fondamentalement contre les blocages. Contre-performance totale selon la PaduTeam :
 - Ils se sont rendu compte que c'était un mercredi (="un truc de gauchistes") et ont décidé de ne pas participer
 - Ils n'avaient aucune présence sur le terrain, aucun militant dans aucune AG
-- Leur action concrète : un "blocage de la carte bleue" (payer en cash une journée) — qualifiée par Padu de "ça sert à rien" et de récupération transparente
+- Leur action concrète : un "blocage de la carte bleue" (payer en cash une journée) — qualifiée par la PaduTeam de "ça sert à rien" et de récupération transparente
 
-Padu : "J'ai jamais vu un type de ces Nicolas qui paye dans une AG."
+La PaduTeam : "J'ai jamais vu un type de ces Nicolas qui paye dans une AG."
 
 ## Positionnement idéologique
-La PaduTeam identifie C'est Nicolas qui paye comme un socialisme petit-bourgeois pur (au sens marxiste) : "rien ne va mais faut toucher à rien." Contre les impôts, contre les cotisations, pour les petites entreprises contre les multinationales — sans programme politique cohérent, sans capacité d'action. Vote Zemmour selon Padu.
+La PaduTeam identifie C'est Nicolas qui paye comme un socialisme petit-bourgeois pur (au sens marxiste) : "rien ne va mais faut toucher à rien." Contre les impôts, contre les cotisations, pour les petites entreprises contre les multinationales — sans programme politique cohérent, sans capacité d'action. Vote Zemmour selon la PaduTeam.
 
 ## Relations
 - [[Eric Tegner]] — fondateur/propriétaire du compte

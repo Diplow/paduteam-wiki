@@ -3,8 +3,9 @@ type: concept
 domaine: [géopolitique]
 thèmes: [anti-impérialisme, Iran]
 aliases: [Défense mosaïque décentralisée, Défense mosaïque, Système de défense mosaïque]
-date created: 2026-04-13
+date created: Monday, April 13th 2026, 12:00:00 am
 skill_version: ingest-batch-2026-04-13
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran
 # Défense mosaïque décentralisée

@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [féminisme, médias-propagande]
 aliases: [Danis, Danic Caligula, Dany]
 date created: Thursday, April 2nd 2026, 10:36:42 pm
-date modified: Sunday, April 12th 2026, 5:46:48 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/société #thème/féminisme #thème/médias-propagande
 
@@ -35,5 +35,12 @@ C'est un patron détenteur de la majorité du capital de ZawaProd. Son retrait d
 - Défendu dans sa structure par [[Wissam Xelka]] et d'autres employés de [[Zawashow]]
 - Instrumentalisation d'[[Elsa Deck Marceau]] et de [[Sandra Lucbert]] à son profit
 
+## La ZawaProd comme société de portage salarial
+
+Dans la réflexion post-affaire sur les streamers, la PaduTeam affine son analyse de la ZawaProd : elle ressemble "plus à une société de portage salarial qu'à un collectif"[^sp]. Ce modèle — où chaque streamer opère individuellement depuis chez soi avec sa propre ligne, sans syndicat ni produit collectif commun — est présenté comme le stade le plus archaïque de la structuration entrepreneuriale à gauche. Ce qui a permis à Dany d'organiser son impunité structurelle (position de patron, contrôle du capital) se lit précisément à travers ce prisme : une "structure" sans les mécanismes collectifs qui auraient pu la contraindre.
+
 ## Vidéos où Dany Caligula est analysé
 - [[AFFAIRE DANY COMMENT LA ZAWAPROD A MANIPULE TOUT LE MONDE]]
+- [[FAUT-IL ENVOYER LES STREAMERS AU GOULAG]] — analyse de la ZawaProd comme société de portage salarial, modèle entrepreneurial incompatible avec le militantisme
+
+[^sp]: [24:46](https://www.youtube.com/watch?v=8DVtxGTjmRE&t=1486) — "la zawa ressemble plus à une société de portage salarial qu'un collectif"

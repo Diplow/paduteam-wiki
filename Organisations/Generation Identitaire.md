@@ -4,14 +4,16 @@ domaine: [politique-intérieure]
 thèmes: [racisme-antiracisme]
 aliases: [Génération Identitaire, GI, Identitaires]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/racisme-antiracisme
 
 # Génération Identitaire
 
 ## Profil
-Mouvement d'extrême droite identitaire français, dissous par arrêté ministériel en 2021. Branche française du mouvement identitaire européen. Son nom dit son idéologie : la "génération" démographique — la peur du remplacement de la population blanche — est au cœur de son projet. Lié historiquement à l'[[Action Francaise]] et aux milieux catholiques traditionnalistes.
+Mouvement d'extrême droite identitaire français, dissous par arrêté ministériel en **avril 2021**. Branche française du mouvement identitaire européen. Son nom dit son idéologie : la "génération" démographique — la peur du remplacement de la population blanche — est au cœur de son projet. Lié historiquement à l'[[Action Francaise]] et aux milieux catholiques traditionnalistes.
+
+La PaduTeam insiste sur la sémantique du nom : "Génération Identitaire, comme son nom l'indique, est fondée sur la génération démographique — faire des bébés blancs." Le discours nataliste racial n'est pas une dérive, c'est la thèse fondatrice. C'est pourquoi le virage ultérieur de [[Thais d'Escufon]] vers le coaching de relations hommes-femmes s'inscrit en continuité directe avec ses années GI, et non en rupture.
 
 ## Figures connues dans le vault
 - [[Thais d'Escufon]] — ancienne porte-parole (2020–2021)

@@ -4,7 +4,7 @@ domaine: [théorie, politique-intérieure]
 thèmes: [trajectoires-politiques]
 aliases: [Doriot]
 date created: Thursday, April 2nd 2026, 8:22:57 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/théorie #thème/trajectoires-politiques
 
@@ -18,3 +18,4 @@ Mentionné dans le contexte de la tradition des "troisièmes voies" fascistes : 
 
 ## Vidéos où Doriot est mentionné
 - [[PAYE TON DROITARD #7.1 PADU L'ADO CONFUS]] — cité comme exemple historique du confusionnisme rouge-brun français
+- [[Cannabis Rasta Roussel vs Douanier Roussel]] — cité dans l'analyse de l'[[Hygienisme proletarien]] comme pont historique entre communisme et fascisme : l'idéologie du prolétariat sain (sobriété, discipline) qu'il a emportée du PCF au PPF

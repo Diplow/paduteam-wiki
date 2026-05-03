@@ -4,7 +4,7 @@ domaine: [société]
 thèmes: [médias-propagande]
 aliases: [Squeezie, Lucas Hauchard]
 date created: Monday, April 13th 2026, 12:00:00 pm
-date modified: Monday, April 13th 2026, 12:00:00 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 skill_version: ingest-batch-2026-04-13
 ---
 #domaine/société #thème/médias-propagande
@@ -23,3 +23,4 @@ Note : Squeezie s'est positionné pour voter contre l'extrême droite aux légis
 
 ## Vidéos où Squeezie est mentionné
 - [[TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE DE SQUEEZIE]] — Le silence sur Gaza comme choix économique vs courage politique
+- [[JDG (Joueur du Grenier) ANTI CAPITALISTE IL A COMPRIS LE PROBLEME ON LUI DONNE LES SOLUTIONS]] — implicitement évoqué en creux : JDG comme contre-exemple du silence stratégique, youtuber qui "vient dans le camp"

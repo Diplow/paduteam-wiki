@@ -1,12 +1,14 @@
 ---
 type: vidéo
+date: 2026-04-04
+youtube_id: i_sv_j53qxo
 domaine: [théorie, politique-intérieure]
 thèmes: [guerre-des-gauches, médias-propagande]
 enjeux: [union-populaire]
-date:
+methodes: [Anatomie des visions adverses]
 aliases: [LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !]
 date created: Saturday, April 4th 2026, 11:19:29 pm
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire
 

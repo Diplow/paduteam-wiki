@@ -4,7 +4,7 @@ domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches]
 aliases: [Place publique]
 date created: Wednesday, April 1st 2026, 12:29:11 am
-date modified: Sunday, April 12th 2026, 5:46:47 pm
+date modified: Wednesday, April 15th 2026, 1:40:01 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches
 # Place Publique
@@ -21,3 +21,4 @@ Glucksmann et Place Publique s'opposent au [[NFP]] tout en y ayant participé, i
 - [[Faut-il en finir avec le NFP]]
 - [[GLUCKSMANN HUMILIE EN DIRECT PAR UN JEUNE INSOUMIS]] — Place Publique analysée comme prototype de la [[Gauche molle]] : programme limité au "devoir de vigilance des multinationales", sans rupture avec le capitalisme. Glucksmann incapable de défendre ce programme face à un militant de 22 ans.
 - [[GLUCKSMANN S'OPPOSE aux BLOCAGES du 10 SEPTEMBRE]] — Place Publique seule de toute la gauche à ne pas appeler au 10 septembre. Stratégie : aspirer le bloc central macroniste en déliquescence, pas capter l'électorat de gauche.
+- [[GLUCKSMANN EST DEJA FINITO VOICI POURQUOI]] — Décompte accablant : Place Publique compte environ 3 figures parlementaires identifiables ([[Aurelien Rousseau]], [[Aurore Lalucq]], Glucksmann). Fondateurs emblématiques (Claire Nouvian, Thomas Porcheret) partis en disant que c'était "devenu trop libéral et trop une machine à faire gagner." Le rappel de la fondation de Place Publique dans le grand oral de Glucksmann se retourne contre lui. La "branche Glucksmann" du casse-noisette est déclarée cassée.
