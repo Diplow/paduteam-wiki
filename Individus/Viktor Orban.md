@@ -26,6 +26,13 @@ La PaduTeam voit en lui l'un des repères de comparaison pour les années 1920 :
 - [[Vladimir Poutine]] — affinité géopolitique, pro-Poutine affiché
 - [[Geert Wilders]] — internationale national-autoritaire
 
+## Défaite électorale (avril 2026)
+
+Orban est battu aux législatives hongroises en avril 2026. Il n'a pas fait le déplacement à la conférence "Patriotes pour l'Europe" à Milan organisée une semaine après sa défaite. La PaduTeam se réjouit tout en contextualisant : "C'est pas lui qui s'est fait chier par un type très à gauche non plus. Voilà, ça reste la Hongrie." Le successeur ne sera "pas le début de la révolution progressiste en Europe" — la Hongrie reste "un pays très très réactionnaire."
+
+Sa défaite est comparée à celle de Thatcher à la fin des années 80 : il "est comme Thatcher, il n'incarnait vraiment le néolibéralisme, elle s'est fait tchè [...] mais il y a quand même eu du libéralisme après elle." Sa chute "ouvre des nouvelles possibilités" sans clore l'ère réactionnaire. Pour la PaduTeam, c'est "quand même pas rien ce genre de changement" : une "fin d'hégémonie" visible.
+
 ## Vidéos où Orbán est analysé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[CE PNJ DE DROITE QUITTE LA FRANCE MISERE SEXUELLE INSECURITE]] — la Hongrie comme destination fantasmée des droitards masculinistes français ; Orbán y a mis le féminisme "au ban" et construit un régime où les relations de genre "sont plus simples" selon les droitards
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — battu en avril 2026 ; absent de la conférence de Milan ; comparé à Thatcher, une hégémonie qui s'épuise ; contextualisation : la Hongrie ne devient pas progressiste pour autant

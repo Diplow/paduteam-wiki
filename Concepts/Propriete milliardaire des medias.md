@@ -39,6 +39,7 @@ La PaduTeam défend la nécessité structurelle de médias qui ne soient pas dé
 - **[[Daniel Kretinski]] / [[Marianne]]** : impératifs éditoriaux sionistes imposés dès la prise de contrôle ; départ de [[Quentin M]] par clause de conscience
 - **[[Vincent Bollore]]** : mentionné comme archétype du milliardaire d'extrême droite imposant une ligne via CNews / Europe 1 ; ses journalistes sont présentés comme "payés par un milliardaire d'extrême droite, ultra-offensifs toute la journée"
 - **Pierre-Edouard Sterin** : milliardaire d'extrême droite explicite, offre initiale sur [[Marianne]] rejetée par la rédaction
+- **[[Mathieu Pigasse]] / [[Radio Nova]] + [[Les Inrockuptibles]]** : cas particulier du milliardaire "de gauche" — la ligne n'est pas imposée par autoritarisme mais par intérêts de classe convergents. La PaduTeam ne nie pas la différence (Pigasse n'est pas Bolloré), mais souligne que la propriété reste bourgeoise et que la solution n'est pas un "meilleur propriétaire" mais la collectivisation des moyens de production médiatiques. Zoé à Pigasse : "Si tu aimes beaucoup ce qu'ils font à Nova, peut-être que tu peux leur refiler le moyen de production audiovisuel et que ce soit eux qui le gèrent."
 
 ## Concepts liés
 
@@ -51,3 +52,5 @@ La PaduTeam défend la nécessité structurelle de médias qui ne soient pas dé
 
 - [[MARIANNE LE JOURNAL NEGA-SIONNISTE]] — analyse du rachat de [[Marianne]] par [[Daniel Kretinski]], mécanisme exposé à travers le témoignage de [[Quentin M]]
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — les Grandes Gueules (RMC) comme chiens de garde médiatiques structurels, sélection de classe dans l'antenne
+- [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — Bolloré Presse vs Bernard Arnault Presse : les deux camps de la presse milliardaire se regardent ; la chute de CNews comme conséquence du figement idéologique d'une chaîne qui n'obéit qu'à son propriétaire
+- [[MATHIEU PIGASSE L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — cas Pigasse / Radio Nova / Inrocks : variante "gauche" du mécanisme ; question de la collectivisation des moyens de production médiatiques comme réponse

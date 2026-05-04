@@ -23,3 +23,4 @@ A soutenu [[Marine Le Pen]] après sa condamnation (mars 2026). Il est placé pa
 
 ## Vidéos où Wilders est analysé
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — présent à la conférence de Milan "Patriotes pour l'Europe" ; fort historique de l'extrême droite néerlandaise (complicité de la population dans la déportation des Juifs pendant la 2GM) ; en perte de vitesse selon la PaduTeam

@@ -178,6 +178,24 @@ Le lendemain de l'annonce de la primaire noisette, [[Patrick Kanner]] (présiden
 
 La PaduTeam note avec ironie que Kanner fait d'arguments politiquement solides : l'union arithmétique ne fonctionne pas (Hamon 6,35 % en 2017 comme candidat unique de "toute la gauche"), la vraie primaire a lieu au premier tour de la présidentielle.
 
+## Programme "Vivre libre" (printemps 2026)
+
+Nouveau programme PS présenté par [[Chloe Ridel|Chloé Ridel]] comme porte-parole et [[Olivier Faure]], intitulé "Vivre libre". La PaduTeam le décortique en direct comme une manœuvre tactique contrainte, pas un virage idéologique sincère.
+
+**Mesures phares** : SMIC à 1690 € net (+17%), écart salarial 1 à 20 max en entreprise, taxe Zucman 2% sur patrimoines > 100 M€, impôt sur les successions au-delà de 200 000 €, nationalisations dans les secteurs stratégiques, retour de l'âge de retraite à 62 ans (avant réforme Borne). Position pronucléaire (EPR2) et européiste.
+
+**La ligne de fracture idéologique** : Le programme déclare "le temps de la social-démocratie doit être dépassé" — prise de position directe contre [[Francois Hollande]] (qui défend la social-démocratie via son podcast) et [[Raphael Glucksmann]]. Cette formulation signifie en pratique : "on est à gauche de Hollande", pas "on est marxiste". La PaduTeam : "Si déjà vous étiez social-démocrate, ça serait déjà pas mal. Vous êtes des sociolibéraux."
+
+**La mécanique du coup de barre** : Le PS crée le programme à la va-vite pour couper l'herbe sous le pied de [[Boris Vallot]] qui venait de sortir un livre sur la démarchandisation — et surtout pour empêcher [[Francois Hollande]] de tirer l'appareil vers la droite. "Hop, on met un truc très à gauche pour pouvoir dire 'Oh, il y a pas que Vallot qui réfléchit.'"
+
+**La cible électorale** : 30% de l'électorat Mélenchon 2022 (environ 2 millions d'électeurs "politisés via le NFP") + aile gauche du macronisme (ex-Jadot 2019, ex-Macron déçus de gauche). Le PS "estime à 12-15%" l'espace électoral disponible entre LFI et les centristes une fois Macron sorti.
+
+**Le vice caché** : Sans abroger l'inversion de la hiérarchie des normes instaurée par Macron (primauté des accords d'entreprise sur les conventions collectives), toutes les mesures salariales sont inapplicables. Le tissu de TPE-PME avec peu de syndicats empêche structurellement le progrès social par voie législative seule.
+
+**L'arnaque de la retraite** : Le PS propose de revenir à 62 ans — l'âge d'avant la réforme Borne. Mais c'est *sa propre* réforme des retraites (réforme Touraine) que Borne a prolongée. Défendre 62 ans, c'est défendre le bilan Hollande contre la LFI qui propose 60 ans.
+
+**Slogan "Vivre libre"** : Chris note que "libre" est un terme habituellement mobilisé par la droite (Marine Le Pen 2012 ou 2017), vague, idéaliste, non-matérialiste. "Ce serait bien que ce soit plus gentil et qu'on puisse faire plus de trucs mais on sait pas trop lesquels et qu'on soit un peu plus libre." La PaduTeam y voit la signature d'un programme qui "est incapable d'incarner vraiment un nouveau mode de production."
+
 ## Vidéos où l'organisation est analysée
 - [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner contre Faure ; mécanique de l'appareil hollandiste par lieutenants ; Faure isolé avec les verts, son propre groupe dirigé par Vallaud ; la "plus jamais PS" en arrière-plan permanent.
 - [[LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE]] — validation du 49.3 sur le budget général après avoir promis de l'empêcher ; mort politique de Faure ; Guedj reprend le lead à droite ; Hollande révélé comme vrai architecte de la situation ; annonce soirée "Plus jamais PS" du 20 février 2026 avec Bouamama, Da Silva, Palombarini.
@@ -196,3 +214,4 @@ La PaduTeam note avec ironie que Kanner fait d'arguments politiquement solides :
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — PS comme parti le plus sioniste de France ; retournement de veste sur Gaza ; congrès juin 2025 ; rôle de Backseat comme plateforme
 - [[L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN]] — Décryptage de la stratégie PS : la non-censure Lecornu comme investissement pour porter la Taxe Zucman, prendre le lead à gauche et mettre LFI en position réactive. Vote AN 172/228. Version light (1%). Prévision SMIC à 1600€ NFP. Contexte international (moïsation, SMIC allemand +14%).
 - [[LE PS ET LES NOISETTES EN LARMES APRES LES MUNICIPALES]] — Post-second tour : la ligne Hollande "clarté anti-FI" est déclarée victorieuse. Faure "mort et enterré" ; Vallaud en embuscade ; PS revient "à 15-16 en tapant sur la FI et en draguant le postcronisme" comme prédit un an plus tôt. Analogie Casino/Scorsese : Faure est le "faux patron", Hollande le vrai dirigeant. "Les deux bons ingrédients qui font un plat immangeable" : PS et FI gagnent chacun seul, font perdre alliés.
+- [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] — Programme "Vivre libre" décortiqué : coup de barre à gauche tactique, SMIC 1690€, taxe Zucman, nationalisations, retraites à 62 ans (défense du bilan Hollande) ; Ridel face à Duhamel sur BFM ; mécanique du reflux vers le centre prévisible ; démontage de "on préfère l'original à la copie" via Sarkozy 2007.

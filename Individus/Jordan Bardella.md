@@ -106,6 +106,14 @@ La critique n'est pas l'absence de diplôme (contre-exemple : [[Ambroise Croizat
 
 La PaduTeam confirme sa prédiction : Bardella finira "le Ségolène Royal du RN" — envoyé se tanker pour que Le Pen revienne en 2032. Comparaison avec Mitterrand mettant Rocard premier ministre en 1988 : "Dans un an et demi, on verra au travers."
 
+## Conférence de Milan "Patriotes pour l'Europe" (18 avril 2026)
+
+Bardella se rend à Milan pour la conférence du groupe "Patriotes pour l'Europe", réuni devant le Dôme de Milan (sic : "symbole de la chrétienté"). Slogan de l'événement : **"Sans peur en Europe, patron chez nous"** — que la PaduTeam analyse comme une formulation d'une franchise insolite : "Europe patron" = pro-business libéral, "chez nous" = racisme. "Souvent on se moque de leur communication mais là le slogan dit les choses quoi."
+
+La PaduTeam note l'ironie de la situation : Bardella se présente comme futur gagnant de la présidentielle 2027 ("Notre victoire est proche") devant une assemblée d'alliés qui sont tous en train de s'effondrer. L'événement a eu lieu **une semaine après la défaite d'Orban en Hongrie** — qui n'a pas fait le déplacement. [[Matteo Salvini]] tombe à 6-8%. [[Gert Wilders|Geert Wilders]] est là, lui aussi en perte de vitesse. Bardella célèbre le "courage" de Salvini d'avoir "empêché le débarquement des migrants illégaux" — ce que la PaduTeam traduit directement : "Il a tué des gens en Méditerranée. Jordan Bardella célèbre un meurtrier de masse."
+
+La PaduTeam : "Il fait genre moi je suis là pour faire du sérieux, changer l'orientation de la construction européenne" — et la PaduTeam rappelle que cette "orientation" (pro-business et raciste) est alignée avec tout ce que Bardella vend en France. L'absence de Marine Le Pen est commentée avec ironie : "N'y voyez aucune conclusion à tirer. On se partage simplement la tâche."
+
 ## Bardella = Jospin, tué par ses "lunes" (approfondissement 2026)
 
 Dans [[HOLLANDE LE JEAN-MARIE LE PEN DE 2027]], la PaduTeam affine la comparaison Bardella/Jospin. En 2002, Jospin — donné premier à 30% en janvier 2001 — a été "tué par sa majorité plurielle" : Chevènement, Mamère, Taubira, Besancenot, Laguiller lui ont pris les voix dans son camp. En 2027, Bardella sera tué par les candidats de sa droite (Retailleau, Knafo, et d'autres) qui se partageront son espace. Mécanisme spécifique : donné à 36-38% dans les sondages ("bidon de A à Z, ça ne recouvre aucune réalité sociologique"), Bardella sera trop sûr de son hégémonie pour faire campagne au premier tour. Les électeurs raisonneront par l'absurde — "c'est sûr qu'il est au second tour, donc autant voter Knafo qui est plus proche de mes idées" — et personne n'ira voter Bardella.[^bardella-jospin]
@@ -154,6 +162,7 @@ Cette révélation éclaire aussi la stratégie de communication du RN pour 2027
 [^bardella-niche]: [16:15](https://www.youtube.com/watch?v=k2JDCYqR5iU&t=975) — "il va parler à une espèce de petite classe moyenne qui adore la civilisation française [...] c'est 8 % de l'électorat et en plus il en captera rien."
 
 ## Vidéos
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — conférence de Milan "Sans peur en Europe, patron chez nous" ; Bardella célèbre Salvini (6-8%) et ses alliés qui s'effondrent ; prédit à moins de 20%
 - [[BARDELLA ET LA PRINCESSE LE NOUVEAU VISAGE DU RN PRO BUSINESS]] — arrivisme Bel-Ami, stratégie glamour/patronat divisée avec Le Pen, erreur d'électorat noblesse vs populaire
 - [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — Graphique de Chris : RN 2026 fait ~950 000 voix avec ~400 listes — stagnation absolue par rapport à 2014 (1 million de voix, 500+ listes), et ne capte que 12 % de son socle des européennes 2024. La PaduTeam explique pourquoi sa dérive libérale érode le "pacte raciste" qui faisait sa force : "ils étaient sociaux mais que pour les Français." Prédiction réitérée : "moins de 20 % si c'est lui le candidat."
 - [[BARDELLA est-il le MAILLON FAIBLE du RN]] — longfall : blocage des prix refusé (Venezuela/Cuba), alliance LR contre LFI, prestation télé catastrophique sur la récupération politique ; "Jospin 2002" qui prépare le second tour et oublie le premier

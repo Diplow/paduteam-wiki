@@ -155,6 +155,12 @@ La PaduTeam anticipe qu'après les midterms, Vance et Rubio chercheront à faire
 [^iran3]: [16:05](https://www.youtube.com/watch?v=A198m2MhnL0&t=965) — "il y a des pro maga comme Cand et cetera qui commence à dire comme nous, ce type là fait n'importe quoi, il est en train de nous faire perdre la puissance dans le monde. Arrêtez-le 25e amendement"
 [^iran4]: [34:11](https://www.youtube.com/watch?v=A198m2MhnL0&t=2051) — "Trump a signé à bord Air Force One 22 minutes avant la deadline fixée par son propre général. 'Operation Epic Frey is up, no abort, good luck.'"
 
+## Panorama global : Trump dans l'effondrement de l'internationale réactionnaire (avril 2026)
+
+La PaduTeam intègre Trump dans une lecture mondiale : 37% d'approbation, "c'est le pire score de sa carrière sur l'économie" — le seul capital qui lui restait. Les midterms s'annoncent catastrophiques. Les MAGA eux-mêmes sont à 22% de désapprobation interne et certains (Candace Owens) demandent le 25e amendement. "Il y a vraiment très chaud. Plus personne ne croit en lui."
+
+Trump "se fait retourner au Venezuela, se fait retourner à Cuba, se fait défoncer en Iran. Plus personne ne compte sur lui." Son effondrement s'inscrit dans la déliquescence générale de l'[[Internationale reactionnaire]] — l'[[Epreuve du pouvoir de l extreme droite]] se vérifie à l'échelle mondiale.
+
 ## Vidéos où Trump est analysé
 - [[MADURO KIDNAPPE ET TORTURE PAR LES USA]]
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]]
@@ -167,3 +173,4 @@ La PaduTeam anticipe qu'après les midterms, Vance et Rubio chercheront à faire
 - [[REVOLTES A LOS ANGELES VERS UNE REPUBLIQUE SOVIETIQUE DE CALIFORNIE]] — Crise constitutionnelle Newsom, désagrégation de l'empire, contrat racial hispanique
 - [[MACRON FAIT une MASTERCLASS ANTI-TRUMP a DAVOS (c'est pas une blague)]] — Davos : 72 minutes d'erreurs factuelles, NASDAQ effondré, Trump "poisson hors de l'eau", acculé par la concurrence Macron pour les capitaux chinois
 - [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Bilan du cessez-le-feu : péage à Ormuz (70-90 Mds$/an pour l'Iran), fiasco révélé par le NYT, Netanyahu comme architecte de la guerre
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — 37% d'approbation, pire score économique, MAGA à 22% ; intégré dans la déliquescence mondiale de l'internationale réactionnaire

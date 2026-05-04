@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, guerre-des-gauches, hégémonie-culturelle]
-skill_version: write-enjeu-2026-04-25-enrichi-batch41
+skill_version: write-enjeu-2026-05-04-enrichi-w18-w19
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/guerre-des-gauches
 
@@ -172,6 +172,16 @@ L'implication pour la bataille culturelle : l'espace culturel de gauche est occu
 
 **Roussel localisé dans l'espace Charlie.** Sur le [[Graphique]], Fabien Roussel se retrouve dans le même espace que Franc-Tireur et Enthoven sur cette question — "plus hégélien que léniniste", défendant la laïcité abstraite dans son absolu historique plutôt que de penser que le clivage Charlie est une violence contre les classes opprimées. Ce positionnement illustre le problème de ligne du PCF-Roussel dans la bataille culturelle.
 
+### 20. Gramsci retourné : la "bataille culturelle" sans sujet collectif comme imposture bourgeoise — W18-W19 2026
+
+Deux vidéos du corpus de mai 2026 formulent, depuis deux angles différents, la même correction fondamentale sur l'usage bourgeois du terme "bataille culturelle".
+
+**Correction par CNews.** Dans [[LA CHUTE DE CNEWS et PASCAL PRAUD]], Zoé pose une thèse centrale sur les limites de la critique des médias (Acrimed, Chomsky, Serge Alimi) : cette critique est politiquement limitée parce qu'elle **inverse le rapport de causalité**. Ce ne sont pas les médias corrompus qui produisent la société — c'est la structure sociale qui produit les médias qu'elle mérite. Chris et Zoé corrigent une lecture idéaliste de Gramsci : la "bataille culturelle" n'est pas une activité discursive ex-nihilo, c'est une **activité de la lutte des classes**. La guerre de position gramscienne suppose un sujet collectif — une classe avec sa vision du monde. Attendre des "médias gentils" pour gagner est une illusion idéaliste. La solution est de construire des outils militants alternatifs en prenant acte que tous les candidats de gauche radicale "se feront pourrir la gueule par les médias."
+
+**Correction par Pigasse.** Dans [[MATHIEU PIGASSE  L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]], Chris démonte point par point l'usage gramscien que fait le banquier milliardaire du terme : "Quand vous êtes à Radio Nova, vous ne faites pas de bataille culturelle. La bataille culturelle, c'est l'activité de la classe." Radio Nova et les Inrocks sont l'*expression* d'une bataille culturelle de classe bourgeoise — pas la pointe avancée d'une contre-hégémonie prolétarienne. La question que la PaduTeam renvoie à Pigasse et à tous les équivalents : "assis sur quel sujet collectif ?" Sans ancrage dans un bloc de classe, ce que Pigasse appelle "bataille culturelle" ne fait que défricher le terrain pour maintenir l'hégémonie bourgeoise habillée en progressisme.
+
+**La formule de synthèse.** Ces deux vidéos convergent sur un même axiome : la bataille culturelle gramscienne n'est pas une pratique médiatique ou communicationnelle — c'est **l'activité organisée d'un bloc social qui lutte pour l'hégémonie**. Quand des acteurs bourgeois (Pigasse, philanthropes, médias "progressistes") s'en réclament, ils détournent le concept pour le vider de sa dimension de classe. La réponse n'est pas de leur laisser le terrain — c'est d'exiger la question "tu représentes qui ?"
+
 ### 18. Viktorovitch et la fausse neutralité comme production idéologique — W07 2026
 
 [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] approfondit la thèse centrale de la bataille culturelle — la neutralité n'existe pas — par le cas le plus sophistiqué : l'analyste du discours qui se croit hors-jeu.
@@ -205,6 +215,8 @@ La contribution spécifique de ce cas à la bataille culturelle : la fausse neut
 - [[CLEMENT VIKTOROVITCH LE MEILLEUR MILITANT ANTI-LFI]] — fausse neutralité sincère comme forme la plus efficace de militantisme hégémonique ; idéalisme libéral (le discours façonne le réel) vs matérialisme historique (la crise du capitalisme produit le fascisme) ; 2e Thèse sur Feuerbach ; le confusionnisme non-déclaré plus difficile à combattre que l'adversaire qui assume sa ligne
 - [[LUCBERT et LORDON PSYCHANALYSENT TRUMP CA TOURNE au CACA]] — psychanalyse politique sans débouché = liturgie intellectuelle = symptôme d'impuissance ; l'entertainment culturel habillé en politique occupe l'espace progressiste sans le transformer ; biographique vs structurel ; "quelqu'un qui a payé 1€ à la CGT est déjà plus révolutionnaire que le gars qui regarde ça" ; parallèle avec le confusionnisme
 - [[CHARLIE HEBDO EST-IL REACTIONNAIRE (GRAPHOMARXISME avec Chris de Positions Revue)]] — démonstration graphique que le clivage Charlie est parallèle à la diagonale de classe (pas perpendiculaire = pas transclasse) ; l'universalisme abstrait bourgeois comme liberté qui s'exerce *contre* les dominés ; Franc-Tireur/Enthoven dans le même espace réactionnaire que Zemmour ("autant islamophobes mais qui se croient encore de gauche des Lumières") ; la laïcité comme non-sujet stratégique dans l'espace populaire ; Roussel localisé dans l'espace Charlie
+- [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — deux corrections majeures sur Gramsci : (1) Zoé — la critique des médias inverse le rapport de causalité, c'est la structure sociale qui produit les médias ; (2) la bataille culturelle gramscienne = activité de la lutte des classes, pas activité discursive ex-nihilo ; "tout candidat de la gauche radicale se fera pourrir la gueule — il faut faire le deuil de ça et construire des outils militants alternatifs"
+- [[MATHIEU PIGASSE  L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — la "bataille culturelle" bourgeoise comme imposture gramscienne : "quand vous êtes à Radio Nova, vous ne faites pas de bataille culturelle — la bataille culturelle c'est l'activité de la classe" ; Radio Nova et les Inrocks comme expression de la bataille culturelle *bourgeoise*, pas contre-hégémonie prolétarienne ; la question fondamentale : "assis sur quel sujet collectif ?"
 
 [^bc_chapoutot]: [36:22](https://www.youtube.com/watch?v=7ROhqtNL0Ak&t=2182) — "Le positionnement politique, ça tient à deux ou trois petits égos un peu brisés de gens qui sont habitués à ce qu'on les suce un peu trop."
 [^bc_neutralite]: [11:20](https://www.youtube.com/watch?v=7ROhqtNL0Ak&t=680) — "Les historiens qui se revendiquent militants sont souvent progressistes. Les historiens qui se revendiquent non militants sont quand même des militants mais de la conservation."

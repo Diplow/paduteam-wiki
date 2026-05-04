@@ -43,12 +43,18 @@ La PaduTeam mentionne un épisode révélateur des années 1990 : en tant que jo
 
 La PaduTeam souligne que Morgane Praud, fille de Pascal Praud, vote France Insoumise depuis au moins 2017 — neuf ans d'engagement stable que Praud lui-même avait évoqué à l'époque sur RTL. En février 2026, un article *Closer* reprend l'information comme une nouveauté, en présentant Praud comme un père tolérant qui « laisse ses filles forger leurs convictions ». La PaduTeam démonte le cadrage : ce n'est pas la fille qui fait une crise d'adolescence, c'est Praud qui fait une [[Crise de senilite|crise de sénilité]] — une radicalisation fasciste en réaction à la [[Lame de fond]] dont ses enfants font partie. C'est Praud qui s'est radicalisé depuis 2017, pas sa fille. L'article de *Closer* est qualifié de « lâcheté fasciste » pour avoir évité de nommer Praud comme diffuseur d'idées fascistes : « tu as un père fasciste qui diffuse des idées fascistes qui nous emmène à la catastrophe [...] Mais c'est pas grave, on va se regarder un film ce soir. »[^4]
 
+## La chute de 2026
+
+En 2026, Pascal Praud est au cœur de la chute d'audience de [[CNews]]. Il assurait 5 heures d'antenne quotidienne (télé + radio) quasiment seul, ayant absorbé une demi-heure supplémentaire après le départ de [[Jean-Marc Morandini]] en février. La PaduTeam : "Comment tu veux tailler tes sujets en étant à l'antenne 5h par jour ? Tu as pas le temps de lire, tu as pas le temps de confronter des points de vue." Entre septembre 2025 et avril 2026, il perd 200 000 fidèles et 6 points de part d'audience sur son créneau du matin[^5]. La PaduTeam qualifie ce rythme de "Ndiaye but make it Bolloré média" — un présentateur en surrégime dont le travail s'en ressent.
+
 ## Vidéos où Pascal Praud est mentionné
 
 - [[BHL TROUVE MELENCHON FASCISTE MAIS PAS LE PEN]] — Anime l'interview BHL ; pointe sa gêne sur Marine Le Pen ("vous êtes ennuyé là") ; utilisé comme mètre-étalon du réactionnaire médiatique
 - [[PASCAL PRAUD MET LEON DEFFONTAINES EN PLS SUR STALINE]] — Piège stalinien contre Deffontaines sur Europe 1 ; la PaduTeam décortique la technique et formule la riposte offensive qui aurait dû être faite
 - [[SARAH SALDMANN EXPLIQUE LA LUTTE DES CLASSES A PASCAL PRAUD]] — Praud incarne la [[Fausse conscience de classe]] bourgeoise : il retourne la conscience ouvrière contre elle-même en disant que les ouvriers "sont fiers" de leur exploitation ; son parcours biographique documenté comme contradiction directe à ses leçons sur le travail
 - [[PRAUD ET MENARD EN SUEUR LEURS ENFANTS VOTENT MELENCHON]] — Thèse de la crise de sénilité : c'est Praud qui se radicalise en réaction à la lame de fond portée par ses enfants ; critique de la neutralisation médiatique du fascisme Boloré par *Closer*
+- [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — chiffres de la chute d'audience ; analyse du surrégime (5h d'antenne quotidienne) ; ses audiences comme thermomètre de la déliquescence CNews
 
 [^3]: [31:37](https://www.youtube.com/watch?v=v2VmqVWIqYQ&t=1897) — "c'est un petit peu facile quand on a eu cette vie, particulièrement entre 18 et 30 ans, de venir donner des leçons à la terre entière sur le rapport qu'on a au travail"
 [^4]: [25:55](https://www.youtube.com/watch?v=mX2Rfa9daiE&t=1555) — "tu as un père fasciste qui diffuse des idées fascistes qui nous emmène à la catastrophe [...] Mais c'est pas grave, on va se regarder un film ce soir."
+[^5]: [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — "la star est en surrégime avec 5 heures d'antenne quotidienne [...] Il a encore gagné une demi-heure de présence après le départ de Jean-Marc Morandini début février"

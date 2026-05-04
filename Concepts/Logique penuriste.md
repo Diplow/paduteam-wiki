@@ -56,11 +56,16 @@ La Chine illustre la thèse : de 0 % à 50 % de voitures électriques produites 
 
 [^ecolo-pipeline]: [12:58](https://www.youtube.com/watch?v=QNJT5-hMQ78&t=778) — "la question de la gauche et c'est pour ça que l'écologie est un pipeline pour l'extrême droite parce que l'écologie vient dire la même chose. Il y en a pas assez pour tout le monde." — dans [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]]
 
+## La logique pénuriste comme fondement du souverainisme économique
+
+Dans [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]], la PaduTeam identifie une nouvelle articulation de la logique pénuriste : le [[Souverainisme economique populiste]]. Ruffin applique le raisonnement pénuriste à l'échelle nationale et internationale : "si on n'a pas assez de médecins, c'est parce que la France en forme pour d'autres pays" ; "si on a perdu notre industrie, c'est parce que la Chine est dans l'OMC." La pénurie nationale comme alibi pour le protectionnisme — la logique même que Le Pen portait dans les années 1990 contre la mondialisation. "Il y a des institutions pour les blancs du centre, contre 75 % du reste de la population qui doivent subir et exécuter la production chez nous."
+
 ## Vidéos clés
 
 - [[MACRON NOUS MENT POUR TUER LA SECU]] — démontage de la logique pénuriste appliquée au "déficit" de la Sécu ; capture de l'énergie anti-riche contre l'universalité ; paradoxe de la résilience ouvrière
 - [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]] — logique pénuriste dans le programme de gauche réformiste : Ruffin valide la contrainte budgétaire comme réalité incontournable ; opposition avec le choc d'abondance
 - [[TONDELIER PURGE 500 MILITANTS DES ECOLOGISTES]] — l'écologie libérale EELV comme pipeline vers l'extrême droite ; la finitude des ressources comme logique pénuriste ; la Chine comme contre-exemple de planification écologique sans décroissance
+- [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]] — logique pénuriste comme fondement du souverainisme économique : pénurie nationale justifiant le protectionnisme anti-Chine et la méfiance envers les travailleurs étrangers
 
 [^2]: [8:52](https://www.youtube.com/watch?v=jtDb2meKMn8&t=532) — "le néolibéralisme va capter... l'anti-riche pour remettre en question le système universel de la sécurité sociale"
 [^3]: [9:53](https://www.youtube.com/watch?v=jtDb2meKMn8&t=593) — "Moi je préfère travailler 2 ans de plus mais que mes enfants ils aient droit à la retraite"

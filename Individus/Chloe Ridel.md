@@ -41,6 +41,14 @@ La PaduTeam : "Je sais même pas quel parti est plus sioniste que le Parti socia
 - Opposition directe à [[Jean-Luc Melenchon]] et [[Manuel Bompard]] sur le communiqué post-condamnation Le Pen
 - [[Olivier Faure]] — camp politique au congrès PS
 
+## Trajectoire et opportunisme politique
+Fille d'un patron d'une boîte de commerce internet. Sciences Po Paris, ENA (promotion George Orwell). A commencé proche du milieu souverainiste de gauche (Institut Rousseau, Le Vent Se Lève). A choisi le PS par calcul en 2022 : "les malins de la NUPES ont compris que le PS est tout petit mais il va renaître à gauche [...] il y a plus de place à se faire en croyant dans la NUPES que dans la FI qui est déjà un gros appareil où il y a déjà plein de portes à passer." Cofondatrice de l'[[Institut Rousseau]] (2020), chroniqueuse sur [[Backseat]], passée par le ministère de l'économie (réunions de ministres européens, Brexit). Députée européenne depuis 2024 sur la liste de [[Raphael Glucksmann]].
+
+Coordonnatrice du programme PS — même rôle que [[Clemence Guette]] à LFI. Se définit comme "membre d'une génération unionniste" et critique de la présidence Hollande. Pour la PaduTeam, elle est "la Clémence Guetté d'Olivier Faure" et son programme "vivre libre" porte des "grosses ficelles" pour parler simultanément aux macronistes (liberté) et au NFP (justice).
+
+La contradiction structurelle est soulignée : Ridel et Glucksmann sont sur la même liste aux européennes — "croyez que Glucksmann il va valider ce programme là, c'est bien trop à gauche pour Place Publique." La ligne Ridel/Faure est donc déjà condamnée à refluer.
+
 ## Vidéos où Ridel est analysée
 - [[LE PEN CONDAMNEE MELENCHON SCANDALISE]]
 - [[CHLOE RIDEL PS A BACKSEAT LE SIONISME S'INFILTRE A GAUCHE]] — Retournement de veste PS sur Gaza ; double discours génocide ; PS plus sioniste que le RN
+- [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] — Profil biographique détaillé ; trajectoire opportuniste ; coordonnatrice programme "vivre libre" ; interview BFM face à Duhamel décryptée

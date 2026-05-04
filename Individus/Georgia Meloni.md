@@ -32,10 +32,21 @@ La PaduTeam commente que cette hostilité révèle deux choses : d'abord que Le 
 
 La PaduTeam ironise : "L'Europe donne-le nous [...] 240 milliards, on en fait des trucs hein, même avec la moitié" — 240 milliards pour la santé plutôt que pour un gouvernement d'extrême droite.
 
+## Référendum perdu et trajectoire en difficulté (mars-avril 2026)
+
+Meloni a tenté de relancer sa dynamique avant les élections de 2027 avec un référendum sur la réforme de la justice (mars 2026). Résultat : **défaite 46-53 avec 60% de participation** — "une belle branlée." Les manifestations de gauche avaient précédé le référendum, et l'Italie s'était distinguée dans les mobilisations pour la Palestine.
+
+Fratelli d'Italia, après avoir culminé à des taux "très très importants" début 2025, est "en train de descendre descendre" et il reste encore un an avant les élections de 2027. [[Matteo Salvini]], allié dans la coalition, est tombé à **6-8% des intentions de vote** — ce que Bardella glorifie comme modèle[^ref1]. La PaduTeam : "la trajectoire là de Méloni est en difficulté."
+
+Elle incarne désormais la démonstration italienne de l'[[Epreuve du pouvoir de l extreme droite]] au sein de l'[[Internationale reactionnaire]].
+
+[^ref1]: [11:49](https://www.youtube.com/watch?v=null&t=709) — "Ce dernier est désormais crédité de seulement 6 à 8 % des intentions de vote pour le prochain scrutin parlementaire de 2027. C'est ça qui Matthéo. Donc on voit le bilan de Matthéo Salvini que Jordan vente."
+
 ## Vidéos où Meloni est analysée
 - [[MARION MARECHAL FURIEUSE ELLE VEUT TERRASSER LA GAUCHE]] — mélonisme comme modèle pour Maréchal ; fiscalité italienne comme Eldorado patronal ; note Fitch comme mesure de soumission aux marchés ; contradiction immigration/patronat agricole
 - [[EXPLOSION DES DROITES LE RN ET LR AU BORD DE LA SCISSION]] — Marine Le Pen hostile à Meloni comme modèle ; 240 milliards UE reçus par l'Italie ; Le Pen critique l'alignement de Meloni sur l'Europe
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — contre-exemple emblématique : Meloni a régularisé ~500 000 immigrés sous pression du patronat agricole, démontrant que même l'extrême droite au pouvoir ne peut pas se passer de la main d'œuvre immigrée
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — référendum perdu 46-53 (60% participation) ; Salvini à 6-8% ; trajectoire de difficulté avant 2027 ; Bardella célèbre Salvini comme modèle tout en s'effondrant avec lui
 
 [^exil-fiscal]: [28:17](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=1697) — « l'Italie a fixé un forfait de seulement 200 000 € d'impôts par an pour les revenus réalisés à l'étranger des nouveaux résidents fiscaux. Elle les attire désormais de plus en plus. »
 [^notation]: [35:04](https://www.youtube.com/watch?v=cGPXQkDfxkc&t=2104) — « quand vous voyez des gens avoir une bonne note chez Fitch, ce n'est pas la performance de leur économie, c'est leur degré de soumission au marché financier et de rentabilité de profit. »

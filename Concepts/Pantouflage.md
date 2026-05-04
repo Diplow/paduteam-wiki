@@ -32,6 +32,7 @@ La formule : "On lui retire ses tafs, il n'y a plus personne au chômage."[^1]
 ## Vidéos où le concept est développé
 
 - [[USUL ATTAQUE PAR LE PIRE MAIRE PS DE FRANCE]]
+- [[MATHIEU PIGASSE L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — [[Mathieu Pigasse]] comme cas d'école : formation publique (ENA / Sciences Po) financée par l'État, postes au Trésor et au cabinet du ministre des Finances, puis transfert en 2001 vers la banque [[Lazard]] pour faire fructifier le savoir et le carnet d'adresses acquis dans la sphère publique.
 
 [^1]: [23:45](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1425) — "il y a Néolitis qui dit un truc intelligent qui dit 'On lui retire ses tafs, il n'y a plus personne au chômage.'"
 [^2]: [31:58](https://www.youtube.com/watch?v=X9ugVNsv3vw&t=1918) — "devrait y avoir un statut qui dit si vous êtes secrétaire général de LVMH, tu vois, vous ne pouvez pas être dans le parti communiste, tu vois, ça paraît évident"

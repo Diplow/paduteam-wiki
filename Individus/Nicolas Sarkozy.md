@@ -61,6 +61,10 @@ Le programme de Retailleau ("travailler plus", réforme des retraites, réforme 
 
 [^sarko-2007]: [9:49](https://www.youtube.com/watch?v=U0N868hjOPw&t=589) — "C'est vraiment du SarkoZi bis qu'il essaie de refaire. Tout comme le PS essaie de refaire du Holland Beast [...] ils vont faire 16 17%"
 
+## Sarkozy 2007 : la réfutation de "on préfère l'original à la copie"
+
+Dans [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]], la PaduTeam utilise Sarkozy 2007 comme contre-exemple paradigmatique de l'argument "les électeurs préfèrent l'original à la copie." Sarkozy a clairement chassé sur les terres du FN (immigration, insécurité, ordre) — et a gagné. Les électeurs ont choisi la *stature d'État* et la crédibilité institutionnelle du parti sortant (UMP) plutôt que l'original (Le Pen). "La phrase, on préfère l'original à la copie, c'est vraiment n'importe quoi de A à Z." Application au débat PS/LFI : le PS pourrait réussir à pomper l'électorat FI si son incarnation est assez institutionnelle et son programme suffisamment crédible.
+
 ## Vidéos où l'individu est analysé
 - [[HOLLANDE NARGUE LES SANS DENTS AVEC SA VIE INSTAGRAM]] — cité comme référence de la "fillonisation" : Sarkozy en 2017 a été humilié par Juppé puis Fillon en revenant dans la course primaire. Hollande subira le même sort face à Vallaud.
 - [[Faut-il en finir avec le NFP]]
@@ -69,3 +73,4 @@ Le programme de Retailleau ("travailler plus", réforme des retraites, réforme 
 - [[SARKOZY CONDAMNE A 5 ANS DE PRISON FERME]] — condamnation pénale ; justice de classe obligée de sauver les apparences ; analogie Al Capone ; réaction de Sarkozy (complot) ; analyse tactique pour Retailleau
 - [[CNEWS PLEURE POUR UN CRIMINEL]] — la réaction de CNews à sa condamnation ; nostalgie sarkozyste comme cœur idéologique de l'empire Bolloré ; électeurs RN qui se réjouissent de sa chute (le traître)
 - [[RETAILLEAU PRESENTE SON PROJET POUR LA FRANCE]] — "Sarkozy 2007 bis" : Retailleau reprend le même programme mais dans un contexte de moïsation achevée où il ne peut faire que 16-17% là où Sarkozy faisait 30-35%
+- [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] — Utilisé comme contre-exemple paradigmatique de la phrase "on préfère l'original à la copie" : Sarkozy 2007 prouve qu'un parti peut réussir à pomper les thèmes d'un concurrent si son incarnation institutionnelle est crédible
