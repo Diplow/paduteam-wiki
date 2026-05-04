@@ -11,8 +11,8 @@ Fichier de suivi pour l'ingestion chronologique des vidéos PaduTeam
 de 20 oct 2024 à 20 avr 2026.
 Batches de 2 semaines ISO (~10 vidéos/batch), du plus ancien au plus récent.
 
-Généré par `Sources/Transcripts/generate_chronological.py`.
-Pour lancer l'ingestion : `python Sources/Transcripts/run_ingest.py`
+Généré par `Scripts/generate_chronological.py` (racine WikiPol).
+Pour ingérer les nouvelles vidéos : `python Scripts/weekly_ingest.py --source Sources/Paduteam`
 
 ---
 

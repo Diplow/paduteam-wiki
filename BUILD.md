@@ -251,7 +251,7 @@ La PaduTeam affirme que le PS est structurellement incapable de rupture[^1].
 [^1]: [12:34](https://www.youtube.com/watch?v=YOUTUBE_ID&t=754) — "citation exacte ou résumé du passage"
 ```
 
-Le `youtube_id` est stocké dans le frontmatter de la fiche vidéo. Pour convertir un timestamp `MM:SS` en secondes pour le paramètre `&t=`, utiliser le helper `Sources/timestamp_to_seconds.py`.
+Le `youtube_id` est stocké dans le frontmatter de la fiche vidéo. Pour convertir un timestamp `MM:SS` en secondes pour le paramètre `&t=`, utiliser le helper `Scripts/timestamp_to_seconds.py` à la racine WikiPol.
 
 Pour les fiches non-vidéo (entités, concepts, enjeux), les footnotes référencent la vidéo source via son youtube_id — récupéré depuis la fiche vidéo correspondante.
 
