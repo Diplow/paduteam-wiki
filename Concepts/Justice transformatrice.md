@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Justice transformatrice
 
 ## Définition
-Ensemble de pratiques développées principalement dans des collectifs militants marginalisés (milieux cuir/LGBT, communautés racisées, notamment aux États-Unis) pour gérer les conflits et les VSS en dehors du système pénal punitiviste. Associée notamment aux travaux d'[[Elsa Deck Marceau]] et du collectif Fracas en France.
+Ensemble de pratiques développées principalement dans des collectifs militants marginalisés (milieux queer/LGBT, communautés racisées, notamment aux États-Unis) pour gérer les conflits et les VSS en dehors du système pénal punitiviste. Associée notamment aux travaux d'[[Elsa Deck Marceau]] et du collectif Fracas en France.
 
 ## Mécanisme
 La justice transformatrice repose sur :

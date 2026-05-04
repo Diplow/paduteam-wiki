@@ -11,7 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:01 pm
 # Elsa Deck Marceau
 
 ## Profil synthétique
-Militante féministe, membre du collectif Fracas. Auteure d'un livre de référence sur la [[Justice transformatrice]] et réhabilitatrice développée dans des espaces militants, particulièrement des milieux cuir/LGBT et des communautés racisées marginalisées. Ses méthodes de gestion des conflits et des VSS au sein de collectifs militants ont été largement citées lors de l'affaire Dany Caligula.
+Militante féministe, membre du collectif Fracas. Auteure d'un livre de référence sur la [[Justice transformatrice]] et réhabilitatrice développée dans des espaces militants, particulièrement des milieux queer/LGBT et des communautés racisées marginalisées. Ses méthodes de gestion des conflits et des VSS au sein de collectifs militants ont été largement citées lors de l'affaire Dany Caligula.
 
 ## Stratégie et trajectoire
 La ZawaProd a instrumentalisé son travail pour réclamer des « médiations » et présenter cela comme de la justice transformatrice. Zoé estime que c'est un dévoiement complet : les principes d'Elsa Deck Marceau sont conçus pour des communautés marginalisées avec des rapports horizontaux, et présupposent que la personne accusée reconnaît ses torts. Les utiliser pour justifier l'impunité d'un patron powerful est une manipulation.
