@@ -728,3 +728,15 @@ Statut : ✅ fait (2026-04-25)
 Fiches créées : Charlie Hebdo (vidéo + organisation), Tondelier dîners (vidéo), Ecologie comme fausse conscience (concept), Pierre-Rene Laavier (individu). Fiches enrichies : Thaïs VSS (vidéo), +14 fiches concepts/individus/organisations/enjeux.
 
 ---
+## Batch 42 — Semaines 2026-W18 à 2026-W19 (27 avr 2026 – 10 mai 2026)
+
+Statut : ⏳ en attente
+
+- [ ] LA CHUTE DE CNEWS et PASCAL PRAUD
+- [ ] PS : VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER ?
+- [ ] TRUMP, MELONI, MILEI : LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE ?
+- [ ] RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !
+- [ ] ACTION, LIDL, AMAZON : L'EXPLOITATION 2.0 !
+- [ ] MATHIEU PIGASSE : L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE
+
+---
