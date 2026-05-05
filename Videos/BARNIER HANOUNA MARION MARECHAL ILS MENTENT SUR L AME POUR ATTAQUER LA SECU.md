@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME POUR ATTAQUER LA SECU
 
-[![BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME POUR ATTAQUER LA SECU](https://img.youtube.com/vi/bG4svF-3KLE/0.jpg)](https://www.youtube.com/watch?v=bG4svF-3KLE)
-
+![BARNIER HANOUNA MARION MARECHAL ILS MENTENT SUR L AME POUR ATTAQUER LA SECU](https://www.youtube.com/watch?v=bG4svF-3KLE)
 ## Résumé
 
 Analyse de l'instrumentalisation de l'AME (Aide médicale d'État) par Barnier, Hanouna et Marion Maréchal comme diversion xénophobe pour masquer les vraies attaques contre la Sécu. La PaduTeam démonte les chiffres : l'AME coûte 1 milliard (0,5% du budget maladie), sa fraude est de 461 000€, et la supprimer coûterait plus cher en urgences catastrophiques. L'attaque sert à stimuler le racisme et à détourner l'attention.

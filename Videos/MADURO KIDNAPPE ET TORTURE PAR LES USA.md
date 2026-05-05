@@ -13,6 +13,9 @@ date modified: 2026-04-25
 aliases: [MADURO KIDNAPPÉ ET TORTURÉ PAR LES USA]
 ---
 #domaine/géopolitique #thème/Venezuela #thème/anti-impérialisme #enjeu/anti-impérialisme #enjeu/campisme-assumé
+
+![MADURO KIDNAPPÉ ET T0RTURÉ PAR LES USA : LE SCANDALE DONT PERSONNE NE PARLE !](https://www.youtube.com/watch?v=InxosoRwAmQ)
+
 # MADURO KIDNAPPÉ ET T0RTURÉ PAR LES USA : LE SCANDALE DONT PERSONNE NE PARLE !
 
 ## Résumé

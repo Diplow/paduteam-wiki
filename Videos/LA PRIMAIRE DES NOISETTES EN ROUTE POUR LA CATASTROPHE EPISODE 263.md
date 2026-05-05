@@ -12,8 +12,7 @@ skill_version: write-video-2026-04-25
 
 # LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE (épisode 263)
 
-[![LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE](https://img.youtube.com/vi/AMR2w32OkmU/0.jpg)](https://www.youtube.com/watch?v=AMR2w32OkmU)
-
+![LA PRIMAIRE des NOISETTES EN ROUTE pour la CATASTROPHE](https://www.youtube.com/watch?v=AMR2w32OkmU)
 ## Résumé
 
 La PaduTeam commente un article Mediapart de Pauline Groll et Ili Ramdani sur l'agonie de la primaire des noisettes, plus un extrait de l'Ifop sur la même question. La primaire est morte avant d'avoir eu lieu : [[France Insoumise|LFI]] s'apprête à lancer la campagne [[Jean-Luc Melenchon]] avant l'été avec [[Bally Bagayoko]] comme locomotive, [[Boris Vallaud]] prend le contrôle du [[Parti Socialiste]] contre [[Olivier Fort]], et [[Francois Hollande]] attend en embuscade avec sa stratégie du "désigner le plus tard possible." La thèse centrale : le candidat unique est une catastrophe stratégique — mieux vaut plusieurs candidats qui s'affrontent sur des thèmes de gauche.

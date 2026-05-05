@@ -11,8 +11,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/racisme-antiracisme #thème/répression-justice #thème/élections #enjeu/plus-jamais-PS
 
-[![VILLEPIN DÉRAPE sur ZYED et BOUNA !!](https://img.youtube.com/vi/R0g0NlHF6RY/0.jpg)](https://www.youtube.com/watch?v=R0g0NlHF6RY)
-
+![VILLEPIN DÉRAPE sur ZYED et BOUNA !!](https://www.youtube.com/watch?v=R0g0NlHF6RY)
 # VILLEPIN DÉRAPE sur ZYED et BOUNA !!
 
 ## Résumé

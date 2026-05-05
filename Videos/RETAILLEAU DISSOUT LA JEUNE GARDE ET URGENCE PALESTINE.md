@@ -12,8 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/répression-justice #thème/racisme-antiracisme #enjeu/Palestine-libre
 
-[![RETAILLEAU DISSOUT la JEUNE GARDE et URGENCE PALESTINE !! (avec Cem Yoldas)](https://img.youtube.com/vi/apa807lyQeM/0.jpg)](https://www.youtube.com/watch?v=apa807lyQeM)
-
+![RETAILLEAU DISSOUT la JEUNE GARDE et URGENCE PALESTINE !! (avec Cem Yoldas)](https://www.youtube.com/watch?v=apa807lyQeM)
 # RETAILLEAU DISSOUT LA JEUNE GARDE ET URGENCE PALESTINE !! (avec Cem Yoldas)
 
 ## Résumé

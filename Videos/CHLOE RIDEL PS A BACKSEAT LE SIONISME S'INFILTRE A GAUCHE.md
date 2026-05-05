@@ -13,7 +13,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/Palestine #thème/guerre-des-gauches #thème/médias-propagande #enjeu/Palestine-libre #enjeu/sionisme-gauche-comme-menace #enjeu/plus-jamais-PS #enjeu/campisme-assumé
 
-[![Thumbnail](https://img.youtube.com/vi/uPMZImTM3zw/maxresdefault.jpg)](https://www.youtube.com/watch?v=uPMZImTM3zw)
+![CHLOÉ RIDEL (PS) à BACKSEAT : le SIONISME S'INFILTRE à GAUCHE ?](https://www.youtube.com/watch?v=uPMZImTM3zw)
 
 # CHLOÉ RIDEL (PS) à BACKSEAT : le SIONISME S'INFILTRE à GAUCHE ?
 

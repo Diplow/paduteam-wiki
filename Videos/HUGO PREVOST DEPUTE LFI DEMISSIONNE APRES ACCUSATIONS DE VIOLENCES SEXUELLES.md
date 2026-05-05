@@ -14,6 +14,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS #thème/guerre-des-gauches #enjeu/féminisme-matérialiste #enjeu/VSS-comme-fait-social
 
+![HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES](https://www.youtube.com/watch?v=yixXgHXrAho)
+
 # HUGO PRÉVOST (DÉPUTÉ LFI) DÉMISSIONNE APRÈS DES ACCUSATIONS DE VIOLENCES SEXUELLES
 
 ## Résumé

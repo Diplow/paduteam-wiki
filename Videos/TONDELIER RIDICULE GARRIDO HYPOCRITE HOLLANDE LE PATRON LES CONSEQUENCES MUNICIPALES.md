@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/union-populaire #enjeu/plus-jamais-PS #enjeu/guerre-des-gauches
 
-[![TONDELIER RIDICULE, GARRIDO HYPOCRITE, HOLLANDE LE PATRON : LES CONSÉQUENCES MUNICIPALES !!](https://img.youtube.com/vi/RB5LIF2Rp2I/0.jpg)](https://www.youtube.com/watch?v=RB5LIF2Rp2I)
-
+![TONDELIER RIDICULE, GARRIDO HYPOCRITE, HOLLANDE LE PATRON : LES CONSÉQUENCES MUNICIPALES !!](https://www.youtube.com/watch?v=RB5LIF2Rp2I)
 ## Résumé
 
 Vidéo post-premier-tour des municipales 2026. La PaduTeam analyse les réactions de la gauche de droite aux résultats : [[Francois Hollande]] sur France Inter qui tente de s'imposer comme arbitre du second tour, [[Marine Tondelier]] prise en flagrant délit d'incohérence stratégique, et [[Raquel Garrido]] qui inverse sciemment la logique du [[Plus jamais PS]]. La thèse centrale : la gauche de rupture sort gagnante des municipales — et les réactions de la gauche de droite le prouvent.

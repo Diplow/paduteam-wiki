@@ -11,6 +11,9 @@ date created: Tuesday, March 31st 2026, 2:18:23 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/ruralité #thème/racisme-antiracisme #enjeu/union-populaire #enjeu/plus-jamais-PS
+
+![BACKSEAT vs PADUTEAM : COMMENT EMPÊCHER LE RN EN RURALITÉ ?!](https://www.youtube.com/watch?v=xnU_T2a6Nz0)
+
 # BACKSEAT vs PADUTEAM : COMMENT EMPÊCHER LE RN EN RURALITÉ ?!
 
 ## Résumé

@@ -40,6 +40,9 @@ La logique pénuriste est l'habillage idéologique de la suraccumulation : elle 
 ## Vidéos où le concept est développé
 
 - [[RUFFIN UN PRESIDENT ECO PLUS EST POSSIBLE]] — mécanisme formulé explicitement en réponse au programme de Ruffin : suraccumulation → capital fictif → compression salariale → nécessité de déprivatiser
+- [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]] — la prime de 1000 € sans cotisations comme non-réponse à la suraccumulation : "On va continuer de violenter Corine, on va continuer de lui faire faire ça pendant 40 ans, mais on sera gentil, on va lui donner une piècette."[^4]
+
+[^4]: [27:57](https://www.youtube.com/watch?v=null&t=1677) — "la problématique aujourd'hui du capital français, c'est qu'il est en train d'être suraccumulé. Il n'investit plus dans les forces productives. [...] le seul moyen de dégager de la plus-value avec des forces productives qui ne se développent plus, c'est de compresser et de violenter les gens."
 
 [^1]: [18:02](https://www.youtube.com/watch?v=ZJJihP0hLBE&t=1082) — "Tant que tu auras pas tordu le bras à la bourgeoisie, tu ne changeras rien en augmentant juste le salaire des gens qui bossent tard le soir. Ils trouveront une douille, tu vois."
 [^2]: [19:33](https://www.youtube.com/watch?v=ZJJihP0hLBE&t=1173) — "ce qu'il faut absolument, c'est déprivatiser du capital et démarchandiser un maximum la société. C'est la base d'une économie de transformation à gauche."

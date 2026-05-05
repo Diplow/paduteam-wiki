@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, États-Unis]
-skill_version: write-enjeu-2026-04-24-enrichi-w15-w16
+skill_version: write-enjeu-2026-05-04-enrichi-w18-w19
 date created: Thursday, April 2nd 2026, 12:05:46 am
 date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
@@ -484,3 +484,44 @@ L'intérêt stratégique : pour les classes moyennes supérieures (confusion du 
 - [[ALAIN DUHAMEL DECRYPTE GLUCKSMANN MELENCHON ET BARDELLA]] — campagne PJPS citée (400 places vendues en 24h) ; Glucksmann décrit comme "candidat coquille vide" par Duhamel lui-même (candide = "complètement con mais poliment") ; "Rafa c'est fini pour toi" — face à Hollande, il est "un gamin de 19 ans porté par ses sponsors"
 - [[CES INSOUMISES FONT EXPLOSER LES ECOLOGISTES]] — validation empirique post-second-tour : Grégoire refuse Chikirou et drague Horizon (ligne Hollande-Glucksmann incarnée) ; EELV à Lille trahit sa base (26/24 pour LFI, accord PS imposé d'en haut) ; PS de Strasbourg s'allie avec Horizon pour battre EELV-LFI ; chaque séquence documentée prouve que le PS est structurellement incapable d'alliance de rupture, même quand cette alliance lui serait électoralement supérieure (LFI proposait 50/50, PS n'a offert que 13-15 conseillers municipaux)
 - [[CES BOURGEOIS PANIQUES FACE A LA MONTEE DE LFI]] — panique des commentateurs bourgeois "de gauche" face aux scores LFI comme preuve de l'alignement objectif du bloc hollandiste avec la réaction : reprennent les mots du RN (antisémitisme, islamisme, violence) pour attaquer Bally Bagayoko et David Guirot qui proposent bus gratuits et passe navigo ; Hollande identifié comme occupant la niche "gauche réformiste anti-Mélenchon" = incarnation exacte du "Plus jamais PS" pour 2027
+
+## Le virage PS "contre le capitalisme" : la preuve empirique de l'arnaque prédictible (mai 2026)
+
+[[PS  VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] fournit la démonstration la plus précise à ce jour que le virage à gauche du PS est un coup de barre tactique, pas un tournant programmatique. La PaduTeam avait annoncé ce mouvement depuis des mois — la vidéo en documente la mécanique en temps réel.
+
+**La contrainte mécanique, pas la conviction.** Le PS est "obligé de se positionner à gauche de Macron" sous la pression des dix ans de néolibéralisme macroniste-hollandiste. Ce n'est pas un choix idéologique — c'est l'espace politique post-Macron qui contraint le PS à "partir de gauche pour exister." Le programme se présente comme "point de départ" — ce qui révèle implicitement la stratégie : partir à gauche pour capter l'électorat NFP, puis refluer vers le centre pour capter l'aile gauche du macronisme (ex-Jadot 2019, ex-Macron déçus). En réalité, le "point de départ PS devrait être le point le plus à droite de la FI."
+
+**"Capitalisme autoritaire" = "Mon ennemi c'est la finance" 2026.** La PaduTeam démonte la formulation centrale du programme PS : qualifier le capitalisme d'*autoritaire* ne dit rien de son mode de fonctionnement concret — ni fordien, ni impérialiste. C'est de l'idéalisme catégorial. Les élites "donc ennemi c'est les élites de l'oligarchie économique et financière" — **la PaduTeam reconnaît immédiatement l'ancêtre rhétorique : "mon ennemi c'est la finance" de Hollande 2012.** Même promesse, même bilan prévisible. Le PS n'a pas changé de logique — il a changé de formule.
+
+**L'inversion de la hiérarchie des normes : le vice caché.** Sur l'écart salarial 1 à 20, le SMIC à 1690 €, les nationalisations : sans abroger la primauté des accords d'entreprise sur les conventions collectives instaurée par les lois Macron, toute promesse salariale restera lettre morte. "Une fois qu'on revient pas sur cette loi-là, ben on peut dire oui oui non bon on va proposer plein de trucs puis à la fin c'est les accords d'entreprise qui vont décider." C'est le pattern structurel PS : des mesures présentées comme radicales qui laissent intact le dispositif juridique qui les rendra inopérantes.
+
+**"On préfère l'original à la copie" est faux.** Face à l'argument classique qui dit que les électeurs "préfèrent l'original à la copie", la PaduTeam contre-argumente avec Sarkozy 2007 : il chasse sur les terres du FN, reprend leurs thèmes, et **gagne avec le même parti sortant après 12 ans de Chirac**. Ce n'est pas l'originalité du thème qui compte — c'est la stature d'État et l'incarnation institutionnelle. Le PS peut crédibiliser un programme ancré à gauche précisément parce qu'il a déjà gouverné.
+
+## Ruffin ou le trumpisme gauchérisé : gérer la pénurie par le racisme
+
+[[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !]] constitue la mise à jour la plus radicale du diagnostic sur la trajectoire Ruffin — longtemps analysé comme "un autre Hollande possible", désormais requalifié en "un autre Macron possible" avec le pire discours.
+
+**De Hollande à Trump.** La formulation devient : Ruffin ne fait pas du Hollande mais du Trump — un "trumpisme gauchérisé" qui gère la pénurie par le racisme plutôt que d'attaquer les structures du capital. La prime de 1 000 € sans cotisations qu'il propose est une "prime Macron" — redistribution individuelle sans transformation des rapports de production. "Il nous propose une prime Macron. Il nous propose de la préférence nationale et une prime Macron."
+
+**Les cotisations sociales comme "souci" : la vision du petit patron.** Ruffin déclare : "Quand on veut augmenter un salarié de 100 €, il faut en donner 400 — c'est un souci." C'est la vision classique du petit patron : traiter les cotisations comme un prélèvement parasite plutôt que comme du salaire socialisé. Sans transformation des rapports de production, la prime sans cotisations ne supprime ni la commande vocale ni les 250 colis/heure.
+
+**Le protectionnisme anti-Chine comme impérialisme en crise.** Barrières douanières, "Buy French Act", critique de l'entrée de la Chine dans l'OMC — Ruffin "parle comme Jean-Marie Le Pen dans les années 90" et comme Trump : "un impérialiste en crise" qui veut maintenir le privilège du centre contre 75% de la population mondiale. Ce langage est "littéralement les mêmes discours" que l'extrême droite des années 90-2000.
+
+**La mécanique électorale du trumpisme gauchérisé.** Ruffin va se positionner dans l'espace que Bardella délaisse en se libéralisant. Il ramènera des "pénuri-racistes" convaincus d'être de gauche — utiles pour un second tour Mélenchon/Bardella, mais dangereux à long terme : "Va quand même falloir les rééduquer." Ce diagnostic place Ruffin dans la continuité structurelle du PS : une gauche qui légitime le discours de la droite sans en avoir le courage politique.
+
+## Pigasse : la bourgeoisie progressiste capture la gauche sous contrainte de crise
+
+[[MATHIEU PIGASSE  L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] fournit la généralisation théorique la plus précise du mécanisme PS : le déplacement vers la gauche d'un milliardaire atlantiste sous contrainte de crise n'est pas une conversion — c'est une stratégie de capture.
+
+**Le CV comme accusation.** Lazard + dette grecque/argentine/vénézuélienne/ukrainienne/irakienne — "tous les pays sous pression impérialiste". Direction du Trésor, cabinet DSK. "Il est impossible d'avoir fait ce taf sans être un fils de [bip]." Actionnaire de [[Radio Nova]] et des [[Les Inrockuptibles]], media de la [[Bourgeoisie progressiste]].
+
+**Le déplacement de Pigasse mesure la crise, pas une conversion.** En 2017, Pigasse soutenait Macron. En 2026, il parle "presque à gauche de Macron." Ce déplacement n'est pas une évolution personnelle — c'est le signe que la crise du capitalisme est si grave qu'un banquier de 3 milliards comprend qu'il faut "une apparence keynésienne un peu de gauche." **Formule-clé : "Si le programme de LFI est devenu intéressant pour Mathieu Pigasse, c'est qu'il est pas assez radical."** Le PS qui se réclame de Pigasse révèle par là-même où se situe son plafond.
+
+**La manœuvre électorale : l'union pour tuer la gauche radicale.** Pigasse promeut "l'union des forces de gauche" et un "candidat interne ou externe" — sans jamais nommer Mélenchon. La PaduTeam décode : l'union comme prétexte pour imposer un candidat de substitution compatible avec ses intérêts de classe. Sa citation de l'élection de 81 comme exemple de victoire par l'unité révèle le mensonge — Marchais du PCF était au premier tour contre Mitterrand : "Mathieu, es-tu complètement inculte ou te fous-tu de notre gueule ?"
+
+**La conclusion Zoé : l'ennemi classifié "absolu".** Zoé classe Pigasse comme "l'ennemi absolu" — non pas par haine, mais parce que la bourgeoisie progressiste qui se repositionne à gauche sans remettre en cause la propriété est **le mécanisme même de la capture du mouvement ouvrier par la bourgeoisie** que le PS incarne depuis 50 ans. "Soit vous les empêchez, soit vous croyez qu'ils sont de votre côté et là du coup ils vont vous avoir."
+
+- [[PS  VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] — virage à gauche tactique prédictible démontré en temps réel ; "capitalisme autoritaire" = "mon ennemi c'est la finance" 2026 ; inversion de la hiérarchie des normes non abrogée comme vice caché de toutes les mesures ; contre-argument Sarkozy 2007 sur "on préfère l'original à la copie" ; stratégie du point de départ explicitement admise par le PS lui-même
+- [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !]] — Ruffin requalifié de "un autre Hollande possible" à "un autre Macron possible" ; prime sans cotisations = prime Macron, vision du petit patron sur les cotisations ; protectionnisme anti-Chine = discours Le Pen années 90 ; "il aura fabriqué des racistes qui pourront voter Mélenchon au second tour" comme bilan prédit de sa campagne
+- [[MATHIEU PIGASSE  L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — généralisation théorique du mécanisme PS : bourgeoisie progressiste se repositionnant à gauche sous contrainte de crise = capture, pas conversion ; "si le programme LFI est intéressant pour Pigasse, c'est qu'il est pas assez radical" ; l'union comme prétexte pour imposer un candidat de substitution ; Zoé classe Pigasse "ennemi absolu"
+

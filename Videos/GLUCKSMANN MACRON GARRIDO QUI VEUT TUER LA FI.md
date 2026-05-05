@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # GLUCKSMANN, MACRON GARRIDO QUI VEUT TUER LA FI
 
-[![GLUCKSMANN, MACRON GARRIDO : QUI VEUT TUER LA FI ?](https://img.youtube.com/vi/uxdDj_LCsA8/0.jpg)](https://www.youtube.com/watch?v=uxdDj_LCsA8)
-
+![GLUCKSMANN, MACRON GARRIDO : QUI VEUT TUER LA FI ?](https://www.youtube.com/watch?v=uxdDj_LCsA8)
 ## Résumé
 Suite à la mort de [[Quentin Deranque]], militant [[Collectif Nemesis|Némésis]], lors d'une rixe à Lyon liée à une conférence de [[Rima Hassan]], Padu et Chris analysent comment cet événement est instrumentalisé politiquement. [[Emmanuel Macron]], [[Raphael Glucksmann]] et [[Raquel Garrido]] utilisent le drame pour classer la FI à "l'extrême gauche" et la marginaliser — un agenda cohérent avec la [[Prophetie du 2002 inverse|prophétie du 2002 inversé]]. La capsule fait suite à une première capsule sur les faits et la méthode Némésis (vidéo sur [[Quentin Deranque]]).
 

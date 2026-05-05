@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire
 
+![LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !](https://www.youtube.com/watch?v=i_sv_j53qxo)
+
 # LAGASNERIE VEUT INTERDIRE L'EXTRÊME-DROITE !
 
 ## Résumé

@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-XX
+youtube_id: ZWe2l67rVIM
 domaine: [politique-intérieure, économie]
 thèmes: [travail]
 enjeux: []
@@ -8,6 +9,8 @@ aliases: [ASTRID PANOSYAN : LA PIRE MINISTRE MACRONISTE ?]
 skill_version: "ingest-batch-2026-04-21"
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail
+
+![ASTRID PANOSYAN : LA PIRE MINISTRE MACRONISTE ?](https://www.youtube.com/watch?v=ZWe2l67rVIM)
 
 # ASTRID PANOSYAN : LA PIRE MINISTRE MACRONISTE ?
 

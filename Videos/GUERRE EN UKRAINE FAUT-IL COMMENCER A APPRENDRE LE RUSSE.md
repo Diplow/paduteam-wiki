@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # GUERRE EN UKRAINE FAUT-IL COMMENCER À APPRENDRE LE RUSSE (ANALYSE MARXISTE AVEC CHRIS)
 
-[![](https://img.youtube.com/vi/sgNt9HCQrTU/0.jpg)](https://www.youtube.com/watch?v=sgNt9HCQrTU)
-
+![](https://www.youtube.com/watch?v=sgNt9HCQrTU)
 ## Résumé
 
 Analyse géopolitique complète de la guerre en Ukraine dans le contexte du tournant Trump (suspension du soutien américain, humiliation de Zelenski à la Maison Blanche, mars 2026). Avec Chris de [[Positions Revue]]. La vidéo la plus analytique du corpus : pourquoi Trump veut la paix en Ukraine, quelles sont les deux issues possibles, et comment la gauche doit se positionner.

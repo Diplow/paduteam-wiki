@@ -11,6 +11,8 @@ aliases: [BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV]
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/guerre-des-gauches #enjeu/union-populaire
 
+![BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV](https://www.youtube.com/watch?v=cQyddWBI59U)
+
 # BOMPARD DÉTRUIT WAUQUIEZ sur BFMTV
 
 ## Résumé

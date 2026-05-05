@@ -10,8 +10,7 @@ aliases: [La MASTERCLASS de MÉLENCHON sur le 10 SEPTEMBRE !!, MASTERCLASS MÉLE
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #enjeu/union-populaire
 
-[![La MASTERCLASS de MÉLENCHON sur le 10 SEPTEMBRE !!](https://img.youtube.com/vi/AOoPA9TF13o/0.jpg)](https://www.youtube.com/watch?v=AOoPA9TF13o)
-
+![La MASTERCLASS de MÉLENCHON sur le 10 SEPTEMBRE !!](https://www.youtube.com/watch?v=AOoPA9TF13o)
 # LA MASTERCLASS DE MÉLENCHON SUR LE 10 SEPTEMBRE !!
 
 ## Résumé

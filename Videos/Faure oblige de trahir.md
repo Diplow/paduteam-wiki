@@ -6,8 +6,12 @@ enjeux: [plus-jamais-PS, union-populaire]
 methodes: [Graphique]
 date created: Wednesday, April 1st 2026, 12:38:04 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: oquHE4YCMXA
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
+
+![FAURE était OBLIGÉ de TRAHIR — VOICI POURQUOI !](https://www.youtube.com/watch?v=oquHE4YCMXA)
+
 # FAURE était OBLIGÉ de TRAHIR — VOICI POURQUOI !
 
 ## Résumé

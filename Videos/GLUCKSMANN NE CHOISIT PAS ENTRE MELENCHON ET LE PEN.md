@@ -11,8 +11,7 @@ skill_version: "ingest-batch-2026-04-21"
 
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/stratégie-casse-noisette #enjeu/union-populaire #enjeu/guerre-des-gauches
 
-[![GLUCKSMANN ne CHOISIT PAS entre MÉLENCHON et LE PEN !](https://img.youtube.com/vi/L0lafViX2DI/0.jpg)](https://www.youtube.com/watch?v=L0lafViX2DI)
-
+![GLUCKSMANN ne CHOISIT PAS entre MÉLENCHON et LE PEN !](https://www.youtube.com/watch?v=L0lafViX2DI)
 ## Résumé
 
 Capsule live (~28 min) où la PaduTeam analyse les déclarations de [[Raphael Glucksmann]] face à Benjamin Duhamel sur BFM TV. Contrairement au titre clickbait, le refus de Glucksmann de "choisir" entre [[Jean-Luc Melenchon]] et Le Pen est lu comme une stratégie cohérente du [[Noisettes|casse-noisette]] : resserrer les deux pôles de gauche pour éliminer l'espace mou entre eux. La PaduTeam voit dans cette ligne un accélérateur utile vers la confrontation hégémonique à gauche, préalable nécessaire à la victoire de 2027.

@@ -10,8 +10,7 @@ aliases: [La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !]
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/guerre-des-gauches #enjeu/féminisme-matérialiste #enjeu/guerre-des-gauches
 
-[![La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !](https://img.youtube.com/vi/-4IbTKdxUuI/0.jpg)](https://www.youtube.com/watch?v=-4IbTKdxUuI)
-
+![La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !](https://www.youtube.com/watch?v=-4IbTKdxUuI)
 # LA PADUTEAM HOMOPHOBES envers LAGASNERIE ? @ÉCHARPE nous RECADRE !
 
 ## Résumé
@@ -30,9 +29,9 @@ aliases: [La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !]
 
 5. **Stonewall et l'hétérogénéité du mouvement queer.** Écharpe rappelle l'histoire de Stonewall : une émeute initiée par des femmes trans noires, séropositives, travailleuses du sexe ([[Marsha P. Johnson]]). Très vite, une fraction gay blanche bourgeoise a récupéré le mouvement pour des droits compatibles avec le capitalisme (mariage, adoption). Le mouvement queer est traversé par des antagonismes de classe depuis l'origine.[^3]
 
-6. **Le décret Créieux (1865) comme analogie.** Écharpe introduit l'exemple du décret Créieux en Algérie coloniale : le pouvoir colonial a accordé la nationalité française aux Juifs d'Algérie pour en faire des intermédiaires entre colonisateurs et colonisés. Ce n'est pas l'intégration d'un sujet révolutionnaire mais la stratégie coloniale de diviser pour régner.
+6. **Le décret Crémieux (1870) comme analogie.** Écharpe introduit l'exemple du décret Crémieux en Algérie coloniale : le pouvoir colonial a accordé la nationalité française aux Juifs d'Algérie pour en faire des intermédiaires entre colonisateurs et colonisés. Ce n'est pas l'intégration d'un sujet révolutionnaire mais la stratégie coloniale de diviser pour régner.
 
-7. **Lagasnerie n'est pas un cuir.** La PaduTeam refuse de faire de Lagasnerie un représentant du mouvement queer. Il est un dominant anciennement dominé (gay bourgeois dans les années 80) devenu un représentant de la nouvelle hégémonie masculine — exotique pour France Inter, pas du tout dérangeant.
+7. **Lagasnerie n'est pas un queer.** La PaduTeam refuse de faire de Lagasnerie un représentant du mouvement queer. Il est un dominant anciennement dominé (gay bourgeois dans les années 80) devenu un représentant de la nouvelle hégémonie masculine — exotique pour France Inter, pas du tout dérangeant.
 
 8. **La parentalité : angle mort absolu de Lagasnerie.** Il critique la famille sans jamais penser la parentalité ni les enfants. Or c'est ce qui fait famille : la nécessité de produire et reproduire les générations. Sans cette dimension, sa critique ne vise qu'un mode de vie bourgeois et ne dit rien sur les familles populaires.
 

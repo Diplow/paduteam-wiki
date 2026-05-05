@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # Les LIVREURS-UBER + BOURGEOIS que les MÉDECINS ? (@pasduhring X Chris)
 
-[![Les LIVREURS-UBER + BOURGEOIS que les MÉDECINS ?](https://img.youtube.com/vi/8aw2darqPmc/0.jpg)](https://www.youtube.com/watch?v=8aw2darqPmc)
-
+![Les LIVREURS-UBER + BOURGEOIS que les MÉDECINS ?](https://www.youtube.com/watch?v=8aw2darqPmc)
 ## Résumé
 Capsule spéciale issue d'un live où Padu et Chris répondent à des questions du chat sur les classes sociales. Le fil directeur : pourquoi la catégorie socio-professionnelle (rapport de production) prime sur le patrimoine possédé pour comprendre la vision du monde des gens. Exemples développés : artisans, livreurs Uber, médecins, auto-entrepreneurs, streamer. Chris et Padu martèlent la distinction fondamentale entre le [[Graphique]] (classement par [[Rapports de production]]) et l'approche de Bourdieu (classement par capitaux cumulés).
 

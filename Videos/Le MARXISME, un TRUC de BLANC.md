@@ -12,8 +12,7 @@ skill_version: ingest-2026-04-21
 
 # Le MARXISME, un TRUC de BLANC (@pasduhring X Chris de Positions Revue)
 
-[![Le MARXISME, un TRUC de BLANC](https://img.youtube.com/vi/cB1crSU0r-k/0.jpg)](https://www.youtube.com/watch?v=cB1crSU0r-k)
-
+![Le MARXISME, un TRUC de BLANC](https://www.youtube.com/watch?v=cB1crSU0r-k)
 ## Résumé
 Capsule extraite d'un live Twitch de Padu et Chris, répondant à [[Wissam Xelka]] et [[Norman Ajari]] qui reprochent au marxisme d'être "un truc de blanc". Thèse centrale : le marxisme est l'expression de la vision du monde du prolétariat, enrichie progressivement par les femmes, les racisés et les pays colonisés — toujours dans le même cadre épistémologique, jamais contre lui. Les théories qui introduisent une épistémologie rivale (psychanalyse freudo-marxiste, afropessimisme) sont critiquées comme idéalistes, contemplatives, et incapables de transformation concrète. La seconde partie articule ce débat épistémologique directement avec la logique du [[Graphique]] : outil léniniste, pas sociologie électorale.
 

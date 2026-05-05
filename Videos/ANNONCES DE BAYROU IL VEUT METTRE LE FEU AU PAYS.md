@@ -11,8 +11,7 @@ skill_version: "ingest-batch-2026-04-21"
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail #enjeu/defense-secu
 
-[![ANNONCES DE BAYROU : IL VEUT METTRE LE FEU AU PAYS !!](https://img.youtube.com/vi/UIc7Nsqg1Lg/0.jpg)](https://www.youtube.com/watch?v=UIc7Nsqg1Lg)
-
+![ANNONCES DE BAYROU : IL VEUT METTRE LE FEU AU PAYS !!](https://www.youtube.com/watch?v=UIc7Nsqg1Lg)
 # ANNONCES DE BAYROU : IL VEUT METTRE LE FEU AU PAYS !!
 
 ## Résumé

@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
 
+![L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE](https://www.youtube.com/watch?v=-leKXsqu7lw)
+
 # L'UNION BANCALE des TRAÎTRES et de la GAUCHE MOLLE
 
 ## Résumé

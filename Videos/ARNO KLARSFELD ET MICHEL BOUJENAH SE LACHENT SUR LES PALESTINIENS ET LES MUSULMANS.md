@@ -11,8 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/racisme-antiracisme #thème/répression-justice #enjeu/Palestine-libre
 
-[![ARNO KLARSFELD et MICHEL BOUJENAH SE LÂCHENT sur les PALESTINIENS et les MUSULMANS !!](https://img.youtube.com/vi/K08ELoqSU2M/0.jpg)](https://www.youtube.com/watch?v=K08ELoqSU2M)
-
+![ARNO KLARSFELD et MICHEL BOUJENAH SE LÂCHENT sur les PALESTINIENS et les MUSULMANS !!](https://www.youtube.com/watch?v=K08ELoqSU2M)
 # ARNO KLARSFELD ET MICHEL BOUJENAH SE LÂCHENT SUR LES PALESTINIENS ET LES MUSULMANS !!
 
 ## Résumé

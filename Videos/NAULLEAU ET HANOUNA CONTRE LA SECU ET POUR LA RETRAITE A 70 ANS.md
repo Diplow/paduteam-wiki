@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS
 
-[![NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS](https://img.youtube.com/vi/enVjr_211Go/0.jpg)](https://www.youtube.com/watch?v=enVjr_211Go)
-
+![NAULLEAU ET HANOUNA CONTRE LA SECU ET POUR LA RETRAITE A 70 ANS](https://www.youtube.com/watch?v=enVjr_211Go)
 ## Résumé
 
 Démontage de l'arc "vraie gauche" de Télé-Boloré : Éric Naulleau (retraite à 70 ans) et Cyril Hanouna (la Sécu est le plus gros problème de France). La PaduTeam démonte le raisonnement de Naulleau sur les retraites (il ignore la productivité) et expose la contradiction de Hanouna (prêche contre la Sécu tout en ne payant pas les cotisations de ses salariés à Guernesey). Sylvain Maillard Renaissance fait aussi une apparition dans le même registre.

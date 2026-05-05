@@ -11,8 +11,6 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/économie #domaine/société #thème/racisme-antiracisme #thème/travail #thème/médias-propagande #enjeu/Critique-de-la-fachosphere
 
-[![SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRÉS](https://img.youtube.com/vi/5q7K8bnPyB4/0.jpg)](https://www.youtube.com/watch?v=5q7K8bnPyB4)
-
 ![SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRÉS (et c'est catastrophique) !](https://www.youtube.com/watch?v=5q7K8bnPyB4)
 
 # SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRÉS (et c'est catastrophique) !

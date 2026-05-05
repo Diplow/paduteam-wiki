@@ -13,8 +13,7 @@ skill_version: write-video-2026-04-23
 
 > **Avertissement** : Le transcript de cette vidéo (youtube_id: `zvfab78sy0g`) ne correspond pas au titre annoncé sur le tracker. Le contenu réel couvre l'affaire du **Dîner des Bâtisseurs** et la critique du positionnement de [[Marine Tondelier]] envers des réseaux catholiques d'extrême droite. Aucune analyse post-électorale des municipales n'y figure. La fiche est rédigée d'après le contenu réel du transcript.
 
-[![MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE](https://img.youtube.com/vi/zvfab78sy0g/0.jpg)](https://www.youtube.com/watch?v=zvfab78sy0g)
-
+![MUNICIPALES LFI PERCE LE CENTRE EST MORT LE RN STAGNE](https://www.youtube.com/watch?v=zvfab78sy0g)
 ## Résumé
 
 Réaction en format "react" à un article du média Reporter sur la présence de [[Marine Tondelier]] au **Dîner des Bâtisseurs** (novembre 2025), une soirée mondaine annuelle réunissant 600 leaders catholiques français, dont plusieurs figures du réseau de [[Pierre-Edouard Sterin]] et de [[Vincent Bollore]]. [[Cecile Duflot]], qui avait participé aux éditions précédentes, est celle qui a introduit le nom de Tondelier auprès des organisateurs.

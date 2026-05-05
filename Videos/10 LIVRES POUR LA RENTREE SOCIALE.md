@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #thème/racisme-antiracisme #thème/féminisme #thème/anti-impérialisme #thème/travail
 
+![10 LIVRES POUR LA RENTRÉE SOCIALE](https://www.youtube.com/watch?v=ubfvCuQziRA)
+
 # 10 LIVRES POUR LA RENTRÉE SOCIALE
 
 ## Résumé

@@ -13,7 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/ruralité #thème/racisme-antiracisme #enjeu/union-populaire #enjeu/guerre-des-gauches
 
-[![Thumbnail](https://img.youtube.com/vi/vM1SmvSWsVE/maxresdefault.jpg)](https://www.youtube.com/watch?v=vM1SmvSWsVE)
+![CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!](https://www.youtube.com/watch?v=vM1SmvSWsVE)
 
 # CAGÉ et PIKETTY PRÉFÈRENT RUFFIN à MÉLENCHON !!
 

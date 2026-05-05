@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-22
 ---
 #domaine/politique-intérieure #thème/élections #thème/médias-propagande #thème/féminisme #enjeu/plus-jamais-PS
 
-[![SARAH KNAFO : PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN?](https://img.youtube.com/vi/3ftDNZQXp74/0.jpg)](https://www.youtube.com/watch?v=3ftDNZQXp74)
-
+![SARAH KNAFO : PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN?](https://www.youtube.com/watch?v=3ftDNZQXp74)
 # SARAH KNAFO : PLUS CRINGE QUE LOUIS SARKOZY ET GLUCKSMANN ?
 
 ## Résumé

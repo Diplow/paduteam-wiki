@@ -11,8 +11,7 @@ enjeux: []
 
 # Nicolas Demorand se dit "malade mental" — ce que ça révèle
 
-[![NICOLAS DEMORAND AVOUE ÊTRE MALADE MENTAL !](https://img.youtube.com/vi/Tk-b9Ot2i5E/0.jpg)](https://www.youtube.com/watch?v=Tk-b9Ot2i5E)
-
+![NICOLAS DEMORAND AVOUE ÊTRE MALADE MENTAL !](https://www.youtube.com/watch?v=Tk-b9Ot2i5E)
 Zoé (Dr Zoé) commente la démarche de Nicolas Demorand, journaliste de France Inter, qui assume publiquement son trouble bipolaire de type 2 dans son livre *Intérieur Nuit*. La vidéo sert de prétexte à un exposé clinique et politique : critique du terme "maladie mentale", explication de la bipolarité de type 2, et analyse structurelle du [[Validisme]] comme politique capitaliste de tri des corps productifs.
 
 ## Thèses

@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS #thème/médias-propagande
 
+![LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW-BUSINESS](https://www.youtube.com/watch?v=Thah39dBUhg)
+
 # LIO BALANCE TOUT SUR DEPARDIEU ET LES VSS DANS LE SHOW-BUSINESS
 
 ## Résumé

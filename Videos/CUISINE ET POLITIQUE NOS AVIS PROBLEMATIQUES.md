@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #thème/santé #thème/ruralité
 
-[![CUISINE et POLITIQUE  nos AVIS PROBLÉMATIQUES !! (avec @Dr_Zoé_YT)](https://img.youtube.com/vi/qJXy-XBpJbQ/0.jpg)](https://www.youtube.com/watch?v=qJXy-XBpJbQ)
-
+![CUISINE et POLITIQUE  nos AVIS PROBLÉMATIQUES !! (avec @Dr_Zoé_YT)](https://www.youtube.com/watch?v=qJXy-XBpJbQ)
 # CUISINE ET POLITIQUE : NOS AVIS PROBLÉMATIQUES (avec @Dr_Zoé_YT)
 
 ## Résumé

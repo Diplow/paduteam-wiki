@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/médias-propagande #thème/répression-justice #thème/féminisme
 
+![KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ POUR PORTER PLAIINNNTE CONTRE MOI, PAPACITO ET MILA !!](https://www.youtube.com/watch?v=4tTJXt9411I)
+
 # KROC BLANC ENGAGE UN DÉTECTIVE PRIVÉ POUR PORTER PLAIINNNTE CONTRE MOI, PAPACITO ET MILA !!
 
 ## Résumé

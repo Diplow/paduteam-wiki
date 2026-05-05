@@ -33,7 +33,14 @@ La PaduTeam note que Morandini n'est peut-être pas viré de C News parce que Th
 [^mor3]: [9:15](https://www.youtube.com/watch?v=kJgGc2z0INg&t=555) — "Tu imagines la meuf, elle va parler sur CNews de pression de mineur. Quel culot !"
 [^mor4]: [46:59](https://www.youtube.com/watch?v=kJgGc2z0INg&t=2819) — "S'il virait les gens qui ont des problèmes avec les enfants, ça se trouve il y aurait plus grand monde sur cette chaîne"
 
+## La condamnation définitive et le départ de CNews
+
+Le 14 janvier 2026, Morandini est condamné **définitivement** (cassation rejetée) pour corruption de mineurs. [[CNews]] le maintient à l'antenne pendant un mois. Pour la PaduTeam, c'est l'illustration d'une incapacité à "purger" — en contraste ironique avec "les glorieux communistes qui savent très bien purger". La PaduTeam spécule sur l'existence de dossiers compromettants : "qu'est-ce qu'il a comme dossier sur qui Morandini pour pouvoir se permettre ce niveau-là d'impunité ?"
+
+Avec le départ de [[Sonia Mabrook]] (également liée à l'affaire), CNews perd deux de ses six "incarnations fortes" en peu de temps — soit un tiers de son capital humain historique.
+
 ## Vidéos où Jean-Marc Morandini est mentionné
 - [[DETRUIT THAIS D ESCUFON ZEMMOUR DEPARDIEU ALICE CORDIER SUR LES VSS]]
 - [[PAPACITO BALANCE LE BODYCOUNT D ALICE CORDIER]]
 - [[KNAFO LA CATASTROPHE CONTINUE SES SOLUTIONS POUR LA SECURITE]] — Développement le plus complet : condamnations, modus operandi, maintien à l'antenne de CNews, contradiction avec la rhétorique Knafo sur la "protection des mineurs"
+- [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — Condamnation définitive du 14 janvier 2026 ; maintien à l'antenne jusqu'en février ; "ils ne savent pas purger" ; dossiers sur la direction ?

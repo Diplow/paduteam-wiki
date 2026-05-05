@@ -98,6 +98,10 @@ Ce qui reste de la "primaire" : un processus désignatif au sein du groupe écol
 
 [^blocus-noisettes]: [6:44](https://www.youtube.com/watch?v=lj582EONpMk&t=404) — "Ils font tout pour casser le truc et après ils disent bah c'est de la merde donc on y va pas quoi."
 
+## Ruffin enterre la primaire et va seul (mai 2026)
+
+Dans [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]], la PaduTeam constate que Ruffin a lancé sa campagne présidentielle en dehors de la primaire — confirmant la prophétie du Graphique répétée "il y a environ 13 mois" : malgré la primaire, Ruffin irait quand même seul. Son programme de campagne (barrières douanières, critique des médecins étrangers, prime sans cotisations) n'est pas celui d'un candidat qui cherche à rallier un électorat noisette — c'est le positionnement d'un candidat qui vise l'espace électoral libéré par un Bardella se libéralisant.
+
 ## Vidéos
 - [[SANDRINE ROUSSEAU PRIVEE DE PRIMAIRE DES NOISETTES PAR TONDELIER]] — Analyse du verrouillage par Tondelier, mécanique d'appareil derrière la façade citoyenne, chaîne de subordination Tondelier→Fort→Hollande, Rousseau comme noisette exclue de sa propre primaire
 - [[PRIMAIRE DE LA GAUCHE NOISETTE LE FLOP ANNONCE POUR 2026]] — Annonce officielle de novembre 2025, absence de Mélenchon et Glucksmann, réunions secrètes PS-Attal, prédiction Jospin 2002
@@ -111,3 +115,4 @@ Ce qui reste de la "primaire" : un processus désignatif au sein du groupe écol
 - [[FAURE ET SA PRIMAIRE ASSASSINES PAR LE PS DE HOLLANDE]] — opération Kanner ; thèse centrale que la primaire sert à renforcer l'appareil des écologistes, pas le PS ; Faure isolé avec "les clampins du groupe des verts" pendant que son propre groupe PS est dirigé par Vallaud.
 - [[GUEDJ CANDIDAT A LA PRESIDENTIELLE - LE PLAN DE HOLLANDE SE DEROULE]] — Guedj envoyé pour tuer la primaire médiatiquement ; mécanique de la primaire confédérale comme substitut maîtrisé par l'appareil PS ; Glucksmann condamné à être dévoré dans ce processus.
 - [[BORIS VALLAUD ATOMISE LA PRIMAIRE DES NOISETTES]] — Vallaud déclare publiquement la primaire "pas suffisante" ; PS majoritaire contre elle via l'alliance NMR ; comparaison blocus Cuba ; "moïsation de la noisette" — l'huile vers Vallaud, la matière vers la FI.
+- [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]] — Ruffin confirme en actes qu'il ignore la primaire et lance une campagne solo à programme nationaliste-protectionniste — la prophétie du Graphique se réalise.

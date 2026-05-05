@@ -36,9 +36,22 @@ Corollaire : les solutions xénophobes et autoritaires deviennent, dans un conte
 - **Pierre Bergé** (actionnaire de *Libération*) — financeur de médias "de gauche". Réalité : auteur de la phrase "quelle différence entre aller louer sa force de travail à l'usine ou louer son ventre pour des riches dans la GPA"[^6] — une formule qui assimile la condition ouvrière à la gestation pour autrui marchande.
 - **Bernard Arnaud** (LVMH) — présent en invité d'honneur à l'investiture de Trump, rentrant en disant "j'ai vu le vent d'optimisme qui régnait dans ce pays"[^7]. Incarne la même contradiction : patron qui "aimait la démocratie" et qui n'en veut plus. L'entreprise elle-même est une aristocratie héréditaire — "c'est même pas la méritocratie là, c'est carrément l'aristocratie."
 
+## Le cas Pigasse — version 2026 du patron de gauche candidat
+
+Mathieu Pigasse constitue un cas d'école actualisé du phénomène, avec une dimension nouvelle : le patron de gauche qui se pose en *candidat politique* potentiel pour 2027. Après avoir soutenu Macron en 2017, il revient en 2026 sur Quotidien pour prôner "la bataille culturelle" et "l'union des forces de gauche", en laissant entendre sa disponibilité comme "candidat interne ou externe" à la gauche.
+
+La PaduTeam relève deux particularités :
+
+1. **Le repositionnement sous contrainte de crise** — Pigasse n'a pas "changé" : la crise du capitalisme l'oblige à se repositionner plus à gauche, comme la bourgeoisie progressiste de la fin du XIXe siècle a fini par céder sur l'impôt sur le revenu quand les masses devenaient trop puissantes. "Ils sont devenus tellement riches qu'ils se disent 'Eh, si on a que 3 milliards, on a 3 milliards — est-ce qu'on pourrait pas s'en sortir avec 2 milliards 900 millions ?'"
+
+2. **La candidature comme manœuvre de neutralisation** — En proposant une "union" sans soutenir Mélenchon (qui a raté le second tour à 400 000 voix), Pigasse cherche à court-circuiter la gauche radicale. L'union n'est pas un moyen de victoire mais un dispositif pour imposer un candidat compatible avec les intérêts bourgeois.
+
+Zoé conclut sur ce cas en sortant du sarcasme : "Je pense que tu sais très bien ce que tu fais. Je pense que tu sais que tu racontes de la merde et je pense que tu es un ennemi absolu."
+
 ## Vidéos où le concept est développé
 
 - [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]] — développement central, démontage de l'interview Blast
+- [[MATHIEU PIGASSE L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — version 2026 du patron de gauche médiatique qui se pose en candidat politique ; restructuration de dettes souveraines de pays sous pression impérialiste comme CV
 
 [^1]: [32:35](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=1955) — "Ces gens-là sont les généraux et pas les généraux une étoile, les généraux 5 étoiles de l'offensive néolibérale menée par le PS et par le RPR dans les années 80-90."
 [^2]: [22:56](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=1376) — "Ces patrons de gauche ont existé [...] ils n'ont de fait jamais été de gauche car ils ont toujours conduit des politiques pour détruire le prolétariat, libéraliser, réduire les salaires."

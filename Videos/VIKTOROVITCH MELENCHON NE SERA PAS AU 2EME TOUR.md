@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![VIKTOROVITCH : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !](https://www.youtube.com/watch?v=4CZoB0WQ7bk)
+
 # VIKTOROVITCH : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !
 
 ## Résumé

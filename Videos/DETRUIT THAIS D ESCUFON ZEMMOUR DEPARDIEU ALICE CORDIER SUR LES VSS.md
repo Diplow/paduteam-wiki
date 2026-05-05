@@ -15,8 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # @Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER, SUR LES VSS !!
 
-[![@Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER, SUR LES VSS !!](https://img.youtube.com/vi/nRNFvVDvI4s/0.jpg)](https://www.youtube.com/watch?v=nRNFvVDvI4s)
-
+![@Dr_Zoé_YT DÉTRUIT THAÏS D'ESCUFON, ZEMMOUR, DEPARDIEU, ALICE CORDIER, SUR LES VSS !!](https://www.youtube.com/watch?v=nRNFvVDvI4s)
 ## Résumé
 
 Vidéo publiée le 29 mai 2024. La PaduTeam analyse les VSS (violences sexistes et sexuelles) comme fait social structurel, en réfutation des arguments de [[Thais d'Escufon]], [[Eric Zemmour|Zemmour]], [[Gerard Depardieu|Depardieu]] et [[Alice Cordier]]. Les données épidémiologiques et l'expérience de médecin rurale sont mobilisées pour montrer que la culture française est saturée de culture du viol — et que "chercher les étrangers" comme explication principale, c'est du foutage de gueule.

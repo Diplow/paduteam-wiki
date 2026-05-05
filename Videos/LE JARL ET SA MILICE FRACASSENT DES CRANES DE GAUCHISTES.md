@@ -13,8 +13,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/extrême-droite #thème/milices #enjeu/critique-de-la-fachosphere
 
-[![LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES](https://img.youtube.com/vi/SQN9eTGn1Cg/0.jpg)](https://www.youtube.com/watch?v=SQN9eTGn1Cg)
-
+![LE JARL ET SA MILICE FRACASSENT DES CRANES DE GAUCHISTES](https://www.youtube.com/watch?v=SQN9eTGn1Cg)
 # LE JARL ET SA MILICE FRACASSE DES CRÂNES DE GAUCHISTES !! (X Chris de Positions Revue)
 
 ## Résumé

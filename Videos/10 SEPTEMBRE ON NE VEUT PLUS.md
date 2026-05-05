@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-30
+youtube_id: qxAHjGwDFUM
 domaine: [politique-intérieure]
 thèmes: [élections]
 enjeux: [union-populaire]
@@ -8,6 +9,8 @@ skill_version: write-video-2026-04-21
 aliases: [10 SEPTEMBRE ON NE VEUT PLUS, 10 SEPTEMBRE : ON NE VEUT PLUS !]
 ---
 #domaine/politique-intérieure #thème/élections #enjeu/union-populaire
+
+![10 SEPTEMBRE : ON NE VEUT PLUS !](https://www.youtube.com/watch?v=qxAHjGwDFUM)
 
 # 10 SEPTEMBRE : ON NE VEUT PLUS !
 

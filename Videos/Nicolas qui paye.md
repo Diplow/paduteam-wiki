@@ -15,8 +15,12 @@ methodes:
 date:
 date created: Wednesday, April 1st 2026, 7:17:11 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: fOEEjSA7QZk
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail #thème/le-Graphique #thème/féminisme #enjeu/union-populaire
+
+![La VÉRITÉ sur NICOLAS QUI PAYE](https://www.youtube.com/watch?v=fOEEjSA7QZk)
+
 # La VÉRITÉ sur NICOLAS QUI PAYE
 
 ## Résumé

@@ -11,8 +11,7 @@ aliases: [BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?]
 ---
 #domaine/économie #domaine/société #thème/travail #thème/anti-impérialisme #enjeu/anti-impérialisme
 
-[![BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?](https://img.youtube.com/vi/8ec4hM5ImGs/0.jpg)](https://www.youtube.com/watch?v=8ec4hM5ImGs)
-
+![BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?](https://www.youtube.com/watch?v=8ec4hM5ImGs)
 # BERNARD ARNAULT : LE PIRE ESCLAVAGISTE ?
 
 ## Résumé

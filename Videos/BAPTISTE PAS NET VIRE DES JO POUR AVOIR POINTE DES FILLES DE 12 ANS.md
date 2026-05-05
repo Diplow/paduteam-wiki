@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS
 
+![BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS](https://www.youtube.com/watch?v=TVMgyPabBpE)
+
 # BAPTISTE PAS NET VIRÉ DES JO POUR AVOIR POINTÉ DES FILLES DE 12 ANS
 
 ## Résumé

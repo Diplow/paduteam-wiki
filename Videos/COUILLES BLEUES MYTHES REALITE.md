@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/VSS #thème/santé
 
+![COUILLES BLEUES, MYTHES OU RÉALITÉ — ÉCHANGE TENDU ENTRE PADU ET DR ZOÉ](https://www.youtube.com/watch?v=PSYLzGpiRe4)
+
 # COUILLES BLEUES, MYTHES OU RÉALITÉ — ÉCHANGE TENDU ENTRE PADU ET DR ZOÉ
 
 ## Résumé

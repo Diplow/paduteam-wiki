@@ -88,8 +88,7 @@ La PaduTeam retrace le parcours de [[Lumir Lapray]] : originaire de l'Ain (rural
 
 ## Lien embarqué
 
-[![MENSONGES PRO-PS CHEZ BACKSEAT : "LES PROLOS BLANCS VOTENT PS" !!](https://img.youtube.com/vi/iXImwyHjrwM/0.jpg)](https://www.youtube.com/watch?v=iXImwyHjrwM)
-
+![MENSONGES PRO-PS CHEZ BACKSEAT : "LES PROLOS BLANCS VOTENT PS" !!](https://www.youtube.com/watch?v=iXImwyHjrwM)
 ## Transcript
 
 [[MENSONGES PRO-PS CHEZ BACKSEAT  LES PROLOS BLANCS VOTENT PS !!]]

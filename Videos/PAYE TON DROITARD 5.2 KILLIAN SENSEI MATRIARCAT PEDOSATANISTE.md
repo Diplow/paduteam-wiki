@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme #thème/complotisme
 
+![PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE](https://www.youtube.com/watch?v=uFbvnoocfrI)
+
 # PAYE TON DROITARD #5.2 — KILLIAN SENSEÏ LUTTE CONTRE LE MATRIARCAT PÉDOSATANISTE
 
 ## Résumé

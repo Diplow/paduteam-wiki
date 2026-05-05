@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/élections #thème/racisme-antiracisme #thème/le-Graphique #enjeu/union-populaire
 
+![MORT DE JEAN-MARIE LE PEN — DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE ?](https://www.youtube.com/watch?v=tumiY3ljR5k)
+
 # MORT DE JEAN-MARIE LE PEN — DOIT-ON SÉPARER L'HOMME DU TORTIONNAIRE FASCISTE ?
 
 ## Résumé

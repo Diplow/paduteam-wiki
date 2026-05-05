@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/marxisme #thème/médias-propagande #thème/féminisme #thème/guerre-des-gauches #enjeu/bataille-culturelle
 
-[![LOÏC CHAIGNEAU REVIENT pour CASSER du W0KE et du DR0GUÉ !](https://img.youtube.com/vi/PuF4Q8X_Hl0/0.jpg)](https://www.youtube.com/watch?v=PuF4Q8X_Hl0)
-
+![LOÏC CHAIGNEAU REVIENT pour CASSER du W0KE et du DR0GUÉ !](https://www.youtube.com/watch?v=PuF4Q8X_Hl0)
 # LOÏC CHAIGNEAU REVIENT pour CASSER du W0KE et du DR0GUÉ !?
 
 ## Résumé

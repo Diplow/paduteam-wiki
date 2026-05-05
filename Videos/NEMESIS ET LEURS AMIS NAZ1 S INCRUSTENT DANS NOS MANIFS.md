@@ -15,8 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT et Chris)
 
-[![NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT et Chris)](https://img.youtube.com/vi/CP3mKiRpH_I/0.jpg)](https://www.youtube.com/watch?v=CP3mKiRpH_I)
-
+![NÉMÉSIS ET LEURS AMIS NAZ1 S'INCRUSTENT DANS NOS MANIFS (x @Dr_Zoé_YT et Chris)](https://www.youtube.com/watch?v=CP3mKiRpH_I)
 ## Résumé
 
 Vidéo publiée le 8 mars 2025 (Journée internationale des droits des femmes). La PaduTeam analyse l'infiltration de Némésis dans les manifestations féministes du 8 mars. C'est la vidéo la plus théorique du corpus : la PaduTeam développe le traitement le plus complet de la thèse de [[Sara Farris]] sur le [[Femonationalisme]], propose la distinction fine avec le [[Feminisme raciste]] de Némésis, et explore la thèse sur la réactivation du patriarcat occidental par le fémonationalisme.

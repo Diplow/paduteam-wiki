@@ -11,8 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #enjeu/Palestine-libre
 
-[![TERRACID SOUTIENT LA PALESTNE FACE AU SILENCE ASSOURDISSANT DE SQUEEZIE !!](https://img.youtube.com/vi/K542PIeTpLA/0.jpg)](https://www.youtube.com/watch?v=K542PIeTpLA)
-
+![TERRACID SOUTIENT LA PALESTNE FACE AU SILENCE ASSOURDISSANT DE SQUEEZIE !!](https://www.youtube.com/watch?v=K542PIeTpLA)
 # TERRACID SOUTIENT LA PALESTINE FACE AU SILENCE ASSOURDISSANT DE SQUEEZIE !!
 
 ## Résumé

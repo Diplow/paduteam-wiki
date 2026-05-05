@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire
 
+![MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037](https://www.youtube.com/watch?v=JvzArhdDXIk)
+
 # MACRON ANNONCE SA CANDIDATURE POUR 2032 ET 2037
 
 ## Résumé

@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/élections #enjeu/union-populaire
 
-[![SONDAGES DE PROPAGANDE SUR FRANCE INFO : ÇA DEVIENT N'IMPORTE QUOI !](https://img.youtube.com/vi/hnF8vCljbuo/0.jpg)](https://www.youtube.com/watch?v=hnF8vCljbuo)
-
+![SONDAGES DE PROPAGANDE SUR FRANCE INFO : ÇA DEVIENT N'IMPORTE QUOI !](https://www.youtube.com/watch?v=hnF8vCljbuo)
 # SONDAGES DE PROPAGANDE SUR FRANCE INFO CA DEVIENT N IMPORTE QUOI
 
 ## Résumé

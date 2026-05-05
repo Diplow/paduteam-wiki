@@ -39,6 +39,7 @@ L'interview réalisée par [[Salome Saque]] sur [[Blast]] n'est pas accidentelle
 ## Vidéos où Laurent Mauduit est analysé
 - [[1000 CAPSULE - PROCES DU MINIATURISTE]]
 - [[INTERVIEW CATASTROPHIQUE DE SALOME SAQUE ET LAURENT MAUDUIT LES PATRONS DE GAUCHE]]
+- [[MATHIEU PIGASSE L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]] — cité en référence : face à Pigasse, "on est sur une alerte Laurent Mauduit — un mec qui est largement dans les cercles de pouvoir depuis très longtemps et qui sait très bien où sont ses intérêts de classe."
 
 [^1]: [6:05](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=365) — "Ça fait partie des accompagnateurs [...] quand même du tournant libéral de la gauche [...] même si c'est version de gauche hein, en fait ça reste du néolibéralisme."
 [^2]: [1:01:35](https://www.youtube.com/watch?v=yIq2MjL2sc4&t=3695) — "Et là il termine avec sa petite pichenette anticommuniste dégueulasse. D'accord. C'était dégueulasse. C'est mensongé."

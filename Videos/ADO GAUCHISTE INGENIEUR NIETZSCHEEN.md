@@ -11,8 +11,7 @@ skill_version: ingest-single-2026-04-21
 
 # D'ADO GAUCHISTE À INGÉNIEUR NIETZSCHÉEN
 
-[![D'ADO GAUCHISTE à INGÉNIEUR NIETZSCHÉEN ce SURHOMME raconte son HISTOIRE !!](https://img.youtube.com/vi/1fj9qJ21apI/0.jpg)](https://www.youtube.com/watch?v=1fj9qJ21apI)
-
+![D'ADO GAUCHISTE à INGÉNIEUR NIETZSCHÉEN ce SURHOMME raconte son HISTOIRE !!](https://www.youtube.com/watch?v=1fj9qJ21apI)
 Capsule de réaction en duo (Padu + Dr Zoé) sur une vidéo de [[Valeurs Actuelles|VA+]] dans laquelle un jeune homme prénommé Arthur raconte son parcours du communisme/mélenchonisme à la lecture de Nietzsche. La PaduTeam déconstruit point par point la cohérence de cette trajectoire : origines de classe ambiguës dissimulées, politisation par YouTube masculiniste plutôt que par conviction programmatique, contradiction insurmontable entre républicanisme et nietzschéisme, et victimisation de l'homme blanc hétéro sans ancrage matériel.
 
 ## Thèses et analyses clés

@@ -12,7 +12,7 @@ date created: Tuesday, April 21st 2026, 12:00:00 pm
 
 ## Position dans le [[Graphique]]
 
-Média du centre-gauche cultivé — positionnement socio-culturel haut-gauche. Pour la PaduTeam, Le Monde n'est pas neutre : il a une ligne politique clairement anti-LFI, et son journalisme dit "de qualité" dissimule des partis pris idéologiques forts.
+Média du centre-gauche cultivé — positionnement socio-culturel haut-gauche. Pour la PaduTeam, Le Monde n'est pas neutre : il a une ligne politique clairement anti-LFI, et son journalisme dit "de qualité" dissimule des partis pris idéologiques forts. [[Mathieu Pigasse]] en a été actionnaire avant de céder ses parts.
 
 ## Dynamique
 

@@ -10,8 +10,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/médias-propagande #enjeu/union-populaire
 
-[![JORDAN FLORENTIN nous explique LE FASCISME DE LFI : ÇA TOURNE MAL !!!](https://img.youtube.com/vi/YZCzNwaRlw8/0.jpg)](https://www.youtube.com/watch?v=YZCzNwaRlw8)
-
+![JORDAN FLORENTIN nous explique LE FASCISME DE LFI : ÇA TOURNE MAL !!!](https://www.youtube.com/watch?v=YZCzNwaRlw8)
 # JORDAN FLORENTIN nous explique LE FASCISME DE LFI : ÇA TOURNE MAL !!!
 
 ## Résumé

@@ -13,7 +13,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/société #domaine/théorie #thème/masculinisme #thème/marxisme
 
-[![RÉÉDUCATION DE L'INCEL LIBERTARIEN : ON FINIT LE TRAVAIL](https://img.youtube.com/vi/eyF1l-60H-Q/0.jpg)](https://www.youtube.com/watch?v=eyF1l-60H-Q)
+![RÉÉDUCATION DE L'INCEL LIBERTARIEN : ON FINIT LE TRAVAIL](https://www.youtube.com/watch?v=eyF1l-60H-Q)
 # RÉÉDUCATION DE L'INCEL LIBERTARIEN — ON FINIT LE TRAVAIL
 
 ## Résumé

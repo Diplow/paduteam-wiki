@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale #enjeu/corpo-médicale
 
-[![LES MÉDECINS MENTENT-ILS SUR LEURS RÉMUNÉRATIONS](https://img.youtube.com/vi/zXH_UBDwvMU/0.jpg)](https://www.youtube.com/watch?v=zXH_UBDwvMU)
-
+![LES MÉDECINS MENTENT-ILS SUR LEURS RÉMUNÉRATIONS](https://www.youtube.com/watch?v=zXH_UBDwvMU)
 # Les médecins mentent-ils sur leurs rémunérations ?
 
 ## Résumé

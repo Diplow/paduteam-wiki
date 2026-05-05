@@ -10,6 +10,8 @@ date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/union-populaire
 
+![BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY](https://www.youtube.com/watch?v=TucnkB-bPBg)
+
 # BARDELLA BETRAYS MARINE AND DINES WITH SARKOZY
 
 ## Résumé

@@ -11,8 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/répression-justice #enjeu/Palestine-libre
 
-[![AYMERIC CARON ÉCRABOUILLE CNEWS SUR GAZA !!](https://img.youtube.com/vi/mbxXDxHk3gE/0.jpg)](https://www.youtube.com/watch?v=mbxXDxHk3gE)
-
+![AYMERIC CARON ÉCRABOUILLE CNEWS SUR GAZA !!](https://www.youtube.com/watch?v=mbxXDxHk3gE)
 # AYMERIC CARON ÉCRABOUILLE CNEWS SUR GAZA !!
 
 ## Résumé

@@ -57,6 +57,12 @@ La PaduTeam anticipe : Netanyahu devrait "finir comme Milozevic et ses lieutenan
 [^bibi_war]: [27:59](https://www.youtube.com/watch?v=A198m2MhnL0&t=1679) — "Netanyahou a vendu un rêve. Le 11 février dans la situation room. Le premier ministre israélien a présenté un scénario en quatre actes. Tuer le guide suprême, détruire l'armée iranienne, déclencher une révolution populaire, installer un nouveau régime."
 [^bibi_slides]: [35:13](https://www.youtube.com/watch?v=A198m2MhnL0&t=2113) — "Bibi il sait très bien ce que c'est. Tu as le PDG, c'est un débile mais c'est lui [...] Lui il est directeur des opérations Bibi [...] il fabrique des slides PowerPoint, il lui fait croire que c'est son idée."
 
+## Netanyahu dans le panorama mondial de l'extrême droite (avril 2026)
+
+Dans le panorama international, la PaduTeam catégorise Netanyahu comme un cas à part : "L'extrême droite la plus fasciste" au monde — au-dessus de Trump, Meloni ou Milei. Israël est "l'état le plus fasciste" parce que "Netanyahu ne devrait pas simplement perdre des élections et rentrer chez lui. Netanyahu devrait normalement être traduit devant une cour pénale internationale à l'issue d'une défaite."
+
+Signe de fragilité début 2026 : la guerre contre l'Iran a "vraiment fini de décrédibiliser Netanyahu." Il est "obligé de faire machine arrière." Sursaut de manifestations pro-démocratie à Tel-Aviv (pas vues depuis le 7 octobre 2023). Le LU (son bloc) perd en intention de vote "au niveau de d'avant le mois d'octobre 2023." La PaduTeam contextualise : "même ce qu'on appelle la gauche israélienne est colonial" — mais force aux "0,01% d'Israéliens qui essaient encore de se battre pour un peu de progrès."
+
 ## Vidéos où Netanyahu est analysé
 - [[GEORGES IBRAHIM ABDALLAH enfin LIBRE !]]
 - [[UN GENOCIDE EN COURS A GAZA ET PERSONNE N'EN PARLE]]
@@ -70,3 +76,4 @@ La PaduTeam anticipe : Netanyahu devrait "finir comme Milozevic et ses lieutenan
 - [[MEYER HABIB ET MANUEL VALLS FOUS DE RAGE DU MANDAT ARRET CONTRE NETANYAHU]] — Les alliés français de Netanyahu face à la CPI
 - [[BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT]] — Avancée sur le Golan post-Assad, stratégie d'expansion via le chaos syrien
 - [[GUERRE IRAN-US TRUMP HEGEMONIE]] — Netanyahu comme architecte du déclenchement de la guerre, saboteur délibéré du cessez-le-feu, future cible de Trump comme bouc émissaire
+- [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]] — qualifié de "cas à part" dans le panorama mondial ; "l'état le plus fasciste" ; premier sursaut de manifestations pro-démocratie à Tel-Aviv depuis oct. 2023 ; LU en chute vers les niveaux pre-oct. 2023

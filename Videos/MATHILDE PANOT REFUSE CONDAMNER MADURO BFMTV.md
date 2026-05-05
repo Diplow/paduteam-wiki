@@ -16,8 +16,7 @@ date modified: 2026-04-25
 
 # MATHILDE PANOT REFUSE DE CONDAMNER MADURO SUR BFMTV !!
 
-[![](https://img.youtube.com/vi/d12f7suJOOg/0.jpg)](https://www.youtube.com/watch?v=d12f7suJOOg)
-
+![](https://www.youtube.com/watch?v=d12f7suJOOg)
 ## Résumé
 
 Analyse de l'intervention de [[Mathilde Panot]] sur BFM TV après l'enlèvement de [[Nicolas Maduro]]. Elle refuse de qualifier Maduro de "dictateur" face au journaliste qui exige cette condamnation avant de lui permettre de dénoncer l'agression américaine. La PaduTeam analyse ce refus comme un acte campiste exemplaire et décortique le dispositif médiatique de neutralisation.

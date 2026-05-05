@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/théorie #thème/féminisme #thème/masculinisme #thème/travail
 
-[![5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE À NOËL](https://img.youtube.com/vi/NBOUwkc60fc/0.jpg)](https://www.youtube.com/watch?v=NBOUwkc60fc)
-
+![5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE À NOËL](https://www.youtube.com/watch?v=NBOUwkc60fc)
 # 5 LIVRES POUR FAIRE VRILLER TON TONTON RACISTE À NOËL
 
 ## Résumé

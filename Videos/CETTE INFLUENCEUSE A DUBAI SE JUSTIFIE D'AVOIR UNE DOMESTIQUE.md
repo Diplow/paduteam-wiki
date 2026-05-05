@@ -12,8 +12,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/société #domaine/théorie #thème/travail #thème/féminisme #enjeu/anti-impérialisme
 
-[![CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE](https://img.youtube.com/vi/6Q9Sj1E-pqs/0.jpg)](https://www.youtube.com/watch?v=6Q9Sj1E-pqs)
-
+![CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE](https://www.youtube.com/watch?v=6Q9Sj1E-pqs)
 # CETTE INFLUENCEUSE À DUBAÏ SE JUSTIFIE D'AVOIR UNE DOMESTIQUE
 
 ## Résumé

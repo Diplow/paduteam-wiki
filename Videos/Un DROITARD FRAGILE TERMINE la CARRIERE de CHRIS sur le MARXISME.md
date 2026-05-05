@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/économie #thème/marxisme-théorie
 
-[![Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME](https://img.youtube.com/vi/i4UUL9DZ9Sc/0.jpg)](https://www.youtube.com/watch?v=i4UUL9DZ9Sc)
-
+![Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME](https://www.youtube.com/watch?v=i4UUL9DZ9Sc)
 # Un DROITARD FRAGILE TERMINE la CARRIÈRE de CHRIS sur le MARXISME !! (avec Chris de Positions Revue)
 
 ## Résumé

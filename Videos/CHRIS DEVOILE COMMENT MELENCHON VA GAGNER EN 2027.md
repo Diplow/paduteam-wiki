@@ -12,8 +12,7 @@ aliases: [CHRIS DÉVOILE COMMENT MÉLENCHON VA GAGNER EN 2027]
 
 # CHRIS DÉVOILE COMMENT MÉLENCHON VA GAGNER EN 2027
 
-[![CHRIS DÉVOILE COMMENT MÉLENCHON VA GAGNER EN 2027 !!](https://img.youtube.com/vi/RcKQcSZ1fnc/0.jpg)](https://www.youtube.com/watch?v=RcKQcSZ1fnc)
-
+![CHRIS DÉVOILE COMMENT MÉLENCHON VA GAGNER EN 2027 !!](https://www.youtube.com/watch?v=RcKQcSZ1fnc)
 Capsule en direct avec Chris et Padu : application du [[Graphique]] à la stratégie présidentielle de 2027. La thèse centrale est un parallèle historique précis entre la configuration de 2002 et celle de 2027 — la division de la droite va profiter à la gauche comme la division de la gauche avait profité à l'extrême droite en 2002. [[Jean-Luc Melenchon]] doit incarner le pôle antisystème radical de gauche que [[Jean-Marie Le Pen]] avait incarné à droite, en imposant des thèmes de rupture néolibérale assumés. Le [[Graphique]] sert de boussole pour identifier les mesures capables d'atteindre la majorité des salarié·es.
 
 ## Thèses

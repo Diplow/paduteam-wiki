@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-24
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #enjeu/guerre-des-gauches #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES](https://img.youtube.com/vi/IkRB5Sfl2MU/0.jpg)](https://www.youtube.com/watch?v=IkRB5Sfl2MU)
-
+![ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES](https://www.youtube.com/watch?v=IkRB5Sfl2MU)
 # ROUSSEL TAPE (encore) SUR LFI POUR DRAGUER DES VIEUX RICHES
 
 ## Résumé

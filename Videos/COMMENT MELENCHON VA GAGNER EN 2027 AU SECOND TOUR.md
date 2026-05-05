@@ -11,8 +11,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #enjeu/union-populaire
 
-[![COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR](https://img.youtube.com/vi/VFiHhZiOWZ8/0.jpg)](https://www.youtube.com/watch?v=VFiHhZiOWZ8)
-
+![COMMENT MÉLENCHON VA GAGNER EN 2027 AU SECOND TOUR](https://www.youtube.com/watch?v=VFiHhZiOWZ8)
 # COMMENT MELENCHON VA GAGNER EN 2027 AU SECOND TOUR
 
 ## Résumé

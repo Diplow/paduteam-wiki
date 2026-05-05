@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/élections #enjeu/union-populaire
 
+![La CARTE DES QI version MARXISTE — le GRAPHIQUE de Positions Revue !!](https://www.youtube.com/watch?v=MJsGgEA_Slw)
+
 # La CARTE DES QI version MARXISTE — le GRAPHIQUE de Positions Revue !!
 
 ## Métadonnées

@@ -11,8 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/médias-propagande #thème/féminisme #enjeu/Palestine-libre
 
-[![TPMP POLSKA DÉTRUIT NADINE MORANO SUR GAZA EN DIRECT !!](https://img.youtube.com/vi/XNIki6_ZNp0/0.jpg)](https://www.youtube.com/watch?v=XNIki6_ZNp0)
-
+![TPMP POLSKA DÉTRUIT NADINE MORANO SUR GAZA EN DIRECT !!](https://www.youtube.com/watch?v=XNIki6_ZNp0)
 # TPMP POLSKA DÉTRUIT NADINE MORANO SUR GAZA EN DIRECT !!
 
 ## Résumé

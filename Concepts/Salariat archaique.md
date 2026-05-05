@@ -35,6 +35,15 @@ La PaduTeam distingue deux figures qui semblent proches mais occupent des positi
 
 La PaduTeam : "C'est pas un gars qui avait une entreprise de taxi et tout — c'est un peu différent."
 
+## Extension aux entrepôts logistiques
+
+La vidéo sur [[Action Distribution|Action]], [[Lidl]] et [[Amazon]] enrichit le concept en montrant que le salariat archaïque ne se limite pas aux travailleurs de plateforme : les préparateurs de commande intérimaires sont son avatar dans les centres logistiques. "C'est ce qu'on appelle le salariat archaïque, le tâcheronnage. Le travail intérimaire c'est ce qui ressemble le plus du tâcheronnage."
+
+L'intérim industrialisé par des sociétés spécialisées est la forme contemporaine de cette relation : avant, les gens venaient directement devant les usines demander du travail ; aujourd'hui, une société intérimaire fait la médiation. La précarité est structurelle — "c'est insupportable de tenir un CDI comme ça pendant 15 ans."
+
+Le taux de surreprésentation des travailleurs racisés et immigrés dans ces postes est explicitement documenté : "le taux de gens racisés dans les boîtes intérimaires qui vont faire des tâches basiques comme ça, il dépasse largement le taux de racisation de la société." Voir aussi [[Capitalisme racial]].
+
 ## Vidéos
 - [[Les LIVREURS-UBER + BOURGEOIS que les MEDECINS]] — Développement principal : distinction livreur Uber / vrai indépendant, l'application comme moyen de production, le tâcheronnage néolibéral
 - [[10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE]] — Nuance VTC avec voiture vs Uber Hit à vélo, distinction structures mentales petite-bourgeoise vs prolétariat archaïque
+- [[ACTION, LIDL, AMAZON L'EXPLOITATION 2.0]] — Extension aux entrepôts logistiques, intérim industrialisé, surreprésentation des travailleurs racisés

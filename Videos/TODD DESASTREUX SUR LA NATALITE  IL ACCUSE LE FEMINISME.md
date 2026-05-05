@@ -14,8 +14,7 @@ aliases: [TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME]
 
 # TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME
 
-[![TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME](https://img.youtube.com/vi/nWck0GgPnxw/0.jpg)](https://www.youtube.com/watch?v=nWck0GgPnxw)
-
+![TODD DÉSASTREUX SUR LA NATALITÉ  IL ACCUSE LE FÉMINISME](https://www.youtube.com/watch?v=nWck0GgPnxw)
 ## Résumé
 Padu, Chris et Zoé réagissent à une interview d'[[Emmanuel Todd]] au Figaro (lors du 200e anniversaire du journal) sur la baisse de la natalité en France. Todd y identifie des causes matérielles partiellement correctes (logement, pouvoir d'achat) avant de déraper vers une thèse réactionnaire : le mouvement #MeToo et le mariage pour tous seraient responsables de la chute de fécondité à partir de 2016. La PaduTeam démonte la thèse étape par étape, développe une critique marxiste de Todd, et la PaduTeam formule sa thèse centrale : le féminisme n'a pas été assez communiste.
 

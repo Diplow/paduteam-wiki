@@ -12,7 +12,7 @@ date modified: Wednesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
 
-[![Thumbnail](https://img.youtube.com/vi/c6YvwHjVfYg/maxresdefault.jpg)](https://www.youtube.com/watch?v=c6YvwHjVfYg)
+![GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE](https://www.youtube.com/watch?v=c6YvwHjVfYg)
 
 # GLUCKSMANN PROUVE que RUFFIN EST une FRAUDE
 

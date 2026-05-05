@@ -9,8 +9,7 @@ skill_version: "write-video-2026-04-21"
 ---
 #domaine/politique-intérieure #domaine/économie #thème/guerre-des-gauches #thème/travail #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN](https://img.youtube.com/vi/UU4G0jEctgs/0.jpg)](https://www.youtube.com/watch?v=UU4G0jEctgs)
-
+![L ARME DU PS POUR BATTRE LFI LA TAXE ZUCMAN](https://www.youtube.com/watch?v=UU4G0jEctgs)
 # L'ARME DU PS POUR BATTRE LFI : LA TAXE ZUCMAN
 
 ## Résumé

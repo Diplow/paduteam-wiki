@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-22
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/travail #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE](https://img.youtube.com/vi/aX7LA5CR5jo/0.jpg)](https://www.youtube.com/watch?v=aX7LA5CR5jo)
-
+![LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE](https://www.youtube.com/watch?v=aX7LA5CR5jo)
 # LE PS SCANDALEUX! ILS ACCEPTENT LE 49.3 MACRONISTE
 
 ## Résumé

@@ -12,8 +12,7 @@ skill_version: write-video-2026-04-22
 
 # LA PRIMAIRE des NOISETTES TOURNE à la CATASTROPHE !
 
-[![LA PRIMAIRE des NOISETTES TOURNE à la CATASTROPHE !](https://img.youtube.com/vi/9OIswON_az0/0.jpg)](https://www.youtube.com/watch?v=9OIswON_az0)
-
+![LA PRIMAIRE des NOISETTES TOURNE à la CATASTROPHE !](https://www.youtube.com/watch?v=9OIswON_az0)
 ## Résumé
 
 La PaduTeam commente un article du Monde signé [[Olivier Perou]] intitulé "Présidentiel 2027 : à gauche cette primaire qui traîne des pieds". À partir de ce texte jugé creux et complaisant, ils dissèquent l'état catastrophique du [[Front Populaire 2027]] : conférence de presse de décembre 2025 annulée, règles de la primaire non annoncées, divisions internes autour du vote budgétaire, tensions entre [[Parti Socialiste]] et les autres composantes. La vidéo est aussi l'occasion de formuler la prophétie du duel ultime 2027 : [[Francois Hollande]] vs [[Jean-Luc Melenchon]], 30 ans après leur premier affrontement au congrès de Brest.

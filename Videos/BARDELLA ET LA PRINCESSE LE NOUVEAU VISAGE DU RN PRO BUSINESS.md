@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-24
 ---
 #domaine/politique-intérieure #thème/élections #thème/médias-propagande
 
-[![BARDELLA et LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS](https://img.youtube.com/vi/k2JDCYqR5iU/0.jpg)](https://www.youtube.com/watch?v=k2JDCYqR5iU)
-
+![BARDELLA et LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS](https://www.youtube.com/watch?v=k2JDCYqR5iU)
 # BARDELLA ET LA PRINCESSE : LE NOUVEAU VISAGE DU RN PRO BUSINESS
 
 ## Résumé

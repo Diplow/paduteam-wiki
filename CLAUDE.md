@@ -104,41 +104,42 @@ Trois pièges à éviter systématiquement quand on travaille sur ce vault :
 
 Le fichier `PADUTEAM_CHRONOLOGIQUE.md` (à la racine) est le **tracker principal** : 40 batchs couvrant 18 mois de vidéos PaduTeam, chacun avec un statut ⏳/✅. C'est la source de vérité pour l'avancement de l'ingestion. Les commits sont directs sur `develop` (plus de branches éphémères — voir `BUILD.md` § Workflow git).
 
-### Scripts d'automatisation (`Sources/Transcripts/`)
+### Scripts d'automatisation (`Scripts/` — racine WikiPol)
 
-**Lancer l'ingestion d'un batch spécifique :**
+Tous les scripts vivent à la racine WikiPol et prennent `--source Sources/Paduteam`.
+
+**Ingestion hebdomadaire (commande recommandée — usage typique) :**
 ```bash
-python Sources/Transcripts/run_ingest.py --batch N
+python Scripts/weekly_ingest.py --source Sources/Paduteam
+```
+Enchaîne fetch des dernières vidéos + extraction des transcripts + ajout d'un batch
+au tracker + commit/push + ingestion. Sortie propre si rien de nouveau. Options :
+`--n 15` (nombre de récentes à scanner, défaut 20), `--dry-run`, `--no-ingest`,
+`--no-commit`, `--model opus`.
+
+**Ingérer un batch précis (déjà ⏳ dans le tracker) :**
+```bash
+python Scripts/run_ingest.py --source Sources/Paduteam --batch N
+python Scripts/run_ingest.py --source Sources/Paduteam              # tous les batchs ⏳
+python Scripts/run_ingest.py --source Sources/Paduteam --from N     # depuis le batch N
+python Scripts/run_ingest.py --source Sources/Paduteam --dry-run    # afficher sans exécuter
 ```
 
-**Lancer tous les batchs en attente :**
+**Gestion fine des transcripts (rarement utile en standalone) :**
 ```bash
-python Sources/Transcripts/run_ingest.py
+python Scripts/batch_transcripts.py --source Sources/Paduteam --recent N    # N plus récentes
+python Scripts/batch_transcripts.py --source Sources/Paduteam --last N      # N sans transcript
+python Scripts/batch_transcripts.py --source Sources/Paduteam --full        # discover + fix + extract
 ```
 
-**Autres options `run_ingest.py` :**
+**Régénérer le tracker depuis zéro (destructif — perd les ✅) :**
 ```bash
---dry-run          # afficher sans exécuter
---from N           # reprendre depuis le batch N
---model opus       # utiliser Opus au lieu de Sonnet
-```
-
-**Gérer les transcripts (découverte, extraction, correctifs) :**
-```bash
-python Sources/Transcripts/batch_transcripts.py --full        # discover + fix + extract
-python Sources/Transcripts/batch_transcripts.py --recent N    # N vidéos les plus récentes
-python Sources/Transcripts/batch_transcripts.py --dry-run     # toutes les modes supportent --dry-run
-```
-
-**Régénérer `PADUTEAM_CHRONOLOGIQUE.md` :**
-```bash
-python Sources/Transcripts/generate_chronological.py
-python Sources/Transcripts/generate_chronological.py --force  # écraser même si des batchs ✅ existent
+python Scripts/generate_chronological.py --source Sources/Paduteam --force
 ```
 
 **Helper timestamps (MM:SS → secondes pour les liens `&t=`) :**
 ```bash
-python Sources/timestamp_to_seconds.py
+python Scripts/timestamp_to_seconds.py
 ```
 
 ### Mode automatique d'ingestion (batch)

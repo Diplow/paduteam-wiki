@@ -7,8 +7,12 @@ methodes: [Graphique]
 date: 2025-02-01
 date created: Wednesday, April 1st 2026, 12:28:02 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: zgVmphTxtvg
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
+
+![FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)](https://www.youtube.com/watch?v=zgVmphTxtvg)
+
 # FAUT-IL EN FINIR AVEC LE NFP ? (GRAPHOMARXISME avec Chris de Positions Revue)
 
 ## Résumé

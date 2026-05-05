@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS #thème/masculinisme
 
+![@LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES](https://www.youtube.com/watch?v=xHa2JBJCZbc)
+
 # @LAMENACEOFFICIAL CONDAMNÉ POUR VIOLENCES CONJUGALES
 
 ## Résumé

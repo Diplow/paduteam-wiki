@@ -12,8 +12,7 @@ methodes: [Anatomie des visions adverses]
 
 # Thaïs et Valek nous apprennent à baiser
 
-[![Thaïs et Valek nous apprennent à baiser](https://img.youtube.com/vi/-8WwlRECQgE/0.jpg)](https://www.youtube.com/watch?v=-8WwlRECQgE)
-
+![Thaïs et Valek nous apprennent à baiser](https://www.youtube.com/watch?v=-8WwlRECQgE)
 Padu et Dr Zoé décortiquent un épisode de podcast où [[Thais d Escufon]] interviewe [[Valek]] sur les relations hommes-femmes : l'évopsychologie comme naturalisation des rapports de domination, le "mur" des femmes, la misogynie légitime vs toxique. La vidéo prolonge le PTD #8 consacré à Valek en ajoutant la lecture féministe matérialiste de Zoé.
 
 ## Thèses

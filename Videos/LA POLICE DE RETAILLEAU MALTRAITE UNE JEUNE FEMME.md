@@ -12,6 +12,8 @@ aliases: [Police Retailleau jeune femme, autodéfense garde à vue]
 
 ![[-T5vF0dUOcc]]
 
+![La POLICE de RETAILLEAU MALTRAITE une JEUNE FEMME suite au 10 SEPTEMBRE !](https://www.youtube.com/watch?v=-T5vF0dUOcc)
+
 # La POLICE de RETAILLEAU MALTRAITE une JEUNE FEMME suite au 10 SEPTEMBRE !
 
 La PaduTeam commente le témoignage d'Evvora, étudiante de 18 ans arrêtée lors des blocages du 10 septembre 2025 et maintenue en garde à vue pendant 55 heures. La vidéo est construite en deux temps : la mise en contexte politique (Retailleau comme ordonnateur de la répression, l'épuisement programmé des forces de l'ordre comme stratégie militante) et une séance d'autodéfense militante pratique (droits en garde à vue, mnémotechnique AMIS). Ce n'est pas un documentaire sur la violence — c'est un outil de formation politique pour tenir face à ce qui arrive.

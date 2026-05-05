@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire
 
+![MUNICIPALES CE QU'IL FAUT RETENIR !](https://www.youtube.com/watch?v=YcY_vKMplX4)
+
 # MUNICIPALES CE QU'IL FAUT RETENIR !
 
 ## Résumé

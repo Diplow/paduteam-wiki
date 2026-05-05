@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/médias-propagande
 
+![AFFAIRE DANY : COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE](https://www.youtube.com/watch?v=p1cB2HjwIEQ)
+
 # AFFAIRE DANY : COMMENT LA ZAWAPROD A MANIPULÉ TOUT LE MONDE
 
 ## Résumé

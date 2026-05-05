@@ -14,8 +14,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 
 # ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE
 
-[![ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE](https://img.youtube.com/vi/muzy4rcCi8s/0.jpg)](https://www.youtube.com/watch?v=muzy4rcCi8s)
-
+![ALLIANCE PS-MACRONISTE-LR LES ASSASSINS DE LA SANTE](https://www.youtube.com/watch?v=muzy4rcCi8s)
 ## Résumé
 
 La PaduTeam dresse un bilan de la destruction du système de santé par la coalition PS-macroniste-LR. Point de départ : la déclaration de [[Sebastien Le Cornu]] selon laquelle il y aurait "trop d'argent" dans les hôpitaux, illustrée par une visite d'un hôpital rénové à Mâcon — pendant qu'on ferme 30 000 lits. La vidéo articule le mécanisme macroéconomique (la [[Tarification a l acte|T2A]] introduite par le PS crée un cercle vicieux de destruction hospitalière) avec un cas concret : la fermeture imminente du [[Centre d accueil de crise|CAC]] Ginette Amado, dans le GHU du 14e arrondissement de Paris, contre lequel la CGT se bat. [[Dr Zoe]], co-présentatrice, apporte l'expérience du terrain médical, notamment en psychiatrie rurale et la réalité de l'accueil de crise psychiatrique.

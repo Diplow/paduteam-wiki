@@ -9,8 +9,7 @@ skill_version: "write-video-2026-04-21"
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/anticommunisme #enjeu/union-populaire
 
-[![NICOLAS FRAMONT EST-IL ANTICOMMUNISTE ?](https://img.youtube.com/vi/gS_PyoZRSDE/0.jpg)](https://www.youtube.com/watch?v=gS_PyoZRSDE)
-
+![NICOLAS FRAMONT EST-IL ANTICOMMUNISTE ?](https://www.youtube.com/watch?v=gS_PyoZRSDE)
 # NICOLAS FRAMONT EST-IL ANTICOMMUNISTE ?
 
 ## Résumé

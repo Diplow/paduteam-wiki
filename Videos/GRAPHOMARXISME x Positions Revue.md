@@ -5,8 +5,12 @@ thèmes: [élections]
 enjeux: [union-populaire]
 date created: Wednesday, April 1st 2026, 1:13:36 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: 0fGLh8MvMco
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/le-Graphique #thème/élections #enjeu/union-populaire
+
+![GRAPHOMARXISME x Positions Revue](https://www.youtube.com/watch?v=0fGLh8MvMco)
+
 # GRAPHOMARXISME x Positions Revue
 
 ## Résumé

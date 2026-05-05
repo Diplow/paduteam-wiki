@@ -10,8 +10,7 @@ aliases: [Ce MILLIARDAIRE veut des BÉBÉS BLANCS CATHOLIQUES (STÉRIN), Pierre-
 ---
 #domaine/politique-intérieure #domaine/société #thème/élections #thème/médias-propagande #thème/féminisme #enjeu/critique-de-la-fachosphere #enjeu/antiféminisme-identitaire-comme-menace
 
-[![Ce MILLIARDAIRE veut des BÉBÉS BLANCS CATHOLIQUES (STÉRIN)](https://img.youtube.com/vi/x3MRVrW06wY/0.jpg)](https://www.youtube.com/watch?v=x3MRVrW06wY)
-
+![Ce MILLIARDAIRE veut des BÉBÉS BLANCS CATHOLIQUES (STÉRIN)](https://www.youtube.com/watch?v=x3MRVrW06wY)
 # CE MILLIARDAIRE veut des BÉBÉS BLANCS CATHOLIQUES (STÉRIN)
 
 ## Résumé

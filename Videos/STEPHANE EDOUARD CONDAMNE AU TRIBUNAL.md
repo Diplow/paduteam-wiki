@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #thème/médias-propagande #thème/répression-justice #thème/féminisme #thème/masculinisme
 
-[![STÉPHANE ÉDOUARD CONDAMNÉ AU TRIBUNAL](https://img.youtube.com/vi/3sUnX8lHgJM/0.jpg)](https://www.youtube.com/watch?v=3sUnX8lHgJM)
-
+![STÉPHANE ÉDOUARD CONDAMNÉ AU TRIBUNAL](https://www.youtube.com/watch?v=3sUnX8lHgJM)
 # STÉPHANE ÉDOUARD CONDAMNÉ AU TRIBUNAL FACE AU FOU ALLIÉ ET À DAÏ-MON !!
 
 ## Résumé

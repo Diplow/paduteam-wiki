@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches #thème/élections #enjeu/plus-jamais-PS
 
-[![ALAIN DUHAMEL DÉCRYPTE GLUCKSMANN, MÉLENCHON ET BARDELLA !! (et c'est cata)](https://img.youtube.com/vi/MN9qc3ziWss/0.jpg)](https://www.youtube.com/watch?v=MN9qc3ziWss)
-
+![ALAIN DUHAMEL DÉCRYPTE GLUCKSMANN, MÉLENCHON ET BARDELLA !! (et c'est cata)](https://www.youtube.com/watch?v=MN9qc3ziWss)
 # ALAIN DUHAMEL DÉCRYPTE GLUCKSMANN, MÉLENCHON ET BARDELLA !! (et c'est cata)
 
 ## Résumé

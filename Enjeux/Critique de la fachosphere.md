@@ -2,7 +2,7 @@
 type: enjeu
 domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, masculinisme, trajectoires-politiques, racisme-antiracisme]
-skill_version: write-enjeu-2026-04-25-enrichi-batch41
+skill_version: write-enjeu-2026-05-04-enrichi-w18-w19
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/masculinisme #thème/racisme-antiracisme #enjeu/critique-de-la-fachosphere
 
@@ -235,6 +235,30 @@ Arguments clés :
 
 Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle démontre que même les droitards qui semblent les plus "solides" sur le réel sont en fait les plus idéalistes.
 
+## La déliquescence de la fachosphère institutionnelle : le cas CNews (W18 2026)
+
+[[LA CHUTE DE CNEWS et PASCAL PRAUD]] documente la déliquescence mesurée de la fachosphère institutionnelle au printemps 2026 — preuve chiffrée que le contexte, pas la chaîne, a changé.
+
+**La thèse matérialiste de la chute.** CNews ne s'est pas dégradée — c'est le public qui a changé, poussé par des préoccupations matérielles de plus en plus pressantes (prix de l'énergie, logement, chômage, guerre en Iran). La chaîne continue exactement ce qu'elle a toujours fait. Ce qui est inadéquat, c'est sa ligne idéologique figée (pro-Trump, pro-Israël, obsessions identitaires) face à un public que les conditions concrètes déplacent. C'est leur **fausse conscience de classe** qui empêche les spectateurs comme "Adrien l'avocat parisien" de formuler cette évolution.
+
+**Les chiffres** : de 4% à 2,7% de part d'audience (−32%), durée d'écoute de 42 à 30 minutes (−28%), rétrogradée 3e derrière BFM TV et LCI — avec Praud perdant 200 000 auditeurs et −6 pts de part d'audience. CNews perd un tiers de ses six "incarnations fortes" (Mabrook + Morandini).
+
+**L'affaire Morandini comme révélateur structurel.** Condamné définitivement pour corruption de mineurs le 14 janvier 2026, Morandini est maintenu à l'antenne un mois après. La PaduTeam : "Qu'est-ce que Morandini avait comme dossiers sur la chaîne ?" — l'incapacité à "purger" contraste avec les "glorieux communistes qui savent très bien purger." La pédocriminalité bourgeoise comme boulet structurel de la fachosphère.
+
+**Le mental boutiquier confirmé.** Les influenceurs d'extrême droite comme "les Rogé, les taïs descuffons" ont préféré monétiser leur notoriété (vendre des produits, monter des entreprises) plutôt que construire des organisations politiques collectives. "Ça reste des petits boutiquiers avec des mentals de petits patrons." Ce n'est pas une nouveauté dans cet enjeu — c'est la confirmation chiffrée et datée du diagnostic sur la droitsphère.
+
+## L'internationale réactionnaire à l'épreuve du pouvoir : la preuve empirique mondiale (W18-W19 2026)
+
+[[TRUMP, MELONI, MILEI  LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE]] constitue la démonstration internationale la plus complète de la thèse : l'extrême droite n'est pas invincible, et **l'épreuve du pouvoir est une catastrophe** pour toutes les droites réactionnaires.
+
+**Contre le récit de la vague déferlante.** La PaduTeam conteste directement le récit noisettiste : l'extrême droite a réussi à "créer un petit trou de souris" mais à l'épreuve du pouvoir, c'est "une catastrophe." Le discours de la déferlante incontrôlable sert à justifier le vote pour "le moins pire" — c'est politiquement faux et stratégiquement nocif.
+
+**Le plafond de verre tient.** Au Portugal, Ventura battu 33% contre 66% au second tour présidentiel. En Espagne, Vox à 17-18% en recul. En Belgique, le [[Parti du Travail de Belgique|PTB]] fait reculer le Vlaams Belang aux municipales 2025 par l'offre d'une alternative de rupture — pas par le cordon sanitaire. "Imaginez un Hollande qui nationalise les banques en 2016 — peut-être il n'y aurait pas eu d'extrême droite en 2017."
+
+**L'AFD comme seule exception préoccupante.** La seule force d'extrême droite en progression significative en Europe est l'AFD allemande, "quasiment néonazie" selon la PaduTeam — ce qui rend la relance militaire allemande encore plus alarmante.
+
+**La conclusion stratégique.** Trois points : (1) l'extrême droite n'est pas invincible ; (2) elle n'a pas encore gagné et ne gagnera pas dans deux jours ; (3) **le seul moyen de la battre est de construire une alternative de gauche radicale** — pas une alliance avec le centre, pas un cordon sanitaire moral, mais un programme de rupture concret.
+
 ## Vidéos clés
 
 - [[LOIC CHAIGNEAU REVIENT CASSER DU WOKE ET DU DROGUE]] — variante académique du marxisme réactionnaire : Clouscard retourné contre ses alliés naturels (LGBT, féministes) ; idéalisme masqué en matérialisme (zéro occurrence du mot "capitalisme") ; rouge-brun qui a choisi le brun (TV Liberté, Radio Courtoisie, Frontières) ; Institut Humanisme Total comme schéma pyramidal sectaire ; la critique des drogues sans sociologie de classe confirme le culturalisme sans structures
@@ -271,6 +295,8 @@ Cette vidéo est la pièce maîtresse sur la fachosphère intellectuelle : elle 
 - [[JORDAN FLORENTIN nous explique LE FASCISME DE LFI CA TOURNE MAL]] — fachosphere "intellectuelle" qui va sur ChatGPT pour définir le fascisme ; accusation de fascisme par retournement : 1/7 pour LFI vs 6/7 pour RN/Reconquête ; Florentin "fasciste qui s'ignore" selon ses propres critères ; "le niveau de Frontière quoi"
 - [[SARDOCHE TRIE LES BONS ET LES MAUVAIS IMMIGRES]] — suprémacisme blanc inconscient comme variante mainstream : distinction expatrié/immigré comme hiérarchie raciale déguisée en neutralité économique ; valeur-travail retourné (OS = plus exploités et porteurs de plus-value) ; nécessité structurelle de l'immigration pour le capitalisme (Meloni 500k, 98% OS immigrés années 50-60) ; armée de réserve comme non-sens anti-immigration ; régularisation des sans-papiers comme revendication ouvrière
 - [[USUL CANCEL UN CAMARADE QUI RIT A L HUMOUR DE DROITE]] — 7 ressorts Jafari du pipeline humour droite (poésie de la violence, marqueur d'appartenance, curiosité culturelle artificielle, apologie virilité, autodérision, vulgarité-authenticité, désignation d'ennemis) ; cause du succès = universalisme abstrait PS sans politique concrète ; réponse matérielle (égalité réelle en acte) vs cancel moral archaïque ; "la forme c'est le fond qui remonte à la surface" (Hugo/Marx)
+- [[LA CHUTE DE CNEWS et PASCAL PRAUD]] — déliquescence mesurée et datée de la fachosphère institutionnelle : CNews de 4% à 2,7% d'audience (−32%), durée d'écoute de 42 à 30 minutes (−28%), rétrogradée 3e derrière BFM et LCI ; la ligne pro-Trump/pro-Israël comme suicide commercial dans un contexte de guerre en Iran qui pousse les masses vers les enjeux matériels ; la droitsphère internet qualifiée de "petits boutiquiers avec des mentals de petits patrons" — même diagnostic que pour Papacito, appliqué à l'échelle de CNews
+- [[TRUMP, MELONI, MILEI  LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE]] — la démonstration empirique internationale la plus complète que l'extrême droite n'est pas invincible : Meloni perd son référendum (46-53, 60% participation), Orban battu en Hongrie, Trump à 37% d'approbation, Milei avec inflation à 2000% ; plafond de verre documenté dans 5 pays (Portugal, Espagne, UK, Belgique, France) ; le PTB belge comme contre-modèle de la gauche de rupture qui fait reculer le Vlaams Belang par l'alternative, pas par le cordon sanitaire ; formule d'antidépression militante : "1/ l'extrême droite n'est pas invincible, 2/ elle n'a pas gagné, 3/ le seul moyen de la battre c'est une gauche radicale en face"
 
 ## Bardella comme échec structurel de la droite populiste
 

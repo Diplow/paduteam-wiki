@@ -12,8 +12,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/société #thème/féminisme #enjeu/féminisme-matérialiste
 
-[![VIRGINIE VOTA EST DEVENUE WOKE](https://img.youtube.com/vi/1-_qK1EfnNE/0.jpg)](https://www.youtube.com/watch?v=1-_qK1EfnNE)
-
+![VIRGINIE VOTA EST DEVENUE WOKE](https://www.youtube.com/watch?v=1-_qK1EfnNE)
 # VIRGINIE VOTA EST DEVENUE WOKE !! (avec @Dr_Zoé_YT)
 
 ## Résumé

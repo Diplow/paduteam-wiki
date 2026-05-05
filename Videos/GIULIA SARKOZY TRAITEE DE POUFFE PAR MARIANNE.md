@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/médias-propagande #enjeu/bataille-culturelle
 
-[![GIULIA SARKOZY TRAITÉE DE POUFFE PAR MARIANNE ???!!!](https://img.youtube.com/vi/UAHZIsdNX0A/0.jpg)](https://www.youtube.com/watch?v=UAHZIsdNX0A)
-
+![GIULIA SARKOZY TRAITÉE DE POUFFE PAR MARIANNE ???!!!](https://www.youtube.com/watch?v=UAHZIsdNX0A)
 # GIULIA SARKOZY TRAITÉE DE POUFFE PAR MARIANNE ???!!!
 
 ## Résumé

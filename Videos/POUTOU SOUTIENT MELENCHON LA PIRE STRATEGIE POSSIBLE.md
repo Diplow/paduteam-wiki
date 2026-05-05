@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/théorie-politique #enjeu/union-populaire
 
-[![POUTOU SOUTIENT MELENCHON : LA PIRE STRATÉGIE POSSIBLE !!](https://img.youtube.com/vi/sI-XFGMRPbM/0.jpg)](https://www.youtube.com/watch?v=sI-XFGMRPbM)
-
+![POUTOU SOUTIENT MELENCHON : LA PIRE STRATÉGIE POSSIBLE !!](https://www.youtube.com/watch?v=sI-XFGMRPbM)
 # POUTOU SOUTIENT MELENCHON : LA PIRE STRATÉGIE POSSIBLE !!
 
 ## Résumé

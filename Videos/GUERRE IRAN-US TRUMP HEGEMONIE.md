@@ -10,8 +10,7 @@ skill_version: ingest-batch-2026-04-24
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/Iran #thème/États-Unis #enjeu/anti-impérialisme #enjeu/campisme-assumé
 
-[![GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ?](https://img.youtube.com/vi/A198m2MhnL0/0.jpg)](https://www.youtube.com/watch?v=A198m2MhnL0)
-
+![GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ?](https://www.youtube.com/watch?v=A198m2MhnL0)
 # GUERRE IRAN-US : TRUMP va-t-il TERMINER L'HÉGÉMONIE des USA ?
 
 Suite directe de [[TRUMP PREND UNE FESSEE EN IRAN ON AVAIT TOUT PREVU]]. Capsule enregistrée après le cessez-le-feu Iran-USA. La PaduTeam fait le bilan : Trump a reculé, l'Iran est sorti plus fort qu'avant la guerre, et l'hégémonie américaine a pris un coup décisif. La vidéo articule l'analyse géopolitique du cessez-le-feu à une réflexion théorique sur la contradiction principale (Mao), l'antiracisme impérialiste, et le rôle des progressistes du centre impérialiste. Elle annonce aussi le lancement d'une campagne anti-impérialiste de La Brèche : "le printemps des peuples anti-impérialistes."

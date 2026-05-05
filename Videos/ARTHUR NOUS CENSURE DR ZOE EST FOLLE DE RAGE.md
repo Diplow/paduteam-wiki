@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS #thème/médias-propagande
 
+![ARTHUR NOUS CENSURE — DR ZOÉ EST FOLLE DE RAGE](https://www.youtube.com/watch?v=KI1sQj8QvUo)
+
 # ARTHUR NOUS CENSURE — DR ZOÉ EST FOLLE DE RAGE
 
 ## Résumé

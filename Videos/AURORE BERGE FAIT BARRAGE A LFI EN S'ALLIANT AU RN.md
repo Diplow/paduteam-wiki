@@ -11,6 +11,8 @@ aliases: [AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN]
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN !!!](https://www.youtube.com/watch?v=7JKcdnkGji8)
+
 # AURORE BERGÉ FAIT BARRAGE A LFI EN S'ALLIANT AU RN !!!
 
 ## Résumé

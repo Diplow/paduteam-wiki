@@ -12,7 +12,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![Miniature](https://img.youtube.com/vi/1sfoW7SPKdY/maxresdefault.jpg)](https://www.youtube.com/watch?v=1sfoW7SPKdY)
+![KARIM BOUAMRANE (PS) : "on va DÉFONCER ÉRIC COQUEREL et la FI !!"](https://www.youtube.com/watch?v=1sfoW7SPKdY)
 
 # KARIM BOUAMRANE (PS) : "on va DÉFONCER ÉRIC COQUEREL et la FI !!"
 

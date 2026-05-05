@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches
 
-[![ABONNÉ CRITIQUE PADU C'ÉTAIT MIEUX AVANT](https://img.youtube.com/vi/DdlOiP4K2bE/0.jpg)](https://www.youtube.com/watch?v=DdlOiP4K2bE)
-
+![ABONNÉ CRITIQUE PADU C'ÉTAIT MIEUX AVANT](https://www.youtube.com/watch?v=DdlOiP4K2bE)
 # FOU DE RAGE CET ABONNÉ DONNE SON AVIS : "PADU C'ÉTAIT MIEUX AVANT" !!
 
 ## Résumé

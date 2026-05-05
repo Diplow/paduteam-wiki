@@ -9,8 +9,7 @@ skill_version: ingest-2026-04-22
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #thème/racisme-antiracisme #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![GARRIDO : SES MÉTHODES HONTEUSES POUR RÉGLER SES COMPTES AVEC LFI !!](https://img.youtube.com/vi/IWHFnj62WuQ/0.jpg)](https://www.youtube.com/watch?v=IWHFnj62WuQ)
-
+![GARRIDO : SES MÉTHODES HONTEUSES POUR RÉGLER SES COMPTES AVEC LFI !!](https://www.youtube.com/watch?v=IWHFnj62WuQ)
 # GARRIDO : SES MÉTHODES HONTEUSES POUR RÉGLER SES COMPTES AVEC LFI !!
 
 ## Résumé

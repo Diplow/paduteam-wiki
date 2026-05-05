@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/VSS #thème/féminisme
 
+![BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN À ARY ABITTAN](https://www.youtube.com/watch?v=-Q-ulX_kTmU)
+
 # BRIGITTE MACRON INSULTE LES MILITANTES DE NOUSTOUTES EN SOUTIEN À ARY ABITTAN
 
 ## Résumé

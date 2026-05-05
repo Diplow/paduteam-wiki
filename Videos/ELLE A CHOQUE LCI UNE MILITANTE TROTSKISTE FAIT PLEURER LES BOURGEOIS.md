@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail #thème/lutte-des-classes #thème/médias-propagande #enjeu/union-populaire
 
-[![ELLE A CHOQUÉ LCI : UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS](https://img.youtube.com/vi/ooMUY_TRcF8/0.jpg)](https://www.youtube.com/watch?v=ooMUY_TRcF8)
-
+![ELLE A CHOQUÉ LCI : UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS](https://www.youtube.com/watch?v=ooMUY_TRcF8)
 # ELLE A CHOQUÉ LCI : UNE MILITANTE TROTSKISTE FAIT PLEURER LES BOURGEOIS
 
 ## Résumé

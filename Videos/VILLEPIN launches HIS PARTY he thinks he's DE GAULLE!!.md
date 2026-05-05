@@ -6,8 +6,11 @@ enjeux: []
 date: 2026-03
 date created: Sunday, April 12th 2026, 5:28:17 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: wrIrh-S4xFE
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/guerre-des-gauches
+
+![VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!](https://www.youtube.com/watch?v=wrIrh-S4xFE)
 
 # VILLEPIN launches HIS PARTY he thinks he's DE GAULLE!!
 

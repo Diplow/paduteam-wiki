@@ -14,8 +14,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 
 # MACRON NOUS MENT POUR TUER LA SECU
 
-[![MACRON NOUS MENT POUR TUER LA SECU](https://img.youtube.com/vi/jtDb2meKMn8/0.jpg)](https://www.youtube.com/watch?v=jtDb2meKMn8)
-
+![MACRON NOUS MENT POUR TUER LA SECU](https://www.youtube.com/watch?v=jtDb2meKMn8)
 ## Résumé
 
 Démontage systématique du discours macroniste sur le "déficit de la Sécurité Sociale" diffusé sur BFM TV. La PaduTeam démontre que le déficit est une construction politique — la Sécu n'est pas une entreprise, son budget (PLFSS) est voté chaque année, et les exonérations de cotisations patronales représentent à elles seules 6 à 10 fois le déficit annoncé. Les trois "solutions" du rapport Cour des comptes (lutte contre la fraude, mise à contribution des complémentaires, remboursement selon les revenus) sont décortiquées et réfutées une par une. L'objectif final n'est pas l'équilibre : c'est la privatisation d'un espace de mutualisation qui échappe au marché.

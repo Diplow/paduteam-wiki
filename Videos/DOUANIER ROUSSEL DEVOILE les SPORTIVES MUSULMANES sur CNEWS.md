@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/islamophobie #thème/racisme-antiracisme #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS](https://www.youtube.com/watch?v=HZfk8m0cvtU)
+
 # DOUANIER ROUSSEL DÉVOILE les SPORTIVES MUSULMANES sur CNEWS
 
 ## Résumé

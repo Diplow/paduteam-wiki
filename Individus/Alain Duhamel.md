@@ -21,10 +21,24 @@ Sa famille est dans le milieu politique/journalistique — la PaduTeam propose d
 ## Méthode journalistique
 Résume la politique à des personnes au lieu d'analyser lignes politiques et visions du monde. Pour la PaduTeam, ce type de journalisme permet la "dépolitisation politisante" : donner l'impression de parler de politique tout en cachant les véritables enjeux de classe.
 
+## Généalogie dynastique
+La PaduTeam dresse la carte de la famille Duhamel comme incarnation de la nomenklatura médiatico-politique française. Alain Duhamel "est sur les ondes depuis avant la naissance de ma mère" (Padu, 35 ans) — soit plus de 60 ans sur les plateaux. Sa famille :
+- Son frère [[Patrice Duhamel]] (médias), dont la femme est [[Nathalie Saint-Cricq]] (journaliste)
+- Leur fils [[Benjamin Duhamel]] — journaliste
+- La sœur d'Alain, mère d'[[Amelie Oudea-Castera|Amélie Oudéa-Castéra]] (ancienne PDG de la Fédération Française de Tennis), mariée à [[Frederic Oudea|Frédéric Oudéa]] — PDG de la Société Générale pendant 20 ans, maintenant PDG de Sanofi
+
+"Vraiment cette famille c'est une dinguerie." La PaduTeam ironise sur les "discussions de repas de famille" entre Duhamel et le PDG de Sanofi quand le programme PS propose des hausses d'impôts sur les grandes fortunes.
+
+## Alain Duhamel face à Ridel sur BFM : révélateur de classe
+Dans l'interview BFM où [[Chloe Ridel|Ridel]] présente le programme PS, Duhamel arrive en avouant avoir lu "quatre ou cinq pages dans Libé, mais plusieurs fois." La PaduTeam : "comme quand tu reçois le commercial de Sanofi pour lui demander quelle est la meilleure insuline à prescrire." Il panique à l'annonce des taxes sur les grandes fortunes : "il pense à ses discussions avec le mec de sa nièce [Frédéric Oudéa]." Sa réaction d'effroi est exactement ce que Fort et Ridel sont venus chercher — valider leur ancrage à gauche. La PaduTeam le surnomme "le Duamelosaure" et "Alain le dinosaure" mais reconnaît que sa peur de la fiscalité progressiste est sincère et révélatrice de classe.
+
 ## Relations
 - [[Paris Match]] — publie ses analyses (journal qualifié de "populaire" avec ironie)
 - [[Benjamin Duhamel]] — neveu, journaliste France Inter, fils de [[Patrice Duhamel]]
+- [[Amelie Oudea-Castera]] — nièce (fille de la sœur d'Alain)
+- [[Frederic Oudea]] — mari de la nièce, PDG Société Générale puis Sanofi
 
 ## Vidéos où Duhamel est analysé
 - [[MELENCHON TONDELIER HOLLANDE DUHAMEL SUITE]] — Lecture commentée de son article Paris Match sur Hollande, Larcher, Mélenchon, Tondelier, Zemmour
 - [[MELENCHON DIABOLISE IL HUMILIE BENJAMIN DUHAMEL]] — Cité dans la généalogie médiatique de [[Benjamin Duhamel]] : "Il est le neveu d'Alain Duhamel, éditorialiste chez RTL, chez BFM" — illustration de la reproduction de la caste journalistique bourgeoise
+- [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]] — Interview BFM face à Ridel : "paniqué" par les mesures fiscales PS ; généalogie dynastique détaillée ; rôle de révélateur de classe

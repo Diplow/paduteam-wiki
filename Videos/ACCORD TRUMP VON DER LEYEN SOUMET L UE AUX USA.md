@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # ACCORD TRUMP VON DER LEYEN SOUMET L'UE AUX USA
 
-[![](https://img.youtube.com/vi/S5wMhwDNpy4/0.jpg)](https://www.youtube.com/watch?v=S5wMhwDNpy4)
-
+![](https://www.youtube.com/watch?v=S5wMhwDNpy4)
 ## Résumé
 
 Analyse de l'accord commercial UE-USA signé par [[Ursula von der Leyen]] en août 2026. La vidéo la plus large du corpus géopolitique : elle dépasse la guerre en Ukraine pour analyser la vassalisation structurelle de l'UE aux États-Unis. 15% de droits de douane, 750 milliards d'euros de gaz américain, 600 milliards d'investissements en USA — l'Europe paie la sortie de guerre d'Ukraine par sa vassalisation énergétique.

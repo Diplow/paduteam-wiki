@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-28
+youtube_id: khtZcms1Zhs
 domaine: [politique-intérieure]
 thèmes: [médias-propagande, guerre-des-gauches]
 enjeux: [guerre-des-gauches]
@@ -8,6 +9,8 @@ skill_version: write-video-2026-04-21
 aliases: [SARAH SALDMANN DÉGOMME LES DÉPUTÉS]
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/guerre-des-gauches #enjeu/guerre-des-gauches
+
+![SARAH SALDMANN DÉGOMME LES DÉPUTÉS !](https://www.youtube.com/watch?v=khtZcms1Zhs)
 
 # SARAH SALDMANN DÉGOMME LES DÉPUTÉS !
 

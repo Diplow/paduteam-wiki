@@ -10,7 +10,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/société #domaine/politique-intérieure #thème/racisme-antiracisme #thème/médias-propagande
 
-[![Thumbnail](https://img.youtube.com/vi/fE3d7YfY5Sw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fE3d7YfY5Sw)
+![LÉNA SITUATIONS et JEAN-FRANÇOIS COPÉ sont-ils VRAIMENT FRÉRISTES ?](https://www.youtube.com/watch?v=fE3d7YfY5Sw)
 
 # LÉNA SITUATIONS et JEAN-FRANÇOIS COPÉ sont-ils VRAIMENT FRÉRISTES ?
 

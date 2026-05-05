@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/santé
 
+![Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)](https://www.youtube.com/watch?v=FOdXSBG_54g)
+
 # Cette ORGANISATION TRANS a BESOIN de VOUS !! (OST x @Dr_Zoé_YT)
 
 ## Résumé

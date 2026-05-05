@@ -14,8 +14,7 @@ date modified: Tuesday, April 21st 2026, 12:00:00 pm
 
 # USUL REJOINT GLUCKSMANN SON AVIS CATASTROPHIQUE SUR LA GUERRE
 
-[![](https://img.youtube.com/vi/HLh38KWYpl8/0.jpg)](https://www.youtube.com/watch?v=HLh38KWYpl8)
-
+![](https://www.youtube.com/watch?v=HLh38KWYpl8)
 ## Résumé
 
 Capsule (environ 40 min) où Padu et Chris réagissent au soutien d'[[Usul]] au service militaire volontaire de Macron et à ses positions bellicistes sur la guerre en Ukraine. La PaduTeam y expose sa théorie de la "gluxmanisation" — la trajectoire structurelle qui mène le trotskisme vers l'impérialisme libéral — et articule une analyse complète de la guerre en Ukraine comme guerre impérialiste sans camp progressiste.

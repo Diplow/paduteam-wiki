@@ -12,8 +12,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/économie #thème/travail #thème/santé #thème/le-Graphique #enjeu/defense-de-la-securite-sociale
 
-[![LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES](https://img.youtube.com/vi/sPTaGxN7JFE/0.jpg)](https://www.youtube.com/watch?v=sPTaGxN7JFE)
-
+![LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES](https://www.youtube.com/watch?v=sPTaGxN7JFE)
 # LA MASTERCLASS DU CAMARADE SARKOZY SUR LES RETRAITES
 
 ## Résumé

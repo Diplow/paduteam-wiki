@@ -11,8 +11,8 @@ Fichier de suivi pour l'ingestion chronologique des vidéos PaduTeam
 de 20 oct 2024 à 20 avr 2026.
 Batches de 2 semaines ISO (~10 vidéos/batch), du plus ancien au plus récent.
 
-Généré par `Sources/Transcripts/generate_chronological.py`.
-Pour lancer l'ingestion : `python Sources/Transcripts/run_ingest.py`
+Généré par `Scripts/generate_chronological.py` (racine WikiPol).
+Pour ingérer les nouvelles vidéos : `python Scripts/weekly_ingest.py --source Sources/Paduteam`
 
 ---
 
@@ -726,5 +726,18 @@ Statut : ✅ fait (2026-04-25)
 - [x] TONDELIER VA À DES DÎNERS DE BOURGEOIS D'EXTRÊME DROITE !? (c'est pire que vous croyez...) (transcript récupéré — batch 34 déjà ✅)
 
 Fiches créées : Charlie Hebdo (vidéo + organisation), Tondelier dîners (vidéo), Ecologie comme fausse conscience (concept), Pierre-Rene Laavier (individu). Fiches enrichies : Thaïs VSS (vidéo), +14 fiches concepts/individus/organisations/enjeux.
+
+---
+## Batch 42 — Semaines 2026-W18 à 2026-W19 (27 avr 2026 – 10 mai 2026)
+
+Statut : ✅ fait (2026-05-04)
+Fiches créées : [[LA CHUTE DE CNEWS et PASCAL PRAUD]], [[PS VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER]], [[TRUMP, MELONI, MILEI LA FIN DE L'INTERNATIONALE REACTIONNAIRE]], [[RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE]], [[ACTION, LIDL, AMAZON L'EXPLOITATION 2.0]], [[MATHIEU PIGASSE L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE]], [[Sonia Mabrook]], [[Mathieu Pigasse]], [[Boris Vallot]], [[Frederic Oudea]], [[Nigel Farage]], [[Santiago Abascal]], [[Andre Ventura]], [[Xavier Niel]], [[Fratelli d Italia]], [[Vlaams Belang]], [[Parti du Travail de Belgique]], [[Action Distribution]], [[Lidl]], [[Amazon]], [[Force Ouvriere]], [[Institut Rousseau]], [[Radio Nova]], [[Les Inrockuptibles]], [[Lazard]], [[Adequation mediatique aux conditions concretes]], [[Bataille culturelle materialiste]], [[Deliquescence de l extreme droite internet]], [[Capitalisme autoritaire]], [[Inversion de la hierarchie des normes]], [[On prefere l original a la copie]], [[Internationale reactionnaire]], [[Epreuve du pouvoir de l extreme droite]], [[Plafond de verre de l extreme droite]], [[Souverainisme economique populiste]], [[Crise d'accumulation du capital]], [[Force de travail abstraite]], [[Capitalisme racial]], [[Taylorisme et rationalisation des taches]] + 3 enjeux enrichis (Critique de la fachosphere, Plus jamais PS, Bataille culturelle)
+
+- [x] LA CHUTE DE CNEWS et PASCAL PRAUD
+- [x] PS : VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER ?
+- [x] TRUMP, MELONI, MILEI : LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE ?
+- [x] RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !
+- [x] ACTION, LIDL, AMAZON : L'EXPLOITATION 2.0 !
+- [x] MATHIEU PIGASSE : L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE
 
 ---

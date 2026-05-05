@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS #enjeu/guerre-des-gauches
 
-[![HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?](https://img.youtube.com/vi/Q1g3YxV-X2s/0.jpg)](https://www.youtube.com/watch?v=Q1g3YxV-X2s)
-
+![HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?](https://www.youtube.com/watch?v=Q1g3YxV-X2s)
 # HOLLANDE : LE JEAN-MARIE LE PEN DE 2027 ?
 
 ## Résumé

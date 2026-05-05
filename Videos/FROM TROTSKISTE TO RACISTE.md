@@ -12,6 +12,8 @@ date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 #domaine/société #domaine/théorie #thème/islamophobie #thème/racisme-antiracisme #enjeu/union-populaire #enjeu/campisme-assumé
 
+![FROM TROTSKISTE TO RAC!STE, il se CONFIE à VA](https://www.youtube.com/watch?v=KLW4D2xB95E)
+
 # FROM TROTSKISTE TO RAC!STE, il se CONFIE à VA
 
 ## Résumé

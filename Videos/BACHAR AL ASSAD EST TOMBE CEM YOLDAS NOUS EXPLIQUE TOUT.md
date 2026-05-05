@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/géopolitique #thème/anti-impérialisme #thème/géopolitique #enjeu/anti-impérialisme #enjeu/campisme-assumé
 
-[![BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT](https://img.youtube.com/vi/QN89GVrV0u8/0.jpg)](https://www.youtube.com/watch?v=QN89GVrV0u8)
-
+![BACHAR AL ASSAD EST TOMBE CEM YOLDAS NOUS EXPLIQUE TOUT](https://www.youtube.com/watch?v=QN89GVrV0u8)
 # BACHAR AL ASSAD EST TOMBÉ — CEM YOLDAŞ NOUS EXPLIQUE TOUT
 
 ## Résumé
