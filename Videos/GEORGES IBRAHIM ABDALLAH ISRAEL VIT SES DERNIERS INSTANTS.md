@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-26
+youtube_id: nUHPMoJ05mQ
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme]
 enjeux: [Palestine-libre, anti-impérialisme]
@@ -9,6 +10,10 @@ conjonctures: [Crise de l'hegemonie americaine]
 aliases: [GEORGES IBRAHIM ABDALLAH : "ISRAËL VIT SES DERNIERS INSTANTS" !!]
 skill_version: "ingest-batch-2026-04-21"
 ---
+
+
+
+![GEORGES IBRAHIM ABDALLAH : "ISRAËL VIT SES DERNIERS INSTANTS" !!](https://www.youtube.com/watch?v=nUHPMoJ05mQ)
 
 # GEORGES IBRAHIM ABDALLAH : "ISRAËL VIT SES DERNIERS INSTANTS" !!
 

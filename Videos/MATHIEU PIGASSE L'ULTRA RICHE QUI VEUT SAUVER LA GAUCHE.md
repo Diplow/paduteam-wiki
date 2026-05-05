@@ -4,10 +4,12 @@ domaine: [politique-intérieure, économie]
 thèmes: [médias-propagande, guerre-des-gauches, élections]
 enjeux: []
 date: 2026-05-09
-youtube_id: null
+youtube_id: dWvjdxOb53A
 skill_version: write-video-2026-05-04
 ---
 #domaine/politique-intérieure #domaine/économie #thème/médias-propagande #thème/guerre-des-gauches #thème/élections
+
+![MATHIEU PIGASSE : L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE](https://www.youtube.com/watch?v=dWvjdxOb53A)
 
 # MATHIEU PIGASSE : L'ULTRA RICHE QUI VEUT SAUVER LA GAUCHE
 

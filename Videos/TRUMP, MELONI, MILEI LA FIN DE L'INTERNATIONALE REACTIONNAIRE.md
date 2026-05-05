@@ -1,13 +1,15 @@
-﻿---
+---
 type: vidéo
 domaine: [géopolitique, politique-intérieure]
 thèmes: [élections, États-Unis, anti-impérialisme, extrême-droite]
 enjeux: []
 date: 2026-04-29
-youtube_id: null
+youtube_id: V-HmXl_Jrz4
 skill_version: write-video-2026-05-04
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/élections #thème/États-Unis #thème/anti-impérialisme #thème/extrême-droite
+
+![TRUMP, MELONI, MILEI : LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE ?](https://www.youtube.com/watch?v=V-HmXl_Jrz4)
 
 # TRUMP, MELONI, MILEI : LA FIN DE L'INTERNATIONALE RÉACTIONNAIRE ?
 

@@ -6,8 +6,11 @@ enjeux: [union-populaire]
 date: 2025
 date created: Wednesday, April 1st 2026, 6:21:58 pm
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
+youtube_id: tKn6oD-n58w
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #enjeu/union-populaire
+
+![THE MOST RIDICULOUS CANDIDATES FOR 2027](https://www.youtube.com/watch?v=tKn6oD-n58w)
 
 # THE MOST RIDICULOUS CANDIDATES FOR 2027
 

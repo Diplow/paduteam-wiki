@@ -1,13 +1,15 @@
-﻿---
+---
 type: vidéo
 domaine: [politique-intérieure, géopolitique]
 thèmes: [élections, guerre-des-gauches, anti-impérialisme]
 enjeux: [union-populaire, plus-jamais-PS]
 date: 2026-05-05
-youtube_id: null
+youtube_id: Z1K5VWA_Zos
 skill_version: write-video-2026-05-04
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/élections #thème/guerre-des-gauches #thème/anti-impérialisme #enjeu/union-populaire #enjeu/plus-jamais-PS
+
+![RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !](https://www.youtube.com/watch?v=Z1K5VWA_Zos)
 
 # RUFFIN LANCE SA CAMPAGNE NATIONALE-SOCIALISTE !
 

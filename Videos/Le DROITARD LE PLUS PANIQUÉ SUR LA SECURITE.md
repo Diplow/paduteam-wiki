@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-08-01
+youtube_id: CBZTUUuqD54
 domaine: [société, politique-intérieure]
 thèmes: [médias-propagande, féminisme]
 enjeux: [critique-de-la-fachosphere]
@@ -8,6 +9,8 @@ skill_version: write-video-2026-04-21
 aliases: [Le DROITARD le + PANIQUÉ sur la SÉCURITÉ, Damoclass, Damocles]
 ---
 #domaine/société #domaine/politique-intérieure #thème/médias-propagande #thème/féminisme #enjeu/critique-de-la-fachosphere
+
+![LE DROITARD LE + PANIQUÉ SUR LA SÉCURITÉ !!](https://www.youtube.com/watch?v=CBZTUUuqD54)
 
 # LE DROITARD LE + PANIQUÉ SUR LA SÉCURITÉ !!
 

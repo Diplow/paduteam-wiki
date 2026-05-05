@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-29
+youtube_id: KglA4OFVYy0
 domaine: [société]
 thèmes: [répression-justice, psychiatrie-psychologie]
 enjeux: [pédocriminalité bourgeoise, féminisme-matérialiste]
@@ -8,6 +9,8 @@ skill_version: write-video-2026-04-21
 aliases: [VALEK ACCUSE ZOÉ d'être COMPLICE des PÉDOCRIMINELS]
 ---
 #domaine/société #thème/répression-justice #thème/psychiatrie-psychologie #enjeu/pédocriminalité-bourgeoise #enjeu/féminisme-matérialiste
+
+![VALEK ACCUSE ZOÉ D'ÊTRE COMPLICE DES PÉDOCRIMINELS ?](https://www.youtube.com/watch?v=KglA4OFVYy0)
 
 # VALEK ACCUSE ZOÉ D'ÊTRE COMPLICE DES PÉDOCRIMINELS ?
 

@@ -1,13 +1,15 @@
-﻿---
+---
 type: vidéo
 domaine: [politique-intérieure]
 thèmes: [guerre-des-gauches, élections, médias-propagande]
 enjeux: [Plus jamais PS]
 date: 2026-04-28
-youtube_id: null
+youtube_id: 8xR1hWvsDaQ
 skill_version: write-video-2026-05-04
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/plus-jamais-PS
+
+![PS : VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER ?](https://www.youtube.com/watch?v=8xR1hWvsDaQ)
 
 # PS : VIRAGE A GAUCHE DANS LEUR NOUVEAU PROGRAMME, ARNAQUE OU BANGER ?
 

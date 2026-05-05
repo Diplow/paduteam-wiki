@@ -1,6 +1,7 @@
 ---
 type: vidéo
 date: 2025-07-31
+youtube_id: Sqe-urOJyo4
 domaine: [politique-intérieure]
 thèmes: [médias-propagande, guerre-des-gauches]
 enjeux: [guerre-des-gauches]
@@ -8,6 +9,8 @@ skill_version: write-video-2026-04-21
 aliases: [NICOLAS QUI PAYE SOUMIS À MACRON ET SON PATRON]
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/guerre-des-gauches #enjeu/guerre-des-gauches
+
+![NICOLAS QUI PAYE : SOUMIS À MACRON ET SON PATRON ?](https://www.youtube.com/watch?v=Sqe-urOJyo4)
 
 # NICOLAS QUI PAYE : SOUMIS À MACRON ET SON PATRON ?
 

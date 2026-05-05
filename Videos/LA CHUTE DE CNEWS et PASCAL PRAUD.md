@@ -4,10 +4,12 @@ domaine: [politique-intérieure, société]
 thèmes: [médias-propagande, extrême-droite]
 enjeux: []
 date: 2026-04-28
-youtube_id: null
+youtube_id: 0ohw7XlMsXo
 skill_version: write-video-2026-05-04
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/extrême-droite
+
+![LA CHUTE DE CNEWS et PASCAL PRAUD](https://www.youtube.com/watch?v=0ohw7XlMsXo)
 
 # LA CHUTE DE CNEWS et PASCAL PRAUD
 
