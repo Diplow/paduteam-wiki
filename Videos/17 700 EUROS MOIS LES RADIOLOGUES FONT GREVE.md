@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale #enjeu/corpo-médicale
 
-[![17 700€/MOIS MAIS PRIS À LA GORGE : les RADIOLOGUES font GRÈVE !!](https://img.youtube.com/vi/7yzD_OE6WDM/0.jpg)](https://www.youtube.com/watch?v=7yzD_OE6WDM)
-
+![17 700€/MOIS MAIS PRIS À LA GORGE : les RADIOLOGUES font GRÈVE !!](https://www.youtube.com/watch?v=7yzD_OE6WDM)
 # 17 700€/mois mais pris à la gorge : les radiologues font grève
 
 ## Résumé

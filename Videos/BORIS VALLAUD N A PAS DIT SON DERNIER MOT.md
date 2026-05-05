@@ -9,6 +9,9 @@ date created: Tuesday, March 31st 2026, 10:36:35 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/plus-jamais-PS #enjeu/union-populaire
+
+![BORIS VALLAUD N'A PAS DIT SON DERNIER MOT !](https://www.youtube.com/watch?v=wsiChBGb6T0)
+
 # BORIS VALLAUD N'A PAS DIT SON DERNIER MOT !
 
 ## Résumé

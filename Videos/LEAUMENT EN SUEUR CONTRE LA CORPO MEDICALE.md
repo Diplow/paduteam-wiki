@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #domaine/économie #domaine/politique-intérieure #thème/santé #thème/corpo-médicale #thème/guerre-des-gauches #enjeu/corpo-médicale #enjeu/union-populaire
 
-[![LÉAUMENT EN SUEUR CONTRE LA CORPO MÉDICALE](https://img.youtube.com/vi/gMRUskGZPMw/0.jpg)](https://www.youtube.com/watch?v=gMRUskGZPMw)
-
+![LÉAUMENT EN SUEUR CONTRE LA CORPO MÉDICALE](https://www.youtube.com/watch?v=gMRUskGZPMw)
 # Léaument en sueur contre la corpo médicale : Zoé le coach
 
 ## Résumé

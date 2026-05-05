@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/union-populaire
 
+![JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON](https://www.youtube.com/watch?v=qkIf71aJ5Dw)
+
 # JULIEN DRAY A DES RÉVÉLATIONS SUR LE PASSÉ DE MÉLENCHON
 
 ## Résumé

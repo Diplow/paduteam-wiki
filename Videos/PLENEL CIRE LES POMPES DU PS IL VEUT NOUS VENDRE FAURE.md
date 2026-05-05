@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/médias-propagande #thème/élections #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![PLENEL CIRE LES POMPES DU PS : IL VEUT NOUS VENDRE FAURE](https://img.youtube.com/vi/yu3eLSYz6gE/0.jpg)](https://www.youtube.com/watch?v=yu3eLSYz6gE)
-
+![PLENEL CIRE LES POMPES DU PS : IL VEUT NOUS VENDRE FAURE](https://www.youtube.com/watch?v=yu3eLSYz6gE)
 # PLENEL CIRE LES POMPES DU PS : IL VEUT NOUS VENDRE FAURE
 
 ## Résumé

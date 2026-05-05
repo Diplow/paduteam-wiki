@@ -13,8 +13,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/extrême-droite #thème/MMA #enjeu/critique-de-la-fachosphere
 
-[![DANIEL WOIRIN ET CYRIL DIABATE DETRUISENT LE JARL](https://img.youtube.com/vi/QZKe7o1CF1Y/0.jpg)](https://www.youtube.com/watch?v=QZKe7o1CF1Y)
-
+![DANIEL WOIRIN ET CYRIL DIABATE DETRUISENT LE JARL](https://www.youtube.com/watch?v=QZKe7o1CF1Y)
 # DANIEL WOIRIN et CYRIL DIABATÉ DÉTRUISENT LE JARL : il a été CONDAMNÉ pour ESCROQUERIE !!
 
 ## Résumé

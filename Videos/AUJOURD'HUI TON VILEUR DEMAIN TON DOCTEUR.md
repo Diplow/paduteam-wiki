@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #thème/santé #thème/féminisme #thème/VSS #thème/corpo-médicale #enjeu/VSS-comme-fait-social #enjeu/corpo-médicale
 
-[![AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR](https://img.youtube.com/vi/xrGePx2JwbM/0.jpg)](https://www.youtube.com/watch?v=xrGePx2JwbM)
-
+![AUJOURD'HUI TON VILEUR DEMAIN TON DOCTEUR](https://www.youtube.com/watch?v=xrGePx2JwbM)
 # Aujourd'hui ton violeur, demain ton docteur — #MeTooMédecine
 
 ## Résumé

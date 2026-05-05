@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/médias-propagande #thème/Palestine #thème/guerre-des-gauches #enjeu/Palestine-libre #enjeu/critique-de-la-fachosphere
 
-[![MICHEL ONFRAY : LFI VEUT SUPPRIMER LES JUIFS](https://img.youtube.com/vi/ZizBVogTJAI/0.jpg)](https://www.youtube.com/watch?v=ZizBVogTJAI)
-
+![MICHEL ONFRAY : LFI VEUT SUPPRIMER LES JUIFS](https://www.youtube.com/watch?v=ZizBVogTJAI)
 # MICHEL ONFRAY : "LFI VEUT SUPPRIMER LES JU1FS" !!
 
 ## Résumé

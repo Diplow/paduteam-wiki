@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/élections #thème/masculinisme #enjeu/confusionnisme-rouge-brun
 
-[![PAYE TON DROITARD #7.1](https://img.youtube.com/vi/9AJZrCZJvPk/0.jpg)](https://www.youtube.com/watch?v=9AJZrCZJvPk)
-
+![PAYE TON DROITARD #7.1](https://www.youtube.com/watch?v=9AJZrCZJvPk)
 # PAYE TON DROITARD #7.1 : PADU, L'ADO CONFUS qui apprend à BAISER avec SORAL ! (@Dr_Zoé_YT et Chris)
 
 ## Résumé

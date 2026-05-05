@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/société #thème/médias-propagande #thème/travail
 
-[![JDG ANTI CAPITALISTE](https://img.youtube.com/vi/m-tDWzrPgg0/0.jpg)](https://www.youtube.com/watch?v=m-tDWzrPgg0)
-
+![JDG ANTI CAPITALISTE](https://www.youtube.com/watch?v=m-tDWzrPgg0)
 # JDG (Joueur du Grenier) ANTI CAPITALISTE — IL A COMPRIS LE PROBLÈME, ON LUI DONNE LES SOLUTIONS
 
 ## Résumé

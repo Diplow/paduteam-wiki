@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/union-populaire
 
+![LFI = RN POURQUOI LES MÉDIAS ont 10 ANS DE RETARD sur le POPULISME](https://www.youtube.com/watch?v=naNzzctpIfs)
+
 # LFI = RN POURQUOI LES MÉDIAS ont 10 ANS DE RETARD sur le POPULISME
 
 ## Résumé

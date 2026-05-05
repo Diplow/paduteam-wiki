@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-22
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/travail #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![MUNICIPALES : PHILIPPE MARTINEZ SOUTIENT LE PS FACE À LFI !!](https://img.youtube.com/vi/56q7pncHMII/0.jpg)](https://www.youtube.com/watch?v=56q7pncHMII)
-
+![MUNICIPALES : PHILIPPE MARTINEZ SOUTIENT LE PS FACE À LFI !!](https://www.youtube.com/watch?v=56q7pncHMII)
 # MUNICIPALES : PHILIPPE MARTINEZ SOUTIENT LE PS FACE À LFI !!
 
 ## Résumé

@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #domaine/politique-intérieure #thème/santé #thème/corpo-médicale #thème/guerre-des-gauches #enjeu/corpo-médicale #enjeu/union-populaire
 
-[![LFI ENVOIE LES MÉDECINS AUX CHAMPS](https://img.youtube.com/vi/XT_0YFmY_lM/0.jpg)](https://www.youtube.com/watch?v=XT_0YFmY_lM)
-
+![LFI ENVOIE LES MÉDECINS AUX CHAMPS](https://www.youtube.com/watch?v=XT_0YFmY_lM)
 # LFI envoie les médecins aux champs !
 
 ## Résumé

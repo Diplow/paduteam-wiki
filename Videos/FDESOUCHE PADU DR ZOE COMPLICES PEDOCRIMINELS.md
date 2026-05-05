@@ -13,6 +13,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/VSS #thème/médias-propagande #thème/racisme-antiracisme #enjeu/feminisme-materialiste
 
+![FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PÉDOCRIMINELS ?](https://www.youtube.com/watch?v=CElQQFq-Ntk)
+
 # FDESOUCHE nous ATTAQUE — PADU ET DR ZOÉ sont-ils COMPLICES de PÉDOCRIMINELS ?
 
 ## Résumé

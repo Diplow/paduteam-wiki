@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/répression-justice #thème/élections #enjeu/plus-jamais-PS
 
-[![SARKOZY CONDAMNÉ À 5 ANS DE PRISON FERME !!](https://img.youtube.com/vi/zMo6F5Iuwjk/0.jpg)](https://www.youtube.com/watch?v=zMo6F5Iuwjk)
-
+![SARKOZY CONDAMNÉ À 5 ANS DE PRISON FERME !!](https://www.youtube.com/watch?v=zMo6F5Iuwjk)
 # SARKOZY CONDAMNÉ À 5 ANS DE PRISON FERME !!
 
 ## Résumé

@@ -12,8 +12,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #domaine/théorie #thème/trajectoires-politiques #thème/masculinisme #thème/médias-propagande #thème/extrême-droite
 
-[![DE WOKE À FACHO, SLAPP RACONTE SA REDPILL](https://img.youtube.com/vi/0lAbOcFqZ7k/0.jpg)](https://www.youtube.com/watch?v=0lAbOcFqZ7k)
-
+![DE WOKE À FACHO, SLAPP RACONTE SA REDPILL](https://www.youtube.com/watch?v=0lAbOcFqZ7k)
 # DE WOKE À FACHO, @Slapp_ RACONTE SA REDPILL LA + CRINGE !! (avec @Dr_Zoé_YT)
 
 ## Résumé

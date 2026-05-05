@@ -10,8 +10,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme #thème/néolibéralisme #enjeu/anti-impérialisme
 
-[![Thumbnail](https://img.youtube.com/vi/T4Bbrp6Hm94/0.jpg)](https://www.youtube.com/watch?v=T4Bbrp6Hm94)
-
+![Thumbnail](https://www.youtube.com/watch?v=T4Bbrp6Hm94)
 # TRUMP en GUERRE contre la CHINE : VOICI POURQUOI !! (analyse MARXISTE)
 
 ## Résumé

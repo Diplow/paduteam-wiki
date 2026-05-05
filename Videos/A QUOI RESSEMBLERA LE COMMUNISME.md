@@ -13,8 +13,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/théorie #thème/communisme #thème/marxisme
 
-[![À QUOI RESSEMBLERA LE COMMUNISME](https://img.youtube.com/vi/19gMooUolzA/0.jpg)](https://www.youtube.com/watch?v=19gMooUolzA)
-
+![À QUOI RESSEMBLERA LE COMMUNISME](https://www.youtube.com/watch?v=19gMooUolzA)
 # À QUOI RESSEMBLERA LE COMMUNISME (x Chris de Positions Revue)
 
 ## Résumé

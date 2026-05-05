@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme #thème/travail-du-sexe #enjeu/feminisme-materialiste
 
-[![ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ?](https://img.youtube.com/vi/7W8760i06fw/0.jpg)](https://www.youtube.com/watch?v=7W8760i06fw)
-
+![ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ?](https://www.youtube.com/watch?v=7W8760i06fw)
 # ONLYFAN : BAISER avec 100 MECS en 1 JOUR est-il VRAIMENT MARXISTE ?
 
 ## Résumé

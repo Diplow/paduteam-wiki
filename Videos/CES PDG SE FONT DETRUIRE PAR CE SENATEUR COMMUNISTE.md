@@ -10,8 +10,7 @@ aliases: [CES PDG SE FONT DÉTRUIRE PAR CE SÉNATEUR COMMUNISTE]
 ---
 #domaine/économie #domaine/politique-intérieure #thème/travail #thème/lutte-des-classes
 
-[![CES PDG SE FONT DÉTRUIRE PAR CE SÉNATEUR COMMUNISTE](https://img.youtube.com/vi/vAYi___ZZZM/0.jpg)](https://www.youtube.com/watch?v=vAYi___ZZZM)
-
+![CES PDG SE FONT DÉTRUIRE PAR CE SÉNATEUR COMMUNISTE](https://www.youtube.com/watch?v=vAYi___ZZZM)
 # Ces PDG se font DÉTRUIRE par ce SÉNATEUR COMMUNISTE
 
 ## Résumé

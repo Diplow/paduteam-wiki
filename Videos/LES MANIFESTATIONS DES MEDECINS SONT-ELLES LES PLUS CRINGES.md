@@ -12,8 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 #domaine/société #thème/santé #thème/féminisme #thème/VSS #thème/corpo-médicale #enjeu/corpo-médicale #enjeu/VSS-comme-fait-social
 
-[![LES MANIFESTATIONS DES MÉDECINS](https://img.youtube.com/vi/V14W9I6sqjA/0.jpg)](https://www.youtube.com/watch?v=V14W9I6sqjA)
-
+![LES MANIFESTATIONS DES MÉDECINS](https://www.youtube.com/watch?v=V14W9I6sqjA)
 # Les manifestations des médecins sont-elles les plus cringes ?
 
 ## Résumé

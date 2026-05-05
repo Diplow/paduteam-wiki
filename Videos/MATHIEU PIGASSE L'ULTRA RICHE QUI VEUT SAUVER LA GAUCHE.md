@@ -1,4 +1,4 @@
-﻿---
+---
 type: vidéo
 domaine: [politique-intérieure, économie]
 thèmes: [médias-propagande, guerre-des-gauches, élections]
@@ -25,7 +25,7 @@ Zoé et Chris décortiquent la trajectoire de [[Mathieu Pigasse]] — banquier d
 
 4. **La manœuvre électorale : l'union pour tuer la gauche radicale.** Pigasse ne dit jamais qu'il soutiendrait Mélenchon (qui a raté le second tour 2022 à 400 000 voix). Il dit vouloir "l'union des forces de gauche" et un "candidat interne ou externe." La PaduTeam décode : l'union comme prétexte pour imposer un candidat de substitution compatible avec ses intérêts de classe[^5]. Sa citation de l'élection de 81 comme exemple de victoire par l'unité révèle soit une ignorance crasse (Marchais du PCF était au premier tour contre Mitterrand), soit un mensonge délibéré — la PaduTeam penche pour la deuxième option[^6].
 
-5. **L'archive 2012 comme preuve de continuité.** Un extrait de "On n'est pas couché" (doublé par la PaduTeam faute de droits TMC) montre Pigasse soutenant Manuel Valls en 2014-15 — "J'ai trouvé son discours émouvant et efficace, il est porteur d'une espérance." Pour Zoé : "On sait très bien ce qu'il kiffe chez Manuel Valls, c'est qu'il a un peu de droite en fait."[^7] Ligne constante de 2012 à 2026 : soutenir la version SOSD (SFIO/PS) du "candidat qui ne remet pas en question l'économie."
+5. **L'archive 2012 comme preuve de continuité.** Un extrait de "On n'est pas couché" montre Pigasse soutenant Manuel Valls en 2014-15 — "J'ai trouvé son discours émouvant et efficace, il est porteur d'une espérance." Pour Zoé : "On sait très bien ce qu'il kiffe chez Manuel Valls, c'est qu'il est un peu de droite en fait."[^7] Ligne constante de 2012 à 2026 : soutenir la version SOSD (SFIO/PS) du "candidat qui ne remet pas en question l'économie."
 
 6. **Le chiffre comme aveu.** Pigasse cite lui-même : "Au cours des 25 dernières années, les 1% les plus riches ont capté 25% de la richesse produite, et les 50% les plus pauvres ont pris 1% de la richesse dans le monde."[^8] Et son programme de redistribution s'arrête à "500€ par an pour les ménages les plus pauvres" et une "justice fiscale." Pour la PaduTeam : "Moi les mecs qui ont quelques centaines de millions à quelques milliards de fortune qui trouvent ça super sympa qu'on donne 500€ par an aux ménages les plus pauvres, j'ai envie de leur mettre des tartes dans la gueule."
 

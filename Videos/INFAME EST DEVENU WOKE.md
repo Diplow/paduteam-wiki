@@ -14,8 +14,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/déradicalisation #thème/extrême-droite #enjeu/guerre-des-gauches
 
-[![INFAME EST DEVENU WOKE](https://img.youtube.com/vi/dkaLuyMY-SE/0.jpg)](https://www.youtube.com/watch?v=dkaLuyMY-SE)
-
+![INFAME EST DEVENU WOKE](https://www.youtube.com/watch?v=dkaLuyMY-SE)
 # INFAME est DEVENU WOKE ! (@Dr_Zoé_YT x @pasduhring)
 
 ## Résumé

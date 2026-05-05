@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/travail #enjeu/union-populaire
 
-[![SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP !?](https://img.youtube.com/vi/F0x4OhYVpTk/0.jpg)](https://www.youtube.com/watch?v=F0x4OhYVpTk)
-
+![SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP !?](https://www.youtube.com/watch?v=F0x4OhYVpTk)
 # SEPTEMBRE 2025 A ÉTÉ UN ÉNORME FLOP !?
 
 ## Résumé

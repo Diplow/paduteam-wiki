@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/société #thème/guerre-des-gauches #thème/marxisme-théorie #enjeu/guerre-des-gauches
 
-[![WISSAM et RAZ me PSYCHANALYSENT](https://img.youtube.com/vi/HGz-uG-9Hzw/0.jpg)](https://www.youtube.com/watch?v=HGz-uG-9Hzw)
-
+![WISSAM et RAZ me PSYCHANALYSENT](https://www.youtube.com/watch?v=HGz-uG-9Hzw)
 # WISSAM et RAZ me PSYCHANALYSENT : "PADU est un LGBTPHOBE MALHONNÊTE" !! (x Chris/Positions Revue)
 
 ## Résumé

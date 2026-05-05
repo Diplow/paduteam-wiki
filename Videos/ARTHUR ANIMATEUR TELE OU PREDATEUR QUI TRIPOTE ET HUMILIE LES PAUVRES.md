@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS #thème/médias-propagande
 
+![ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES](https://www.youtube.com/watch?v=pMaS50RJJ4E)
+
 # ARTHUR — ANIMATEUR TÉLÉ OU PRÉDATEUR QUI TRIPOTE ET HUMILIE LES PAUVRES
 
 ## Résumé

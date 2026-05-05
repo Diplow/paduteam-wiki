@@ -11,8 +11,7 @@ enjeux: [Palestine-libre]
 
 # MARIANNE LE JOURNAL NÉGA-SIONNISTE !
 
-[![MARIANNE le journal NÉGA-SIONNISTE !](https://img.youtube.com/vi/eEuRi_Dbskw/0.jpg)](https://www.youtube.com/watch?v=eEuRi_Dbskw)
-
+![MARIANNE le journal NÉGA-SIONNISTE !](https://www.youtube.com/watch?v=eEuRi_Dbskw)
 La PaduTeam commente le témoignage de [[Quentin M]], journaliste qui a quitté [[Marianne]] après le rachat du journal par [[Daniel Kretinski]]. Les nouveaux impératifs éditoriaux imposés — "Israël est une démocratie" et "il n'y a pas de génocide à Gaza" — illustrent mécaniquement comment la [[Propriete milliardaire des medias|propriété milliardaire des médias]] transforme une ligne éditoriale : le milliardaire n'a pas besoin de gagner de l'argent sur le titre, il impose sa vision du monde. Le cas de [[Sylvain Mercadier]], journaliste pigiste arrêté et battu par l'armée israélienne en Syrie, sert de révélateur de la ligne imposée.
 
 ## Thèses et analyses clés

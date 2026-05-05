@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/économie #thème/marxisme-théorie #thème/médias-propagande
 
-[![MOS MAJORUM croit DÉBUNKER MARX](https://img.youtube.com/vi/ffkIcOrj8kQ/0.jpg)](https://www.youtube.com/watch?v=ffkIcOrj8kQ)
-
+![MOS MAJORUM croit DÉBUNKER MARX](https://www.youtube.com/watch?v=ffkIcOrj8kQ)
 # MOS MAJORUM croit DÉBUNKER MARX : ça TOURNE très très MAL !! (avec Chris de Positions Revue)
 
 ## Résumé

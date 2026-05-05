@@ -10,6 +10,8 @@ date modified: Monday, April 20th 2026, 1:27:51 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/le-Graphique #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![FRANCE INTER et LE POINT reprennent MON CONCEPT c'est CATA !!](https://www.youtube.com/watch?v=NFnCfCXVt7o)
+
 # FRANCE INTER et LE POINT reprennent MON CONCEPT c'est CATA !!
 
 ## Résumé

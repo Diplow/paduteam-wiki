@@ -13,8 +13,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # MACRON ET GLUCKSMANN VEULENT LA GUERRE !
 
-[![](https://img.youtube.com/vi/ZoX6jM95jA4/0.jpg)](https://www.youtube.com/watch?v=ZoX6jM95jA4)
-
+![](https://www.youtube.com/watch?v=ZoX6jM95jA4)
 ## Résumé
 
 Montée en généralité après les deux vidéos sur Usul : analyse institutionnelle du bellicisme. La PaduTeam passe de la critique d'un acteur individuel (Usul) à l'analyse du système belliciste porté par Macron et Glucksmann. Service militaire volontaire, militarisation de l'enseignement, position du NPA, marche pour la paix (URC) — et la thèse centrale : Macron cherche peut-être à rester au pouvoir via la guerre.

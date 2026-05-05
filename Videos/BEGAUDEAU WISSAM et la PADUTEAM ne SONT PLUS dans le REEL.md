@@ -11,8 +11,7 @@ aliases: [BÉGAUDEAU WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL]
 ---
 #domaine/théorie #thème/psychiatrie-psychologie #thème/théorie-marxiste #thème/guerre-des-gauches
 
-[![BÉGAUDEAU : WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL](https://img.youtube.com/vi/k9780aGiMZU/0.jpg)](https://www.youtube.com/watch?v=k9780aGiMZU)
-
+![BÉGAUDEAU : WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL](https://www.youtube.com/watch?v=k9780aGiMZU)
 # BÉGAUDEAU : WISSAM et la PADUTEAM ne SONT PLUS dans le RÉÉL
 
 ## Résumé

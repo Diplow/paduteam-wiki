@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/médias-propagande #thème/extrême-droite #enjeu/guerre-des-gauches
 
-[![USUL CANCEL un CAMARADE qui rit à L'HUMOUR DE DROITE](https://img.youtube.com/vi/3i1WdOAscvg/0.jpg)](https://www.youtube.com/watch?v=3i1WdOAscvg)
-
+![USUL CANCEL un CAMARADE qui rit à L'HUMOUR DE DROITE](https://www.youtube.com/watch?v=3i1WdOAscvg)
 # USUL CANCEL un CAMARADE qui rit à L'HUMOUR DE DROITE
 
 ## Résumé

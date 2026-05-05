@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/théorie #domaine/économie #thème/marxisme-théorie #thème/travail
 
-[![Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS](https://img.youtube.com/vi/ycTPdN15eWk/0.jpg)](https://www.youtube.com/watch?v=ycTPdN15eWk)
-
+![Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS](https://www.youtube.com/watch?v=ycTPdN15eWk)
 # Ces LIBERTARIENS veulent RÉTABLIR le TRAVAIL des ENFANTS !! (HowToBitcoin) (x Chris/Positions Revue)
 
 ## Résumé

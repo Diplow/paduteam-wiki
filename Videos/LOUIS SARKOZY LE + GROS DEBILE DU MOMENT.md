@@ -12,6 +12,8 @@ aliases: [LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT]
 ---
 #domaine/politique-intérieure #thème/le-Graphique #thème/élections
 
+![LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT](https://www.youtube.com/watch?v=L4b3g_GHEqk)
+
 # LOUIS SARKOZY LE + GROS DÉBILE DU MOMENT
 
 ## Résumé

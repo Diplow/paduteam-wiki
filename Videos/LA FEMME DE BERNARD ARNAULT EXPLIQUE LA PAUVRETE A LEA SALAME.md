@@ -10,8 +10,7 @@ aliases: [La FEMME de BERNARD ARNAULT EXPLIQUE la PAUVRETÉ à LÉA SALAMÉ !!, 
 ---
 #domaine/économie #domaine/théorie #thème/médias-propagande #thème/travail #thème/le-Graphique
 
-[![LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME](https://img.youtube.com/vi/yNAe1AQYn00/0.jpg)](https://www.youtube.com/watch?v=yNAe1AQYn00)
-
+![LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME](https://www.youtube.com/watch?v=yNAe1AQYn00)
 # LA FEMME DE BERNARD ARNAULT EXPLIQUE LA PAUVRETE A LEA SALAME
 
 ## Résumé

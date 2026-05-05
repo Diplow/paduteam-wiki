@@ -13,8 +13,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/extrême-droite #thème/corruption #enjeu/critique-de-la-fachosphere
 
-[![DELAVIER LEAK SUR LE JARL](https://img.youtube.com/vi/Qsq5Lc_Trhk/0.jpg)](https://www.youtube.com/watch?v=Qsq5Lc_Trhk)
-
+![DELAVIER LEAK SUR LE JARL](https://www.youtube.com/watch?v=Qsq5Lc_Trhk)
 # DELAVIER LEAK sur LE JARL : c'est un ESCROC INSOLVABLE MULTI-CONDAMNÉ par la JUSTICE !!
 
 ## Résumé

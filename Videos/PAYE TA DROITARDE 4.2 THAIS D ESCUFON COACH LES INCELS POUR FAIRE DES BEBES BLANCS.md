@@ -13,6 +13,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/racisme-antiracisme
 
+![PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS](https://www.youtube.com/watch?v=GfF0eNxM3EY)
+
 # PAYE TA DROITARDE #4.2 — THAÏS D'ESCUFON COACH les INCELS POUR faire des BÉBÉS BLANCS
 
 ## Résumé

@@ -11,6 +11,8 @@ skill_version: "1.0"
 ---
 #domaine/politique-intérieure #domaine/économie #thème/guerre-des-gauches #thème/écologie
 
+![TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT](https://www.youtube.com/watch?v=Wp5cDiWWgd4)
+
 # TONDELIER FEMME SANDWICH POUR LE CAPITALISME VERT
 
 ## Résumé

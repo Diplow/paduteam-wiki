@@ -15,8 +15,7 @@ date modified: Monday, April 20th 2026, 1:27:51 pm
 
 # FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !
 
-[![FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !](https://img.youtube.com/vi/4n1s-3x5r-Q/0.jpg)](https://www.youtube.com/watch?v=4n1s-3x5r-Q)
-
+![FRONTIÈRES nous CANCEL de sa CARTOGRAPHIE de l'EXTRÊME-GAUCHE !](https://www.youtube.com/watch?v=4n1s-3x5r-Q)
 ## Résumé
 
 La PaduTeam réagit en direct à la cartographie de l'extrême gauche publiée par [[Frontiere]], média d'extrême droite dirigé par [[Eric Tegner]]. La vidéo est un react décontracté enregistré le soir du 9 avril, avec participation du chat.

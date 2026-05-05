@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/médias-propagande #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![HOLLANDE CONTRE-ATTAQUE : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !!](https://img.youtube.com/vi/BaoHrF9zy24/0.jpg)](https://www.youtube.com/watch?v=BaoHrF9zy24)
-
+![HOLLANDE CONTRE-ATTAQUE : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !!](https://www.youtube.com/watch?v=BaoHrF9zy24)
 # HOLLANDE CONTRE-ATTAQUE : MÉLENCHON NE SERA PAS AU 2ÈME TOUR !!
 
 ## Résumé

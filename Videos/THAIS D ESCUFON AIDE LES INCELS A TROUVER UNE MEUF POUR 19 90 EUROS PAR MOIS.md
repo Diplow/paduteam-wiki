@@ -13,6 +13,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme
 
+![THAÏS D'ESCUFON AIDE les INCELS à TROUVER une MEUF pour 19,90 EUROS par mois !!](https://www.youtube.com/watch?v=nxqv571BG-g)
+
 # THAÏS D'ESCUFON AIDE les INCELS à TROUVER une MEUF pour 19,90 EUROS par mois !!
 
 ## Résumé

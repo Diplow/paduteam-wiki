@@ -12,6 +12,8 @@ aliases: [LORDON MÉLENCHON peut GAGNER en 2027]
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/élections #thème/le-Graphique #thème/guerre-des-gauches #enjeu/union-populaire
 
+![LORDON MÉLENCHON peut GAGNER en 2027](https://www.youtube.com/watch?v=nBPS8I4ioRs)
+
 # LORDON MÉLENCHON peut GAGNER en 2027
 
 ## Résumé

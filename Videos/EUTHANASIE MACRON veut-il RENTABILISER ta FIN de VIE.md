@@ -10,8 +10,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/société #thème/santé #thème/féminisme #thème/antivalidisme #enjeu/defense-de-la-securite-sociale
 
-[![EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ?](https://img.youtube.com/vi/pB7BqriwRzM/0.jpg)](https://www.youtube.com/watch?v=pB7BqriwRzM)
-
+![EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ?](https://www.youtube.com/watch?v=pB7BqriwRzM)
 # EUTHANASIE : MACRON veut-il RENTABILISER ta FIN de VIE ?
 
 ## Résumé analytique

@@ -10,8 +10,7 @@ aliases: [La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !]
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/guerre-des-gauches #enjeu/féminisme-matérialiste #enjeu/guerre-des-gauches
 
-[![La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !](https://img.youtube.com/vi/-4IbTKdxUuI/0.jpg)](https://www.youtube.com/watch?v=-4IbTKdxUuI)
-
+![La PADUTEAM HOMOPHOBES envers LAGASNERIE ? @echaarpe nous RECADRE !](https://www.youtube.com/watch?v=-4IbTKdxUuI)
 # LA PADUTEAM HOMOPHOBES envers LAGASNERIE ? @ÉCHARPE nous RECADRE !
 
 ## Résumé

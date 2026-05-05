@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections
 
-[![TONDELIER CANDIDATE À LA PRÉSIDENTIELLE : ON ANALYSE LA REINE DES NOISETTES](https://img.youtube.com/vi/51oI8RIvEqM/0.jpg)](https://www.youtube.com/watch?v=51oI8RIvEqM)
-
+![TONDELIER CANDIDATE À LA PRÉSIDENTIELLE : ON ANALYSE LA REINE DES NOISETTES](https://www.youtube.com/watch?v=51oI8RIvEqM)
 # TONDELIER CANDIDATE À LA PRÉSIDENTIELLE : ON ANALYSE LA REINE DES NOISETTES
 
 ## Résumé

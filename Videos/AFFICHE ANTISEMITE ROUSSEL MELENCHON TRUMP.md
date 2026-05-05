@@ -11,6 +11,8 @@ aliases: [AFFICHE ANTISÉMITE ROUSSEL MÉLENCHON TRUMP]
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/antisémitisme #enjeu/plus-jamais-PS #enjeu/union-populaire
 
+![AFFICHE ANT1SÉMITE pour FABIEN ROUSSEL MÉLENCHON fait du TRUMP !!](https://www.youtube.com/watch?v=4D5Xd8L4jsI)
+
 # AFFICHE ANT1SÉMITE pour FABIEN ROUSSEL MÉLENCHON fait du TRUMP !!
 
 ## Résumé

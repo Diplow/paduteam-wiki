@@ -19,6 +19,9 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 #domaine/société #thème/masculinisme #thème/féminisme
 
 ![[vidéo](https://www.youtube.com/watch?v=GDBDWWS43m8)]
+
+![@Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT !!](https://www.youtube.com/watch?v=GDBDWWS43m8)
+
 # @Dr_Zoé_YT RECADRE LES MASCUS TOXIQUES DE MON CHAT !!
 
 ## Résumé

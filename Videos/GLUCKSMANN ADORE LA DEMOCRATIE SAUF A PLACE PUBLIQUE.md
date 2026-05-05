@@ -13,8 +13,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/PS #enjeu/plus-jamais-PS #enjeu/guerre-des-gauches
 
-[![GLUCKSMANN ADORE LA DEMOCRATIE SAUF A PLACE PUBLIQUE](https://img.youtube.com/vi/VtyOyYkN-rE/0.jpg)](https://www.youtube.com/watch?v=VtyOyYkN-rE)
-
+![GLUCKSMANN ADORE LA DEMOCRATIE SAUF A PLACE PUBLIQUE](https://www.youtube.com/watch?v=VtyOyYkN-rE)
 # GLUCKSMANN ADORE la DÉMOCRATIE, sauf à PLACE PUBLIQUE !!
 
 ## Résumé

@@ -11,8 +11,7 @@ skill_version: "ingest-batch-2026-04-21"
 ---
 #domaine/théorie #domaine/société #thème/guerre-des-gauches #thème/féminisme
 
-[![LAGASNERIE : REBELLE GÉNIAL OU ADOLESCENT BOURGEOIS RONCHON ?](https://img.youtube.com/vi/jw1-EY_9DDc/0.jpg)](https://www.youtube.com/watch?v=jw1-EY_9DDc)
-
+![LAGASNERIE : REBELLE GÉNIAL OU ADOLESCENT BOURGEOIS RONCHON ?](https://www.youtube.com/watch?v=jw1-EY_9DDc)
 # LAGASNERIE : REBELLE GÉNIAL OU ADOLESCENT BOURGEOIS RONCHON ?
 
 ## Résumé

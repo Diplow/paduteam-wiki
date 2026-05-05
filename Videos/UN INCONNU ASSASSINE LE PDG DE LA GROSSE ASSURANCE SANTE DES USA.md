@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/société #domaine/économie #thème/santé #thème/États-Unis
 
-[![UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA](https://img.youtube.com/vi/yevSjHVXwsM/0.jpg)](https://www.youtube.com/watch?v=yevSjHVXwsM)
-
+![UN INCONNU ASSASSINE LE PDG DE LA GROSSE ASSURANCE SANTE DES USA](https://www.youtube.com/watch?v=yevSjHVXwsM)
 # UN INCONNU ASSASSINE LE PDG DE LA + GROSSE ASSURANCE SANTÉ DES USA
 
 ## Résumé

@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/médias-propagande #thème/travail #enjeu/union-populaire
 
+![10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE !](https://www.youtube.com/watch?v=OWvRp0vK2Sg)
+
 # 10 SEPTEMBRE LES GRANDES GUEULES FONT LES CHIENS DE GARDE !
 
 ## Résumé

@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE
 
-[![NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE](https://img.youtube.com/vi/TQsW3pWt1yw/0.jpg)](https://www.youtube.com/watch?v=TQsW3pWt1yw)
-
+![NATHALIE SAINT-CRICQ NOUS PARLE DE LA SECU C EST CATASTROPHIQUE](https://www.youtube.com/watch?v=TQsW3pWt1yw)
 ## Résumé
 
 Padu et Chris analysent les déclarations de Nathalie Saint-Cricq (directrice des rédactions nationales de France Télévision) sur la nécessité de remettre en cause l'universalité de la Sécu — rembourser différemment selon les revenus. La PaduTeam documente son réseau familial (dynasties médiatico-politiques liées aux grandes firmes pharmaceutiques) et démonte le mécanisme qui conduit cette proposition à reproduire le modèle américain de médecine à deux vitesses.

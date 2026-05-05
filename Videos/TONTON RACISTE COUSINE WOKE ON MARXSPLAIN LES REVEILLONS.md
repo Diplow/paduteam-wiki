@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/théorie #domaine/société #thème/travail #thème/racisme-antiracisme #thème/féminisme #enjeu/le-Graphique #enjeu/union-populaire
 
-[![TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)](https://img.youtube.com/vi/d3Bx2Z4dpmw/0.jpg)](https://www.youtube.com/watch?v=d3Bx2Z4dpmw)
-
+![TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)](https://www.youtube.com/watch?v=d3Bx2Z4dpmw)
 # TONTON RACISTE, COUSINE WOKE, on MARXSPLAIN les RÉVEILLONS !! (avec Chris de Positions Revue)
 
 ## Résumé

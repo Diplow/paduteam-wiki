@@ -11,8 +11,7 @@ skill_version: "ingest-batch-2026-04-21"
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/racisme-antiracisme
 
-[![PURGÉS pour ISLAMO-GAUCHISME ? ÇA BOUGE CHEZ les JEUNESSES COMMUNISTES !!](https://img.youtube.com/vi/kmJDHYGIm9c/0.jpg)](https://www.youtube.com/watch?v=kmJDHYGIm9c)
-
+![PURGÉS pour ISLAMO-GAUCHISME ? ÇA BOUGE CHEZ les JEUNESSES COMMUNISTES !!](https://www.youtube.com/watch?v=kmJDHYGIm9c)
 # PURGÉS pour ISLAMO-GAUCHISME ? ÇA BOUGE CHEZ les JEUNESSES COMMUNISTES !!
 
 ## Résumé

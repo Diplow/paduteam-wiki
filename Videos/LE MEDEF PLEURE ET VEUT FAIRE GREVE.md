@@ -13,6 +13,8 @@ skill_version: ingest-single-2026-04-21
 > [!info] Vidéo
 > ![](https://www.youtube.com/watch?v=YcsA0DOXtQw)
 
+![LE MEDEF PLEURE ET VEUT FAIRE GREVE](https://www.youtube.com/watch?v=YcsA0DOXtQw)
+
 # LE MEDEF PLEURE ET VEUT FAIRE GREVE
 
 Capsule de décryptage de l'interview de Patrick Martin, président du [[MEDEF]], dans *Le Parisien*, au moment où le mouvement social de septembre 2025 monte en puissance. La PaduTeam lit ligne à ligne le "chouinage" patronal — la menace d'une "mobilisation patronale" en réponse à toute hausse d'impôt — pour en faire une démonstration de la situation révolutionnaire en train de se former.

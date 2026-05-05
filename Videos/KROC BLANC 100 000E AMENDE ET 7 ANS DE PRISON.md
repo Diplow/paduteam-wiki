@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/médias-propagande #thème/répression-justice
 
+![KROC BLANC (@fdenews) : 100 000€ D'AMENDE + 7 ANS DE PRISON POUR DIFFUSION D'IMAGE PED0P0RNO](https://www.youtube.com/watch?v=0FXlB7EWfic)
+
 # KROC BLANC (@fdenews) : 100 000€ D'AMENDE + 7 ANS DE PRISON POUR DIFFUSION D'IMAGE PED0P0RNO
 
 ## Résumé

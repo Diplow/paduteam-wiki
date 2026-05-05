@@ -13,6 +13,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/géopolitique #thème/Palestine #thème/médias-propagande #thème/racisme-antiracisme #enjeu/Palestine-libre #enjeu/sionisme-gauche-comme-menace
 
+![LA SOIRÉE DE BHL DÉRAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS](https://www.youtube.com/watch?v=aPjkUUSz3_o)
+
 # LA SOIRÉE DE BHL DÉRAPE TAXER LES RICHES VEUT DIRE TAXER LES JUIFS
 
 ## Résumé

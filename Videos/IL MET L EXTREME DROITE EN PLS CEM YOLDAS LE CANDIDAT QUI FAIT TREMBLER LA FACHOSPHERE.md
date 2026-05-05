@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/élections #thème/racisme-antiracisme #thème/répression-justice #enjeu/campisme-assumé
 
-[![IL MET L'EXTRÊME DROITE EN PLS : CEM YOLDAS, LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHÈRE !](https://img.youtube.com/vi/3u97XDBGFaA/0.jpg)](https://www.youtube.com/watch?v=3u97XDBGFaA)
-
+![IL MET L'EXTRÊME DROITE EN PLS : CEM YOLDAS, LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHÈRE !](https://www.youtube.com/watch?v=3u97XDBGFaA)
 # IL MET L'EXTREME DROITE EN PLS : CEM YOLDAS, LE CANDIDAT QUI FAIT TREMBLER LA FACHOSPHERE
 
 ## Résumé

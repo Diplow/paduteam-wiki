@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/féminisme #thème/extrême-droite
 
+![PSYHODELIK ET MARGUERITE STERN  CHAMPIONS DES FAKES NEWS TRANSPHOBES !!](https://www.youtube.com/watch?v=tjCRdy1UAls)
+
 # PSYHODELIK ET MARGUERITE STERN  CHAMPIONS DES FAKES NEWS TRANSPHOBES !!
 
 ## Résumé

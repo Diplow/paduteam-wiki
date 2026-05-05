@@ -11,8 +11,7 @@ skill_version: ingest-2026-04-21
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/plus-jamais-PS #enjeu/union-populaire
 
-[![RETAILLEAU MET FIN au WAUQUISME](https://img.youtube.com/vi/INz1Lv6qyXQ/0.jpg)](https://www.youtube.com/watch?v=INz1Lv6qyXQ)
-
+![RETAILLEAU MET FIN au WAUQUISME](https://www.youtube.com/watch?v=INz1Lv6qyXQ)
 # RETAILLEAU MET FIN au WAUQUISME !!
 
 ## Contexte

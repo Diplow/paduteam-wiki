@@ -9,6 +9,8 @@ skill_version: "1.0"
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches
 
+![LA STRATÉGIE RUFFIN : UN AUTRE GLUCKSMANN EST POSSIBLE](https://www.youtube.com/watch?v=r-sIRwUSAR4)
+
 # LA STRATÉGIE RUFFIN : UN AUTRE GLUCKSMANN EST POSSIBLE
 
 ## Résumé

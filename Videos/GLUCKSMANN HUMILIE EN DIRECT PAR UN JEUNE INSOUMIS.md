@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/géopolitique #thème/guerre-des-gauches #thème/anti-impérialisme #thème/élections #enjeu/plus-jamais-PS #enjeu/anti-impérialisme #enjeu/union-populaire #enjeu/campisme-assumé
 
+![GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS !](https://www.youtube.com/watch?v=aicHLiAXsxQ)
+
 # GLUCKSMANN HUMILIÉ EN DIRECT PAR UN JEUNE INSOUMIS !
 
 ## Résumé

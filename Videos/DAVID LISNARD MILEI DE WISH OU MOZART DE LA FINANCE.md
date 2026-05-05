@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-24
 ---
 #domaine/politique-intérieure #domaine/économie #thème/élections #thème/néolibéralisme #thème/médias-propagande
 
-[![DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ?](https://img.youtube.com/vi/G_D7VLi26ko/0.jpg)](https://www.youtube.com/watch?v=G_D7VLi26ko)
-
+![DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ?](https://www.youtube.com/watch?v=G_D7VLi26ko)
 # DAVID LISNARD : MILEI de WISH ou MOZART de la FINANCE ?
 
 ## Résumé

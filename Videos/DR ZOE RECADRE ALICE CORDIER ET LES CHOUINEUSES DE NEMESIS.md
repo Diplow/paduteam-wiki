@@ -14,8 +14,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS !!
 
-[![DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS !!](https://img.youtube.com/vi/7-P4KzyVpLI/0.jpg)](https://www.youtube.com/watch?v=7-P4KzyVpLI)
-
+![DR ZOÉ RECADRE ALICE CORDIER ET LES CHOUINEUSES DE NÉMÉSIS !!](https://www.youtube.com/watch?v=7-P4KzyVpLI)
 ## Résumé
 
 Vidéo publiée le 28 juin 2024, 3 jours avant le premier tour des législatives. [[Dr Zoe]] et [[Padu]] réagissent à une action de [[Collectif Nemesis|Némésis]] qui s'est infiltrée dans une manifestation de gauche et présenté ses militantes comme victimes de violences après avoir été expulsées. Zoé établit la distinction centrale : la conflictualité politique n'est pas de la "violence faite aux femmes", et des femmes peuvent être des militantes fascistes.

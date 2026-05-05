@@ -12,8 +12,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/société #thème/féminisme #thème/masculinisme #enjeu/féminisme-matérialiste
 
-[![DR ZOE APPREND A BAISER A CE PUCIX](https://img.youtube.com/vi/VfJEVMhuWlw/0.jpg)](https://www.youtube.com/watch?v=VfJEVMhuWlw)
-
+![DR ZOE APPREND A BAISER A CE PUCIX](https://www.youtube.com/watch?v=VfJEVMhuWlw)
 # DR ZOÉ apprend à B4I$ER à ce PUCIX !! (@pasduhring x @Dr_Zoé_YT)
 
 ## Résumé

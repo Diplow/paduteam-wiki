@@ -11,8 +11,7 @@ skill_version: "1.0"
 
 # MÉLENCHON DRAGUE LES PETITS PATRONS !?
 
-[![MÉLENCHON DRAGUE LES PETITS PATRONS !?](https://img.youtube.com/vi/bSHi37snhMM/0.jpg)](https://www.youtube.com/watch?v=bSHi37snhMM)
-
+![MÉLENCHON DRAGUE LES PETITS PATRONS !?](https://www.youtube.com/watch?v=bSHi37snhMM)
 ## Résumé
 
 React de la PaduTeam sur l'annonce de [[France Insoumise|LFI]] de draguer les petits patrons et les TPE-PME, à partir d'extraits de [[Jean-Luc Melenchon]] et d'[[Aurelie Trouvee|Aurélie Trouvé]]. La PaduTeam soutient l'intuition de fracturer le patronat pour unifier le salariat, mais critique sévèrement les moyens proposés : du protectionnisme keynésien anachronique, une confusion entre patron et salarié, et un programme qui ne permettra pas de transformer réellement l'appareil de production. Leur contre-proposition : conditionner les aides publiques aux TPE-PME à l'entrée de 51 % de pouvoir salarié dans les conseils d'administration.

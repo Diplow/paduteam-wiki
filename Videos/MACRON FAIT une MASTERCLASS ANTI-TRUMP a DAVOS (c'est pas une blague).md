@@ -10,8 +10,7 @@ skill_version: ingest-video-2026-04-22
 ---
 #domaine/géopolitique #domaine/économie #thème/États-Unis #thème/anti-impérialisme #enjeu/anti-imperialisme #enjeu/campisme-assume
 
-[![MACRON FAIT une MASTERCLASS ANTI-TRUMP à DAVOS (c'est pas une blague)](https://img.youtube.com/vi/m_yowJv-TVw/0.jpg)](https://www.youtube.com/watch?v=m_yowJv-TVw)
-
+![MACRON FAIT une MASTERCLASS ANTI-TRUMP à DAVOS (c'est pas une blague)](https://www.youtube.com/watch?v=m_yowJv-TVw)
 # MACRON FAIT une MASTERCLASS ANTI-TRUMP à DAVOS (c'est pas une blague)
 
 **Date** : 22 janvier 2026

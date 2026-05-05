@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #thème/élections #thème/stratégie-électorale #thème/guerre-des-gauches #enjeu/union-populaire #enjeu/plus-jamais-PS
 
-[![LES PIRES ET LES MEILLEURES VILLES DE FRANCE : COMMENT VOTER STRATÉGIQUEMENT AU MUNICIPALES](https://img.youtube.com/vi/j3i6i2FI5YE/0.jpg)](https://www.youtube.com/watch?v=j3i6i2FI5YE)
-
+![LES PIRES ET LES MEILLEURES VILLES DE FRANCE : COMMENT VOTER STRATÉGIQUEMENT AU MUNICIPALES](https://www.youtube.com/watch?v=j3i6i2FI5YE)
 # LES PIRES ET LES MEILLEURES VILLES DE FRANCE : COMMENT VOTER STRATÉGIQUEMENT AU MUNICIPALES
 
 ## Résumé

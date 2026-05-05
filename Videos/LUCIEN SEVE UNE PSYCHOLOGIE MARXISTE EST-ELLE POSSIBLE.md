@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/société #thème/psychiatrie-psychologie #thème/théorie
 
+![LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE](https://www.youtube.com/watch?v=zp-Oi6dkzgU)
+
 # LUCIEN SÈVE UNE PSYCHOLOGIE MARXISTE EST-ELLE POSSIBLE
 
 ## Résumé

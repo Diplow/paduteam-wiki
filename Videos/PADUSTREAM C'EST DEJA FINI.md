@@ -11,6 +11,8 @@ aliases: [PADUSTREAM C'EST DÉJÀ FINI]
 ---
 #domaine/société #thème/médias-propagande #enjeu/union-populaire
 
+![PADUSTREAM C'EST DÉJÀ FINI !!](https://www.youtube.com/watch?v=LxwZ1JIvNtE)
+
 # PADUSTREAM C'EST DÉJÀ FINI !!
 
 ## Résumé

@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![L'ALLIANCE MÉLENCHON-GLUCKSMANN : FAUSSE BONNE IDÉE](https://www.youtube.com/watch?v=snQlvsjgr24)
+
 # L'ALLIANCE MÉLENCHON-GLUCKSMANN : FAUSSE BONNE IDÉE
 
 ## Résumé

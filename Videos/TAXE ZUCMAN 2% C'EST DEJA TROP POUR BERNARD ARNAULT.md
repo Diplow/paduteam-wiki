@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/économie #domaine/politique-intérieure #thème/travail #thème/guerre-des-gauches #enjeu/plus-jamais-PS
 
-[![TAXE ZUCMAN : 2% C'EST DÉJÀ TROP POUR BERNARD ARNAULT](https://img.youtube.com/vi/OOcX-XbD57k/0.jpg)](https://www.youtube.com/watch?v=OOcX-XbD57k)
-
+![TAXE ZUCMAN : 2% C'EST DÉJÀ TROP POUR BERNARD ARNAULT](https://www.youtube.com/watch?v=OOcX-XbD57k)
 # TAXE ZUCMAN : 2% C'EST DÉJÀ TROP POUR BERNARD ARNAULT
 
 ## Résumé

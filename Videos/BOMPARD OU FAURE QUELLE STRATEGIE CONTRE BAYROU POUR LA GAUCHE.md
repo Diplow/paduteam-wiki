@@ -10,8 +10,7 @@ skill_version: "ingest-batch-2026-04-21"
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/travail #enjeu/union-populaire #enjeu/plus-jamais-PS
 
-[![BOMPARD ou FAURE : QUELLE STRATÉGIE contre BAYROU pour la GAUCHE ?](https://img.youtube.com/vi/vbTYjzrPovg/0.jpg)](https://www.youtube.com/watch?v=vbTYjzrPovg)
-
+![BOMPARD ou FAURE : QUELLE STRATÉGIE contre BAYROU pour la GAUCHE ?](https://www.youtube.com/watch?v=vbTYjzrPovg)
 # BOMPARD ou FAURE : QUELLE STRATÉGIE contre BAYROU pour la GAUCHE ?
 
 ## Résumé

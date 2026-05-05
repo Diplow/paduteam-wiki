@@ -11,8 +11,7 @@ date modified: Thursday, April 23rd 2026, 12:00:00 pm
 ---
 #domaine/géopolitique #domaine/politique-intérieure #thème/anti-impérialisme #thème/Iran #thème/médias-propagande #thème/guerre-des-gauches #thème/OTAN #enjeu/anti-impérialisme #enjeu/campisme-assumé
 
-[![IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)](https://img.youtube.com/vi/yPJKov273gs/0.jpg)](https://www.youtube.com/watch?v=yPJKov273gs)
-
+![IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)](https://www.youtube.com/watch?v=yPJKov273gs)
 # IRAN: LA PIRE PROPAGANDE DE GUERRE (MÊME LFI TOMBE DEDANS)
 
 Capsule enregistrée le 4 mars 2026, une semaine après les frappes américano-israéliennes sur l'Iran (27 février 2026). La PaduTeam fait le point sur la propagande de guerre, décortique les vraies raisons de l'attaque (pétrodollar), et critique les réactions de membres de LFI.

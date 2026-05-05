@@ -9,8 +9,7 @@ skill_version: ingest-batch-2026-04-24
 ---
 #domaine/société #domaine/théorie #domaine/politique-intérieure #thème/féminisme #thème/travail #thème/santé #enjeu/féminisme-matérialiste
 
-[![TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !](https://img.youtube.com/vi/bPvVHaMzt7k/0.jpg)](https://www.youtube.com/watch?v=bPvVHaMzt7k)
-
+![TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !](https://www.youtube.com/watch?v=bPvVHaMzt7k)
 # TONDELIER ENCEINTE : ELLE POLITISE (MAL) SA GROSSESSE !
 
 React à une interview de [[Marine Tondelier]] sur sa grossesse, menée par Darius Rochebin. La PaduTeam salue l'intention de politiser la grossesse et la fausse couche — mais démonte la proposition concrète qui en découle (le congé fausse couche spécifique) comme un exemple paradigmatique du féminisme bourgeois : droit particulier là où il faudrait un droit universel, gestion de la pénurie là où il faudrait l'abondance organisée.

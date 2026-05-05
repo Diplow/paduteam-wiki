@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-25
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/le-Graphique #thème/racisme-antiracisme #thème/médias-propagande #enjeu/bataille-culturelle
 
-[![CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)](https://img.youtube.com/vi/X0tXWZsjENQ/0.jpg)](https://www.youtube.com/watch?v=X0tXWZsjENQ)
-
+![CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)](https://www.youtube.com/watch?v=X0tXWZsjENQ)
 # CHARLIE HEBDO EST-IL RÉACTIONNAIRE ? (GRAPHOMARXISME avec Chris de Positions Revue)
 
 ## Résumé

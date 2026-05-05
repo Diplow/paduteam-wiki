@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire
 
+![RUFFIN LANCE SON PARTI DEBOUT](https://www.youtube.com/watch?v=XhU0kCHHN0c)
+
 # RUFFIN LANCE SON PARTI DEBOUT
 
 ## Résumé

@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/VSS #thème/médias-propagande
 
+![PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME](https://www.youtube.com/watch?v=rKW1LNNPgzQ)
+
 # PSYHODELIK AVOUE AVOIR AGRESSÉ PHYSIQUEMENT UNE FEMME
 
 ## Résumé

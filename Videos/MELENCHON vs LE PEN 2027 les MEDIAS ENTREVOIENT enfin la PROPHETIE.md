@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire
 
+![MÉLENCHON vs LE PEN 2027 : les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE !](https://www.youtube.com/watch?v=CtcgvYAC9U4)
+
 # MÉLENCHON vs LE PEN 2027 : les MÉDIAS ENTREVOIENT enfin la PROPHÉTIE !
 
 ## Résumé

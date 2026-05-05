@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/médias-propagande #thème/le-Graphique #enjeu/bataille-culturelle
 
-[![MARION MARÉCHAL FURIEUSE : ELLE VEUT TERRASSER LA GAUCHE](https://img.youtube.com/vi/cGPXQkDfxkc/0.jpg)](https://www.youtube.com/watch?v=cGPXQkDfxkc)
-
+![MARION MARÉCHAL FURIEUSE : ELLE VEUT TERRASSER LA GAUCHE](https://www.youtube.com/watch?v=cGPXQkDfxkc)
 # MARION MARÉCHAL FURIEUSE : ELLE VEUT TERRASSER LA GAUCHE
 
 ## Résumé

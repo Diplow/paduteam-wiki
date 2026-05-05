@@ -12,8 +12,7 @@ skill_version: write-video-2026-04-25
 
 # BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ?
 
-[![BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ?](https://img.youtube.com/vi/XCVIN2-MAww/0.jpg)](https://www.youtube.com/watch?v=XCVIN2-MAww)
-
+![BARDELLA VS LE PEN : GUERRE AU RN ET CHANGEMENT DE LIGNE ?](https://www.youtube.com/watch?v=XCVIN2-MAww)
 ## Résumé
 
 Analyse de la scission bardellistes/marinistes au [[Rassemblement National]], à partir d'un article du Monde de Clément Guillou et Corentin Le Suur. La PaduTeam documente l'arrivée de [[Francois Durvi]] (conseiller pro-libéral, ex-bras droit de [[Pierre-Edouard Sterin]]) comme conseiller spécial de [[Jordan Bardella]], la paralysie interne causée par l'entourage de yes-men, et la tension de ligne entre l'héritage souverainiste-étatiste de [[Marine Le Pen]] et le tournant libéral de Bardella. La PaduTeam confirme la prophétie du [[Graphique]] : deux équipes distinctes dans la campagne, et la seule issue pour Bardella reste la [[Strategie Chirac 74]] — trahir pour exister.

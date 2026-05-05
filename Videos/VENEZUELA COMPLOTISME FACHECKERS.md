@@ -12,8 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # VENEZUELA : LE COMPLOTISME AUTORISÉ DES FACTCHECKERS !
 
-[![](https://img.youtube.com/vi/7vXUMQHriVs/0.jpg)](https://www.youtube.com/watch?v=7vXUMQHriVs)
-
+![](https://www.youtube.com/watch?v=7vXUMQHriVs)
 ## Résumé
 
 Déconstruction de la propagande de guerre médiatique autour du Venezuela. La PaduTeam analyse comment les "fact-checkers" institutionnels servent la [[Guerre psychologique imperialiste]] en qualifiant de "complotisme" toute analyse anti-impérialiste, tout en laissant circuler sans vérification les thèses des services de renseignement américains.

@@ -12,6 +12,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #thème/féminisme #thème/racisme-antiracisme
 
+![IMANE KHELIF  les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME  (JO 2024)](https://www.youtube.com/watch?v=O5snda5fgSQ)
+
 # IMANE KHELIF  les TRANSPHOBES considèrent cette FEMME BIOLOGIQUE COMME UN HOMME  (JO 2024)
 
 ## Résumé

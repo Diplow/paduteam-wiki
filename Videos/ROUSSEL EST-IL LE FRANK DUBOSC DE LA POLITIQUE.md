@@ -13,6 +13,8 @@ skill_version: "ingest-batch-2026-04-21"
 
 [Voir sur YouTube](https://www.youtube.com/watch?v=E_6pF5YK-CE)
 
+![ROUSSEL EST-IL LE FRANK DUBOSC DE LA POLITIQUE ?](https://www.youtube.com/watch?v=E_6pF5YK-CE)
+
 # ROUSSEL EST-IL LE FRANK DUBOSC DE LA POLITIQUE ?
 
 ## Résumé

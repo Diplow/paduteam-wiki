@@ -13,6 +13,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/politique-intérieure #thème/Palestine #thème/médias-propagande #thème/guerre-des-gauches #thème/racisme-antiracisme #enjeu/Palestine-libre #enjeu/sionisme-gauche-comme-menace
 
+![SOPHIA ARAM LA PRO-ISRAËL LA + CRINGE](https://www.youtube.com/watch?v=uOwfFzd8MZ8)
+
 # SOPHIA ARAM LA PRO-ISRAËL LA + CRINGE
 
 ## Résumé

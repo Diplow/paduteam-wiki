@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/le-Graphique #thème/guerre-des-gauches #thème/travail #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES](https://www.youtube.com/watch?v=f_Vwiwj32xw)
+
 # MÉLENCHON AFFRONTE une HORDE DE BOURGEOIS aux GRANDES GUEULES
 
 ## Résumé

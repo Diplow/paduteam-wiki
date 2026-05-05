@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/société #thème/racisme-antiracisme #thème/médias-propagande #enjeu/critique-de-la-fachosphere
 
-[![Un HIPSTER VIRÉ car MUSULMAN](https://img.youtube.com/vi/tzsOtvfIEvU/0.jpg)](https://www.youtube.com/watch?v=tzsOtvfIEvU)
-
+![Un HIPSTER VIRÉ car MUSULMAN](https://www.youtube.com/watch?v=tzsOtvfIEvU)
 # Un HIPSTER VIRÉ car MUSULMAN : PAYS de RACI$TES DÉGÉNÉRÉS ? (avec @Dr_Zoé_YT)
 
 ## Résumé

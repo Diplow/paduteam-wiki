@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/guerre-des-gauches #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN (avec Stathis Kouvelakis)](https://www.youtube.com/watch?v=4-j1k5auwOU)
+
 # LA BRÈCHE - FRONT POPULAIRE VS BARRAGE RÉPUBLICAIN (avec Stathis Kouvelakis)
 
 ## Résumé

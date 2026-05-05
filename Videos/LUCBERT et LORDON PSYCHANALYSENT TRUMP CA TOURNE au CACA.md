@@ -15,8 +15,7 @@ skill_version: write-video-2026-04-24
 
 # LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA
 
-[![LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA](https://img.youtube.com/vi/dqhm9fNiQ8A/0.jpg)](https://www.youtube.com/watch?v=dqhm9fNiQ8A)
-
+![LUCBERT et LORDON PSYCHANALYSENT TRUMP ÇA TOURNE au CACA](https://www.youtube.com/watch?v=dqhm9fNiQ8A)
 ## Résumé
 Padu (pédopsychiatre) et Chris passent au crible la démarche de [[Sandra Lucbert]] et [[Frederic Lordon]] qui, lors d'une conférence à la librairie Mola pour leur livre *Pulsion*, utilisent la psychanalyse de [[Melanie Klein]] (position schizo-paranoïde du nourrisson) pour analyser un mème de Trump (vidéo IA Top Gun avec excrément sur la population lors du No Kings Day). La PaduTeam démonte les impasses méthodologiques et politiques de cette approche et oppose une lecture marxiste-dialectique. La vidéo constitue aussi un développement théorique dense sur la [[Conscience et sujets collectifs|conscience comme pont individu-collectif]] et sur le parallèle entre psychanalyse politique, trotskisme liturgique et complotisme.
 

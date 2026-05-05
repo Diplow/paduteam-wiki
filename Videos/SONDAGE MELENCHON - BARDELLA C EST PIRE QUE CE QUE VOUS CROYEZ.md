@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire
 
+![SONDAGE MÉLENCHON - BARDELLA : C'EST PIRE QUE CE QUE VOUS CROYEZ !!](https://www.youtube.com/watch?v=JDf6IuE2dVA)
+
 # SONDAGE MÉLENCHON - BARDELLA : C'EST PIRE QUE CE QUE VOUS CROYEZ !!
 
 ## Résumé

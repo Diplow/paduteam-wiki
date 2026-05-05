@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-25
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/psychiatrie-psychologie #enjeu/Feminisme-materialiste
 
-[![THAÏS les VSS l'ont rendue NAZIE !?](https://img.youtube.com/vi/4MLEHjkr7Rs/0.jpg)](https://www.youtube.com/watch?v=4MLEHjkr7Rs)
-
+![THAÏS les VSS l'ont rendue NAZIE !?](https://www.youtube.com/watch?v=4MLEHjkr7Rs)
 # THAÏS — les VSS l'ont rendue NAZIE !
 
 ## Résumé

@@ -12,8 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # LE VENEZUELA S'EST VENDU À TRUMP ET LA CIA
 
-[![](https://img.youtube.com/vi/BAZDH2-S8xg/0.jpg)](https://www.youtube.com/watch?v=BAZDH2-S8xg)
-
+![](https://www.youtube.com/watch?v=BAZDH2-S8xg)
 ## Résumé
 
 Réponse à la thèse "le Venezuela a trahi la révolution en négociant avec les États-Unis sous [[Delcy Rodriguez]]". La PaduTeam déconstruit la photo Delcy/CIA circulant sur les réseaux comme preuve de trahison, et développe le cadre théorique de la [[Retraite tactique bolivarienne]] ([[Brest-Litovsk des Caraibes]]) appuyé sur Samir Amine et la contradiction centre/périphérie.

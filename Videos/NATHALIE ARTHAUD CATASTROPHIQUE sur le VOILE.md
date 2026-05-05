@@ -14,8 +14,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/politique-intérieure #domaine/société #thème/féminisme #thème/racisme-antiracisme #thème/guerre-des-gauches
 
-[![NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!](https://img.youtube.com/vi/PCTAW_j9JAQ/0.jpg)](https://www.youtube.com/watch?v=PCTAW_j9JAQ)
-
+![NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE !!](https://www.youtube.com/watch?v=PCTAW_j9JAQ)
 # NATHALIE ARTHAUD CATASTROPHIQUE sur le VOILE
 
 ## Résumé

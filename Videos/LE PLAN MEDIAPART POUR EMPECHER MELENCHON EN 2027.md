@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-23
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/médias-propagande #enjeu/union-populaire
 
-[![LE PLAN MEDIAPART POUR EMPÊCHER MÉLENCHON EN 2027](https://img.youtube.com/vi/hC5OFGoKrII/0.jpg)](https://www.youtube.com/watch?v=hC5OFGoKrII)
-
+![LE PLAN MEDIAPART POUR EMPÊCHER MÉLENCHON EN 2027](https://www.youtube.com/watch?v=hC5OFGoKrII)
 # LE PLAN MEDIAPART POUR EMPÊCHER MÉLENCHON EN 2027
 
 ## Résumé

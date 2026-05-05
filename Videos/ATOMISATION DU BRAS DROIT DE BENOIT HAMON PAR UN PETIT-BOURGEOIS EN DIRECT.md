@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/politique-intérieure #thème/le-Graphique #thème/travail #thème/guerre-des-gauches
 
+![ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT !!](https://www.youtube.com/watch?v=IpS_wmPph0Q)
+
 # ATOMISATION DU BRAS DROIT DE BENOIT HAMON PAR UN PETIT-BOURGEOIS EN DIRECT !!
 
 ## Résumé

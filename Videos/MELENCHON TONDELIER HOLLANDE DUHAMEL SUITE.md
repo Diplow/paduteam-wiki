@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/plus-jamais-PS #enjeu/union-populaire
 
+![MÉLENCHON, TONDELIER, HOLLANDE, ON CONTINUE L'ANALYSE CLAQUÉE DE DUHAMEL !!](https://www.youtube.com/watch?v=G7buQImilu0)
+
 # MÉLENCHON, TONDELIER, HOLLANDE, ON CONTINUE L'ANALYSE CLAQUÉE DE DUHAMEL !!
 
 ## Résumé

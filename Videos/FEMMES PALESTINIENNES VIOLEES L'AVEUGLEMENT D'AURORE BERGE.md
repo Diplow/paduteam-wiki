@@ -11,8 +11,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/géopolitique #domaine/société #thème/Palestine #thème/féminisme #thème/médias-propagande #enjeu/Palestine-libre
 
-[![FEMMES PALESTINIENNES VILÉES L'AVEUGLEMENT D'AURORE BERGÉ](https://img.youtube.com/vi/Y74w11dUXsM/0.jpg)](https://www.youtube.com/watch?v=Y74w11dUXsM)
-
+![FEMMES PALESTINIENNES VILÉES L'AVEUGLEMENT D'AURORE BERGÉ](https://www.youtube.com/watch?v=Y74w11dUXsM)
 # FEMMES PALESTINIENNES VIOLÉES — L'AVEUGLEMENT D'AURORE BERGÉ
 
 ## Résumé

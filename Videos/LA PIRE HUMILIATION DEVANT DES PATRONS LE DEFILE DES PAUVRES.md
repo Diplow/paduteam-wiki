@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/économie #domaine/théorie #thème/travail #thème/lutte-des-classes #enjeu/union-populaire
 
-[![LA PIRE HUMILIATION DEVANT DES PATRONS : LE DÉFILÉ DES PAUVRES](https://img.youtube.com/vi/NiyULKHmm0k/0.jpg)](https://www.youtube.com/watch?v=NiyULKHmm0k)
-
+![LA PIRE HUMILIATION DEVANT DES PATRONS : LE DÉFILÉ DES PAUVRES](https://www.youtube.com/watch?v=NiyULKHmm0k)
 # LA PIRE HUMILIATION DEVANT DES PATRONS : LE DÉFILÉ DES PAUVRES
 
 ## Résumé

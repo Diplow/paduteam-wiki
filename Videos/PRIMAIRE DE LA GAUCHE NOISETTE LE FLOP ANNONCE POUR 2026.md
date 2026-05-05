@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/plus-jamais-PS #enjeu/union-populaire
 
+![PRIMAIRE DE LA GAUCHE NOISETTE  LE FLOP ANNONCÉ POUR 2026 !](https://www.youtube.com/watch?v=tjVIifoybys)
+
 # PRIMAIRE DE LA GAUCHE NOISETTE  LE FLOP ANNONCÉ POUR 2026 !
 
 ## Résumé

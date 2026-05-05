@@ -10,6 +10,8 @@ date modified: Monday, April 20th 2026, 1:27:50 pm
 ---
 #domaine/société #domaine/théorie #thème/trajectoires-politiques #thème/féminisme #thème/racisme-antiracisme #thème/masculinisme
 
+![PAYE TON DROITARD #7.1 — PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL !](https://www.youtube.com/watch?v=9AJZrCZJvPk)
+
 # PAYE TON DROITARD #7.1 — PADU, L'ADO CONFUS qui apprend à BAI$ER avec SORAL !
 
 ## Résumé

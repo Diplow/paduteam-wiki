@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/théorie #domaine/société #thème/féminisme #thème/Palestine
 
+![SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhring x Chris)](https://www.youtube.com/watch?v=OvZcYM5_3UQ)
+
 # SANDRA LUCBERT nous ATOMISE chez DANY et RAZ !! (@pasduhring x Chris)
 
 ## Résumé

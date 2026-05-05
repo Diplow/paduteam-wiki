@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #thème/élections #thème/guerre-des-gauches #enjeu/plus-jamais-PS
 
-[![GABRIEL ATTAL DÉMOLIT MACRON : "MACRON C'EST LE CHAOS !"](https://img.youtube.com/vi/EBnP9iDWSC8/0.jpg)](https://www.youtube.com/watch?v=EBnP9iDWSC8)
-
+![GABRIEL ATTAL DÉMOLIT MACRON : "MACRON C'EST LE CHAOS !"](https://www.youtube.com/watch?v=EBnP9iDWSC8)
 # GABRIEL ATTAL DÉMOLIT MACRON : "MACRON C'EST LE CHAOS !"
 
 ## Résumé

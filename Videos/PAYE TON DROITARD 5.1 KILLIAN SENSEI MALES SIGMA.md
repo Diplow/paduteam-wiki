@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/société #domaine/théorie #thème/féminisme #thème/masculinisme
 
+![PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA](https://www.youtube.com/watch?v=6Efl9NtTZ1s)
+
 # PAYE TON DROITARD #5.1 — KILLIAN SENSEÏ NOUS APPREND À ÊTRE DES MÂLES SIGMA
 
 ## Résumé

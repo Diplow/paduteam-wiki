@@ -12,8 +12,7 @@ date modified: Monday, April 21st 2026, 12:00:00 pm
 ---
 #domaine/société #thème/féminisme #thème/emprise-conjugale #enjeu/féminisme-matérialiste
 
-[![NOTRE AVIS SUR L AFFAIRE DANY CALIGULA](https://img.youtube.com/vi/Y_0NH-ECbGo/0.jpg)](https://www.youtube.com/watch?v=Y_0NH-ECbGo)
-
+![NOTRE AVIS SUR L AFFAIRE DANY CALIGULA](https://www.youtube.com/watch?v=Y_0NH-ECbGo)
 # Notre AVIS sur l'AFFAIRE DANY CALIGULA !! (@Dr_Zoé_YT X @pasduhring)
 
 ## Résumé

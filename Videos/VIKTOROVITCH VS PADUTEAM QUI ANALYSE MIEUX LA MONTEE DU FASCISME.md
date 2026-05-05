@@ -9,8 +9,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/théorie #thème/médias-propagande #thème/guerre-des-gauches #thème/le-Graphique #enjeu/guerre-des-gauches
 
-[![VIKTOROVITCH VS PADUTEAM : QUI ANALYSE MIEUX LA MONTÉE DU FASCISME ?](https://img.youtube.com/vi/RxV2ICVzwlQ/0.jpg)](https://www.youtube.com/watch?v=RxV2ICVzwlQ)
-
+![VIKTOROVITCH VS PADUTEAM : QUI ANALYSE MIEUX LA MONTÉE DU FASCISME ?](https://www.youtube.com/watch?v=RxV2ICVzwlQ)
 # VIKTOROVITCH VS PADUTEAM : QUI ANALYSE MIEUX LA MONTÉE DU FASCISME ?
 
 ## Résumé

@@ -12,8 +12,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/élections #thème/le-Graphique #thème/médias-propagande #enjeu/union-populaire #enjeu/plus-jamais-PS
 
-[![SONDAGE ANTI-MÉLENCHON : L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR](https://img.youtube.com/vi/sk8a235f5Js/0.jpg)](https://www.youtube.com/watch?v=sk8a235f5Js)
-
+![SONDAGE ANTI-MÉLENCHON : L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR](https://www.youtube.com/watch?v=sk8a235f5Js)
 # SONDAGE ANTI-MÉLENCHON : L'IFOP MET L'EXTRÊME DROITE À 62% AU 1ER TOUR
 
 ## Résumé

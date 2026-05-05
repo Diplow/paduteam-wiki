@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-20
 ---
 #domaine/économie #domaine/société #thème/travail #thème/santé #enjeu/defense-service-public
 
-[![GUILLAUME KASBARIAN LE MINISTRE QUI DÉTESTE LES FONCTIONNAIRES](https://img.youtube.com/vi/cLfeliDVdDA/0.jpg)](https://www.youtube.com/watch?v=cLfeliDVdDA)
-
+![GUILLAUME KASBARIAN LE MINISTRE QUI DÉTESTE LES FONCTIONNAIRES](https://www.youtube.com/watch?v=cLfeliDVdDA)
 # GUILLAUME KASBARIAN LE MINISTRE QUI DÉTESTE LES FONCTIONNAIRES
 
 ## Résumé

@@ -9,8 +9,7 @@ skill_version: ingest-batch-2026-04-22
 ---
 #domaine/société #domaine/économie #thème/santé #thème/corpo-médicale #thème/travail
 
-[![GRÈVE DES MÉDECINS : CAPRICE DE RICHES OU LUTTE LÉGITIME ?](https://img.youtube.com/vi/nGt2B6jgMaI/0.jpg)](https://www.youtube.com/watch?v=nGt2B6jgMaI)
-
+![GRÈVE DES MÉDECINS : CAPRICE DE RICHES OU LUTTE LÉGITIME ?](https://www.youtube.com/watch?v=nGt2B6jgMaI)
 # GRÈVE DES MÉDECINS : CAPRICE DE RICHES OU LUTTE LÉGITIME ?
 
 ## Résumé

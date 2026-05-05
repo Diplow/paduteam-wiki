@@ -11,6 +11,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/élections #enjeu/union-populaire #enjeu/le-Graphique #enjeu/campisme-assumé
 
+![LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES !!](https://www.youtube.com/watch?v=A3vdhX9Ocfg)
+
 # LES MILITANTS DE L'APRÈS ET LES PRO-ROUSSEL SONT CATASTROPHIQUES !!
 
 ## Résumé

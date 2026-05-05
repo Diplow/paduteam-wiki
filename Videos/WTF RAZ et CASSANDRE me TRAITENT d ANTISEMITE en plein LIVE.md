@@ -10,8 +10,7 @@ skill_version: write-video-2026-04-21
 ---
 #domaine/politique-intérieure #domaine/société #thème/guerre-des-gauches #thème/médias-propagande #enjeu/confusionnisme-rouge-brun
 
-[![WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉMITE en plein LIVE](https://img.youtube.com/vi/XUV5jjcnOO0/0.jpg)](https://www.youtube.com/watch?v=XUV5jjcnOO0)
-
+![WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉMITE en plein LIVE](https://www.youtube.com/watch?v=XUV5jjcnOO0)
 # WTF RAZ et CASSANDRE me TRAITENT d'ANTISÉMITE en plein LIVE !!
 
 ## Résumé

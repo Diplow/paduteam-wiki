@@ -10,6 +10,8 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 ---
 #domaine/politique-intérieure #thème/guerre-des-gauches #thème/le-Graphique #thème/médias-propagande #thème/élections #enjeu/union-populaire #enjeu/plus-jamais-PS
 
+![LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN](https://www.youtube.com/watch?v=02KZ0I1Anqc)
+
 # LEGRAND ET COHEN COMPLOTENT POUR PLACER GLUCKSMANN
 
 ## Résumé

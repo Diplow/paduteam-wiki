@@ -11,8 +11,7 @@ date modified: Monday, April 21st 2026, 12:00:00 am
 ---
 #domaine/société #domaine/théorie #thème/VSS #thème/féminisme #thème/masculinisme
 
-[![HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES !](https://img.youtube.com/vi/1V7Xml-44jQ/0.jpg)](https://www.youtube.com/watch?v=1V7Xml-44jQ)
-
+![HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES !](https://www.youtube.com/watch?v=1V7Xml-44jQ)
 # HELYDIAFUGU — COMMENT INTERNET SOUTIENT LES VIOLENCES CONJUGALES
 
 ## Résumé

@@ -11,8 +11,7 @@ skill_version: write-video-2026-04-23
 
 # BARDELLA est-il le MAILLON FAIBLE du RN ?
 
-[![BARDELLA est-il le MAILLON FAIBLE du RN ? (Blocage des prix, Trump, etc...)](https://img.youtube.com/vi/ukGofdDhUmk/0.jpg)](https://www.youtube.com/watch?v=ukGofdDhUmk)
-
+![BARDELLA est-il le MAILLON FAIBLE du RN ? (Blocage des prix, Trump, etc...)](https://www.youtube.com/watch?v=ukGofdDhUmk)
 ## Résumé
 
 Capsule en format dialogue sur l'accélération du "longfall" de [[Jordan Bardella]]. La PaduTeam décortique trois extraits révélateurs — son refus du blocage des prix, sa tentative d'alliance avec LR aux municipales 2026, et sa prestation catastrophique sur un plateau télé — pour montrer que Bardella n'incarne pas seulement une nullité individuelle mais une **contradiction structurelle** du [[Rassemblement National]] : un parti bâti sur la captation de l'agacement populaire qui n'a jamais eu à proposer une cohérence de gouvernement.

@@ -15,8 +15,7 @@ date modified: Wednesday, April 15th 2026, 1:40:00 pm
 
 # NÉMÉSIS A MENTI LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE....
 
-[![NÉMÉSIS A MENTI LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE....](https://img.youtube.com/vi/ZOUKWB_eWbM/0.jpg)](https://www.youtube.com/watch?v=ZOUKWB_eWbM)
-
+![NÉMÉSIS A MENTI LA PREUVE ACCABLANTE QUI CHAMBOULE L'AFFAIRE....](https://www.youtube.com/watch?v=ZOUKWB_eWbM)
 ## Résumé
 
 Vidéo publiée le 26 février 2026, quelques jours après la mort de [[Quentin Deranque]] à Lyon lors d'affrontements provoqués par Némésis lors d'une conférence de [[Rima Hassan]]. La PaduTeam présente la preuve documentaire d'*L'Humanité* : des conversations internes entre la responsable lyonnaise de Némésis ("Ornela") et le chef d'[[Audace Lyon]] ("Calixy") qui prouvent la coordination préméditée des guet-apens. La PaduTeam développe ici la distinction conceptuelle fondamentale entre [[Femonationalisme]] et [[Feminisme raciste]].
