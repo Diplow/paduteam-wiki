@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-06-14
 youtube_id: _h7v0R4K1Nk
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, anti-impérialisme, racisme-antiracisme]

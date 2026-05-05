@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2024-12-29
 domaine: [société, théorie]
 thèmes: [médias-propagande, guerre-des-gauches]
 enjeux: []

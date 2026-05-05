@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-01-17
 domaine: [politique-intérieure, théorie]
 thèmes: [guerre-des-gauches, élections]
 enjeux: [plus-jamais-PS, union-populaire]

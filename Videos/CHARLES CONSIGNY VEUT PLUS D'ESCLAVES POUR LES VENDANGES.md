@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-08-24
 domaine: [économie, société]
 thèmes: [travail, racisme-antiracisme, ruralité, médias-propagande]
 enjeux: []

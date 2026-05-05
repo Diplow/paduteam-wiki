@@ -1,5 +1,6 @@
 ---
 type: video
+date: 2024-11-10
 youtube_id: mK41og88Zj0
 domaine: [géopolitique, politique-intérieure]
 thèmes: [États-Unis, élections, guerre-des-gauches, racisme-antiracisme, anti-impérialisme]

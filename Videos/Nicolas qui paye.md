@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-09
 domaine:
   - politique-intérieure
   - économie
@@ -12,7 +13,6 @@ enjeux:
   - union-populaire
 methodes:
   - Graphique
-date:
 date created: Wednesday, April 1st 2026, 7:17:11 am
 date modified: Wednesday, April 15th 2026, 1:40:00 pm
 youtube_id: fOEEjSA7QZk

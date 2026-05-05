@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-18
 domaine: [géopolitique]
 thèmes: [Palestine, anti-impérialisme, répression-justice]
 enjeux: [Palestine-libre, anti-impérialisme]

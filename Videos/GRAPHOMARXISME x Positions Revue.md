@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-01-26
 domaine: [politique-intérieure, théorie]
 thèmes: [élections]
 enjeux: [union-populaire]

@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-03
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches]
 enjeux: []

@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-25
 date: 2025-07-XX
 youtube_id: ZWe2l67rVIM
 domaine: [politique-intérieure, économie]

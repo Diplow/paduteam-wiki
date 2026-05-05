@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2026-02-23
 domaine: [politique-intérieure]
 thèmes: [élections, guerre-des-gauches, médias-propagande]
 enjeux: [plus-jamais-PS, union-populaire]

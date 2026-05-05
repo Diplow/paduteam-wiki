@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-04-25
 domaine: [économie, société, théorie]
 thèmes: [racisme-antiracisme, travail, ruralité]
 enjeux: []

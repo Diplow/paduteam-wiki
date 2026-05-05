@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-07
 domaine: [politique-intérieure]
 thèmes: [élections]
 enjeux: [union-populaire]

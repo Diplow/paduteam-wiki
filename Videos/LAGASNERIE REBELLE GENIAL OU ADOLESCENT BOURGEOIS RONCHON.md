@@ -1,5 +1,6 @@
 ---
 type: vidéo
+date: 2025-07-23
 date: 2025-07-XX
 youtube_id: jw1-EY_9DDc
 domaine: [théorie, société]
